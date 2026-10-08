@@ -1,6 +1,6 @@
 # Kyle Norton corpus — guide for Claude
 
-This folder holds everything Kyle Norton (CRO @ Owner.com, host of *The Revenue Leadership Podcast*) has said or written publicly, plus an LLM-maintained wiki built on top of it.
+This folder holds everything Kyle Norton (CRO at Lassie AI, previously CRO at Owner.com; host of *The Revenue Leadership Podcast*) has said or written publicly, plus an LLM-maintained wiki built on top of it.
 
 ## Answering questions
 
@@ -8,7 +8,8 @@ This folder holds everything Kyle Norton (CRO @ Owner.com, host of *The Revenue 
 2. Give Kyle's **current** position first, then how it changed, citing source pages and timestamps (`[[src-...]] @mm:ss`).
 3. If you need a verbatim quote, check the raw transcript in `kyle-norton-podcasts/episodes/.../transcript.md`.
 4. Transcripts have no speaker labels. On his own show the guest does most of the talking, so only attribute a line to Kyle when it's unambiguous.
-5. Publish date ≠ record date, and his numbers vary by venue. See the reconciliation section in `wiki/entities/owner-com.md` before calling a figure current.
+5. Everything here predates his move to Lassie AI. When he talks about "our" company, he means Owner.com.
+6. Publish date ≠ record date, and his numbers vary by venue. See the reconciliation section in `wiki/entities/owner-com.md` before calling a figure current.
 
 ## Adding new material
 

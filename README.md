@@ -1,8 +1,8 @@
 # Kyle Norton — Everything He's Said, Ready for Claude
 
-Every podcast, interview, Substack post and public post we could find from **Kyle Norton** (CRO @ Owner.com, host of *The Revenue Leadership Podcast*). It's organized so Claude (or any LLM) can answer "what does Kyle think about X?" with a timestamped citation. It also includes the scripts to pull in his newest material.
+Every podcast, interview, Substack post and public post we could find from **Kyle Norton**, CRO at *Lassie AI* (AI back-office automation for dental practices), previously CRO at Owner.com, and host of *The Revenue Leadership Podcast*. It's organized so Claude (or any LLM) can answer "what does Kyle think about X?" with a timestamped citation. It also includes the scripts to pull in his newest material.
 
-Published with Kyle's permission. Collected through 2026-10-05.
+Published with Kyle's permission. Collected through 2026-10-05, so the material covers his Owner.com years. His Lassie role is newer than anything here.
 
 ## What's inside
 
