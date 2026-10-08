@@ -1,0 +1,4192 @@
+[
+  {
+    "start": 0.0,
+    "duration": 4.32,
+    "text": "Founders fund is is one of the most legendary venture firms out there"
+  },
+  {
+    "start": 6.16,
+    "duration": 5.04,
+    "text": "It's a path that I think is exciting for a lot of operators why leave venture and come back to operating"
+  },
+  {
+    "start": 13.12,
+    "duration": 8.24,
+    "text": "Yeah, it just reinforces what you said founders fund is the best uh, and my experience there was uh,"
+  },
+  {
+    "start": 21.9,
+    "duration": 2.0,
+    "text": "exceptional, um, the"
+  },
+  {
+    "start": 24.48,
+    "duration": 3.36,
+    "text": "people that I was able to surround myself with were"
+  },
+  {
+    "start": 28.48,
+    "duration": 3.52,
+    "text": "um the best at their craft in the world and"
+  },
+  {
+    "start": 32.96,
+    "duration": 4.08,
+    "text": "Nothing, but just incredibly positive things to say about my experience there"
+  },
+  {
+    "start": 42.96,
+    "duration": 3.84,
+    "text": "Hello and welcome to the revenue leadership podcast by top line"
+  },
+  {
+    "start": 47.44,
+    "duration": 2.9,
+    "text": "I'm your host kyle norton cro at owner.com"
+  },
+  {
+    "start": 51.04,
+    "duration": 6.16,
+    "text": "And every wednesday, we dive deep into the strategies and tactics being used to drive success"
+  },
+  {
+    "start": 57.84,
+    "duration": 2.0,
+    "text": "by the best revenue leaders in the world"
+  },
+  {
+    "start": 60.64,
+    "duration": 6.16,
+    "text": "So join me as I sit down with revenue operators to discuss actionable frameworks that you can implement in your business today"
+  },
+  {
+    "start": 67.36,
+    "duration": 3.46,
+    "text": "With no fluff no sales pitches and no platitudes"
+  },
+  {
+    "start": 72.0,
+    "duration": 2.0,
+    "text": "But first a word from our sponsors"
+  },
+  {
+    "start": 79.92,
+    "duration": 2.1,
+    "text": "This episode is brought to you by momentum.io"
+  },
+  {
+    "start": 82.98,
+    "duration": 4.96,
+    "text": "Momentum is a powerful tool for turning sales and customer conversations into go-to-market data"
+  },
+  {
+    "start": 88.66,
+    "duration": 5.2,
+    "text": "Using gen.ai it extracts analyzes and automates customer intelligence across your org"
+  },
+  {
+    "start": 94.66,
+    "duration": 2.96,
+    "text": "The best part it's not a new platform for your team to adopt"
+  },
+  {
+    "start": 97.78,
+    "duration": 5.36,
+    "text": "It integrates seamlessly with your existing stack and writes data back to salesforce directly"
+  },
+  {
+    "start": 103.94,
+    "duration": 6.9,
+    "text": "Some of the most innovative companies out there like zscaler demand based ramp one password and even my company owner.com"
+  },
+  {
+    "start": 111.56,
+    "duration": 2.24,
+    "text": "Use momentum every single day to"
+  },
+  {
+    "start": 114.76,
+    "duration": 6.56,
+    "text": "Capture forecast and churn risk autofill salesforce fields share product signals and track sentiment"
+  },
+  {
+    "start": 122.04,
+    "duration": 2.42,
+    "text": "So check it out with a free trial at momentum.io"
+  },
+  {
+    "start": 126.84,
+    "duration": 4.4,
+    "text": "Mr. Stan blonde welcome to the podcast appreciate you joining me kyle. Thanks for having me"
+  },
+  {
+    "start": 131.48,
+    "duration": 3.28,
+    "text": "Uh, you're a legend and i'm looking forward to spending some time with you"
+  },
+  {
+    "start": 135.64,
+    "duration": 0.88,
+    "text": "awesome"
+  },
+  {
+    "start": 136.52,
+    "duration": 2.0,
+    "text": "um, so"
+  },
+  {
+    "start": 138.68,
+    "duration": 5.36,
+    "text": "Before we dive in and talk about building leaders, uh, give everybody your 60 second backgrounder"
+  },
+  {
+    "start": 144.68,
+    "duration": 1.44,
+    "text": "perfect, uh"
+  },
+  {
+    "start": 146.12,
+    "duration": 5.52,
+    "text": "I grew up in kansas city went to university of missouri when I finished college didn't really know what I wanted to do"
+  },
+  {
+    "start": 152.2,
+    "duration": 3.28,
+    "text": "I was lucky that my brother was in the bay area doing tech sales"
+  },
+  {
+    "start": 156.12,
+    "duration": 4.5,
+    "text": "Uh, I joined a company called echo sign as an sdr. This is back in 2008"
+  },
+  {
+    "start": 161.4,
+    "duration": 5.94,
+    "text": "Uh was again very lucky that echo sign turned out to be a relatively successful"
+  },
+  {
+    "start": 168.14,
+    "duration": 5.2,
+    "text": "Uh sas business, um and timing was good. Also you think about 2008 sas was sort of like just coming to market"
+  },
+  {
+    "start": 173.98,
+    "duration": 2.24,
+    "text": "Uh, jason lemkin was our ceo"
+  },
+  {
+    "start": 176.86,
+    "duration": 4.8,
+    "text": "uh, and the success of echo sign allowed me to grow my career from being an sdr to"
+  },
+  {
+    "start": 182.22,
+    "duration": 4.24,
+    "text": "Realizing several promotions over a pretty short period of time. I was with the business for five or six years"
+  },
+  {
+    "start": 186.94,
+    "duration": 3.44,
+    "text": "Um, I was then vp of sales at benefits for two and a half years"
+  },
+  {
+    "start": 190.86,
+    "duration": 6.16,
+    "text": "Uh joined very early left when we were about 70 million in arr and a four and a half billion dollar"
+  },
+  {
+    "start": 197.58,
+    "duration": 1.36,
+    "text": "uh valuation"
+  },
+  {
+    "start": 198.94,
+    "duration": 2.72,
+    "text": "Um was cro at brex again joined very early"
+  },
+  {
+    "start": 202.06,
+    "duration": 4.96,
+    "text": "Um left when we were about 400 million in interchange annualized interchange revenue"
+  },
+  {
+    "start": 207.58,
+    "duration": 5.06,
+    "text": "And uh, we have a 12 and a half billion dollar business. This is back in 2021 early 2022"
+  },
+  {
+    "start": 213.26,
+    "duration": 4.8,
+    "text": "Um, and then most recently, uh, I was a partner at founders fund for almost two years"
+  },
+  {
+    "start": 218.78,
+    "duration": 7.04,
+    "text": "And just started my own company. Uh, so that's the the hopefully 60 second version. Yeah. Yeah, very cool"
+  },
+  {
+    "start": 226.46,
+    "duration": 6.48,
+    "text": "I don't know if you've announced sort of what you're doing next. So maybe give people uh, the preview on what's what's coming up"
+  },
+  {
+    "start": 233.5,
+    "duration": 3.6,
+    "text": "yeah, um, i'm gonna be i'm a co-founder ceo of a"
+  },
+  {
+    "start": 237.66,
+    "duration": 6.24,
+    "text": "Startup that i'm going to build in the category of a sales system. So, um getting started on that not"
+  },
+  {
+    "start": 244.86,
+    "duration": 6.72,
+    "text": "You know sharing too many details at this point publicly, but really excited. Um have an incredible co-founding team and we're starting to build"
+  },
+  {
+    "start": 252.7,
+    "duration": 2.0,
+    "text": "Very cool. I love that"
+  },
+  {
+    "start": 254.7,
+    "duration": 2.0,
+    "text": "Uh, i'll be following closely"
+  },
+  {
+    "start": 256.86,
+    "duration": 1.2,
+    "text": "so, um"
+  },
+  {
+    "start": 258.06,
+    "duration": 2.34,
+    "text": "Founders fund is is one of the most legendary"
+  },
+  {
+    "start": 261.1,
+    "duration": 1.76,
+    "text": "venture firms out there"
+  },
+  {
+    "start": 262.86,
+    "duration": 1.36,
+    "text": "uh"
+  },
+  {
+    "start": 264.22,
+    "duration": 4.98,
+    "text": "It's a path that I think is exciting for a lot of operators. Why leave venture and come back to operating?"
+  },
+  {
+    "start": 271.1,
+    "duration": 8.24,
+    "text": "Yeah, it just reinforces what you said founders fund is the best, uh, and my experience there was uh,"
+  },
+  {
+    "start": 279.88,
+    "duration": 2.0,
+    "text": "exceptional, um the"
+  },
+  {
+    "start": 282.44,
+    "duration": 3.44,
+    "text": "People that I was able to surround myself with were"
+  },
+  {
+    "start": 286.44,
+    "duration": 3.52,
+    "text": "um the best at their craft in the world and"
+  },
+  {
+    "start": 290.52,
+    "duration": 6.72,
+    "text": "Um, nothing but just incredibly positive things to say about my experience there. I think um for me"
+  },
+  {
+    "start": 297.88,
+    "duration": 1.6,
+    "text": "uh, I"
+  },
+  {
+    "start": 299.48,
+    "duration": 3.06,
+    "text": "Missed and i'm excited to get back to operating"
+  },
+  {
+    "start": 303.08,
+    "duration": 6.4,
+    "text": "Um, and so, you know, maybe at some later stage of my career revisit the venture side"
+  },
+  {
+    "start": 309.48,
+    "duration": 5.68,
+    "text": "I don't I don't know. I just know that right now what I am starting to do is is what's right for me"
+  },
+  {
+    "start": 316.36,
+    "duration": 5.2,
+    "text": "Yeah, that makes a ton of sense. What what are you taking from your time in venture and applying as an operator?"
+  },
+  {
+    "start": 321.56,
+    "duration": 2.96,
+    "text": "What were some of the big sort of reframes seeing it from?"
+  },
+  {
+    "start": 325.16,
+    "duration": 2.0,
+    "text": "a different lens"
+  },
+  {
+    "start": 327.64,
+    "duration": 7.76,
+    "text": "Well, look I learned a lot about um how venture works, uh, and so can apply that to things like uh fundraising for this business"
+  },
+  {
+    "start": 335.96,
+    "duration": 8.4,
+    "text": "Um, I also was able to spend more time than I ever have with early stage founders and I think um"
+  },
+  {
+    "start": 345.7,
+    "duration": 7.24,
+    "text": "Understand more acutely the problems that startups have as it pertains to customer acquisition"
+  },
+  {
+    "start": 353.72,
+    "duration": 6.88,
+    "text": "um, and then how that sort of manifests in the existing set of systems that are available to people as"
+  },
+  {
+    "start": 360.84,
+    "duration": 2.8,
+    "text": "early founders sales reps and sales leaders"
+  },
+  {
+    "start": 364.12,
+    "duration": 5.92,
+    "text": "Um, and as you think about sort of the the technological innovation of ai and how that's going to change"
+  },
+  {
+    "start": 370.76,
+    "duration": 5.36,
+    "text": "Uh so much of what is status quo for the trailing several years. Um"
+  },
+  {
+    "start": 377.0,
+    "duration": 4.32,
+    "text": "That that really was like a guide for me in what needs to be built"
+  },
+  {
+    "start": 381.72,
+    "duration": 4.96,
+    "text": "And I think the experience of talking with so many early stage founders specifically about go to market"
+  },
+  {
+    "start": 386.76,
+    "duration": 3.3,
+    "text": "Which is what so many people reach out around because it's my background"
+  },
+  {
+    "start": 390.7,
+    "duration": 4.88,
+    "text": "Um, it gave me just like a much greater understanding of the thing that I am now building and so um"
+  },
+  {
+    "start": 395.58,
+    "duration": 5.36,
+    "text": "That is a a huge learning and takeaway and you know, i'm fortunate to have had that experience"
+  },
+  {
+    "start": 402.14,
+    "duration": 2.0,
+    "text": "Very cool. Um"
+  },
+  {
+    "start": 404.78,
+    "duration": 2.0,
+    "text": "So today we're going to avoid"
+  },
+  {
+    "start": 407.34,
+    "duration": 7.12,
+    "text": "a lot of your greatest hits of which there are a lot and uh, I would encourage everybody to to watch or listen to"
+  },
+  {
+    "start": 415.1,
+    "duration": 7.76,
+    "text": "Sam sasser talk from last year sasser. Europa talk very different topics, but tons to learn what I want to do is focus"
+  },
+  {
+    "start": 423.26,
+    "duration": 2.8,
+    "text": "narrowly in on leadership and leadership development"
+  },
+  {
+    "start": 426.7,
+    "duration": 5.92,
+    "text": "Um, I always knew you had a impressive alumni tree, you know, you just sort of see them all all over"
+  },
+  {
+    "start": 432.78,
+    "duration": 1.68,
+    "text": "They're speaking at places"
+  },
+  {
+    "start": 434.46,
+    "duration": 3.68,
+    "text": "But in I was doing some prep around this topic and did a linkedin recruiter search"
+  },
+  {
+    "start": 438.7,
+    "duration": 5.92,
+    "text": "And that alumni is even deeper than I thought just like some of the names matt plank hannah wilson jameson young"
+  },
+  {
+    "start": 445.1,
+    "duration": 2.4,
+    "text": "Robbie, allen, ashley kelly brandon boyle like"
+  },
+  {
+    "start": 448.14,
+    "duration": 5.36,
+    "text": "there there is a list of people that are all vps and senior level operators that have come out of"
+  },
+  {
+    "start": 454.14,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 455.34,
+    "duration": 5.76,
+    "text": "You know not a not a huge number of companies and are now doing super impactful things"
+  },
+  {
+    "start": 461.34,
+    "duration": 2.96,
+    "text": "And so I just want to spend today talking about how you think about"
+  },
+  {
+    "start": 465.08,
+    "duration": 1.3,
+    "text": "identifying"
+  },
+  {
+    "start": 466.38,
+    "duration": 3.68,
+    "text": "Hiring and promoting leaders and also how you think about building leaders"
+  },
+  {
+    "start": 470.62,
+    "duration": 0.88,
+    "text": "um"
+  },
+  {
+    "start": 471.5,
+    "duration": 2.56,
+    "text": "But just before we jump in like what does that?"
+  },
+  {
+    "start": 475.1,
+    "duration": 2.0,
+    "text": "list of people"
+  },
+  {
+    "start": 477.26,
+    "duration": 7.28,
+    "text": "Have in common, you know, what are the things that when when you look at your alumni are common traits and and"
+  },
+  {
+    "start": 485.1,
+    "duration": 3.38,
+    "text": "Like jump off the page for you. Um in reflection"
+  },
+  {
+    "start": 489.9,
+    "duration": 2.4,
+    "text": "I think every person on that list"
+  },
+  {
+    "start": 492.7,
+    "duration": 4.88,
+    "text": "Um, and and we could extend the list, uh as well i've been"
+  },
+  {
+    "start": 498.38,
+    "duration": 1.18,
+    "text": "um"
+  },
+  {
+    "start": 499.56,
+    "duration": 6.26,
+    "text": "incredibly fortunate to surround myself with some of my closest friends and uh,"
+  },
+  {
+    "start": 506.46,
+    "duration": 2.72,
+    "text": "I believe some of the greatest now sales leaders in the world"
+  },
+  {
+    "start": 509.74,
+    "duration": 0.8,
+    "text": "um"
+  },
+  {
+    "start": 510.54,
+    "duration": 2.88,
+    "text": "one thing that really stands out with that list and again"
+  },
+  {
+    "start": 514.06,
+    "duration": 4.34,
+    "text": "This sort of like extended list is everybody on that list started as an individual contributor"
+  },
+  {
+    "start": 519.04,
+    "duration": 6.08,
+    "text": "Um in an organization that I was the leader of whether it was"
+  },
+  {
+    "start": 525.74,
+    "duration": 6.74,
+    "text": "Zenefits or rex, um, and they started as individual contributors and I I think like"
+  },
+  {
+    "start": 533.28,
+    "duration": 2.16,
+    "text": "Sort of like me at echo sign"
+  },
+  {
+    "start": 536.0,
+    "duration": 1.52,
+    "text": "They were"
+  },
+  {
+    "start": 537.52,
+    "duration": 4.88,
+    "text": "At one point or for an extended period of time number one on the team"
+  },
+  {
+    "start": 543.12,
+    "duration": 2.0,
+    "text": "um, and so they were"
+  },
+  {
+    "start": 545.52,
+    "duration": 4.56,
+    "text": "Exceptional sales people in as individual contributors in their own, right?"
+  },
+  {
+    "start": 550.4,
+    "duration": 2.08,
+    "text": "and then if I think about like what what"
+  },
+  {
+    "start": 553.04,
+    "duration": 6.24,
+    "text": "Then what are the characteristics that that makes someone that the the the number one rep on the leaderboard?"
+  },
+  {
+    "start": 560.24,
+    "duration": 2.16,
+    "text": "Well, look, I think some of it. Um can't be taught"
+  },
+  {
+    "start": 563.92,
+    "duration": 4.88,
+    "text": "And then I think um much of it is just this um in addition to like finding something you're good at"
+  },
+  {
+    "start": 569.04,
+    "duration": 2.0,
+    "text": "it's this mindset that like"
+  },
+  {
+    "start": 571.28,
+    "duration": 2.0,
+    "text": "Success is not hitting my quota"
+  },
+  {
+    "start": 574.14,
+    "duration": 2.0,
+    "text": "Um success is"
+  },
+  {
+    "start": 580.08,
+    "duration": 2.0,
+    "text": "Never being satisfied"
+  },
+  {
+    "start": 582.56,
+    "duration": 2.48,
+    "text": "and being number one on the team"
+  },
+  {
+    "start": 585.84,
+    "duration": 0.72,
+    "text": "and"
+  },
+  {
+    "start": 586.56,
+    "duration": 4.8,
+    "text": "Um, if I were number two on the team and at 200 percent of my quota"
+  },
+  {
+    "start": 591.84,
+    "duration": 6.18,
+    "text": "But the number one rep on the team was at 350 percent of my quota. I was not celebrating"
+  },
+  {
+    "start": 598.72,
+    "duration": 2.48,
+    "text": "I was I was in a way like"
+  },
+  {
+    "start": 602.0,
+    "duration": 2.0,
+    "text": "Let's just call it motivated"
+  },
+  {
+    "start": 604.0,
+    "duration": 5.12,
+    "text": "um to understand what that person was doing differently and"
+  },
+  {
+    "start": 609.66,
+    "duration": 2.0,
+    "text": "definitionally better than me"
+  },
+  {
+    "start": 612.16,
+    "duration": 1.52,
+    "text": "um and"
+  },
+  {
+    "start": 613.68,
+    "duration": 1.84,
+    "text": "use that to"
+  },
+  {
+    "start": 615.52,
+    "duration": 4.16,
+    "text": "Uh drive myself to do whatever it takes to finish number one"
+  },
+  {
+    "start": 620.48,
+    "duration": 1.5,
+    "text": "and I think"
+  },
+  {
+    "start": 621.98,
+    "duration": 2.98,
+    "text": "90 x percent of sales people"
+  },
+  {
+    "start": 625.52,
+    "duration": 4.64,
+    "text": "Are satisfied with being above average and hitting quota?"
+  },
+  {
+    "start": 630.72,
+    "duration": 6.24,
+    "text": "And that doesn't get you to the level of the sales leaders that you just cited"
+  },
+  {
+    "start": 637.36,
+    "duration": 3.06,
+    "text": "So, um, you know, I think about like, uh sort of objectively"
+  },
+  {
+    "start": 641.28,
+    "duration": 5.86,
+    "text": "Everyone on that list was number one on their team as individual contributor sales reps subjectively"
+  },
+  {
+    "start": 647.76,
+    "duration": 5.2,
+    "text": "Why were they there? Um is something I just talked about and then the next thing that comes to mind, which I think um,"
+  },
+  {
+    "start": 653.6,
+    "duration": 2.0,
+    "text": "there are two"
+  },
+  {
+    "start": 655.82,
+    "duration": 3.64,
+    "text": "Qualities that are particularly important for sales leaders"
+  },
+  {
+    "start": 660.24,
+    "duration": 1.76,
+    "text": "that are"
+  },
+  {
+    "start": 662.0,
+    "duration": 3.12,
+    "text": "oftentimes come along with sale the top sales reps, but"
+  },
+  {
+    "start": 666.32,
+    "duration": 0.96,
+    "text": "not"
+  },
+  {
+    "start": 667.28,
+    "duration": 3.76,
+    "text": "Uh in 100 of cases and those things are a positive attitude"
+  },
+  {
+    "start": 672.56,
+    "duration": 4.08,
+    "text": "And uh a um just intense work ethic"
+  },
+  {
+    "start": 677.76,
+    "duration": 5.76,
+    "text": "and I think the reason that those things are particularly important for sales leaders to possess is because"
+  },
+  {
+    "start": 684.08,
+    "duration": 4.24,
+    "text": "The people that are on your team the people that are looking up to you as a sales leader"
+  },
+  {
+    "start": 688.72,
+    "duration": 2.0,
+    "text": "They are going to emulate those things"
+  },
+  {
+    "start": 691.36,
+    "duration": 6.26,
+    "text": "And so if you are at the top of the leaderboard, but you have a reputation of being negative complaining"
+  },
+  {
+    "start": 698.24,
+    "duration": 3.06,
+    "text": "Anything that um comes with sort of like a bad attitude"
+  },
+  {
+    "start": 701.84,
+    "duration": 1.84,
+    "text": "You're not going to be a leader"
+  },
+  {
+    "start": 703.68,
+    "duration": 7.68,
+    "text": "and the same thing is true where you can be an exceptional sales rep because of the sort of natural talent that you have"
+  },
+  {
+    "start": 711.92,
+    "duration": 6.64,
+    "text": "Uh, and you can decide that you are okay with being towards the top of the leaderboard, but not busting your ass"
+  },
+  {
+    "start": 719.2,
+    "duration": 0.72,
+    "text": "and"
+  },
+  {
+    "start": 719.92,
+    "duration": 1.2,
+    "text": "um in"
+  },
+  {
+    "start": 721.12,
+    "duration": 2.72,
+    "text": "An organization where I am the leader that's actually okay"
+  },
+  {
+    "start": 724.32,
+    "duration": 5.52,
+    "text": "Like if if you are towards the top of the leaderboard and you want to play golf on friday afternoons, I don't care"
+  },
+  {
+    "start": 730.24,
+    "duration": 3.68,
+    "text": "um, but you're not going to be a leader on the team because"
+  },
+  {
+    "start": 734.32,
+    "duration": 4.56,
+    "text": "The leaders need to be the ones that are early in the office last ones out"
+  },
+  {
+    "start": 739.12,
+    "duration": 7.28,
+    "text": "Um and setting the tone for what uh, sort of like positive attitude and hard hardcore work ethic, uh look like"
+  },
+  {
+    "start": 747.52,
+    "duration": 0.88,
+    "text": "Mm-hmm"
+  },
+  {
+    "start": 748.4,
+    "duration": 6.56,
+    "text": "Which is now a controversial opinion in the tech world that hard work matters and uh, we should be working hard"
+  },
+  {
+    "start": 755.12,
+    "duration": 4.72,
+    "text": "But we don't need to go. We don't need to go down that route at all. I don't think it's that controversial. Uh,"
+  },
+  {
+    "start": 760.56,
+    "duration": 3.6,
+    "text": "We we we can spend time there or not. Um, whatever you think is best"
+  },
+  {
+    "start": 764.96,
+    "duration": 2.16,
+    "text": "No, no, uh startups are really hard man"
+  },
+  {
+    "start": 767.52,
+    "duration": 2.58,
+    "text": "Uh, like if you don't want to prioritize"
+  },
+  {
+    "start": 770.96,
+    "duration": 2.88,
+    "text": "uh work and expect to"
+  },
+  {
+    "start": 774.56,
+    "duration": 2.0,
+    "text": "uh work long hours, um"
+  },
+  {
+    "start": 776.8,
+    "duration": 6.16,
+    "text": "Startups probably aren't for you now. I think like the caveat to that is that people work differently"
+  },
+  {
+    "start": 783.2,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 784.16,
+    "duration": 4.96,
+    "text": "I can I can think of specifics and I won't name names, but some of the hardest working people I have ever worked with"
+  },
+  {
+    "start": 789.6,
+    "duration": 0.88,
+    "text": "have"
+  },
+  {
+    "start": 790.48,
+    "duration": 3.04,
+    "text": "several kids at home and they"
+  },
+  {
+    "start": 793.76,
+    "duration": 5.92,
+    "text": "Um picked up their kids from school they had dinner with their kids, but they were online for many many hours"
+  },
+  {
+    "start": 800.32,
+    "duration": 6.16,
+    "text": "Around those sort of events. Uh, and so it's not that everybody has to work the same way"
+  },
+  {
+    "start": 807.04,
+    "duration": 2.16,
+    "text": "but nobody that is"
+  },
+  {
+    "start": 809.68,
+    "duration": 5.78,
+    "text": "Um progressing their career and standing out in a startup and getting into strategic leadership positions"
+  },
+  {
+    "start": 815.92,
+    "duration": 2.0,
+    "text": "Is doing so while not working hard"
+  },
+  {
+    "start": 818.88,
+    "duration": 2.0,
+    "text": "For sure. I I have a saying"
+  },
+  {
+    "start": 821.44,
+    "duration": 3.84,
+    "text": "You can't expect extraordinary career outcomes without extraordinary effort"
+  },
+  {
+    "start": 826.08,
+    "duration": 1.92,
+    "text": "It's it's simple"
+  },
+  {
+    "start": 828.0,
+    "duration": 2.0,
+    "text": "And so going back to these leaders"
+  },
+  {
+    "start": 830.32,
+    "duration": 1.92,
+    "text": "So what's the blend between?"
+  },
+  {
+    "start": 832.24,
+    "duration": 2.0,
+    "text": "So they were clearly talented"
+  },
+  {
+    "start": 834.8,
+    "duration": 1.2,
+    "text": "they were"
+  },
+  {
+    "start": 836.0,
+    "duration": 5.68,
+    "text": "In the right places like to have that career velocity. You need to be in a winning company that's growing where roles are there"
+  },
+  {
+    "start": 842.48,
+    "duration": 2.9,
+    "text": "There's something about learning the brand momentum"
+  },
+  {
+    "start": 845.94,
+    "duration": 0.8,
+    "text": "Like"
+  },
+  {
+    "start": 846.74,
+    "duration": 3.6,
+    "text": "I I came out of sam blonde's org people are going to go"
+  },
+  {
+    "start": 850.34,
+    "duration": 5.2,
+    "text": "Okay, that person knows what good looks like and where do you think what do you think the balance of those things?"
+  },
+  {
+    "start": 856.26,
+    "duration": 1.52,
+    "text": "is"
+  },
+  {
+    "start": 857.78,
+    "duration": 5.44,
+    "text": "Where what's the most helpful for somebody if i'm thinking about I want to be a leader. I want that"
+  },
+  {
+    "start": 863.54,
+    "duration": 2.0,
+    "text": "How do I make the decision between?"
+  },
+  {
+    "start": 865.94,
+    "duration": 7.78,
+    "text": "Jumping in and taking a any startup vp sales role versus hunting somewhere with a great leader with like brand trajectory"
+  },
+  {
+    "start": 874.12,
+    "duration": 3.92,
+    "text": "Totally and the career momentum, it's a thoughtful question. Um"
+  },
+  {
+    "start": 879.88,
+    "duration": 3.86,
+    "text": "And I am biased by both my own experiences"
+  },
+  {
+    "start": 884.6,
+    "duration": 3.36,
+    "text": "And then the experiences of those that you cited"
+  },
+  {
+    "start": 888.28,
+    "duration": 6.88,
+    "text": "Uh, the folks that are are my close friends and the people that have gone on to do really incredible things as sales leaders"
+  },
+  {
+    "start": 895.96,
+    "duration": 3.28,
+    "text": "And and um again, this isn't universally true"
+  },
+  {
+    "start": 899.56,
+    "duration": 3.54,
+    "text": "But my bias here is that um as an individual contributor"
+  },
+  {
+    "start": 904.84,
+    "duration": 2.0,
+    "text": "Where you come from"
+  },
+  {
+    "start": 907.24,
+    "duration": 1.6,
+    "text": "Is largely irrelevant"
+  },
+  {
+    "start": 908.84,
+    "duration": 2.0,
+    "text": "In fact, there are arguments to be made"
+  },
+  {
+    "start": 911.16,
+    "duration": 6.4,
+    "text": "That if you worked in an environment and you were the number one sales rep at a product that or at a company that didn't realize"
+  },
+  {
+    "start": 918.2,
+    "duration": 2.0,
+    "text": "incredible success"
+  },
+  {
+    "start": 920.36,
+    "duration": 3.12,
+    "text": "You like figured out how to make it work with an inferior product"
+  },
+  {
+    "start": 923.72,
+    "duration": 6.08,
+    "text": "And so like oftentimes as individual contributors those those can be more interesting hires than somebody who"
+  },
+  {
+    "start": 930.44,
+    "duration": 3.92,
+    "text": "Was at one of you know, these incredible logo businesses. Um"
+  },
+  {
+    "start": 936.2,
+    "duration": 2.0,
+    "text": "My experience with leaders"
+  },
+  {
+    "start": 938.76,
+    "duration": 5.2,
+    "text": "Is that I do solve for someone who has seen what great looks like"
+  },
+  {
+    "start": 944.6,
+    "duration": 5.44,
+    "text": "um, and I again I was fortunate at echo sign to have seen"
+  },
+  {
+    "start": 950.6,
+    "duration": 2.48,
+    "text": "What I believe is what great looks like"
+  },
+  {
+    "start": 953.48,
+    "duration": 7.12,
+    "text": "um, and if we think about matt plank, who's the cro at uh, rippling he he was really strategic with me at"
+  },
+  {
+    "start": 961.24,
+    "duration": 4.8,
+    "text": "Zenefits, um, he was with me at echo sign. I brought him over as an individual in the same with jameson young"
+  },
+  {
+    "start": 966.2,
+    "duration": 2.0,
+    "text": "Um, who was the sales leader at gong?"
+  },
+  {
+    "start": 968.28,
+    "duration": 2.34,
+    "text": "Uh, they were my first two hires at zenefits"
+  },
+  {
+    "start": 971.24,
+    "duration": 5.52,
+    "text": "Um, and I think that what we accomplished two there were the first two hires. Yep"
+  },
+  {
+    "start": 978.04,
+    "duration": 3.44,
+    "text": "And jameson, um and interestingly like, you know, this is a bit of a tangent"
+  },
+  {
+    "start": 981.72,
+    "duration": 7.28,
+    "text": "They were two of my close personal friends before I hired either of them at first echo sign and then zenefits and so like"
+  },
+  {
+    "start": 989.64,
+    "duration": 2.5,
+    "text": "You know in of two, but there are actually other examples"
+  },
+  {
+    "start": 992.68,
+    "duration": 4.64,
+    "text": "I like hiring friends has worked well for me as long as I think the friend is going to just like absolutely crush it"
+  },
+  {
+    "start": 997.4,
+    "duration": 5.92,
+    "text": "uh, and I I saw something in both, uh, jameson and matt blank that um"
+  },
+  {
+    "start": 1003.64,
+    "duration": 4.32,
+    "text": "I would be silly not to have hired them and i'm grateful that I did. Um"
+  },
+  {
+    "start": 1008.92,
+    "duration": 2.8,
+    "text": "I I think like back to the uh original point which is"
+  },
+  {
+    "start": 1012.52,
+    "duration": 3.46,
+    "text": "And I am biased here. I think it is hard harder"
+  },
+  {
+    "start": 1016.84,
+    "duration": 2.0,
+    "text": "for a sales leader"
+  },
+  {
+    "start": 1019.48,
+    "duration": 1.04,
+    "text": "to"
+  },
+  {
+    "start": 1020.52,
+    "duration": 1.1,
+    "text": "um"
+  },
+  {
+    "start": 1021.62,
+    "duration": 4.18,
+    "text": "Implement great when they have never seen what great looks like"
+  },
+  {
+    "start": 1026.36,
+    "duration": 6.02,
+    "text": "Uh, and so, you know, if you see somebody who is like a sales manager at a company that sort of struggled"
+  },
+  {
+    "start": 1033.08,
+    "duration": 2.4,
+    "text": "Um, and they got like promoted to a sales manager"
+  },
+  {
+    "start": 1036.2,
+    "duration": 2.0,
+    "text": "The um"
+  },
+  {
+    "start": 1039.48,
+    "duration": 2.0,
+    "text": "I think their probability of success"
+  },
+  {
+    "start": 1042.2,
+    "duration": 3.52,
+    "text": "Is lower than someone who grew their career quickly"
+  },
+  {
+    "start": 1046.36,
+    "duration": 0.8,
+    "text": "in"
+  },
+  {
+    "start": 1047.16,
+    "duration": 2.0,
+    "text": "an environment of success"
+  },
+  {
+    "start": 1049.64,
+    "duration": 4.72,
+    "text": "Uh, and at least with the group of leaders that you referenced at the top of the show"
+  },
+  {
+    "start": 1054.76,
+    "duration": 5.12,
+    "text": "um, that has been true and I am sure there are outlier exceptions, but um,"
+  },
+  {
+    "start": 1060.28,
+    "duration": 3.52,
+    "text": "I i'm i'm an example of what i'm describing and I think um,"
+  },
+  {
+    "start": 1063.88,
+    "duration": 2.4,
+    "text": "Everybody else on that list is also examples"
+  },
+  {
+    "start": 1066.28,
+    "duration": 4.96,
+    "text": "And so, you know at some point I will hire a vp of sales cro for"
+  },
+  {
+    "start": 1071.8,
+    "duration": 3.62,
+    "text": "The business that I am building and they will fit that criteria"
+  },
+  {
+    "start": 1075.96,
+    "duration": 3.84,
+    "text": "um, and so then maybe back to the original point if you're trying to"
+  },
+  {
+    "start": 1080.2,
+    "duration": 4.16,
+    "text": "Take away learnings as as an individual contributor listening to the show. I want to be a cro"
+  },
+  {
+    "start": 1084.92,
+    "duration": 4.08,
+    "text": "Um, I would be biased towards surrounding yourself"
+  },
+  {
+    "start": 1089.48,
+    "duration": 1.44,
+    "text": "um with"
+  },
+  {
+    "start": 1090.92,
+    "duration": 6.48,
+    "text": "Uh exceptional sales people and an exceptional sales leader in a company that's going to do that is growing very quickly"
+  },
+  {
+    "start": 1097.88,
+    "duration": 6.72,
+    "text": "Uh, I mean owner's probably a great example of this right now where it's like you guys aren't yet rippling, you know"
+  },
+  {
+    "start": 1104.6,
+    "duration": 2.0,
+    "text": "Joining rippling today. It's um"
+  },
+  {
+    "start": 1107.32,
+    "duration": 2.88,
+    "text": "People should join rippling. It's an exceptional company. Um"
+  },
+  {
+    "start": 1111.4,
+    "duration": 3.44,
+    "text": "The learnings that you will receive as a sales rep that joins rippling today"
+  },
+  {
+    "start": 1115.08,
+    "duration": 5.36,
+    "text": "In 2024 are different from the learnings that you would have received if you joined rippling in 2020"
+  },
+  {
+    "start": 1120.44,
+    "duration": 2.56,
+    "text": "And maybe owner is a version of of that today"
+  },
+  {
+    "start": 1123.64,
+    "duration": 6.16,
+    "text": "Where like the writing is on the wall for this type of company and they're still pretty early"
+  },
+  {
+    "start": 1130.12,
+    "duration": 2.08,
+    "text": "um, that is the type of environment where"
+  },
+  {
+    "start": 1132.68,
+    "duration": 4.24,
+    "text": "I would go in and I would have the mindset of I am going to be the number one rep at the company"
+  },
+  {
+    "start": 1137.0,
+    "duration": 2.48,
+    "text": "And if you accomplish those two things, um"
+  },
+  {
+    "start": 1140.44,
+    "duration": 1.84,
+    "text": "You know, you're sort of destined"
+  },
+  {
+    "start": 1142.28,
+    "duration": 1.52,
+    "text": "for uh"
+  },
+  {
+    "start": 1143.8,
+    "duration": 2.0,
+    "text": "Greatness, that's very cliche"
+  },
+  {
+    "start": 1145.88,
+    "duration": 0.96,
+    "text": "Yeah"
+  },
+  {
+    "start": 1146.84,
+    "duration": 1.76,
+    "text": "So what was the mix?"
+  },
+  {
+    "start": 1148.6,
+    "duration": 2.0,
+    "text": "In your let's call it"
+  },
+  {
+    "start": 1150.92,
+    "duration": 5.54,
+    "text": "Like scale up phase at brex. What was the mix of your leadership team of internal promotes versus external?"
+  },
+  {
+    "start": 1157.0,
+    "duration": 4.08,
+    "text": "Hires that sort of manager second line, etc. Yeah. Um"
+  },
+  {
+    "start": 1162.44,
+    "duration": 2.0,
+    "text": "I have a uh"
+  },
+  {
+    "start": 1164.68,
+    "duration": 2.0,
+    "text": "Strong opinion here. That's lucy held"
+  },
+  {
+    "start": 1167.0,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 1167.96,
+    "duration": 2.0,
+    "text": "and that is"
+  },
+  {
+    "start": 1169.96,
+    "duration": 2.64,
+    "text": "I heavily bias towards promoting from within"
+  },
+  {
+    "start": 1173.48,
+    "duration": 7.38,
+    "text": "Um at zenefits our first line manager layer was 100 internal promotions"
+  },
+  {
+    "start": 1182.28,
+    "duration": 4.96,
+    "text": "And at brex our first line management layer was close"
+  },
+  {
+    "start": 1188.6,
+    "duration": 2.0,
+    "text": "I think the learning from zenefits"
+  },
+  {
+    "start": 1191.32,
+    "duration": 1.5,
+    "text": "and um"
+  },
+  {
+    "start": 1192.82,
+    "duration": 2.18,
+    "text": "zenefits is sort of a unique environment where"
+  },
+  {
+    "start": 1195.88,
+    "duration": 2.16,
+    "text": "We we were growing way too quickly"
+  },
+  {
+    "start": 1198.6,
+    "duration": 3.68,
+    "text": "And we needed a new manager like every few days like it was crazy"
+  },
+  {
+    "start": 1203.16,
+    "duration": 2.64,
+    "text": "The sales org when I joined was two people"
+  },
+  {
+    "start": 1206.28,
+    "duration": 3.3,
+    "text": "The sales org when I left two and a half years later was 500"
+  },
+  {
+    "start": 1210.36,
+    "duration": 4.88,
+    "text": "And so you can imagine like two years two years. Um, and by the way, like that was a mistake. Uh, so"
+  },
+  {
+    "start": 1215.8,
+    "duration": 4.98,
+    "text": "That's a different podcast. Uh, but I I think one of the learnings from zenefits"
+  },
+  {
+    "start": 1221.16,
+    "duration": 2.0,
+    "text": "um, which by the way, I still like"
+  },
+  {
+    "start": 1223.24,
+    "duration": 3.84,
+    "text": "heavily biased towards promoting from within to the first line"
+  },
+  {
+    "start": 1228.2,
+    "duration": 2.24,
+    "text": "um, one of the learnings from zenefits was"
+  },
+  {
+    "start": 1231.16,
+    "duration": 7.28,
+    "text": "Just make sure that you are doing so out of want and not out of need and there were several examples where"
+  },
+  {
+    "start": 1239.0,
+    "duration": 3.84,
+    "text": "Um, we just had this like philosophy that was we promote from within"
+  },
+  {
+    "start": 1243.88,
+    "duration": 5.68,
+    "text": "And I think where that broke was when we sort of like looked at the individual contributor layer"
+  },
+  {
+    "start": 1249.96,
+    "duration": 0.88,
+    "text": "And we were like, all right"
+  },
+  {
+    "start": 1250.84,
+    "duration": 5.92,
+    "text": "We need a new manager who is the least bad option to fill this like new manager layer"
+  },
+  {
+    "start": 1257.24,
+    "duration": 3.2,
+    "text": "And it would be like it's probably this person and then we would be like"
+  },
+  {
+    "start": 1261.72,
+    "duration": 2.0,
+    "text": "okay, like"
+  },
+  {
+    "start": 1264.76,
+    "duration": 3.36,
+    "text": "And so then that's what I describe out of like need we needed a manager"
+  },
+  {
+    "start": 1268.2,
+    "duration": 3.04,
+    "text": "But we did not want to put that person in a manager role"
+  },
+  {
+    "start": 1271.72,
+    "duration": 5.28,
+    "text": "And I think that is a bit of the like calculus that I would use going forward"
+  },
+  {
+    "start": 1277.48,
+    "duration": 2.0,
+    "text": "um, which is like"
+  },
+  {
+    "start": 1279.48,
+    "duration": 3.46,
+    "text": "Don't promote someone out of need and in that in that scenario"
+  },
+  {
+    "start": 1283.5,
+    "duration": 4.26,
+    "text": "If I could go back and do it again differently, I would have hired from the outside"
+  },
+  {
+    "start": 1288.54,
+    "duration": 3.2,
+    "text": "instead of promoting somebody who like probably wasn't ready or"
+  },
+  {
+    "start": 1292.38,
+    "duration": 2.08,
+    "text": "Uh, you know, we weren't super excited about"
+  },
+  {
+    "start": 1295.58,
+    "duration": 2.0,
+    "text": "What what I think changes?"
+  },
+  {
+    "start": 1297.98,
+    "duration": 6.64,
+    "text": "Is as you get into larger organizations that you're probably experiencing today at owner where you need"
+  },
+  {
+    "start": 1305.34,
+    "duration": 6.58,
+    "text": "A little bit more layering. So second and ultimately like third line leadership. Um, I think introducing"
+  },
+  {
+    "start": 1312.56,
+    "duration": 6.16,
+    "text": "Uh outside leaders at those levels, um, you know as you bring in directors vps"
+  },
+  {
+    "start": 1319.28,
+    "duration": 8.24,
+    "text": "Um, it isn't a one-size-fits-all there where like you promote from within there will be some promotion from within for like the true rock stars"
+  },
+  {
+    "start": 1327.6,
+    "duration": 4.0,
+    "text": "Plank and jameson are actually good examples of that. They became directors. It's in a fits"
+  },
+  {
+    "start": 1332.16,
+    "duration": 3.52,
+    "text": "Um, but then I think at the sort of like, you know vp level"
+  },
+  {
+    "start": 1336.16,
+    "duration": 3.52,
+    "text": "Uh introducing some experienced leadership there"
+  },
+  {
+    "start": 1340.16,
+    "duration": 5.36,
+    "text": "Um, it really pays dividends for uh, uh an organization that um,"
+  },
+  {
+    "start": 1346.0,
+    "duration": 3.06,
+    "text": "You know is probably light on leadership experience"
+  },
+  {
+    "start": 1350.96,
+    "duration": 8.24,
+    "text": "Yeah, we're definitely in a similar space I just hired a vp of sales a couple months ago that was external and in like"
+  },
+  {
+    "start": 1359.9,
+    "duration": 5.72,
+    "text": "Significantly levels up our leadership capacity to do projects to coach to know answers"
+  },
+  {
+    "start": 1366.1,
+    "duration": 2.0,
+    "text": "But then we've promoted"
+  },
+  {
+    "start": 1368.42,
+    "duration": 6.08,
+    "text": "A decent amount from within to to first line, but a thing we have at the end of every"
+  },
+  {
+    "start": 1375.3,
+    "duration": 1.1,
+    "text": "um"
+  },
+  {
+    "start": 1376.4,
+    "duration": 2.58,
+    "text": "interview questionnaire in our ats is"
+  },
+  {
+    "start": 1379.54,
+    "duration": 1.68,
+    "text": "Heck yeah or no"
+  },
+  {
+    "start": 1381.22,
+    "duration": 4.32,
+    "text": "And so it's it's similar like is that internal promote a heck? Yeah, like I just promoted"
+  },
+  {
+    "start": 1386.02,
+    "duration": 2.0,
+    "text": "uh one of our reps"
+  },
+  {
+    "start": 1388.34,
+    "duration": 3.92,
+    "text": "One of our she was a bdr then an ae and we just made her a bdr manager"
+  },
+  {
+    "start": 1392.42,
+    "duration": 4.4,
+    "text": "She was a heck. Yeah, like oh slam dunk like i'm so excited to get her into this role"
+  },
+  {
+    "start": 1397.54,
+    "duration": 5.12,
+    "text": "Versus if it was like, oh, I don't know. Maybe maybe they can do it. Maybe not then then we'll go external"
+  },
+  {
+    "start": 1403.14,
+    "duration": 5.12,
+    "text": "I I think that's a great way to look at it and the like I like that only true rock stars"
+  },
+  {
+    "start": 1408.82,
+    "duration": 3.46,
+    "text": "For second line as an internal promote. That's a good bar for it"
+  },
+  {
+    "start": 1413.24,
+    "duration": 2.0,
+    "text": "So"
+  },
+  {
+    "start": 1418.04,
+    "duration": 8.88,
+    "text": "Yes.ai enables your ceo subject matter experts and other senior leaders to engage prospects directly creating meaningful connections and boosting response rates"
+  },
+  {
+    "start": 1427.24,
+    "duration": 5.84,
+    "text": "With just one click your team can strategically involve senior staff to make your outreach more credible and effective"
+  },
+  {
+    "start": 1433.8,
+    "duration": 7.14,
+    "text": "Empower your gtm team to orchestrate your outbound process and say yes to yes.ai. That's y-e-s-s.ai"
+  },
+  {
+    "start": 1443.24,
+    "duration": 6.0,
+    "text": "Um, and so, uh going back a step"
+  },
+  {
+    "start": 1452.44,
+    "duration": 2.88,
+    "text": "What have you done to nurture people to get them ready like"
+  },
+  {
+    "start": 1456.04,
+    "duration": 4.0,
+    "text": "There's so there's some talent. There's obviously a lot of talent there"
+  },
+  {
+    "start": 1460.68,
+    "duration": 3.44,
+    "text": "but you must have had you must have had uh,"
+  },
+  {
+    "start": 1464.68,
+    "duration": 4.88,
+    "text": "You must have done something really right for all for so many people to make that leap"
+  },
+  {
+    "start": 1469.56,
+    "duration": 3.12,
+    "text": "And so i'm curious what what do you think you did to nurture them to prepare them?"
+  },
+  {
+    "start": 1473.0,
+    "duration": 4.72,
+    "text": "For their first management position to prepare them for the second thing. What was the approach there?"
+  },
+  {
+    "start": 1478.04,
+    "duration": 4.72,
+    "text": "Yeah, so, um, what comes to mind is like this is a little bit personal to me as a sales leader"
+  },
+  {
+    "start": 1482.84,
+    "duration": 2.16,
+    "text": "and and it doesn't it's not necessarily sort of like"
+  },
+  {
+    "start": 1486.04,
+    "duration": 1.92,
+    "text": "what what um"
+  },
+  {
+    "start": 1487.96,
+    "duration": 6.5,
+    "text": "What I would even try and emulate, uh or prescribe to other in fact, there's like a deficiency"
+  },
+  {
+    "start": 1495.88,
+    "duration": 2.8,
+    "text": "Maybe let's describe it as a weakness that I will"
+  },
+  {
+    "start": 1499.32,
+    "duration": 5.12,
+    "text": "point out, um, but there are a couple things that i'm good at and then something that I"
+  },
+  {
+    "start": 1505.08,
+    "duration": 5.28,
+    "text": "Uh combination of just like haven't focused on and maybe i'm less good at. Um, and again, this is like quite personal"
+  },
+  {
+    "start": 1510.36,
+    "duration": 5.12,
+    "text": "So it's not necessarily something if you're a sales leader listening in that you should try and emulate. Um,"
+  },
+  {
+    "start": 1516.84,
+    "duration": 2.0,
+    "text": "I think i'm good at recruiting"
+  },
+  {
+    "start": 1519.08,
+    "duration": 1.92,
+    "text": "um, and so"
+  },
+  {
+    "start": 1521.0,
+    "duration": 4.24,
+    "text": "You know, I talked about the first two sales reps that I hired at xenefits were"
+  },
+  {
+    "start": 1525.56,
+    "duration": 4.0,
+    "text": "Jameson and plank like cro's of gong and and rippling today. Um"
+  },
+  {
+    "start": 1530.68,
+    "duration": 3.6,
+    "text": "and then there was a bunch of others, um, like I I I uh"
+  },
+  {
+    "start": 1534.76,
+    "duration": 4.56,
+    "text": "Uh in the same at brex just like exceptional team at brex. I'm incredibly fortunate to have uh,"
+  },
+  {
+    "start": 1539.96,
+    "duration": 4.32,
+    "text": "Been able to work with people that I learned from and that are better than me in a lot of ways. Uh"
+  },
+  {
+    "start": 1545.16,
+    "duration": 3.92,
+    "text": "So i'm good at recruiting and then i'm good at I think creating"
+  },
+  {
+    "start": 1550.12,
+    "duration": 1.5,
+    "text": "a"
+  },
+  {
+    "start": 1551.62,
+    "duration": 2.0,
+    "text": "hypercompetitive system"
+  },
+  {
+    "start": 1554.5,
+    "duration": 2.0,
+    "text": "Hmm, um where"
+  },
+  {
+    "start": 1557.14,
+    "duration": 2.0,
+    "text": "people are competing with"
+  },
+  {
+    "start": 1559.94,
+    "duration": 2.72,
+    "text": "I'm biased, but I would describe as the best sales people"
+  },
+  {
+    "start": 1563.38,
+    "duration": 1.68,
+    "text": "in tech"
+  },
+  {
+    "start": 1565.06,
+    "duration": 1.28,
+    "text": "and so"
+  },
+  {
+    "start": 1566.34,
+    "duration": 6.16,
+    "text": "um, hopefully people are motivated. Hopefully people are making money. Hopefully people are"
+  },
+  {
+    "start": 1573.12,
+    "duration": 5.06,
+    "text": "successful and winning and when you sort of like rise to the top in"
+  },
+  {
+    "start": 1578.9,
+    "duration": 4.48,
+    "text": "That type of system that I believe that i'm good at creating"
+  },
+  {
+    "start": 1584.18,
+    "duration": 2.0,
+    "text": "It means that you are special"
+  },
+  {
+    "start": 1586.5,
+    "duration": 4.48,
+    "text": "um, because um, I have recruited a group of people who are"
+  },
+  {
+    "start": 1591.94,
+    "duration": 3.68,
+    "text": "Really exceptional and i've created a system that is"
+  },
+  {
+    "start": 1597.3,
+    "duration": 1.12,
+    "text": "Hard"
+  },
+  {
+    "start": 1598.42,
+    "duration": 2.64,
+    "text": "to compete in because of"
+  },
+  {
+    "start": 1601.46,
+    "duration": 4.34,
+    "text": "I think both the quality of the people and also the level of expectations"
+  },
+  {
+    "start": 1606.52,
+    "duration": 2.4,
+    "text": "That uh, I have um"
+  },
+  {
+    "start": 1609.48,
+    "duration": 6.96,
+    "text": "Now where i'm like a little bit deficient. Um, and and maybe i'm certainly less deliberate about is this like"
+  },
+  {
+    "start": 1618.9,
+    "duration": 2.0,
+    "text": "Leadership coaching"
+  },
+  {
+    "start": 1621.24,
+    "duration": 5.04,
+    "text": "And I think that um, I can think of specific examples where even people on this list have come to me"
+  },
+  {
+    "start": 1627.08,
+    "duration": 2.0,
+    "text": "sort of asking for like, you know"
+  },
+  {
+    "start": 1630.04,
+    "duration": 6.34,
+    "text": "What what like leader how can I be a better leader what like what what reading materials"
+  },
+  {
+    "start": 1636.68,
+    "duration": 4.96,
+    "text": "Should I read what like podcast should I listen to like those sorts of things and i'm kind of like look"
+  },
+  {
+    "start": 1642.68,
+    "duration": 1.36,
+    "text": "um"
+  },
+  {
+    "start": 1644.04,
+    "duration": 4.0,
+    "text": "I'm again biased by my own experience here, which is like I learn by doing"
+  },
+  {
+    "start": 1649.0,
+    "duration": 2.0,
+    "text": "um, and"
+  },
+  {
+    "start": 1651.0,
+    "duration": 0.96,
+    "text": "uh"
+  },
+  {
+    "start": 1651.96,
+    "duration": 4.96,
+    "text": "I I think most of the people and it actually be an interesting question to ask some of the folks on that list"
+  },
+  {
+    "start": 1657.08,
+    "duration": 7.2,
+    "text": "But I think that um, most of the people on that list are in the seat that they're in largely because they took"
+  },
+  {
+    "start": 1664.92,
+    "duration": 5.68,
+    "text": "uh accountability and made it a priority to become exceptional leaders versus sort of like"
+  },
+  {
+    "start": 1671.08,
+    "duration": 1.42,
+    "text": "um got"
+  },
+  {
+    "start": 1672.5,
+    "duration": 2.0,
+    "text": "incredible advice from"
+  },
+  {
+    "start": 1674.68,
+    "duration": 3.28,
+    "text": "me now like maybe they watched some of the things that I was doing and"
+  },
+  {
+    "start": 1678.36,
+    "duration": 5.28,
+    "text": "Took the things that they liked and were able to emulate some of those things and then I probably screwed up a bunch of stuff"
+  },
+  {
+    "start": 1683.72,
+    "duration": 3.6,
+    "text": "Too and so they like, you know threw out the the things that I did less"
+  },
+  {
+    "start": 1687.4,
+    "duration": 4.64,
+    "text": "well, um and tried to improve upon those things themselves, but um"
+  },
+  {
+    "start": 1693.16,
+    "duration": 2.64,
+    "text": "You know that those are the things that uh come to mind"
+  },
+  {
+    "start": 1697.0,
+    "duration": 2.0,
+    "text": "There's massive talent density"
+  },
+  {
+    "start": 1699.96,
+    "duration": 6.08,
+    "text": "That seems to be like the big thing big theme here. That's the hope. Um, and um"
+  },
+  {
+    "start": 1706.04,
+    "duration": 2.0,
+    "text": "Um"
+  },
+  {
+    "start": 1709.8,
+    "duration": 2.4,
+    "text": "Again I think um when you're in"
+  },
+  {
+    "start": 1712.92,
+    "duration": 1.52,
+    "text": "an environment"
+  },
+  {
+    "start": 1714.44,
+    "duration": 2.0,
+    "text": "like zinefits and brex"
+  },
+  {
+    "start": 1716.68,
+    "duration": 1.04,
+    "text": "where"
+  },
+  {
+    "start": 1717.72,
+    "duration": 2.16,
+    "text": "um, it's both competitive, but also"
+  },
+  {
+    "start": 1720.84,
+    "duration": 2.0,
+    "text": "We are growing so quickly"
+  },
+  {
+    "start": 1723.4,
+    "duration": 2.4,
+    "text": "um, and you're working long hours"
+  },
+  {
+    "start": 1726.68,
+    "duration": 1.6,
+    "text": "um"
+  },
+  {
+    "start": 1728.28,
+    "duration": 4.56,
+    "text": "The just like on the job learning that organically happens"
+  },
+  {
+    "start": 1733.56,
+    "duration": 3.04,
+    "text": "I think is pretty unique compared to"
+  },
+  {
+    "start": 1737.32,
+    "duration": 6.88,
+    "text": "um most startup environments that oftentimes grow more slowly and are more stagnant and so if you can"
+  },
+  {
+    "start": 1744.84,
+    "duration": 4.48,
+    "text": "Get in one of those environments where again like you're early enough"
+  },
+  {
+    "start": 1749.88,
+    "duration": 3.44,
+    "text": "that you're going to experience the sort of like um"
+  },
+  {
+    "start": 1754.04,
+    "duration": 2.0,
+    "text": "rapid head count and"
+  },
+  {
+    "start": 1756.6,
+    "duration": 4.24,
+    "text": "Uh revenue growth, but it's also like this one's pretty hot"
+  },
+  {
+    "start": 1761.4,
+    "duration": 7.44,
+    "text": "Um, so so like you're not just uh hoping to pick the right thing at seed stage when there are 16 customers and"
+  },
+  {
+    "start": 1769.4,
+    "duration": 1.44,
+    "text": "um"
+  },
+  {
+    "start": 1770.84,
+    "duration": 3.6,
+    "text": "There's already signal. Yeah, you want like a little bit of signal and you can get that through"
+  },
+  {
+    "start": 1775.16,
+    "duration": 5.44,
+    "text": "You know things like fundraising existing revenue growth revenue and customer growth those sorts of things brandon boyle just joined the company that"
+  },
+  {
+    "start": 1781.24,
+    "duration": 3.12,
+    "text": "Um has a lot of that signal at an early stage called 11x"
+  },
+  {
+    "start": 1784.6,
+    "duration": 4.8,
+    "text": "uh, you know, he was a great leader at brex and he's now vp of sales there and uh"
+  },
+  {
+    "start": 1789.88,
+    "duration": 4.48,
+    "text": "Their their revenue numbers are um jaw-dropping and so then and I think they have like a few sales reps"
+  },
+  {
+    "start": 1794.36,
+    "duration": 2.72,
+    "text": "so like and again kyle like um, I think"
+  },
+  {
+    "start": 1798.2,
+    "duration": 5.44,
+    "text": "This is you guys are a little bit more mature than that at owner. But uh, I think all the the metrics are there"
+  },
+  {
+    "start": 1804.76,
+    "duration": 1.28,
+    "text": "Yeah"
+  },
+  {
+    "start": 1806.04,
+    "duration": 2.08,
+    "text": "I I give this I give this advice a lot"
+  },
+  {
+    "start": 1808.76,
+    "duration": 1.2,
+    "text": "is"
+  },
+  {
+    "start": 1809.96,
+    "duration": 4.4,
+    "text": "Opt for quality of company over basically everything else"
+  },
+  {
+    "start": 1814.92,
+    "duration": 2.0,
+    "text": "like there's"
+  },
+  {
+    "start": 1816.92,
+    "duration": 2.0,
+    "text": "There's only so much you can do"
+  },
+  {
+    "start": 1819.0,
+    "duration": 6.0,
+    "text": "At a mediocre company that's growing 40 year over year and is going to expand headcount by like 15"
+  },
+  {
+    "start": 1826.04,
+    "duration": 1.76,
+    "text": "You know like no matter how great you are"
+  },
+  {
+    "start": 1827.8,
+    "duration": 6.24,
+    "text": "you're not going to go from rep to manager to director in three years because they won't have a director in three years like it's"
+  },
+  {
+    "start": 1834.04,
+    "duration": 1.6,
+    "text": "still going to be a"
+  },
+  {
+    "start": 1835.64,
+    "duration": 2.16,
+    "text": "one vp of sales and eight reps"
+  },
+  {
+    "start": 1838.36,
+    "duration": 3.52,
+    "text": "and so uh, I i'm often pushing people to"
+  },
+  {
+    "start": 1842.84,
+    "duration": 1.2,
+    "text": "uh"
+  },
+  {
+    "start": 1844.04,
+    "duration": 2.16,
+    "text": "Take a role somewhere that"
+  },
+  {
+    "start": 1847.0,
+    "duration": 3.12,
+    "text": "At least has the chance like it's not guaranteed"
+  },
+  {
+    "start": 1850.2,
+    "duration": 3.84,
+    "text": "You have to you have to compete and you're dealing with a very high standard"
+  },
+  {
+    "start": 1854.12,
+    "duration": 2.0,
+    "text": "but at least if you"
+  },
+  {
+    "start": 1856.28,
+    "duration": 4.56,
+    "text": "Are successful and stand out and have great character and mindset and habits"
+  },
+  {
+    "start": 1861.4,
+    "duration": 2.56,
+    "text": "The opportunity is presented to you that you could go"
+  },
+  {
+    "start": 1865.16,
+    "duration": 5.68,
+    "text": "Ic manager director you just there's there's no path to it at a like at a mediocre company"
+  },
+  {
+    "start": 1870.84,
+    "duration": 6.0,
+    "text": "Especially in today's environment where there's a flight to quality and venture and no one wants to fund the middle"
+  },
+  {
+    "start": 1877.64,
+    "duration": 1.04,
+    "text": "uh"
+  },
+  {
+    "start": 1878.68,
+    "duration": 4.4,
+    "text": "It's uh, you know, even if you're if you've been a rep for 18 months if you could go be you know"
+  },
+  {
+    "start": 1883.24,
+    "duration": 1.84,
+    "text": "a senior vdr"
+  },
+  {
+    "start": 1885.08,
+    "duration": 5.68,
+    "text": "At a super hot startup that's growing really fast that that to me is is the right is the right path"
+  },
+  {
+    "start": 1891.72,
+    "duration": 7.04,
+    "text": "Yeah, again, I um, if I think about back to the earlier years of my career, um now I sound like an old man. Um,"
+  },
+  {
+    "start": 1899.08,
+    "duration": 2.08,
+    "text": "I um, hope i'm not"
+  },
+  {
+    "start": 1902.04,
+    "duration": 5.92,
+    "text": "Guess i'm getting there. Um, so think back to the early years of my career, which now unfortunately was was quite a long time ago"
+  },
+  {
+    "start": 1908.2,
+    "duration": 3.84,
+    "text": "uh at echo sign there are two things that I think led to"
+  },
+  {
+    "start": 1912.76,
+    "duration": 7.2,
+    "text": "uh, my my my being a candidate to be the vp of sales at zenefits that when I joined like"
+  },
+  {
+    "start": 1920.12,
+    "duration": 7.12,
+    "text": "You know parker conrad was the was the ceo now the ceo of rippling like exceptional founder the best and um"
+  },
+  {
+    "start": 1927.96,
+    "duration": 5.6,
+    "text": "We we as I joined we were raising our our a from andreessen orowitz. It was like the hottest series a"
+  },
+  {
+    "start": 1934.12,
+    "duration": 5.68,
+    "text": "of the decade, um, and so my point in saying that is like I was"
+  },
+  {
+    "start": 1940.5,
+    "duration": 6.04,
+    "text": "Incredibly fortunate to qualify and have that opera qualify for and have that opportunity"
+  },
+  {
+    "start": 1946.92,
+    "duration": 2.56,
+    "text": "Uh that I did the reasons there are two"
+  },
+  {
+    "start": 1950.2,
+    "duration": 5.12,
+    "text": "One is um something that I controlled. I was pretty good. Like I was pretty good at sales"
+  },
+  {
+    "start": 1955.64,
+    "duration": 3.76,
+    "text": "Um, I was the number one rep on the team. I was a great manager. I was a great director. Um,"
+  },
+  {
+    "start": 1960.44,
+    "duration": 2.0,
+    "text": "Something that was outside of my control"
+  },
+  {
+    "start": 1962.68,
+    "duration": 0.86,
+    "text": "is"
+  },
+  {
+    "start": 1963.54,
+    "duration": 2.0,
+    "text": "echo signs growth"
+  },
+  {
+    "start": 1966.04,
+    "duration": 3.52,
+    "text": "Um the environment that I fortunately found myself in"
+  },
+  {
+    "start": 1970.58,
+    "duration": 4.74,
+    "text": "Enabled my career to be able to grow quickly. There were manager"
+  },
+  {
+    "start": 1975.96,
+    "duration": 3.78,
+    "text": "Roles that became available. There were director roles that became available"
+  },
+  {
+    "start": 1980.14,
+    "duration": 4.96,
+    "text": "And that was because the business was doing well and so both of those things really need to exist"
+  },
+  {
+    "start": 1985.58,
+    "duration": 2.5,
+    "text": "I think if you want to um meet the criteria"
+  },
+  {
+    "start": 1988.62,
+    "duration": 3.6,
+    "text": "for what I would sort of solve for in a profile for"
+  },
+  {
+    "start": 1992.86,
+    "duration": 3.76,
+    "text": "Who's going to be the next matt plank as cro at rippling?"
+  },
+  {
+    "start": 1997.02,
+    "duration": 6.48,
+    "text": "Um, you know, um that probably joins as like a vps sales, uh at the hottest series aish company"
+  },
+  {
+    "start": 2004.94,
+    "duration": 1.36,
+    "text": "Yeah, it makes sense"
+  },
+  {
+    "start": 2006.3,
+    "duration": 3.68,
+    "text": "And so what was your framework for identifying and selecting leaders so"
+  },
+  {
+    "start": 2010.94,
+    "duration": 1.18,
+    "text": "and like"
+  },
+  {
+    "start": 2012.12,
+    "duration": 2.68,
+    "text": "Especially at the second line at director"
+  },
+  {
+    "start": 2015.34,
+    "duration": 4.8,
+    "text": "What were you looking for internally and externally to know if that was a person that you were going to put in that?"
+  },
+  {
+    "start": 2020.38,
+    "duration": 3.28,
+    "text": "Yeah, I think there's this is sort of like two things come to mind here"
+  },
+  {
+    "start": 2024.78,
+    "duration": 1.84,
+    "text": "as we're talking about"
+  },
+  {
+    "start": 2026.62,
+    "duration": 1.28,
+    "text": "um"
+  },
+  {
+    "start": 2027.9,
+    "duration": 2.0,
+    "text": "Just sales leadership. Uh"
+  },
+  {
+    "start": 2030.38,
+    "duration": 2.0,
+    "text": "uh as a whole"
+  },
+  {
+    "start": 2033.26,
+    "duration": 2.08,
+    "text": "The first one is you know, we talk about"
+  },
+  {
+    "start": 2036.54,
+    "duration": 1.84,
+    "text": "leaders scaling"
+  },
+  {
+    "start": 2038.38,
+    "duration": 2.0,
+    "text": "um, and I think there is"
+  },
+  {
+    "start": 2042.14,
+    "duration": 2.0,
+    "text": "There is a reputation"
+  },
+  {
+    "start": 2044.54,
+    "duration": 0.96,
+    "text": "or"
+  },
+  {
+    "start": 2045.5,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 2046.54,
+    "duration": 1.52,
+    "text": "a sort of playbook"
+  },
+  {
+    "start": 2048.06,
+    "duration": 5.52,
+    "text": "That the person that you hire to get you from one to ten million an arr"
+  },
+  {
+    "start": 2054.06,
+    "duration": 5.76,
+    "text": "Or just in the abstract one to ten is is different from the person to take you from ten to a hundred"
+  },
+  {
+    "start": 2060.62,
+    "duration": 2.0,
+    "text": "and I think the"
+  },
+  {
+    "start": 2062.62,
+    "duration": 2.0,
+    "text": "biggest indicator of that"
+  },
+  {
+    "start": 2065.1,
+    "duration": 1.44,
+    "text": "um"
+  },
+  {
+    "start": 2066.54,
+    "duration": 4.42,
+    "text": "And when there are signs that this person probably needs to be topped effectively"
+  },
+  {
+    "start": 2071.82,
+    "duration": 6.64,
+    "text": "Is one's ability to hire people that are both more senior and better than them?"
+  },
+  {
+    "start": 2079.02,
+    "duration": 4.72,
+    "text": "At the at the respective role that they will be joining in in the examples here"
+  },
+  {
+    "start": 2084.22,
+    "duration": 3.2,
+    "text": "Um, there are two big ones that come to mind one is rev offs"
+  },
+  {
+    "start": 2088.7,
+    "duration": 2.34,
+    "text": "So you're at like 10 million in arr"
+  },
+  {
+    "start": 2091.76,
+    "duration": 0.88,
+    "text": "Um"
+  },
+  {
+    "start": 2092.64,
+    "duration": 2.8,
+    "text": "You want to get to 20 plus this year?"
+  },
+  {
+    "start": 2095.6,
+    "duration": 3.36,
+    "text": "Like i'm just being an example in the abstract for the first time"
+  },
+  {
+    "start": 2099.44,
+    "duration": 5.92,
+    "text": "You're probably hiring like a pretty senior rev ops leader. You've maybe got 15 20 sales reps. You're doubling"
+  },
+  {
+    "start": 2105.44,
+    "duration": 4.56,
+    "text": "You're going to be a 50 50 person sales rep team by the end of next year"
+  },
+  {
+    "start": 2110.56,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 2111.52,
+    "duration": 2.58,
+    "text": "You really need a strong rev ops counterpart"
+  },
+  {
+    "start": 2115.04,
+    "duration": 4.5,
+    "text": "And look like regardless of the leveling this is somebody with a lot of experience"
+  },
+  {
+    "start": 2120.18,
+    "duration": 5.76,
+    "text": "Probably more experience than you as a sales leader certainly more experience than I had at zinna fits"
+  },
+  {
+    "start": 2126.34,
+    "duration": 3.52,
+    "text": "um, and even at brex, um when we brought in tarishma, uh,"
+  },
+  {
+    "start": 2130.42,
+    "duration": 1.04,
+    "text": "and"
+  },
+  {
+    "start": 2131.46,
+    "duration": 6.88,
+    "text": "I think like if you can't hire somebody that their resume is like, holy shit, like that person is"
+  },
+  {
+    "start": 2138.98,
+    "duration": 4.24,
+    "text": "Better than me more senior than me smarter than me. Um, however, you want to like frame this thing"
+  },
+  {
+    "start": 2143.78,
+    "duration": 5.2,
+    "text": "Um, then it's gonna be really difficult for you to continue scaling. So I think like that is one example the other example"
+  },
+  {
+    "start": 2149.54,
+    "duration": 7.28,
+    "text": "Um in in against benefits was a little bit unique. Uh in how fast we were growing but the vps of sales"
+  },
+  {
+    "start": 2156.98,
+    "duration": 6.48,
+    "text": "So so like the the sales leaders that either, you know ran a segment or ran an office, uh, we opened up"
+  },
+  {
+    "start": 2164.26,
+    "duration": 2.24,
+    "text": "offices in lower cost areas like phoenix, um"
+  },
+  {
+    "start": 2167.54,
+    "duration": 2.64,
+    "text": "They had far more experience than me. Uh"
+  },
+  {
+    "start": 2171.3,
+    "duration": 2.0,
+    "text": "um and"
+  },
+  {
+    "start": 2173.62,
+    "duration": 2.32,
+    "text": "You know, we hired somebody to run"
+  },
+  {
+    "start": 2176.74,
+    "duration": 3.54,
+    "text": "Something that we called let's just say we were hiring somebody to run like enterprise"
+  },
+  {
+    "start": 2181.06,
+    "duration": 3.6,
+    "text": "And my experience is more sort of like transactional and mid-market"
+  },
+  {
+    "start": 2184.66,
+    "duration": 5.44,
+    "text": "So if you think about somebody that's selling to 5 000 plus employee companies i've done that as an ic"
+  },
+  {
+    "start": 2190.34,
+    "duration": 2.96,
+    "text": "It's been less so of what i've focused on as a leader"
+  },
+  {
+    "start": 2193.86,
+    "duration": 7.84,
+    "text": "I've got to be able to hire somebody that is better at selling and leading enterprise sales organizations than I am"
+  },
+  {
+    "start": 2202.18,
+    "duration": 6.48,
+    "text": "Um, and so then uh, you know all back to like the primary point here around leadership scaling where"
+  },
+  {
+    "start": 2209.3,
+    "duration": 2.0,
+    "text": "if you want to be the"
+  },
+  {
+    "start": 2211.62,
+    "duration": 4.72,
+    "text": "um indefinite leader, I think a great signal for that is your ability to hire people that are"
+  },
+  {
+    "start": 2217.3,
+    "duration": 6.8,
+    "text": "More experienced and better than you at their respective functions. Um, which a lot of people aren't"
+  },
+  {
+    "start": 2224.5,
+    "duration": 1.52,
+    "text": "Um and"
+  },
+  {
+    "start": 2226.02,
+    "duration": 4.96,
+    "text": "the second thing that comes to mind, um, which was more pointed in your question around like how then"
+  },
+  {
+    "start": 2231.78,
+    "duration": 3.2,
+    "text": "What are the things that you solve for? Um"
+  },
+  {
+    "start": 2238.82,
+    "duration": 5.3,
+    "text": "Couple things come to mind. Um, I am a big proponent"
+  },
+  {
+    "start": 2244.9,
+    "duration": 1.12,
+    "text": "of"
+  },
+  {
+    "start": 2246.02,
+    "duration": 3.12,
+    "text": "Uh placing a lot of influence on how candidates are sourced"
+  },
+  {
+    "start": 2250.74,
+    "duration": 2.0,
+    "text": "And"
+  },
+  {
+    "start": 2252.82,
+    "duration": 3.52,
+    "text": "If I were to do something like, you know, I just mentioned um"
+  },
+  {
+    "start": 2257.06,
+    "duration": 6.96,
+    "text": "I just mentioned this exceptional rev ops leader that uh, I was fortunate to have a sort of alongside me"
+  },
+  {
+    "start": 2264.42,
+    "duration": 3.04,
+    "text": "Running the brex sales organization. Her name is trish masha"
+  },
+  {
+    "start": 2268.18,
+    "duration": 4.96,
+    "text": "uh, she's now a coo at um, uh, the cole group and"
+  },
+  {
+    "start": 2273.86,
+    "duration": 1.1,
+    "text": "um"
+  },
+  {
+    "start": 2274.96,
+    "duration": 2.0,
+    "text": "trishma"
+  },
+  {
+    "start": 2277.46,
+    "duration": 4.8,
+    "text": "We had a coo at brex at the time named ph he came from google, uh"
+  },
+  {
+    "start": 2282.74,
+    "duration": 6.08,
+    "text": "And ph was like look this person is the best rev ops leader at all of google"
+  },
+  {
+    "start": 2289.62,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 2290.66,
+    "duration": 1.04,
+    "text": "and uh"
+  },
+  {
+    "start": 2291.7,
+    "duration": 6.88,
+    "text": "You know, he was close with her and and super helpful in sourcing trish as a candidate and i'm sure influencing her to join as well"
+  },
+  {
+    "start": 2298.98,
+    "duration": 2.72,
+    "text": "um, but that's just an example where like if you"
+  },
+  {
+    "start": 2302.4,
+    "duration": 1.94,
+    "text": "contrast that"
+  },
+  {
+    "start": 2304.34,
+    "duration": 1.2,
+    "text": "with"
+  },
+  {
+    "start": 2305.54,
+    "duration": 1.68,
+    "text": "let's put"
+  },
+  {
+    "start": 2307.22,
+    "duration": 1.12,
+    "text": "a"
+  },
+  {
+    "start": 2308.34,
+    "duration": 0.96,
+    "text": "job"
+  },
+  {
+    "start": 2309.3,
+    "duration": 4.16,
+    "text": "Um, you know like a job rec on our website"
+  },
+  {
+    "start": 2314.1,
+    "duration": 8.0,
+    "text": "And get some people to like apply to the svp of go-to-market strategy and ops position that we have opened up"
+  },
+  {
+    "start": 2322.66,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 2323.86,
+    "duration": 3.52,
+    "text": "and again, like I think it's an illustration, but the primary point here is"
+  },
+  {
+    "start": 2328.18,
+    "duration": 5.6,
+    "text": "I I just place a lot of emphasis on in network recruiting in sourcing candidates where"
+  },
+  {
+    "start": 2334.42,
+    "duration": 6.4,
+    "text": "Their reputation precedes them in a way that like for the first when I first met trishma and I could use this example with"
+  },
+  {
+    "start": 2341.46,
+    "duration": 3.04,
+    "text": "10 different sales leaders. Um, so this isn't an in of one"
+  },
+  {
+    "start": 2346.02,
+    "duration": 7.28,
+    "text": "I knew like I I almost knew I wanted to hire her before the first time we met because of"
+  },
+  {
+    "start": 2353.86,
+    "duration": 5.36,
+    "text": "um her reputation and how highly recommended she was and again, like, um,"
+  },
+  {
+    "start": 2359.62,
+    "duration": 3.2,
+    "text": "uh, that is one very specific example, but um"
+  },
+  {
+    "start": 2363.78,
+    "duration": 4.32,
+    "text": "It is more common than not as I look to hire senior leaders"
+  },
+  {
+    "start": 2368.18,
+    "duration": 3.92,
+    "text": "I just place a lot of emphasis on that recruiting process and where the candidates are coming from"
+  },
+  {
+    "start": 2372.66,
+    "duration": 2.0,
+    "text": "and the reputation that they have"
+  },
+  {
+    "start": 2374.82,
+    "duration": 2.0,
+    "text": "coming into the role"
+  },
+  {
+    "start": 2377.3,
+    "duration": 6.08,
+    "text": "um, so one like sourcing is really important, of course, I you know, like"
+  },
+  {
+    "start": 2384.1,
+    "duration": 5.46,
+    "text": "Here's what I would say like hiring leaders is almost easier than hiring individual contributors is almost easier than hiring sdrs"
+  },
+  {
+    "start": 2389.96,
+    "duration": 4.0,
+    "text": "Because you've got you've got this like track record and back channel"
+  },
+  {
+    "start": 2394.26,
+    "duration": 4.5,
+    "text": "Reference thing to lean on and if you if you think about hiring an sdr right out of school"
+  },
+  {
+    "start": 2399.16,
+    "duration": 2.58,
+    "text": "You're hiring for like like purely intangibles"
+  },
+  {
+    "start": 2402.44,
+    "duration": 0.72,
+    "text": "um"
+  },
+  {
+    "start": 2403.16,
+    "duration": 3.12,
+    "text": "and when you you compare that to trishma and you can go to"
+  },
+  {
+    "start": 2406.92,
+    "duration": 6.72,
+    "text": "LinkedIn or whatever you see like holy shit. Like yeah that that woman's a badass. Um, and and so like, um, that's why like"
+  },
+  {
+    "start": 2414.04,
+    "duration": 1.04,
+    "text": "uh"
+  },
+  {
+    "start": 2415.08,
+    "duration": 5.6,
+    "text": "Certainly hiring leaders is like higher risk and more important. You can't make making a mistake there is far more costly"
+  },
+  {
+    "start": 2420.92,
+    "duration": 2.0,
+    "text": "but in a way"
+  },
+  {
+    "start": 2423.32,
+    "duration": 3.36,
+    "text": "Picking the right person it is almost easier"
+  },
+  {
+    "start": 2427.08,
+    "duration": 7.36,
+    "text": "uh, because you have so much of their track record and experience to go on off of so long as you can recruit, um,"
+  },
+  {
+    "start": 2434.68,
+    "duration": 1.52,
+    "text": "I I think again"
+  },
+  {
+    "start": 2436.2,
+    "duration": 3.6,
+    "text": "Going back to uh something that that and there's plenty i'm bad at"
+  },
+  {
+    "start": 2440.12,
+    "duration": 3.94,
+    "text": "Um, but going back to something that i'm good at a lot of people wouldn't be able to hire trishma"
+  },
+  {
+    "start": 2445.08,
+    "duration": 7.76,
+    "text": "Um, and I I was able to get in a room with her and convince her to come on this journey with me and us"
+  },
+  {
+    "start": 2453.4,
+    "duration": 2.0,
+    "text": "uh, and so then I think"
+  },
+  {
+    "start": 2455.48,
+    "duration": 6.88,
+    "text": "When you're not when like you don't have that, uh skill set or capability then leadership recruiting becomes much more difficult"
+  },
+  {
+    "start": 2463.64,
+    "duration": 2.0,
+    "text": "Yeah, that makes a ton of sense"
+  },
+  {
+    "start": 2465.96,
+    "duration": 1.44,
+    "text": "um"
+  },
+  {
+    "start": 2467.4,
+    "duration": 2.48,
+    "text": "and what about for internal promotes so when"
+  },
+  {
+    "start": 2470.84,
+    "duration": 2.56,
+    "text": "if you think back to the managers who you've"
+  },
+  {
+    "start": 2473.8,
+    "duration": 2.0,
+    "text": "Put into a second line"
+  },
+  {
+    "start": 2476.12,
+    "duration": 6.48,
+    "text": "Position, what were you looking for in those people because you mentioned, you know, only true rock stars are going to make that jump"
+  },
+  {
+    "start": 2482.6,
+    "duration": 2.0,
+    "text": "What what were you trying to identify?"
+  },
+  {
+    "start": 2487.4,
+    "duration": 4.16,
+    "text": "Well, I talked a little bit about the the sort of like first line manager qualification criteria"
+  },
+  {
+    "start": 2492.12,
+    "duration": 3.2,
+    "text": "Um, which was that they're they're number one on the leaderboard"
+  },
+  {
+    "start": 2496.28,
+    "duration": 2.0,
+    "text": "um, and"
+  },
+  {
+    "start": 2498.28,
+    "duration": 4.24,
+    "text": "They you want others to emulate their behavior"
+  },
+  {
+    "start": 2504.04,
+    "duration": 0.72,
+    "text": "um"
+  },
+  {
+    "start": 2504.76,
+    "duration": 7.14,
+    "text": "Both the sort of like positivity that they bring that hopefully cascades to others in the organization"
+  },
+  {
+    "start": 2512.68,
+    "duration": 3.28,
+    "text": "And the work ethic that they bring that hopefully does the same"
+  },
+  {
+    "start": 2516.52,
+    "duration": 6.8,
+    "text": "Um, and and so that's like the first line, uh qualification criteria or just like leadership leadership criteria more broadly"
+  },
+  {
+    "start": 2523.96,
+    "duration": 2.64,
+    "text": "I think um on the second line"
+  },
+  {
+    "start": 2527.56,
+    "duration": 1.84,
+    "text": "there there is um"
+  },
+  {
+    "start": 2529.4,
+    "duration": 6.56,
+    "text": "What I would describe as a level of maturity that starts to exist"
+  },
+  {
+    "start": 2536.76,
+    "duration": 3.28,
+    "text": "and um what I would describe as um"
+  },
+  {
+    "start": 2540.92,
+    "duration": 3.84,
+    "text": "Here's an easy way that that um, here's like a sort of tactical"
+  },
+  {
+    "start": 2545.32,
+    "duration": 4.88,
+    "text": "Um thing that that I used that others can use when you start learning"
+  },
+  {
+    "start": 2551.32,
+    "duration": 2.16,
+    "text": "from your sales leaders"
+  },
+  {
+    "start": 2554.12,
+    "duration": 1.2,
+    "text": "Um"
+  },
+  {
+    "start": 2555.32,
+    "duration": 5.04,
+    "text": "And and the word strategy is very loaded and like buzzwordy, but I think like people get what it means. Um"
+  },
+  {
+    "start": 2560.84,
+    "duration": 2.0,
+    "text": "as an example, like"
+  },
+  {
+    "start": 2562.92,
+    "duration": 7.12,
+    "text": "And I don't I we keep using these same examples. Okay, um, whether it's matt plank at uh, uh, zenefits or um,"
+  },
+  {
+    "start": 2570.36,
+    "duration": 5.84,
+    "text": "Uh jameson young the same or or brandon boyle at uh, brex or bobby lukeman at brex. Um"
+  },
+  {
+    "start": 2578.12,
+    "duration": 4.26,
+    "text": "Who sort of led segments as first line managers"
+  },
+  {
+    "start": 2582.7,
+    "duration": 6.0,
+    "text": "But they were they were really executing on my strategy as first line managers"
+  },
+  {
+    "start": 2589.58,
+    "duration": 2.0,
+    "text": "when they started coming to me"
+  },
+  {
+    "start": 2592.38,
+    "duration": 0.88,
+    "text": "with"
+  },
+  {
+    "start": 2593.26,
+    "duration": 3.52,
+    "text": "Again, I it's loaded and I hate using it but when they started coming to me with like"
+  },
+  {
+    "start": 2597.56,
+    "duration": 2.0,
+    "text": "strategic decisions"
+  },
+  {
+    "start": 2599.74,
+    "duration": 0.88,
+    "text": "on"
+  },
+  {
+    "start": 2600.62,
+    "duration": 0.96,
+    "text": "how"
+  },
+  {
+    "start": 2601.58,
+    "duration": 2.34,
+    "text": "We should be running the organization"
+  },
+  {
+    "start": 2604.62,
+    "duration": 5.6,
+    "text": "That the segment that they were leading and they would be um, like they would be"
+  },
+  {
+    "start": 2611.02,
+    "duration": 2.8,
+    "text": "Things that I hadn't thought of and they would be right"
+  },
+  {
+    "start": 2614.62,
+    "duration": 2.32,
+    "text": "um, that's I think like when"
+  },
+  {
+    "start": 2617.74,
+    "duration": 5.84,
+    "text": "they exhibited the level of maturity that like I can sort of trust this person to"
+  },
+  {
+    "start": 2624.14,
+    "duration": 2.48,
+    "text": "Make decisions on my behalf"
+  },
+  {
+    "start": 2627.26,
+    "duration": 4.0,
+    "text": "And hopefully they're even better than me because of the proximity to the business"
+  },
+  {
+    "start": 2631.82,
+    "duration": 3.04,
+    "text": "At making those decisions and I think that's not true"
+  },
+  {
+    "start": 2635.74,
+    "duration": 5.36,
+    "text": "Almost universally when you promote somebody that was just a sales rep to a sales manager"
+  },
+  {
+    "start": 2642.46,
+    "duration": 2.56,
+    "text": "Yeah, one of my favorite things is being proven wrong"
+  },
+  {
+    "start": 2646.38,
+    "duration": 5.12,
+    "text": "Because you know you get to learn something new. I love the novelty of being like, oh wow that worked"
+  },
+  {
+    "start": 2651.98,
+    "duration": 7.6,
+    "text": "And it's it's such a powerful signal that the business doesn't rely on you anymore. Like I think a lot of us go through this"
+  },
+  {
+    "start": 2660.62,
+    "duration": 2.0,
+    "text": "phase where"
+  },
+  {
+    "start": 2663.42,
+    "duration": 4.32,
+    "text": "We sort of do three jobs like in my first year at owner I was"
+  },
+  {
+    "start": 2668.36,
+    "duration": 2.0,
+    "text": "executive revenue owner"
+  },
+  {
+    "start": 2670.54,
+    "duration": 1.52,
+    "text": "second line manager"
+  },
+  {
+    "start": 2672.06,
+    "duration": 5.84,
+    "text": "And sort of first line manager because I was in the weeds writing scripts and trying to like actually spending a bunch of time with reps"
+  },
+  {
+    "start": 2678.38,
+    "duration": 2.96,
+    "text": "And the the feeling I was just wrong on something"
+  },
+  {
+    "start": 2681.9,
+    "duration": 5.12,
+    "text": "That I felt sort of strongly about but I was like i'm gonna trust my team and you know, let's let's see how it goes"
+  },
+  {
+    "start": 2687.66,
+    "duration": 0.88,
+    "text": "um"
+  },
+  {
+    "start": 2688.54,
+    "duration": 0.96,
+    "text": "and"
+  },
+  {
+    "start": 2689.5,
+    "duration": 4.32,
+    "text": "they were right and it was just like oh, that's an amazing feeling because it it's"
+  },
+  {
+    "start": 2694.54,
+    "duration": 3.84,
+    "text": "It lets you know that the this group can now"
+  },
+  {
+    "start": 2699.5,
+    "duration": 6.24,
+    "text": "Do things with autonomy without your input and and get to the right answer. It is such an empowering feeling"
+  },
+  {
+    "start": 2706.3,
+    "duration": 1.68,
+    "text": "Uh, as long as you can let go"
+  },
+  {
+    "start": 2707.98,
+    "duration": 5.84,
+    "text": "I think this concept applies to two things that we've touched on that are sort of related one is like, um"
+  },
+  {
+    "start": 2714.06,
+    "duration": 2.0,
+    "text": "You"
+  },
+  {
+    "start": 2716.38,
+    "duration": 5.2,
+    "text": "Talked about uh, the the topic we were on was you know, first line manager to second line manager"
+  },
+  {
+    "start": 2721.74,
+    "duration": 5.6,
+    "text": "How do you know that like somebody's really exceptional? It's like look I start learning a lot about my own business. Um through them"
+  },
+  {
+    "start": 2727.98,
+    "duration": 0.88,
+    "text": "uh"
+  },
+  {
+    "start": 2728.86,
+    "duration": 5.2,
+    "text": "And they are coming to me with things that we should do differently. We do those things and they're right"
+  },
+  {
+    "start": 2734.54,
+    "duration": 2.32,
+    "text": "They have you know positive impact on"
+  },
+  {
+    "start": 2737.42,
+    "duration": 1.2,
+    "text": "growth"
+  },
+  {
+    "start": 2738.62,
+    "duration": 1.84,
+    "text": "I think the same is true"
+  },
+  {
+    "start": 2740.46,
+    "duration": 4.72,
+    "text": "When i'm talking to senior leaders through the interview process, which is"
+  },
+  {
+    "start": 2745.82,
+    "duration": 2.82,
+    "text": "um, I come away from interviews"
+  },
+  {
+    "start": 2749.58,
+    "duration": 5.12,
+    "text": "Learning things about my business and with ideas that like we should probably like do that thing"
+  },
+  {
+    "start": 2754.78,
+    "duration": 6.32,
+    "text": "you know, i've um an interview style is preventing or presenting, uh, a leadership candidate with like"
+  },
+  {
+    "start": 2761.74,
+    "duration": 3.7,
+    "text": "Some of the challenges that we're experiencing in the sales organization"
+  },
+  {
+    "start": 2766.3,
+    "duration": 1.36,
+    "text": "and"
+  },
+  {
+    "start": 2767.66,
+    "duration": 5.6,
+    "text": "Like what would you do? How would you address this challenge? And oftentimes it's like look I actually like don't know what to do"
+  },
+  {
+    "start": 2773.82,
+    "duration": 2.88,
+    "text": "um, like we actually we are experiencing this challenge and"
+  },
+  {
+    "start": 2777.26,
+    "duration": 3.04,
+    "text": "we're trying to figure out what to do with it and there are plenty of"
+  },
+  {
+    "start": 2780.6,
+    "duration": 5.14,
+    "text": "Instances where i've come away from interviews where like that is really thoughtful like we should do that thing"
+  },
+  {
+    "start": 2786.3,
+    "duration": 2.0,
+    "text": "um, and I think that's a really positive signal for"
+  },
+  {
+    "start": 2788.86,
+    "duration": 1.52,
+    "text": "uh"
+  },
+  {
+    "start": 2790.38,
+    "duration": 3.84,
+    "text": "You know, um hiring people in addition to promoting them"
+  },
+  {
+    "start": 2795.02,
+    "duration": 2.5,
+    "text": "Yeah, how you doing on time we're 203"
+  },
+  {
+    "start": 2798.3,
+    "duration": 4.96,
+    "text": "But I I have a two o'clock but let's let's do if we can time box it to like two three minutes"
+  },
+  {
+    "start": 2803.74,
+    "duration": 1.68,
+    "text": "uh, okay"
+  },
+  {
+    "start": 2805.42,
+    "duration": 3.68,
+    "text": "all right, one question then we'll do rapid fire or a quick fire, so"
+  },
+  {
+    "start": 2809.98,
+    "duration": 1.68,
+    "text": "When you got it wrong"
+  },
+  {
+    "start": 2811.66,
+    "duration": 1.92,
+    "text": "What usually drove it?"
+  },
+  {
+    "start": 2813.58,
+    "duration": 3.52,
+    "text": "Give me um, give me two seconds. I'm gonna uh, snack this"
+  },
+  {
+    "start": 2825.02,
+    "duration": 4.8,
+    "text": "I should have uh prompted the time check a couple minutes ago. It's my fault because"
+  },
+  {
+    "start": 2833.02,
+    "duration": 7.76,
+    "text": "Um, I uh had to get pretty for the uh call, um, do you want to um re-ask the question"
+  },
+  {
+    "start": 2841.02,
+    "duration": 2.0,
+    "text": "Yeah, and then yeah, cool"
+  },
+  {
+    "start": 2843.34,
+    "duration": 1.12,
+    "text": "so, uh"
+  },
+  {
+    "start": 2844.46,
+    "duration": 1.52,
+    "text": "When you got it wrong"
+  },
+  {
+    "start": 2845.98,
+    "duration": 6.88,
+    "text": "What did you learn from those like what what drove the wrong decision when you've promoted internally or or hired externally?"
+  },
+  {
+    "start": 2855.1,
+    "duration": 1.12,
+    "text": "Um"
+  },
+  {
+    "start": 2856.22,
+    "duration": 4.4,
+    "text": "Well the first thing that comes to mind on the promoted internally we talked about a little bit before which is this like concept of"
+  },
+  {
+    "start": 2860.62,
+    "duration": 2.0,
+    "text": "need versus want um"
+  },
+  {
+    "start": 2862.7,
+    "duration": 0.96,
+    "text": "and"
+  },
+  {
+    "start": 2863.66,
+    "duration": 1.28,
+    "text": "uh"
+  },
+  {
+    "start": 2864.94,
+    "duration": 6.48,
+    "text": "Look, I would say that on it. Um said differently. I don't know that there is an example"
+  },
+  {
+    "start": 2873.42,
+    "duration": 1.04,
+    "text": "Where"
+  },
+  {
+    "start": 2874.46,
+    "duration": 4.96,
+    "text": "A person has met the criteria that I described which is they are number one on the team"
+  },
+  {
+    "start": 2880.46,
+    "duration": 2.24,
+    "text": "They have a really positive attitude"
+  },
+  {
+    "start": 2883.58,
+    "duration": 2.0,
+    "text": "And they work their ass off"
+  },
+  {
+    "start": 2885.66,
+    "duration": 3.92,
+    "text": "I cannot think of a single example where like that criteria was met"
+  },
+  {
+    "start": 2890.54,
+    "duration": 7.04,
+    "text": "And it wasn't a successful promotion. So, um, I think like, you know, uh where I have gone wrong is"
+  },
+  {
+    "start": 2898.14,
+    "duration": 7.52,
+    "text": "Where that criteria hasn't been met? Um, and then is is it and I have made mistakes, um on"
+  },
+  {
+    "start": 2906.22,
+    "duration": 2.0,
+    "text": "hiring externally, uh"
+  },
+  {
+    "start": 2910.38,
+    "duration": 2.0,
+    "text": "The"
+  },
+  {
+    "start": 2913.58,
+    "duration": 2.0,
+    "text": "You"
+  },
+  {
+    "start": 2920.94,
+    "duration": 2.0,
+    "text": "Of course cut out this long pause"
+  },
+  {
+    "start": 2924.14,
+    "duration": 1.2,
+    "text": "Of course, um"
+  },
+  {
+    "start": 2925.34,
+    "duration": 4.4,
+    "text": "Bear with me just a second as you can see i'm sort of like reflecting in real time, but want to come away with uh,"
+  },
+  {
+    "start": 2930.14,
+    "duration": 2.0,
+    "text": "something tactical here"
+  },
+  {
+    "start": 2932.3,
+    "duration": 2.0,
+    "text": "uh"
+  },
+  {
+    "start": 2942.7,
+    "duration": 2.0,
+    "text": "So"
+  },
+  {
+    "start": 2956.7,
+    "duration": 2.0,
+    "text": "Yeah, um"
+  },
+  {
+    "start": 2960.54,
+    "duration": 5.28,
+    "text": "I think there are several specific examples that come to mind"
+  },
+  {
+    "start": 2967.34,
+    "duration": 4.4,
+    "text": "And our good friend jason limkin, uh probably uh talks about this as well"
+  },
+  {
+    "start": 2972.86,
+    "duration": 1.44,
+    "text": "where"
+  },
+  {
+    "start": 2974.3,
+    "duration": 6.48,
+    "text": "I have made leadership hires and in senior hires and strategic hires and everyone to frame it"
+  },
+  {
+    "start": 2982.06,
+    "duration": 2.8,
+    "text": "And I have I have convinced myself"
+  },
+  {
+    "start": 2985.5,
+    "duration": 2.0,
+    "text": "That they are a pluses"
+  },
+  {
+    "start": 2987.74,
+    "duration": 2.16,
+    "text": "That they are the right person. They they are"
+  },
+  {
+    "start": 2990.38,
+    "duration": 1.44,
+    "text": "um, uh"
+  },
+  {
+    "start": 2991.82,
+    "duration": 2.0,
+    "text": "the best person for the role"
+  },
+  {
+    "start": 2994.62,
+    "duration": 2.0,
+    "text": "And in reality"
+  },
+  {
+    "start": 2997.1,
+    "duration": 2.5,
+    "text": "It was to solve for urgency"
+  },
+  {
+    "start": 3000.56,
+    "duration": 2.0,
+    "text": "Uh and"
+  },
+  {
+    "start": 3003.36,
+    "duration": 4.16,
+    "text": "You know the specific examples that I am thinking of of which there are more than one"
+  },
+  {
+    "start": 3007.92,
+    "duration": 2.8,
+    "text": "It's like the search had been going on for too long"
+  },
+  {
+    "start": 3011.28,
+    "duration": 0.88,
+    "text": "and"
+  },
+  {
+    "start": 3012.16,
+    "duration": 2.88,
+    "text": "I I probably felt pressure"
+  },
+  {
+    "start": 3015.6,
+    "duration": 1.28,
+    "text": "from"
+  },
+  {
+    "start": 3016.88,
+    "duration": 1.44,
+    "text": "the ceo"
+  },
+  {
+    "start": 3018.32,
+    "duration": 6.48,
+    "text": "Or or like pressure from myself internal pressure. Yeah, just like look we need that this this function needs to exist"
+  },
+  {
+    "start": 3025.44,
+    "duration": 2.72,
+    "text": "And the business is suffering because it doesn't"
+  },
+  {
+    "start": 3028.8,
+    "duration": 1.52,
+    "text": "And"
+  },
+  {
+    "start": 3030.32,
+    "duration": 6.72,
+    "text": "um while in the moment, I probably would have as I said sort of like convinced myself like this is definitely the best person"
+  },
+  {
+    "start": 3037.92,
+    "duration": 1.44,
+    "text": "every time"
+  },
+  {
+    "start": 3039.36,
+    "duration": 4.0,
+    "text": "Um, I think if I reflect on it, it probably wasn't true"
+  },
+  {
+    "start": 3044.16,
+    "duration": 1.76,
+    "text": "um, and so then"
+  },
+  {
+    "start": 3045.92,
+    "duration": 7.04,
+    "text": "I think um, the number one thing that comes to mind as I think of sort of like more senior leadership hire mistakes"
+  },
+  {
+    "start": 3053.52,
+    "duration": 1.2,
+    "text": "it is"
+  },
+  {
+    "start": 3054.72,
+    "duration": 2.9,
+    "text": "trading off quality for urgency"
+  },
+  {
+    "start": 3058.32,
+    "duration": 5.92,
+    "text": "Um, and what ultimately happens in those instances is it actually costs you far more time?"
+  },
+  {
+    "start": 3064.72,
+    "duration": 2.0,
+    "text": "Because if they don't work out"
+  },
+  {
+    "start": 3066.72,
+    "duration": 3.04,
+    "text": "Uh, you spend all of the time onboarding them"
+  },
+  {
+    "start": 3070.48,
+    "duration": 3.3,
+    "text": "They hire people that may or may not be the right fits themselves"
+  },
+  {
+    "start": 3074.56,
+    "duration": 2.0,
+    "text": "Um, it actually puts the business back"
+  },
+  {
+    "start": 3077.12,
+    "duration": 5.36,
+    "text": "Further than had you just waited to actually find the right person. Um,"
+  },
+  {
+    "start": 3083.04,
+    "duration": 2.0,
+    "text": "certainly like"
+  },
+  {
+    "start": 3085.12,
+    "duration": 2.16,
+    "text": "You know easier said than done. Um"
+  },
+  {
+    "start": 3088.24,
+    "duration": 1.28,
+    "text": "Uh"
+  },
+  {
+    "start": 3089.52,
+    "duration": 2.0,
+    "text": "How long do you wait?"
+  },
+  {
+    "start": 3091.52,
+    "duration": 4.32,
+    "text": "Uh to to make the hire. Um, and so that could be a podcast in and of itself"
+  },
+  {
+    "start": 3096.64,
+    "duration": 2.0,
+    "text": "Yeah, okay quick fire"
+  },
+  {
+    "start": 3099.28,
+    "duration": 2.0,
+    "text": "What do you wish you knew in the first?"
+  },
+  {
+    "start": 3101.92,
+    "duration": 3.92,
+    "text": "In your first vp of sales job that you came to understand sort of much later"
+  },
+  {
+    "start": 3106.16,
+    "duration": 4.48,
+    "text": "well give an illustration and then um, it's it's like a bigger concept so"
+  },
+  {
+    "start": 3111.12,
+    "duration": 5.04,
+    "text": "The illustration is um, I came from echo sign echo sign was acquired as a private company in"
+  },
+  {
+    "start": 3116.7,
+    "duration": 1.62,
+    "text": "2011 by adobe"
+  },
+  {
+    "start": 3118.32,
+    "duration": 5.84,
+    "text": "Um, we did not have sales ops at echo sign when we were acquired. So I think like different time"
+  },
+  {
+    "start": 3124.48,
+    "duration": 6.24,
+    "text": "Uh than today where sales ops is like or rev ops if you want to frame it is is like, you know, um universally"
+  },
+  {
+    "start": 3130.96,
+    "duration": 2.24,
+    "text": "Uh applicable to startups at a certain scale"
+  },
+  {
+    "start": 3133.84,
+    "duration": 2.0,
+    "text": "Um and adobe"
+  },
+  {
+    "start": 3135.92,
+    "duration": 2.96,
+    "text": "Gave us a couple sales ops"
+  },
+  {
+    "start": 3139.52,
+    "duration": 2.0,
+    "text": "Uh people to help"
+  },
+  {
+    "start": 3142.0,
+    "duration": 1.84,
+    "text": "And they were not good"
+  },
+  {
+    "start": 3143.84,
+    "duration": 7.68,
+    "text": "Um, and I think because of that I had this like hugely negative association with sales ops"
+  },
+  {
+    "start": 3151.92,
+    "duration": 1.28,
+    "text": "um, and"
+  },
+  {
+    "start": 3153.2,
+    "duration": 1.52,
+    "text": "They really screwed stuff up"
+  },
+  {
+    "start": 3154.72,
+    "duration": 6.0,
+    "text": "Like there were there were periods of times where leads weren't being routed to reps and everybody's like scratching their heads"
+  },
+  {
+    "start": 3160.72,
+    "duration": 4.8,
+    "text": "Like how did leads go down 50 percent? It's because the sales ops person like put in a new"
+  },
+  {
+    "start": 3166.08,
+    "duration": 5.6,
+    "text": "Uh qualification in a system that like routed leads to like a dummy invite. It was crazy. So, um"
+  },
+  {
+    "start": 3172.24,
+    "duration": 4.48,
+    "text": "My experience was like very negative and then I got to zinefits and um"
+  },
+  {
+    "start": 3177.52,
+    "duration": 4.0,
+    "text": "Everybody that I talked to when we were like 10 reps 15 reps 20 reps"
+  },
+  {
+    "start": 3181.68,
+    "duration": 2.4,
+    "text": "They're like you gotta get sales ops"
+  },
+  {
+    "start": 3184.08,
+    "duration": 0.8,
+    "text": "like"
+  },
+  {
+    "start": 3184.88,
+    "duration": 5.52,
+    "text": "You don't have anybody that's like dedicated to systems and process and like helping you on the analytical side and like all this"
+  },
+  {
+    "start": 3190.56,
+    "duration": 4.72,
+    "text": "And I was like, no, trust me. I've seen sales ops and we don't want that. Uh, and"
+  },
+  {
+    "start": 3196.08,
+    "duration": 1.52,
+    "text": "I was obviously wrong"
+  },
+  {
+    "start": 3197.6,
+    "duration": 2.0,
+    "text": "Um, we eventually got there"
+  },
+  {
+    "start": 3199.84,
+    "duration": 2.0,
+    "text": "Uh and uh"
+  },
+  {
+    "start": 3201.92,
+    "duration": 6.16,
+    "text": "huge huge impact both at zinefits and at rex like I can't speak highly enough of the influence that um"
+  },
+  {
+    "start": 3208.24,
+    "duration": 2.82,
+    "text": "Strong rev ops has on a go-to-market organization"
+  },
+  {
+    "start": 3211.68,
+    "duration": 2.0,
+    "text": "um, but I think the meta point is"
+  },
+  {
+    "start": 3215.12,
+    "duration": 5.04,
+    "text": "That I was sort of like I had had this experience at echo sign"
+  },
+  {
+    "start": 3220.88,
+    "duration": 0.8,
+    "text": "that"
+  },
+  {
+    "start": 3221.68,
+    "duration": 1.92,
+    "text": "um guided"
+  },
+  {
+    "start": 3223.6,
+    "duration": 2.0,
+    "text": "a stubbornness or"
+  },
+  {
+    "start": 3225.74,
+    "duration": 3.62,
+    "text": "decisioning at uh zinefits ultimately that was like"
+  },
+  {
+    "start": 3229.82,
+    "duration": 1.06,
+    "text": "wrong"
+  },
+  {
+    "start": 3230.88,
+    "duration": 2.88,
+    "text": "and I I should have been more open to"
+  },
+  {
+    "start": 3234.7,
+    "duration": 1.28,
+    "text": "considering"
+  },
+  {
+    "start": 3235.98,
+    "duration": 7.06,
+    "text": "Alternatives and not being sort of like so set in the way of things that I had seen work versus not work"
+  },
+  {
+    "start": 3243.52,
+    "duration": 6.56,
+    "text": "Um, and so that's probably like the bigger point. Um, I wish I was just like sort of uh, uh"
+  },
+  {
+    "start": 3252.64,
+    "duration": 2.16,
+    "text": "I was probably quite rigid in my thinking"
+  },
+  {
+    "start": 3255.36,
+    "duration": 2.0,
+    "text": "And felt like I knew"
+  },
+  {
+    "start": 3257.52,
+    "duration": 4.64,
+    "text": "What I was doing and everything that I was doing was right and those sorts of things and I should have been more open"
+  },
+  {
+    "start": 3262.64,
+    "duration": 0.78,
+    "text": "to"
+  },
+  {
+    "start": 3263.42,
+    "duration": 2.9,
+    "text": "considering alternatives and uh doing things differently"
+  },
+  {
+    "start": 3267.12,
+    "duration": 1.04,
+    "text": "cool"
+  },
+  {
+    "start": 3268.16,
+    "duration": 1.84,
+    "text": "Um last question"
+  },
+  {
+    "start": 3270.0,
+    "duration": 5.44,
+    "text": "What's the most common advice you give to new leaders and mentees?"
+  },
+  {
+    "start": 3277.68,
+    "duration": 6.64,
+    "text": "Um some of it's situational right but I think like, um, maybe we'll go back to something that um has helped me in"
+  },
+  {
+    "start": 3284.88,
+    "duration": 4.64,
+    "text": "My career, which is um, you say like new leaders. Here's this thing that I observe"
+  },
+  {
+    "start": 3291.5,
+    "duration": 7.0,
+    "text": "Oftentimes I will see somebody be promoted to a manager or be promoted to a director"
+  },
+  {
+    "start": 3299.2,
+    "duration": 0.96,
+    "text": "and"
+  },
+  {
+    "start": 3300.16,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 3301.2,
+    "duration": 2.88,
+    "text": "The the like reaction is sort of like an i've made it"
+  },
+  {
+    "start": 3304.8,
+    "duration": 7.2,
+    "text": "uh, you know, like there's this thing that i've like really been working hard for for the last 36 months at this company and like"
+  },
+  {
+    "start": 3312.08,
+    "duration": 3.28,
+    "text": "I've finally reached the mountaintop of being a sales manager"
+  },
+  {
+    "start": 3315.92,
+    "duration": 1.52,
+    "text": "um, and"
+  },
+  {
+    "start": 3317.44,
+    "duration": 4.56,
+    "text": "my advice to those people is like this is just the beginning and"
+  },
+  {
+    "start": 3322.56,
+    "duration": 0.88,
+    "text": "um"
+  },
+  {
+    "start": 3323.44,
+    "duration": 2.74,
+    "text": "The like second that you are satisfied"
+  },
+  {
+    "start": 3327.04,
+    "duration": 2.96,
+    "text": "With your accomplishments or where you are"
+  },
+  {
+    "start": 3330.64,
+    "duration": 3.3,
+    "text": "Is the second that your growth will be stunted?"
+  },
+  {
+    "start": 3334.64,
+    "duration": 0.88,
+    "text": "and so"
+  },
+  {
+    "start": 3335.52,
+    "duration": 2.26,
+    "text": "Um, just like never be satisfied"
+  },
+  {
+    "start": 3338.72,
+    "duration": 1.74,
+    "text": "always remain"
+  },
+  {
+    "start": 3340.54,
+    "duration": 6.24,
+    "text": "Hungry and I think to apply that to something that happened with me and part of why I"
+  },
+  {
+    "start": 3347.74,
+    "duration": 5.76,
+    "text": "Left being a cro left brex joined founders fund is for the first time in my career"
+  },
+  {
+    "start": 3354.3,
+    "duration": 4.24,
+    "text": "I felt satisfied with what I had accomplished as a sales leader"
+  },
+  {
+    "start": 3358.78,
+    "duration": 4.64,
+    "text": "Um, you know, I was cro doesn't like get a lot more senior than that as a sales leader"
+  },
+  {
+    "start": 3363.82,
+    "duration": 4.56,
+    "text": "At a company that I joined at series a that became a 12 and a half billion dollar company"
+  },
+  {
+    "start": 3368.38,
+    "duration": 4.0,
+    "text": "Like um, that that's that's like a pretty good. It's gonna be hard to emulate that. Um,"
+  },
+  {
+    "start": 3372.94,
+    "duration": 3.2,
+    "text": "As a sales leader and so for the first time ever I was sort of like, all right"
+  },
+  {
+    "start": 3376.22,
+    "duration": 2.0,
+    "text": "Like I feel like i've kind of done it. Um"
+  },
+  {
+    "start": 3378.86,
+    "duration": 5.44,
+    "text": "And so I knew that I needed a new challenge and part of that was what drove me to do something different"
+  },
+  {
+    "start": 3384.7,
+    "duration": 4.66,
+    "text": "Um, but but I i'd never I didn't reach that point of satisfaction"
+  },
+  {
+    "start": 3390.06,
+    "duration": 5.84,
+    "text": "Um until like much later in my career and until I had sort of achieved what I described in that cro role"
+  },
+  {
+    "start": 3396.38,
+    "duration": 6.0,
+    "text": "um, and now i'm sort of back to like actually there's something much bigger than uh being a cro that role like"
+  },
+  {
+    "start": 3402.86,
+    "duration": 4.24,
+    "text": "You should be a founder and ceo. Um, and so that is the sort of like new"
+  },
+  {
+    "start": 3407.74,
+    "duration": 2.0,
+    "text": "motivation for me and I think if you have"
+  },
+  {
+    "start": 3409.82,
+    "duration": 7.22,
+    "text": "That mind set at every step of your career, which is like, um, this is just the beginning. Um, I am not satisfied"
+  },
+  {
+    "start": 3417.66,
+    "duration": 3.76,
+    "text": "uh, i'm going to do like whatever it takes to uh get to"
+  },
+  {
+    "start": 3422.3,
+    "duration": 5.84,
+    "text": "The next level and then ultimately what I want to what I aspire to be as as a leader and with my career"
+  },
+  {
+    "start": 3429.34,
+    "duration": 1.04,
+    "text": "awesome"
+  },
+  {
+    "start": 3430.38,
+    "duration": 3.52,
+    "text": "Uh, this was great. I've got a whole whack load of notes"
+  },
+  {
+    "start": 3434.62,
+    "duration": 2.72,
+    "text": "my few of the takeaways that really stand out is this"
+  },
+  {
+    "start": 3438.86,
+    "duration": 8.16,
+    "text": "Idea of need versus want in terms of promoting people and being like absolutely certain and I think the the message around talent density"
+  },
+  {
+    "start": 3447.5,
+    "duration": 6.96,
+    "text": "Will definitely be one that people should take away from this just use a stack talent and the best people you can let them compete"
+  },
+  {
+    "start": 3455.02,
+    "duration": 1.68,
+    "text": "and uh"
+  },
+  {
+    "start": 3456.7,
+    "duration": 4.96,
+    "text": "Good things will happen. So I really appreciate the time. This was awesome really pumped. We could dive into this topic. So"
+  },
+  {
+    "start": 3462.06,
+    "duration": 6.56,
+    "text": "Uh, thanks for joining kyle. I appreciate having me. Um, and as I said, you're uh, somebody that I look up to as a"
+  },
+  {
+    "start": 3469.34,
+    "duration": 1.44,
+    "text": "leader and um"
+  },
+  {
+    "start": 3470.78,
+    "duration": 4.56,
+    "text": "really impressed with all that you've accomplished as an investor in owner and getting these updates of"
+  },
+  {
+    "start": 3475.74,
+    "duration": 2.56,
+    "text": "You just crushing it and so congrats on all the success"
+  },
+  {
+    "start": 3479.18,
+    "duration": 0.4,
+    "text": "Thanks, man"
+  },
+  {
+    "start": 3479.58,
+    "duration": 1.68,
+    "text": "It means a lot coming from you and you know"
+  },
+  {
+    "start": 3481.26,
+    "duration": 4.16,
+    "text": "I got a got a little ways to go to catch up to some of your track record. All right"
+  },
+  {
+    "start": 3485.5,
+    "duration": 4.8,
+    "text": "Well, um well on your way and uh, congrats on all the success. So, um, i'll talk to you sometime soon"
+  },
+  {
+    "start": 3490.94,
+    "duration": 2.0,
+    "text": "All right. Thanks. See you, man"
+  },
+  {
+    "start": 3497.5,
+    "duration": 3.6,
+    "text": "Thank you for listening to the revenue leadership podcast if you enjoyed it"
+  },
+  {
+    "start": 3501.18,
+    "duration": 3.36,
+    "text": "Don't forget to subscribe and you can find a link in the show notes"
+  },
+  {
+    "start": 3505.02,
+    "duration": 6.98,
+    "text": "And be sure to leave a five-star review share it with your network and please join me next wednesday for another great conversation"
+  }
+]

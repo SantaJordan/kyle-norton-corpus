@@ -1,0 +1,4712 @@
+[
+  {
+    "start": 7.56,
+    "duration": 2.84,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline."
+  },
+  {
+    "start": 11.88,
+    "duration": 6.04,
+    "text": "I'm your host Kyle Norton, CRO@owner.com and every Wednesday we"
+  },
+  {
+    "start": 17.92,
+    "duration": 3.04,
+    "text": "dive deep into the strategies and tactics being used to"
+  },
+  {
+    "start": 20.96,
+    "duration": 2.4,
+    "text": "drive success by the best revenue leaders in the world."
+  },
+  {
+    "start": 24.16,
+    "duration": 3.36,
+    "text": "So join me as I sit down with revenue operators"
+  },
+  {
+    "start": 27.52,
+    "duration": 3.12,
+    "text": "to discuss actionable frameworks that you can implement in your"
+  },
+  {
+    "start": 30.64,
+    "duration": 4.06,
+    "text": "business today with no fluff, no sales pitches and no"
+  },
+  {
+    "start": 34.7,
+    "duration": 7.08,
+    "text": "platitudes. This episode is brought to you by Salesape AI."
+  },
+  {
+    "start": 41.02,
+    "duration": 4.52,
+    "text": "Salesape is the AI powered sales assistant that engages your"
+  },
+  {
+    "start": 45.54,
+    "duration": 2.6,
+    "text": "inbound leads, instantly answers questions and books sales meetings without"
+  },
+  {
+    "start": 48.14,
+    "duration": 2.92,
+    "text": "you needing to hire extra staff. Built for any company"
+  },
+  {
+    "start": 51.06,
+    "duration": 3.12,
+    "text": "with more than 100 leads a month, Salesape ensures no."
+  },
+  {
+    "start": 54.18,
+    "duration": 3.08,
+    "text": "Leads slip through the cracks. More sales meetings, more deals,"
+  },
+  {
+    "start": 57.26,
+    "duration": 4.52,
+    "text": "less hassle. Grow without the overhead. Try Salesape for free"
+  },
+  {
+    "start": 61.78,
+    "duration": 7.34,
+    "text": "at Salesape AI Kyle. Today's guest is Mike Donahue, who"
+  },
+  {
+    "start": 69.12,
+    "duration": 4.72,
+    "text": "is the CRO at 11x and 11x. For those of"
+  },
+  {
+    "start": 73.84,
+    "duration": 2.24,
+    "text": "you who don't know, they build digital workers for go"
+  },
+  {
+    "start": 76.08,
+    "duration": 3.16,
+    "text": "to Market teams. One of the leading companies in this"
+  },
+  {
+    "start": 79.24,
+    "duration": 4.52,
+    "text": "AI evolution. So really excited to dig in on all"
+  },
+  {
+    "start": 83.76,
+    "duration": 3.0,
+    "text": "things AI in the future with Mike. And Mike's had"
+  },
+  {
+    "start": 86.76,
+    "duration": 5.16,
+    "text": "a very exciting career. He started at square sub 100"
+  },
+  {
+    "start": 91.92,
+    "duration": 3.08,
+    "text": "employees where he was in sales leadership for three years."
+  },
+  {
+    "start": 96.57,
+    "duration": 4.24,
+    "text": "Then he joined PayPal to start the Go to Market"
+  },
+  {
+    "start": 100.81,
+    "duration": 3.84,
+    "text": "team for the shopping product and was there from basically"
+  },
+  {
+    "start": 104.65,
+    "duration": 6.16,
+    "text": "zero all the way through $350 million in ARR and"
+  },
+  {
+    "start": 110.81,
+    "duration": 1.64,
+    "text": "was the head of commercialization. So that was a super"
+  },
+  {
+    "start": 112.45,
+    "duration": 4.44,
+    "text": "exciting stint. And most recently he was the SVP of"
+  },
+  {
+    "start": 116.89,
+    "duration": 6.61,
+    "text": "global sales at Grupshut. What's the pronunciation? Gupshup. Okay, that's"
+  },
+  {
+    "start": 123.5,
+    "duration": 3.8,
+    "text": "a mouth. And he's joined 11x in the last few"
+  },
+  {
+    "start": 127.3,
+    "duration": 5.2,
+    "text": "quarters as CRO to grow their team. And so I'm"
+  },
+  {
+    "start": 132.5,
+    "duration": 0.84,
+    "text": "really excited for this one. You know, it's a really"
+  },
+  {
+    "start": 134.9,
+    "duration": 2.12,
+    "text": "varied, interesting career that we can dive into. And we're"
+  },
+  {
+    "start": 137.02,
+    "duration": 5.8,
+    "text": "going to talk all things AI and how you see"
+  },
+  {
+    "start": 142.82,
+    "duration": 2.96,
+    "text": "the market playing out. We'll get into this concept of"
+  },
+  {
+    "start": 145.94,
+    "duration": 2.2,
+    "text": "the forward deployed engineer within Go to Market, which is"
+  },
+  {
+    "start": 149.7,
+    "duration": 5.02,
+    "text": "really fascinating. And get into the details of how people"
+  },
+  {
+    "start": 154.8,
+    "duration": 3.84,
+    "text": "can evolve because if they don't, I don't think the"
+  },
+  {
+    "start": 158.64,
+    "duration": 1.84,
+    "text": "market's going to be particularly kind to them. So let's"
+  },
+  {
+    "start": 160.48,
+    "duration": 7.08,
+    "text": "start there. What is your sense on where people are"
+  },
+  {
+    "start": 167.56,
+    "duration": 3.64,
+    "text": "at in this go to Market evolution? Like, there's the"
+  },
+  {
+    "start": 171.2,
+    "duration": 3.92,
+    "text": "commentary on LinkedIn which would make you feel like everybody's"
+  },
+  {
+    "start": 175.12,
+    "duration": 3.4,
+    "text": "doing all of this AI stuff, but you guys are"
+  },
+  {
+    "start": 178.52,
+    "duration": 1.6,
+    "text": "an AI startup. You talk to a bunch of CROs."
+  },
+  {
+    "start": 181.22,
+    "duration": 5.4,
+    "text": "Where do you think Adoption is today for the average"
+  },
+  {
+    "start": 186.1,
+    "duration": 6.6,
+    "text": "Series B C SaaS company. Yeah. Awesome. Yeah, thanks for"
+  },
+  {
+    "start": 192.7,
+    "duration": 1.48,
+    "text": "having me Kyle. I'm really excited to speak about this."
+  },
+  {
+    "start": 197.58,
+    "duration": 3.2,
+    "text": "I always. There's like that curve that you see about"
+  },
+  {
+    "start": 201.06,
+    "duration": 3.8,
+    "text": "kind of new markets and new technologies and I think"
+  },
+  {
+    "start": 204.86,
+    "duration": 2.53,
+    "text": "very much now we're in this new like early adopter"
+  },
+  {
+    "start": 208.55,
+    "duration": 3.44,
+    "text": "phase and it's really exciting. I was actually listening to"
+  },
+  {
+    "start": 211.99,
+    "duration": 2.56,
+    "text": "one of your earlier podcasts. You had this quote of."
+  },
+  {
+    "start": 214.03,
+    "duration": 4.64,
+    "text": "No, it's much, it was about experimenting with AI tools"
+  },
+  {
+    "start": 218.67,
+    "duration": 3.08,
+    "text": "and how valuable that is and how it's much riskier"
+  },
+  {
+    "start": 221.23,
+    "duration": 6.88,
+    "text": "to, it's much riskier to not experiment with multiple different"
+  },
+  {
+    "start": 228.11,
+    "duration": 3.68,
+    "text": "AI tools than to have like one of them not"
+  },
+  {
+    "start": 231.79,
+    "duration": 2.72,
+    "text": "work out. And I'm really, really seeing that in like"
+  },
+  {
+    "start": 234.51,
+    "duration": 3.26,
+    "text": "this early adopter phase, like the companies that I think"
+  },
+  {
+    "start": 237.77,
+    "duration": 1.72,
+    "text": "are really winning or trying like five to 10 different"
+  },
+  {
+    "start": 242.09,
+    "duration": 3.32,
+    "text": "like trying five different AI products on a quarterly basis"
+  },
+  {
+    "start": 246.65,
+    "duration": 3.72,
+    "text": "and really keeping the ones that are working and just"
+  },
+  {
+    "start": 250.37,
+    "duration": 4.52,
+    "text": "like, like it's really changing their organization. I think like"
+  },
+  {
+    "start": 254.13,
+    "duration": 4.4,
+    "text": "six months ago we were in this phase of maybe"
+  },
+  {
+    "start": 258.53,
+    "duration": 1.4,
+    "text": "like six months to a year ago we were in"
+  },
+  {
+    "start": 259.93,
+    "duration": 3.56,
+    "text": "this like phase of like creative like Claude and ChatGPT,"
+  },
+  {
+    "start": 264.65,
+    "duration": 8.0,
+    "text": "prompting of building reports, personalizing emails. And then now we're"
+  },
+  {
+    "start": 272.65,
+    "duration": 3.4,
+    "text": "really entering this kind of like application phase where there's"
+  },
+  {
+    "start": 276.05,
+    "duration": 4.16,
+    "text": "a number of companies that are building specific AI native"
+  },
+  {
+    "start": 280.21,
+    "duration": 7.52,
+    "text": "tools for go to market teams, solving roles of SDRs,"
+  },
+  {
+    "start": 287.89,
+    "duration": 6.32,
+    "text": "AES, Revenue Operations and yeah, it's really exciting to see"
+  },
+  {
+    "start": 295.53,
+    "duration": 2.68,
+    "text": "these products and how they can change a lot of"
+  },
+  {
+    "start": 298.21,
+    "duration": 3.84,
+    "text": "the operation flows. Yeah. And so when you talk to"
+  },
+  {
+    "start": 302.05,
+    "duration": 7.8,
+    "text": "the average CRO and 100 out of 100 being everything"
+  },
+  {
+    "start": 309.85,
+    "duration": 4.68,
+    "text": "is AI native. They've got digital solutions, engineers on calls"
+  },
+  {
+    "start": 314.53,
+    "duration": 1.84,
+    "text": "and an AI SDR on their website. That being 100"
+  },
+  {
+    "start": 317.61,
+    "duration": 2.24,
+    "text": "and zero, being like I don't have a single AI"
+  },
+  {
+    "start": 319.85,
+    "duration": 2.36,
+    "text": "workflow in my company and I, I maybe look up"
+  },
+  {
+    "start": 322.21,
+    "duration": 3.16,
+    "text": "some recipes with ChatGPT that that's like a, a zero."
+  },
+  {
+    "start": 326.93,
+    "duration": 4.36,
+    "text": "Where are most folks today on that spectrum? Yeah, I'd"
+  },
+  {
+    "start": 331.29,
+    "duration": 3.08,
+    "text": "say around like 20. It's really interesting. There's a, there's"
+  },
+  {
+    "start": 334.37,
+    "duration": 2.96,
+    "text": "different groups of, I think there's like three tiers of"
+  },
+  {
+    "start": 337.33,
+    "duration": 3.0,
+    "text": "companies. There's like the really like, you know, mature, really"
+  },
+  {
+    "start": 340.33,
+    "duration": 5.46,
+    "text": "large tech companies. There's kind of like these, you know,"
+  },
+  {
+    "start": 345.79,
+    "duration": 3.12,
+    "text": "mid stage growth companies and then there's these early new"
+  },
+  {
+    "start": 348.91,
+    "duration": 1.92,
+    "text": "startups that are coming up and I'm seeing the most"
+  },
+  {
+    "start": 350.83,
+    "duration": 2.84,
+    "text": "adoption from these early startups and they're kind of like,"
+  },
+  {
+    "start": 353.67,
+    "duration": 3.12,
+    "text": "okay, clean slate. I'm building you know, a new Company."
+  },
+  {
+    "start": 356.79,
+    "duration": 1.44,
+    "text": "I'm building a new go to market, you know, organization"
+  },
+  {
+    "start": 358.23,
+    "duration": 1.92,
+    "text": "and I want to build it, you know, AI first"
+  },
+  {
+    "start": 361.87,
+    "duration": 3.72,
+    "text": "and I think they have like the least amount of"
+  },
+  {
+    "start": 365.59,
+    "duration": 5.2,
+    "text": "debt so it's easier for them to do that. And"
+  },
+  {
+    "start": 370.79,
+    "duration": 3.08,
+    "text": "I see these companies like foundationally being built in a"
+  },
+  {
+    "start": 373.87,
+    "duration": 3.09,
+    "text": "different way. And then I see kind of this mid"
+  },
+  {
+    "start": 376.96,
+    "duration": 3.08,
+    "text": "tier of companies adopting a lot of different tools, kind"
+  },
+  {
+    "start": 380.04,
+    "duration": 8.6,
+    "text": "of experimenting and then I see really large companies wanting"
+  },
+  {
+    "start": 388.64,
+    "duration": 4.92,
+    "text": "to be AI native but wanting to use AI, but"
+  },
+  {
+    "start": 393.56,
+    "duration": 4.48,
+    "text": "they're very much at the zero. I think you see"
+  },
+  {
+    "start": 398.04,
+    "duration": 3.8,
+    "text": "a lot of, I think those types of, you know,"
+  },
+  {
+    "start": 401.0,
+    "duration": 3.64,
+    "text": "companies you see like a lot of. I like love"
+  },
+  {
+    "start": 404.64,
+    "duration": 4.2,
+    "text": "that like post from the Shopify CEO. Yeah, yeah, really"
+  },
+  {
+    "start": 408.84,
+    "duration": 3.24,
+    "text": "like pushing the org and like, like, like this. It's"
+  },
+  {
+    "start": 412.08,
+    "duration": 4.8,
+    "text": "like just, it's, you're really moving like thousands of people"
+  },
+  {
+    "start": 416.96,
+    "duration": 2.6,
+    "text": "to operate in an entirely different way. And I think"
+  },
+  {
+    "start": 419.56,
+    "duration": 1.52,
+    "text": "that's why it's harder for some of those larger companies"
+  },
+  {
+    "start": 421.08,
+    "duration": 3.44,
+    "text": "where when you're just building with a team of five,"
+  },
+  {
+    "start": 424.52,
+    "duration": 2.16,
+    "text": "you're like, hey, this is, you know, how we operate."
+  },
+  {
+    "start": 426.68,
+    "duration": 2.12,
+    "text": "These are the tools that we use to grow our"
+  },
+  {
+    "start": 428.8,
+    "duration": 3.12,
+    "text": "business. It's, we don't have to like change and displace"
+  },
+  {
+    "start": 431.92,
+    "duration": 4.8,
+    "text": "everything. And there's a lot, a lot. They're getting a"
+  },
+  {
+    "start": 436.72,
+    "duration": 5.56,
+    "text": "lot more speed on that side. And so if for"
+  },
+  {
+    "start": 442.28,
+    "duration": 2.72,
+    "text": "the CROs that aren't adopting, you know, they're like, oh,"
+  },
+  {
+    "start": 445.0,
+    "duration": 3.92,
+    "text": "Rev Ops is doing some stuff but like AI is"
+  },
+  {
+    "start": 448.92,
+    "duration": 2.4,
+    "text": "the domain of Rev Ops and maybe they're a little"
+  },
+  {
+    "start": 451.32,
+    "duration": 5.91,
+    "text": "more hesitant to dive in with two feet. Do you"
+  },
+  {
+    "start": 457.23,
+    "duration": 4.2,
+    "text": "think they can still be CROs and high growth companies"
+  },
+  {
+    "start": 461.43,
+    "duration": 13.24,
+    "text": "in 24 months? Yeah, I think so. I mean, let"
+  },
+  {
+    "start": 474.67,
+    "duration": 6.92,
+    "text": "me just rephrase the question. Back to you. CRS don't"
+  },
+  {
+    "start": 481.59,
+    "duration": 4.91,
+    "text": "adopt AI. They're no longer. There's a basket, yeah, there's"
+  },
+  {
+    "start": 486.5,
+    "duration": 4.36,
+    "text": "a basket of resistant folks who are either taking a"
+  },
+  {
+    "start": 490.86,
+    "duration": 3.8,
+    "text": "wait and see approach or don't think that they necessarily"
+  },
+  {
+    "start": 494.66,
+    "duration": 1.84,
+    "text": "need to make that a core part of their job."
+  },
+  {
+    "start": 496.5,
+    "duration": 1.92,
+    "text": "Like I, my approach is, I mean I think this"
+  },
+  {
+    "start": 498.42,
+    "duration": 4.28,
+    "text": "is one of the most important things for a revenue"
+  },
+  {
+    "start": 502.7,
+    "duration": 0.72,
+    "text": "leader to be able to figure out. I'm in the"
+  },
+  {
+    "start": 503.42,
+    "duration": 4.24,
+    "text": "tools every day myself. I'm like vibe coding apps and"
+  },
+  {
+    "start": 507.66,
+    "duration": 3.45,
+    "text": "Windsurf just for fun and yeah, I am like all"
+  },
+  {
+    "start": 511.11,
+    "duration": 2.08,
+    "text": "in. So I'm on one part of the spectrum and"
+  },
+  {
+    "start": 513.19,
+    "duration": 2.28,
+    "text": "because I believe this is, you know, the single biggest"
+  },
+  {
+    "start": 515.47,
+    "duration": 1.92,
+    "text": "platform change any of us have ever seen in our"
+  },
+  {
+    "start": 517.39,
+    "duration": 3.72,
+    "text": "careers and potentially the biggest one in like 100 years."
+  },
+  {
+    "start": 522.83,
+    "duration": 3.04,
+    "text": "And. But then there's some folks that are just like,"
+  },
+  {
+    "start": 525.27,
+    "duration": 3.44,
+    "text": "I don't Think I need to be that level of"
+  },
+  {
+    "start": 528.71,
+    "duration": 1.92,
+    "text": "sophistication. I don't think people need to be vibe coding"
+  },
+  {
+    "start": 530.63,
+    "duration": 2.48,
+    "text": "and windsurf as a CRO, Sure, I just think it's"
+  },
+  {
+    "start": 533.11,
+    "duration": 5.45,
+    "text": "fun, but the, the folks that are, are like, you"
+  },
+  {
+    "start": 538.56,
+    "duration": 2.84,
+    "text": "know, like rev ops will figure out AI that doesn't"
+  },
+  {
+    "start": 541.4,
+    "duration": 4.12,
+    "text": "need to be a core capability for me individually. Do"
+  },
+  {
+    "start": 545.52,
+    "duration": 2.44,
+    "text": "you think the way the world is going to move"
+  },
+  {
+    "start": 548.6,
+    "duration": 5.32,
+    "text": "that that person will be no longer relevant in 24"
+  },
+  {
+    "start": 553.92,
+    "duration": 2.6,
+    "text": "months, or is there a way to be a CRO"
+  },
+  {
+    "start": 556.52,
+    "duration": 4.68,
+    "text": "and, and not make this like a core expertise? Yeah."
+  },
+  {
+    "start": 561.2,
+    "duration": 3.99,
+    "text": "Yeah. Here's my prediction that we're like in this early"
+  },
+  {
+    "start": 565.19,
+    "duration": 4.44,
+    "text": "adopter phase right now and the companies that are adopting"
+  },
+  {
+    "start": 569.03,
+    "duration": 3.4,
+    "text": "AI are just getting massive efficiency. And if you look"
+  },
+  {
+    "start": 572.43,
+    "duration": 6.6,
+    "text": "at really high growth companies, there's standards of growth that"
+  },
+  {
+    "start": 579.03,
+    "duration": 6.08,
+    "text": "develop, there's rule of 40, rule of 60. And I"
+  },
+  {
+    "start": 585.11,
+    "duration": 4.72,
+    "text": "think AI is going to really set new performance growth"
+  },
+  {
+    "start": 589.83,
+    "duration": 4.4,
+    "text": "efficiency standards. And I think the CROs that are like"
+  },
+  {
+    "start": 594.23,
+    "duration": 3.16,
+    "text": "hesitant are going to, they're not going to know how"
+  },
+  {
+    "start": 597.39,
+    "duration": 4.56,
+    "text": "to really implement, you know, those types of like efficiencies."
+  },
+  {
+    "start": 601.95,
+    "duration": 1.4,
+    "text": "They're not going to know how to hit those metrics."
+  },
+  {
+    "start": 605.03,
+    "duration": 2.2,
+    "text": "You know, I'm seeing like, you know, if you look"
+  },
+  {
+    "start": 607.23,
+    "duration": 5.68,
+    "text": "at like companies like you know, 11x or like clay"
+  },
+  {
+    "start": 612.91,
+    "duration": 5.0,
+    "text": "or like, I mean we're like optimizing like entire SDR"
+  },
+  {
+    "start": 617.91,
+    "duration": 8.16,
+    "text": "teams, you know, and really changing the workflow of like"
+  },
+  {
+    "start": 626.07,
+    "duration": 3.48,
+    "text": "really changing the workflow of like really large SDR teams"
+  },
+  {
+    "start": 629.55,
+    "duration": 3.68,
+    "text": "to like move from hundreds of person SDR teams at,"
+  },
+  {
+    "start": 633.23,
+    "duration": 3.88,
+    "text": "you know, large companies to having you know, a single"
+  },
+  {
+    "start": 638.83,
+    "duration": 4.12,
+    "text": "go to market engineer or a single person that, you"
+  },
+  {
+    "start": 642.95,
+    "duration": 6.06,
+    "text": "know, builds a workflow for outreach. And it's, yeah, it's"
+  },
+  {
+    "start": 649.01,
+    "duration": 3.16,
+    "text": "really, it's really changing. It's moving from like having large"
+  },
+  {
+    "start": 652.17,
+    "duration": 3.84,
+    "text": "teams of like massive headcount to having you know, two"
+  },
+  {
+    "start": 656.01,
+    "duration": 3.12,
+    "text": "or three people sometimes within a marketing org, like manage"
+  },
+  {
+    "start": 659.13,
+    "duration": 4.44,
+    "text": "a team of agents. And just the efficiency that you"
+  },
+  {
+    "start": 663.57,
+    "duration": 3.92,
+    "text": "get with very similar or even greater results is like"
+  },
+  {
+    "start": 667.49,
+    "duration": 5.33,
+    "text": "pretty, pretty amazing. I think this, I absolutely think this"
+  },
+  {
+    "start": 672.82,
+    "duration": 3.08,
+    "text": "is like something every like CRO should be paying attention"
+  },
+  {
+    "start": 675.9,
+    "duration": 3.2,
+    "text": "to is really the efficiency gains and how you can"
+  },
+  {
+    "start": 679.1,
+    "duration": 5.0,
+    "text": "just grow faster with AI. Yeah, I think it's existential."
+  },
+  {
+    "start": 685.66,
+    "duration": 4.72,
+    "text": "Yeah, I think, and I was saying before we recorded,"
+  },
+  {
+    "start": 690.38,
+    "duration": 4.16,
+    "text": "I just got off the stage with Jason Lemkin at"
+  },
+  {
+    "start": 694.54,
+    "duration": 3.72,
+    "text": "Saster and we talked about go to market AI and"
+  },
+  {
+    "start": 698.34,
+    "duration": 4.16,
+    "text": "one of the things I shared was I think the"
+  },
+  {
+    "start": 702.5,
+    "duration": 3.64,
+    "text": "competitive advantage of being AI native is so great that"
+  },
+  {
+    "start": 706.14,
+    "duration": 3.44,
+    "text": "if you're a company run by a CRO who really"
+  },
+  {
+    "start": 709.58,
+    "duration": 3.2,
+    "text": "gets it and is all in you're going to outcompete"
+  },
+  {
+    "start": 712.94,
+    "duration": 3.2,
+    "text": "everybody in your market that isn't adopting. And I truly"
+  },
+  {
+    "start": 716.14,
+    "duration": 3.44,
+    "text": "think that people will get left behind in a way"
+  },
+  {
+    "start": 719.58,
+    "duration": 3.72,
+    "text": "that is even more profound than if you were resistant"
+  },
+  {
+    "start": 723.38,
+    "duration": 5.56,
+    "text": "to the sales acceleration boom. If you were using sales"
+  },
+  {
+    "start": 728.94,
+    "duration": 2.34,
+    "text": "loft and you're coming competitors weren't, you were booking way"
+  },
+  {
+    "start": 731.28,
+    "duration": 4.32,
+    "text": "more meetings on a per BDR basis. And I think"
+  },
+  {
+    "start": 735.6,
+    "duration": 1.76,
+    "text": "it's going to be even more profound and a bigger"
+  },
+  {
+    "start": 737.36,
+    "duration": 2.84,
+    "text": "competitive advantage. Yeah. And I would even go as far"
+  },
+  {
+    "start": 740.2,
+    "duration": 3.28,
+    "text": "to say like there's like two categories of like kind"
+  },
+  {
+    "start": 743.48,
+    "duration": 2.56,
+    "text": "of like AI zeros. There's ones that invest in like"
+  },
+  {
+    "start": 746.04,
+    "duration": 3.64,
+    "text": "copilot solutions which I think gives you one level of"
+  },
+  {
+    "start": 749.68,
+    "duration": 2.88,
+    "text": "efficiency and then there's like fully agentic solutions that are"
+  },
+  {
+    "start": 752.56,
+    "duration": 1.72,
+    "text": "coming to market. And I even think that like the"
+  },
+  {
+    "start": 754.28,
+    "duration": 4.12,
+    "text": "copilot solutions that are coming out are like it's like"
+  },
+  {
+    "start": 758.4,
+    "duration": 4.2,
+    "text": "merely a stepping stone. Like the rate of change, that"
+  },
+  {
+    "start": 762.0,
+    "duration": 7.76,
+    "text": "foundation models are getting better and the capabilities of like"
+  },
+  {
+    "start": 769.76,
+    "duration": 2.72,
+    "text": "agentic software. Like I really think like there's going to"
+  },
+  {
+    "start": 772.48,
+    "duration": 1.92,
+    "text": "be like a wave of like two to three years"
+  },
+  {
+    "start": 774.48,
+    "duration": 3.6,
+    "text": "where like these copilot solutions are really viable and they're"
+  },
+  {
+    "start": 778.08,
+    "duration": 3.32,
+    "text": "more efficient than you know, just really large, really large"
+  },
+  {
+    "start": 781.4,
+    "duration": 5.54,
+    "text": "teams, individually managed. And then I think kind of like"
+  },
+  {
+    "start": 786.94,
+    "duration": 3.92,
+    "text": "the next wave is when you just operate fully agentic"
+  },
+  {
+    "start": 790.86,
+    "duration": 6.16,
+    "text": "workflows and you really don't need kind of these copilot"
+  },
+  {
+    "start": 797.18,
+    "duration": 2.84,
+    "text": "tools as a CRO. That's really how I think about"
+  },
+  {
+    "start": 800.02,
+    "duration": 3.8,
+    "text": "it. It's like okay, for the last 10 years most"
+  },
+  {
+    "start": 803.82,
+    "duration": 5.0,
+    "text": "of us have operated with really just managing really large"
+  },
+  {
+    "start": 808.82,
+    "duration": 3.1,
+    "text": "teams of different, you know, different functions within a go"
+  },
+  {
+    "start": 811.92,
+    "duration": 2.08,
+    "text": "to market organization. Okay, that's if that's like your current"
+  },
+  {
+    "start": 814.0,
+    "duration": 3.88,
+    "text": "state today, how do you like get from there to"
+  },
+  {
+    "start": 817.88,
+    "duration": 5.0,
+    "text": "like a fully like agentic workflow and really like think"
+  },
+  {
+    "start": 822.88,
+    "duration": 2.2,
+    "text": "about making that stepping stone. I think like like a"
+  },
+  {
+    "start": 825.08,
+    "duration": 3.16,
+    "text": "natural progression is being like okay, first step I'm going"
+  },
+  {
+    "start": 828.24,
+    "duration": 2.2,
+    "text": "to go from like you know, leveraging AI to do"
+  },
+  {
+    "start": 830.44,
+    "duration": 3.84,
+    "text": "like copiloted, you know, messaging. There's like a number of"
+  },
+  {
+    "start": 834.28,
+    "duration": 4.14,
+    "text": "like pre. Call research products, follow up stuff. Yeah, yeah."
+  },
+  {
+    "start": 838.42,
+    "duration": 3.84,
+    "text": "Where you're essentially like using. Yeah. AI for research. Yeah."
+  },
+  {
+    "start": 842.26,
+    "duration": 5.28,
+    "text": "And like getting scripts etc and I think that's like"
+  },
+  {
+    "start": 847.54,
+    "duration": 2.0,
+    "text": "phase one and then I think like phase two is"
+  },
+  {
+    "start": 849.54,
+    "duration": 5.8,
+    "text": "like really investing in fully agentic workflows. I really see"
+  },
+  {
+    "start": 855.34,
+    "duration": 5.96,
+    "text": "that as the future. Yeah. And so that's actually like"
+  },
+  {
+    "start": 861.3,
+    "duration": 2.08,
+    "text": "by and large where like the Internet is going to."
+  },
+  {
+    "start": 865.96,
+    "duration": 3.84,
+    "text": "My last role I worked like we were the leading,"
+  },
+  {
+    "start": 869.12,
+    "duration": 2.12,
+    "text": "we had like about 80% of the market share for"
+  },
+  {
+    "start": 871.24,
+    "duration": 3.88,
+    "text": "WhatsApp business messaging. I really See the Internet as like"
+  },
+  {
+    "start": 875.12,
+    "duration": 4.6,
+    "text": "itself, as like becoming conversational. We're like moving from these"
+  },
+  {
+    "start": 879.12,
+    "duration": 4.6,
+    "text": "structured workflows to like these unstructured workflows. We're moving from"
+  },
+  {
+    "start": 883.72,
+    "duration": 4.68,
+    "text": "like clicking and searching on websites to speaking with like"
+  },
+  {
+    "start": 888.4,
+    "duration": 6.45,
+    "text": "natural language. Removing from, you know, computers speaking. We're moving"
+  },
+  {
+    "start": 894.85,
+    "duration": 2.52,
+    "text": "from human speaking computer language to computers speaking human language."
+  },
+  {
+    "start": 897.37,
+    "duration": 3.04,
+    "text": "And I think, you know, will like a lot of"
+  },
+  {
+    "start": 900.41,
+    "duration": 4.4,
+    "text": "the way that we interact with like the Internet will"
+  },
+  {
+    "start": 904.81,
+    "duration": 2.2,
+    "text": "be, will be through agents and will be be conversational."
+  },
+  {
+    "start": 907.25,
+    "duration": 3.76,
+    "text": "And I think that's something revenue leaders should like really"
+  },
+  {
+    "start": 911.01,
+    "duration": 4.32,
+    "text": "think about is okay. And this dynamic that, you know,"
+  },
+  {
+    "start": 915.33,
+    "duration": 4.28,
+    "text": "buyers are used to speaking with, you know, agents to"
+  },
+  {
+    "start": 919.61,
+    "duration": 2.4,
+    "text": "make transactions or to navigate the Internet or to research"
+  },
+  {
+    "start": 922.09,
+    "duration": 5.44,
+    "text": "and look up things like how can we, you know,"
+  },
+  {
+    "start": 927.53,
+    "duration": 3.16,
+    "text": "build revenue teams and customer facing sales teams that really."
+  },
+  {
+    "start": 932.53,
+    "duration": 6.2,
+    "text": "Yeah, really, you know, mirror that. Yeah. And so I"
+  },
+  {
+    "start": 938.73,
+    "duration": 3.0,
+    "text": "want to get into what the. Org actually looks like"
+  },
+  {
+    "start": 941.73,
+    "duration": 1.72,
+    "text": "at 11x. But just explain what a digital worker is."
+  },
+  {
+    "start": 945.59,
+    "duration": 2.8,
+    "text": "Yeah, digital worker is essentially, it's also called an AI"
+  },
+  {
+    "start": 948.39,
+    "duration": 5.6,
+    "text": "agent. We have two digital workers. We have Alice and"
+  },
+  {
+    "start": 953.07,
+    "duration": 3.96,
+    "text": "Julian. Alice is a email agent and Julian is a"
+  },
+  {
+    "start": 957.03,
+    "duration": 6.24,
+    "text": "voice agent. And essentially what digital worker is, both Alice"
+  },
+  {
+    "start": 963.27,
+    "duration": 7.7,
+    "text": "and Julian are conversational interfaces. One's through email, LinkedIn, like"
+  },
+  {
+    "start": 970.97,
+    "duration": 3.8,
+    "text": "what's. Or WhatsApp and the other ones through voice. And"
+  },
+  {
+    "start": 974.17,
+    "duration": 5.64,
+    "text": "what these agents do beyond like speaking with like ChatGPT"
+  },
+  {
+    "start": 979.05,
+    "duration": 7.8,
+    "text": "is they, they perform really complex workflows. They you know,"
+  },
+  {
+    "start": 987.05,
+    "duration": 6.72,
+    "text": "do identification of prospects, they do personalized outreach, personalize the"
+  },
+  {
+    "start": 993.77,
+    "duration": 1.72,
+    "text": "messaging, and then they do all of the updates of"
+  },
+  {
+    "start": 995.49,
+    "duration": 5.31,
+    "text": "the system of record. So upon having a conversation with"
+  },
+  {
+    "start": 1000.8,
+    "duration": 5.64,
+    "text": "a prospect, they'll go into your CRM salesforce, update that"
+  },
+  {
+    "start": 1006.44,
+    "duration": 2.84,
+    "text": "lead, update the contact information with all the research that"
+  },
+  {
+    "start": 1009.28,
+    "duration": 4.2,
+    "text": "they've done. It will record the call and log that"
+  },
+  {
+    "start": 1014.56,
+    "duration": 6.76,
+    "text": "in the CRM or it will provide the, provide the"
+  },
+  {
+    "start": 1021.4,
+    "duration": 5.56,
+    "text": "email, email transcript as well. So that it really creates"
+  },
+  {
+    "start": 1026.96,
+    "duration": 3.8,
+    "text": "a new marketing qualified opportunity and then books a calendar"
+  },
+  {
+    "start": 1030.76,
+    "duration": 5.12,
+    "text": "invite on that sales person's calendar. So that salesperson shows"
+  },
+  {
+    "start": 1035.88,
+    "duration": 2.0,
+    "text": "up, they have a meeting that was booked via this"
+  },
+  {
+    "start": 1037.88,
+    "duration": 4.12,
+    "text": "digital worker and they are ready to go. It's fully"
+  },
+  {
+    "start": 1042.0,
+    "duration": 4.64,
+    "text": "qualified and they have all the research and information that"
+  },
+  {
+    "start": 1046.64,
+    "duration": 4.04,
+    "text": "an SDR would have typically done and they can begin"
+  },
+  {
+    "start": 1050.68,
+    "duration": 6.34,
+    "text": "their sales process there. Okay, so how much is. So"
+  },
+  {
+    "start": 1057.1,
+    "duration": 3.72,
+    "text": "actually first question, how many BDRs and AES do you"
+  },
+  {
+    "start": 1060.82,
+    "duration": 2.52,
+    "text": "have today, like human ones? We don't have any BDRs"
+  },
+  {
+    "start": 1064.38,
+    "duration": 5.16,
+    "text": "and we have, okay, we have about 17 salespeople in"
+  },
+  {
+    "start": 1069.54,
+    "duration": 3.56,
+    "text": "the company. Okay. Full cycle. They're doing some prospecting. And"
+  },
+  {
+    "start": 1073.18,
+    "duration": 3.48,
+    "text": "the most impressive thing is I've never been at a"
+  },
+  {
+    "start": 1076.66,
+    "duration": 2.99,
+    "text": "sales organization where the AES have not asked for more"
+  },
+  {
+    "start": 1079.65,
+    "duration": 3.32,
+    "text": "SDR support. And I know someone on my team will"
+  },
+  {
+    "start": 1082.97,
+    "duration": 1.36,
+    "text": "probably listen to this, but I haven't heard anyone say,"
+  },
+  {
+    "start": 1084.49,
+    "duration": 5.0,
+    "text": "you know, we need, we need more BDRs here. It's"
+  },
+  {
+    "start": 1089.49,
+    "duration": 4.6,
+    "text": "really interesting. And so how much of their funnel is"
+  },
+  {
+    "start": 1094.09,
+    "duration": 8.64,
+    "text": "coming from digital human outreach versus their own outreach? Over"
+  },
+  {
+    "start": 1102.73,
+    "duration": 5.68,
+    "text": "90% is coming from digital worker outreach. Okay, and. And"
+  },
+  {
+    "start": 1108.41,
+    "duration": 6.32,
+    "text": "are, is that centrally orchestrated or is each rep running"
+  },
+  {
+    "start": 1114.73,
+    "duration": 3.92,
+    "text": "agents that are doing outreach on their behalf? We will,"
+  },
+  {
+    "start": 1118.73,
+    "duration": 2.88,
+    "text": "we have plans to, you know, move. Move more towards"
+  },
+  {
+    "start": 1121.61,
+    "duration": 3.28,
+    "text": "that. But right now it's centrally, centrally located. And that's"
+  },
+  {
+    "start": 1124.89,
+    "duration": 4.08,
+    "text": "how I see most, most organizations, you know, running, running"
+  },
+  {
+    "start": 1128.97,
+    "duration": 2.16,
+    "text": "these workflows. Like, you know, I, I just want salespeople"
+  },
+  {
+    "start": 1131.13,
+    "duration": 3.56,
+    "text": "to be really good at selling. I want them to"
+  },
+  {
+    "start": 1134.77,
+    "duration": 4.84,
+    "text": "have really qualified meetings and, you know, run those customers"
+  },
+  {
+    "start": 1139.61,
+    "duration": 3.24,
+    "text": "through a great sales process and, you know, really be"
+  },
+  {
+    "start": 1142.85,
+    "duration": 2.64,
+    "text": "focused on closing. And I see that these, these workflows"
+  },
+  {
+    "start": 1145.49,
+    "duration": 4.2,
+    "text": "are really being. It's kind of like we've seen this"
+  },
+  {
+    "start": 1149.69,
+    "duration": 4.12,
+    "text": "Trend of, like, SDRs reporting into marketing. You know, it's."
+  },
+  {
+    "start": 1153.81,
+    "duration": 1.68,
+    "text": "Which has emerged. And I think with these, like, agent"
+  },
+  {
+    "start": 1155.49,
+    "duration": 5.48,
+    "text": "workflows, it really makes sense, you know, for they're almost"
+  },
+  {
+    "start": 1160.97,
+    "duration": 4.56,
+    "text": "like managing like, campaigns through agents. It's growth marketing. It"
+  },
+  {
+    "start": 1165.53,
+    "duration": 2.24,
+    "text": "is growth. At the end of the day, I really"
+  },
+  {
+    "start": 1167.77,
+    "duration": 1.48,
+    "text": "think this is the future of, you know, marketing in"
+  },
+  {
+    "start": 1169.25,
+    "duration": 2.32,
+    "text": "a lot of ways. I mean, if you look at"
+  },
+  {
+    "start": 1171.57,
+    "duration": 1.56,
+    "text": "this, like, I always like to like, think of, like,"
+  },
+  {
+    "start": 1174.77,
+    "duration": 0.72,
+    "text": "kind of like the future and like, what 10 years"
+  },
+  {
+    "start": 1175.49,
+    "duration": 3.44,
+    "text": "ago look like, what five years ago looks like, and"
+  },
+  {
+    "start": 1178.41,
+    "duration": 2.76,
+    "text": "what things might look like, you know, today, like for"
+  },
+  {
+    "start": 1181.17,
+    "duration": 2.88,
+    "text": "sales. Five years ago, if you wanted to explore a"
+  },
+  {
+    "start": 1184.05,
+    "duration": 3.72,
+    "text": "new market, you would hire a new BDR team, place"
+  },
+  {
+    "start": 1187.77,
+    "duration": 3.08,
+    "text": "them in a new city, wait six months for them"
+  },
+  {
+    "start": 1190.85,
+    "duration": 1.44,
+    "text": "to ramp up and see if it's working or not,"
+  },
+  {
+    "start": 1192.29,
+    "duration": 3.12,
+    "text": "and continue to invest more or less based on that."
+  },
+  {
+    "start": 1200.37,
+    "duration": 4.52,
+    "text": "target a very specific geo, very specific vertical, and send"
+  },
+  {
+    "start": 1204.89,
+    "duration": 3.63,
+    "text": "like, really personalized messaging there overnight. And then on the"
+  },
+  {
+    "start": 1208.52,
+    "duration": 3.08,
+    "text": "marketing side, like, you know, today or five years ago,"
+  },
+  {
+    "start": 1211.6,
+    "duration": 5.44,
+    "text": "you'd send an email from like, marketing generic company.com like"
+  },
+  {
+    "start": 1217.04,
+    "duration": 7.48,
+    "text": "marketing@dell.com or marketing at, you know, whatever specific company. And"
+  },
+  {
+    "start": 1224.84,
+    "duration": 1.16,
+    "text": "you just send a lot of like, updates about your"
+  },
+  {
+    "start": 1226.0,
+    "duration": 2.08,
+    "text": "company and hope to book meetings off of that. And"
+  },
+  {
+    "start": 1228.08,
+    "duration": 4.52,
+    "text": "it's like, really unpersonalized and everyone ignores those messages. And"
+  },
+  {
+    "start": 1232.6,
+    "duration": 2.5,
+    "text": "then today you could have, you know, marketing team really"
+  },
+  {
+    "start": 1235.1,
+    "duration": 4.76,
+    "text": "manage a team of agents and, you know, manage Alice"
+  },
+  {
+    "start": 1239.94,
+    "duration": 4.56,
+    "text": "and, you know, Matt and a bunch of digital workers"
+  },
+  {
+    "start": 1244.5,
+    "duration": 3.0,
+    "text": "that work for that company have really, you know, highly"
+  },
+  {
+    "start": 1247.5,
+    "duration": 3.12,
+    "text": "personalized messaging that reflect your brand, reflect the markets that"
+  },
+  {
+    "start": 1250.62,
+    "duration": 4.0,
+    "text": "they're selling into, reflect those specific verticals, and have much"
+  },
+  {
+    "start": 1254.62,
+    "duration": 5.65,
+    "text": "higher conversion rates. That's really interesting. And so what type"
+  },
+  {
+    "start": 1260.27,
+    "duration": 4.76,
+    "text": "of a volume is Alice doing every single week or"
+  },
+  {
+    "start": 1265.03,
+    "duration": 3.48,
+    "text": "is like, do you put in a certain number of"
+  },
+  {
+    "start": 1268.51,
+    "duration": 2.52,
+    "text": "accounts that corresponds to the capacity of the sales rep"
+  },
+  {
+    "start": 1272.31,
+    "duration": 4.08,
+    "text": "base that you have or are they making determinations like"
+  },
+  {
+    "start": 1276.47,
+    "duration": 4.16,
+    "text": "what's the coordination that the growth team or growth engineering"
+  },
+  {
+    "start": 1280.63,
+    "duration": 1.44,
+    "text": "or whatever you're calling it is doing to get the"
+  },
+  {
+    "start": 1282.07,
+    "duration": 4.2,
+    "text": "right volume into funnel? Yeah, yeah. It's the exact same"
+  },
+  {
+    "start": 1286.27,
+    "duration": 3.6,
+    "text": "way that you'd manage an SDR team. And really thinking"
+  },
+  {
+    "start": 1289.87,
+    "duration": 3.0,
+    "text": "about pipeline, like we have, you know, we have partner"
+  },
+  {
+    "start": 1292.87,
+    "duration": 2.16,
+    "text": "qualified leads, marketing qualified leads, sales qualified leads, and we"
+  },
+  {
+    "start": 1295.03,
+    "duration": 4.16,
+    "text": "really think about, you know, digital worker leads being a"
+  },
+  {
+    "start": 1299.19,
+    "duration": 4.76,
+    "text": "part of the marketing qualified lead. And we expect have"
+  },
+  {
+    "start": 1303.95,
+    "duration": 2.12,
+    "text": "a predictable acv, we have a predictable close rate that"
+  },
+  {
+    "start": 1306.07,
+    "duration": 4.64,
+    "text": "comes from that channel and it develops over time and"
+  },
+  {
+    "start": 1310.71,
+    "duration": 1.34,
+    "text": "we track it and we every month, based on our"
+  },
+  {
+    "start": 1312.05,
+    "duration": 4.84,
+    "text": "targets, you know, really look at the volumes that we"
+  },
+  {
+    "start": 1316.89,
+    "duration": 4.52,
+    "text": "anticipate from those digital worker campaigns. Okay, could you turn"
+  },
+  {
+    "start": 1321.41,
+    "duration": 3.52,
+    "text": "it up 2x in like a week if you wanted?"
+  },
+  {
+    "start": 1327.05,
+    "duration": 3.12,
+    "text": "Yeah, we could run more like, more, more campaigns. Like"
+  },
+  {
+    "start": 1330.17,
+    "duration": 3.4,
+    "text": "absolutely. I think there's like a lot of different ways"
+  },
+  {
+    "start": 1333.57,
+    "duration": 4.09,
+    "text": "to do. Yeah. To do outbound. Like we uh, like"
+  },
+  {
+    "start": 1337.74,
+    "duration": 2.04,
+    "text": "we absolutely have done that in the past. You know,"
+  },
+  {
+    "start": 1339.78,
+    "duration": 1.64,
+    "text": "we'll like look at like closed loss deals and run"
+  },
+  {
+    "start": 1341.42,
+    "duration": 4.76,
+    "text": "some additional campaigns there. It's like, it's actually really interesting."
+  },
+  {
+    "start": 1346.18,
+    "duration": 3.28,
+    "text": "Like it formally with like SDR teams, it's really hard"
+  },
+  {
+    "start": 1349.46,
+    "duration": 4.12,
+    "text": "to run multiple different campaign types. I've really seen that."
+  },
+  {
+    "start": 1353.58,
+    "duration": 4.24,
+    "text": "Yeah, yeah, it's like, you know, doing. Outbound, you're like,"
+  },
+  {
+    "start": 1357.82,
+    "duration": 1.44,
+    "text": "okay, well we're doing this event next week, let's do"
+  },
+  {
+    "start": 1359.26,
+    "duration": 3.01,
+    "text": "that. Like if we see that we're, you know, short"
+  },
+  {
+    "start": 1362.27,
+    "duration": 2.84,
+    "text": "on pipeline or want to accelerate a given month, we"
+  },
+  {
+    "start": 1365.11,
+    "duration": 4.64,
+    "text": "can get together and you know, create a strategy on"
+  },
+  {
+    "start": 1369.75,
+    "duration": 2.16,
+    "text": "a new campaign type to run with digital workers. And"
+  },
+  {
+    "start": 1371.91,
+    "duration": 2.0,
+    "text": "we don't have to teach a team of, you know,"
+  },
+  {
+    "start": 1373.91,
+    "duration": 1.12,
+    "text": "20 people to stop what they're doing and start doing"
+  },
+  {
+    "start": 1375.03,
+    "duration": 3.8,
+    "text": "it. It really is a team of, you know, three"
+  },
+  {
+    "start": 1378.83,
+    "duration": 5.8,
+    "text": "to five people who are, you know, coordinating these campaigns"
+  },
+  {
+    "start": 1384.63,
+    "duration": 1.44,
+    "text": "and running them to a specific segment of our business"
+  },
+  {
+    "start": 1386.07,
+    "duration": 4.63,
+    "text": "that we weren't necessarily marketing to before and trying to"
+  },
+  {
+    "start": 1390.7,
+    "duration": 2.6,
+    "text": "get some pipeline acceleration out of it. I also see"
+  },
+  {
+    "start": 1393.3,
+    "duration": 4.64,
+    "text": "this like these kind of like rapid iterations with releasing"
+  },
+  {
+    "start": 1397.94,
+    "duration": 5.92,
+    "text": "new products, new pricing. It really enables you to move"
+  },
+  {
+    "start": 1403.86,
+    "duration": 3.28,
+    "text": "a lot faster in that way. Are you doing any"
+  },
+  {
+    "start": 1407.14,
+    "duration": 5.72,
+    "text": "outbound calling on top of the digital worker campaigns? We"
+  },
+  {
+    "start": 1412.86,
+    "duration": 7.28,
+    "text": "do speed delete campaigns. So if someone calls in or"
+  },
+  {
+    "start": 1420.14,
+    "duration": 4.52,
+    "text": "someone completes a lead form then we reach out to"
+  },
+  {
+    "start": 1424.66,
+    "duration": 3.32,
+    "text": "them with a digital worker and qualify them and then"
+  },
+  {
+    "start": 1427.98,
+    "duration": 2.16,
+    "text": "book a meeting via invoice. So that's not even a"
+  },
+  {
+    "start": 1430.14,
+    "duration": 4.6,
+    "text": "rep, that's Julian the voice agent. Yep. And that's really"
+  },
+  {
+    "start": 1434.74,
+    "duration": 7.07,
+    "text": "interesting. We see like a significantly higher conversion rate on"
+  },
+  {
+    "start": 1441.81,
+    "duration": 2.4,
+    "text": "speed to lead based on when someone who fills out"
+  },
+  {
+    "start": 1444.21,
+    "duration": 4.52,
+    "text": "a form is contacted. So like if someone fills, if"
+  },
+  {
+    "start": 1448.73,
+    "duration": 2.12,
+    "text": "someone is contact within a minute of filling out a"
+  },
+  {
+    "start": 1450.85,
+    "duration": 3.96,
+    "text": "lead form, they convert like a 10x multiple higher than"
+  },
+  {
+    "start": 1454.81,
+    "duration": 4.72,
+    "text": "if someone after 5 minutes. And you know, with AI"
+  },
+  {
+    "start": 1459.53,
+    "duration": 3.4,
+    "text": "we can predictably do that like, like every time. Like"
+  },
+  {
+    "start": 1462.93,
+    "duration": 2.8,
+    "text": "and it's, it's really interesting replacing like things as rudimentary"
+  },
+  {
+    "start": 1465.73,
+    "duration": 3.88,
+    "text": "as like a voicemail. Like there's like leading media companies"
+  },
+  {
+    "start": 1469.77,
+    "duration": 3.76,
+    "text": "that like after hours will have like a voicemail if"
+  },
+  {
+    "start": 1473.53,
+    "duration": 4.52,
+    "text": "you call their sales line and, or like you know,"
+  },
+  {
+    "start": 1478.05,
+    "duration": 2.72,
+    "text": "or if you fill out a lead form at you"
+  },
+  {
+    "start": 1480.77,
+    "duration": 2.48,
+    "text": "know, 10:00pm on a Friday, you. Know, you won't, you're"
+  },
+  {
+    "start": 1483.25,
+    "duration": 3.0,
+    "text": "not going to hear it till Monday. Till Monday. Now"
+  },
+  {
+    "start": 1486.25,
+    "duration": 3.24,
+    "text": "we can have you know, digital workers like call 247"
+  },
+  {
+    "start": 1491.53,
+    "duration": 4.03,
+    "text": "based on when someone completes a form. And we can"
+  },
+  {
+    "start": 1495.56,
+    "duration": 1.96,
+    "text": "get a lot more information than someone would fill out"
+  },
+  {
+    "start": 1497.52,
+    "duration": 0.92,
+    "text": "in a form as well. Like you know, this is"
+  },
+  {
+    "start": 1498.44,
+    "duration": 4.36,
+    "text": "like kind of like the structured unstructured workflow. Like just"
+  },
+  {
+    "start": 1502.8,
+    "duration": 1.4,
+    "text": "candidly like no one wants to sit and like fill"
+  },
+  {
+    "start": 1504.2,
+    "duration": 3.04,
+    "text": "out like this is why I'm contacting you. Like it's"
+  },
+  {
+    "start": 1507.24,
+    "duration": 3.88,
+    "text": "like name, email, phone number. But when an agent calls"
+  },
+  {
+    "start": 1511.12,
+    "duration": 2.28,
+    "text": "you, you can have a conversation and it's a lot"
+  },
+  {
+    "start": 1513.4,
+    "duration": 5.44,
+    "text": "easier to share information and answer questions. And it's very"
+  },
+  {
+    "start": 1518.84,
+    "duration": 2.12,
+    "text": "relevant because you just filled out the form a minute"
+  },
+  {
+    "start": 1520.96,
+    "duration": 4.32,
+    "text": "ago. And these types of workflows are really, really interesting."
+  },
+  {
+    "start": 1527.64,
+    "duration": 2.2,
+    "text": "It's like one of the biggest insights is like you"
+  },
+  {
+    "start": 1529.84,
+    "duration": 4.84,
+    "text": "can absolutely capture more information in a more natural way"
+  },
+  {
+    "start": 1537.64,
+    "duration": 4.08,
+    "text": "with a voice interface than filling out a random lead"
+  },
+  {
+    "start": 1541.72,
+    "duration": 4.24,
+    "text": "form on a website. One of the things I think"
+  },
+  {
+    "start": 1545.96,
+    "duration": 2.17,
+    "text": "folks struggle with is you know, they look at 11x"
+  },
+  {
+    "start": 1549.53,
+    "duration": 5.16,
+    "text": "and using digital workers makes so much sense because you're"
+  },
+  {
+    "start": 1554.69,
+    "duration": 5.2,
+    "text": "selling digital workers. So like when I, when I'm contacted"
+  },
+  {
+    "start": 1559.89,
+    "duration": 2.36,
+    "text": "with like pretty good outreach from a digital worker and"
+  },
+  {
+    "start": 1562.25,
+    "duration": 4.0,
+    "text": "then I have a voice agent, it the, it's going"
+  },
+  {
+    "start": 1566.25,
+    "duration": 2.2,
+    "text": "to resonate with the buyer because they're, they're trying to"
+  },
+  {
+    "start": 1568.45,
+    "duration": 2.76,
+    "text": "buy that category of solution. And I think the question"
+  },
+  {
+    "start": 1571.21,
+    "duration": 5.64,
+    "text": "is, you know, how much can you apply that learning"
+  },
+  {
+    "start": 1576.09,
+    "duration": 3.12,
+    "text": "to other markets where like we won't use owner as"
+  },
+  {
+    "start": 1579.21,
+    "duration": 2.12,
+    "text": "an example because like SMB mom and pop restaurants are"
+  },
+  {
+    "start": 1581.33,
+    "duration": 5.32,
+    "text": "like probably a trickier category. But if I'm trying to"
+  },
+  {
+    "start": 1586.65,
+    "duration": 5.32,
+    "text": "sell HR tech to like CHROs or VPs of HR,"
+  },
+  {
+    "start": 1591.37,
+    "duration": 5.16,
+    "text": "like how do you know, how do you know what"
+  },
+  {
+    "start": 1596.61,
+    "duration": 5.29,
+    "text": "level of AI is going to resonate with the buyer"
+  },
+  {
+    "start": 1601.3,
+    "duration": 4.4,
+    "text": "versus how much human touch like you guys Doing no"
+  },
+  {
+    "start": 1605.7,
+    "duration": 4.24,
+    "text": "outbound calls makes a ton of sense, but it would"
+  },
+  {
+    "start": 1609.94,
+    "duration": 3.0,
+    "text": "surprise me if other not like if you're selling like"
+  },
+  {
+    "start": 1612.02,
+    "duration": 4.76,
+    "text": "you know, non AI solutions. If, if no outbound calling"
+  },
+  {
+    "start": 1616.78,
+    "duration": 1.24,
+    "text": "is the right fit, like what's the process of figuring"
+  },
+  {
+    "start": 1618.02,
+    "duration": 3.76,
+    "text": "out? Are there particular markets that you guys are dialed"
+  },
+  {
+    "start": 1621.78,
+    "duration": 2.56,
+    "text": "into? Are there like buying types? How do you go"
+  },
+  {
+    "start": 1624.34,
+    "duration": 4.43,
+    "text": "figure out like can AI work for me? Yeah, that's"
+  },
+  {
+    "start": 1628.77,
+    "duration": 2.12,
+    "text": "such a great question. I spend so much time thinking"
+  },
+  {
+    "start": 1630.89,
+    "duration": 5.28,
+    "text": "about this as well. Okay. Yeah, it's really like everyone"
+  },
+  {
+    "start": 1636.17,
+    "duration": 5.04,
+    "text": "is in this experimental, you know, phase and you know,"
+  },
+  {
+    "start": 1641.21,
+    "duration": 2.16,
+    "text": "what we focus on are like use cases that we"
+  },
+  {
+    "start": 1643.37,
+    "duration": 4.24,
+    "text": "know consistently work like the speed, delete, after hours use"
+  },
+  {
+    "start": 1647.61,
+    "duration": 3.92,
+    "text": "case. Like the alternative, you know, is a voicemail or"
+  },
+  {
+    "start": 1651.53,
+    "duration": 1.56,
+    "text": "someone calling you back multiple days later like that, you"
+  },
+  {
+    "start": 1653.09,
+    "duration": 3.13,
+    "text": "know, those use cases like very specifically work. I think"
+  },
+  {
+    "start": 1656.22,
+    "duration": 2.88,
+    "text": "verticals are really interesting. We like see like even a"
+  },
+  {
+    "start": 1659.1,
+    "duration": 4.88,
+    "text": "mix of like non and non tech and tech, you"
+  },
+  {
+    "start": 1663.98,
+    "duration": 4.32,
+    "text": "know, verticals that you know that, that have success with"
+  },
+  {
+    "start": 1668.38,
+    "duration": 2.68,
+    "text": "digital workers. Like it's really like if you have like"
+  },
+  {
+    "start": 1671.06,
+    "duration": 7.92,
+    "text": "a salesforce, you know, you can really automate it or"
+  },
+  {
+    "start": 1678.06,
+    "duration": 3.13,
+    "text": "automate definitely a portion of it through, through digital workers."
+  },
+  {
+    "start": 1684.59,
+    "duration": 3.04,
+    "text": "I think the biggest determinant that I really see, and"
+  },
+  {
+    "start": 1687.63,
+    "duration": 3.8,
+    "text": "I think this is like really interesting of companies being"
+  },
+  {
+    "start": 1691.43,
+    "duration": 7.32,
+    "text": "successful with their AI is willingness to, and excitement almost"
+  },
+  {
+    "start": 1698.75,
+    "duration": 5.32,
+    "text": "to learn AI, go to market best practices like learning"
+  },
+  {
+    "start": 1704.07,
+    "duration": 6.09,
+    "text": "how to prompt, learning how to create templates that have"
+  },
+  {
+    "start": 1710.24,
+    "duration": 6.0,
+    "text": "fixed text and AI generated text within them. There's actually"
+  },
+  {
+    "start": 1716.24,
+    "duration": 5.28,
+    "text": "a much deeper level. We were talking earlier about companies"
+  },
+  {
+    "start": 1721.52,
+    "duration": 2.48,
+    "text": "that experiment with AI tools and then it's companies that"
+  },
+  {
+    "start": 1724.32,
+    "duration": 7.44,
+    "text": "understand how to use AI tools, especially building, focusing on"
+  },
+  {
+    "start": 1731.76,
+    "duration": 2.8,
+    "text": "customer success. This is something that we're really, really focused"
+  },
+  {
+    "start": 1734.56,
+    "duration": 1.82,
+    "text": "on. There's really, I think the companies, the AI native"
+  },
+  {
+    "start": 1736.38,
+    "duration": 2.08,
+    "text": "companies or the companies that build AI products that are"
+  },
+  {
+    "start": 1738.46,
+    "duration": 3.6,
+    "text": "going to be really successful are, are like experts in"
+  },
+  {
+    "start": 1742.3,
+    "duration": 4.8,
+    "text": "really educating their customers on how to use AI tools,"
+  },
+  {
+    "start": 1747.18,
+    "duration": 4.56,
+    "text": "how to, you know, do basic level prompt engineering, how"
+  },
+  {
+    "start": 1751.74,
+    "duration": 3.76,
+    "text": "to understand how to, you know, set up agents to"
+  },
+  {
+    "start": 1755.5,
+    "duration": 2.84,
+    "text": "integrate into, you know, CRMs and great products, make that,"
+  },
+  {
+    "start": 1758.34,
+    "duration": 5.07,
+    "text": "you know, as easy as possible and really understand these"
+  },
+  {
+    "start": 1763.41,
+    "duration": 3.68,
+    "text": "like agentic workflows. I think that like determines like, that's"
+  },
+  {
+    "start": 1767.09,
+    "duration": 4.48,
+    "text": "like what really determines like, good from great clients is"
+  },
+  {
+    "start": 1771.57,
+    "duration": 2.28,
+    "text": "ones that are like, oh, AI, I should try it"
+  },
+  {
+    "start": 1774.65,
+    "duration": 3.08,
+    "text": "versus, like, oh, I really believe in this. This can"
+  },
+  {
+    "start": 1777.73,
+    "duration": 5.04,
+    "text": "transform my organization. I really, you know, our customer success"
+  },
+  {
+    "start": 1782.77,
+    "duration": 1.72,
+    "text": "teams are really educating them on like, AI GTM best"
+  },
+  {
+    "start": 1784.49,
+    "duration": 4.35,
+    "text": "practices. This is how I should think about prompts. This"
+  },
+  {
+    "start": 1788.84,
+    "duration": 3.8,
+    "text": "is how we can work together to build prompts for"
+  },
+  {
+    "start": 1792.64,
+    "duration": 6.6,
+    "text": "specific market specific verticals, specific use cases. And I think"
+  },
+  {
+    "start": 1801.6,
+    "duration": 1.8,
+    "text": "that's like, really the future of like, companies is like."
+  },
+  {
+    "start": 1804.88,
+    "duration": 1.28,
+    "text": "And I think that like, gives us like an advantage."
+  },
+  {
+    "start": 1806.16,
+    "duration": 3.2,
+    "text": "Like, everyone who works like at 11x is like really"
+  },
+  {
+    "start": 1809.36,
+    "duration": 5.24,
+    "text": "AI oriented and like, knows how to, like, really like,"
+  },
+  {
+    "start": 1814.6,
+    "duration": 2.12,
+    "text": "knows how to use these products and tools and build"
+  },
+  {
+    "start": 1816.72,
+    "duration": 2.23,
+    "text": "them. And I think the companies that really succeed, succeed"
+  },
+  {
+    "start": 1818.95,
+    "duration": 3.84,
+    "text": "in this era of adopting AI software are the ones"
+  },
+  {
+    "start": 1822.79,
+    "duration": 4.68,
+    "text": "that are really focused on, you know, teaching their, you"
+  },
+  {
+    "start": 1827.47,
+    "duration": 4.16,
+    "text": "know, workforces like, how to, how to use AI effectively."
+  },
+  {
+    "start": 1832.59,
+    "duration": 4.0,
+    "text": "Something I'm like, paying attention to like, like, like every"
+  },
+  {
+    "start": 1836.59,
+    "duration": 1.68,
+    "text": "day. Like, like that's like number one interview question I"
+  },
+  {
+    "start": 1838.27,
+    "duration": 2.56,
+    "text": "ask people is like, how do you use AI in"
+  },
+  {
+    "start": 1840.83,
+    "duration": 2.2,
+    "text": "your workflow? And I'm always trying to learn from, you"
+  },
+  {
+    "start": 1843.03,
+    "duration": 3.76,
+    "text": "know, different salespeople of how their, how are they getting"
+  },
+  {
+    "start": 1846.79,
+    "duration": 6.72,
+    "text": "better and leveraging that. I've mandated this for management and"
+  },
+  {
+    "start": 1853.51,
+    "duration": 5.04,
+    "text": "sort of leveraged IC roles. I said that I've told"
+  },
+  {
+    "start": 1858.55,
+    "duration": 3.32,
+    "text": "my senior leaders. I'm like, if you're hiring managers, I"
+  },
+  {
+    "start": 1861.87,
+    "duration": 1.44,
+    "text": "need you to ask about AI and if somebody has"
+  },
+  {
+    "start": 1863.31,
+    "duration": 5.08,
+    "text": "no answer to it, then they are disqualified. Yeah, I"
+  },
+  {
+    "start": 1868.39,
+    "duration": 4.91,
+    "text": "would imagine you do for sure. But it's the level"
+  },
+  {
+    "start": 1873.3,
+    "duration": 4.4,
+    "text": "of importance that I think this has and I think"
+  },
+  {
+    "start": 1877.7,
+    "duration": 4.84,
+    "text": "you just need to drive the, the, the adoption. I"
+  },
+  {
+    "start": 1882.54,
+    "duration": 4.08,
+    "text": "loved Toby's letter. Yeah, Shopify. There was another one that"
+  },
+  {
+    "start": 1886.62,
+    "duration": 2.56,
+    "text": "was just written by the guy from Duolingo. Like it's,"
+  },
+  {
+    "start": 1889.18,
+    "duration": 5.12,
+    "text": "it's now a theme. Yeah, absolutely. So, so you mentioned"
+  },
+  {
+    "start": 1894.3,
+    "duration": 2.16,
+    "text": "teaching AI best practices, so I want to unpack a"
+  },
+  {
+    "start": 1896.46,
+    "duration": 5.04,
+    "text": "couple of those. So focus on teaching your workforce how"
+  },
+  {
+    "start": 1901.5,
+    "duration": 5.12,
+    "text": "to use AI. So making your, your organization fluent is"
+  },
+  {
+    "start": 1906.62,
+    "duration": 4.08,
+    "text": "obviously one. What else are sort of the AI transformation"
+  },
+  {
+    "start": 1910.7,
+    "duration": 3.2,
+    "text": "best practices if you're. And let's focus on if I'm"
+  },
+  {
+    "start": 1913.9,
+    "duration": 2.2,
+    "text": "like, AI curious. I've only done a little bit of."
+  },
+  {
+    "start": 1916.1,
+    "duration": 3.6,
+    "text": "I've only like dipped my toe in the water. I've"
+  },
+  {
+    "start": 1919.7,
+    "duration": 1.68,
+    "text": "used ChatGPT a little bit. But like, I'm not, I'm"
+  },
+  {
+    "start": 1921.38,
+    "duration": 2.74,
+    "text": "not deep in it. Like, where do you. I start?"
+  },
+  {
+    "start": 1925.76,
+    "duration": 2.24,
+    "text": "Yeah, yeah. I would even like, zoom out. Like, I"
+  },
+  {
+    "start": 1928.0,
+    "duration": 2.28,
+    "text": "think like a lot of organ. Like sometimes in companies,"
+  },
+  {
+    "start": 1931.52,
+    "duration": 1.8,
+    "text": "like company culture of like AI using AI is cheating."
+  },
+  {
+    "start": 1934.64,
+    "duration": 3.28,
+    "text": "Like sometimes people feel that way. And like, that is"
+  },
+  {
+    "start": 1937.92,
+    "duration": 1.36,
+    "text": "like, one of the most, like, harmful things that you"
+  },
+  {
+    "start": 1939.28,
+    "duration": 3.24,
+    "text": "can have within your company. Like, you really need to,"
+  },
+  {
+    "start": 1942.52,
+    "duration": 2.48,
+    "text": "like, encourage everyone to like, fully embrace this and share"
+  },
+  {
+    "start": 1945.0,
+    "duration": 2.44,
+    "text": "the way that they're, you know, the ways that they're,"
+  },
+  {
+    "start": 1947.44,
+    "duration": 3.96,
+    "text": "they're using, you know, AI. Yeah, get in the weeds."
+  },
+  {
+    "start": 1951.4,
+    "duration": 2.72,
+    "text": "Like, use everything, like, experiment, like four to five, like"
+  },
+  {
+    "start": 1954.12,
+    "duration": 2.96,
+    "text": "AI products. Like, talk to other CROs, ask them what"
+  },
+  {
+    "start": 1957.08,
+    "duration": 3.2,
+    "text": "products that they're using. You know, try them out for"
+  },
+  {
+    "start": 1960.28,
+    "duration": 5.88,
+    "text": "yourselves. Like, have a really, like, experimental mindset if you"
+  },
+  {
+    "start": 1966.48,
+    "duration": 2.52,
+    "text": "rely on your teams to use these products and don't"
+  },
+  {
+    "start": 1969.0,
+    "duration": 2.12,
+    "text": "use themselves. Like, I love that you're like, you know,"
+  },
+  {
+    "start": 1972.76,
+    "duration": 2.88,
+    "text": "vibe coding on Windsurf. Like, like, really get in the"
+  },
+  {
+    "start": 1975.64,
+    "duration": 1.56,
+    "text": "weeds and like, really deeply understand that. I've always seen"
+  },
+  {
+    "start": 1983.22,
+    "duration": 2.2,
+    "text": "CRMs is they use their products, they use their tech,"
+  },
+  {
+    "start": 1986.5,
+    "duration": 5.4,
+    "text": "they really understand, like, how their tech relates in the"
+  },
+  {
+    "start": 1991.9,
+    "duration": 2.28,
+    "text": "ecosystem, like, why it's better than other competitors at like"
+  },
+  {
+    "start": 1994.18,
+    "duration": 4.16,
+    "text": "a really, like, like a user level. And I think"
+  },
+  {
+    "start": 1998.34,
+    "duration": 4.16,
+    "text": "like, like, you know, this is like a time where"
+  },
+  {
+    "start": 2002.5,
+    "duration": 2.24,
+    "text": "like, zeros, like, really need to lead from the front"
+  },
+  {
+    "start": 2004.25,
+    "duration": 4.52,
+    "text": "in terms of, you know, teaching teams how to use,"
+  },
+  {
+    "start": 2008.01,
+    "duration": 3.0,
+    "text": "like, AI tools. Like, teaching teams, like, how to, like,"
+  },
+  {
+    "start": 2011.01,
+    "duration": 5.08,
+    "text": "how to prompt teaching, you know, teaching teams, like, really"
+  },
+  {
+    "start": 2016.09,
+    "duration": 2.0,
+    "text": "like, how to think about, how to think about this"
+  },
+  {
+    "start": 2018.09,
+    "duration": 3.16,
+    "text": "tech. Like using ChatGPT and like, Claude to like, do"
+  },
+  {
+    "start": 2021.25,
+    "duration": 3.0,
+    "text": "basic research is like, that was like. That was like"
+  },
+  {
+    "start": 2024.25,
+    "duration": 5.32,
+    "text": "new 612 months ago. But like, it's. There's like, there's"
+  },
+  {
+    "start": 2029.57,
+    "duration": 4.18,
+    "text": "like so much, so much deeper levels. We're using this"
+  },
+  {
+    "start": 2033.75,
+    "duration": 3.88,
+    "text": "product recently, like, called like, like Quilt, and it like,"
+  },
+  {
+    "start": 2037.63,
+    "duration": 3.44,
+    "text": "automates, like full security questionnaires for. Right, right. And it"
+  },
+  {
+    "start": 2041.07,
+    "duration": 3.16,
+    "text": "saves them like, like hours of time. And then we're"
+  },
+  {
+    "start": 2044.23,
+    "duration": 4.36,
+    "text": "looking at using like Glean for our CS teams. And"
+  },
+  {
+    "start": 2049.11,
+    "duration": 3.68,
+    "text": "yeah, it's just like, it's like really like getting in"
+  },
+  {
+    "start": 2052.79,
+    "duration": 2.76,
+    "text": "and seeing and like, really like starting to think in"
+  },
+  {
+    "start": 2055.55,
+    "duration": 2.44,
+    "text": "this, you know, in this way of like, these product"
+  },
+  {
+    "start": 2057.99,
+    "duration": 4.46,
+    "text": "workflows is really. Yeah, it's like an absolute, like, necessary"
+  },
+  {
+    "start": 2062.45,
+    "duration": 2.68,
+    "text": "skill to have. And you got to take the demos."
+  },
+  {
+    "start": 2066.53,
+    "duration": 2.92,
+    "text": "You know, it's. It's. It seems overwhelming and it seems"
+  },
+  {
+    "start": 2069.45,
+    "duration": 3.32,
+    "text": "like the last thing you want to spend two hours"
+  },
+  {
+    "start": 2072.77,
+    "duration": 2.8,
+    "text": "a week on. But this is advice I'm giving to"
+  },
+  {
+    "start": 2075.57,
+    "duration": 2.12,
+    "text": "people. It's like you just got to take the demos"
+  },
+  {
+    "start": 2077.69,
+    "duration": 2.56,
+    "text": "as much as it seems like not the best use"
+  },
+  {
+    "start": 2080.25,
+    "duration": 3.28,
+    "text": "of time. You got to figure out what's out there,"
+  },
+  {
+    "start": 2083.53,
+    "duration": 2.76,
+    "text": "what's. What's possible. And whenever I take these demos, one"
+  },
+  {
+    "start": 2086.29,
+    "duration": 2.68,
+    "text": "of the things I say to the founder, I'm like,"
+  },
+  {
+    "start": 2088.29,
+    "duration": 1.88,
+    "text": "I don't really want the product demo. I want you"
+  },
+  {
+    "start": 2090.17,
+    "duration": 3.0,
+    "text": "to show me, like, live use cases. Like, show me"
+  },
+  {
+    "start": 2093.49,
+    "duration": 2.88,
+    "text": "what customers are doing and the art of the possible."
+  },
+  {
+    "start": 2096.45,
+    "duration": 1.92,
+    "text": "Because really what I'm trying to do is, yeah, I"
+  },
+  {
+    "start": 2098.37,
+    "duration": 3.52,
+    "text": "want to see the product, but I'm trying to see,"
+  },
+  {
+    "start": 2101.89,
+    "duration": 3.92,
+    "text": "like, what are the most sophisticated companies doing and how"
+  },
+  {
+    "start": 2105.81,
+    "duration": 2.8,
+    "text": "can I, how can I mimic it? Yeah, that's such"
+  },
+  {
+    "start": 2108.61,
+    "duration": 3.2,
+    "text": "a good point. Like, the way that I learned about"
+  },
+  {
+    "start": 2111.81,
+    "duration": 1.88,
+    "text": "how our products works is I go to our most"
+  },
+  {
+    "start": 2113.69,
+    "duration": 3.64,
+    "text": "successful, like, customers and I impersonate, like, their workflows and"
+  },
+  {
+    "start": 2117.33,
+    "duration": 3.28,
+    "text": "I look through them and I am like, wow, this"
+  },
+  {
+    "start": 2120.61,
+    "duration": 4.36,
+    "text": "is like, this is why you're successful. And yeah, and"
+  },
+  {
+    "start": 2124.97,
+    "duration": 2.96,
+    "text": "it's like, it's really interesting. There's a high correlation with"
+  },
+  {
+    "start": 2127.93,
+    "duration": 3.84,
+    "text": "the companies that have, that are building AI products and"
+  },
+  {
+    "start": 2131.77,
+    "duration": 4.88,
+    "text": "the companies that are successful using AI products. Yeah, yeah,"
+  },
+  {
+    "start": 2136.65,
+    "duration": 2.88,
+    "text": "for sure. It's, it is like, it's like a night"
+  },
+  {
+    "start": 2139.53,
+    "duration": 4.25,
+    "text": "day quirk correlation there. And I really. It's a cultural"
+  },
+  {
+    "start": 2143.78,
+    "duration": 2.32,
+    "text": "thing. You know, it's these organizations that are operating in"
+  },
+  {
+    "start": 2146.1,
+    "duration": 2.84,
+    "text": "this way and thinking in this way and building in"
+  },
+  {
+    "start": 2148.94,
+    "duration": 1.28,
+    "text": "this way, and then they're using all of these different"
+  },
+  {
+    "start": 2150.22,
+    "duration": 3.92,
+    "text": "products and tools in this way. And then it's, it's"
+  },
+  {
+    "start": 2154.14,
+    "duration": 2.08,
+    "text": "really interesting. I can look at two companies in the"
+  },
+  {
+    "start": 2165.78,
+    "duration": 2.3,
+    "text": "And just the way that they're, you know, building workflows,"
+  },
+  {
+    "start": 2169.04,
+    "duration": 4.76,
+    "text": "the way that they're, you know, prompting is. It's, yeah,"
+  },
+  {
+    "start": 2173.8,
+    "duration": 2.48,
+    "text": "really, really interesting. And like, that's why I'm like, really"
+  },
+  {
+    "start": 2176.28,
+    "duration": 4.24,
+    "text": "so focused on like, you know, for AI native companies"
+  },
+  {
+    "start": 2180.52,
+    "duration": 6.44,
+    "text": "today, like, educating, having like, really great, like, education practices"
+  },
+  {
+    "start": 2186.96,
+    "duration": 2.92,
+    "text": "on like, how to teach your customers about AI even"
+  },
+  {
+    "start": 2189.88,
+    "duration": 3.96,
+    "text": "outside of your, the scope of your products is, is"
+  },
+  {
+    "start": 2193.84,
+    "duration": 4.56,
+    "text": "really, really important. Yeah. So what are those primitives like"
+  },
+  {
+    "start": 2198.4,
+    "duration": 2.8,
+    "text": "you, you mentioned? Prompt engineering is one. If I'm a"
+  },
+  {
+    "start": 2201.2,
+    "duration": 2.92,
+    "text": "CRO and I'm trying to go sort of fill in"
+  },
+  {
+    "start": 2204.12,
+    "duration": 3.76,
+    "text": "my mental model of what is AI and how can"
+  },
+  {
+    "start": 2207.88,
+    "duration": 1.24,
+    "text": "I use it. Like, what were, what would be the"
+  },
+  {
+    "start": 2209.12,
+    "duration": 3.68,
+    "text": "baskets of things you would tell somebody to go learn?"
+  },
+  {
+    "start": 2212.36,
+    "duration": 10.33,
+    "text": "Yeah, absolutely. Yeah, that's a really good question. If I"
+  },
+  {
+    "start": 2222.69,
+    "duration": 2.16,
+    "text": "were like a CRO and I'm like, really like, trying"
+  },
+  {
+    "start": 2224.85,
+    "duration": 1.64,
+    "text": "to, you know, I'm not using AI products, I'm, I'm"
+  },
+  {
+    "start": 2226.49,
+    "duration": 3.88,
+    "text": "really new to this. Like, I would like, I think,"
+  },
+  {
+    "start": 2230.37,
+    "duration": 3.44,
+    "text": "like, first I would like, really look at, like, I"
+  },
+  {
+    "start": 2233.81,
+    "duration": 1.84,
+    "text": "would, I would, I'D go to all my leaders, right?"
+  },
+  {
+    "start": 2235.65,
+    "duration": 1.52,
+    "text": "I go to like revops, I go to my SDR"
+  },
+  {
+    "start": 2237.17,
+    "duration": 2.24,
+    "text": "leader, I go to my AE leaders, I go to"
+  },
+  {
+    "start": 2239.41,
+    "duration": 2.96,
+    "text": "my sales managers and I would ask them to each"
+  },
+  {
+    "start": 2242.37,
+    "duration": 2.88,
+    "text": "come up with like three to five different solutions in"
+  },
+  {
+    "start": 2245.25,
+    "duration": 5.12,
+    "text": "ways that they can leverage AI within to optimize their"
+  },
+  {
+    "start": 2250.37,
+    "duration": 2.08,
+    "text": "teams. I actually wouldn't have them go and pick specific"
+  },
+  {
+    "start": 2252.45,
+    "duration": 2.8,
+    "text": "products. I was saying if you could have a single"
+  },
+  {
+    "start": 2255.25,
+    "duration": 5.4,
+    "text": "product or what is your. Team. If you could build"
+  },
+  {
+    "start": 2260.73,
+    "duration": 3.68,
+    "text": "any specific product to really make your team 10x more"
+  },
+  {
+    "start": 2264.41,
+    "duration": 4.92,
+    "text": "efficient, what would it be? I think then within each"
+  },
+  {
+    "start": 2269.33,
+    "duration": 3.47,
+    "text": "of those teams we would do like a mix of"
+  },
+  {
+    "start": 2272.8,
+    "duration": 3.12,
+    "text": "like, okay, let's pick like three of those five use"
+  },
+  {
+    "start": 2282.96,
+    "duration": 3.76,
+    "text": "like through LLMs or through like, or through like discovery"
+  },
+  {
+    "start": 2286.72,
+    "duration": 1.92,
+    "text": "of like products on the market, like how we can"
+  },
+  {
+    "start": 2288.64,
+    "duration": 4.0,
+    "text": "really solve that. I think it's like, it's as. That,"
+  },
+  {
+    "start": 2292.64,
+    "duration": 1.64,
+    "text": "that type of like leadership is as important as hiring."
+  },
+  {
+    "start": 2295.32,
+    "duration": 2.12,
+    "text": "I think that's the new way to hire almost in"
+  },
+  {
+    "start": 2297.44,
+    "duration": 3.37,
+    "text": "a lot of ways is like, instead of like finding"
+  },
+  {
+    "start": 2300.81,
+    "duration": 4.0,
+    "text": "people that are really specialized and can find solutions, like"
+  },
+  {
+    "start": 2304.05,
+    "duration": 6.32,
+    "text": "really great leaders can go out and identify, identify products"
+  },
+  {
+    "start": 2310.45,
+    "duration": 8.12,
+    "text": "or identify, you know, workflows with like Claude or ChatGPT"
+  },
+  {
+    "start": 2318.73,
+    "duration": 1.68,
+    "text": "that can like really make their teams more efficient. And"
+  },
+  {
+    "start": 2320.41,
+    "duration": 3.0,
+    "text": "I would like hold all my leaders like really accountable"
+  },
+  {
+    "start": 2324.06,
+    "duration": 6.6,
+    "text": "to building those different solutions. And that's not, we're a"
+  },
+  {
+    "start": 2330.66,
+    "duration": 0.56,
+    "text": "pretty small org, I mean, but that's not too far"
+  },
+  {
+    "start": 2331.22,
+    "duration": 2.88,
+    "text": "off the way that I speak with my leaders today."
+  },
+  {
+    "start": 2334.1,
+    "duration": 5.88,
+    "text": "It's like we're really all focused on identifying and bringing"
+  },
+  {
+    "start": 2339.98,
+    "duration": 3.72,
+    "text": "forward three to five different AI solutions a quarter that"
+  },
+  {
+    "start": 2343.7,
+    "duration": 1.32,
+    "text": "can really help us grow and scale as a company"
+  },
+  {
+    "start": 2345.18,
+    "duration": 5.36,
+    "text": "in addition to what we're building ourselves. Yeah, that makes"
+  },
+  {
+    "start": 2350.54,
+    "duration": 2.63,
+    "text": "sense. It so fill in the blanks for me here."
+  },
+  {
+    "start": 2353.17,
+    "duration": 3.08,
+    "text": "So if I was going to tell a CRO, like"
+  },
+  {
+    "start": 2356.25,
+    "duration": 3.36,
+    "text": "these are the baskets of things you need to figure"
+  },
+  {
+    "start": 2359.61,
+    "duration": 2.92,
+    "text": "out. So I think it's the tools. Like go learn"
+  },
+  {
+    "start": 2362.53,
+    "duration": 2.8,
+    "text": "the tools, figure out what are the foundation models, what"
+  },
+  {
+    "start": 2365.33,
+    "duration": 4.36,
+    "text": "are the core things in a market. There's prompt engineering,"
+  },
+  {
+    "start": 2370.65,
+    "duration": 2.64,
+    "text": "there's something around architecture. You got to figure out how"
+  },
+  {
+    "start": 2373.29,
+    "duration": 4.44,
+    "text": "some of this stuff like plugs in and works with"
+  },
+  {
+    "start": 2377.73,
+    "duration": 2.64,
+    "text": "one another. And not as deep as like, you gotta"
+  },
+  {
+    "start": 2380.37,
+    "duration": 2.76,
+    "text": "go learn Python and figure out how APIs and webhooks"
+  },
+  {
+    "start": 2383.13,
+    "duration": 6.48,
+    "text": "work. But like you have to think through the map"
+  },
+  {
+    "start": 2389.61,
+    "duration": 1.8,
+    "text": "of how all this stuff is gonna work. And then"
+  },
+  {
+    "start": 2391.41,
+    "duration": 4.28,
+    "text": "I just like, yeah, there you go. Sorry. And the"
+  },
+  {
+    "start": 2395.69,
+    "duration": 0.68,
+    "text": "last thing is like, and the art of the possible"
+  },
+  {
+    "start": 2397.61,
+    "duration": 1.96,
+    "text": "and then just go figure out what the coolest use"
+  },
+  {
+    "start": 2399.57,
+    "duration": 3.24,
+    "text": "cases are out there. What else would you say are"
+  },
+  {
+    "start": 2402.81,
+    "duration": 3.84,
+    "text": "like the categories of education or learning people need to"
+  },
+  {
+    "start": 2406.65,
+    "duration": 3.36,
+    "text": "do? I think like agents, people really like. I think"
+  },
+  {
+    "start": 2410.01,
+    "duration": 2.84,
+    "text": "a lot of people like nod their heads when they"
+  },
+  {
+    "start": 2412.85,
+    "duration": 3.16,
+    "text": "talk about AI agents and they're like, this is really"
+  },
+  {
+    "start": 2416.01,
+    "duration": 4.44,
+    "text": "new and like really understanding like what agentic workflows, like,"
+  },
+  {
+    "start": 2421.77,
+    "duration": 2.52,
+    "text": "really mean. Yeah, it's actually a question I like ask"
+  },
+  {
+    "start": 2424.29,
+    "duration": 2.44,
+    "text": "a lot of people. I'm like, oh, do you know"
+  },
+  {
+    "start": 2426.73,
+    "duration": 3.52,
+    "text": "what like agents really do? Because it took me like"
+  },
+  {
+    "start": 2430.25,
+    "duration": 1.96,
+    "text": "a really long time. Like, I was totally that person"
+  },
+  {
+    "start": 2432.21,
+    "duration": 2.36,
+    "text": "at first. I was like, yeah, I kind of know"
+  },
+  {
+    "start": 2434.57,
+    "duration": 2.41,
+    "text": "what an agent is. It's like, like an AI person."
+  },
+  {
+    "start": 2436.98,
+    "duration": 2.8,
+    "text": "But it's actually so much deeper than that. It's like,"
+  },
+  {
+    "start": 2439.02,
+    "duration": 4.32,
+    "text": "it's a conversational interface that connects, that is like an"
+  },
+  {
+    "start": 2443.34,
+    "duration": 4.36,
+    "text": "application layer that really connects to all the systems, like"
+  },
+  {
+    "start": 2447.86,
+    "duration": 2.32,
+    "text": "all these different systems of record and you know, does"
+  },
+  {
+    "start": 2450.18,
+    "duration": 5.32,
+    "text": "like, does work, like makes, makes updates, makes purchases, you"
+  },
+  {
+    "start": 2455.5,
+    "duration": 3.76,
+    "text": "know, processes, returns. Like Claude and Chat GPT are like"
+  },
+  {
+    "start": 2459.26,
+    "duration": 4.57,
+    "text": "not are not agents. They are just form the way"
+  },
+  {
+    "start": 2463.83,
+    "duration": 3.76,
+    "text": "that 99% of us use them. Like, you know, it's"
+  },
+  {
+    "start": 2467.59,
+    "duration": 3.04,
+    "text": "really just, you know, using as an LLM to have,"
+  },
+  {
+    "start": 2470.63,
+    "duration": 5.96,
+    "text": "you know, conversations and you know, maybe build like a"
+  },
+  {
+    "start": 2476.59,
+    "duration": 2.32,
+    "text": "chart or a graph. But like a lot of these,"
+  },
+  {
+    "start": 2479.55,
+    "duration": 0.72,
+    "text": "you know, new products that are coming out are like"
+  },
+  {
+    "start": 2480.27,
+    "duration": 4.76,
+    "text": "fully agentic workflows that automate multiple, you know, different connected"
+  },
+  {
+    "start": 2485.03,
+    "duration": 3.64,
+    "text": "systems and really replicate, you know, a lot of different"
+  },
+  {
+    "start": 2488.67,
+    "duration": 2.5,
+    "text": "workflows. And I think doing a lot of like research"
+  },
+  {
+    "start": 2491.33,
+    "duration": 6.2,
+    "text": "into this, like, into like Agentix software is really interesting."
+  },
+  {
+    "start": 2497.61,
+    "duration": 1.68,
+    "text": "Like if you, I think that's. There was like this"
+  },
+  {
+    "start": 2499.29,
+    "duration": 3.8,
+    "text": "satya video I watched like probably six months or a"
+  },
+  {
+    "start": 2503.09,
+    "duration": 3.16,
+    "text": "year ago. And like this like Agentix software truly has"
+  },
+  {
+    "start": 2506.25,
+    "duration": 3.92,
+    "text": "the ability to replace like traditional B2B SaaS. It's an"
+  },
+  {
+    "start": 2510.17,
+    "duration": 5.44,
+    "text": "entirely different way of building. You know, we're moving from"
+  },
+  {
+    "start": 2515.77,
+    "duration": 3.01,
+    "text": "business systems that are built on like SQL databases and"
+  },
+  {
+    "start": 2518.78,
+    "duration": 4.68,
+    "text": "rows and lookups to full LLMs that are connected to"
+  },
+  {
+    "start": 2523.46,
+    "duration": 4.04,
+    "text": "multiple systems of record and making updates. And by the"
+  },
+  {
+    "start": 2527.5,
+    "duration": 5.24,
+    "text": "way, those LLMs are consistently getting better each month. And"
+  },
+  {
+    "start": 2532.14,
+    "duration": 4.12,
+    "text": "it's just a really different way of building software. And"
+  },
+  {
+    "start": 2536.26,
+    "duration": 2.12,
+    "text": "I think being in touch, in tune with the market"
+  },
+  {
+    "start": 2539.86,
+    "duration": 2.96,
+    "text": "and how these companies are being built and how what"
+  },
+  {
+    "start": 2542.82,
+    "duration": 1.57,
+    "text": "new products are coming to market is really is really"
+  },
+  {
+    "start": 2544.39,
+    "duration": 4.8,
+    "text": "critical for revenue leaders. Yeah, it's tough too because everybody's"
+  },
+  {
+    "start": 2549.19,
+    "duration": 3.76,
+    "text": "calling everything an agent now. You know, anything that's AI,"
+  },
+  {
+    "start": 2552.95,
+    "duration": 3.8,
+    "text": "it's like, oh, this is my AI. Agent. And my"
+  },
+  {
+    "start": 2556.75,
+    "duration": 4.0,
+    "text": "definition, which is more of the like old school definition,"
+  },
+  {
+    "start": 2560.75,
+    "duration": 2.6,
+    "text": "is it has to be able to reason, take action"
+  },
+  {
+    "start": 2564.67,
+    "duration": 3.6,
+    "text": "and then, and choose from different paths and access other"
+  },
+  {
+    "start": 2568.27,
+    "duration": 6.31,
+    "text": "tools. And if you're agent, you know, takes in input"
+  },
+  {
+    "start": 2574.58,
+    "duration": 1.8,
+    "text": "and then does a thing, that's an AI workflow. But"
+  },
+  {
+    "start": 2576.38,
+    "duration": 5.16,
+    "text": "I think agents need to, need to like make decisions"
+  },
+  {
+    "start": 2581.54,
+    "duration": 1.72,
+    "text": "about how to solve a problem, then be able to"
+  },
+  {
+    "start": 2583.26,
+    "duration": 4.6,
+    "text": "access multiple tools to solve that problem. That's a much"
+  },
+  {
+    "start": 2587.86,
+    "duration": 2.16,
+    "text": "higher bar than I think people are, are using the"
+  },
+  {
+    "start": 2590.02,
+    "duration": 3.8,
+    "text": "word agent for. But you know, Sam Altman has that"
+  },
+  {
+    "start": 2593.82,
+    "duration": 2.4,
+    "text": "same like five levels of, of AI. There's sort of"
+  },
+  {
+    "start": 2596.22,
+    "duration": 6.32,
+    "text": "the chat is level one and then like vertical SME."
+  },
+  {
+    "start": 2602.86,
+    "duration": 1.16,
+    "text": "So it's, you know, it's a tailor, it's a, it's"
+  },
+  {
+    "start": 2604.02,
+    "duration": 3.76,
+    "text": "an AI that's tailored for something like quite specific. Then"
+  },
+  {
+    "start": 2607.78,
+    "duration": 4.56,
+    "text": "there's agent that can execute, like decide and execute and"
+  },
+  {
+    "start": 2612.34,
+    "duration": 4.28,
+    "text": "then the 4th and 5th start to get into like"
+  },
+  {
+    "start": 2616.86,
+    "duration": 3.48,
+    "text": "AGI ASI. I don't even know. I'm not there yet."
+  },
+  {
+    "start": 2621.66,
+    "duration": 6.2,
+    "text": "Yeah, yeah, yeah, I'm sure someday that'll be more relevant."
+  },
+  {
+    "start": 2627.86,
+    "duration": 2.76,
+    "text": "Yeah, it's just like what work is it actually doing?"
+  },
+  {
+    "start": 2631.66,
+    "duration": 7.16,
+    "text": "I really think the conversational chatbot interface is really phased"
+  },
+  {
+    "start": 2638.82,
+    "duration": 3.52,
+    "text": "out and it's really like what work is the agent"
+  },
+  {
+    "start": 2642.34,
+    "duration": 5.68,
+    "text": "actually doing and automating. Yeah, yeah, for sure. A question"
+  },
+  {
+    "start": 2648.02,
+    "duration": 2.2,
+    "text": "I get all the time is like, okay, cool, so"
+  },
+  {
+    "start": 2650.22,
+    "duration": 2.48,
+    "text": "I got to go learn a bunch of these things."
+  },
+  {
+    "start": 2652.78,
+    "duration": 2.45,
+    "text": "Where do I go? There's no course. There are courses"
+  },
+  {
+    "start": 2655.23,
+    "duration": 4.6,
+    "text": "and most of them suck. Yeah, sorry to anybody building"
+  },
+  {
+    "start": 2659.83,
+    "duration": 2.76,
+    "text": "courses, but they get out of date so fast. And"
+  },
+  {
+    "start": 2662.59,
+    "duration": 3.8,
+    "text": "yeah, you know, there's no book on it. Nobody's written"
+  },
+  {
+    "start": 2666.39,
+    "duration": 3.52,
+    "text": "like the book that's going to be topical for more"
+  },
+  {
+    "start": 2669.91,
+    "duration": 2.28,
+    "text": "than 60 days. So like where do you direct people"
+  },
+  {
+    "start": 2672.19,
+    "duration": 6.36,
+    "text": "to, to try to start learning this stuff? Yeah, it's"
+  },
+  {
+    "start": 2678.55,
+    "duration": 3.92,
+    "text": "hard question. It's hard because there's so much noise out"
+  },
+  {
+    "start": 2682.47,
+    "duration": 5.76,
+    "text": "there. Yeah, I think, you know, the best, best way"
+  },
+  {
+    "start": 2688.23,
+    "duration": 3.56,
+    "text": "to learn is like, like you said like demos and"
+  },
+  {
+    "start": 2691.79,
+    "duration": 3.92,
+    "text": "like, you know, like exploration, like having, talking to other"
+  },
+  {
+    "start": 2695.71,
+    "duration": 3.52,
+    "text": "revenue leaders, understanding what you know, people are using, understanding"
+  },
+  {
+    "start": 2699.23,
+    "duration": 4.04,
+    "text": "if they're having success. I think there's also like, like,"
+  },
+  {
+    "start": 2703.27,
+    "duration": 5.52,
+    "text": "you know, a large part of like, like understanding like,"
+  },
+  {
+    "start": 2708.29,
+    "duration": 3.12,
+    "text": "like, like, yeah, like understand like why companies are being"
+  },
+  {
+    "start": 2711.41,
+    "duration": 4.08,
+    "text": "successful with, with like really specific tools. Because I think"
+  },
+  {
+    "start": 2715.49,
+    "duration": 5.76,
+    "text": "like there is like something I was talking to, I"
+  },
+  {
+    "start": 2721.25,
+    "duration": 1.8,
+    "text": "was talking to, I was having a call with a"
+  },
+  {
+    "start": 2723.05,
+    "duration": 3.0,
+    "text": "Goku Rajaram the other day and it was, he referred"
+  },
+  {
+    "start": 2726.05,
+    "duration": 2.4,
+    "text": "me this article that was really like talking about like"
+  },
+  {
+    "start": 2728.45,
+    "duration": 5.12,
+    "text": "buying agentic software. It's like being like the early days"
+  },
+  {
+    "start": 2733.57,
+    "duration": 4.13,
+    "text": "of buying like SaaS or cloud based software and companies"
+  },
+  {
+    "start": 2737.86,
+    "duration": 2.24,
+    "text": "like you know, really don't know how to like like"
+  },
+  {
+    "start": 2740.1,
+    "duration": 2.2,
+    "text": "in the early days of software, like teams didn't know"
+  },
+  {
+    "start": 2742.3,
+    "duration": 2.8,
+    "text": "how to use cloud based software. They were like totally"
+  },
+  {
+    "start": 2745.1,
+    "duration": 5.72,
+    "text": "new and novel to them. And you know, it's. I"
+  },
+  {
+    "start": 2750.82,
+    "duration": 1.4,
+    "text": "think we're very much in that same age now where"
+  },
+  {
+    "start": 2753.26,
+    "duration": 3.08,
+    "text": "I really want to find like I really want to"
+  },
+  {
+    "start": 2756.34,
+    "duration": 3.64,
+    "text": "find the companies that are being successful with, with, with"
+  },
+  {
+    "start": 2759.98,
+    "duration": 4.59,
+    "text": "AI because I think that's like, I think being successful"
+  },
+  {
+    "start": 2764.05,
+    "duration": 3.96,
+    "text": "with this type of software is. It's like two, it's"
+  },
+  {
+    "start": 2768.01,
+    "duration": 3.68,
+    "text": "like two, two factors like one like embracing the idea"
+  },
+  {
+    "start": 2771.69,
+    "duration": 2.0,
+    "text": "of buying it, but then two, like embracing the idea"
+  },
+  {
+    "start": 2773.69,
+    "duration": 3.0,
+    "text": "of like operationalizing your teams to like use and invest"
+  },
+  {
+    "start": 2776.69,
+    "duration": 4.04,
+    "text": "in it. And I think the, I really want to"
+  },
+  {
+    "start": 2780.73,
+    "duration": 2.72,
+    "text": "like learn about and speak with like revenue leaders who"
+  },
+  {
+    "start": 2783.45,
+    "duration": 7.73,
+    "text": "are building like yeah, like AI native operational teams. Like,"
+  },
+  {
+    "start": 2791.18,
+    "duration": 4.16,
+    "text": "like really like leveraging like AI across across like multiple"
+  },
+  {
+    "start": 2795.34,
+    "duration": 3.88,
+    "text": "parts of their revenue organization and are having success across"
+  },
+  {
+    "start": 2799.22,
+    "duration": 4.32,
+    "text": "like multiple different products. Because that's like the difference of"
+  },
+  {
+    "start": 2803.54,
+    "duration": 1.48,
+    "text": "like, that's like someone who like really gets it versus"
+  },
+  {
+    "start": 2805.02,
+    "duration": 2.2,
+    "text": "like the difference of someone who like has had had"
+  },
+  {
+    "start": 2807.22,
+    "duration": 2.88,
+    "text": "success with like one, one individual, you know, product or"
+  },
+  {
+    "start": 2810.1,
+    "duration": 7.85,
+    "text": "tool. Yeah, yeah. The. I tend to agree with you"
+  },
+  {
+    "start": 2825.75,
+    "duration": 2.72,
+    "text": "like figuring out what they're doing. You know, Kevin Dorsey"
+  },
+  {
+    "start": 2828.47,
+    "duration": 3.4,
+    "text": "is a guy that I spent a lot of time"
+  },
+  {
+    "start": 2831.87,
+    "duration": 3.12,
+    "text": "texting with. Like he's doing, he's seeing demos, I'm seeing"
+  },
+  {
+    "start": 2834.99,
+    "duration": 5.03,
+    "text": "demos, we're like trading articles and X posts in. That"
+  },
+  {
+    "start": 2840.02,
+    "duration": 4.76,
+    "text": "is where I get a lot of exposure. I think"
+  },
+  {
+    "start": 2844.78,
+    "duration": 2.44,
+    "text": "like finding that group of, of other people in the"
+  },
+  {
+    "start": 2847.22,
+    "duration": 3.16,
+    "text": "same role to go along with I think, I think"
+  },
+  {
+    "start": 2850.38,
+    "duration": 3.0,
+    "text": "is good. Pavilion's pushing big into this right now because"
+  },
+  {
+    "start": 2853.38,
+    "duration": 2.64,
+    "text": "everybody's trying to figure it out. But like community I"
+  },
+  {
+    "start": 2856.02,
+    "duration": 2.88,
+    "text": "think is a big part of it. I think there"
+  },
+  {
+    "start": 2858.9,
+    "duration": 1.64,
+    "text": "are two groups, there are like people that are kicking"
+  },
+  {
+    "start": 2860.54,
+    "duration": 1.6,
+    "text": "the tires on it and then there are people that"
+  },
+  {
+    "start": 2862.14,
+    "duration": 5.0,
+    "text": "are like really operationally investing in it. And I think"
+  },
+  {
+    "start": 2867.14,
+    "duration": 3.56,
+    "text": "like yeah, it's always trying to find those like leaders"
+  },
+  {
+    "start": 2870.78,
+    "duration": 1.56,
+    "text": "and those organizations that are like in the latter camp"
+  },
+  {
+    "start": 2872.42,
+    "duration": 4.28,
+    "text": "that are, yeah, really are investing in these tools. Like"
+  },
+  {
+    "start": 2878.1,
+    "duration": 5.4,
+    "text": "yeah, like I see like you know, organization because like"
+  },
+  {
+    "start": 2883.74,
+    "duration": 3.0,
+    "text": "when you make these operational and organizational changes it doesn't"
+  },
+  {
+    "start": 2886.74,
+    "duration": 1.28,
+    "text": "happen overnight. You know, like you're not going to have"
+  },
+  {
+    "start": 2888.02,
+    "duration": 3.84,
+    "text": "success the first like time you use one of these"
+  },
+  {
+    "start": 2891.86,
+    "duration": 1.34,
+    "text": "tools. It's going to take. There's A learning curve for"
+  },
+  {
+    "start": 2893.2,
+    "duration": 3.2,
+    "text": "sure. And definitely are the organizations that embrace these tools,"
+  },
+  {
+    "start": 2896.4,
+    "duration": 1.68,
+    "text": "try one or two use cases and are like, oh,"
+  },
+  {
+    "start": 2898.08,
+    "duration": 4.88,
+    "text": "this didn't work. It doesn't work for me. Oh, it"
+  },
+  {
+    "start": 2902.96,
+    "duration": 3.72,
+    "text": "hallucinated. It's no good. It hallucinated. Yeah, it's not good."
+  },
+  {
+    "start": 2906.08,
+    "duration": 3.08,
+    "text": "And then there are organizations that are like, no, this"
+  },
+  {
+    "start": 2909.16,
+    "duration": 2.96,
+    "text": "is a different way of working. We are going to"
+  },
+  {
+    "start": 2912.12,
+    "duration": 2.32,
+    "text": "make this work. We're going to, like, really operationalize our"
+  },
+  {
+    "start": 2914.44,
+    "duration": 4.53,
+    "text": "teams around it. We are, you know, going to look"
+  },
+  {
+    "start": 2918.97,
+    "duration": 1.12,
+    "text": "at it from a lot of different angles. We're going"
+  },
+  {
+    "start": 2920.09,
+    "duration": 2.68,
+    "text": "to learn how to, you know, prompt agents in the"
+  },
+  {
+    "start": 2922.77,
+    "duration": 1.72,
+    "text": "right way and those customers are really, you know, really"
+  },
+  {
+    "start": 2924.49,
+    "duration": 5.76,
+    "text": "successful. And yeah, I think there's like a really, really"
+  },
+  {
+    "start": 2930.25,
+    "duration": 8.6,
+    "text": "large part around. Yeah, around, like committing to this, like,"
+  },
+  {
+    "start": 2938.85,
+    "duration": 3.16,
+    "text": "AI operational workflow and like, and recognizing that is a"
+  },
+  {
+    "start": 2942.01,
+    "duration": 3.47,
+    "text": "really significant change from the way that your teams have"
+  },
+  {
+    "start": 2945.48,
+    "duration": 2.8,
+    "text": "interacted with, you know, previous software. This is very different"
+  },
+  {
+    "start": 2948.28,
+    "duration": 3.64,
+    "text": "than like buying Slack and implementing it or buying Gong"
+  },
+  {
+    "start": 2951.92,
+    "duration": 3.92,
+    "text": "or buying Clary or these like, you know, simple tools"
+  },
+  {
+    "start": 2955.84,
+    "duration": 3.64,
+    "text": "that, you know, just plug into, you know, salesforce and"
+  },
+  {
+    "start": 2959.48,
+    "duration": 3.56,
+    "text": "provide a forecast report. Yeah, it's. I mean, Slack in"
+  },
+  {
+    "start": 2963.04,
+    "duration": 3.84,
+    "text": "the early days was a big change. Going from like"
+  },
+  {
+    "start": 2966.88,
+    "duration": 2.72,
+    "text": "email to this that I would say that's, that's actually"
+  },
+  {
+    "start": 2969.6,
+    "duration": 2.92,
+    "text": "a sort of a good example of like the scale"
+  },
+  {
+    "start": 2972.52,
+    "duration": 7.8,
+    "text": "of transformation. And so you mentioned before we recorded, you"
+  },
+  {
+    "start": 2980.32,
+    "duration": 3.88,
+    "text": "know, this, this like we wanted to dig into first"
+  },
+  {
+    "start": 2984.2,
+    "duration": 2.96,
+    "text": "principles thinking, you know, how do you, how do you"
+  },
+  {
+    "start": 2987.16,
+    "duration": 5.8,
+    "text": "solve problems from a first principles approach and not get"
+  },
+  {
+    "start": 2992.96,
+    "duration": 1.28,
+    "text": "caught up in just like doing what everybody else is"
+  },
+  {
+    "start": 2994.24,
+    "duration": 5.34,
+    "text": "doing or reasoning by analogy? So maybe you can answer"
+  },
+  {
+    "start": 2999.58,
+    "duration": 3.0,
+    "text": "that question more generally. Like, what is it about first"
+  },
+  {
+    "start": 3002.58,
+    "duration": 1.96,
+    "text": "principles thinking that's so important and how do you do"
+  },
+  {
+    "start": 3004.54,
+    "duration": 0.8,
+    "text": "it? And then let's get into how do I, from"
+  },
+  {
+    "start": 3005.34,
+    "duration": 3.84,
+    "text": "a first principles perspective, think about my AI journey in"
+  },
+  {
+    "start": 3009.18,
+    "duration": 4.92,
+    "text": "my, in my company? Yeah, absolutely. Yeah. I've always, like,"
+  },
+  {
+    "start": 3014.1,
+    "duration": 3.4,
+    "text": "been a really big fan of like, first principles thinking."
+  },
+  {
+    "start": 3019.66,
+    "duration": 2.4,
+    "text": "It's like, I feel like something that's like, really important"
+  },
+  {
+    "start": 3022.06,
+    "duration": 3.23,
+    "text": "for like a revenue leader is like really breaking apart"
+  },
+  {
+    "start": 3026.93,
+    "duration": 1.52,
+    "text": "sales into like very specific steps for all of your"
+  },
+  {
+    "start": 3028.45,
+    "duration": 2.72,
+    "text": "teams. Like, I love this like, sales stage matrix template"
+  },
+  {
+    "start": 3031.17,
+    "duration": 2.08,
+    "text": "that I, you know, really use. It's like, you know,"
+  },
+  {
+    "start": 3033.25,
+    "duration": 2.0,
+    "text": "and I really talk to like early founders about this"
+  },
+  {
+    "start": 3035.25,
+    "duration": 3.16,
+    "text": "like all the time. Like, a sales process is really"
+  },
+  {
+    "start": 3038.41,
+    "duration": 4.28,
+    "text": "like five or six steps focus, like broken down into,"
+  },
+  {
+    "start": 3042.17,
+    "duration": 6.16,
+    "text": "you know, activities, gives, gets exit criteria and resources to"
+  },
+  {
+    "start": 3049.76,
+    "duration": 4.0,
+    "text": "like, enable each stage. And I think, you know, with,"
+  },
+  {
+    "start": 3054.2,
+    "duration": 3.6,
+    "text": "with like, this is like, like kind of a moment"
+  },
+  {
+    "start": 3057.8,
+    "duration": 1.28,
+    "text": "like sales leadership, like before, like Used to actually be"
+  },
+  {
+    "start": 3059.08,
+    "duration": 3.64,
+    "text": "really prescriptive of being like, hey, in the sales process."
+  },
+  {
+    "start": 3062.72,
+    "duration": 2.12,
+    "text": "Like these are the very specific things that we're going"
+  },
+  {
+    "start": 3064.84,
+    "duration": 3.0,
+    "text": "to do, you know, at each stage to these are"
+  },
+  {
+    "start": 3067.84,
+    "duration": 2.48,
+    "text": "the resources that we're going to use, you know, to"
+  },
+  {
+    "start": 3070.32,
+    "duration": 4.48,
+    "text": "like really like get through, get through, you know, a"
+  },
+  {
+    "start": 3074.8,
+    "duration": 3.87,
+    "text": "deal and complete like a successful experience for a customer."
+  },
+  {
+    "start": 3078.07,
+    "duration": 3.36,
+    "text": "And now I'm like very like, I'm like rigid on"
+  },
+  {
+    "start": 3081.43,
+    "duration": 3.68,
+    "text": "the exit criteria but I'm like very. I'm like much"
+  },
+  {
+    "start": 3085.11,
+    "duration": 6.68,
+    "text": "more experimental in the operation. Operational is operationalizing the stages."
+  },
+  {
+    "start": 3091.95,
+    "duration": 3.44,
+    "text": "I'm like, you know what, let's really use different, I"
+  },
+  {
+    "start": 3095.39,
+    "duration": 4.4,
+    "text": "want to really learn from my team different ways that"
+  },
+  {
+    "start": 3099.79,
+    "duration": 6.24,
+    "text": "we're planning demos, creating resources. How are we using AI"
+  },
+  {
+    "start": 3106.03,
+    "duration": 6.16,
+    "text": "within each stage to make a better sales process? It's"
+  },
+  {
+    "start": 3112.19,
+    "duration": 2.2,
+    "text": "kind of like, I feel like this is like a"
+  },
+  {
+    "start": 3115.63,
+    "duration": 7.4,
+    "text": "time of kind of really breaking down. How can we"
+  },
+  {
+    "start": 3123.03,
+    "duration": 4.56,
+    "text": "be more experimental as revenue organization? And I think from"
+  },
+  {
+    "start": 3127.59,
+    "duration": 2.96,
+    "text": "a first principle standpoint it's kind of forgetting a lot"
+  },
+  {
+    "start": 3130.55,
+    "duration": 4.41,
+    "text": "of what, you know, in some ways and 11x we've"
+  },
+  {
+    "start": 3134.96,
+    "duration": 1.48,
+    "text": "been like an AI native company and we've focused on,"
+  },
+  {
+    "start": 3138.36,
+    "duration": 3.72,
+    "text": "you know, we've just built the company, you know, really"
+  },
+  {
+    "start": 3142.08,
+    "duration": 3.0,
+    "text": "based on a lot of like the early results that"
+  },
+  {
+    "start": 3145.08,
+    "duration": 3.6,
+    "text": "we've seen with digital workers. Like you know, we've, we"
+  },
+  {
+    "start": 3148.68,
+    "duration": 2.92,
+    "text": "don't have like a standard like AE to SDR headcount,"
+  },
+  {
+    "start": 3151.6,
+    "duration": 3.0,
+    "text": "you know, that really, you know, doesn't exist. The way"
+  },
+  {
+    "start": 3154.6,
+    "duration": 4.81,
+    "text": "that we plan, you know, quotas and you know, attainment,"
+  },
+  {
+    "start": 3160.97,
+    "duration": 2.2,
+    "text": "you know, is largely based on results that we're seeing"
+  },
+  {
+    "start": 3163.17,
+    "duration": 3.2,
+    "text": "with this go to market motion. I think, I think"
+  },
+  {
+    "start": 3166.37,
+    "duration": 2.68,
+    "text": "sales has been like kind of boring for the last"
+  },
+  {
+    "start": 3169.05,
+    "duration": 5.72,
+    "text": "like 10 years where everyone's like copying the salesforce playbook."
+  },
+  {
+    "start": 3174.77,
+    "duration": 3.16,
+    "text": "It's like a million dollar quota for rep. And yeah,"
+  },
+  {
+    "start": 3178.81,
+    "duration": 1.48,
+    "text": "this is a time where kind of like building these"
+  },
+  {
+    "start": 3181.53,
+    "duration": 3.23,
+    "text": "companies in a new way, you can be more creative"
+  },
+  {
+    "start": 3184.32,
+    "duration": 5.24,
+    "text": "and really design a go to market org and a"
+  },
+  {
+    "start": 3189.56,
+    "duration": 3.96,
+    "text": "go to market process in a new way. Definitely using"
+  },
+  {
+    "start": 3193.52,
+    "duration": 2.0,
+    "text": "a lot of the same frameworks that have always worked,"
+  },
+  {
+    "start": 3195.52,
+    "duration": 4.56,
+    "text": "but being more experimental in some of the activities or"
+  },
+  {
+    "start": 3201.56,
+    "duration": 6.64,
+    "text": "headcount ratios or target settings that we've had in the"
+  },
+  {
+    "start": 3208.2,
+    "duration": 4.15,
+    "text": "past and constantly refining on this because yeah, I really"
+  },
+  {
+    "start": 3212.35,
+    "duration": 2.08,
+    "text": "believe this new operating model is going to create new"
+  },
+  {
+    "start": 3214.43,
+    "duration": 7.2,
+    "text": "standards of efficiency for companies. And yeah, there's I think"
+  },
+  {
+    "start": 3221.63,
+    "duration": 4.96,
+    "text": "a lot of first principles thinking yeah, it's a good"
+  },
+  {
+    "start": 3226.59,
+    "duration": 2.36,
+    "text": "mindset to be in. And so how do you become"
+  },
+  {
+    "start": 3228.95,
+    "duration": 4.2,
+    "text": "a better first principles thinker? Because I think the headcount"
+  },
+  {
+    "start": 3233.39,
+    "duration": 4.96,
+    "text": "or OTE to quota ratios and the headcount ratios and"
+  },
+  {
+    "start": 3239.73,
+    "duration": 1.48,
+    "text": "how do we run sales stages? You know, those are,"
+  },
+  {
+    "start": 3241.29,
+    "duration": 4.72,
+    "text": "those were derived from something good. And so how do"
+  },
+  {
+    "start": 3246.01,
+    "duration": 4.44,
+    "text": "you delineate between, you know, outsourcing critical thinking to best"
+  },
+  {
+    "start": 3250.45,
+    "duration": 5.28,
+    "text": "practices versus, like being a first principles thinker? How do"
+  },
+  {
+    "start": 3255.73,
+    "duration": 5.32,
+    "text": "you get better at. At that? Yeah, yeah, absolutely. I"
+  },
+  {
+    "start": 3261.05,
+    "duration": 3.48,
+    "text": "think just like first being really close to the, being"
+  },
+  {
+    "start": 3264.53,
+    "duration": 2.96,
+    "text": "really close to the, the data, you know, being really"
+  },
+  {
+    "start": 3267.49,
+    "duration": 3.64,
+    "text": "close to your teams. Like, and then like what I"
+  },
+  {
+    "start": 3271.13,
+    "duration": 3.44,
+    "text": "really think, like first principles thinking is, is just breaking"
+  },
+  {
+    "start": 3274.57,
+    "duration": 2.64,
+    "text": "everything down into like really simple steps and like analyzing"
+  },
+  {
+    "start": 3277.21,
+    "duration": 3.84,
+    "text": "each, like each individual step and thinking and kind of"
+  },
+  {
+    "start": 3281.05,
+    "duration": 5.84,
+    "text": "experimenting if you can make it more efficient. That's actually"
+  },
+  {
+    "start": 3286.89,
+    "duration": 2.96,
+    "text": "like, like, that's like a mindset that I've always like,"
+  },
+  {
+    "start": 3289.85,
+    "duration": 3.93,
+    "text": "really, really had. It's like I, I used to do"
+  },
+  {
+    "start": 3293.78,
+    "duration": 2.08,
+    "text": "like rowing and like you'd like break down like a"
+  },
+  {
+    "start": 3295.86,
+    "duration": 2.64,
+    "text": "stroke into like very individual parts and you try to"
+  },
+  {
+    "start": 3298.5,
+    "duration": 3.32,
+    "text": "like, you'd really focus and like, try to optimize each"
+  },
+  {
+    "start": 3301.82,
+    "duration": 1.6,
+    "text": "part of like putting the blade in the water and"
+  },
+  {
+    "start": 3303.42,
+    "duration": 3.56,
+    "text": "that made the boat faster. And I really think of"
+  },
+  {
+    "start": 3306.98,
+    "duration": 2.28,
+    "text": "sales the same way of like really breaking down like,"
+  },
+  {
+    "start": 3310.98,
+    "duration": 3.36,
+    "text": "you know, each, you know, part of, you know, a"
+  },
+  {
+    "start": 3314.34,
+    "duration": 3.72,
+    "text": "sales process or each part of, you know, marketer's role"
+  },
+  {
+    "start": 3318.06,
+    "duration": 4.8,
+    "text": "or partnership's role in. And really like understanding what goes"
+  },
+  {
+    "start": 3322.86,
+    "duration": 2.88,
+    "text": "into that and being like, okay, you know, can we"
+  },
+  {
+    "start": 3325.74,
+    "duration": 1.36,
+    "text": "make this better? Can we optimize this more? Can we"
+  },
+  {
+    "start": 3327.1,
+    "duration": 2.32,
+    "text": "do this more efficiently? Can we do this at higher"
+  },
+  {
+    "start": 3329.42,
+    "duration": 2.0,
+    "text": "quality? Can we do this, you know, with the power"
+  },
+  {
+    "start": 3331.42,
+    "duration": 3.88,
+    "text": "of, you know, 10 people with two or three and"
+  },
+  {
+    "start": 3335.3,
+    "duration": 3.72,
+    "text": "really like, yeah, breaking things down in that way. Yeah."
+  },
+  {
+    "start": 3341.94,
+    "duration": 3.36,
+    "text": "So being closer to the data, breaking things down, anything"
+  },
+  {
+    "start": 3345.3,
+    "duration": 6.09,
+    "text": "else to become better. First principles thinker. Making bets. I"
+  },
+  {
+    "start": 3351.39,
+    "duration": 4.04,
+    "text": "think, you know, I think this is like a new,"
+  },
+  {
+    "start": 3362.07,
+    "duration": 3.08,
+    "text": "you know, era of growth for, you know, companies and"
+  },
+  {
+    "start": 3365.15,
+    "duration": 3.88,
+    "text": "a really new way of working. And there definitely is"
+  },
+  {
+    "start": 3369.03,
+    "duration": 6.0,
+    "text": "a degree of, you know, making multiple bets on different"
+  },
+  {
+    "start": 3375.03,
+    "duration": 11.52,
+    "text": "workflows, different tools, trying new operating motions and just being"
+  },
+  {
+    "start": 3386.55,
+    "duration": 2.2,
+    "text": "a little bit more creative. And you're definitely going to"
+  },
+  {
+    "start": 3388.75,
+    "duration": 4.08,
+    "text": "fail sometimes. But I think I mentioned earlier, I really"
+  },
+  {
+    "start": 3392.83,
+    "duration": 1.56,
+    "text": "like that quote you shared where one out of five"
+  },
+  {
+    "start": 3394.39,
+    "duration": 2.64,
+    "text": "of them works out. The results of one of those"
+  },
+  {
+    "start": 3397.03,
+    "duration": 4.08,
+    "text": "five workflows is like a really. And you just drop"
+  },
+  {
+    "start": 3401.11,
+    "duration": 6.12,
+    "text": "what, you know, didn't, didn't work out. Yeah, I definitely"
+  },
+  {
+    "start": 3407.23,
+    "duration": 3.96,
+    "text": "agree, like, being close to the data is so important."
+  },
+  {
+    "start": 3411.35,
+    "duration": 4.52,
+    "text": "I think the other part of trying to become a"
+  },
+  {
+    "start": 3415.87,
+    "duration": 3.88,
+    "text": "really good first principles thinker is like, understanding what the"
+  },
+  {
+    "start": 3419.75,
+    "duration": 1.28,
+    "text": "heck is going on under the hood. From like a"
+  },
+  {
+    "start": 3421.03,
+    "duration": 3.36,
+    "text": "human perspective. I tell people a lot. It's like, if"
+  },
+  {
+    "start": 3424.39,
+    "duration": 3.53,
+    "text": "you want to get better at building these systems, learn"
+  },
+  {
+    "start": 3427.92,
+    "duration": 4.08,
+    "text": "how humans work. Like, learn about behavioral economics and psychology"
+  },
+  {
+    "start": 3432.24,
+    "duration": 4.4,
+    "text": "and because oftentimes things don't make a lot of sense"
+  },
+  {
+    "start": 3436.64,
+    "duration": 1.52,
+    "text": "until you can understand. Like, I was trying to teach"
+  },
+  {
+    "start": 3438.16,
+    "duration": 2.08,
+    "text": "my. This is a good example. I'm trying to teach"
+  },
+  {
+    "start": 3440.24,
+    "duration": 4.6,
+    "text": "my team how to run better spiffs. And so, you"
+  },
+  {
+    "start": 3444.84,
+    "duration": 0.56,
+    "text": "know, I would talk about, I'm like, look, like, you"
+  },
+  {
+    "start": 3445.4,
+    "duration": 2.0,
+    "text": "know, you don't need to spiff everything. You don't need"
+  },
+  {
+    "start": 3447.4,
+    "duration": 4.93,
+    "text": "to, like, you don't need to make people chase, chase"
+  },
+  {
+    "start": 3453.65,
+    "duration": 3.2,
+    "text": "some incentive for everything that we want them to do."
+  },
+  {
+    "start": 3457.57,
+    "duration": 2.0,
+    "text": "And I was having a hard time like, getting them"
+  },
+  {
+    "start": 3459.57,
+    "duration": 3.52,
+    "text": "to understand. And so I shared these like two psychology"
+  },
+  {
+    "start": 3463.09,
+    "duration": 4.24,
+    "text": "papers on the overjustification effect. Basically, the overjustification effect is"
+  },
+  {
+    "start": 3467.33,
+    "duration": 6.48,
+    "text": "if, if you overly incentivize some sort of action or"
+  },
+  {
+    "start": 3473.81,
+    "duration": 3.28,
+    "text": "activity, what you find is that it actually lowers somebody's"
+  },
+  {
+    "start": 3483.65,
+    "duration": 4.32,
+    "text": "childhood psychology on it because you are, you're now taking."
+  },
+  {
+    "start": 3488.77,
+    "duration": 2.56,
+    "text": "It's the difference between internal locus of control and external"
+  },
+  {
+    "start": 3491.33,
+    "duration": 3.6,
+    "text": "locus of control. What you want to give to people"
+  },
+  {
+    "start": 3494.93,
+    "duration": 3.08,
+    "text": "to get maximum motivation and drive and action is for"
+  },
+  {
+    "start": 3498.01,
+    "duration": 2.96,
+    "text": "them to want to do the things that are good"
+  },
+  {
+    "start": 3500.97,
+    "duration": 2.36,
+    "text": "for the business for their own individual reasons from an"
+  },
+  {
+    "start": 3503.33,
+    "duration": 5.53,
+    "text": "internal locus of control. So like, because somebody suggested, oh,"
+  },
+  {
+    "start": 3508.86,
+    "duration": 4.48,
+    "text": "like, if people, if people dial late tonight, we'll tell"
+  },
+  {
+    "start": 3513.34,
+    "duration": 4.12,
+    "text": "them they can expense dinner. I'm like, don't flip it."
+  },
+  {
+    "start": 3517.46,
+    "duration": 2.64,
+    "text": "I was like, tell people that we're going to like,"
+  },
+  {
+    "start": 3520.18,
+    "duration": 3.32,
+    "text": "we're grinding. We're going to dial late. And whoever shows"
+  },
+  {
+    "start": 3523.5,
+    "duration": 0.96,
+    "text": "up, just be like, hey guys, like, if you're, I"
+  },
+  {
+    "start": 3524.46,
+    "duration": 4.04,
+    "text": "appreciate you being here, like, get lunch or get dinner"
+  },
+  {
+    "start": 3528.5,
+    "duration": 2.52,
+    "text": "on us. And it's very subtle, but you've like allowed"
+  },
+  {
+    "start": 3531.02,
+    "duration": 2.0,
+    "text": "somebody to have an internal locus of control, make the"
+  },
+  {
+    "start": 3533.02,
+    "duration": 2.21,
+    "text": "decision that they want to put in the work, work"
+  },
+  {
+    "start": 3535.23,
+    "duration": 4.76,
+    "text": "and dial into the evening to hit their number and"
+  },
+  {
+    "start": 3539.99,
+    "duration": 1.48,
+    "text": "try to help the company get to their goals. And"
+  },
+  {
+    "start": 3541.47,
+    "duration": 3.64,
+    "text": "then we're rewarding them for, for doing that action. And"
+  },
+  {
+    "start": 3545.11,
+    "duration": 3.44,
+    "text": "so it's. And it has a very different motivation, motivation"
+  },
+  {
+    "start": 3548.55,
+    "duration": 1.6,
+    "text": "effect. And I think like, once you, this is, this"
+  },
+  {
+    "start": 3550.15,
+    "duration": 3.52,
+    "text": "is what all the research would tell you. And like,"
+  },
+  {
+    "start": 3553.67,
+    "duration": 3.12,
+    "text": "once you can start to understand like, how people, how"
+  },
+  {
+    "start": 3556.79,
+    "duration": 3.28,
+    "text": "people work, then you can re. Derive, okay, how to"
+  },
+  {
+    "start": 3560.07,
+    "duration": 5.12,
+    "text": "build a sales process and, and automation or your customer"
+  },
+  {
+    "start": 3565.19,
+    "duration": 2.96,
+    "text": "journey from these, like, you know, the very core things"
+  },
+  {
+    "start": 3568.15,
+    "duration": 4.68,
+    "text": "that are under the hood. Yeah, I just wrote that"
+  },
+  {
+    "start": 3572.83,
+    "duration": 2.72,
+    "text": "down, like. Yeah, that's. I can think of so many"
+  },
+  {
+    "start": 3575.55,
+    "duration": 1.8,
+    "text": "examples, and I think, like, that's so cool. Like, I"
+  },
+  {
+    "start": 3577.35,
+    "duration": 3.44,
+    "text": "think the best, like, sales leaders are like, really, like,"
+  },
+  {
+    "start": 3581.67,
+    "duration": 2.56,
+    "text": "like, like, really, like, understand, like, deep, deep understanding of"
+  },
+  {
+    "start": 3584.23,
+    "duration": 4.04,
+    "text": "psychology. Yeah. And how to motivate teams and how to"
+  },
+  {
+    "start": 3588.27,
+    "duration": 3.21,
+    "text": "make people feel really fulfilled. You know, I'll send you"
+  },
+  {
+    "start": 3591.48,
+    "duration": 3.52,
+    "text": "the papers. Yeah, please do. Yeah. That made me think"
+  }
+]

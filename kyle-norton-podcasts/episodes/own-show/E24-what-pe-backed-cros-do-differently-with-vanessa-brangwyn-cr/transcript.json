@@ -1,0 +1,5022 @@
+[
+  {
+    "start": 0.0,
+    "duration": 4.4,
+    "text": "And today's guest is Vanessa Brangwen, who is the CRO at Modus."
+  },
+  {
+    "start": 4.4,
+    "duration": 5.76,
+    "text": "Modus is the industry leader in vehicle reimbursement and risk mitigation for businesses with employees"
+  },
+  {
+    "start": 10.16,
+    "duration": 4.8,
+    "text": "that actively drive for work, according to their press release."
+  },
+  {
+    "start": 14.96,
+    "duration": 3.12,
+    "text": "I hope I got it right."
+  },
+  {
+    "start": 18.08,
+    "duration": 6.8,
+    "text": "Previously, Vanessa spent 12 years at Achievers, starting as a CSM and eventually rising the"
+  },
+  {
+    "start": 24.88,
+    "duration": 5.64,
+    "text": "ranks to becoming the chief customer officer, and then eventually the CRO, a role which"
+  },
+  {
+    "start": 30.52,
+    "duration": 2.88,
+    "text": "she held for her last three years."
+  },
+  {
+    "start": 33.4,
+    "duration": 5.34,
+    "text": "And over that time, Achievers grew from a non-SaaS business at roughly 3 to 5 million"
+  },
+  {
+    "start": 38.74,
+    "duration": 3.7,
+    "text": "equivalent ARR to over 100 million in her time there."
+  },
+  {
+    "start": 42.44,
+    "duration": 2.44,
+    "text": "So an awesome, awesome run."
+  },
+  {
+    "start": 44.88,
+    "duration": 5.44,
+    "text": "And we are going to unpack some of the Achievers' journey today, talk about her transition from"
+  },
+  {
+    "start": 50.32,
+    "duration": 6.48,
+    "text": "a venture-backed startup to a public company, to private equity-owned, and back and forth"
+  },
+  {
+    "start": 56.8,
+    "duration": 1.0,
+    "text": "a couple of times."
+  },
+  {
+    "start": 57.8,
+    "duration": 1.36,
+    "text": "So Vanessa, thank you for joining."
+  },
+  {
+    "start": 59.16,
+    "duration": 1.0,
+    "text": "I'm excited for this one."
+  },
+  {
+    "start": 60.16,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 61.16,
+    "duration": 1.0,
+    "text": "Me too."
+  },
+  {
+    "start": 62.16,
+    "duration": 1.0,
+    "text": "Nice to see you, Kyle."
+  },
+  {
+    "start": 63.16,
+    "duration": 5.68,
+    "text": "Thank you for having me."
+  },
+  {
+    "start": 68.84,
+    "duration": 4.4,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline."
+  },
+  {
+    "start": 73.24,
+    "duration": 3.92,
+    "text": "I'm your host, Kyle Norton, CRO at Owner.com."
+  },
+  {
+    "start": 77.16,
+    "duration": 5.2,
+    "text": "And every Wednesday, we dive deep into the strategies and tactics being used to drive"
+  },
+  {
+    "start": 82.36,
+    "duration": 4.2,
+    "text": "success by the best revenue leaders in the world."
+  },
+  {
+    "start": 86.56,
+    "duration": 4.48,
+    "text": "So join me as I sit down with revenue operators to discuss actionable frameworks that you"
+  },
+  {
+    "start": 91.04,
+    "duration": 10.12,
+    "text": "can implement in your business today with no fluff, no sales pitches, and no platitudes."
+  },
+  {
+    "start": 101.16,
+    "duration": 9.6,
+    "text": "This episode of the Revenue Leadership Podcast is brought to you by SurePeople."
+  },
+  {
+    "start": 110.76,
+    "duration": 3.96,
+    "text": "SurePeople helps teams communicate smarter with science-backed personality insights that"
+  },
+  {
+    "start": 114.72,
+    "duration": 2.84,
+    "text": "make every interaction more effective."
+  },
+  {
+    "start": 117.56,
+    "duration": 5.4,
+    "text": "By understanding how people work best, teams can collaborate better, make faster decisions,"
+  },
+  {
+    "start": 122.96,
+    "duration": 2.0,
+    "text": "and drive real results."
+  },
+  {
+    "start": 124.96,
+    "duration": 4.52,
+    "text": "Get free access to SurePeople's PRISM self-assessment at surepeople.com."
+  },
+  {
+    "start": 129.48,
+    "duration": 4.32,
+    "text": "Now back to the show."
+  },
+  {
+    "start": 133.8,
+    "duration": 3.2,
+    "text": "Yeah, of course."
+  },
+  {
+    "start": 137.0,
+    "duration": 3.76,
+    "text": "You're also part of our chapter of leadership here for Pavilion in Toronto."
+  },
+  {
+    "start": 140.76,
+    "duration": 2.32,
+    "text": "So obviously, we've gotten to know each other over the last year."
+  },
+  {
+    "start": 143.08,
+    "duration": 5.68,
+    "text": "So this is one I'm particularly excited for because you have a very unique journey."
+  },
+  {
+    "start": 148.76,
+    "duration": 4.16,
+    "text": "The CS to revenue is different than most."
+  },
+  {
+    "start": 152.92,
+    "duration": 7.04,
+    "text": "This journey from VC to PE is definitely one that I think people can learn a lot from."
+  },
+  {
+    "start": 159.96,
+    "duration": 3.48,
+    "text": "So let's start with talking through the journey."
+  },
+  {
+    "start": 163.44,
+    "duration": 5.8,
+    "text": "Tell people about some of that achievers' corporate journey to frame up this private"
+  },
+  {
+    "start": 169.24,
+    "duration": 2.48,
+    "text": "equity versus venture-backed conversation."
+  },
+  {
+    "start": 171.72,
+    "duration": 1.0,
+    "text": "We'll go from there."
+  },
+  {
+    "start": 172.72,
+    "duration": 1.0,
+    "text": "Sure."
+  },
+  {
+    "start": 173.72,
+    "duration": 6.68,
+    "text": "So for anyone listening who is from the Toronto tech community, this story might be quite"
+  },
+  {
+    "start": 180.4,
+    "duration": 1.0,
+    "text": "familiar."
+  },
+  {
+    "start": 181.4,
+    "duration": 5.44,
+    "text": "When I joined Achievers at the very beginning of 2011, it was a darling in the startup world"
+  },
+  {
+    "start": 186.84,
+    "duration": 2.08,
+    "text": "in Toronto in particular."
+  },
+  {
+    "start": 188.92,
+    "duration": 3.6,
+    "text": "It was actually called I Love Rewards at the time, and I can touch on that in a moment."
+  },
+  {
+    "start": 192.52,
+    "duration": 6.64,
+    "text": "But it was on all the best places to work, top tech startups to watch, and that type"
+  },
+  {
+    "start": 199.16,
+    "duration": 1.0,
+    "text": "of thing."
+  },
+  {
+    "start": 200.16,
+    "duration": 6.2,
+    "text": "So I actually was working for another really fantastic Toronto-founded company called Eloqua."
+  },
+  {
+    "start": 206.36,
+    "duration": 1.68,
+    "text": "Very proud of my time there."
+  },
+  {
+    "start": 208.28,
+    "duration": 6.0,
+    "text": "I wasn't actually looking to leave, but because Achievers was on such a wild growth trajectory,"
+  },
+  {
+    "start": 214.28,
+    "duration": 2.0,
+    "text": "they were doing something called group interviews."
+  },
+  {
+    "start": 216.28,
+    "duration": 5.64,
+    "text": "So I was interviewing for a CSM position, which I was on a track for at my time at Eloqua,"
+  },
+  {
+    "start": 221.92,
+    "duration": 3.24,
+    "text": "but I was intrigued because they contacted me and said, do you want to come in for this"
+  },
+  {
+    "start": 225.16,
+    "duration": 3.84,
+    "text": "group interview where everyone who you're competing against for the roles that we're"
+  },
+  {
+    "start": 229.0,
+    "duration": 2.56,
+    "text": "hiring will all be in a room together?"
+  },
+  {
+    "start": 231.56,
+    "duration": 4.48,
+    "text": "This was kind of at the time where reality TV, like Survivor and The Apprentice and things"
+  },
+  {
+    "start": 236.04,
+    "duration": 6.0,
+    "text": "like that were really in the mainstream, and I was intrigued."
+  },
+  {
+    "start": 242.04,
+    "duration": 4.28,
+    "text": "I had gone to university to study psychology and marketing, and the psychologist in me"
+  },
+  {
+    "start": 246.32,
+    "duration": 1.0,
+    "text": "was like, wait, what?"
+  },
+  {
+    "start": 247.32,
+    "duration": 2.88,
+    "text": "This is so interesting to be in this competitive situation."
+  },
+  {
+    "start": 250.2,
+    "duration": 2.44,
+    "text": "So I went for the interview just for the experience."
+  },
+  {
+    "start": 252.64,
+    "duration": 4.56,
+    "text": "I knew or I thought I was not going to leave, but I wanted to just have this fun where you"
+  },
+  {
+    "start": 257.2,
+    "duration": 3.8,
+    "text": "were sitting around a table, and it was one of the wildest interviews I've ever been in"
+  },
+  {
+    "start": 261.0,
+    "duration": 5.64,
+    "text": "because some of the people were so bad that you wondered if they had like put actors in"
+  },
+  {
+    "start": 266.64,
+    "duration": 3.72,
+    "text": "just to throw you off your game, but turns out after the fact, you found out that those"
+  },
+  {
+    "start": 270.36,
+    "duration": 2.12,
+    "text": "were all real candidates."
+  },
+  {
+    "start": 272.48,
+    "duration": 4.56,
+    "text": "And so fast forward to getting the job and actually making the decision to leave Eloqua"
+  },
+  {
+    "start": 277.04,
+    "duration": 6.88,
+    "text": "and join I Love Rewards turned out to be, of course, in hindsight, an amazing decision."
+  },
+  {
+    "start": 283.92,
+    "duration": 1.4,
+    "text": "Achievers was just about to close."
+  },
+  {
+    "start": 285.32,
+    "duration": 4.04,
+    "text": "I didn't know this at the time, but they were going through a round, a Series C fundraising"
+  },
+  {
+    "start": 289.36,
+    "duration": 1.0,
+    "text": "round."
+  },
+  {
+    "start": 290.36,
+    "duration": 4.04,
+    "text": "And two months after I joined, we closed a Series C round with Sequoia Capital, which"
+  },
+  {
+    "start": 294.4,
+    "duration": 5.16,
+    "text": "was a huge deal for a Toronto-based startup at that time."
+  },
+  {
+    "start": 299.56,
+    "duration": 1.0,
+    "text": "And it was a really..."
+  },
+  {
+    "start": 300.56,
+    "duration": 5.72,
+    "text": "Was there any other Canadian startups that had Sequoia backing at that time?"
+  },
+  {
+    "start": 306.28,
+    "duration": 5.6,
+    "text": "I want to say we might have been maybe, if not the first, definitely one of the first."
+  },
+  {
+    "start": 311.88,
+    "duration": 5.76,
+    "text": "And we were doing cool things through Sequoia, like for example, they flew a bunch of like"
+  },
+  {
+    "start": 317.64,
+    "duration": 5.36,
+    "text": "high potential employees out to Vegas to meet with the Zappos leadership team and understand"
+  },
+  {
+    "start": 323.0,
+    "duration": 6.72,
+    "text": "customer satisfaction and how they have Zappos, which was like hugely known for their incredible"
+  },
+  {
+    "start": 329.72,
+    "duration": 1.28,
+    "text": "customer service."
+  },
+  {
+    "start": 331.0,
+    "duration": 4.16,
+    "text": "So we got a lot of exposure to some really awesome things."
+  },
+  {
+    "start": 335.16,
+    "duration": 6.52,
+    "text": "And the purpose, or one of the main focus areas of the Series C was to break more into"
+  },
+  {
+    "start": 341.68,
+    "duration": 1.44,
+    "text": "the US market."
+  },
+  {
+    "start": 343.12,
+    "duration": 4.84,
+    "text": "And so it was a really exciting time because Achievers had grown substantially from their"
+  },
+  {
+    "start": 347.96,
+    "duration": 5.36,
+    "text": "initial Series A all the way through to the Series C, but largely that had been through"
+  },
+  {
+    "start": 353.32,
+    "duration": 5.56,
+    "text": "Canadian companies who had taken a bet on kind of a relatively small unknown player"
+  },
+  {
+    "start": 358.88,
+    "duration": 4.68,
+    "text": "in the employee engagement and recognition space."
+  },
+  {
+    "start": 363.56,
+    "duration": 6.08,
+    "text": "And so you raised the C, and talk about the journey to public and then PE, and then I"
+  },
+  {
+    "start": 369.64,
+    "duration": 1.64,
+    "text": "want to dig into some of the lessons."
+  },
+  {
+    "start": 371.28,
+    "duration": 1.16,
+    "text": "Yeah, great."
+  },
+  {
+    "start": 372.44,
+    "duration": 3.44,
+    "text": "So the Series C was actually the catalyst also for us changing our name from I Love"
+  },
+  {
+    "start": 375.88,
+    "duration": 5.64,
+    "text": "Rewards to Achievers and really turning the corner on becoming a true SaaS company."
+  },
+  {
+    "start": 381.52,
+    "duration": 6.36,
+    "text": "Through the insights that we, and then the advisory consultation we got from Sequoia,"
+  },
+  {
+    "start": 387.88,
+    "duration": 2.76,
+    "text": "we knew that this was kind of the next chapter for us."
+  },
+  {
+    "start": 390.64,
+    "duration": 4.72,
+    "text": "We opened a San Francisco office, we went hard from a go-to-market perspective into"
+  },
+  {
+    "start": 395.36,
+    "duration": 1.4,
+    "text": "US companies."
+  },
+  {
+    "start": 396.76,
+    "duration": 3.48,
+    "text": "And through that period, we grew quite substantially."
+  },
+  {
+    "start": 400.24,
+    "duration": 1.56,
+    "text": "My career grew alongside that."
+  },
+  {
+    "start": 402.16,
+    "duration": 3.76,
+    "text": "I was able to take on a team lead role and then eventually a manager role and continue"
+  },
+  {
+    "start": 405.92,
+    "duration": 4.04,
+    "text": "to grow from there all the way through to ultimately running the entire customer success"
+  },
+  {
+    "start": 409.96,
+    "duration": 1.72,
+    "text": "team."
+  },
+  {
+    "start": 411.68,
+    "duration": 6.16,
+    "text": "But in 2015, Achievers, I guess was at a crossroads and had received interest in an acquisition"
+  },
+  {
+    "start": 417.84,
+    "duration": 3.64,
+    "text": "from one of our partners on the loyalty side."
+  },
+  {
+    "start": 421.48,
+    "duration": 4.96,
+    "text": "So Achievers is a technology that provides services to companies who want to make sure"
+  },
+  {
+    "start": 426.44,
+    "duration": 2.88,
+    "text": "their employees feel valued and appreciated at work."
+  },
+  {
+    "start": 429.64,
+    "duration": 4.44,
+    "text": "One of the components of that was a marketplace that provided a reward element."
+  },
+  {
+    "start": 434.08,
+    "duration": 4.12,
+    "text": "And so our largest partner at the time was a gift card and payments technology company"
+  },
+  {
+    "start": 438.2,
+    "duration": 3.52,
+    "text": "named Blackhawk Networks out of Pleasanton, California."
+  },
+  {
+    "start": 441.72,
+    "duration": 5.44,
+    "text": "And they actually ended up acquiring Achievers to run it as a subsidiary of their broader"
+  },
+  {
+    "start": 447.16,
+    "duration": 1.76,
+    "text": "kind of loyalty business."
+  },
+  {
+    "start": 448.92,
+    "duration": 3.96,
+    "text": "Very much not related, not directly related to what they did."
+  },
+  {
+    "start": 452.88,
+    "duration": 4.5,
+    "text": "And so this started our three-year journey where we were now part of a large multi-billion"
+  },
+  {
+    "start": 457.38,
+    "duration": 2.96,
+    "text": "dollar publicly traded company."
+  },
+  {
+    "start": 460.34,
+    "duration": 5.04,
+    "text": "And what was really interesting for us at that time is we went from being kind of this"
+  },
+  {
+    "start": 465.38,
+    "duration": 4.76,
+    "text": "like, you know, even with a series C round, and I'm sure many people listening can relate"
+  },
+  {
+    "start": 470.14,
+    "duration": 5.12,
+    "text": "to this, we were still relatively small and we were going after, you know, significantly"
+  },
+  {
+    "start": 475.26,
+    "duration": 3.56,
+    "text": "large whale deals that were really boxing above our weight."
+  },
+  {
+    "start": 478.82,
+    "duration": 6.16,
+    "text": "And when you're in the sales motion with organizations that are, you know, like a hundred times your"
+  },
+  {
+    "start": 484.98,
+    "duration": 3.4,
+    "text": "size, they're going to have a lot of questions about your financial stability."
+  },
+  {
+    "start": 488.38,
+    "duration": 5.2,
+    "text": "And so when we were in our VC era, if we can call it that, we were really, we had a lot"
+  },
+  {
+    "start": 493.58,
+    "duration": 4.16,
+    "text": "of freedom and flexibility to kind of make the decisions we needed to make, to make the"
+  },
+  {
+    "start": 497.74,
+    "duration": 2.6,
+    "text": "product and innovation investments we needed to make."
+  },
+  {
+    "start": 500.34,
+    "duration": 6.2,
+    "text": "But we struggled with trying to showcase our financial stability to our largest prospects."
+  },
+  {
+    "start": 506.54,
+    "duration": 5.08,
+    "text": "Once we moved into our, you know, being part of a publicly traded company motion, we suddenly"
+  },
+  {
+    "start": 511.62,
+    "duration": 1.0,
+    "text": "that went away."
+  },
+  {
+    "start": 512.62,
+    "duration": 4.04,
+    "text": "So we were able, you know, when we had prospects ask us, well, you know, what's your financial"
+  },
+  {
+    "start": 516.66,
+    "duration": 1.0,
+    "text": "status?"
+  },
+  {
+    "start": 517.66,
+    "duration": 1.0,
+    "text": "Can we see your financial records?"
+  },
+  {
+    "start": 518.66,
+    "duration": 1.44,
+    "text": "Can we talk to your CFO?"
+  },
+  {
+    "start": 520.1,
+    "duration": 4.64,
+    "text": "We could just send them over, you know, Blackhawk's latest public filings."
+  },
+  {
+    "start": 524.74,
+    "duration": 3.04,
+    "text": "And that question immediately went away."
+  },
+  {
+    "start": 527.78,
+    "duration": 1.52,
+    "text": "Why did people care so much about that?"
+  },
+  {
+    "start": 529.3,
+    "duration": 6.2,
+    "text": "I mean, why did they care if their rewards platform provider had like a liquidity?"
+  },
+  {
+    "start": 535.5,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 536.5,
+    "duration": 1.0,
+    "text": "It's a great question."
+  },
+  {
+    "start": 537.5,
+    "duration": 1.96,
+    "text": "Well, and largely it actually came down to that rewards component."
+  },
+  {
+    "start": 539.46,
+    "duration": 4.88,
+    "text": "So these were organizations that were investing millions of dollars into reward, into the"
+  },
+  {
+    "start": 544.34,
+    "duration": 3.96,
+    "text": "reward budgets that they expected to be funneled back to their employees."
+  },
+  {
+    "start": 548.3,
+    "duration": 3.56,
+    "text": "And they wanted to make sure that Achievers was still going to be around when those employees"
+  },
+  {
+    "start": 551.86,
+    "duration": 4.88,
+    "text": "decided to, you know, redeem the, the, the incentives that their employee, that their"
+  },
+  {
+    "start": 556.74,
+    "duration": 1.8,
+    "text": "employer had pre-purchased for them."
+  },
+  {
+    "start": 558.54,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 559.54,
+    "duration": 2.18,
+    "text": "So big float that they were, right."
+  },
+  {
+    "start": 561.72,
+    "duration": 1.0,
+    "text": "You got it."
+  },
+  {
+    "start": 562.72,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 563.72,
+    "duration": 3.46,
+    "text": "So it was actually really interesting because that for, well, while Achievers did become"
+  },
+  {
+    "start": 567.18,
+    "duration": 4.92,
+    "text": "a very traditional SaaS company, there always was, and is this other component of revenue"
+  },
+  {
+    "start": 572.1,
+    "duration": 3.84,
+    "text": "that's tied to, you know, the reward component of the business."
+  },
+  {
+    "start": 575.94,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 576.94,
+    "duration": 5.36,
+    "text": "So you spent a couple of years as a part of a big public company, then what, and then"
+  },
+  {
+    "start": 582.3,
+    "duration": 3.24,
+    "text": "I'm, then I'm going to pick into what changed at each stage."
+  },
+  {
+    "start": 585.54,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 586.54,
+    "duration": 4.52,
+    "text": "So during that time of being part of the publicly traded company, you know, we were, while we"
+  },
+  {
+    "start": 591.06,
+    "duration": 4.8,
+    "text": "were run as a standalone company and we were sort of, you know, Achievers, a Blackhawk"
+  },
+  {
+    "start": 595.86,
+    "duration": 5.0,
+    "text": "network company and very much left to be business as usual, we were beholden to some"
+  },
+  {
+    "start": 600.86,
+    "duration": 3.52,
+    "text": "of the things that every public company, you know, has to navigate."
+  },
+  {
+    "start": 604.38,
+    "duration": 4.48,
+    "text": "For example, when it was time to report earnings, if you know, we might've had to implement"
+  },
+  {
+    "start": 608.86,
+    "duration": 4.4,
+    "text": "a sudden hiring freeze to, to navigate the conversations that had to happen."
+  },
+  {
+    "start": 613.26,
+    "duration": 3.2,
+    "text": "Those are things that don't typically happen when you're VC backed."
+  },
+  {
+    "start": 616.46,
+    "duration": 4.36,
+    "text": "And so while we had a lot of flexibility and freedom during our, our VC era, this next"
+  },
+  {
+    "start": 620.82,
+    "duration": 4.8,
+    "text": "era was more around financial stability, but the dial was turned down on some of the flexibility"
+  },
+  {
+    "start": 626.38,
+    "duration": 4.0,
+    "text": "and the freedoms necessary to really invest in innovation and growth from a technology"
+  },
+  {
+    "start": 630.38,
+    "duration": 1.0,
+    "text": "perspective."
+  },
+  {
+    "start": 631.38,
+    "duration": 1.0,
+    "text": "Hmm."
+  },
+  {
+    "start": 632.38,
+    "duration": 3.76,
+    "text": "And then eventually you were spun out, correct?"
+  },
+  {
+    "start": 636.14,
+    "duration": 1.0,
+    "text": "Exactly."
+  },
+  {
+    "start": 637.14,
+    "duration": 4.0,
+    "text": "So what ended up happening was in 2018, so three years later, Blackhawk themselves got"
+  },
+  {
+    "start": 641.14,
+    "duration": 3.88,
+    "text": "acquired by private equity by Silverlake."
+  },
+  {
+    "start": 645.02,
+    "duration": 4.08,
+    "text": "And it's, it's a little bit of an urban legend, whether Silverlake officially knew about Achievers"
+  },
+  {
+    "start": 649.1,
+    "duration": 1.0,
+    "text": "or not."
+  },
+  {
+    "start": 650.1,
+    "duration": 3.04,
+    "text": "You know, they were acquiring a multi-billion dollar company and Achievers at this time"
+  },
+  {
+    "start": 653.14,
+    "duration": 3.08,
+    "text": "was definitely sub 50 million in revenue."
+  },
+  {
+    "start": 656.22,
+    "duration": 5.32,
+    "text": "So TBD on whether they actually officially knew about, about us or not, but they very"
+  },
+  {
+    "start": 661.54,
+    "duration": 3.88,
+    "text": "quickly through diligence did learn about Achievers and they learned that we were on"
+  },
+  {
+    "start": 665.42,
+    "duration": 1.44,
+    "text": "a different kind of business model."
+  },
+  {
+    "start": 666.86,
+    "duration": 2.76,
+    "text": "We had a different trajectory from a growth perspective."
+  },
+  {
+    "start": 669.62,
+    "duration": 4.76,
+    "text": "And so we started the conversations to look into spinning Achievers out into its own independent"
+  },
+  {
+    "start": 674.38,
+    "duration": 3.48,
+    "text": "entity, still private equity backed in 2020."
+  },
+  {
+    "start": 677.86,
+    "duration": 5.76,
+    "text": "And that's the Achievers, the current Achievers ownership structure today."
+  },
+  {
+    "start": 683.62,
+    "duration": 3.44,
+    "text": "Spun out, still Silverlake owned, operating independently."
+  },
+  {
+    "start": 687.06,
+    "duration": 1.0,
+    "text": "Exactly."
+  },
+  {
+    "start": 688.06,
+    "duration": 1.0,
+    "text": "Yep."
+  },
+  {
+    "start": 689.06,
+    "duration": 4.6,
+    "text": "And the, the president and CEO of Blackhawk Networks is still one of our longest standing"
+  },
+  {
+    "start": 693.66,
+    "duration": 5.72,
+    "text": "board members at Achievers and a huge advocate for not only what the company does, but what,"
+  },
+  {
+    "start": 699.38,
+    "duration": 3.48,
+    "text": "what they stand for and, and you know, the potential for that organization to continue"
+  },
+  {
+    "start": 702.86,
+    "duration": 1.56,
+    "text": "to thrive."
+  },
+  {
+    "start": 704.42,
+    "duration": 1.0,
+    "text": "Cool."
+  },
+  {
+    "start": 706.26,
+    "duration": 2.48,
+    "text": "And then now you're at Modus."
+  },
+  {
+    "start": 708.74,
+    "duration": 1.88,
+    "text": "So again, private equity backed."
+  },
+  {
+    "start": 710.62,
+    "duration": 5.92,
+    "text": "Was that an intentional decision to stay in a PE backed world versus VC at All Jews Commitment?"
+  },
+  {
+    "start": 716.54,
+    "duration": 1.84,
+    "text": "Yeah, super good question."
+  },
+  {
+    "start": 718.38,
+    "duration": 6.28,
+    "text": "So I actually did a stint at a startup in between Achievers and Modus that was VC backed."
+  },
+  {
+    "start": 724.66,
+    "duration": 6.6,
+    "text": "Great, great opportunity and trajectory there to French based organization."
+  },
+  {
+    "start": 731.26,
+    "duration": 3.92,
+    "text": "And what I, what I thought was when I was taking a leap from Achievers, you know, it"
+  },
+  {
+    "start": 735.94,
+    "duration": 3.04,
+    "text": "had been 12 years and a lot of people ask me like, how did you, how, how have you been"
+  },
+  {
+    "start": 738.98,
+    "duration": 1.0,
+    "text": "here this long?"
+  },
+  {
+    "start": 739.98,
+    "duration": 1.8,
+    "text": "Or how did you work somewhere for 12 years?"
+  },
+  {
+    "start": 741.78,
+    "duration": 3.76,
+    "text": "But now that, you know, everyone listening has heard the story, it was like three or"
+  },
+  {
+    "start": 745.54,
+    "duration": 2.84,
+    "text": "maybe even four different companies in that time."
+  },
+  {
+    "start": 748.38,
+    "duration": 5.1,
+    "text": "And not only were the companies different and the, the strategies and ethos of the operating"
+  },
+  {
+    "start": 753.48,
+    "duration": 5.5,
+    "text": "model different, my career took on many different roles in that, that window as well."
+  },
+  {
+    "start": 758.98,
+    "duration": 3.04,
+    "text": "And after 12 years, I really felt like I needed to do something completely different."
+  },
+  {
+    "start": 762.02,
+    "duration": 4.96,
+    "text": "And I had this nostalgia for going back to, you know, the very earliest days in the build"
+  },
+  {
+    "start": 766.98,
+    "duration": 1.0,
+    "text": "stage."
+  },
+  {
+    "start": 767.98,
+    "duration": 4.24,
+    "text": "And so the company that I joined, the startup that I joined was very much a, you know, going"
+  },
+  {
+    "start": 772.22,
+    "duration": 4.2,
+    "text": "right back to the beginning and getting to be part of like that scrappy startup VC backed,"
+  },
+  {
+    "start": 776.42,
+    "duration": 6.72,
+    "text": "like, let's, let's put all our efforts into, you know, growth at kind of at, at any cost."
+  },
+  {
+    "start": 783.14,
+    "duration": 1.04,
+    "text": "And that was super exciting."
+  },
+  {
+    "start": 784.18,
+    "duration": 1.54,
+    "text": "It's definitely different."
+  },
+  {
+    "start": 785.72,
+    "duration": 4.9,
+    "text": "And sometimes I liken it to folks saying like, I have a 10 year old son who I love dearly."
+  },
+  {
+    "start": 790.62,
+    "duration": 4.92,
+    "text": "And some days I feel so much nostalgia for those newborn days and nights."
+  },
+  {
+    "start": 795.54,
+    "duration": 4.44,
+    "text": "And I think about like how much I would love to be in that exact moment again."
+  },
+  {
+    "start": 799.98,
+    "duration": 4.76,
+    "text": "But then I also recognize if I was in that exact moment again, I might remember why I'm"
+  },
+  {
+    "start": 804.74,
+    "duration": 2.96,
+    "text": "so happy to be where we are today."
+  },
+  {
+    "start": 807.7,
+    "duration": 4.52,
+    "text": "And so that was kind of my, my thinking is, you know, an opportunity, I wasn't searching"
+  },
+  {
+    "start": 812.22,
+    "duration": 3.84,
+    "text": "for an opportunity, but an opportunity to join Modus kind of fell, fell onto my lap"
+  },
+  {
+    "start": 816.06,
+    "duration": 5.98,
+    "text": "through someone in my network who was, is on the one of the Modus advisory boards."
+  },
+  {
+    "start": 822.04,
+    "duration": 4.34,
+    "text": "And the more I learned about the company and what they did, and also the mission and stage"
+  },
+  {
+    "start": 826.38,
+    "duration": 4.44,
+    "text": "that they're on and, and kind of specifically around go to market and the investment that"
+  },
+  {
+    "start": 830.82,
+    "duration": 6.16,
+    "text": "they want to make in terms of go to market being the, the big play for this next chapter,"
+  },
+  {
+    "start": 836.98,
+    "duration": 2.58,
+    "text": "the more intrigued I became with the opportunity."
+  },
+  {
+    "start": 839.56,
+    "duration": 3.54,
+    "text": "And the more I started also learning that not all PE firms are created equal."
+  },
+  {
+    "start": 843.1,
+    "duration": 3.42,
+    "text": "And I think that's something that maybe people don't always appreciate, at least I did not"
+  },
+  {
+    "start": 846.52,
+    "duration": 1.0,
+    "text": "appreciate it."
+  },
+  {
+    "start": 847.52,
+    "duration": 1.46,
+    "text": "I had, I had experience with Silver Lake."
+  },
+  {
+    "start": 848.98,
+    "duration": 2.48,
+    "text": "We had great operating partners there."
+  },
+  {
+    "start": 851.46,
+    "duration": 3.68,
+    "text": "And I just kind of thought that all PE operated the same way, much like how some people might"
+  },
+  {
+    "start": 855.14,
+    "duration": 3.2,
+    "text": "think all VC firms operate the same way."
+  },
+  {
+    "start": 858.34,
+    "duration": 3.08,
+    "text": "Modus is actually co-owned by two different PE firms, 50-50."
+  },
+  {
+    "start": 861.42,
+    "duration": 3.96,
+    "text": "So now I'm getting experience not only with another PE firm, but actually with two other"
+  },
+  {
+    "start": 865.38,
+    "duration": 1.0,
+    "text": "PE firms."
+  },
+  {
+    "start": 866.38,
+    "duration": 4.8,
+    "text": "And even within their different, these two different firms, they have, you know, they"
+  },
+  {
+    "start": 871.18,
+    "duration": 1.0,
+    "text": "have similarities."
+  },
+  {
+    "start": 872.26,
+    "duration": 4.12,
+    "text": "So there's definitely playbooks that you would call out as being part of the, the private"
+  },
+  {
+    "start": 876.38,
+    "duration": 1.28,
+    "text": "equity model."
+  },
+  {
+    "start": 877.66,
+    "duration": 4.96,
+    "text": "But they also have, you know, different philosophies on certain topics, different, different visions"
+  },
+  {
+    "start": 882.62,
+    "duration": 4.96,
+    "text": "when it comes to, for example, like sales compensation or sales capacity planning."
+  },
+  {
+    "start": 887.58,
+    "duration": 1.72,
+    "text": "Are they, I would say they're like cousins."
+  },
+  {
+    "start": 889.3,
+    "duration": 2.48,
+    "text": "There's similarities, but they're not the exact same."
+  },
+  {
+    "start": 891.78,
+    "duration": 5.76,
+    "text": "And having the opportunity to learn from two different PE firms has been just like an accelerator"
+  },
+  {
+    "start": 897.54,
+    "duration": 5.4,
+    "text": "to my own learning and development over the past 13 months."
+  },
+  {
+    "start": 902.94,
+    "duration": 4.64,
+    "text": "And so it wasn't that you intentionally thought about going back to the PE world."
+  },
+  {
+    "start": 907.58,
+    "duration": 3.44,
+    "text": "It was just right opportunity, right time, right, right market."
+  },
+  {
+    "start": 911.02,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 912.02,
+    "duration": 1.8,
+    "text": "Although I will say yes."
+  },
+  {
+    "start": 913.82,
+    "duration": 5.36,
+    "text": "And I, you know, being back in the private equity world, I think, I think I wanted the"
+  },
+  {
+    "start": 919.18,
+    "duration": 5.2,
+    "text": "kind of the, the thrill of the chase of the VC world when I was leaving Achievers."
+  },
+  {
+    "start": 924.38,
+    "duration": 3.12,
+    "text": "But now that I'm back in the private equity world, I actually recognize about myself that"
+  },
+  {
+    "start": 927.5,
+    "duration": 6.44,
+    "text": "the structure of the strategy that the, uh, and the, you know, kind of the, the methodical"
+  },
+  {
+    "start": 933.94,
+    "duration": 4.56,
+    "text": "way of looking at things probably better aligns to where I am right now in my career."
+  },
+  {
+    "start": 938.5,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 939.5,
+    "duration": 1.08,
+    "text": "It makes a ton of sense."
+  },
+  {
+    "start": 940.58,
+    "duration": 1.12,
+    "text": "So let's, let's hop into that."
+  },
+  {
+    "start": 941.7,
+    "duration": 7.44,
+    "text": "I would love to understand what is most different about being a CRO and a private equity owned"
+  },
+  {
+    "start": 949.14,
+    "duration": 3.64,
+    "text": "environment versus venture backed in your mind."
+  },
+  {
+    "start": 952.78,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 954.18,
+    "duration": 1.0,
+    "text": "Um, it's a great question."
+  },
+  {
+    "start": 955.18,
+    "duration": 4.36,
+    "text": "So I think that on the, on the, from the private equity side, again, there, you know, there's"
+  },
+  {
+    "start": 959.54,
+    "duration": 5.28,
+    "text": "a lot of models in terms of, um, what they've seen work well before and just the amount"
+  },
+  {
+    "start": 964.82,
+    "duration": 2.92,
+    "text": "of time of the amount of times they've seen it work well."
+  },
+  {
+    "start": 967.74,
+    "duration": 3.16,
+    "text": "I think as we, you know, as we know, and I've heard you talk about this on this podcast"
+  },
+  {
+    "start": 970.9,
+    "duration": 5.12,
+    "text": "before, in the, in the VC world, the model is kind of like one in 10 will make it."
+  },
+  {
+    "start": 976.02,
+    "duration": 4.36,
+    "text": "And in the private equity world, the expectation is that like everyone is going to be successful"
+  },
+  {
+    "start": 980.38,
+    "duration": 3.72,
+    "text": "and to what exact degree the success may vary."
+  },
+  {
+    "start": 984.1,
+    "duration": 4.04,
+    "text": "But the expectation is that there's going to be, you know, a successful positive outcome,"
+  },
+  {
+    "start": 988.14,
+    "duration": 3.0,
+    "text": "you know, 9.9 times out of 10, not one out of 10."
+  },
+  {
+    "start": 991.14,
+    "duration": 5.64,
+    "text": "And so with that, I think there's just, you know, they've seen repeatable, um, and scalable"
+  },
+  {
+    "start": 996.78,
+    "duration": 1.76,
+    "text": "process more often."
+  },
+  {
+    "start": 998.54,
+    "duration": 4.56,
+    "text": "And so as a CRO in that world, there's just a lot of, a lot, you know, to be able to learn"
+  },
+  {
+    "start": 1003.1,
+    "duration": 4.52,
+    "text": "and, and to not necessarily repeat because it's not definitely not a one size fits all,"
+  },
+  {
+    "start": 1007.62,
+    "duration": 5.36,
+    "text": "but to adapt to your own, to your own organization at the time and stage that it's at."
+  },
+  {
+    "start": 1012.98,
+    "duration": 5.28,
+    "text": "So a specific example, Toma Bravo is one of our private equity owners at Modus, um, really"
+  },
+  {
+    "start": 1018.26,
+    "duration": 5.68,
+    "text": "well known, you know, very, uh, very long tenured experience."
+  },
+  {
+    "start": 1023.94,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1024.94,
+    "duration": 3.64,
+    "text": "And they have, they have a number of, of templates around, you know, how do we, how they think"
+  },
+  {
+    "start": 1028.58,
+    "duration": 6.8,
+    "text": "about things like sales capacity planning or, um, you know, uh, funnel metrics like"
+  },
+  {
+    "start": 1035.38,
+    "duration": 1.4,
+    "text": "conversion rates."
+  },
+  {
+    "start": 1036.78,
+    "duration": 3.28,
+    "text": "And so we have this benefit of being part of this like large, it's almost like a mini"
+  },
+  {
+    "start": 1040.06,
+    "duration": 5.76,
+    "text": "or not a mini, it's almost like a pavilion within the Toma Bravo community where the"
+  },
+  {
+    "start": 1045.82,
+    "duration": 5.96,
+    "text": "CROs across Toma Bravo's, uh, across Toma Bravo's portfolio, we'll get together in person"
+  },
+  {
+    "start": 1051.78,
+    "duration": 3.12,
+    "text": "twice a year and they'll share learnings, they'll share insights."
+  },
+  {
+    "start": 1054.9,
+    "duration": 3.96,
+    "text": "And it's sort of like a little club where not only does Toma Bravo have this, these"
+  },
+  {
+    "start": 1058.86,
+    "duration": 2.88,
+    "text": "specific templates, but they also have names for these things."
+  },
+  {
+    "start": 1061.74,
+    "duration": 4.8,
+    "text": "And so for example, their sales capacity planning model is called the QAM, the quota allocation"
+  },
+  {
+    "start": 1067.3,
+    "duration": 1.0,
+    "text": "model."
+  },
+  {
+    "start": 1068.3,
+    "duration": 3.28,
+    "text": "And everybody who's a CRO at, in a Toma Bravo portfolio company knows this."
+  },
+  {
+    "start": 1071.58,
+    "duration": 3.06,
+    "text": "So it's like such a part of their, their day to day."
+  },
+  {
+    "start": 1074.64,
+    "duration": 4.46,
+    "text": "So when we were last together in October, it was sort of like a running joke because"
+  },
+  {
+    "start": 1079.1,
+    "duration": 5.4,
+    "text": "everybody was deep in sales capacity planning and budget season and it was like, Oh, how's"
+  },
+  {
+    "start": 1084.5,
+    "duration": 1.0,
+    "text": "your QAM?"
+  },
+  {
+    "start": 1085.5,
+    "duration": 1.0,
+    "text": "What's it, what did you put here?"
+  },
+  {
+    "start": 1086.5,
+    "duration": 1.0,
+    "text": "And what did you write there?"
+  },
+  {
+    "start": 1087.5,
+    "duration": 5.76,
+    "text": "And so it kind of became this like really a great way to, to, to, to blend learnings"
+  },
+  {
+    "start": 1093.26,
+    "duration": 2.6,
+    "text": "and shared experiences."
+  },
+  {
+    "start": 1095.86,
+    "duration": 1.6,
+    "text": "Maybe that happens in the VC world as well."
+  },
+  {
+    "start": 1097.46,
+    "duration": 1.0,
+    "text": "I'm not sure."
+  },
+  {
+    "start": 1098.46,
+    "duration": 3.68,
+    "text": "You'll have to, you'll have to tell me, but this idea of like shared learnings and shared"
+  },
+  {
+    "start": 1102.14,
+    "duration": 4.16,
+    "text": "experiences is such a part of, of the P world that I'm in right now."
+  },
+  {
+    "start": 1106.3,
+    "duration": 4.52,
+    "text": "Yeah, I, I don't see it a lot in the venture backed world."
+  },
+  {
+    "start": 1110.82,
+    "duration": 7.5,
+    "text": "I mean, from, from time to time, some funds will bring together their, um, portfolio leaders"
+  },
+  {
+    "start": 1118.32,
+    "duration": 6.62,
+    "text": "or make introductions, but it's definitely not very formal or structured and I don't"
+  },
+  {
+    "start": 1125.02,
+    "duration": 5.16,
+    "text": "really know of any VC that's saying, this is our growth modeling process."
+  },
+  {
+    "start": 1130.18,
+    "duration": 2.12,
+    "text": "This is how we think about quota setting."
+  },
+  {
+    "start": 1132.3,
+    "duration": 6.92,
+    "text": "Uh, I think that most VCs have the opinion that they're going to bet on really good founders."
+  },
+  {
+    "start": 1139.22,
+    "duration": 4.56,
+    "text": "The founders are the experts and they're going to, uh, they're going to let them run their"
+  },
+  {
+    "start": 1143.78,
+    "duration": 2.36,
+    "text": "show and help where it is requested."
+  },
+  {
+    "start": 1146.14,
+    "duration": 4.84,
+    "text": "Um, which is kind of interesting when you think about it, right?"
+  },
+  {
+    "start": 1150.98,
+    "duration": 2.76,
+    "text": "Because a lot of founders are first time founders."
+  },
+  {
+    "start": 1153.74,
+    "duration": 5.58,
+    "text": "And so, um, it's interesting that like, I wonder how they think about where those founders"
+  },
+  {
+    "start": 1159.32,
+    "duration": 1.5,
+    "text": "will get the insights that they need."
+  },
+  {
+    "start": 1160.82,
+    "duration": 3.16,
+    "text": "I think a lot of it comes from building great teams below them and like, you know, your"
+  },
+  {
+    "start": 1163.98,
+    "duration": 5.0,
+    "text": "experience that you bring to the, like you specifically, but other CROs like you in,"
+  },
+  {
+    "start": 1168.98,
+    "duration": 3.24,
+    "text": "in founder backed is founder led businesses."
+  },
+  {
+    "start": 1172.22,
+    "duration": 5.36,
+    "text": "Um, not, not necessarily that one way is right or wrong, but I think it definitely, it definitely"
+  },
+  {
+    "start": 1177.58,
+    "duration": 3.96,
+    "text": "depends on the type of the style and the stage of your career that you're at in terms"
+  },
+  {
+    "start": 1181.54,
+    "duration": 4.44,
+    "text": "of which one might be a better fit."
+  },
+  {
+    "start": 1185.98,
+    "duration": 5.28,
+    "text": "You could definitely make the argument that, uh, first time founders in venture backed"
+  },
+  {
+    "start": 1191.26,
+    "duration": 5.2,
+    "text": "companies need more of the structure, not less of the structure than, than private equity."
+  },
+  {
+    "start": 1196.46,
+    "duration": 1.88,
+    "text": "It's, it's almost like it's a little bit backwards."
+  },
+  {
+    "start": 1198.34,
+    "duration": 5.16,
+    "text": "I've thought about this a ton cause you know, I, I'm fascinated by venture."
+  },
+  {
+    "start": 1203.5,
+    "duration": 4.32,
+    "text": "I think at some point in my career, that's a, that's a place I could see myself."
+  },
+  {
+    "start": 1207.82,
+    "duration": 5.48,
+    "text": "And um, if I think about how could I differentiate myself, it's like playbooks, like come in"
+  },
+  {
+    "start": 1213.3,
+    "duration": 9.08,
+    "text": "with opinions and structure and like really teach people cause there's a dearth of, uh,"
+  },
+  {
+    "start": 1222.38,
+    "duration": 5.28,
+    "text": "great content out there for, uh, founders to really figure it out."
+  },
+  {
+    "start": 1227.66,
+    "duration": 3.6,
+    "text": "Transition out of founder led sales, get into the sort of scale up stage."
+  },
+  {
+    "start": 1231.26,
+    "duration": 3.32,
+    "text": "Um, and there's, you know, bits and bobs here."
+  },
+  {
+    "start": 1234.58,
+    "duration": 3.84,
+    "text": "There's sales acceleration formula and Robert has continued to write great stuff."
+  },
+  {
+    "start": 1238.42,
+    "duration": 3.92,
+    "text": "There's Pete Kazanji's book founding sales that I recommend all the time there."
+  },
+  {
+    "start": 1242.34,
+    "duration": 5.84,
+    "text": "There's, there's pieces of it, but, um, I think that there's a big opportunity to up"
+  },
+  {
+    "start": 1248.18,
+    "duration": 6.28,
+    "text": "to document something much more comprehensive and offer this to venture backed founders"
+  },
+  {
+    "start": 1254.46,
+    "duration": 1.84,
+    "text": "and early revenue leaders for sure."
+  },
+  {
+    "start": 1256.3,
+    "duration": 1.16,
+    "text": "Cause they're desperate for it."
+  },
+  {
+    "start": 1257.46,
+    "duration": 5.44,
+    "text": "The amount of messages I get on a weekly basis from first time VPs of sales or founders,"
+  },
+  {
+    "start": 1262.9,
+    "duration": 3.28,
+    "text": "Hey, you know, I was wondering if I could talk to you about this and this and this."
+  },
+  {
+    "start": 1266.18,
+    "duration": 5.88,
+    "text": "It's like every day somebody has something, obviously I'm more visible because the podcast"
+  },
+  {
+    "start": 1272.06,
+    "duration": 4.32,
+    "text": "and stuff, but yeah, the thirst is clearly there."
+  },
+  {
+    "start": 1276.38,
+    "duration": 3.84,
+    "text": "And I think that's kind of one of the, maybe the myths too about private equity is like,"
+  },
+  {
+    "start": 1280.22,
+    "duration": 2.84,
+    "text": "Oh, you're not going to have any freedom and they're just going to tell you exactly what"
+  },
+  {
+    "start": 1283.06,
+    "duration": 1.0,
+    "text": "to do."
+  },
+  {
+    "start": 1284.06,
+    "duration": 4.68,
+    "text": "This is the, you know, you're, they're going to give you this like very specific prescription"
+  },
+  {
+    "start": 1288.74,
+    "duration": 4.76,
+    "text": "and you just have to follow it to a T. And that hasn't been my, my experience that it's"
+  },
+  {
+    "start": 1293.5,
+    "duration": 4.24,
+    "text": "been that there are templates and there are, you know, recommendations, but that they're"
+  },
+  {
+    "start": 1297.74,
+    "duration": 3.96,
+    "text": "not like just take this exact thing and apply it because I think people appreciate that"
+  },
+  {
+    "start": 1301.7,
+    "duration": 2.68,
+    "text": "like that's not going to work."
+  },
+  {
+    "start": 1304.38,
+    "duration": 4.08,
+    "text": "And you know, I'm sure we both could think of examples of, um, leaders, whether they"
+  },
+  {
+    "start": 1308.46,
+    "duration": 5.04,
+    "text": "were CROs or other function leaders that we've worked with where they came into an organization"
+  },
+  {
+    "start": 1313.5,
+    "duration": 2.52,
+    "text": "and they were like, here's my playbook, here's what we're going to do."
+  },
+  {
+    "start": 1316.02,
+    "duration": 3.24,
+    "text": "Like, you know, within the first 15 days, like exactly."
+  },
+  {
+    "start": 1319.26,
+    "duration": 2.4,
+    "text": "And I've never seen that work out."
+  },
+  {
+    "start": 1321.66,
+    "duration": 3.56,
+    "text": "So much like my, you know, we can get into this more later, but much like how my style"
+  },
+  {
+    "start": 1325.22,
+    "duration": 3.64,
+    "text": "is very much one of like, let me, let me take some of the things I've seen work well before"
+  },
+  {
+    "start": 1328.86,
+    "duration": 5.04,
+    "text": "and figure out where and if it applies here and then we'll mold it to fit that."
+  },
+  {
+    "start": 1333.9,
+    "duration": 3.44,
+    "text": "I think the same similar thing is happening in the PE world where they've seen things"
+  },
+  {
+    "start": 1337.34,
+    "duration": 4.76,
+    "text": "work well before and so they'll definitely make those recommendations, but they also need"
+  },
+  {
+    "start": 1342.1,
+    "duration": 4.24,
+    "text": "it to work in the environment that they're floating it into and they recognize that"
+  },
+  {
+    "start": 1346.34,
+    "duration": 3.16,
+    "text": "it's not just like a take this here and drop it in there."
+  },
+  {
+    "start": 1349.5,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1350.5,
+    "duration": 5.52,
+    "text": "I'm on a mission to get people to stop saying best practice and replace it with high probability"
+  },
+  {
+    "start": 1356.02,
+    "duration": 2.48,
+    "text": "practice because that's what it is."
+  },
+  {
+    "start": 1358.5,
+    "duration": 6.92,
+    "text": "It's something that even if it's worked across multiple companies, it's still not best."
+  },
+  {
+    "start": 1365.42,
+    "duration": 7.84,
+    "text": "It is the thing that worked in that situation, in that market, in that market, in that customer"
+  },
+  {
+    "start": 1373.26,
+    "duration": 3.0,
+    "text": "type, but it is not best."
+  },
+  {
+    "start": 1376.26,
+    "duration": 6.24,
+    "text": "And I think the, it's funny, language, oftentimes it feels like I'm being overly semantic about"
+  },
+  {
+    "start": 1382.5,
+    "duration": 1.0,
+    "text": "this stuff."
+  },
+  {
+    "start": 1383.5,
+    "duration": 1.0,
+    "text": "It's like, who cares?"
+  },
+  {
+    "start": 1384.5,
+    "duration": 1.8,
+    "text": "Best practice, high probability practice."
+  },
+  {
+    "start": 1386.3,
+    "duration": 4.36,
+    "text": "I tell people don't set a next step, give, give the customer an offer of value."
+  },
+  {
+    "start": 1390.66,
+    "duration": 4.56,
+    "text": "It's like, why care about, well, I think language has such, such power."
+  },
+  {
+    "start": 1396.02,
+    "duration": 3.76,
+    "text": "And if we can get people to say, you know, oh, this is a high probability practice."
+  },
+  {
+    "start": 1399.78,
+    "duration": 5.24,
+    "text": "It seems dumb, but it is reinforcing consistently, hey, this is a thing."
+  },
+  {
+    "start": 1405.02,
+    "duration": 1.0,
+    "text": "This is a hypothesis."
+  },
+  {
+    "start": 1406.02,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1407.02,
+    "duration": 10.12,
+    "text": "It worked in another vertical SaaS SMP context, but I sold to restaurants, you sold to mechanics."
+  },
+  {
+    "start": 1417.14,
+    "duration": 4.92,
+    "text": "And just the nuance and application, I think people oftentimes miss and you see the playbook"
+  },
+  {
+    "start": 1422.06,
+    "duration": 4.48,
+    "text": "person come in all like, I see this all the time."
+  },
+  {
+    "start": 1426.54,
+    "duration": 1.0,
+    "text": "It's can be a disaster."
+  },
+  {
+    "start": 1427.54,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1428.54,
+    "duration": 5.32,
+    "text": "So people have seen like, you know, there's obviously a reason why stereotypes and myths"
+  },
+  {
+    "start": 1433.86,
+    "duration": 1.24,
+    "text": "and things like that exist."
+  },
+  {
+    "start": 1435.1,
+    "duration": 6.44,
+    "text": "So maybe, maybe there was a time or maybe there was a specific kind of subset of, of"
+  },
+  {
+    "start": 1441.54,
+    "duration": 3.52,
+    "text": "PE where that was the way they operated and maybe still do."
+  },
+  {
+    "start": 1445.06,
+    "duration": 3.92,
+    "text": "I just, I don't know that that is, you know, again, like, I don't think that's an empirical"
+  },
+  {
+    "start": 1448.98,
+    "duration": 2.32,
+    "text": "truth, at least in my three experiences."
+  },
+  {
+    "start": 1451.3,
+    "duration": 2.0,
+    "text": "That has not been the case."
+  },
+  {
+    "start": 1453.3,
+    "duration": 4.2,
+    "text": "So I would, I would encourage people if they're thinking about, and I know you and I both"
+  },
+  {
+    "start": 1457.5,
+    "duration": 3.24,
+    "text": "get asked this question a lot, like, should I go down a VC path, should I go down a PE"
+  },
+  {
+    "start": 1460.74,
+    "duration": 1.0,
+    "text": "path?"
+  },
+  {
+    "start": 1461.74,
+    "duration": 1.0,
+    "text": "Like, what do you think makes sense?"
+  },
+  {
+    "start": 1462.74,
+    "duration": 4.12,
+    "text": "And, you know, there's definitely again, things that you, that you can compare and contrast."
+  },
+  {
+    "start": 1466.86,
+    "duration": 3.96,
+    "text": "But I also think that much like how we talk about in sales, people buy from people, like"
+  },
+  {
+    "start": 1470.82,
+    "duration": 1.08,
+    "text": "these are people."
+  },
+  {
+    "start": 1471.9,
+    "duration": 4.48,
+    "text": "So it's even within an organization, within a specific VC firm or a private equity firm,"
+  },
+  {
+    "start": 1476.38,
+    "duration": 5.6,
+    "text": "you might find completely different styles and approaches depending on the, the specific"
+  },
+  {
+    "start": 1481.98,
+    "duration": 4.36,
+    "text": "people that you're, you're interacting with and what their experiences have been either"
+  },
+  {
+    "start": 1486.34,
+    "duration": 3.16,
+    "text": "as operators or investors or other."
+  },
+  {
+    "start": 1489.5,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1490.5,
+    "duration": 5.64,
+    "text": "And, and so just zoom out and maybe explain to people, like, so a private equity company"
+  },
+  {
+    "start": 1496.14,
+    "duration": 5.32,
+    "text": "buys a company, a private equity fund buys a company and what are they intending to do"
+  },
+  {
+    "start": 1501.46,
+    "duration": 1.0,
+    "text": "with it?"
+  },
+  {
+    "start": 1502.46,
+    "duration": 1.0,
+    "text": "And why is that different than VC?"
+  },
+  {
+    "start": 1503.46,
+    "duration": 1.64,
+    "text": "Maybe, maybe we should just explain that."
+  },
+  {
+    "start": 1505.1,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1506.1,
+    "duration": 1.0,
+    "text": "That's, that's a good point."
+  },
+  {
+    "start": 1507.1,
+    "duration": 4.72,
+    "text": "So on the private equity side, typically what they're trying to do is, is have a return"
+  },
+  {
+    "start": 1511.82,
+    "duration": 3.6,
+    "text": "that's going to be tied to profitability."
+  },
+  {
+    "start": 1515.42,
+    "duration": 2.94,
+    "text": "Growth will play into it and growth plays into profitability."
+  },
+  {
+    "start": 1518.36,
+    "duration": 3.9,
+    "text": "But that I'd say that's probably one of the biggest differentiators is on the VC, VC side,"
+  },
+  {
+    "start": 1522.26,
+    "duration": 4.04,
+    "text": "what they're trying to do is have a company, you know, grow as quickly as possible and"
+  },
+  {
+    "start": 1526.3,
+    "duration": 2.98,
+    "text": "then sell on a multiple of revenue."
+  },
+  {
+    "start": 1529.28,
+    "duration": 5.54,
+    "text": "On the PE side, they're typically selling on a multiple of profitability or EBITDA."
+  },
+  {
+    "start": 1534.82,
+    "duration": 5.36,
+    "text": "If anyone wants to get into that acronym, I'm not a financial finance expert, so I'm"
+  },
+  {
+    "start": 1540.18,
+    "duration": 1.6,
+    "text": "happy to share only what I know."
+  },
+  {
+    "start": 1541.78,
+    "duration": 5.36,
+    "text": "But the idea being that, that growth matters, but profitable growth matters most."
+  },
+  {
+    "start": 1547.14,
+    "duration": 2.4,
+    "text": "And I think that's a key, a key differentiator."
+  },
+  {
+    "start": 1549.54,
+    "duration": 4.48,
+    "text": "There are a lot of companies that we all know and use that are very successful that never"
+  },
+  {
+    "start": 1554.02,
+    "duration": 4.16,
+    "text": "got to profitability and that worked really well for a long time."
+  },
+  {
+    "start": 1558.18,
+    "duration": 4.8,
+    "text": "I think in more recent years, everyone, whether they're VC backed or private equity backed"
+  },
+  {
+    "start": 1563.06,
+    "duration": 5.76,
+    "text": "or public or any other format are much more aware of how much profitability matters."
+  },
+  {
+    "start": 1568.82,
+    "duration": 4.64,
+    "text": "And it matters a lot from a, from a, what you can reinvest in the business perspective"
+  },
+  {
+    "start": 1573.46,
+    "duration": 1.28,
+    "text": "and, and grow from there."
+  },
+  {
+    "start": 1575.62,
+    "duration": 4.16,
+    "text": "The other thing I think that applies in, in this kind of like, you know, taking a zooming"
+  },
+  {
+    "start": 1579.78,
+    "duration": 6.24,
+    "text": "out and taking a look is what, what the ultimate, what the ultimate exit path looks like."
+  },
+  {
+    "start": 1586.02,
+    "duration": 0.32,
+    "text": "Right."
+  },
+  {
+    "start": 1586.34,
+    "duration": 4.4,
+    "text": "So I think we talk a lot about, you know, and at Achievers, we used to talk a lot and"
+  },
+  {
+    "start": 1590.74,
+    "duration": 4.56,
+    "text": "dream a lot and, and really have our, you know, our BHAG was all about like one day"
+  },
+  {
+    "start": 1595.3,
+    "duration": 5.04,
+    "text": "having the Achievers logo and Times Square and, you know, going IPOing."
+  },
+  {
+    "start": 1601.94,
+    "duration": 1.2,
+    "text": "And that was kind of the dream."
+  },
+  {
+    "start": 1603.14,
+    "duration": 3.44,
+    "text": "I think that, that, that's not really everyone's dream anymore."
+  },
+  {
+    "start": 1606.58,
+    "duration": 0.72,
+    "text": "I don't know."
+  },
+  {
+    "start": 1607.3,
+    "duration": 4.8,
+    "text": "I don't know if, you know, it ever was, you know, the only dream, but it was definitely"
+  },
+  {
+    "start": 1612.1,
+    "duration": 2.88,
+    "text": "the one that had the most airtime or maybe it was the most like exciting."
+  },
+  {
+    "start": 1614.98,
+    "duration": 2.96,
+    "text": "It was way more exciting to be like, I'm going to ring the bell at the stock market."
+  },
+  {
+    "start": 1617.94,
+    "duration": 3.6,
+    "text": "Then I hope I get bought, bought out by another private equity company."
+  },
+  {
+    "start": 1622.34,
+    "duration": 2.08,
+    "text": "Can't wait till Salesforce buys us."
+  },
+  {
+    "start": 1624.42,
+    "duration": 0.96,
+    "text": "Totally."
+  },
+  {
+    "start": 1625.38,
+    "duration": 3.6,
+    "text": "But I think for, for, for, depending on the company size too, right?"
+  },
+  {
+    "start": 1628.98,
+    "duration": 4.88,
+    "text": "What you get to a certain size where only so many outcomes are possible, whether that's"
+  },
+  {
+    "start": 1633.86,
+    "duration": 5.68,
+    "text": "an IPO, another acquisition by another private equity company, or some type of strategic"
+  },
+  {
+    "start": 1639.54,
+    "duration": 5.2,
+    "text": "acquisition from, from a Salesforce or from a Microsoft or from somebody who's, you know,"
+  },
+  {
+    "start": 1645.38,
+    "duration": 5.36,
+    "text": "wanting to tuck in a company like Modus into their, into their larger strategy going forward."
+  },
+  {
+    "start": 1652.26,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 1652.42,
+    "duration": 3.6,
+    "text": "And the time horizons are just obviously so different, you know, venture capital is"
+  },
+  {
+    "start": 1656.02,
+    "duration": 1.44,
+    "text": "playing the power log game."
+  },
+  {
+    "start": 1658.1,
+    "duration": 5.44,
+    "text": "They're investing in early stage companies and they just need one or two of those, those"
+  },
+  {
+    "start": 1663.54,
+    "duration": 6.08,
+    "text": "portfolio companies to deliver a hundred X return and the whole fund is paid back."
+  },
+  {
+    "start": 1670.34,
+    "duration": 10.8,
+    "text": "And then some versus, and the outcome usually has to be an IPO for that to, to really return"
+  },
+  {
+    "start": 1681.14,
+    "duration": 4.56,
+    "text": "in the way that they want versus in the private equity game, three to five year time horizon,"
+  },
+  {
+    "start": 1685.7,
+    "duration": 4.48,
+    "text": "they're going to package and sell or roll up, roll up and go public."
+  },
+  {
+    "start": 1690.18,
+    "duration": 5.84,
+    "text": "You know, the, the, the, I think the time horizon in PE, it impacts things a lot because"
+  },
+  {
+    "start": 1696.02,
+    "duration": 5.76,
+    "text": "you're not saying, Oh, look, look, Amazon will, you will lose money for 20 years, but"
+  },
+  {
+    "start": 1701.78,
+    "duration": 5.76,
+    "text": "we will build such an enormous moat and we will be so inextricably tied into consumers"
+  },
+  {
+    "start": 1707.54,
+    "duration": 6.56,
+    "text": "day to day that as we need to turn up the volume or turn the dial to profitability,"
+  },
+  {
+    "start": 1714.1,
+    "duration": 1.44,
+    "text": "we can make that decision."
+  },
+  {
+    "start": 1715.54,
+    "duration": 2.16,
+    "text": "But, but that's not the game."
+  },
+  {
+    "start": 1717.7,
+    "duration": 3.68,
+    "text": "And that, that actually touches on to the point that one of the things I've found is"
+  },
+  {
+    "start": 1721.38,
+    "duration": 4.56,
+    "text": "that in private equity, because those timelines are kind of more commonly held, people talk"
+  },
+  {
+    "start": 1725.94,
+    "duration": 5.44,
+    "text": "about them a lot more openly and they inform strategic decisions."
+  },
+  {
+    "start": 1731.38,
+    "duration": 4.32,
+    "text": "You know, whether that's product strategy, go to market strategy, marketing strategy,"
+  },
+  {
+    "start": 1735.7,
+    "duration": 4.64,
+    "text": "like even right now at Modus, we were halfway through our kind of investment cycle and we"
+  },
+  {
+    "start": 1740.34,
+    "duration": 3.44,
+    "text": "have a lot of great ideas and some of them are longer term ideas."
+  },
+  {
+    "start": 1743.78,
+    "duration": 4.24,
+    "text": "So we're thinking about, is this the kind of idea that somebody that a future buyer"
+  },
+  {
+    "start": 1748.02,
+    "duration": 5.36,
+    "text": "would want to inherit and take forward and like continue to capitalize on?"
+  },
+  {
+    "start": 1753.38,
+    "duration": 3.36,
+    "text": "Or is this something that we need to, you know, pause on?"
+  },
+  {
+    "start": 1756.74,
+    "duration": 3.04,
+    "text": "It's a great idea, but it doesn't really work with our current time horizons."
+  },
+  {
+    "start": 1760.34,
+    "duration": 3.2,
+    "text": "Whereas when I was in the VC world and, you know, everything was about,"
+  },
+  {
+    "start": 1764.1,
+    "duration": 1.36,
+    "text": "like we never really talked about."
+  },
+  {
+    "start": 1766.26,
+    "duration": 0.48,
+    "text": "Exactly."
+  },
+  {
+    "start": 1769.54,
+    "duration": 7.52,
+    "text": "And so give me some examples of, of decisions you've made that are timeline oriented that"
+  },
+  {
+    "start": 1777.06,
+    "duration": 4.8,
+    "text": "where you're saying, Hey, like this is going to pay off in 24 months versus 48 months."
+  },
+  {
+    "start": 1782.02,
+    "duration": 3.36,
+    "text": "And just like, talk to me through how you're thinking about that prioritization."
+  },
+  {
+    "start": 1786.1,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 1786.42,
+    "duration": 4.96,
+    "text": "So we, like as an example, Modus is the kind of organization that, you know, can play into"
+  },
+  {
+    "start": 1791.38,
+    "duration": 1.36,
+    "text": "a variety of different industries."
+  },
+  {
+    "start": 1793.38,
+    "duration": 4.96,
+    "text": "And so, you know, we're, we're targeting organizations that have high populations of"
+  },
+  {
+    "start": 1798.34,
+    "duration": 3.2,
+    "text": "employees who need to drive a personal vehicle to get to work."
+  },
+  {
+    "start": 1801.54,
+    "duration": 6.56,
+    "text": "So think about people, you know, in pharmaceutical sales or construction or, or CPG, where they're"
+  },
+  {
+    "start": 1808.1,
+    "duration": 2.8,
+    "text": "going from store to store, district managers, those types of things."
+  },
+  {
+    "start": 1811.78,
+    "duration": 4.56,
+    "text": "There's a lot of other industries that we could, you know, modify the product a little"
+  },
+  {
+    "start": 1816.34,
+    "duration": 4.64,
+    "text": "bit to make more sense for, or, or go more wholeheartedly from a go-to-market perspective,"
+  },
+  {
+    "start": 1821.86,
+    "duration": 3.44,
+    "text": "strategic perspective, both in terms of marketing and kind of outbound prospecting."
+  },
+  {
+    "start": 1825.86,
+    "duration": 4.32,
+    "text": "But if some of those verticals take, you know, could take longer to really like get momentum"
+  },
+  {
+    "start": 1830.18,
+    "duration": 4.56,
+    "text": "and traction and have enough customer success stories, customer references, and, you know,"
+  },
+  {
+    "start": 1835.94,
+    "duration": 2.48,
+    "text": "really, really get to know that vertical inside and out."
+  },
+  {
+    "start": 1838.9,
+    "duration": 4.16,
+    "text": "We're, we're currently in the process of evaluating which ones make sense for us to go"
+  },
+  {
+    "start": 1843.06,
+    "duration": 1.76,
+    "text": "into next as we continue to grow."
+  },
+  {
+    "start": 1844.82,
+    "duration": 3.68,
+    "text": "Similarly with regions, Modus primarily operates in the U.S."
+  },
+  {
+    "start": 1848.5,
+    "duration": 6.88,
+    "text": "We have a Canadian population of, of end users who are, who are part of U.S."
+  },
+  {
+    "start": 1855.38,
+    "duration": 1.28,
+    "text": "headquartered companies."
+  },
+  {
+    "start": 1856.66,
+    "duration": 3.44,
+    "text": "There's many other regions that have employees who drive for work that we could go into."
+  },
+  {
+    "start": 1860.1,
+    "duration": 5.6,
+    "text": "But again, how long does it take to stand up a product and a strategy that's successful"
+  },
+  {
+    "start": 1865.7,
+    "duration": 1.68,
+    "text": "in a new country or new region?"
+  },
+  {
+    "start": 1867.38,
+    "duration": 2.48,
+    "text": "Anyone who's done that knows that that's not a short-term win."
+  },
+  {
+    "start": 1869.86,
+    "duration": 1.6,
+    "text": "That's much longer term play."
+  },
+  {
+    "start": 1872.26,
+    "duration": 1.52,
+    "text": "So way longer than you think."
+  },
+  {
+    "start": 1873.78,
+    "duration": 0.8,
+    "text": "That's the answer."
+  },
+  {
+    "start": 1875.3,
+    "duration": 2.24,
+    "text": "And super worthwhile if you get it right."
+  },
+  {
+    "start": 1877.54,
+    "duration": 2.08,
+    "text": "But again, it takes, you know, it takes time."
+  },
+  {
+    "start": 1885.7,
+    "duration": 4.16,
+    "text": "The official marketing playbook for 2025 starts at CMO Summit."
+  },
+  {
+    "start": 1889.86,
+    "duration": 5.44,
+    "text": "On April 17th, join 150 of the world's top marketing executives in Atlanta for a one-day"
+  },
+  {
+    "start": 1895.3,
+    "duration": 3.6,
+    "text": "event designed to redefine marketing's role in business growth."
+  },
+  {
+    "start": 1899.46,
+    "duration": 4.16,
+    "text": "In a world of shrinking budgets, the CMOs who lead with strategy and innovation are"
+  },
+  {
+    "start": 1903.62,
+    "duration": 2.0,
+    "text": "the ones driving real results."
+  },
+  {
+    "start": 1905.62,
+    "duration": 4.64,
+    "text": "This summit is where you'll gain the tools, insights, and connections to do just that."
+  },
+  {
+    "start": 1910.82,
+    "duration": 4.72,
+    "text": "Hear from industry pioneers, engage in hands-on workshops, and surround yourself with marketing"
+  },
+  {
+    "start": 1915.54,
+    "duration": 2.16,
+    "text": "trailblazers who aren't just your peers."
+  },
+  {
+    "start": 1917.7,
+    "duration": 2.88,
+    "text": "They're the minds who will inspire your next breakthrough."
+  },
+  {
+    "start": 1921.14,
+    "duration": 4.48,
+    "text": "Visit joinpavilion.com slash CMO Summit to secure your spot today."
+  },
+  {
+    "start": 1927.14,
+    "duration": 1.28,
+    "text": "Yeah, that makes a ton of sense."
+  },
+  {
+    "start": 1930.18,
+    "duration": 7.2,
+    "text": "Does being private equity backed affect how you think about team structure, compensation?"
+  },
+  {
+    "start": 1937.94,
+    "duration": 2.0,
+    "text": "Are those more similar?"
+  },
+  {
+    "start": 1941.62,
+    "duration": 2.56,
+    "text": "What are the things that are similar versus what's most different?"
+  },
+  {
+    "start": 1945.06,
+    "duration": 0.4,
+    "text": "Yeah."
+  },
+  {
+    "start": 1945.46,
+    "duration": 4.72,
+    "text": "So one thing to note in the private equity world, we sort of touched on this a little"
+  },
+  {
+    "start": 1950.18,
+    "duration": 3.76,
+    "text": "bit around profitability, is that efficiency really matters."
+  },
+  {
+    "start": 1953.94,
+    "duration": 4.32,
+    "text": "It matters more, I think, than or maybe it doesn't matter more, but it's thought about"
+  },
+  {
+    "start": 1958.26,
+    "duration": 1.76,
+    "text": "a lot more than in my experience."
+  },
+  {
+    "start": 1960.02,
+    "duration": 0.64,
+    "text": "It matters more."
+  },
+  {
+    "start": 1960.66,
+    "duration": 1.36,
+    "text": "I think that's fair to say."
+  },
+  {
+    "start": 1962.02,
+    "duration": 2.24,
+    "text": "Yeah, because efficiency drives profitability."
+  },
+  {
+    "start": 1964.26,
+    "duration": 2.8,
+    "text": "Again, profitability matters most."
+  },
+  {
+    "start": 1968.5,
+    "duration": 5.12,
+    "text": "So to that end, we do think a lot about structure and not so much efficiency in terms of"
+  },
+  {
+    "start": 1973.62,
+    "duration": 0.72,
+    "text": "compensation."
+  },
+  {
+    "start": 1974.34,
+    "duration": 5.6,
+    "text": "I'd say from a variable comp perspective or specifically from a sales comp perspective,"
+  },
+  {
+    "start": 1979.94,
+    "duration": 1.2,
+    "text": "the two are very similar."
+  },
+  {
+    "start": 1981.14,
+    "duration": 4.96,
+    "text": "And in our pavilion group and our CRO group that Kyle, you and I are a part of, we talk"
+  },
+  {
+    "start": 1986.1,
+    "duration": 5.68,
+    "text": "a lot about compensation principles and compensation, highly probable, successful"
+  },
+  {
+    "start": 1991.78,
+    "duration": 0.48,
+    "text": "outcomes."
+  },
+  {
+    "start": 1992.26,
+    "duration": 1.92,
+    "text": "What was the word I was supposed to say?"
+  },
+  {
+    "start": 1994.18,
+    "duration": 1.84,
+    "text": "High probability practices."
+  },
+  {
+    "start": 1996.02,
+    "duration": 4.4,
+    "text": "Yeah, we talk a lot about high probability practices as it pertains to sales compensation."
+  },
+  {
+    "start": 2000.42,
+    "duration": 6.4,
+    "text": "And I think that's agnostic to whether it's private equity or VC backed because essentially"
+  },
+  {
+    "start": 2006.82,
+    "duration": 3.28,
+    "text": "when you're running a sales team, you want to pay for performance and you want to pay"
+  },
+  {
+    "start": 2010.1,
+    "duration": 3.84,
+    "text": "people fairly for doing the hard work of bringing in new revenue."
+  },
+  {
+    "start": 2013.94,
+    "duration": 3.92,
+    "text": "It's one of the hardest things that you have to do to grow your business."
+  },
+  {
+    "start": 2017.86,
+    "duration": 4.56,
+    "text": "And so I think on that side, compensation is similar."
+  },
+  {
+    "start": 2022.42,
+    "duration": 5.44,
+    "text": "But if you think about org structure in terms of span of control or supporting resources,"
+  },
+  {
+    "start": 2027.86,
+    "duration": 1.76,
+    "text": "I think that's where you might see some differences."
+  },
+  {
+    "start": 2029.62,
+    "duration": 8.24,
+    "text": "So for example, when I need to build a business case to hire more revenue generating headcount,"
+  },
+  {
+    "start": 2038.42,
+    "duration": 4.0,
+    "text": "fairly straightforward in the private equity world, harder to build a business case for"
+  },
+  {
+    "start": 2042.42,
+    "duration": 5.84,
+    "text": "the resources that support those individuals, enablement, rev ops, leadership, for example,"
+  },
+  {
+    "start": 2048.26,
+    "duration": 0.8,
+    "text": "span of control."
+  },
+  {
+    "start": 2049.06,
+    "duration": 1.04,
+    "text": "We talk about that a lot."
+  },
+  {
+    "start": 2050.1,
+    "duration": 5.28,
+    "text": "What's the right ratio of how many direct reports a sales leader should have, a BDR"
+  },
+  {
+    "start": 2055.38,
+    "duration": 1.2,
+    "text": "manager, that type of thing."
+  },
+  {
+    "start": 2057.38,
+    "duration": 5.44,
+    "text": "I didn't feel that those conversations around span of control or org structure were as critical"
+  },
+  {
+    "start": 2062.82,
+    "duration": 5.44,
+    "text": "when I was in the venture capital world and in the startup world, even very recently."
+  },
+  {
+    "start": 2068.26,
+    "duration": 1.52,
+    "text": "It was more like, oh, we need more people."
+  },
+  {
+    "start": 2069.78,
+    "duration": 3.52,
+    "text": "Yes, let's get those people or go get those people and we'll worry later about whether"
+  },
+  {
+    "start": 2073.3,
+    "duration": 3.52,
+    "text": "they have three direct reports or six direct reports as the company grows."
+  },
+  {
+    "start": 2077.94,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 2078.98,
+    "duration": 4.24,
+    "text": "And what data do you look at to make those decisions?"
+  },
+  {
+    "start": 2083.22,
+    "duration": 8.08,
+    "text": "Because more reps per manager is good on a spreadsheet because it's less management"
+  },
+  {
+    "start": 2091.3,
+    "duration": 4.24,
+    "text": "headcount attributed to the same reps."
+  },
+  {
+    "start": 2096.58,
+    "duration": 6.4,
+    "text": "But the argument would be, yeah, the manager cost could and hopefully should improve the"
+  },
+  {
+    "start": 2102.98,
+    "duration": 0.72,
+    "text": "total output."
+  },
+  {
+    "start": 2103.7,
+    "duration": 2.56,
+    "text": "So what type of sensitivity modeling are you doing there?"
+  },
+  {
+    "start": 2106.66,
+    "duration": 2.16,
+    "text": "How do you make these team structure decisions?"
+  },
+  {
+    "start": 2108.82,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 2110.02,
+    "duration": 4.96,
+    "text": "I'm looking at a lot of benchmark data around, again, what does great look like for a company"
+  },
+  {
+    "start": 2114.98,
+    "duration": 1.6,
+    "text": "of our size and stage?"
+  },
+  {
+    "start": 2116.58,
+    "duration": 3.44,
+    "text": "And I think it's important, too, when you look at benchmarks, and usually they're a"
+  },
+  {
+    "start": 2120.02,
+    "duration": 6.16,
+    "text": "range, like six to eight is what I've seen a lot recently, is that you have to understand"
+  },
+  {
+    "start": 2126.18,
+    "duration": 2.0,
+    "text": "the nuances of those benchmarks and those ranges."
+  },
+  {
+    "start": 2128.18,
+    "duration": 4.96,
+    "text": "So, for example, if you have six really tenured reps who've been selling for a while, who"
+  },
+  {
+    "start": 2133.22,
+    "duration": 4.8,
+    "text": "know your product, you can probably get away with managing eight, maybe even nine or ten"
+  },
+  {
+    "start": 2138.02,
+    "duration": 0.48,
+    "text": "reps."
+  },
+  {
+    "start": 2138.5,
+    "duration": 5.04,
+    "text": "But if you have reps that are brand new either to sales, like you just promoted them from"
+  },
+  {
+    "start": 2143.54,
+    "duration": 4.88,
+    "text": "being BDRs or you hired them externally and they're not as familiar with your domain"
+  },
+  {
+    "start": 2148.42,
+    "duration": 2.96,
+    "text": "expertise and things like that, then you might want to revisit the ratio."
+  },
+  {
+    "start": 2152.18,
+    "duration": 4.64,
+    "text": "Another example is for Modus, we only just now are introducing this concept of solutions"
+  },
+  {
+    "start": 2156.82,
+    "duration": 5.04,
+    "text": "consultants, which is common probably to people listening who are in tech sales."
+  },
+  {
+    "start": 2161.86,
+    "duration": 4.0,
+    "text": "And if you have solutions consultants, then your reps have more resources."
+  },
+  {
+    "start": 2165.86,
+    "duration": 3.68,
+    "text": "It's not only the manager who's going to be this kind of subject matter expert in a"
+  },
+  {
+    "start": 2170.26,
+    "duration": 2.4,
+    "text": "deal or in a prospect conversation."
+  },
+  {
+    "start": 2172.66,
+    "duration": 3.84,
+    "text": "So I think ratios and benchmarks are important, but I also think you have to take those with"
+  },
+  {
+    "start": 2176.5,
+    "duration": 0.72,
+    "text": "a grain of salt."
+  },
+  {
+    "start": 2178.02,
+    "duration": 7.68,
+    "text": "And then to your comment about productivity, we have sales and marketing efficiency metrics"
+  },
+  {
+    "start": 2185.7,
+    "duration": 5.36,
+    "text": "that we look at internally and compare those to other companies in both our PE firms'"
+  },
+  {
+    "start": 2191.06,
+    "duration": 1.2,
+    "text": "portfolios."
+  },
+  {
+    "start": 2192.26,
+    "duration": 6.8,
+    "text": "And that gives us a sense of like, are we generating a good return for the dollars that"
+  },
+  {
+    "start": 2199.06,
+    "duration": 0.64,
+    "text": "we're investing?"
+  },
+  {
+    "start": 2199.7,
+    "duration": 4.8,
+    "text": "And that includes leadership and supporting resources, marketing and dollars, program"
+  },
+  {
+    "start": 2204.5,
+    "duration": 1.36,
+    "text": "spend, that type of thing."
+  },
+  {
+    "start": 2205.86,
+    "duration": 4.64,
+    "text": "And that's been helpful because we can set ourselves targets to say, do we want to get"
+  },
+  {
+    "start": 2210.5,
+    "duration": 2.88,
+    "text": "more efficient or do we want to get more growth?"
+  },
+  {
+    "start": 2213.38,
+    "duration": 1.84,
+    "text": "And how do we find the right balance of both?"
+  },
+  {
+    "start": 2215.22,
+    "duration": 4.64,
+    "text": "Because we're in a position right now at Modus where we're not really in an efficiency play."
+  },
+  {
+    "start": 2219.86,
+    "duration": 3.12,
+    "text": "And that was one of the things I was saying earlier that really attracted me to this specific"
+  },
+  {
+    "start": 2222.98,
+    "duration": 5.92,
+    "text": "role and this specific ownership structure is that it is private equity backed."
+  },
+  {
+    "start": 2228.9,
+    "duration": 4.56,
+    "text": "Profitability does matter, but we have a big focus on go-to-market growth and accelerating"
+  },
+  {
+    "start": 2233.46,
+    "duration": 0.72,
+    "text": "our revenue growth."
+  },
+  {
+    "start": 2234.18,
+    "duration": 4.56,
+    "text": "And we're making investment decisions that maybe other traditional PE firms would not"
+  },
+  {
+    "start": 2239.7,
+    "duration": 1.2,
+    "text": "make typically."
+  },
+  {
+    "start": 2240.9,
+    "duration": 4.96,
+    "text": "But because of where we are right now and the outcome that we're looking for, investing"
+  },
+  {
+    "start": 2245.86,
+    "duration": 2.32,
+    "text": "in go-to-market makes the most sense for us."
+  },
+  {
+    "start": 2250.74,
+    "duration": 5.04,
+    "text": "What are the key efficiency metrics that you typically track, especially the ones that"
+  },
+  {
+    "start": 2255.78,
+    "duration": 2.24,
+    "text": "might be different from the VC world?"
+  },
+  {
+    "start": 2258.58,
+    "duration": 1.2,
+    "text": "Yeah, I wonder if they are different."
+  },
+  {
+    "start": 2259.78,
+    "duration": 3.68,
+    "text": "It'd be good to pick your brain about that, too, because I think we look at the things"
+  },
+  {
+    "start": 2263.46,
+    "duration": 0.96,
+    "text": "that are really traditional."
+  },
+  {
+    "start": 2264.42,
+    "duration": 3.36,
+    "text": "We're looking at CAC or cost of acquisition."
+  },
+  {
+    "start": 2267.78,
+    "duration": 2.96,
+    "text": "We're looking at LTV, lifetime value."
+  },
+  {
+    "start": 2270.74,
+    "duration": 6.72,
+    "text": "We look at NRR and net revenue retention and gross revenue retention, GRR, from an efficiency"
+  },
+  {
+    "start": 2277.46,
+    "duration": 0.56,
+    "text": "perspective."
+  },
+  {
+    "start": 2278.02,
+    "duration": 5.92,
+    "text": "We look at, at a really tactical level, we're looking at calls per rep, meetings per rep,"
+  },
+  {
+    "start": 2283.94,
+    "duration": 1.28,
+    "text": "pipeline generated."
+  },
+  {
+    "start": 2285.22,
+    "duration": 5.44,
+    "text": "So again, I think those might be agnostic to the ownership structure, but what are your"
+  },
+  {
+    "start": 2290.66,
+    "duration": 0.5,
+    "text": "thoughts?"
+  },
+  {
+    "start": 2292.58,
+    "duration": 1.68,
+    "text": "Yeah, I think roughly the same."
+  },
+  {
+    "start": 2296.9,
+    "duration": 5.92,
+    "text": "We're trying to break things down in a more granular fashion by channel because inbound"
+  },
+  {
+    "start": 2302.82,
+    "duration": 7.6,
+    "text": "affects outbound and channel affects all this stuff and trying to untangle some of"
+  },
+  {
+    "start": 2310.42,
+    "duration": 4.48,
+    "text": "that is not an easy task."
+  },
+  {
+    "start": 2315.86,
+    "duration": 4.4,
+    "text": "So to really understand where do we want to double and triple down because your outbound"
+  },
+  {
+    "start": 2320.26,
+    "duration": 3.76,
+    "text": "team, it looks like it's got awesome \u2013 our outbound team looks like it's got incredible"
+  },
+  {
+    "start": 2324.02,
+    "duration": 4.8,
+    "text": "efficiency, but more than half of the ops that they book were former inbound leads."
+  },
+  {
+    "start": 2329.3,
+    "duration": 7.04,
+    "text": "So how do you attribute cost appropriately and spend intelligently?"
+  },
+  {
+    "start": 2337.3,
+    "duration": 2.72,
+    "text": "Yeah, we look at all the same stuff."
+  },
+  {
+    "start": 2340.02,
+    "duration": 3.12,
+    "text": "Cost per op, cost per closed win."
+  },
+  {
+    "start": 2343.7,
+    "duration": 6.48,
+    "text": "We try to look at is the LTV different across channels?"
+  },
+  {
+    "start": 2350.18,
+    "duration": 4.88,
+    "text": "Is a partner deal bigger or higher retained than an inbound or an outbound deal?"
+  },
+  {
+    "start": 2355.06,
+    "duration": 0.5,
+    "text": "Right."
+  },
+  {
+    "start": 2356.02,
+    "duration": 0.72,
+    "text": "So I think the same."
+  },
+  {
+    "start": 2357.46,
+    "duration": 4.88,
+    "text": "And yeah, tied to that too, I think one aspect that plays into it is around segmentation."
+  },
+  {
+    "start": 2362.34,
+    "duration": 5.2,
+    "text": "So when you're in an organization, Achievers was like this, Modus is like this as well,"
+  },
+  {
+    "start": 2367.54,
+    "duration": 4.0,
+    "text": "where we're selling kind of up and down the segment spectrum, if you will."
+  },
+  {
+    "start": 2371.54,
+    "duration": 4.88,
+    "text": "So we've got enterprise accounts and enterprise deals that are hundreds of thousands of dollars"
+  },
+  {
+    "start": 2376.42,
+    "duration": 5.04,
+    "text": "and then we also have SMB or we call it commercial deals that are tens of thousands of dollars."
+  },
+  {
+    "start": 2381.46,
+    "duration": 4.24,
+    "text": "When I'm in kind of budget planning mode and thinking about growth, there's a few"
+  },
+  {
+    "start": 2385.7,
+    "duration": 5.76,
+    "text": "different levers you can pull and how do we know how much to invest in hiring more"
+  },
+  {
+    "start": 2391.46,
+    "duration": 5.04,
+    "text": "enterprise reps and going after those larger whale opportunities versus hiring more commercial"
+  },
+  {
+    "start": 2396.5,
+    "duration": 3.2,
+    "text": "or SMB reps and focusing on like a volume and velocity play."
+  },
+  {
+    "start": 2400.26,
+    "duration": 6.4,
+    "text": "And again, going specifically to the PE world, there's payback models that we look at."
+  },
+  {
+    "start": 2406.66,
+    "duration": 4.96,
+    "text": "And the spreadsheet will tell you that if I hire a commercial rep or an SMB rep,"
+  },
+  {
+    "start": 2412.58,
+    "duration": 4.8,
+    "text": "we can pay back the investment into hiring that rep much faster because the sales cycles are 30"
+  },
+  {
+    "start": 2417.38,
+    "duration": 7.52,
+    "text": "to 60 days, not 9 to 12 months. But does that support our long-term growth when the million"
+  },
+  {
+    "start": 2424.9,
+    "duration": 3.12,
+    "text": "dollar deals are the things that are going to really move the needle?"
+  },
+  {
+    "start": 2428.58,
+    "duration": 4.4,
+    "text": "And that's on just the booking side. You have to also think about what impact that has on"
+  },
+  {
+    "start": 2432.98,
+    "duration": 4.56,
+    "text": "your business from a customer retention and cost to serve perspective."
+  },
+  {
+    "start": 2438.5,
+    "duration": 6.24,
+    "text": "And if your company and such product are set up to serve hundreds of smaller accounts versus"
+  },
+  {
+    "start": 2444.74,
+    "duration": 2.8,
+    "text": "dozens of larger accounts effectively and efficiently."
+  },
+  {
+    "start": 2448.82,
+    "duration": 4.88,
+    "text": "Yeah. And we'll talk about some of the lessons from CS2 revenue here in a minute."
+  },
+  {
+    "start": 2453.7,
+    "duration": 8.16,
+    "text": "I want to ask two more questions here. So board engagement, very different in PE versus VC."
+  },
+  {
+    "start": 2461.86,
+    "duration": 5.44,
+    "text": "So what are the big lessons that you've learned in managing a PE board well?"
+  },
+  {
+    "start": 2468.1,
+    "duration": 1.36,
+    "text": "And what can be applied to VC?"
+  },
+  {
+    "start": 2470.5,
+    "duration": 3.52,
+    "text": "Yeah, it's a really good question. So I think from the PE world,"
+  },
+  {
+    "start": 2474.58,
+    "duration": 4.16,
+    "text": "especially when you're the CRO, you should be prepared to have lots of board engagement,"
+  },
+  {
+    "start": 2479.62,
+    "duration": 2.16,
+    "text": "whether they're focused on efficiency or growth."
+  },
+  {
+    "start": 2483.46,
+    "duration": 5.84,
+    "text": "Every board meeting I'm in, which are either monthly or quarterly, depending on when and where,"
+  },
+  {
+    "start": 2491.38,
+    "duration": 4.64,
+    "text": "I usually am the first speaker. I usually end up talking the longest because I get the most"
+  },
+  {
+    "start": 2496.02,
+    "duration": 4.96,
+    "text": "questions. I always have to apologize to my product and tech counterparts because they've"
+  },
+  {
+    "start": 2500.98,
+    "duration": 4.96,
+    "text": "prepared content that we never, ever get to. Because everybody wants to know what's happening"
+  },
+  {
+    "start": 2505.94,
+    "duration": 6.72,
+    "text": "with pipeline, what's happening with specific deals. Where are we on revenue productivity and"
+  },
+  {
+    "start": 2512.66,
+    "duration": 5.52,
+    "text": "quota attainment? How many reps are hitting their targets? What's our performance management"
+  },
+  {
+    "start": 2518.18,
+    "duration": 3.92,
+    "text": "structure and plan if reps aren't hitting targets? How are we hiring? There's always"
+  },
+  {
+    "start": 2522.1,
+    "duration": 5.76,
+    "text": "so much interest in what's happening on the sales side. And now that I'm also responsible"
+  },
+  {
+    "start": 2527.86,
+    "duration": 4.88,
+    "text": "for retention and renewals, that's probably the second hottest topic in the board meeting."
+  },
+  {
+    "start": 2532.74,
+    "duration": 4.88,
+    "text": "So be prepared, I would say, for lots of engagement. But to be honest, I'm taking"
+  },
+  {
+    "start": 2537.62,
+    "duration": 7.68,
+    "text": "it all as amazing learning opportunity. Most of the folks on our board are ex-CEOs and executives"
+  },
+  {
+    "start": 2545.3,
+    "duration": 6.88,
+    "text": "or long-standing investors. And they have just an incredible wealth of knowledge that I can learn"
+  },
+  {
+    "start": 2552.18,
+    "duration": 10.08,
+    "text": "from. And I also try to remember that sometimes the board has this thing about them that they're"
+  },
+  {
+    "start": 2562.26,
+    "duration": 4.72,
+    "text": "just like this group of people behind a curtain that you never see. And what's been amazing about"
+  },
+  {
+    "start": 2566.98,
+    "duration": 4.48,
+    "text": "my experiences is these are real people. Before every in-person board meeting, we have dinner"
+  },
+  {
+    "start": 2571.46,
+    "duration": 3.52,
+    "text": "with our board members. We get to know them on a personal basis. I know their favorite sports"
+  },
+  {
+    "start": 2574.98,
+    "duration": 5.12,
+    "text": "teams. I know what universities or colleges their kids go to. They know things about me and"
+  },
+  {
+    "start": 2581.22,
+    "duration": 7.2,
+    "text": "my Canadian nature. Most of them are US-based. So it's been great to really get to know them"
+  },
+  {
+    "start": 2588.42,
+    "duration": 6.48,
+    "text": "as people. Are there sometimes tricky questions in the board meeting? Am I sweating a lot"
+  },
+  {
+    "start": 2594.9,
+    "duration": 6.88,
+    "text": "in many of the meetings? Absolutely, yes. But it's important that we know as the management team"
+  },
+  {
+    "start": 2601.78,
+    "duration": 3.36,
+    "text": "what we're working towards and that we're working towards these things together."
+  },
+  {
+    "start": 2605.14,
+    "duration": 3.6,
+    "text": "We have certain outcomes that we want to achieve as a management team. And the fact that they're"
+  },
+  {
+    "start": 2608.74,
+    "duration": 5.36,
+    "text": "aligned to what our board's looking to achieve for their investors and for their own successes"
+  },
+  {
+    "start": 2614.1,
+    "duration": 5.84,
+    "text": "makes it a lot easier to see it as a partnership as opposed to an us-versus-them situation."
+  },
+  {
+    "start": 2621.86,
+    "duration": 8.72,
+    "text": "Yeah. And you may have... Well, most of the time, there's one group that owns 50% of the company."
+  },
+  {
+    "start": 2630.58,
+    "duration": 5.84,
+    "text": "And that's not true in venture. In venture, your biggest investor might have 15% if they've been"
+  },
+  {
+    "start": 2636.42,
+    "duration": 5.44,
+    "text": "consistently taking their pro rata. And the interesting dynamic in venture is that you"
+  },
+  {
+    "start": 2641.86,
+    "duration": 11.6,
+    "text": "could have a diversity of incentives on a board. For an early-stage investor, this investment might"
+  },
+  {
+    "start": 2653.46,
+    "duration": 5.44,
+    "text": "be a fund-maker now. They're a seed-stage investor. They cut in a couple million bucks or half a"
+  },
+  {
+    "start": 2658.9,
+    "duration": 7.12,
+    "text": "million bucks, and now it's 20X. They could be excited for liquidity versus the guy who led the"
+  },
+  {
+    "start": 2666.02,
+    "duration": 8.72,
+    "text": "C round. They now need the company to 5X, 10X from there. And so the incentive structure can"
+  },
+  {
+    "start": 2674.74,
+    "duration": 5.84,
+    "text": "be different. Versus in private equity, I think it's a more seamless alignment."
+  },
+  {
+    "start": 2681.86,
+    "duration": 2.48,
+    "text": "Yeah. The incentives are more clear,"
+  },
+  {
+    "start": 2684.34,
+    "duration": 4.56,
+    "text": "and they get to have way more opinion. They own 50%, 60%, 70% of this business."
+  },
+  {
+    "start": 2688.9,
+    "duration": 0.72,
+    "text": "Yeah."
+  },
+  {
+    "start": 2689.62,
+    "duration": 6.88,
+    "text": "You're more than just a board member. You're making decisions at that point."
+  },
+  {
+    "start": 2696.5,
+    "duration": 10.08,
+    "text": "Absolutely. Yeah. And you really see them as the thought leaders of what we're trying to achieve."
+  },
+  {
+    "start": 2706.58,
+    "duration": 3.52,
+    "text": "However, it's also important to remember that they're not in the day-to-day business the way"
+  },
+  {
+    "start": 2710.1,
+    "duration": 5.52,
+    "text": "we are. And this is, I think, even whether it's a VC board or a PE board, they have a lot of"
+  },
+  {
+    "start": 2717.46,
+    "duration": 5.36,
+    "text": "experiences and opinions and recommendations, but they aren't living the day-to-day. And so it's"
+  },
+  {
+    "start": 2722.82,
+    "duration": 6.16,
+    "text": "important to have that healthy balance of, hey, we tried that and here's what happened,"
+  },
+  {
+    "start": 2728.98,
+    "duration": 3.84,
+    "text": "and just share back the stories and be as transparent as possible."
+  },
+  {
+    "start": 2732.82,
+    "duration": 4.48,
+    "text": "And also, I think sometimes it's tricky. One of the best things about the board currently at Modus"
+  },
+  {
+    "start": 2737.3,
+    "duration": 6.88,
+    "text": "is our CEO, Fong, is a huge believer in talent development. And we basically, every board meeting"
+  },
+  {
+    "start": 2744.18,
+    "duration": 6.16,
+    "text": "that's in person, so every quarter, we take some high potential leaders in the organization,"
+  },
+  {
+    "start": 2750.34,
+    "duration": 4.56,
+    "text": "and we bring them to the board meeting. And they speak about something that they're an expert on."
+  },
+  {
+    "start": 2754.9,
+    "duration": 4.72,
+    "text": "And I think that's an awesome way for people to get exposure. Again, this board is not this big,"
+  },
+  {
+    "start": 2759.62,
+    "duration": 6.16,
+    "text": "scary, faceless thing. These are real people. And we have to remember that they're not in the"
+  },
+  {
+    "start": 2765.78,
+    "duration": 3.92,
+    "text": "day-to-day of our business. So we can't go super, super deep into the tactical"
+  },
+  {
+    "start": 2771.06,
+    "duration": 5.44,
+    "text": "details of everything because they're not living at that level. And being able to navigate"
+  },
+  {
+    "start": 2778.34,
+    "duration": 4.4,
+    "text": "different levels of altitude, I think, is one of the best leadership skills you can learn,"
+  },
+  {
+    "start": 2782.74,
+    "duration": 3.52,
+    "text": "is how do you go from being deep in the weeds on something and then"
+  },
+  {
+    "start": 2786.26,
+    "duration": 3.2,
+    "text": "present the 30,000-foot view in your next breath."
+  },
+  {
+    "start": 2789.54,
+    "duration": 6.08,
+    "text": "I talk about this a lot. The best revenue leaders can live at two simultaneous"
+  },
+  {
+    "start": 2795.62,
+    "duration": 7.44,
+    "text": "different levels of abstraction. You can get in the weeds, look at call data, connect data,"
+  },
+  {
+    "start": 2803.06,
+    "duration": 5.04,
+    "text": "and conversion rate data, and get on a call, and then also think about where we go in 24 months."
+  },
+  {
+    "start": 2808.1,
+    "duration": 4.08,
+    "text": "Absolutely. And you have to. I think it's like becoming table stakes."
+  },
+  {
+    "start": 2812.82,
+    "duration": 5.6,
+    "text": "For sure. Yeah. The world is skewing towards the operator more and more and more. As technology"
+  },
+  {
+    "start": 2818.42,
+    "duration": 6.48,
+    "text": "plays a bigger and bigger role in all of these companies, you have to understand the P&L and"
+  },
+  {
+    "start": 2824.9,
+    "duration": 5.12,
+    "text": "understand how to think about the system that you're designing in a pretty granular manner."
+  },
+  {
+    "start": 2830.98,
+    "duration": 6.16,
+    "text": "What one or two pieces of advice would you give to somebody to best manage a private equity board?"
+  },
+  {
+    "start": 2837.38,
+    "duration": 2.4,
+    "text": "To best manage a private equity board."
+  },
+  {
+    "start": 2841.78,
+    "duration": 4.24,
+    "text": "I would definitely say that, just to piggyback on the point that you just made,"
+  },
+  {
+    "start": 2847.06,
+    "duration": 10.08,
+    "text": "you have to know the data. You have to be in the data. You have to lean on the data to"
+  },
+  {
+    "start": 2857.78,
+    "duration": 5.76,
+    "text": "answer the questions. I think, as salespeople especially, we all love storytelling,"
+  },
+  {
+    "start": 2863.62,
+    "duration": 6.4,
+    "text": "and storytelling matters a lot in our world. You can still do that. I think anecdotes and stories"
+  },
+  {
+    "start": 2870.02,
+    "duration": 5.76,
+    "text": "help to bring what you're talking about to life, but it needs to start with the data,"
+  },
+  {
+    "start": 2875.78,
+    "duration": 4.72,
+    "text": "and then stories can come from there. I've seen too often where people just jump straight to the"
+  },
+  {
+    "start": 2880.5,
+    "duration": 5.04,
+    "text": "stories, either because they don't know the data or because they're not comfortable with it."
+  },
+  {
+    "start": 2887.46,
+    "duration": 5.92,
+    "text": "It can be perceived as, to the board members who, again, think they live and breathe data all day,"
+  },
+  {
+    "start": 2893.38,
+    "duration": 7.04,
+    "text": "every day. To really relate to them and speak their language, you have to start from the data"
+  },
+  {
+    "start": 2900.42,
+    "duration": 5.76,
+    "text": "perspective. Then the second thing I would say, and this might be maybe more of a trading secret,"
+  },
+  {
+    "start": 2906.18,
+    "duration": 7.2,
+    "text": "is board members love closing deals. That's what they do. The deals they're closing are"
+  },
+  {
+    "start": 2913.38,
+    "duration": 6.08,
+    "text": "not the deals you and I are closing, but it's the same kind of motion. Anytime I've gone to a board"
+  },
+  {
+    "start": 2919.46,
+    "duration": 4.88,
+    "text": "member for help with a deal, because these are people who are just so well-connected,"
+  },
+  {
+    "start": 2924.34,
+    "duration": 5.2,
+    "text": "they've welcomed the chance and really, really opened up doors that we maybe wouldn't have"
+  },
+  {
+    "start": 2929.54,
+    "duration": 4.8,
+    "text": "opened up otherwise, to get into C-level executives at some of our largest prospects,"
+  },
+  {
+    "start": 2934.34,
+    "duration": 6.4,
+    "text": "or to help move a deal that was previously stuck to an unstuck status just by making a phone call"
+  },
+  {
+    "start": 2940.74,
+    "duration": 7.68,
+    "text": "or sending a note. I would say, instead of thinking about all the things that the board"
+  },
+  {
+    "start": 2949.22,
+    "duration": 4.08,
+    "text": "needs from you, which there are a lot of, there's also things that they can give back."
+  },
+  {
+    "start": 2953.3,
+    "duration": 3.76,
+    "text": "Again, not only is there a thrill for them to be part of closing the deal,"
+  },
+  {
+    "start": 2957.06,
+    "duration": 4.4,
+    "text": "but I think there's also, they recognize that that's one of the biggest ways they can add value"
+  },
+  {
+    "start": 2961.46,
+    "duration": 4.32,
+    "text": "back to the organization and back to the management team, is leveraging their network"
+  },
+  {
+    "start": 2965.78,
+    "duration": 4.32,
+    "text": "and their contacts to help move deals along. That is a win for everybody."
+  },
+  {
+    "start": 2970.5,
+    "duration": 8.24,
+    "text": "Awesome. If we zoom way out, what are the one or two lessons that you've taken from PE"
+  },
+  {
+    "start": 2979.38,
+    "duration": 2.96,
+    "text": "that are valuable for venture-backed CROs?"
+  },
+  {
+    "start": 2984.74,
+    "duration": 4.32,
+    "text": "I think it's not dissimilar to some of what we chatted about a little bit already, which is,"
+  },
+  {
+    "start": 2989.06,
+    "duration": 5.36,
+    "text": "again, thinking about efficiency and profitability matters, especially in the world we live in right"
+  },
+  {
+    "start": 2994.42,
+    "duration": 4.56,
+    "text": "now. Again, I think people think that only PE-backed companies care about that, but"
+  },
+  {
+    "start": 3001.06,
+    "duration": 4.88,
+    "text": "you were sharing this with me earlier, too, that we're seeing that more and more in the VC world."
+  },
+  {
+    "start": 3007.78,
+    "duration": 6.32,
+    "text": "Then the other thing is probably what we talked about with playbooks. The wheel doesn't have to"
+  },
+  {
+    "start": 3014.1,
+    "duration": 4.8,
+    "text": "be reinvented every time, which is not the same as saying there's no place for creativity. I think"
+  },
+  {
+    "start": 3018.9,
+    "duration": 8.48,
+    "text": "there absolutely is. All of our CROs and all of our teams' shared experiences can be hugely"
+  },
+  {
+    "start": 3027.38,
+    "duration": 8.0,
+    "text": "beneficial, but it's also okay to say, what's a format that I could use for this process?"
+  },
+  {
+    "start": 3037.06,
+    "duration": 7.44,
+    "text": "Again, leverage what might be available to you through your network. Maybe if you're working"
+  },
+  {
+    "start": 3044.5,
+    "duration": 6.4,
+    "text": "for a VC-backed company that doesn't already have some type of networking component to it,"
+  },
+  {
+    "start": 3050.9,
+    "duration": 5.36,
+    "text": "maybe someone could start one of those for their portfolio for their company and find similar"
+  },
+  {
+    "start": 3056.34,
+    "duration": 4.08,
+    "text": "companies at a similar stage and age and create something like that."
+  },
+  {
+    "start": 3061.62,
+    "duration": 8.0,
+    "text": "Cool. I want to ask one more question here. You've just acquired a significant direct"
+  },
+  {
+    "start": 3069.62,
+    "duration": 5.2,
+    "text": "competitor, which is a big part of the PE playbook. You see this all the time. They'll"
+  },
+  {
+    "start": 3074.82,
+    "duration": 8.0,
+    "text": "make an anchor acquisition, and then the PE will acquire a bunch of companies in that category,"
+  },
+  {
+    "start": 3082.82,
+    "duration": 7.04,
+    "text": "roll them up, find operational efficiencies, go-to-market opportunities, the products can"
+  },
+  {
+    "start": 3089.86,
+    "duration": 10.24,
+    "text": "get considerably better and more comprehensive. Talk about what was the strategy behind this"
+  },
+  {
+    "start": 3100.1,
+    "duration": 4.48,
+    "text": "acquisition, and then I want to get into how you think about bringing the go-to-market motion"
+  },
+  {
+    "start": 3104.58,
+    "duration": 4.24,
+    "text": "together. What's the strategy behind it? Why do it?"
+  },
+  {
+    "start": 3108.9,
+    "duration": 5.36,
+    "text": "Totally. The M&A component of PE, I think, is actually something we haven't touched on yet,"
+  },
+  {
+    "start": 3114.26,
+    "duration": 8.16,
+    "text": "but definitely warrants its own airtime. Again, we know our growth trajectory for this specific"
+  },
+  {
+    "start": 3122.42,
+    "duration": 4.4,
+    "text": "chapter of Modus' journey. We have an organic case, and we also have an inorganic case, which"
+  },
+  {
+    "start": 3126.82,
+    "duration": 9.04,
+    "text": "includes multiple M&A targets. We just announced last week that we acquired an organization called"
+  },
+  {
+    "start": 3135.86,
+    "duration": 5.84,
+    "text": "Everlance that started out as a B2C company, actually, and grew into a B2B company and"
+  },
+  {
+    "start": 3141.7,
+    "duration": 8.08,
+    "text": "eventually a direct competitor of ours. While I don't believe that the strategy was to acquire"
+  },
+  {
+    "start": 3149.78,
+    "duration": 6.16,
+    "text": "them specifically, there was always a strategy to create more convergence in the market and"
+  },
+  {
+    "start": 3155.94,
+    "duration": 5.12,
+    "text": "things like that. As you said, that's not an uncommon strategy in PE in general and in tech,"
+  },
+  {
+    "start": 3161.06,
+    "duration": 6.4,
+    "text": "to be honest. We knew that there would be some type of M&A activity taking place."
+  },
+  {
+    "start": 3170.02,
+    "duration": 3.28,
+    "text": "Their two co-founders are these amazing guys who met at Stanford Business School,"
+  },
+  {
+    "start": 3173.3,
+    "duration": 5.68,
+    "text": "started this company, and our CEO started getting to know them over time. We found a lot of shared"
+  },
+  {
+    "start": 3178.98,
+    "duration": 6.72,
+    "text": "vision and shared values in the two organizations, despite size differences and things like that."
+  },
+  {
+    "start": 3185.7,
+    "duration": 4.64,
+    "text": "I think that really helped accelerate that this was the right one for us to invest time and"
+  },
+  {
+    "start": 3190.34,
+    "duration": 5.52,
+    "text": "resources into. We're super excited. We're welcoming the team into our team right now."
+  },
+  {
+    "start": 3195.86,
+    "duration": 3.68,
+    "text": "We have shared customers. We have customers who were our customers that are currently their"
+  },
+  {
+    "start": 3199.54,
+    "duration": 6.88,
+    "text": "customers and vice versa. It's a very niche space. Bringing the go-to-market teams together is"
+  },
+  {
+    "start": 3206.42,
+    "duration": 7.2,
+    "text": "definitely the plan. There's specific domain expertise that can help you be a really successful"
+  },
+  {
+    "start": 3213.62,
+    "duration": 8.08,
+    "text": "seller in this category. The folks at Everlance have amazing expertise. As I mentioned earlier,"
+  },
+  {
+    "start": 3221.7,
+    "duration": 5.2,
+    "text": "we're on a growth trajectory. Part of growing an organization and growing go-to-market means more"
+  },
+  {
+    "start": 3226.9,
+    "duration": 6.4,
+    "text": "people to help contribute to that growth. There's a really exciting opportunity to bring those folks"
+  },
+  {
+    "start": 3233.3,
+    "duration": 4.8,
+    "text": "into the fold and work as one team now instead of having to compete against each other."
+  },
+  {
+    "start": 3238.74,
+    "duration": 3.36,
+    "text": "In parallel, our product teams are doing exactly as you said,"
+  },
+  {
+    "start": 3242.1,
+    "duration": 4.08,
+    "text": "evaluating how do we bring the best of both products to market to deliver"
+  },
+  {
+    "start": 3246.9,
+    "duration": 7.2,
+    "text": "the best-in-class customer experience and drive for further innovation and scale."
+  },
+  {
+    "start": 3256.26,
+    "duration": 8.32,
+    "text": "Interesting. Oftentimes, you see these acquisitions to acquire a product that then"
+  },
+  {
+    "start": 3264.66,
+    "duration": 5.68,
+    "text": "you can cross-sell, which accelerates really efficient growth for both organizations."
+  },
+  {
+    "start": 3271.3,
+    "duration": 3.84,
+    "text": "There's competitive reasons. Take oxygen out of the competitive landscape."
+  },
+  {
+    "start": 3277.78,
+    "duration": 3.68,
+    "text": "Basically, stop a race to the bottom. You see it as a strategy. Sometimes,"
+  },
+  {
+    "start": 3281.46,
+    "duration": 6.0,
+    "text": "it's about accelerating a product roadmap and getting to new categories faster."
+  },
+  {
+    "start": 3288.18,
+    "duration": 12.8,
+    "text": "It's a little bit of option B, a little bit of option C, and then I'd add that there's also"
+  },
+  {
+    "start": 3300.98,
+    "duration": 5.92,
+    "text": "this opportunity to play further up and down the total addressable market landscape."
+  },
+  {
+    "start": 3306.9,
+    "duration": 6.16,
+    "text": "Modus primarily has played in what we call commercial. Some other companies might call"
+  },
+  {
+    "start": 3313.06,
+    "duration": 4.0,
+    "text": "more mid-market or even enterprise for them. It's all very relative to what you sell."
+  },
+  {
+    "start": 3317.78,
+    "duration": 5.76,
+    "text": "I've talked about this with the work that you do at Owner. We mostly play upstream"
+  },
+  {
+    "start": 3324.26,
+    "duration": 5.6,
+    "text": "market. This organization has a whole B2C component to it that we don't touch at all"
+  },
+  {
+    "start": 3330.5,
+    "duration": 6.4,
+    "text": "with over 4 million end users. Then they also play into the very small business space where"
+  },
+  {
+    "start": 3336.9,
+    "duration": 5.76,
+    "text": "they're selling to single proprietors. Think like a real estate agent who needs to track their"
+  },
+  {
+    "start": 3342.66,
+    "duration": 5.52,
+    "text": "mileage and expenses or a team of people, which again, we don't sell into."
+  },
+  {
+    "start": 3348.18,
+    "duration": 3.68,
+    "text": "They also have a freemium product, which is something we don't do today. There was really"
+  },
+  {
+    "start": 3351.86,
+    "duration": 5.52,
+    "text": "an opportunity to not only navigate the competitive landscape, to accelerate the product roadmap,"
+  },
+  {
+    "start": 3357.38,
+    "duration": 6.88,
+    "text": "but also to extend our total addressable market. Go acquire a bunch of talent that"
+  },
+  {
+    "start": 3365.06,
+    "duration": 4.72,
+    "text": "knows your business, that is clearly very successful."
+  },
+  {
+    "start": 3372.66,
+    "duration": 6.24,
+    "text": "Now, Everlance improves their retention because people won't graduate out of that product. They"
+  },
+  {
+    "start": 3378.9,
+    "duration": 6.56,
+    "text": "can graduate into whatever version of Modus is left and vice versa. How are you thinking about"
+  },
+  {
+    "start": 3385.46,
+    "duration": 4.64,
+    "text": "bringing Go-To-Market together? You acquire a new product. What are the sets of decisions you're"
+  },
+  {
+    "start": 3390.1,
+    "duration": 5.92,
+    "text": "trying to make? Is it about segmentation, where people go? Where do you start?"
+  },
+  {
+    "start": 3399.06,
+    "duration": 4.8,
+    "text": "We've started at the beginning, if you think of the revenue lifecycle or the customer lifecycle."
+  },
+  {
+    "start": 3403.86,
+    "duration": 6.08,
+    "text": "From a marketing perspective, firstly, on the B2B side, we were at the same trade shows,"
+  },
+  {
+    "start": 3410.74,
+    "duration": 5.28,
+    "text": "in the same publications, things like that. We're thinking about how do we preserve Everlance's"
+  },
+  {
+    "start": 3416.02,
+    "duration": 7.52,
+    "text": "brand equity? Again, they've built a lot of brand equity by being a B2C app as a component of their"
+  },
+  {
+    "start": 3423.54,
+    "duration": 8.24,
+    "text": "solution, while also not confusing the market and having two players out there that are now under"
+  },
+  {
+    "start": 3431.78,
+    "duration": 6.16,
+    "text": "one umbrella. There's a lot of work right now. This acquisition is only 10 days old, but we've"
+  },
+  {
+    "start": 3437.94,
+    "duration": 11.52,
+    "text": "spent a lot of time thinking about the marketing strategy and the brand equity. It sounds like,"
+  },
+  {
+    "start": 3449.46,
+    "duration": 4.88,
+    "text": "oh, why would that matter first? But you really want to be clear on your identity because then"
+  },
+  {
+    "start": 3454.34,
+    "duration": 4.88,
+    "text": "that sets you up for success for the other components of the revenue lifecycle. Tactically,"
+  },
+  {
+    "start": 3459.22,
+    "duration": 8.48,
+    "text": "we've also had to work on what it means from a Go-To-Market sales motion. When you acquire somebody"
+  },
+  {
+    "start": 3467.7,
+    "duration": 4.56,
+    "text": "who you were competing with yesterday, that doesn't suddenly just turn off. They have a"
+  },
+  {
+    "start": 3472.26,
+    "duration": 6.08,
+    "text": "pipeline. We have a pipeline. We're in the same opportunities in many cases. We've been working"
+  },
+  {
+    "start": 3478.34,
+    "duration": 4.24,
+    "text": "really closely as a sales leadership team to talk through each of those opportunities."
+  },
+  {
+    "start": 3482.58,
+    "duration": 8.0,
+    "text": "We've structured the strategy such that if one of us wins, we all win. I think that's probably"
+  },
+  {
+    "start": 3490.58,
+    "duration": 7.52,
+    "text": "another highly likely, highly probable practice to put on the radar in terms of being successful"
+  },
+  {
+    "start": 3498.1,
+    "duration": 4.64,
+    "text": "is taking compensation out of the equation and having the team really start thinking as one"
+  },
+  {
+    "start": 3502.74,
+    "duration": 5.52,
+    "text": "team. Again, if either team wins the deal, both teams win is the model we've come up with. Of"
+  },
+  {
+    "start": 3508.26,
+    "duration": 5.2,
+    "text": "course, you can't have that forever, but we think that that's the right thing to do for the short"
+  },
+  {
+    "start": 3513.46,
+    "duration": 10.4,
+    "text": "term with these options. Just in terms of the additional revenue you'll win by nobody discounting"
+  },
+  {
+    "start": 3523.86,
+    "duration": 4.4,
+    "text": "is probably worth the double comp because you can say to both these teams,"
+  },
+  {
+    "start": 3528.26,
+    "duration": 7.68,
+    "text": "Hey, look, nobody discount, but don't win this deal by lowering the ARR and just let the customer"
+  },
+  {
+    "start": 3535.94,
+    "duration": 10.24,
+    "text": "choose even a 10% discount on a $40,000 deal. The commission paying the double comp is not going"
+  },
+  {
+    "start": 3546.18,
+    "duration": 7.36,
+    "text": "to be four grand. It'll be two. Exactly. I feel really strongly that"
+  },
+  {
+    "start": 3554.9,
+    "duration": 5.52,
+    "text": "success comes out of collaboration. This is not about acquisition. This is just my philosophy in"
+  },
+  {
+    "start": 3560.42,
+    "duration": 7.12,
+    "text": "sales in general or in leading teams. This creates the opportunity to move to this one team"
+  },
+  {
+    "start": 3567.54,
+    "duration": 5.12,
+    "text": "mentality even faster because now instead of being like hoarding information or being like,"
+  },
+  {
+    "start": 3572.66,
+    "duration": 4.16,
+    "text": "Oh, well, the customer told me this, but I'm not going to say that. Everyone's putting everything"
+  },
+  {
+    "start": 3576.82,
+    "duration": 5.36,
+    "text": "out on the table. It's been really awesome to see the maturity across both teams saying like,"
+  },
+  {
+    "start": 3582.18,
+    "duration": 5.52,
+    "text": "We all want to win. We, the now collective, we want to win this opportunity and we'll be in a"
+  },
+  {
+    "start": 3587.7,
+    "duration": 3.92,
+    "text": "better position to do so if I share what I've learned throughout the months of discovery I've"
+  },
+  {
+    "start": 3591.62,
+    "duration": 3.92,
+    "text": "done with this account and you share what you've learned and then we kind of bring the best"
+  },
+  {
+    "start": 3595.54,
+    "duration": 4.8,
+    "text": "together and then we actually show up to the customer as a united front. And so it just"
+  },
+  {
+    "start": 3600.34,
+    "duration": 3.52,
+    "text": "creates a lot of alignment and we're just trying to take confusion out of it for the customers as"
+  },
+  {
+    "start": 3603.86,
+    "duration": 5.92,
+    "text": "well because while we don't know exactly what the future product will look like, we know that the"
+  },
+  {
+    "start": 3609.78,
+    "duration": 4.4,
+    "text": "vision is to have kind of the best of everything and make that available so that we can continue"
+  },
+  {
+    "start": 3614.18,
+    "duration": 4.72,
+    "text": "to lead in the market. And so we need to show up that way and right from the get-go and for"
+  },
+  {
+    "start": 3618.9,
+    "duration": 6.56,
+    "text": "salespeople, compensation is one of the strategies to ensure that. Have you already started thinking"
+  },
+  {
+    "start": 3625.46,
+    "duration": 4.88,
+    "text": "about the infrastructure? How do you bring two Salesforce instances together? Where is the"
+  },
+  {
+    "start": 3631.14,
+    "duration": 8.32,
+    "text": "data live? Yeah, it's even more exciting because they use HubSpot and we use Salesforce. They use"
+  },
+  {
+    "start": 3640.34,
+    "duration": 6.32,
+    "text": "their whole system is set up on the G Suite platform. We're fully Microsoft shop, although"
+  },
+  {
+    "start": 3646.66,
+    "duration": 7.84,
+    "text": "we use Slack. So there's some elements of the systems that are going to be really tricky."
+  },
+  {
+    "start": 3654.5,
+    "duration": 8.32,
+    "text": "And so thankfully, one of my secret weapons from being a CRO is having an awesome RevOps team."
+  },
+  {
+    "start": 3662.82,
+    "duration": 4.72,
+    "text": "And so there are very smart people who are already investigating how do we do things like that."
+  },
+  {
+    "start": 3669.54,
+    "duration": 7.92,
+    "text": "Yeah. Interesting. Okay. So we're completely going to run out of time to dive deep into the"
+  },
+  {
+    "start": 3677.46,
+    "duration": 5.52,
+    "text": "CS thing. So now you have to come back again for a second episode where we go deep into that"
+  },
+  {
+    "start": 3682.98,
+    "duration": 4.32,
+    "text": "because it deserves its own airtime. I just want to ask one question on it before we get into quick"
+  },
+  {
+    "start": 3687.3,
+    "duration": 8.16,
+    "text": "fire. You come from a CS background now as a CRO. You see the world through a different lens."
+  },
+  {
+    "start": 3695.46,
+    "duration": 5.6,
+    "text": "What's the one piece of advice you really wish you could hammer into the heads of CROs that come"
+  },
+  {
+    "start": 3701.06,
+    "duration": 5.68,
+    "text": "from the sales path that you think they miss that you uniquely understand from coming from a"
+  },
+  {
+    "start": 3706.74,
+    "duration": 10.88,
+    "text": "different function? That's a really good one. And it's sort of hard because I can't parse apart my"
+  },
+  {
+    "start": 3717.62,
+    "duration": 5.28,
+    "text": "CS time and my sales time because I really see them as like they just kind of merged into one."
+  },
+  {
+    "start": 3722.9,
+    "duration": 5.52,
+    "text": "And also through my years in CS, we were a revenue generating function. But I think if I"
+  },
+  {
+    "start": 3728.42,
+    "duration": 6.64,
+    "text": "had to boil it down, I would want other CROs to think about truly putting the customer at the"
+  },
+  {
+    "start": 3735.06,
+    "duration": 4.08,
+    "text": "center of their decisions. And it's so hard because every organization is like, oh, we're"
+  },
+  {
+    "start": 3739.14,
+    "duration": 4.72,
+    "text": "super customer centric. And we believe that the customer is at the center of what we do."
+  },
+  {
+    "start": 3745.3,
+    "duration": 6.8,
+    "text": "Exactly. It doesn't always flow through to decisions that are made, to comp structures,"
+  },
+  {
+    "start": 3752.42,
+    "duration": 4.8,
+    "text": "to strategies and things like that. So when my CEO... Well, I had been the chief customer officer"
+  },
+  {
+    "start": 3757.22,
+    "duration": 5.36,
+    "text": "at Achievers for about 18 months. And my CEO was like, we've struggled with sales leadership. We've"
+  },
+  {
+    "start": 3762.58,
+    "duration": 5.28,
+    "text": "had a lot of revolving doors. We know we need to fix sales. So what do you think about being the"
+  },
+  {
+    "start": 3767.86,
+    "duration": 6.16,
+    "text": "CRO? My immediate thing was like, oh, but I've never been an AE. That seemed to be my own mental"
+  },
+  {
+    "start": 3774.02,
+    "duration": 5.44,
+    "text": "blocker as to why I couldn't be a CRO. And without missing a beat, he was like, but you know the"
+  },
+  {
+    "start": 3779.46,
+    "duration": 7.6,
+    "text": "customer experience better than anybody. And wouldn't that be beneficial to the sales team?"
+  },
+  {
+    "start": 3787.06,
+    "duration": 3.36,
+    "text": "And the more I thought about it that way, the more I was like, oh yeah, why would just having"
+  },
+  {
+    "start": 3790.42,
+    "duration": 5.76,
+    "text": "had experience being an AE make you a better CRO than somebody who kind of knew everything about"
+  },
+  {
+    "start": 3796.18,
+    "duration": 5.68,
+    "text": "the customer lifecycle? And so I think that was something I had not given enough credit to,"
+  },
+  {
+    "start": 3801.86,
+    "duration": 5.68,
+    "text": "and maybe other customer leaders out there are thinking the same. But if you know what the"
+  },
+  {
+    "start": 3807.54,
+    "duration": 6.24,
+    "text": "customer needs, and you can apply that to how you go to market, I think that's going to totally"
+  },
+  {
+    "start": 3813.78,
+    "duration": 7.28,
+    "text": "change the way you think about what success looks like or what great looks like from a CRO's"
+  },
+  {
+    "start": 3821.06,
+    "duration": 5.84,
+    "text": "measures of success or mission perspective. Yeah, it makes a ton of sense. I am very much"
+  },
+  {
+    "start": 3826.9,
+    "duration": 5.6,
+    "text": "of the mindset that these two functions need to live with one another. But the challenge is there's"
+  },
+  {
+    "start": 3832.5,
+    "duration": 7.6,
+    "text": "not enough leaders out there who can actually do it. There's not enough CROs or heads of revenue"
+  },
+  {
+    "start": 3840.74,
+    "duration": 7.52,
+    "text": "that can take off their sales hat and think enough about the customer and actually give up revenue,"
+  },
+  {
+    "start": 3848.82,
+    "duration": 3.6,
+    "text": "if it means setting better expectations, selling into a tighter ICP,"
+  },
+  {
+    "start": 3854.74,
+    "duration": 5.2,
+    "text": "being better about handoff mechanisms and spending money post-sales. It's this really"
+  },
+  {
+    "start": 3859.94,
+    "duration": 6.64,
+    "text": "tricky thing where the world is going, you need to think more and more holistically about the"
+  },
+  {
+    "start": 3866.58,
+    "duration": 6.08,
+    "text": "customer journey. Totally. And yet there's just like a dearth of people who can do it."
+  },
+  {
+    "start": 3873.54,
+    "duration": 6.88,
+    "text": "It's true. And I think though that it can be learned, like anyone can learn this. I also"
+  },
+  {
+    "start": 3880.42,
+    "duration": 5.36,
+    "text": "think that you were talking earlier about really having that operator mindset. I think that might"
+  },
+  {
+    "start": 3885.78,
+    "duration": 4.64,
+    "text": "be one of the ways that we could quickly help people pivot to see a bigger picture."
+  },
+  {
+    "start": 3891.54,
+    "duration": 5.6,
+    "text": "You're only accountable for bookings or for growing a revenue target, a new revenue target,"
+  },
+  {
+    "start": 3897.14,
+    "duration": 4.08,
+    "text": "whether that's coming from existing customers or net new logos. And that's something we should add"
+  },
+  {
+    "start": 3901.22,
+    "duration": 5.68,
+    "text": "to our part too, as well, because being responsible for both forces you to make some decisions on who"
+  },
+  {
+    "start": 3906.9,
+    "duration": 4.0,
+    "text": "should actually do the selling and things like that, which is a whole other episode."
+  },
+  {
+    "start": 3911.38,
+    "duration": 6.88,
+    "text": "But this idea that if I'm a CRO and I only have a bookings target, then I might"
+  },
+  {
+    "start": 3918.26,
+    "duration": 5.28,
+    "text": "make some trade-offs to just get the deal. But if I'm a CRO who also has a revenue retention target"
+  },
+  {
+    "start": 3924.18,
+    "duration": 6.56,
+    "text": "and I recognize that my company's success is going to be on the back of revenue retention because we"
+  },
+  {
+    "start": 3930.74,
+    "duration": 4.08,
+    "text": "need to grow and we can't grow the business if we don't retain the customers and the revenue"
+  },
+  {
+    "start": 3934.82,
+    "duration": 5.12,
+    "text": "associated with those customers, then I think I might be able to approach some of the decisions"
+  },
+  {
+    "start": 3939.94,
+    "duration": 5.52,
+    "text": "I need to make differently. Mm-hmm. I have the luxury in a high-velocity environment,"
+  },
+  {
+    "start": 3945.46,
+    "duration": 5.36,
+    "text": "I can get away with this, but my VP of sales and director of sales, like the AE director,"
+  },
+  {
+    "start": 3950.82,
+    "duration": 7.04,
+    "text": "are both paid not on close one business, but on launched MRR. Awesome. That's great because"
+  },
+  {
+    "start": 3957.86,
+    "duration": 5.2,
+    "text": "that's already one step beyond. Yeah. Yeah. I think paying them on retention is probably a"
+  },
+  {
+    "start": 3963.06,
+    "duration": 5.76,
+    "text": "step too far, but this at least ties the incentives much more closely. Our launch"
+  },
+  {
+    "start": 3968.82,
+    "duration": 8.08,
+    "text": "cycle's only two to three weeks, so it's workable, but the AEs are also paid not on"
+  },
+  {
+    "start": 3976.9,
+    "duration": 5.36,
+    "text": "close one, only on launch. But you're ensuring then that they're winning deals, the closing deals"
+  },
+  {
+    "start": 3982.9,
+    "duration": 5.84,
+    "text": "that really want to put the effort into implementation and that want to go live"
+  },
+  {
+    "start": 3988.74,
+    "duration": 4.88,
+    "text": "and that are the right fit for what your product functionality can do so they actually do go live."
+  },
+  {
+    "start": 3993.62,
+    "duration": 4.24,
+    "text": "And I think that's huge because the alternative is you pay people on close one revenue,"
+  },
+  {
+    "start": 3997.94,
+    "duration": 2.88,
+    "text": "the customer doesn't go live, and then not only do you have an unhappy customer-"
+  },
+  {
+    "start": 4000.82,
+    "duration": 2.96,
+    "text": "It doesn't matter. Yeah. And then you have to do a clawback,"
+  },
+  {
+    "start": 4003.78,
+    "duration": 5.36,
+    "text": "and that sucks for everyone. You thought you counted on a deal, like you as the AE or you as"
+  },
+  {
+    "start": 4009.14,
+    "duration": 5.04,
+    "text": "the CRO, counting towards your targets, and then suddenly you have a negative there. That-"
+  },
+  {
+    "start": 4014.18,
+    "duration": 1.84,
+    "text": "Yeah. ... feels terrible all around."
+  },
+  {
+    "start": 4016.9,
+    "duration": 4.64,
+    "text": "The AE has pre-spent the money half the time. Oh, yeah. I think sometimes they spend it before"
+  },
+  {
+    "start": 4021.54,
+    "duration": 2.8,
+    "text": "the contract is signed, but everyone's probably learned that lesson the hard way."
+  },
+  {
+    "start": 4025.14,
+    "duration": 4.72,
+    "text": "Yeah. Okay. Let's move to our very exciting lightning round."
+  },
+  {
+    "start": 4031.86,
+    "duration": 4.32,
+    "text": "What do you think separates a good CRO from a great one, like somebody who's truly exceptional?"
+  },
+  {
+    "start": 4038.02,
+    "duration": 4.96,
+    "text": "I think exceptional CROs do two things really well. One is that we talked about already is"
+  },
+  {
+    "start": 4042.98,
+    "duration": 4.48,
+    "text": "kind of they think big picture, and they're aligned to the ultimate long-term objectives"
+  },
+  {
+    "start": 4047.46,
+    "duration": 2.88,
+    "text": "of the company and not just the bookings target. Whether they are actually aligned"
+  },
+  {
+    "start": 4050.34,
+    "duration": 4.16,
+    "text": "to that compensation-wise, or they just fundamentally believe that as a stake,"
+  },
+  {
+    "start": 4054.5,
+    "duration": 4.8,
+    "text": "as a shareholder, and hopefully they're a shareholder in whatever format that looks like,"
+  },
+  {
+    "start": 4059.94,
+    "duration": 4.72,
+    "text": "that they really see that that long-term success is going to be the key to everyone's growth."
+  },
+  {
+    "start": 4065.62,
+    "duration": 3.6,
+    "text": "And they make decisions kind of on that as one of their guiding principles."
+  },
+  {
+    "start": 4069.22,
+    "duration": 3.36,
+    "text": "And then the second thing is, I think, like we talked about already about different altitudes,"
+  },
+  {
+    "start": 4072.58,
+    "duration": 5.2,
+    "text": "like being able to be, like, listening to a gong call and analyzing what a BDR might have"
+  },
+  {
+    "start": 4077.78,
+    "duration": 5.84,
+    "text": "been able to say differently to get the prospect to take the meeting versus not take the meeting."
+  },
+  {
+    "start": 4083.62,
+    "duration": 5.84,
+    "text": "And being in front of an investor committee, not even the board, but like the board's board"
+  },
+  {
+    "start": 4090.26,
+    "duration": 5.52,
+    "text": "presenting on an acquisition and a thesis behind that type of thing. I think being able to do both"
+  },
+  {
+    "start": 4095.78,
+    "duration": 6.72,
+    "text": "of those things really well makes sense. And for me to be able to do that, I think like a 2A to"
+  },
+  {
+    "start": 4102.5,
+    "duration": 5.6,
+    "text": "that comment, is building an amazing team around them. Because you can only, you know, be in so"
+  },
+  {
+    "start": 4108.1,
+    "duration": 5.04,
+    "text": "many places at once. You can only be doing so many things at once. And, you know, I fully recognize,"
+  },
+  {
+    "start": 4113.14,
+    "duration": 5.2,
+    "text": "and I knew this very early on in my leadership journey, that I was not going to be, I could"
+  },
+  {
+    "start": 4118.34,
+    "duration": 4.4,
+    "text": "never be the best at all the things that needed to be done. Like, again, when I'm going back to"
+  },
+  {
+    "start": 4123.86,
+    "duration": 5.92,
+    "text": "my first dipping my toe into the CRO water, thinking to myself, but I've never personally"
+  },
+  {
+    "start": 4129.78,
+    "duration": 5.68,
+    "text": "been an AE. I've carried a quota, but I've never been an AE. Or I've never made, I've never had to"
+  },
+  {
+    "start": 4135.46,
+    "duration": 4.96,
+    "text": "make 50 cold calls in a day. Like, what must that feel like? I haven't done those things."
+  },
+  {
+    "start": 4140.42,
+    "duration": 6.08,
+    "text": "Or I can't integrate Salesforce and HubSpot, full disclosure. All of these things. But I also knew"
+  },
+  {
+    "start": 4146.5,
+    "duration": 4.88,
+    "text": "that like, if I could find people and motivate and inspire people who like to do those things"
+  },
+  {
+    "start": 4151.38,
+    "duration": 4.16,
+    "text": "and like to lead those specific teams, then I wouldn't necessarily need to have to know how to"
+  },
+  {
+    "start": 4155.54,
+    "duration": 4.96,
+    "text": "do those things. Because if you think about like your CEO or my CEO, like my CEO hasn't been an"
+  },
+  {
+    "start": 4160.5,
+    "duration": 5.84,
+    "text": "accountant and a developer and an IT professional and a salesperson. Like, you know, as you get to"
+  },
+  {
+    "start": 4166.34,
+    "duration": 3.68,
+    "text": "a certain stage in your career, you won't have done all of the things, but you definitely need"
+  },
+  {
+    "start": 4170.02,
+    "duration": 4.4,
+    "text": "to know how to lead the teams who are doing those things and inspire and motivate them to do what"
+  },
+  {
+    "start": 4174.42,
+    "duration": 5.92,
+    "text": "they're really good at. And you need to be super comfortable with them shining and recognize that"
+  },
+  {
+    "start": 4180.34,
+    "duration": 4.8,
+    "text": "when they shine, you look good. I think there's too many people out there who are like, they think"
+  },
+  {
+    "start": 4185.14,
+    "duration": 5.52,
+    "text": "that they need to personally be the hero in every situation. And that's going to, you know,"
+  },
+  {
+    "start": 4191.86,
+    "duration": 4.4,
+    "text": "get in one's way of being able to truly be successful. But if you believe that their"
+  },
+  {
+    "start": 4196.26,
+    "duration": 5.36,
+    "text": "success is your success, then it's going to unlock a lot more capacity and a lot more potential."
+  },
+  {
+    "start": 4202.5,
+    "duration": 6.96,
+    "text": "Yeah. I think that's such a great point, you know, being able to rely on folks around you."
+  },
+  {
+    "start": 4209.46,
+    "duration": 7.36,
+    "text": "The challenge is, at what point are you abdicating your responsibility and not being the leader you"
+  },
+  {
+    "start": 4216.82,
+    "duration": 5.76,
+    "text": "need to help that individual? And the advice I have to give here is, you're the person who's"
+  },
+  {
+    "start": 4222.58,
+    "duration": 4.16,
+    "text": "supposed to try to pull things back to first principles, even if you've never run a BDR team"
+  },
+  {
+    "start": 4226.74,
+    "duration": 6.4,
+    "text": "or never run a CS team or never run onboarding. These were all new functions for us at some point."
+  },
+  {
+    "start": 4233.14,
+    "duration": 6.64,
+    "text": "But if you can be the person that helps that individual synthesize their granular knowledge"
+  },
+  {
+    "start": 4239.78,
+    "duration": 4.48,
+    "text": "of what's happening in that business with the bigger picture and push them on thinking through"
+  },
+  {
+    "start": 4244.26,
+    "duration": 4.96,
+    "text": "first principles, I think that's a good way to manage these teams where you might not have the"
+  },
+  {
+    "start": 4249.22,
+    "duration": 7.04,
+    "text": "depth. What is the most common advice that you find yourself giving to leaders, mentees,"
+  },
+  {
+    "start": 4256.34,
+    "duration": 2.64,
+    "text": "so people in the earlier innings of their leadership career?"
+  },
+  {
+    "start": 4260.26,
+    "duration": 8.24,
+    "text": "Yeah. My advice or kind of coaching conversations, we spend a lot of time thinking about,"
+  },
+  {
+    "start": 4268.5,
+    "duration": 3.92,
+    "text": "or I spend a lot of time talking to the team about how to be a force multiplier,"
+  },
+  {
+    "start": 4272.42,
+    "duration": 3.92,
+    "text": "and this kind of piggies backs on what we were just talking about, which is to say,"
+  },
+  {
+    "start": 4276.34,
+    "duration": 6.64,
+    "text": "we need to give people safe spaces to fail. And then that will help them build confidence."
+  },
+  {
+    "start": 4283.22,
+    "duration": 4.32,
+    "text": "If I, much like being a parent, if you save the day every time and you jump in every time,"
+  },
+  {
+    "start": 4287.54,
+    "duration": 6.88,
+    "text": "then how will this seller person learn how to do the hard things? And so trying to find,"
+  },
+  {
+    "start": 4294.42,
+    "duration": 4.96,
+    "text": "and then I get pushback like, oh, but we can't fail on this one because of all these very valid"
+  },
+  {
+    "start": 4299.38,
+    "duration": 5.44,
+    "text": "reasons. And so I want to encourage people to think about, well, where could we make space for"
+  },
+  {
+    "start": 4304.82,
+    "duration": 5.52,
+    "text": "this individual to spread their wings? And look, if they fail, it's going to be okay."
+  },
+  {
+    "start": 4310.34,
+    "duration": 6.88,
+    "text": "But what if they don't fail? What if they soar? What will that do for us from a building"
+  },
+  {
+    "start": 4317.22,
+    "duration": 4.32,
+    "text": "confidence and accelerating growth and revenue perspective?"
+  },
+  {
+    "start": 4322.82,
+    "duration": 3.92,
+    "text": "Nice. What's the hardest lesson you've had to learn in your career?"
+  },
+  {
+    "start": 4328.98,
+    "duration": 4.08,
+    "text": "So many hard lessons. You could have a whole podcast where everyone just talks about all"
+  },
+  {
+    "start": 4333.06,
+    "duration": 10.96,
+    "text": "the mistakes they've made. That would be fun. It probably took me longer than I wished it had"
+  },
+  {
+    "start": 4344.02,
+    "duration": 7.76,
+    "text": "to learn how to be really authentic as a female leader. So when I first became the VP of customer"
+  },
+  {
+    "start": 4351.78,
+    "duration": 7.6,
+    "text": "success, I had a CRO. I was reporting to a CRO who's an amazing man, has gone on to do so many"
+  },
+  {
+    "start": 4359.38,
+    "duration": 5.6,
+    "text": "wonderful things. And I used to be so scared to tell him that my son was sick and had to be"
+  },
+  {
+    "start": 4364.98,
+    "duration": 4.32,
+    "text": "picked up from daycare. And for anyone who's ever had kids in daycare, you know how hard it is to"
+  },
+  {
+    "start": 4371.22,
+    "duration": 4.16,
+    "text": "go into that conversation and say, they call you and they're like, you have to pick up your kid"
+  },
+  {
+    "start": 4375.38,
+    "duration": 3.6,
+    "text": "right away and they can't come back for 24 hours. And there's all these rules around it."
+  },
+  {
+    "start": 4378.98,
+    "duration": 5.76,
+    "text": "And I wouldn't want to say that because my team was all men and none of them had to go pick up"
+  },
+  {
+    "start": 4384.74,
+    "duration": 6.48,
+    "text": "their kids. But I was the one who felt compelled and my son really wanted me to be there as he was"
+  },
+  {
+    "start": 4391.22,
+    "duration": 6.64,
+    "text": "only a toddler. And so I hesitated. I would always kind of not be super honest about it and just try"
+  },
+  {
+    "start": 4397.86,
+    "duration": 3.68,
+    "text": "and figure out how to make it work. And one day I finally just was like, I can't make this meeting."
+  },
+  {
+    "start": 4401.54,
+    "duration": 4.4,
+    "text": "I have to do this. I have to go pick up my kid at daycare. And he was like, oh yeah, I remember when"
+  },
+  {
+    "start": 4405.94,
+    "duration": 5.44,
+    "text": "my boys were sick and it was such a hard time. They get sick every week when they're building."
+  },
+  {
+    "start": 4411.78,
+    "duration": 5.44,
+    "text": "He was so compassionate and understanding. And I wish I had just like dove into that earlier"
+  },
+  {
+    "start": 4417.22,
+    "duration": 6.64,
+    "text": "because it would have taken a lot of angst and anxiety off of me and probably made me a better"
+  },
+  {
+    "start": 4423.86,
+    "duration": 6.32,
+    "text": "leader at work, a better person at home. And that hard lesson to learn. But once we got there,"
+  },
+  {
+    "start": 4430.18,
+    "duration": 4.0,
+    "text": "I was like, and now with people, I'm just like, lean all the way into your authenticity. People"
+  },
+  {
+    "start": 4434.18,
+    "duration": 4.88,
+    "text": "talk about bringing your whole self to work. And I have a lot of expectations of my team,"
+  },
+  {
+    "start": 4439.06,
+    "duration": 5.2,
+    "text": "but I also recognize that we all have a whole life going on and you're going to be better at"
+  },
+  {
+    "start": 4444.26,
+    "duration": 5.12,
+    "text": "work if you can incorporate all the things in your life. I think about work-life integration,"
+  },
+  {
+    "start": 4449.38,
+    "duration": 7.44,
+    "text": "not work-life balance. Same here. Last question. What's the best thing you've read in the last 12"
+  },
+  {
+    "start": 4456.82,
+    "duration": 8.88,
+    "text": "months? Oh gosh. I read a lot of fiction because I use my brain way too often during the days, but"
+  },
+  {
+    "start": 4466.5,
+    "duration": 3.36,
+    "text": "probably the best business or maybe life book, I should say, it's not even a business book."
+  },
+  {
+    "start": 4470.5,
+    "duration": 4.32,
+    "text": "This might be cliche because it's so popular right now, is Mel Robbins' Let Them Theory."
+  },
+  {
+    "start": 4476.1,
+    "duration": 3.6,
+    "text": "We had Mel Robbins as a speaker at one of our customer conferences years ago,"
+  },
+  {
+    "start": 4479.7,
+    "duration": 7.12,
+    "text": "and she's been inspirational ever since. But this idea of just letting people be who they are,"
+  },
+  {
+    "start": 4486.82,
+    "duration": 5.28,
+    "text": "in sales especially, we talk a lot about controlling the controllables. And the things"
+  },
+  {
+    "start": 4492.1,
+    "duration": 3.76,
+    "text": "that are outside of your control, you just got to figure out how to let it go and focus"
+  },
+  {
+    "start": 4495.86,
+    "duration": 4.24,
+    "text": "on the things you can control. So her messaging really resonates with me right now."
+  },
+  {
+    "start": 4502.02,
+    "duration": 8.88,
+    "text": "That's awesome. Okay. We are up at time. We have another hour and a half long podcast to do on the"
+  },
+  {
+    "start": 4510.9,
+    "duration": 6.8,
+    "text": "CS side of the house at some point, but this was great. I think these are such interesting lessons"
+  },
+  {
+    "start": 4517.7,
+    "duration": 7.44,
+    "text": "to pull from place to place. I'm a big believer in range, like from David Epstein's book,"
+  },
+  {
+    "start": 4525.14,
+    "duration": 4.32,
+    "text": "and being able to pull mental models and ideas and patterns from different places. I think this"
+  },
+  {
+    "start": 4529.46,
+    "duration": 4.88,
+    "text": "is one of the things that has been a big source of my learning, like learning from product"
+  },
+  {
+    "start": 4534.34,
+    "duration": 8.72,
+    "text": "management and learning from things outside of SaaS and B2B. So I think this was a really great"
+  },
+  {
+    "start": 4543.06,
+    "duration": 5.12,
+    "text": "one and it's a cool look into a world that I've never been a part of. So I appreciate it. We're"
+  },
+  {
+    "start": 4548.18,
+    "duration": 5.12,
+    "text": "going to get you back for round two on CS. Great. Thank you so much for having me."
+  },
+  {
+    "start": 4559.06,
+    "duration": 3.68,
+    "text": "Thank you for listening to the Revenue Leadership Podcast. If you enjoyed it,"
+  },
+  {
+    "start": 4562.74,
+    "duration": 5.04,
+    "text": "don't forget to subscribe and you can find a link in the show notes. And be sure to leave"
+  },
+  {
+    "start": 4567.78,
+    "duration": 5.04,
+    "text": "a five-star review, share it with your network, and please join me next Wednesday for another"
+  },
+  {
+    "start": 4572.82,
+    "duration": 3.12,
+    "text": "great conversation."
+  }
+]

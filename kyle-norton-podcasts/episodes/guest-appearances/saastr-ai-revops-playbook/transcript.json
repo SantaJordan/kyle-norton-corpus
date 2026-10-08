@@ -1,0 +1,5052 @@
+[
+  {
+    "start": 0.0,
+    "duration": 1.96,
+    "text": "What the heck is a revenue operating system?"
+  },
+  {
+    "start": 1.96,
+    "duration": 1.44,
+    "text": "It's just sort of a term I made up"
+  },
+  {
+    "start": 3.4,
+    "duration": 3.28,
+    "text": "to conceptualize this system."
+  },
+  {
+    "start": 6.68,
+    "duration": 2.24,
+    "text": "A revenue operating system is the interface"
+  },
+  {
+    "start": 8.92,
+    "duration": 2.68,
+    "text": "between me as the user, the revenue leader,"
+  },
+  {
+    "start": 11.6,
+    "duration": 1.58,
+    "text": "or you as the founder,"
+  },
+  {
+    "start": 13.18,
+    "duration": 2.28,
+    "text": "and the resources and people around you"
+  },
+  {
+    "start": 15.46,
+    "duration": 3.34,
+    "text": "to get those resources to do what you want them to do,"
+  },
+  {
+    "start": 18.8,
+    "duration": 2.76,
+    "text": "which is grow revenue predictably"
+  },
+  {
+    "start": 21.56,
+    "duration": 2.16,
+    "text": "in a cost-effective manner over time."
+  },
+  {
+    "start": 23.72,
+    "duration": 1.8,
+    "text": "And so this is the system"
+  },
+  {
+    "start": 25.52,
+    "duration": 3.16,
+    "text": "by which you can engage with your organization."
+  },
+  {
+    "start": 28.68,
+    "duration": 1.14,
+    "text": "So you can think of it,"
+  },
+  {
+    "start": 29.82,
+    "duration": 2.02,
+    "text": "and an analogy I'll come back to,"
+  },
+  {
+    "start": 31.84,
+    "duration": 2.52,
+    "text": "this is like your Iron Man suit."
+  },
+  {
+    "start": 34.36,
+    "duration": 3.0,
+    "text": "These are the tools that you put around you"
+  },
+  {
+    "start": 37.36,
+    "duration": 1.48,
+    "text": "to give you superpowers,"
+  },
+  {
+    "start": 38.84,
+    "duration": 2.96,
+    "text": "to turn you from a normal mere human"
+  },
+  {
+    "start": 41.8,
+    "duration": 2.24,
+    "text": "into a revenue-generating machine."
+  },
+  {
+    "start": 45.2,
+    "duration": 3.48,
+    "text": "And the components that I'm gonna talk about today,"
+  },
+  {
+    "start": 48.68,
+    "duration": 1.6,
+    "text": "there's four big ones,"
+  },
+  {
+    "start": 50.28,
+    "duration": 3.88,
+    "text": "measuring, managing, planning, and communicating."
+  },
+  {
+    "start": 54.16,
+    "duration": 3.08,
+    "text": "Please welcome Kyle Norton, CRO at Owner.com."
+  },
+  {
+    "start": 57.24,
+    "duration": 1.22,
+    "text": "What's up, everybody?"
+  },
+  {
+    "start": 59.32,
+    "duration": 0.84,
+    "text": "Nice to meet y'all."
+  },
+  {
+    "start": 60.16,
+    "duration": 1.12,
+    "text": "My name is Kyle Norton."
+  },
+  {
+    "start": 61.28,
+    "duration": 2.52,
+    "text": "I am the CRO at Owner.com."
+  },
+  {
+    "start": 63.8,
+    "duration": 1.64,
+    "text": "And today we're gonna talk about"
+  },
+  {
+    "start": 65.44,
+    "duration": 2.16,
+    "text": "operating a revenue team with excellence."
+  },
+  {
+    "start": 67.6,
+    "duration": 1.6,
+    "text": "And so just before I dive in,"
+  },
+  {
+    "start": 69.2,
+    "duration": 2.08,
+    "text": "I'd love it if we could all give a big hand"
+  },
+  {
+    "start": 71.28,
+    "duration": 2.92,
+    "text": "to the folks at Sastr, organizers, volunteers, staff."
+  },
+  {
+    "start": 74.2,
+    "duration": 2.0,
+    "text": "It's been an awesome couple of days."
+  },
+  {
+    "start": 76.2,
+    "duration": 2.76,
+    "text": "All right, so we're gonna talk about operating today."
+  },
+  {
+    "start": 78.96,
+    "duration": 1.64,
+    "text": "A little bit about Owner."
+  },
+  {
+    "start": 80.6,
+    "duration": 4.92,
+    "text": "We are a vertical SaaS software company."
+  },
+  {
+    "start": 85.56,
+    "duration": 2.6,
+    "text": "You can think of us like HubSpot plus Shopify"
+  },
+  {
+    "start": 88.16,
+    "duration": 2.12,
+    "text": "for mom-and-pop restaurants."
+  },
+  {
+    "start": 90.28,
+    "duration": 1.12,
+    "text": "So the little pizza place"
+  },
+  {
+    "start": 91.4,
+    "duration": 1.44,
+    "text": "that you order from on Friday nights,"
+  },
+  {
+    "start": 92.84,
+    "duration": 2.9,
+    "text": "and we do everything that they need to succeed online."
+  },
+  {
+    "start": 97.72,
+    "duration": 1.52,
+    "text": "I've been in sales leadership,"
+  },
+  {
+    "start": 99.24,
+    "duration": 2.44,
+    "text": "sales and revenue leadership for about 15 years,"
+  },
+  {
+    "start": 101.68,
+    "duration": 2.04,
+    "text": "the last 10 in software."
+  },
+  {
+    "start": 103.72,
+    "duration": 2.08,
+    "text": "This is my second head of sales,"
+  },
+  {
+    "start": 105.8,
+    "duration": 2.48,
+    "text": "head of revenue gig at Owner."
+  },
+  {
+    "start": 108.28,
+    "duration": 1.32,
+    "text": "And previous to this,"
+  },
+  {
+    "start": 109.6,
+    "duration": 2.72,
+    "text": "I ran a quarter-billion-dollar business unit at Shopify"
+  },
+  {
+    "start": 112.32,
+    "duration": 2.52,
+    "text": "across sales, post-sales, partnerships,"
+  },
+  {
+    "start": 114.84,
+    "duration": 0.88,
+    "text": "a whole bunch of stuff."
+  },
+  {
+    "start": 115.72,
+    "duration": 1.76,
+    "text": "So that's where I'm coming from."
+  },
+  {
+    "start": 117.48,
+    "duration": 1.4,
+    "text": "Over the next 40 minutes,"
+  },
+  {
+    "start": 118.88,
+    "duration": 2.12,
+    "text": "I'm gonna give you my operating system."
+  },
+  {
+    "start": 121.0,
+    "duration": 3.56,
+    "text": "This is how I operate my team's day-to-day, week-to-week."
+  },
+  {
+    "start": 124.56,
+    "duration": 3.76,
+    "text": "And the intention is that you can build more predictability"
+  },
+  {
+    "start": 128.32,
+    "duration": 3.56,
+    "text": "in how you grow revenue, which we all want a lot."
+  },
+  {
+    "start": 132.92,
+    "duration": 1.44,
+    "text": "So in terms of an agenda,"
+  },
+  {
+    "start": 134.36,
+    "duration": 3.44,
+    "text": "we're gonna talk about defining what an operating system is."
+  },
+  {
+    "start": 137.8,
+    "duration": 1.9,
+    "text": "What is a revenue operating system?"
+  },
+  {
+    "start": 140.72,
+    "duration": 2.48,
+    "text": "We'll talk about why you need one, in my opinion."
+  },
+  {
+    "start": 143.2,
+    "duration": 1.44,
+    "text": "We'll get into some key principles"
+  },
+  {
+    "start": 145.44,
+    "duration": 1.72,
+    "text": "of how you can build this for your organization."
+  },
+  {
+    "start": 147.16,
+    "duration": 2.6,
+    "text": "And then I'm gonna break it down the core components"
+  },
+  {
+    "start": 149.76,
+    "duration": 2.2,
+    "text": "of this revenue operating system,"
+  },
+  {
+    "start": 151.96,
+    "duration": 2.12,
+    "text": "some tools and things you can start to implement"
+  },
+  {
+    "start": 154.08,
+    "duration": 1.56,
+    "text": "right away in your business,"
+  },
+  {
+    "start": 155.64,
+    "duration": 1.88,
+    "text": "and some keys to making it all work."
+  },
+  {
+    "start": 157.52,
+    "duration": 2.08,
+    "text": "Like, where do I get started?"
+  },
+  {
+    "start": 159.6,
+    "duration": 1.96,
+    "text": "So the first big question,"
+  },
+  {
+    "start": 161.56,
+    "duration": 2.08,
+    "text": "like what the heck is a revenue operating system?"
+  },
+  {
+    "start": 163.64,
+    "duration": 1.4,
+    "text": "It's just sort of a term I made up"
+  },
+  {
+    "start": 165.04,
+    "duration": 3.32,
+    "text": "to conceptualize this system."
+  },
+  {
+    "start": 168.36,
+    "duration": 3.36,
+    "text": "And this group knows well what a computer operating system is."
+  },
+  {
+    "start": 171.88,
+    "duration": 3.04,
+    "text": "It's the interface between a user, you,"
+  },
+  {
+    "start": 174.92,
+    "duration": 2.08,
+    "text": "and the software and hardware in your computer"
+  },
+  {
+    "start": 177.0,
+    "duration": 2.52,
+    "text": "to make it do the stuff you want it to do."
+  },
+  {
+    "start": 179.52,
+    "duration": 2.56,
+    "text": "And much like that, a revenue operating system"
+  },
+  {
+    "start": 182.08,
+    "duration": 2.52,
+    "text": "is the interface between me as the user,"
+  },
+  {
+    "start": 184.6,
+    "duration": 2.52,
+    "text": "the revenue leader, or you as the founder,"
+  },
+  {
+    "start": 187.12,
+    "duration": 2.28,
+    "text": "and the resources and people around you"
+  },
+  {
+    "start": 189.4,
+    "duration": 3.36,
+    "text": "to get those resources to do what you want it to do,"
+  },
+  {
+    "start": 192.76,
+    "duration": 2.76,
+    "text": "which is grow revenue predictably"
+  },
+  {
+    "start": 195.52,
+    "duration": 2.16,
+    "text": "in a cost-effective manner over time."
+  },
+  {
+    "start": 197.68,
+    "duration": 1.76,
+    "text": "And so this is the system"
+  },
+  {
+    "start": 199.44,
+    "duration": 3.16,
+    "text": "by which you can engage with your organization."
+  },
+  {
+    "start": 202.6,
+    "duration": 1.16,
+    "text": "So you can think of it,"
+  },
+  {
+    "start": 203.76,
+    "duration": 2.04,
+    "text": "and an analogy I'll come back to,"
+  },
+  {
+    "start": 205.8,
+    "duration": 2.48,
+    "text": "this is like your Iron Man suit."
+  },
+  {
+    "start": 208.28,
+    "duration": 3.0,
+    "text": "These are the tools that you put around you"
+  },
+  {
+    "start": 211.28,
+    "duration": 1.48,
+    "text": "to give you superpowers,"
+  },
+  {
+    "start": 212.76,
+    "duration": 2.96,
+    "text": "to turn you from a normal, mere human"
+  },
+  {
+    "start": 215.72,
+    "duration": 2.28,
+    "text": "into a revenue-generating machine."
+  },
+  {
+    "start": 219.12,
+    "duration": 3.48,
+    "text": "And the components that I'm going to talk about today,"
+  },
+  {
+    "start": 222.6,
+    "duration": 1.6,
+    "text": "there's four big ones,"
+  },
+  {
+    "start": 224.2,
+    "duration": 3.56,
+    "text": "measuring, managing, planning, and communicating."
+  },
+  {
+    "start": 227.76,
+    "duration": 2.12,
+    "text": "These are the four main pillars"
+  },
+  {
+    "start": 229.88,
+    "duration": 2.0,
+    "text": "of your revenue operating system."
+  },
+  {
+    "start": 231.88,
+    "duration": 2.56,
+    "text": "And when this is done right,"
+  },
+  {
+    "start": 234.44,
+    "duration": 3.8,
+    "text": "it's going to accelerate your ability to grow very rapidly."
+  },
+  {
+    "start": 238.24,
+    "duration": 1.72,
+    "text": "And we'll talk about how these things are structured"
+  },
+  {
+    "start": 239.96,
+    "duration": 1.08,
+    "text": "and interrelated,"
+  },
+  {
+    "start": 241.04,
+    "duration": 3.16,
+    "text": "so keep these four pillars in mind as we go through it."
+  },
+  {
+    "start": 244.2,
+    "duration": 2.84,
+    "text": "So just a quick bit of framing first,"
+  },
+  {
+    "start": 247.04,
+    "duration": 3.12,
+    "text": "like where does this fit into my company building stack?"
+  },
+  {
+    "start": 250.16,
+    "duration": 3.68,
+    "text": "So if you think about what are we trying to do as leaders,"
+  },
+  {
+    "start": 253.84,
+    "duration": 3.68,
+    "text": "both founders, executives, and revenue leaders,"
+  },
+  {
+    "start": 258.28,
+    "duration": 2.04,
+    "text": "you're trying to translate your company mission"
+  },
+  {
+    "start": 260.32,
+    "duration": 1.4,
+    "text": "into something tangible."
+  },
+  {
+    "start": 261.72,
+    "duration": 2.92,
+    "text": "And so this is how I think about company building."
+  },
+  {
+    "start": 264.64,
+    "duration": 2.4,
+    "text": "So you have your mission, you have your company values,"
+  },
+  {
+    "start": 267.04,
+    "duration": 2.8,
+    "text": "you translate those into a company vision"
+  },
+  {
+    "start": 269.84,
+    "duration": 3.68,
+    "text": "and specific team visions that you can act upon."
+  },
+  {
+    "start": 273.52,
+    "duration": 1.88,
+    "text": "That becomes more tactical"
+  },
+  {
+    "start": 275.4,
+    "duration": 3.64,
+    "text": "with a specific strategy by department,"
+  },
+  {
+    "start": 279.04,
+    "duration": 2.52,
+    "text": "the principles by which you operate,"
+  },
+  {
+    "start": 281.56,
+    "duration": 1.52,
+    "text": "and then your organizational design."
+  },
+  {
+    "start": 283.08,
+    "duration": 1.76,
+    "text": "This is who is in what seats,"
+  },
+  {
+    "start": 284.84,
+    "duration": 1.2,
+    "text": "what is the shape of your org,"
+  },
+  {
+    "start": 286.04,
+    "duration": 1.72,
+    "text": "what resources do you need?"
+  },
+  {
+    "start": 287.76,
+    "duration": 2.36,
+    "text": "And then finally, this is where your operating system,"
+  },
+  {
+    "start": 290.12,
+    "duration": 1.16,
+    "text": "how do you get those resources"
+  },
+  {
+    "start": 291.28,
+    "duration": 1.96,
+    "text": "to do the things that you want it to do"
+  },
+  {
+    "start": 293.24,
+    "duration": 1.7,
+    "text": "in a predictable manner?"
+  },
+  {
+    "start": 295.84,
+    "duration": 2.16,
+    "text": "And then finally, under your operating system,"
+  },
+  {
+    "start": 298.0,
+    "duration": 1.92,
+    "text": "you're going to build the tools and playbooks"
+  },
+  {
+    "start": 299.92,
+    "duration": 2.48,
+    "text": "and guides and training that your team needs."
+  },
+  {
+    "start": 302.4,
+    "duration": 1.44,
+    "text": "And so this is the layer of the stack"
+  },
+  {
+    "start": 303.84,
+    "duration": 1.28,
+    "text": "that I'm going to spend time on today,"
+  },
+  {
+    "start": 305.12,
+    "duration": 1.56,
+    "text": "this operating system,"
+  },
+  {
+    "start": 306.68,
+    "duration": 2.92,
+    "text": "which is arguably one of the most critical things"
+  },
+  {
+    "start": 309.6,
+    "duration": 2.32,
+    "text": "you need to be able to win in your market."
+  },
+  {
+    "start": 313.28,
+    "duration": 2.28,
+    "text": "So why do we need this thing?"
+  },
+  {
+    "start": 316.04,
+    "duration": 3.24,
+    "text": "Because I know what a lot of you guys are thinking."
+  },
+  {
+    "start": 319.28,
+    "duration": 1.04,
+    "text": "Doesn't sound very exciting."
+  },
+  {
+    "start": 320.32,
+    "duration": 1.32,
+    "text": "This sounds pretty bland."
+  },
+  {
+    "start": 321.64,
+    "duration": 3.16,
+    "text": "Kyle, you sound like the business school douchebag"
+  },
+  {
+    "start": 324.8,
+    "duration": 2.6,
+    "text": "that Paul Graham told me to be wary of,"
+  },
+  {
+    "start": 327.4,
+    "duration": 3.0,
+    "text": "and this doesn't sound like founder mode."
+  },
+  {
+    "start": 330.4,
+    "duration": 0.92,
+    "text": "Au contraire."
+  },
+  {
+    "start": 332.44,
+    "duration": 2.0,
+    "text": "This revenue operating system"
+  },
+  {
+    "start": 334.44,
+    "duration": 4.52,
+    "text": "is designed to help you turn the complete chaos,"
+  },
+  {
+    "start": 338.96,
+    "duration": 2.12,
+    "text": "which building a startup is,"
+  },
+  {
+    "start": 341.08,
+    "duration": 2.8,
+    "text": "into something that is much more orderly."
+  },
+  {
+    "start": 343.88,
+    "duration": 2.88,
+    "text": "And so it's useful to frame,"
+  },
+  {
+    "start": 346.76,
+    "duration": 0.84,
+    "text": "like what does it feel like"
+  },
+  {
+    "start": 347.6,
+    "duration": 2.48,
+    "text": "when we don't have a system to do these things?"
+  },
+  {
+    "start": 350.08,
+    "duration": 2.16,
+    "text": "When we've hired a bunch of reps and we're scaling"
+  },
+  {
+    "start": 352.24,
+    "duration": 3.52,
+    "text": "and there's some productive things happening,"
+  },
+  {
+    "start": 355.76,
+    "duration": 2.68,
+    "text": "but you don't have a very good system in place."
+  },
+  {
+    "start": 358.44,
+    "duration": 2.6,
+    "text": "I call it being in the vortex."
+  },
+  {
+    "start": 361.04,
+    "duration": 1.6,
+    "text": "Things are just happening around you."
+  },
+  {
+    "start": 362.64,
+    "duration": 2.68,
+    "text": "You're constantly getting surprised by things."
+  },
+  {
+    "start": 365.32,
+    "duration": 2.6,
+    "text": "It feels like a new fire crops up every single day,"
+  },
+  {
+    "start": 367.92,
+    "duration": 1.16,
+    "text": "every single week,"
+  },
+  {
+    "start": 369.08,
+    "duration": 3.44,
+    "text": "because there's no control happening around you."
+  },
+  {
+    "start": 372.52,
+    "duration": 1.96,
+    "text": "You don't have a way to systematically"
+  },
+  {
+    "start": 374.48,
+    "duration": 2.16,
+    "text": "move your organization forward,"
+  },
+  {
+    "start": 376.64,
+    "duration": 2.4,
+    "text": "and we say that being in the vortex."
+  },
+  {
+    "start": 379.04,
+    "duration": 1.68,
+    "text": "You're just being spun around in circles,"
+  },
+  {
+    "start": 380.72,
+    "duration": 1.64,
+    "text": "and I'm sure everybody in this room"
+  },
+  {
+    "start": 382.36,
+    "duration": 2.8,
+    "text": "has been there at one point in their career."
+  },
+  {
+    "start": 385.16,
+    "duration": 1.96,
+    "text": "And this revenue operating system"
+  },
+  {
+    "start": 387.12,
+    "duration": 4.28,
+    "text": "is meant to bring some order to that chaos."
+  },
+  {
+    "start": 391.4,
+    "duration": 1.2,
+    "text": "We'll never get rid of that chaos."
+  },
+  {
+    "start": 392.6,
+    "duration": 1.76,
+    "text": "That's, I think, why we do what we do,"
+  },
+  {
+    "start": 394.36,
+    "duration": 2.52,
+    "text": "but this is about bringing some order."
+  },
+  {
+    "start": 396.88,
+    "duration": 1.64,
+    "text": "And one of the key components here"
+  },
+  {
+    "start": 398.52,
+    "duration": 3.6,
+    "text": "is about being able to see things before it's too late."
+  },
+  {
+    "start": 402.76,
+    "duration": 1.48,
+    "text": "And to give you a couple tangible examples,"
+  },
+  {
+    "start": 404.24,
+    "duration": 2.32,
+    "text": "this is about seeing win rates slipping"
+  },
+  {
+    "start": 406.56,
+    "duration": 2.52,
+    "text": "in a team or a segment or a channel,"
+  },
+  {
+    "start": 409.08,
+    "duration": 1.88,
+    "text": "and not seeing that fast enough,"
+  },
+  {
+    "start": 410.96,
+    "duration": 1.84,
+    "text": "and all of a sudden six weeks has gone by,"
+  },
+  {
+    "start": 412.8,
+    "duration": 2.84,
+    "text": "and your inbound win rates have slipped 9%,"
+  },
+  {
+    "start": 415.64,
+    "duration": 1.36,
+    "text": "and you're about to miss your number."
+  },
+  {
+    "start": 417.0,
+    "duration": 2.0,
+    "text": "Well, you didn't have a system or a rhythm in place"
+  },
+  {
+    "start": 419.0,
+    "duration": 1.36,
+    "text": "to catch that in time,"
+  },
+  {
+    "start": 420.36,
+    "duration": 1.96,
+    "text": "or you don't have enough head count in place"
+  },
+  {
+    "start": 422.32,
+    "duration": 1.32,
+    "text": "to hit your next quarter,"
+  },
+  {
+    "start": 423.64,
+    "duration": 1.56,
+    "text": "and you go, oh, my growth model tells me"
+  },
+  {
+    "start": 425.2,
+    "duration": 1.88,
+    "text": "I need 12 ramped reps."
+  },
+  {
+    "start": 427.08,
+    "duration": 2.44,
+    "text": "I have six, and I can't hire and ramp"
+  },
+  {
+    "start": 429.52,
+    "duration": 2.16,
+    "text": "and get people to productivity in time"
+  },
+  {
+    "start": 431.68,
+    "duration": 1.52,
+    "text": "to meet the model."
+  },
+  {
+    "start": 433.2,
+    "duration": 1.12,
+    "text": "You're in the vortex."
+  },
+  {
+    "start": 434.32,
+    "duration": 2.72,
+    "text": "That's you being in the vortex."
+  },
+  {
+    "start": 437.04,
+    "duration": 2.88,
+    "text": "And so this system is designed"
+  },
+  {
+    "start": 439.92,
+    "duration": 2.88,
+    "text": "to help you control some of that."
+  },
+  {
+    "start": 442.8,
+    "duration": 1.96,
+    "text": "So let's talk about some key principles."
+  },
+  {
+    "start": 444.76,
+    "duration": 2.72,
+    "text": "These are important framing concepts"
+  },
+  {
+    "start": 447.48,
+    "duration": 2.08,
+    "text": "as you build the components,"
+  },
+  {
+    "start": 449.56,
+    "duration": 2.12,
+    "text": "measuring, managing, planning, communicating."
+  },
+  {
+    "start": 451.68,
+    "duration": 4.0,
+    "text": "So it's about using the minimum effective dosage,"
+  },
+  {
+    "start": 455.68,
+    "duration": 3.48,
+    "text": "about measuring the stuff you want to manage,"
+  },
+  {
+    "start": 459.16,
+    "duration": 3.16,
+    "text": "and matching the system to the state of your business,"
+  },
+  {
+    "start": 462.32,
+    "duration": 2.96,
+    "text": "the maturity, the market, all of that."
+  },
+  {
+    "start": 465.28,
+    "duration": 2.24,
+    "text": "So let's get into the key principle number one."
+  },
+  {
+    "start": 467.52,
+    "duration": 1.44,
+    "text": "So minimum effective dosage."
+  },
+  {
+    "start": 468.96,
+    "duration": 1.4,
+    "text": "This is one of the most critical things"
+  },
+  {
+    "start": 470.36,
+    "duration": 2.0,
+    "text": "because it's really, really easy"
+  },
+  {
+    "start": 472.36,
+    "duration": 1.76,
+    "text": "to over-engineer this stuff."
+  },
+  {
+    "start": 474.12,
+    "duration": 1.12,
+    "text": "You're going to hear my talk."
+  },
+  {
+    "start": 475.24,
+    "duration": 2.2,
+    "text": "I'm going to give you all my templates and assets,"
+  },
+  {
+    "start": 477.44,
+    "duration": 1.56,
+    "text": "and it's going to be really exciting,"
+  },
+  {
+    "start": 479.0,
+    "duration": 2.68,
+    "text": "and you're going to cram a bunch of it into your org,"
+  },
+  {
+    "start": 481.68,
+    "duration": 0.92,
+    "text": "and it's not going to help,"
+  },
+  {
+    "start": 482.6,
+    "duration": 1.96,
+    "text": "and it's going to make a bunch of work."
+  },
+  {
+    "start": 484.56,
+    "duration": 2.4,
+    "text": "It's really easy to over-engineer this stuff"
+  },
+  {
+    "start": 486.96,
+    "duration": 2.08,
+    "text": "and then end up spending more time"
+  },
+  {
+    "start": 489.04,
+    "duration": 1.24,
+    "text": "talking about the business"
+  },
+  {
+    "start": 490.28,
+    "duration": 1.76,
+    "text": "than actually building the business."
+  },
+  {
+    "start": 492.04,
+    "duration": 2.44,
+    "text": "This is what we want to avoid"
+  },
+  {
+    "start": 494.48,
+    "duration": 2.2,
+    "text": "because every single rhythm that you introduce,"
+  },
+  {
+    "start": 496.68,
+    "duration": 2.28,
+    "text": "every update, every team meeting,"
+  },
+  {
+    "start": 498.96,
+    "duration": 2.96,
+    "text": "every project connect, has a cost."
+  },
+  {
+    "start": 501.92,
+    "duration": 1.36,
+    "text": "It has a time cost,"
+  },
+  {
+    "start": 503.28,
+    "duration": 2.56,
+    "text": "and more importantly, it has a cognitive load cost."
+  },
+  {
+    "start": 505.84,
+    "duration": 2.4,
+    "text": "It's difficult to balance all of these things"
+  },
+  {
+    "start": 508.24,
+    "duration": 1.84,
+    "text": "while we're also trying to build a business."
+  },
+  {
+    "start": 510.08,
+    "duration": 4.52,
+    "text": "So use the least number of things I give you today"
+  },
+  {
+    "start": 514.6,
+    "duration": 2.32,
+    "text": "to move the business forward in a tangible manner."
+  },
+  {
+    "start": 517.68,
+    "duration": 1.2,
+    "text": "Minimum effective dosage."
+  },
+  {
+    "start": 518.88,
+    "duration": 1.08,
+    "text": "And also build things"
+  },
+  {
+    "start": 519.96,
+    "duration": 2.44,
+    "text": "that are legitimately helpful for your team"
+  },
+  {
+    "start": 522.4,
+    "duration": 3.0,
+    "text": "because one of the things you're going to take away from this"
+  },
+  {
+    "start": 525.4,
+    "duration": 3.0,
+    "text": "is these tools are really helpful for me as a leader."
+  },
+  {
+    "start": 528.4,
+    "duration": 0.84,
+    "text": "That's exciting."
+  },
+  {
+    "start": 529.24,
+    "duration": 0.84,
+    "text": "That's great."
+  },
+  {
+    "start": 530.08,
+    "duration": 0.88,
+    "text": "I understand the business,"
+  },
+  {
+    "start": 530.96,
+    "duration": 1.84,
+    "text": "but we also need to make sure"
+  },
+  {
+    "start": 532.8,
+    "duration": 1.96,
+    "text": "that the tools we're building"
+  },
+  {
+    "start": 534.76,
+    "duration": 2.56,
+    "text": "are not an encumbrance on our teams,"
+  },
+  {
+    "start": 537.32,
+    "duration": 1.96,
+    "text": "our individual contributors, our managers,"
+  },
+  {
+    "start": 539.28,
+    "duration": 2.76,
+    "text": "and so we want to try to build and design these rhythms"
+  },
+  {
+    "start": 542.04,
+    "duration": 2.4,
+    "text": "in a way that is also helpful"
+  },
+  {
+    "start": 544.44,
+    "duration": 1.36,
+    "text": "for the individual contributor"
+  },
+  {
+    "start": 545.8,
+    "duration": 1.96,
+    "text": "and helpful for the people on the ground,"
+  },
+  {
+    "start": 547.76,
+    "duration": 1.48,
+    "text": "not just helpful for us."
+  },
+  {
+    "start": 549.24,
+    "duration": 2.0,
+    "text": "So minimum effective dosage."
+  },
+  {
+    "start": 552.16,
+    "duration": 2.04,
+    "text": "The next key principle here"
+  },
+  {
+    "start": 554.2,
+    "duration": 2.4,
+    "text": "is we need to measure what we actually want managed."
+  },
+  {
+    "start": 556.6,
+    "duration": 3.64,
+    "text": "We want to measure the things that we're trying to move."
+  },
+  {
+    "start": 560.24,
+    "duration": 2.96,
+    "text": "And so we, of course, we want to know the output metrics."
+  },
+  {
+    "start": 563.2,
+    "duration": 1.88,
+    "text": "What is the top line revenue growth?"
+  },
+  {
+    "start": 565.08,
+    "duration": 1.64,
+    "text": "What's the close one number?"
+  },
+  {
+    "start": 566.72,
+    "duration": 2.4,
+    "text": "That's important, but you can't manage that."
+  },
+  {
+    "start": 569.12,
+    "duration": 2.72,
+    "text": "I can't manage day-to-day deals closing."
+  },
+  {
+    "start": 571.84,
+    "duration": 3.84,
+    "text": "I can only manage the inputs of my team"
+  },
+  {
+    "start": 576.56,
+    "duration": 1.08,
+    "text": "and that's where I want to spend time."
+  },
+  {
+    "start": 577.64,
+    "duration": 1.36,
+    "text": "So what do I need to know today"
+  },
+  {
+    "start": 579.0,
+    "duration": 2.72,
+    "text": "that is going to tell me I'm going to have a problem tomorrow"
+  },
+  {
+    "start": 581.72,
+    "duration": 3.48,
+    "text": "and what are the specific behaviors that I need to shape"
+  },
+  {
+    "start": 585.2,
+    "duration": 2.96,
+    "text": "in order to translate my strategy and plans"
+  },
+  {
+    "start": 588.16,
+    "duration": 2.0,
+    "text": "into real outcomes?"
+  },
+  {
+    "start": 590.16,
+    "duration": 4.04,
+    "text": "So focus your measurement on behaviors, inputs,"
+  },
+  {
+    "start": 594.2,
+    "duration": 2.64,
+    "text": "as well as your output metrics,"
+  },
+  {
+    "start": 596.84,
+    "duration": 2.0,
+    "text": "and then offer that visibility to your team."
+  },
+  {
+    "start": 598.84,
+    "duration": 1.0,
+    "text": "And I'm going to talk about the difference"
+  },
+  {
+    "start": 599.84,
+    "duration": 2.2,
+    "text": "between dashboards and scoreboards,"
+  },
+  {
+    "start": 602.04,
+    "duration": 1.4,
+    "text": "so we'll come back to that."
+  },
+  {
+    "start": 603.44,
+    "duration": 4.04,
+    "text": "The last thing here is don't measure way too many things."
+  },
+  {
+    "start": 607.48,
+    "duration": 2.76,
+    "text": "We want to measure the stuff that's most critical to manage,"
+  },
+  {
+    "start": 610.24,
+    "duration": 1.52,
+    "text": "most critical to move."
+  },
+  {
+    "start": 611.76,
+    "duration": 2.44,
+    "text": "So measure those things and just be diligent."
+  },
+  {
+    "start": 614.2,
+    "duration": 2.12,
+    "text": "Again, every rhythm has a cost."
+  },
+  {
+    "start": 616.32,
+    "duration": 2.6,
+    "text": "So be diligent about what we're trying to measure"
+  },
+  {
+    "start": 618.92,
+    "duration": 2.8,
+    "text": "and manage too, because again, cognitive load,"
+  },
+  {
+    "start": 621.72,
+    "duration": 5.0,
+    "text": "people can only remember and do so much with so many things."
+  },
+  {
+    "start": 627.16,
+    "duration": 2.28,
+    "text": "All right, our third key principle here,"
+  },
+  {
+    "start": 629.44,
+    "duration": 4.0,
+    "text": "match the state of your, the operating system"
+  },
+  {
+    "start": 633.44,
+    "duration": 1.72,
+    "text": "to the state of your business."
+  },
+  {
+    "start": 635.16,
+    "duration": 1.0,
+    "text": "We're SMB."
+  },
+  {
+    "start": 636.16,
+    "duration": 3.32,
+    "text": "We have a four-day sales cycle, highly transactional."
+  },
+  {
+    "start": 639.48,
+    "duration": 1.68,
+    "text": "We sell to mom and pops."
+  },
+  {
+    "start": 641.16,
+    "duration": 3.24,
+    "text": "What I've designed for our business may not match"
+  },
+  {
+    "start": 644.4,
+    "duration": 2.28,
+    "text": "if you're trying to sell to the biggest companies"
+  },
+  {
+    "start": 646.68,
+    "duration": 3.04,
+    "text": "in the world and you've got a 12 to 18 month sales cycle."
+  },
+  {
+    "start": 650.56,
+    "duration": 1.56,
+    "text": "We are a series B business."
+  },
+  {
+    "start": 652.12,
+    "duration": 2.12,
+    "text": "My team's about a hundred people."
+  },
+  {
+    "start": 654.24,
+    "duration": 2.56,
+    "text": "That may be way smaller than your team"
+  },
+  {
+    "start": 656.8,
+    "duration": 1.12,
+    "text": "or way bigger than your team."
+  },
+  {
+    "start": 657.92,
+    "duration": 2.0,
+    "text": "And so you're going to have to adapt what you hear today."
+  },
+  {
+    "start": 659.92,
+    "duration": 2.44,
+    "text": "And I'm going to talk about what we built first"
+  },
+  {
+    "start": 662.36,
+    "duration": 2.68,
+    "text": "and try to give you some starting points,"
+  },
+  {
+    "start": 665.04,
+    "duration": 3.08,
+    "text": "but take what I share and make it work"
+  },
+  {
+    "start": 668.12,
+    "duration": 2.24,
+    "text": "for the maturity and stage of your business."
+  },
+  {
+    "start": 670.36,
+    "duration": 1.96,
+    "text": "There's no silver bullet here."
+  },
+  {
+    "start": 673.2,
+    "duration": 1.68,
+    "text": "The other thing that's important to understand here"
+  },
+  {
+    "start": 674.88,
+    "duration": 1.8,
+    "text": "is not only will your system evolve,"
+  },
+  {
+    "start": 676.68,
+    "duration": 2.44,
+    "text": "but how you are involved with that system"
+  },
+  {
+    "start": 679.12,
+    "duration": 1.24,
+    "text": "will change over time."
+  },
+  {
+    "start": 680.36,
+    "duration": 2.4,
+    "text": "As the founder, as the revenue leader,"
+  },
+  {
+    "start": 683.64,
+    "duration": 2.32,
+    "text": "as the founder, you're sales rep number one,"
+  },
+  {
+    "start": 685.96,
+    "duration": 1.32,
+    "text": "you're sales manager number one,"
+  },
+  {
+    "start": 687.28,
+    "duration": 1.48,
+    "text": "you're VP of sales number one."
+  },
+  {
+    "start": 688.76,
+    "duration": 1.96,
+    "text": "And then eventually you hire somebody for that."
+  },
+  {
+    "start": 690.72,
+    "duration": 2.72,
+    "text": "And then the VP of sales is now filling in as the manager."
+  },
+  {
+    "start": 693.44,
+    "duration": 2.92,
+    "text": "And so the rhythms that they operate by"
+  },
+  {
+    "start": 696.36,
+    "duration": 2.6,
+    "text": "will be very frontline facing rhythms."
+  },
+  {
+    "start": 698.96,
+    "duration": 1.96,
+    "text": "And then eventually as you grow your team"
+  },
+  {
+    "start": 700.92,
+    "duration": 4.04,
+    "text": "and you have more second line leadership in place,"
+  },
+  {
+    "start": 704.96,
+    "duration": 2.2,
+    "text": "you can get involved in different levels"
+  },
+  {
+    "start": 707.16,
+    "duration": 1.6,
+    "text": "of abstraction of those rhythms."
+  },
+  {
+    "start": 708.76,
+    "duration": 1.68,
+    "text": "So the system will change and how you engage"
+  },
+  {
+    "start": 710.44,
+    "duration": 1.76,
+    "text": "in that system will change over time."
+  },
+  {
+    "start": 712.2,
+    "duration": 2.72,
+    "text": "So these are the three key build principles,"
+  },
+  {
+    "start": 714.92,
+    "duration": 1.72,
+    "text": "minimum effective dosage,"
+  },
+  {
+    "start": 716.64,
+    "duration": 1.4,
+    "text": "matching the state of your business"
+  },
+  {
+    "start": 718.04,
+    "duration": 1.76,
+    "text": "and measuring what you want to manage."
+  },
+  {
+    "start": 719.8,
+    "duration": 2.4,
+    "text": "These are your important swing thoughts."
+  },
+  {
+    "start": 722.2,
+    "duration": 2.32,
+    "text": "Okay, let's get into what the heck this thing actually is."
+  },
+  {
+    "start": 724.52,
+    "duration": 1.44,
+    "text": "So the core components,"
+  },
+  {
+    "start": 725.96,
+    "duration": 3.64,
+    "text": "measuring, managing, planning, communicating."
+  },
+  {
+    "start": 729.6,
+    "duration": 3.4,
+    "text": "So the first pillar here is your measurement rhythm."
+  },
+  {
+    "start": 733.0,
+    "duration": 2.92,
+    "text": "And so we'll go back to our Ironman analogy."
+  },
+  {
+    "start": 735.92,
+    "duration": 1.36,
+    "text": "This is your heads up display."
+  },
+  {
+    "start": 737.28,
+    "duration": 2.52,
+    "text": "This is how you understand what's happening in your business"
+  },
+  {
+    "start": 739.8,
+    "duration": 2.84,
+    "text": "at any given time at the snap of your fingers."
+  },
+  {
+    "start": 742.64,
+    "duration": 1.16,
+    "text": "This should be quite easy."
+  },
+  {
+    "start": 743.8,
+    "duration": 2.32,
+    "text": "You shouldn't need biz ops or data"
+  },
+  {
+    "start": 746.12,
+    "duration": 2.64,
+    "text": "to request to understand what's happening."
+  },
+  {
+    "start": 748.76,
+    "duration": 4.04,
+    "text": "This is the set of rules and rhythms and tools"
+  },
+  {
+    "start": 752.8,
+    "duration": 3.48,
+    "text": "that you put around you to understand what's happening."
+  },
+  {
+    "start": 756.28,
+    "duration": 2.68,
+    "text": "And so it's the tools and it's the cadence."
+  },
+  {
+    "start": 758.96,
+    "duration": 2.12,
+    "text": "When am I reviewing this information"
+  },
+  {
+    "start": 761.08,
+    "duration": 2.16,
+    "text": "and what am I doing with it?"
+  },
+  {
+    "start": 763.24,
+    "duration": 4.68,
+    "text": "And this is how I know what next I need to go manage,"
+  },
+  {
+    "start": 767.92,
+    "duration": 3.12,
+    "text": "what I need to shape in terms of the business."
+  },
+  {
+    "start": 771.04,
+    "duration": 1.32,
+    "text": "And so here's some critical tools."
+  },
+  {
+    "start": 772.36,
+    "duration": 2.56,
+    "text": "These are the basics that you can go get started with."
+  },
+  {
+    "start": 774.92,
+    "duration": 2.32,
+    "text": "So number one is control towers."
+  },
+  {
+    "start": 777.24,
+    "duration": 3.56,
+    "text": "So there's a laddering of control towers."
+  },
+  {
+    "start": 780.8,
+    "duration": 2.2,
+    "text": "The top one is your executive control tower."
+  },
+  {
+    "start": 783.0,
+    "duration": 4.28,
+    "text": "Revenue growth, runway, all of your CS metrics."
+  },
+  {
+    "start": 787.28,
+    "duration": 1.98,
+    "text": "These are the highest level metrics"
+  },
+  {
+    "start": 789.26,
+    "duration": 3.02,
+    "text": "that you need to understand as leaders in your business."
+  },
+  {
+    "start": 792.28,
+    "duration": 1.84,
+    "text": "And then you've got functional dashboards,"
+  },
+  {
+    "start": 794.12,
+    "duration": 2.72,
+    "text": "functional control towers for your sales function,"
+  },
+  {
+    "start": 796.84,
+    "duration": 1.56,
+    "text": "for your launch function, for CS,"
+  },
+  {
+    "start": 798.4,
+    "duration": 2.46,
+    "text": "and then manager dashboards."
+  },
+  {
+    "start": 800.86,
+    "duration": 1.4,
+    "text": "So each manager can understand"
+  },
+  {
+    "start": 802.26,
+    "duration": 2.76,
+    "text": "their specific part of that puzzle."
+  },
+  {
+    "start": 806.34,
+    "duration": 3.2,
+    "text": "The other side of that coin of dashboards is scoreboards."
+  },
+  {
+    "start": 809.54,
+    "duration": 2.2,
+    "text": "So this is what faces the rep."
+  },
+  {
+    "start": 811.74,
+    "duration": 3.24,
+    "text": "And what faces the rep is telling them,"
+  },
+  {
+    "start": 814.98,
+    "duration": 1.72,
+    "text": "are they doing well or are they not doing well?"
+  },
+  {
+    "start": 816.7,
+    "duration": 1.64,
+    "text": "Why or why aren't they?"
+  },
+  {
+    "start": 818.34,
+    "duration": 2.8,
+    "text": "Are they on track to get to the outcomes that they want"
+  },
+  {
+    "start": 821.14,
+    "duration": 1.38,
+    "text": "and then the business needs?"
+  },
+  {
+    "start": 822.52,
+    "duration": 2.18,
+    "text": "And so just as much as we have control towers"
+  },
+  {
+    "start": 824.7,
+    "duration": 2.34,
+    "text": "for us as leaders to understand the business,"
+  },
+  {
+    "start": 827.04,
+    "duration": 2.74,
+    "text": "we need to equip our individual contributors,"
+  },
+  {
+    "start": 829.78,
+    "duration": 3.96,
+    "text": "our frontline teams, with a similar level of understanding"
+  },
+  {
+    "start": 833.74,
+    "duration": 2.08,
+    "text": "but framed a little bit differently."
+  },
+  {
+    "start": 835.82,
+    "duration": 3.02,
+    "text": "Stack ranks and pacing, all that stuff's in here."
+  },
+  {
+    "start": 840.16,
+    "duration": 2.34,
+    "text": "The next important measurement tool"
+  },
+  {
+    "start": 842.5,
+    "duration": 3.08,
+    "text": "is a rhythm to review these metrics"
+  },
+  {
+    "start": 845.58,
+    "duration": 1.12,
+    "text": "and do something about it."
+  },
+  {
+    "start": 846.7,
+    "duration": 1.6,
+    "text": "So we run a monthly business review."
+  },
+  {
+    "start": 848.3,
+    "duration": 2.28,
+    "text": "You can run a quarterly version of it."
+  },
+  {
+    "start": 850.58,
+    "duration": 3.12,
+    "text": "Depends on the scale and segmentation."
+  },
+  {
+    "start": 853.7,
+    "duration": 1.78,
+    "text": "But your monthly business review"
+  },
+  {
+    "start": 855.48,
+    "duration": 2.7,
+    "text": "is a place to stop and take stock,"
+  },
+  {
+    "start": 858.18,
+    "duration": 1.72,
+    "text": "where everybody stops what they're doing"
+  },
+  {
+    "start": 859.9,
+    "duration": 2.52,
+    "text": "and for one day you spend half a day"
+  },
+  {
+    "start": 862.42,
+    "duration": 2.08,
+    "text": "or some set of hours in inspecting"
+  },
+  {
+    "start": 864.5,
+    "duration": 2.0,
+    "text": "all these metrics soup to nuts."
+  },
+  {
+    "start": 866.5,
+    "duration": 1.68,
+    "text": "And again, I'll give you my templates"
+  },
+  {
+    "start": 868.18,
+    "duration": 1.28,
+    "text": "that I use for our MBR."
+  },
+  {
+    "start": 869.46,
+    "duration": 1.68,
+    "text": "You can use that for something else."
+  },
+  {
+    "start": 871.14,
+    "duration": 1.2,
+    "text": "You can start small."
+  },
+  {
+    "start": 872.34,
+    "duration": 1.04,
+    "text": "But you need a rhythm."
+  },
+  {
+    "start": 873.38,
+    "duration": 1.92,
+    "text": "So you've got the tools and now you need"
+  },
+  {
+    "start": 875.3,
+    "duration": 2.92,
+    "text": "some sort of cadence to ensure that you're all sitting down"
+  },
+  {
+    "start": 878.22,
+    "duration": 3.04,
+    "text": "and reviewing those things and adapting what's next,"
+  },
+  {
+    "start": 881.26,
+    "duration": 2.12,
+    "text": "which is your plans, your planning pillar."
+  },
+  {
+    "start": 884.46,
+    "duration": 1.4,
+    "text": "And the last really important measurement tool"
+  },
+  {
+    "start": 885.86,
+    "duration": 0.88,
+    "text": "is target setting."
+  },
+  {
+    "start": 886.98,
+    "duration": 2.68,
+    "text": "Unless you have half decent targets,"
+  },
+  {
+    "start": 889.66,
+    "duration": 1.36,
+    "text": "you don't really know where you're going."
+  },
+  {
+    "start": 891.02,
+    "duration": 2.12,
+    "text": "You don't know if you're on track"
+  },
+  {
+    "start": 893.14,
+    "duration": 2.64,
+    "text": "to meet your growth objectives"
+  },
+  {
+    "start": 895.78,
+    "duration": 2.64,
+    "text": "unless you have a relatively rigorous"
+  },
+  {
+    "start": 898.42,
+    "duration": 1.4,
+    "text": "target setting process."
+  },
+  {
+    "start": 899.82,
+    "duration": 2.04,
+    "text": "Doesn't have to be perfect at the beginning,"
+  },
+  {
+    "start": 901.86,
+    "duration": 1.76,
+    "text": "but you need a process by which"
+  },
+  {
+    "start": 903.62,
+    "duration": 1.88,
+    "text": "you're scaling up your quotas,"
+  },
+  {
+    "start": 905.5,
+    "duration": 0.84,
+    "text": "you're rolling it up,"
+  },
+  {
+    "start": 906.34,
+    "duration": 2.48,
+    "text": "you understand if you've got the pipeline to hit"
+  },
+  {
+    "start": 908.82,
+    "duration": 3.56,
+    "text": "so that it tells you if you are on or are off track."
+  },
+  {
+    "start": 912.38,
+    "duration": 2.04,
+    "text": "So these are the four critical tools"
+  },
+  {
+    "start": 914.42,
+    "duration": 1.1,
+    "text": "that you can go build."
+  },
+  {
+    "start": 916.82,
+    "duration": 2.36,
+    "text": "And again, at the beginning, keep it simple."
+  },
+  {
+    "start": 919.18,
+    "duration": 1.88,
+    "text": "All right, the next pillar here,"
+  },
+  {
+    "start": 921.06,
+    "duration": 2.28,
+    "text": "now that we can measure and understand the business,"
+  },
+  {
+    "start": 923.34,
+    "duration": 1.72,
+    "text": "now we can manage it."
+  },
+  {
+    "start": 925.06,
+    "duration": 3.12,
+    "text": "And I say this is like the Tony Stark's arc reactor."
+  },
+  {
+    "start": 928.18,
+    "duration": 2.16,
+    "text": "This is his power source."
+  },
+  {
+    "start": 930.34,
+    "duration": 1.6,
+    "text": "Your ability to manage is your ability"
+  },
+  {
+    "start": 931.94,
+    "duration": 2.44,
+    "text": "to make things happen on the day-to-day basis."
+  },
+  {
+    "start": 934.38,
+    "duration": 5.0,
+    "text": "So this is the heartbeat and the energy of your entire team."
+  },
+  {
+    "start": 939.54,
+    "duration": 3.04,
+    "text": "And so it's the rhythms and tools you use"
+  },
+  {
+    "start": 942.58,
+    "duration": 1.32,
+    "text": "to manage day-to-day."
+  },
+  {
+    "start": 943.9,
+    "duration": 2.22,
+    "text": "And we'll talk about some specifics here."
+  },
+  {
+    "start": 946.98,
+    "duration": 2.56,
+    "text": "It could be written updates, it could be team meetings,"
+  },
+  {
+    "start": 949.54,
+    "duration": 2.92,
+    "text": "and this is how you translate plans into action."
+  },
+  {
+    "start": 952.46,
+    "duration": 1.96,
+    "text": "So I write a plan at the beginning of the month,"
+  },
+  {
+    "start": 954.42,
+    "duration": 2.08,
+    "text": "and then I check in on some sort of a cadence"
+  },
+  {
+    "start": 956.5,
+    "duration": 1.84,
+    "text": "to make sure that those things are happening,"
+  },
+  {
+    "start": 958.34,
+    "duration": 3.32,
+    "text": "and having tools there is really critical."
+  },
+  {
+    "start": 961.66,
+    "duration": 1.38,
+    "text": "So some of the tools."
+  },
+  {
+    "start": 964.18,
+    "duration": 3.24,
+    "text": "We're remote, and so we're quite asynchronous"
+  },
+  {
+    "start": 967.42,
+    "duration": 1.72,
+    "text": "in our communication style."
+  },
+  {
+    "start": 969.14,
+    "duration": 2.04,
+    "text": "I believe even for an in-person experience,"
+  },
+  {
+    "start": 971.18,
+    "duration": 2.16,
+    "text": "people should be a lot more asynchronous"
+  },
+  {
+    "start": 973.34,
+    "duration": 1.72,
+    "text": "in their communication than they are."
+  },
+  {
+    "start": 975.06,
+    "duration": 2.92,
+    "text": "I believe heavily in being able to write and document"
+  },
+  {
+    "start": 977.98,
+    "duration": 2.48,
+    "text": "to drive rigor in your organization."
+  },
+  {
+    "start": 980.46,
+    "duration": 2.74,
+    "text": "And so some of these are written rhythms,"
+  },
+  {
+    "start": 983.2,
+    "duration": 3.22,
+    "text": "and some of these are actual meetings."
+  },
+  {
+    "start": 986.42,
+    "duration": 2.52,
+    "text": "And so the big one, which I'll get into in the next slide,"
+  },
+  {
+    "start": 988.94,
+    "duration": 1.66,
+    "text": "is our weekly maple."
+  },
+  {
+    "start": 990.6,
+    "duration": 2.28,
+    "text": "This is the written update that everybody"
+  },
+  {
+    "start": 992.88,
+    "duration": 3.02,
+    "text": "that manages people or has some strategic scope"
+  },
+  {
+    "start": 995.9,
+    "duration": 3.56,
+    "text": "writes on a weekly basis to explain to the person"
+  },
+  {
+    "start": 999.46,
+    "duration": 3.28,
+    "text": "up and beside them what's happening in their business."
+  },
+  {
+    "start": 1002.74,
+    "duration": 0.96,
+    "text": "What were their key metrics?"
+  },
+  {
+    "start": 1003.7,
+    "duration": 1.16,
+    "text": "What did they advance that week?"
+  },
+  {
+    "start": 1004.86,
+    "duration": 1.44,
+    "text": "What are you planning to do next week,"
+  },
+  {
+    "start": 1006.3,
+    "duration": 2.96,
+    "text": "your learnings, and any emergencies that need to be flagged?"
+  },
+  {
+    "start": 1009.26,
+    "duration": 2.44,
+    "text": "And I'll show you the template on the next slide."
+  },
+  {
+    "start": 1011.7,
+    "duration": 1.2,
+    "text": "Then we need a coaching rhythm,"
+  },
+  {
+    "start": 1012.9,
+    "duration": 3.0,
+    "text": "separate from one-on-ones with some structure."
+  },
+  {
+    "start": 1015.9,
+    "duration": 1.98,
+    "text": "I could do a whole other 40-minute talk on that,"
+  },
+  {
+    "start": 1017.88,
+    "duration": 1.8,
+    "text": "but there needs to be some sort of a coaching rhythm"
+  },
+  {
+    "start": 1019.68,
+    "duration": 1.74,
+    "text": "that you establish so that your managers"
+  },
+  {
+    "start": 1021.42,
+    "duration": 1.76,
+    "text": "are doing that with your team."
+  },
+  {
+    "start": 1023.18,
+    "duration": 1.68,
+    "text": "And then finally, you need a meeting rhythm."
+  },
+  {
+    "start": 1024.86,
+    "duration": 1.68,
+    "text": "So we can't be completely written,"
+  },
+  {
+    "start": 1026.54,
+    "duration": 3.24,
+    "text": "so where do I use that very valuable"
+  },
+  {
+    "start": 1029.78,
+    "duration": 1.48,
+    "text": "synchronous time together?"
+  },
+  {
+    "start": 1031.26,
+    "duration": 2.16,
+    "text": "This is your one-on-one and team meetings."
+  },
+  {
+    "start": 1033.42,
+    "duration": 3.76,
+    "text": "And we err to the side of much fewer meetings"
+  },
+  {
+    "start": 1037.18,
+    "duration": 4.14,
+    "text": "than most organizations, and I'll talk about why."
+  },
+  {
+    "start": 1043.5,
+    "duration": 2.86,
+    "text": "So this is our weekly maple template,"
+  },
+  {
+    "start": 1046.36,
+    "duration": 3.18,
+    "text": "and I'm gonna share all of these assets"
+  },
+  {
+    "start": 1049.54,
+    "duration": 3.6,
+    "text": "with you guys after, so you can use this"
+  },
+  {
+    "start": 1053.14,
+    "duration": 1.16,
+    "text": "right away in your business."
+  },
+  {
+    "start": 1054.3,
+    "duration": 3.92,
+    "text": "But this is a screenshot from our Notion,"
+  },
+  {
+    "start": 1058.22,
+    "duration": 2.84,
+    "text": "and you'll notice that I explain exactly"
+  },
+  {
+    "start": 1061.82,
+    "duration": 2.04,
+    "text": "what we do on a weekly basis and why we do it."
+  },
+  {
+    "start": 1063.86,
+    "duration": 2.64,
+    "text": "Then I explain the structure."
+  },
+  {
+    "start": 1066.5,
+    "duration": 2.48,
+    "text": "That's the guide on the left-hand side of the screen."
+  },
+  {
+    "start": 1068.98,
+    "duration": 1.4,
+    "text": "And then on the right-hand side of the screen,"
+  },
+  {
+    "start": 1070.38,
+    "duration": 2.92,
+    "text": "that's the actual document template."
+  },
+  {
+    "start": 1073.3,
+    "duration": 3.32,
+    "text": "So every week, every leader, you click Add New Notes,"
+  },
+  {
+    "start": 1076.62,
+    "duration": 1.6,
+    "text": "and then you're gonna fill in your section."
+  },
+  {
+    "start": 1078.22,
+    "duration": 3.0,
+    "text": "So the metrics that you're accountable for"
+  },
+  {
+    "start": 1081.22,
+    "duration": 2.7,
+    "text": "could be the forecast, it could be the run rate,"
+  },
+  {
+    "start": 1083.92,
+    "duration": 2.7,
+    "text": "whatever metrics that individual needs to own."
+  },
+  {
+    "start": 1087.94,
+    "duration": 1.24,
+    "text": "What did they work on that week,"
+  },
+  {
+    "start": 1089.22,
+    "duration": 1.84,
+    "text": "and what did they move forward?"
+  },
+  {
+    "start": 1091.06,
+    "duration": 3.58,
+    "text": "Again, because part of it is me being able to manage that"
+  },
+  {
+    "start": 1094.64,
+    "duration": 0.84,
+    "text": "and make sure it's happening."
+  },
+  {
+    "start": 1095.48,
+    "duration": 2.3,
+    "text": "Part of it is for that information to flow"
+  },
+  {
+    "start": 1097.78,
+    "duration": 1.64,
+    "text": "broadly across the organization,"
+  },
+  {
+    "start": 1099.42,
+    "duration": 1.28,
+    "text": "and that's why we do it in writing."
+  },
+  {
+    "start": 1100.7,
+    "duration": 2.32,
+    "text": "That's why we don't do it in one-on-ones"
+  },
+  {
+    "start": 1103.02,
+    "duration": 2.16,
+    "text": "or in team meetings, because then it's not captured."
+  },
+  {
+    "start": 1105.18,
+    "duration": 1.46,
+    "text": "It's hard to disseminate."
+  },
+  {
+    "start": 1106.64,
+    "duration": 3.34,
+    "text": "This will make information flow more smoothly"
+  },
+  {
+    "start": 1109.98,
+    "duration": 1.04,
+    "text": "in the organization."
+  },
+  {
+    "start": 1111.02,
+    "duration": 2.08,
+    "text": "And emergencies, it's not really emergencies."
+  },
+  {
+    "start": 1113.1,
+    "duration": 1.68,
+    "text": "It's just important stuff that you wanna make sure"
+  },
+  {
+    "start": 1114.78,
+    "duration": 3.6,
+    "text": "is flagged, but maple needed an E, so emergencies it is."
+  },
+  {
+    "start": 1118.42,
+    "duration": 1.4,
+    "text": "That's that maple structure."
+  },
+  {
+    "start": 1120.98,
+    "duration": 1.8,
+    "text": "So out of the maple structure,"
+  },
+  {
+    "start": 1122.78,
+    "duration": 2.0,
+    "text": "we can now get into our one-on-one"
+  },
+  {
+    "start": 1124.78,
+    "duration": 1.0,
+    "text": "and team meeting structure."
+  },
+  {
+    "start": 1125.78,
+    "duration": 3.52,
+    "text": "So as a leader, I review that maple Sunday nights at eight."
+  },
+  {
+    "start": 1129.3,
+    "duration": 2.44,
+    "text": "That's when I expect it to be due for my teams."
+  },
+  {
+    "start": 1131.74,
+    "duration": 1.72,
+    "text": "And now based on what I see in maple,"
+  },
+  {
+    "start": 1133.46,
+    "duration": 2.2,
+    "text": "we can populate our, we'll start with one-on-ones."
+  },
+  {
+    "start": 1135.66,
+    "duration": 2.08,
+    "text": "We can populate our one-on-one agenda."
+  },
+  {
+    "start": 1137.74,
+    "duration": 4.56,
+    "text": "And so I keep the My Direct Reports top three priorities"
+  },
+  {
+    "start": 1142.3,
+    "duration": 1.92,
+    "text": "at the top of this meeting docket."
+  },
+  {
+    "start": 1144.22,
+    "duration": 3.36,
+    "text": "So it's in front of us every single time we meet."
+  },
+  {
+    "start": 1148.34,
+    "duration": 1.72,
+    "text": "We're looking at the top things we're working on."
+  },
+  {
+    "start": 1150.06,
+    "duration": 1.72,
+    "text": "We can discuss them if need be."
+  },
+  {
+    "start": 1151.78,
+    "duration": 1.96,
+    "text": "And then the next section there is the notes"
+  },
+  {
+    "start": 1153.74,
+    "duration": 1.24,
+    "text": "that we take on a weekly basis."
+  },
+  {
+    "start": 1154.98,
+    "duration": 2.8,
+    "text": "So I start every one-on-one meeting asking people,"
+  },
+  {
+    "start": 1157.78,
+    "duration": 2.36,
+    "text": "scale one to 10, how you doing, why?"
+  },
+  {
+    "start": 1160.14,
+    "duration": 2.26,
+    "text": "And it seems sort of superficial,"
+  },
+  {
+    "start": 1162.4,
+    "duration": 1.9,
+    "text": "but it's a great way to start a meeting."
+  },
+  {
+    "start": 1164.3,
+    "duration": 1.08,
+    "text": "You learn a lot."
+  },
+  {
+    "start": 1165.38,
+    "duration": 2.52,
+    "text": "I borrowed this from an awesome operator"
+  },
+  {
+    "start": 1167.9,
+    "duration": 1.68,
+    "text": "who I worked with named Lynette Pistoris,"
+  },
+  {
+    "start": 1169.58,
+    "duration": 1.96,
+    "text": "and I experimented with it, and I love it."
+  },
+  {
+    "start": 1171.54,
+    "duration": 2.2,
+    "text": "So that's how I kick off my one-on-one meetings."
+  },
+  {
+    "start": 1173.74,
+    "duration": 2.44,
+    "text": "Then I populate, and the rep populates,"
+  },
+  {
+    "start": 1176.22,
+    "duration": 3.36,
+    "text": "or my direct, their discussion topics."
+  },
+  {
+    "start": 1179.58,
+    "duration": 1.52,
+    "text": "Like, what did I see in their Maple"
+  },
+  {
+    "start": 1181.1,
+    "duration": 0.92,
+    "text": "that I want to talk about?"
+  },
+  {
+    "start": 1182.02,
+    "duration": 1.76,
+    "text": "What do they need to talk to me about?"
+  },
+  {
+    "start": 1183.78,
+    "duration": 1.88,
+    "text": "And again, we use this synchronous time"
+  },
+  {
+    "start": 1185.66,
+    "duration": 2.14,
+    "text": "for discussion, problem-solving, brainstorming."
+  },
+  {
+    "start": 1187.8,
+    "duration": 2.74,
+    "text": "We don't use synchronous time for updates."
+  },
+  {
+    "start": 1190.54,
+    "duration": 2.2,
+    "text": "Don't show up and tell me what's happening."
+  },
+  {
+    "start": 1192.74,
+    "duration": 1.4,
+    "text": "I will already know what's happening"
+  },
+  {
+    "start": 1194.14,
+    "duration": 3.36,
+    "text": "because you will have written it and I will have read it."
+  },
+  {
+    "start": 1197.5,
+    "duration": 1.64,
+    "text": "But what do we need to problem-solve together?"
+  },
+  {
+    "start": 1199.14,
+    "duration": 2.52,
+    "text": "Because that's expensive time, especially in team meetings."
+  },
+  {
+    "start": 1201.66,
+    "duration": 1.72,
+    "text": "And then action items from the week before"
+  },
+  {
+    "start": 1203.38,
+    "duration": 1.74,
+    "text": "and moving forward."
+  },
+  {
+    "start": 1205.12,
+    "duration": 3.84,
+    "text": "So, then in team meetings, similar structure."
+  },
+  {
+    "start": 1208.96,
+    "duration": 1.16,
+    "text": "What are our top priorities?"
+  },
+  {
+    "start": 1210.12,
+    "duration": 2.64,
+    "text": "So, I like to have, we call them Kyle's Metrics."
+  },
+  {
+    "start": 1212.76,
+    "duration": 1.96,
+    "text": "Like, what are the five most important things"
+  },
+  {
+    "start": 1214.72,
+    "duration": 2.18,
+    "text": "that we're trying to move in our business today?"
+  },
+  {
+    "start": 1216.9,
+    "duration": 3.32,
+    "text": "So, it's SDR to opportunity conversion rates,"
+  },
+  {
+    "start": 1220.22,
+    "duration": 4.26,
+    "text": "or it's the lead quality score."
+  },
+  {
+    "start": 1224.48,
+    "duration": 0.84,
+    "text": "Like, what are the things"
+  },
+  {
+    "start": 1225.32,
+    "duration": 1.32,
+    "text": "that you're trying to actively move,"
+  },
+  {
+    "start": 1226.64,
+    "duration": 2.24,
+    "text": "and I want to see those every single week and get an update."
+  },
+  {
+    "start": 1228.88,
+    "duration": 0.84,
+    "text": "I also want to understand"
+  },
+  {
+    "start": 1229.72,
+    "duration": 1.92,
+    "text": "what's happening with critical projects."
+  },
+  {
+    "start": 1231.64,
+    "duration": 2.68,
+    "text": "A lot of this can be copy-paste from a Maple update,"
+  },
+  {
+    "start": 1234.32,
+    "duration": 2.96,
+    "text": "but this is the things that we're pushing to the RSLT"
+  },
+  {
+    "start": 1237.28,
+    "duration": 2.76,
+    "text": "that are most critical for people to have visual of."
+  },
+  {
+    "start": 1241.56,
+    "duration": 1.92,
+    "text": "People can put FYIs that we don't talk about,"
+  },
+  {
+    "start": 1243.48,
+    "duration": 2.88,
+    "text": "that, again, you want to make sure doesn't get missed"
+  },
+  {
+    "start": 1246.36,
+    "duration": 0.84,
+    "text": "in a Maple update"
+  },
+  {
+    "start": 1247.2,
+    "duration": 2.2,
+    "text": "because not everybody's going to read every single line,"
+  },
+  {
+    "start": 1249.4,
+    "duration": 1.6,
+    "text": "so you're pushing the most important things."
+  },
+  {
+    "start": 1251.0,
+    "duration": 1.48,
+    "text": "And then, again, discussion topics."
+  },
+  {
+    "start": 1252.48,
+    "duration": 2.04,
+    "text": "What do we need to spend our synchronous time"
+  },
+  {
+    "start": 1254.52,
+    "duration": 1.44,
+    "text": "problem-solving?"
+  },
+  {
+    "start": 1255.96,
+    "duration": 1.28,
+    "text": "And then action items."
+  },
+  {
+    "start": 1257.24,
+    "duration": 1.2,
+    "text": "So, you can use these two templates"
+  },
+  {
+    "start": 1258.44,
+    "duration": 2.92,
+    "text": "and you drive now that predictability"
+  },
+  {
+    "start": 1261.52,
+    "duration": 4.36,
+    "text": "of everybody knowing how the organization is going to run."
+  },
+  {
+    "start": 1265.88,
+    "duration": 2.24,
+    "text": "All right, so that's my management rhythm,"
+  },
+  {
+    "start": 1268.12,
+    "duration": 3.72,
+    "text": "how I manage my team and them getting their jobs done."
+  },
+  {
+    "start": 1271.84,
+    "duration": 2.0,
+    "text": "Next is our planning rhythm."
+  },
+  {
+    "start": 1273.84,
+    "duration": 3.64,
+    "text": "And so, we can have concepts of a plan in our head"
+  },
+  {
+    "start": 1277.48,
+    "duration": 2.36,
+    "text": "and ideas of where things are going to go,"
+  },
+  {
+    "start": 1279.84,
+    "duration": 1.88,
+    "text": "but until you write that down,"
+  },
+  {
+    "start": 1281.72,
+    "duration": 1.52,
+    "text": "you're just juggling things."
+  },
+  {
+    "start": 1283.24,
+    "duration": 3.32,
+    "text": "And this is, I think, where people often go wrong"
+  },
+  {
+    "start": 1286.56,
+    "duration": 1.96,
+    "text": "is just a lack of documentation."
+  },
+  {
+    "start": 1288.52,
+    "duration": 1.36,
+    "text": "Unless you can write well,"
+  },
+  {
+    "start": 1289.88,
+    "duration": 1.6,
+    "text": "this is an Oscar Wilde quote,"
+  },
+  {
+    "start": 1291.48,
+    "duration": 3.28,
+    "text": "unless you can write well, you can't really think well."
+  },
+  {
+    "start": 1294.76,
+    "duration": 1.44,
+    "text": "And so, this planning process"
+  },
+  {
+    "start": 1296.2,
+    "duration": 2.48,
+    "text": "is you getting ideas out of your head,"
+  },
+  {
+    "start": 1298.68,
+    "duration": 0.96,
+    "text": "putting it on page,"
+  },
+  {
+    "start": 1299.64,
+    "duration": 3.12,
+    "text": "and so for that page to now serve as your co-pilot."
+  },
+  {
+    "start": 1302.76,
+    "duration": 2.04,
+    "text": "It serves as the co-pilot to guide others"
+  },
+  {
+    "start": 1304.8,
+    "duration": 1.76,
+    "text": "for you to have as a reminder."
+  },
+  {
+    "start": 1306.56,
+    "duration": 4.24,
+    "text": "That's why we call it Jarvis in Ironman terms."
+  },
+  {
+    "start": 1310.8,
+    "duration": 3.56,
+    "text": "And so, it's how I pause, evaluate the business,"
+  },
+  {
+    "start": 1314.36,
+    "duration": 2.36,
+    "text": "take stock, and figure out what I need to do"
+  },
+  {
+    "start": 1316.72,
+    "duration": 1.16,
+    "text": "for the next period."
+  },
+  {
+    "start": 1317.92,
+    "duration": 2.0,
+    "text": "So, for us, it's monthly,"
+  },
+  {
+    "start": 1319.92,
+    "duration": 3.12,
+    "text": "sometimes it can be quarterly with a monthly check-in,"
+  },
+  {
+    "start": 1323.04,
+    "duration": 2.36,
+    "text": "depending on, again, business maturity,"
+  },
+  {
+    "start": 1325.4,
+    "duration": 2.44,
+    "text": "but this is my planning rhythm."
+  },
+  {
+    "start": 1327.84,
+    "duration": 2.28,
+    "text": "And so, the critical tools here,"
+  },
+  {
+    "start": 1330.12,
+    "duration": 1.6,
+    "text": "it has to start with a growth plan."
+  },
+  {
+    "start": 1331.72,
+    "duration": 1.28,
+    "text": "This is your spreadsheet."
+  },
+  {
+    "start": 1333.0,
+    "duration": 1.4,
+    "text": "This is the spreadsheet of how you're going to go"
+  },
+  {
+    "start": 1334.4,
+    "duration": 3.36,
+    "text": "from X dollars in ARR to Y dollars in ARR"
+  },
+  {
+    "start": 1337.76,
+    "duration": 1.84,
+    "text": "in the next six, 12 months,"
+  },
+  {
+    "start": 1339.6,
+    "duration": 2.84,
+    "text": "and how things ladder up, and your key inputs,"
+  },
+  {
+    "start": 1342.44,
+    "duration": 1.64,
+    "text": "like what are the things that need to be true"
+  },
+  {
+    "start": 1344.08,
+    "duration": 2.76,
+    "text": "month over month to get you to your number?"
+  },
+  {
+    "start": 1346.84,
+    "duration": 2.16,
+    "text": "It could be rep growth, lead growth,"
+  },
+  {
+    "start": 1349.0,
+    "duration": 1.4,
+    "text": "new channel activation,"
+  },
+  {
+    "start": 1350.4,
+    "duration": 2.76,
+    "text": "the throughput of your onboarding team,"
+  },
+  {
+    "start": 1353.16,
+    "duration": 2.04,
+    "text": "but you gotta have a spreadsheet that tells you,"
+  },
+  {
+    "start": 1355.2,
+    "duration": 1.88,
+    "text": "gives you a map from A to B"
+  },
+  {
+    "start": 1357.08,
+    "duration": 1.6,
+    "text": "so that you can start to track to it,"
+  },
+  {
+    "start": 1358.68,
+    "duration": 3.44,
+    "text": "and then that is connected to your target setting rhythm"
+  },
+  {
+    "start": 1362.12,
+    "duration": 1.72,
+    "text": "that I talked about previously."
+  },
+  {
+    "start": 1363.84,
+    "duration": 1.72,
+    "text": "Next, we have to have a planning cadence,"
+  },
+  {
+    "start": 1365.56,
+    "duration": 2.4,
+    "text": "and I'll show you mine next."
+  },
+  {
+    "start": 1367.96,
+    "duration": 2.72,
+    "text": "Again, it's a tool, and it's a rhythm,"
+  },
+  {
+    "start": 1370.68,
+    "duration": 1.4,
+    "text": "and then a project cadence."
+  },
+  {
+    "start": 1372.08,
+    "duration": 2.52,
+    "text": "How do we pick the right projects that we wanna work on?"
+  },
+  {
+    "start": 1374.6,
+    "duration": 0.92,
+    "text": "How do we check in on them?"
+  },
+  {
+    "start": 1375.96,
+    "duration": 2.44,
+    "text": "How do we make sure that those things are moving?"
+  },
+  {
+    "start": 1379.72,
+    "duration": 3.52,
+    "text": "This can go into overload really easily,"
+  },
+  {
+    "start": 1383.24,
+    "duration": 3.0,
+    "text": "so minimum effective dosage here is my reminder,"
+  },
+  {
+    "start": 1386.24,
+    "duration": 1.6,
+    "text": "but it's the lightest weight version"
+  },
+  {
+    "start": 1387.84,
+    "duration": 1.04,
+    "text": "that you can make sure that things"
+  },
+  {
+    "start": 1388.88,
+    "duration": 1.68,
+    "text": "are moving in your organization."
+  },
+  {
+    "start": 1390.56,
+    "duration": 2.68,
+    "text": "And then finally, you need a prioritization framework."
+  },
+  {
+    "start": 1393.24,
+    "duration": 1.36,
+    "text": "What projects are you working on?"
+  },
+  {
+    "start": 1394.6,
+    "duration": 1.6,
+    "text": "How do we make these decisions?"
+  },
+  {
+    "start": 1397.32,
+    "duration": 2.24,
+    "text": "Any Duke has a great version of this."
+  },
+  {
+    "start": 1399.56,
+    "duration": 1.16,
+    "text": "You know, what are your potentials?"
+  },
+  {
+    "start": 1400.72,
+    "duration": 1.52,
+    "text": "What are the things you're choosing from?"
+  },
+  {
+    "start": 1402.28,
+    "duration": 3.48,
+    "text": "What are the payoffs from those particular potentials?"
+  },
+  {
+    "start": 1405.76,
+    "duration": 2.96,
+    "text": "What's the effort, the perspiration needed to do those,"
+  },
+  {
+    "start": 1408.72,
+    "duration": 3.88,
+    "text": "and what's the probability of those options working out?"
+  },
+  {
+    "start": 1412.6,
+    "duration": 1.56,
+    "text": "That's the framework we use."
+  },
+  {
+    "start": 1414.16,
+    "duration": 1.44,
+    "text": "You can use your own,"
+  },
+  {
+    "start": 1415.6,
+    "duration": 2.28,
+    "text": "but having some way for these decisions to get made"
+  },
+  {
+    "start": 1417.88,
+    "duration": 1.48,
+    "text": "is important, and then writing it down"
+  },
+  {
+    "start": 1419.36,
+    "duration": 1.2,
+    "text": "and just living by it."
+  },
+  {
+    "start": 1420.56,
+    "duration": 1.76,
+    "text": "Again, it's all about speed."
+  },
+  {
+    "start": 1422.32,
+    "duration": 1.6,
+    "text": "This whole revenue operating system"
+  },
+  {
+    "start": 1423.92,
+    "duration": 1.32,
+    "text": "should make your organization"
+  },
+  {
+    "start": 1425.24,
+    "duration": 1.72,
+    "text": "move faster and more efficiently."
+  },
+  {
+    "start": 1427.92,
+    "duration": 2.64,
+    "text": "So one of the key tools under planning"
+  },
+  {
+    "start": 1430.56,
+    "duration": 1.96,
+    "text": "is this, we do it monthly."
+  },
+  {
+    "start": 1432.52,
+    "duration": 1.8,
+    "text": "I write a monthly game plan,"
+  },
+  {
+    "start": 1434.32,
+    "duration": 3.08,
+    "text": "which now the functional leaders largely write."
+  },
+  {
+    "start": 1437.4,
+    "duration": 1.44,
+    "text": "And so this is where I take stock"
+  },
+  {
+    "start": 1438.84,
+    "duration": 1.8,
+    "text": "of everything that happened in the previous month."
+  },
+  {
+    "start": 1440.64,
+    "duration": 1.84,
+    "text": "So what were the outcomes?"
+  },
+  {
+    "start": 1442.48,
+    "duration": 1.0,
+    "text": "How did we do?"
+  },
+  {
+    "start": 1443.48,
+    "duration": 1.28,
+    "text": "I'll give shout outs to the reps,"
+  },
+  {
+    "start": 1444.76,
+    "duration": 2.32,
+    "text": "because this is a document"
+  },
+  {
+    "start": 1447.08,
+    "duration": 3.08,
+    "text": "that everybody in the organization gets access to."
+  },
+  {
+    "start": 1450.16,
+    "duration": 1.4,
+    "text": "What were the strategic priorities"
+  },
+  {
+    "start": 1451.56,
+    "duration": 1.92,
+    "text": "that we said were critical for us"
+  },
+  {
+    "start": 1453.48,
+    "duration": 1.48,
+    "text": "to accomplish in this period?"
+  },
+  {
+    "start": 1454.96,
+    "duration": 1.2,
+    "text": "Did we accomplish that?"
+  },
+  {
+    "start": 1456.16,
+    "duration": 1.96,
+    "text": "We'll grade ourselves."
+  },
+  {
+    "start": 1458.12,
+    "duration": 3.44,
+    "text": "ABCDF, how did we do and why?"
+  },
+  {
+    "start": 1461.56,
+    "duration": 2.08,
+    "text": "And then I talk about what's happening in the next month."
+  },
+  {
+    "start": 1463.64,
+    "duration": 2.16,
+    "text": "What are the key things that we need to do"
+  },
+  {
+    "start": 1465.8,
+    "duration": 1.8,
+    "text": "as a business in the next period"
+  },
+  {
+    "start": 1467.6,
+    "duration": 2.04,
+    "text": "to move forwards?"
+  },
+  {
+    "start": 1469.64,
+    "duration": 1.6,
+    "text": "And then important FYIs."
+  },
+  {
+    "start": 1471.24,
+    "duration": 2.8,
+    "text": "If you can get into a solid rhythm here,"
+  },
+  {
+    "start": 1474.04,
+    "duration": 3.4,
+    "text": "your team will understand where you're going and why,"
+  },
+  {
+    "start": 1477.44,
+    "duration": 2.0,
+    "text": "and things will move faster."
+  },
+  {
+    "start": 1479.44,
+    "duration": 0.84,
+    "text": "This is a great rhythm,"
+  },
+  {
+    "start": 1480.28,
+    "duration": 1.6,
+    "text": "and it's most helpful for me"
+  },
+  {
+    "start": 1481.88,
+    "duration": 2.12,
+    "text": "or the person writing it, the leader writing it,"
+  },
+  {
+    "start": 1484.0,
+    "duration": 2.6,
+    "text": "to just get things on a piece of paper"
+  },
+  {
+    "start": 1486.6,
+    "duration": 1.44,
+    "text": "and to go, okay, I could do that."
+  },
+  {
+    "start": 1488.84,
+    "duration": 1.16,
+    "text": "I have the resources, it's manageable."
+  },
+  {
+    "start": 1490.0,
+    "duration": 1.64,
+    "text": "Let's go attack that plan."
+  },
+  {
+    "start": 1491.64,
+    "duration": 1.32,
+    "text": "So that's my planning rhythm."
+  },
+  {
+    "start": 1492.96,
+    "duration": 2.44,
+    "text": "So last is communicating."
+  },
+  {
+    "start": 1495.4,
+    "duration": 2.84,
+    "text": "So I call it your Ironman thrusters,"
+  },
+  {
+    "start": 1498.24,
+    "duration": 3.12,
+    "text": "because unless you can communicate properly"
+  },
+  {
+    "start": 1501.36,
+    "duration": 2.12,
+    "text": "and drive behavior change,"
+  },
+  {
+    "start": 1503.48,
+    "duration": 1.08,
+    "text": "you're not going to go anywhere."
+  },
+  {
+    "start": 1504.56,
+    "duration": 2.24,
+    "text": "So this is what gives you velocity."
+  },
+  {
+    "start": 1508.04,
+    "duration": 1.04,
+    "text": "And there's two components."
+  },
+  {
+    "start": 1509.08,
+    "duration": 3.88,
+    "text": "There's communicating and educating on context,"
+  },
+  {
+    "start": 1512.96,
+    "duration": 1.88,
+    "text": "and then there's deploying change."
+  },
+  {
+    "start": 1514.84,
+    "duration": 2.12,
+    "text": "How do we make change in our business?"
+  },
+  {
+    "start": 1517.92,
+    "duration": 1.48,
+    "text": "And there's a few key components."
+  },
+  {
+    "start": 1519.4,
+    "duration": 2.32,
+    "text": "Having a knowledge hub is a great start."
+  },
+  {
+    "start": 1521.72,
+    "duration": 3.32,
+    "text": "The knowledge hub is your Notion or your Wiki"
+  },
+  {
+    "start": 1525.04,
+    "duration": 3.32,
+    "text": "where as much information as possible can live"
+  },
+  {
+    "start": 1528.36,
+    "duration": 1.72,
+    "text": "where somebody can find all of the things"
+  },
+  {
+    "start": 1530.08,
+    "duration": 1.16,
+    "text": "that they need to understand."
+  },
+  {
+    "start": 1531.24,
+    "duration": 2.24,
+    "text": "So my monthly reviews are there."
+  },
+  {
+    "start": 1533.48,
+    "duration": 1.84,
+    "text": "Our rules of engagement are there."
+  },
+  {
+    "start": 1535.32,
+    "duration": 2.76,
+    "text": "But some central place where information can live,"
+  },
+  {
+    "start": 1538.96,
+    "duration": 1.56,
+    "text": "and that seems obvious,"
+  },
+  {
+    "start": 1540.52,
+    "duration": 2.56,
+    "text": "but what you see oftentimes is information is split"
+  },
+  {
+    "start": 1543.08,
+    "duration": 3.52,
+    "text": "across Notion and Google Drive and Slack and in emails"
+  },
+  {
+    "start": 1547.44,
+    "duration": 2.52,
+    "text": "and that ends up being very, very slow."
+  },
+  {
+    "start": 1549.96,
+    "duration": 2.64,
+    "text": "So a central knowledge of where you can put everything,"
+  },
+  {
+    "start": 1552.6,
+    "duration": 4.0,
+    "text": "standards and templates for how you share information,"
+  },
+  {
+    "start": 1557.96,
+    "duration": 3.08,
+    "text": "and then some specific templates which I'll show you next."
+  },
+  {
+    "start": 1561.04,
+    "duration": 2.96,
+    "text": "So again, there's educating on context"
+  },
+  {
+    "start": 1564.0,
+    "duration": 1.16,
+    "text": "and then there's deploying change."
+  },
+  {
+    "start": 1565.16,
+    "duration": 3.56,
+    "text": "So on educating on context, there's three principles here."
+  },
+  {
+    "start": 1568.72,
+    "duration": 2.08,
+    "text": "Clarity, context, consistency."
+  },
+  {
+    "start": 1570.8,
+    "duration": 2.04,
+    "text": "So I default to transparency."
+  },
+  {
+    "start": 1572.84,
+    "duration": 1.84,
+    "text": "I want to tell my team, my leaders,"
+  },
+  {
+    "start": 1574.68,
+    "duration": 1.2,
+    "text": "my individual contributors,"
+  },
+  {
+    "start": 1575.88,
+    "duration": 2.72,
+    "text": "as much as possible about the business"
+  },
+  {
+    "start": 1578.6,
+    "duration": 3.32,
+    "text": "so that they can be high context individuals"
+  },
+  {
+    "start": 1581.92,
+    "duration": 2.12,
+    "text": "to make good decisions when things are ambiguous,"
+  },
+  {
+    "start": 1584.04,
+    "duration": 2.92,
+    "text": "to feel like they are connected to the mission,"
+  },
+  {
+    "start": 1586.96,
+    "duration": 0.96,
+    "text": "connected to the vision."
+  },
+  {
+    "start": 1587.92,
+    "duration": 1.4,
+    "text": "They know what's going on."
+  },
+  {
+    "start": 1589.32,
+    "duration": 2.4,
+    "text": "People hate feeling out of control."
+  },
+  {
+    "start": 1591.72,
+    "duration": 3.6,
+    "text": "It causes so much stress when people don't feel"
+  },
+  {
+    "start": 1595.32,
+    "duration": 1.28,
+    "text": "like they know where they're going."
+  },
+  {
+    "start": 1596.6,
+    "duration": 2.48,
+    "text": "And so communicating as much context as possible"
+  },
+  {
+    "start": 1599.08,
+    "duration": 1.28,
+    "text": "is really critical."
+  },
+  {
+    "start": 1600.36,
+    "duration": 3.24,
+    "text": "Starting with why is really important there."
+  },
+  {
+    "start": 1603.6,
+    "duration": 2.24,
+    "text": "And I try to treat my team like adults."
+  },
+  {
+    "start": 1605.84,
+    "duration": 1.68,
+    "text": "Like I'm not going to sugar coat things."
+  },
+  {
+    "start": 1607.52,
+    "duration": 0.84,
+    "text": "If things are not good,"
+  },
+  {
+    "start": 1608.36,
+    "duration": 2.72,
+    "text": "I'm going to tell them they're not good and why."
+  },
+  {
+    "start": 1611.08,
+    "duration": 2.84,
+    "text": "And so sharing that context consistently is really critical"
+  },
+  {
+    "start": 1613.92,
+    "duration": 2.84,
+    "text": "and the why behind it so that they can move forward."
+  },
+  {
+    "start": 1618.52,
+    "duration": 2.0,
+    "text": "Consistency is the next thing."
+  },
+  {
+    "start": 1620.52,
+    "duration": 2.08,
+    "text": "There's a saying in rock climbing,"
+  },
+  {
+    "start": 1622.6,
+    "duration": 1.56,
+    "text": "you always want three points of contact."
+  },
+  {
+    "start": 1624.16,
+    "duration": 2.0,
+    "text": "You want three things attached to the wall"
+  },
+  {
+    "start": 1626.16,
+    "duration": 1.08,
+    "text": "at any given time."
+  },
+  {
+    "start": 1627.24,
+    "duration": 2.04,
+    "text": "There's a good communication principle here."
+  },
+  {
+    "start": 1629.28,
+    "duration": 1.4,
+    "text": "I want to try to communicate things"
+  },
+  {
+    "start": 1630.68,
+    "duration": 2.2,
+    "text": "in three different ways and be consistent with it."
+  },
+  {
+    "start": 1632.88,
+    "duration": 1.84,
+    "text": "People aren't going to remember things the first time."
+  },
+  {
+    "start": 1634.72,
+    "duration": 1.28,
+    "text": "So if you want to educate people"
+  },
+  {
+    "start": 1636.0,
+    "duration": 4.04,
+    "text": "and make your team high context contributors,"
+  },
+  {
+    "start": 1640.04,
+    "duration": 2.0,
+    "text": "consistency is important here."
+  },
+  {
+    "start": 1642.04,
+    "duration": 1.2,
+    "text": "And then the components."
+  },
+  {
+    "start": 1644.28,
+    "duration": 1.72,
+    "text": "A consistent template and a cadence"
+  },
+  {
+    "start": 1646.0,
+    "duration": 1.8,
+    "text": "by which you're sharing this information."
+  },
+  {
+    "start": 1647.8,
+    "duration": 1.2,
+    "text": "You got to have like an all hands"
+  },
+  {
+    "start": 1649.0,
+    "duration": 2.56,
+    "text": "or some all team meeting where you can talk."
+  },
+  {
+    "start": 1651.56,
+    "duration": 1.28,
+    "text": "AMAs are a great tool."
+  },
+  {
+    "start": 1652.84,
+    "duration": 1.2,
+    "text": "They're super easy."
+  },
+  {
+    "start": 1654.04,
+    "duration": 1.52,
+    "text": "Again, it's all about context."
+  },
+  {
+    "start": 1656.68,
+    "duration": 3.08,
+    "text": "And again, this monthly, my monthly plan,"
+  },
+  {
+    "start": 1659.76,
+    "duration": 2.88,
+    "text": "I write it in a format that I can just share with everybody"
+  },
+  {
+    "start": 1663.4,
+    "duration": 1.04,
+    "text": "so this serves as my planning cadence"
+  },
+  {
+    "start": 1664.44,
+    "duration": 3.56,
+    "text": "and part of my communication and education cadence."
+  },
+  {
+    "start": 1668.0,
+    "duration": 1.68,
+    "text": "Again, just default to open."
+  },
+  {
+    "start": 1669.68,
+    "duration": 2.72,
+    "text": "It's a much easier way to operate."
+  },
+  {
+    "start": 1672.4,
+    "duration": 2.0,
+    "text": "Okay, let's talk about deploying change."
+  },
+  {
+    "start": 1674.4,
+    "duration": 3.28,
+    "text": "So your ability to win as a leader"
+  },
+  {
+    "start": 1677.68,
+    "duration": 2.92,
+    "text": "is your ability to change the behavior of your teams."
+  },
+  {
+    "start": 1681.84,
+    "duration": 2.44,
+    "text": "Startups win or lose on speed."
+  },
+  {
+    "start": 1684.28,
+    "duration": 2.04,
+    "text": "Can you change and adapt and iterate faster"
+  },
+  {
+    "start": 1686.32,
+    "duration": 2.84,
+    "text": "than your competitors and keep ahead of the market?"
+  },
+  {
+    "start": 1689.2,
+    "duration": 3.76,
+    "text": "And the key to being able to move fast to change behavior"
+  },
+  {
+    "start": 1692.96,
+    "duration": 2.72,
+    "text": "is being able to deploy change really, really well."
+  },
+  {
+    "start": 1695.68,
+    "duration": 1.84,
+    "text": "And if you want to deploy change really well,"
+  },
+  {
+    "start": 1697.52,
+    "duration": 2.92,
+    "text": "you have to have some sort of a defined process"
+  },
+  {
+    "start": 1700.44,
+    "duration": 2.96,
+    "text": "and some consistency and predictability."
+  },
+  {
+    "start": 1703.4,
+    "duration": 3.48,
+    "text": "And this is something that we didn't really spend"
+  },
+  {
+    "start": 1706.88,
+    "duration": 1.84,
+    "text": "a ton of time on until the last few months."
+  },
+  {
+    "start": 1708.72,
+    "duration": 4.2,
+    "text": "We were not good at this as an organization in my team."
+  },
+  {
+    "start": 1712.92,
+    "duration": 2.12,
+    "text": "And so we've spent a bunch of time refactoring"
+  },
+  {
+    "start": 1715.04,
+    "duration": 3.24,
+    "text": "how we do this and now things are way less noisy,"
+  },
+  {
+    "start": 1718.28,
+    "duration": 2.52,
+    "text": "moving way faster, people are picking up new things"
+  },
+  {
+    "start": 1720.8,
+    "duration": 1.64,
+    "text": "at a much more rapid pace."
+  },
+  {
+    "start": 1722.44,
+    "duration": 2.84,
+    "text": "And so I'll talk a little bit about our framework."
+  },
+  {
+    "start": 1725.28,
+    "duration": 3.04,
+    "text": "So this is on the more robust side."
+  },
+  {
+    "start": 1728.32,
+    "duration": 3.68,
+    "text": "Again, my team's like 100, the company is about 200 people."
+  },
+  {
+    "start": 1733.08,
+    "duration": 3.72,
+    "text": "And so this would be a more mature version."
+  },
+  {
+    "start": 1736.8,
+    "duration": 3.96,
+    "text": "So we have a stoplight framework for change."
+  },
+  {
+    "start": 1740.76,
+    "duration": 2.04,
+    "text": "A green change, something simple."
+  },
+  {
+    "start": 1742.8,
+    "duration": 0.96,
+    "text": "It's a product update."
+  },
+  {
+    "start": 1743.76,
+    "duration": 1.76,
+    "text": "It's something that you want people to know about,"
+  },
+  {
+    "start": 1745.52,
+    "duration": 3.28,
+    "text": "but it doesn't need to be overly heavy-handed"
+  },
+  {
+    "start": 1748.8,
+    "duration": 1.52,
+    "text": "in terms of how you're rolling it out."
+  },
+  {
+    "start": 1750.32,
+    "duration": 1.72,
+    "text": "It could just be a Slack update"
+  },
+  {
+    "start": 1752.04,
+    "duration": 1.72,
+    "text": "and capture it somewhere in Notion."
+  },
+  {
+    "start": 1753.76,
+    "duration": 1.84,
+    "text": "Again, easy peasy."
+  },
+  {
+    "start": 1755.6,
+    "duration": 1.96,
+    "text": "On the other side, a red light change"
+  },
+  {
+    "start": 1757.56,
+    "duration": 2.12,
+    "text": "is something that's going to affect people pretty deeply."
+  },
+  {
+    "start": 1759.68,
+    "duration": 1.88,
+    "text": "They need to make a big behavior change"
+  },
+  {
+    "start": 1761.56,
+    "duration": 1.88,
+    "text": "and it's significant to the individual."
+  },
+  {
+    "start": 1763.44,
+    "duration": 2.16,
+    "text": "And that could be something like changing a comp plan."
+  },
+  {
+    "start": 1765.6,
+    "duration": 1.56,
+    "text": "You want to overhaul a comp plan?"
+  },
+  {
+    "start": 1767.16,
+    "duration": 1.32,
+    "text": "Red light change."
+  },
+  {
+    "start": 1768.48,
+    "duration": 2.64,
+    "text": "So you need more than three points of contact"
+  },
+  {
+    "start": 1771.12,
+    "duration": 2.76,
+    "text": "in this scenario."
+  },
+  {
+    "start": 1773.88,
+    "duration": 3.48,
+    "text": "And so that would be like a thorough written update,"
+  },
+  {
+    "start": 1777.36,
+    "duration": 1.4,
+    "text": "a video explanation."
+  },
+  {
+    "start": 1778.76,
+    "duration": 2.2,
+    "text": "It could be a training in your learning management system"
+  },
+  {
+    "start": 1780.96,
+    "duration": 1.44,
+    "text": "that people need to complete."
+  },
+  {
+    "start": 1783.32,
+    "duration": 2.24,
+    "text": "You want to be updating people in team meetings"
+  },
+  {
+    "start": 1785.56,
+    "duration": 1.68,
+    "text": "and in one-on-one scenarios."
+  },
+  {
+    "start": 1787.24,
+    "duration": 2.6,
+    "text": "We're really trying to lean into this change"
+  },
+  {
+    "start": 1789.84,
+    "duration": 2.16,
+    "text": "and make it very, very robust."
+  },
+  {
+    "start": 1792.0,
+    "duration": 1.32,
+    "text": "And so you need to have a framework"
+  },
+  {
+    "start": 1793.32,
+    "duration": 4.12,
+    "text": "for deploying these different magnitudes of change."
+  },
+  {
+    "start": 1797.44,
+    "duration": 3.6,
+    "text": "Do not do a red light change with a Slack update."
+  },
+  {
+    "start": 1801.04,
+    "duration": 2.12,
+    "text": "Chaos, chaos will emerge."
+  },
+  {
+    "start": 1804.6,
+    "duration": 2.32,
+    "text": "So this is one of the assets"
+  },
+  {
+    "start": 1806.92,
+    "duration": 3.0,
+    "text": "that you can use for deploying change."
+  },
+  {
+    "start": 1809.92,
+    "duration": 2.92,
+    "text": "This is like a yellow and red type of change."
+  },
+  {
+    "start": 1812.84,
+    "duration": 1.72,
+    "text": "And so it's a change log."
+  },
+  {
+    "start": 1814.56,
+    "duration": 3.32,
+    "text": "So we explain why we're making the change we're making."
+  },
+  {
+    "start": 1817.88,
+    "duration": 1.28,
+    "text": "Again, context, why."
+  },
+  {
+    "start": 1819.16,
+    "duration": 1.76,
+    "text": "That's how you get people bought in."
+  },
+  {
+    "start": 1820.92,
+    "duration": 0.84,
+    "text": "What's changing?"
+  },
+  {
+    "start": 1821.76,
+    "duration": 1.24,
+    "text": "What do they need to know?"
+  },
+  {
+    "start": 1823.0,
+    "duration": 2.16,
+    "text": "The specific impact for the individual,"
+  },
+  {
+    "start": 1825.16,
+    "duration": 2.44,
+    "text": "like what do I need them to go do?"
+  },
+  {
+    "start": 1827.6,
+    "duration": 1.48,
+    "text": "And then some operational considerations,"
+  },
+  {
+    "start": 1829.08,
+    "duration": 2.48,
+    "text": "like what are the details that they need to be aware of?"
+  },
+  {
+    "start": 1831.6,
+    "duration": 2.52,
+    "text": "And again, for red light changes, this will be a video,"
+  },
+  {
+    "start": 1834.12,
+    "duration": 1.68,
+    "text": "then it'll be a training and work ramp"
+  },
+  {
+    "start": 1835.8,
+    "duration": 2.84,
+    "text": "that they have to deploy and get certified on."
+  },
+  {
+    "start": 1838.64,
+    "duration": 3.76,
+    "text": "But even just having this change log that you fill out"
+  },
+  {
+    "start": 1842.4,
+    "duration": 2.52,
+    "text": "when you make a yellow or red change,"
+  },
+  {
+    "start": 1844.92,
+    "duration": 1.44,
+    "text": "that could be a good starting point for you."
+  },
+  {
+    "start": 1846.36,
+    "duration": 2.92,
+    "text": "Okay, so we talked about measuring, managing,"
+  },
+  {
+    "start": 1849.28,
+    "duration": 2.48,
+    "text": "planning, communicating, our four core components."
+  },
+  {
+    "start": 1851.76,
+    "duration": 2.36,
+    "text": "So where do we go from now?"
+  },
+  {
+    "start": 1854.12,
+    "duration": 0.84,
+    "text": "How do I get started?"
+  },
+  {
+    "start": 1854.96,
+    "duration": 2.08,
+    "text": "So here's some keys to victory."
+  },
+  {
+    "start": 1857.04,
+    "duration": 1.88,
+    "text": "So one, build it up over time."
+  },
+  {
+    "start": 1858.92,
+    "duration": 0.84,
+    "text": "Go slow."
+  },
+  {
+    "start": 1859.76,
+    "duration": 1.6,
+    "text": "Start with the basics."
+  },
+  {
+    "start": 1862.04,
+    "duration": 0.84,
+    "text": "Build standards."
+  },
+  {
+    "start": 1862.88,
+    "duration": 2.64,
+    "text": "Document absolutely everything as much as you can,"
+  },
+  {
+    "start": 1865.52,
+    "duration": 2.72,
+    "text": "even though it's boring and time consuming."
+  },
+  {
+    "start": 1868.24,
+    "duration": 3.24,
+    "text": "And then and only then use technology to automate it."
+  },
+  {
+    "start": 1871.48,
+    "duration": 4.88,
+    "text": "So number one, Tony Stark did not have this fancy suit"
+  },
+  {
+    "start": 1876.36,
+    "duration": 1.2,
+    "text": "on the right when he got started."
+  },
+  {
+    "start": 1877.56,
+    "duration": 2.08,
+    "text": "He had this crappy one on the left."
+  },
+  {
+    "start": 1879.64,
+    "duration": 5.0,
+    "text": "So you don't need to go with a massively robust program,"
+  },
+  {
+    "start": 1884.68,
+    "duration": 2.24,
+    "text": "a revenue operating system out of the gate."
+  },
+  {
+    "start": 1886.92,
+    "duration": 1.92,
+    "text": "You can start just with some basics."
+  },
+  {
+    "start": 1888.84,
+    "duration": 3.64,
+    "text": "Just let the organization metabolize those changes"
+  },
+  {
+    "start": 1892.48,
+    "duration": 2.76,
+    "text": "because people can only adapt to so much change."
+  },
+  {
+    "start": 1895.24,
+    "duration": 1.88,
+    "text": "So we're gonna wanna go slowly with this"
+  },
+  {
+    "start": 1897.12,
+    "duration": 1.24,
+    "text": "and build it up over time."
+  },
+  {
+    "start": 1898.36,
+    "duration": 1.28,
+    "text": "It's not a sprint."
+  },
+  {
+    "start": 1899.64,
+    "duration": 3.08,
+    "text": "You can get here over the course of years, arguably."
+  },
+  {
+    "start": 1904.72,
+    "duration": 1.8,
+    "text": "Next is, we're gonna go slow,"
+  },
+  {
+    "start": 1906.52,
+    "duration": 2.52,
+    "text": "but we wanna start with the right things."
+  },
+  {
+    "start": 1909.04,
+    "duration": 1.28,
+    "text": "So what do we wanna start with?"
+  },
+  {
+    "start": 1910.32,
+    "duration": 3.56,
+    "text": "In my opinion, you gotta start with your management rhythm."
+  },
+  {
+    "start": 1913.88,
+    "duration": 2.4,
+    "text": "You can't really plan, you can't really manage"
+  },
+  {
+    "start": 1916.28,
+    "duration": 2.0,
+    "text": "unless you understand the metrics of the business."
+  },
+  {
+    "start": 1918.32,
+    "duration": 1.4,
+    "text": "So start with the basics there."
+  },
+  {
+    "start": 1919.72,
+    "duration": 2.32,
+    "text": "And it could be a really simple dashboard"
+  },
+  {
+    "start": 1922.04,
+    "duration": 1.24,
+    "text": "with six components."
+  },
+  {
+    "start": 1923.28,
+    "duration": 2.56,
+    "text": "Whatever reports you find yourself opening the most"
+  },
+  {
+    "start": 1925.84,
+    "duration": 3.28,
+    "text": "or the thing that is always open in a tab,"
+  },
+  {
+    "start": 1929.12,
+    "duration": 2.0,
+    "text": "just put that as a component in your dashboard,"
+  },
+  {
+    "start": 1931.12,
+    "duration": 2.88,
+    "text": "in your Salesforce dashboard or whatever tool you use."
+  },
+  {
+    "start": 1934.0,
+    "duration": 1.44,
+    "text": "And you can just throw a couple things in."
+  },
+  {
+    "start": 1935.44,
+    "duration": 2.32,
+    "text": "You got your six most popular reports"
+  },
+  {
+    "start": 1937.76,
+    "duration": 1.2,
+    "text": "and that's your dashboard to start."
+  },
+  {
+    "start": 1938.96,
+    "duration": 1.56,
+    "text": "Great, good starting point."
+  },
+  {
+    "start": 1940.52,
+    "duration": 1.32,
+    "text": "And then as a new report,"
+  },
+  {
+    "start": 1941.84,
+    "duration": 1.92,
+    "text": "you find yourself opening on a frequent basis"
+  },
+  {
+    "start": 1943.76,
+    "duration": 3.44,
+    "text": "is a really valuable one, pop it into that dashboard."
+  },
+  {
+    "start": 1948.08,
+    "duration": 1.96,
+    "text": "Start with your measurement rhythm"
+  },
+  {
+    "start": 1951.6,
+    "duration": 1.24,
+    "text": "and get your basics there"
+  },
+  {
+    "start": 1952.84,
+    "duration": 1.96,
+    "text": "and establish the rhythm by which you're checking in"
+  },
+  {
+    "start": 1954.8,
+    "duration": 1.48,
+    "text": "on these things."
+  },
+  {
+    "start": 1956.28,
+    "duration": 1.64,
+    "text": "Next is your growth model."
+  },
+  {
+    "start": 1957.92,
+    "duration": 1.32,
+    "text": "You have to translate,"
+  },
+  {
+    "start": 1959.24,
+    "duration": 2.0,
+    "text": "we wanna double in revenue this year."
+  },
+  {
+    "start": 1961.24,
+    "duration": 2.72,
+    "text": "Okay, well, show me the math of how to get there."
+  },
+  {
+    "start": 1963.96,
+    "duration": 2.0,
+    "text": "Unless you have that math,"
+  },
+  {
+    "start": 1965.96,
+    "duration": 3.16,
+    "text": "it's gonna be really hard to pilot your organization there."
+  },
+  {
+    "start": 1969.12,
+    "duration": 2.64,
+    "text": "And it's not the key mistake people here,"
+  },
+  {
+    "start": 1971.76,
+    "duration": 3.12,
+    "text": "people tend to make here is they assume"
+  },
+  {
+    "start": 1974.88,
+    "duration": 1.2,
+    "text": "that it's the number of reps"
+  },
+  {
+    "start": 1976.12,
+    "duration": 1.2,
+    "text": "times the quota I give them"
+  },
+  {
+    "start": 1977.32,
+    "duration": 2.08,
+    "text": "is the revenue that they produce."
+  },
+  {
+    "start": 1979.4,
+    "duration": 1.72,
+    "text": "That's not really how revenue works."
+  },
+  {
+    "start": 1981.12,
+    "duration": 2.4,
+    "text": "It's the pipeline that you generate,"
+  },
+  {
+    "start": 1983.52,
+    "duration": 4.88,
+    "text": "the ability for you to convert that pipeline into revenue."
+  },
+  {
+    "start": 1988.4,
+    "duration": 3.12,
+    "text": "And then the number of reps is a function of that equation,"
+  },
+  {
+    "start": 1991.52,
+    "duration": 1.76,
+    "text": "but it's not linear."
+  },
+  {
+    "start": 1993.28,
+    "duration": 2.04,
+    "text": "Revenue comes out of generating pipeline,"
+  },
+  {
+    "start": 1995.32,
+    "duration": 1.24,
+    "text": "driving good conversion rates,"
+  },
+  {
+    "start": 1996.56,
+    "duration": 1.12,
+    "text": "and then revenue comes."
+  },
+  {
+    "start": 1997.68,
+    "duration": 1.44,
+    "text": "And part of the conversion rate"
+  },
+  {
+    "start": 1999.12,
+    "duration": 2.44,
+    "text": "is the right number of reps, the right people."
+  },
+  {
+    "start": 2001.56,
+    "duration": 0.84,
+    "text": "So just be careful of that"
+  },
+  {
+    "start": 2002.4,
+    "duration": 1.28,
+    "text": "when you're building your growth model."
+  },
+  {
+    "start": 2003.72,
+    "duration": 2.64,
+    "text": "And this is now my map, this is my plan."
+  },
+  {
+    "start": 2007.6,
+    "duration": 1.6,
+    "text": "And then I think you should establish team rituals"
+  },
+  {
+    "start": 2009.2,
+    "duration": 1.4,
+    "text": "just because it's really easy"
+  },
+  {
+    "start": 2010.6,
+    "duration": 3.64,
+    "text": "and it will get your organization moving faster."
+  },
+  {
+    "start": 2014.24,
+    "duration": 2.32,
+    "text": "So get people doing a written update every week,"
+  },
+  {
+    "start": 2016.56,
+    "duration": 1.28,
+    "text": "you could use Maple or something else,"
+  },
+  {
+    "start": 2017.84,
+    "duration": 1.64,
+    "text": "you could strip it down,"
+  },
+  {
+    "start": 2019.48,
+    "duration": 2.56,
+    "text": "but get information flowing more broadly"
+  },
+  {
+    "start": 2022.04,
+    "duration": 1.04,
+    "text": "across the organization,"
+  },
+  {
+    "start": 2023.08,
+    "duration": 2.64,
+    "text": "have that delivered to you on a weekly basis,"
+  },
+  {
+    "start": 2025.72,
+    "duration": 2.12,
+    "text": "and then bring some structure to your one-on-ones."
+  },
+  {
+    "start": 2027.84,
+    "duration": 1.64,
+    "text": "So many people run one-on-ones as like,"
+  },
+  {
+    "start": 2029.52,
+    "duration": 2.16,
+    "text": "okay, this is your time."
+  },
+  {
+    "start": 2031.68,
+    "duration": 2.32,
+    "text": "You know, I'm here to be a resource to you."
+  },
+  {
+    "start": 2034.0,
+    "duration": 3.48,
+    "text": "I think that's sort of a delinquent version"
+  },
+  {
+    "start": 2037.48,
+    "duration": 1.0,
+    "text": "of running one-on-ones."
+  },
+  {
+    "start": 2038.48,
+    "duration": 2.52,
+    "text": "I prefer to give people a structure to use."
+  },
+  {
+    "start": 2041.0,
+    "duration": 1.56,
+    "text": "And if you can bring some structure,"
+  },
+  {
+    "start": 2042.56,
+    "duration": 1.52,
+    "text": "those meetings will be more productive."
+  },
+  {
+    "start": 2044.08,
+    "duration": 1.24,
+    "text": "They're valuable."
+  },
+  {
+    "start": 2045.32,
+    "duration": 1.68,
+    "text": "30 minutes, two people."
+  },
+  {
+    "start": 2047.0,
+    "duration": 1.92,
+    "text": "It could be an hour with six people."
+  },
+  {
+    "start": 2048.92,
+    "duration": 2.0,
+    "text": "Those are really important uses of time,"
+  },
+  {
+    "start": 2050.92,
+    "duration": 0.88,
+    "text": "so we want to structure them"
+  },
+  {
+    "start": 2051.8,
+    "duration": 1.92,
+    "text": "and make sure that they're really productive."
+  },
+  {
+    "start": 2053.72,
+    "duration": 3.16,
+    "text": "So these are the basics that I would start with."
+  },
+  {
+    "start": 2056.88,
+    "duration": 1.84,
+    "text": "Next is standardization."
+  },
+  {
+    "start": 2058.72,
+    "duration": 1.92,
+    "text": "My whole presentation is about"
+  },
+  {
+    "start": 2060.64,
+    "duration": 1.64,
+    "text": "standardizing things across the board,"
+  },
+  {
+    "start": 2062.28,
+    "duration": 1.32,
+    "text": "so I won't belabor this,"
+  },
+  {
+    "start": 2063.6,
+    "duration": 2.12,
+    "text": "but this is going to reduce the cognitive load."
+  },
+  {
+    "start": 2065.72,
+    "duration": 2.4,
+    "text": "And when I talk about standardization,"
+  },
+  {
+    "start": 2068.12,
+    "duration": 3.08,
+    "text": "I want to use the same concepts and frameworks"
+  },
+  {
+    "start": 2071.2,
+    "duration": 2.72,
+    "text": "across as much of the organization as possible."
+  },
+  {
+    "start": 2073.92,
+    "duration": 2.92,
+    "text": "And so the Maple update that my team writes to me"
+  },
+  {
+    "start": 2076.84,
+    "duration": 3.04,
+    "text": "could be the same update that they write on a key project."
+  },
+  {
+    "start": 2079.88,
+    "duration": 1.24,
+    "text": "So if there's a critical project"
+  },
+  {
+    "start": 2081.12,
+    "duration": 2.32,
+    "text": "and you need an update every week or every two weeks,"
+  },
+  {
+    "start": 2083.44,
+    "duration": 1.08,
+    "text": "just use Maple."
+  },
+  {
+    "start": 2084.52,
+    "duration": 1.88,
+    "text": "Again, it reduces the cognitive load."
+  },
+  {
+    "start": 2086.4,
+    "duration": 3.56,
+    "text": "It's a familiar thing that they know how to use."
+  },
+  {
+    "start": 2089.96,
+    "duration": 3.76,
+    "text": "And I encourage people to book dedicated time"
+  },
+  {
+    "start": 2093.72,
+    "duration": 2.0,
+    "text": "to build some of this stuff every week."
+  },
+  {
+    "start": 2095.72,
+    "duration": 1.88,
+    "text": "Just put 60 minutes in your calendar."
+  },
+  {
+    "start": 2097.6,
+    "duration": 1.24,
+    "text": "This is the time that you're going to use"
+  },
+  {
+    "start": 2098.84,
+    "duration": 1.44,
+    "text": "to work on your system"
+  },
+  {
+    "start": 2100.28,
+    "duration": 1.56,
+    "text": "and that you're going to spend 60 minutes."
+  },
+  {
+    "start": 2101.84,
+    "duration": 1.96,
+    "text": "You're only going to save a bit of time the next week,"
+  },
+  {
+    "start": 2103.8,
+    "duration": 3.12,
+    "text": "but now you're saving 30 minutes every week into perpetuity."
+  },
+  {
+    "start": 2106.92,
+    "duration": 1.28,
+    "text": "That's a good investment."
+  },
+  {
+    "start": 2110.12,
+    "duration": 1.28,
+    "text": "And then finally,"
+  },
+  {
+    "start": 2111.4,
+    "duration": 2.32,
+    "text": "try to get people to all use the same tools."
+  },
+  {
+    "start": 2113.72,
+    "duration": 2.44,
+    "text": "And the common mistake here I see is"
+  },
+  {
+    "start": 2116.68,
+    "duration": 1.36,
+    "text": "your sales team works at a Salesforce."
+  },
+  {
+    "start": 2118.04,
+    "duration": 1.36,
+    "text": "That's where they're putting all their information."
+  },
+  {
+    "start": 2119.4,
+    "duration": 1.44,
+    "text": "Their forecast is there."
+  },
+  {
+    "start": 2120.84,
+    "duration": 2.8,
+    "text": "And then an executive says,"
+  },
+  {
+    "start": 2123.64,
+    "duration": 1.24,
+    "text": "okay, can you take that forecast"
+  },
+  {
+    "start": 2124.88,
+    "duration": 2.24,
+    "text": "and put it in a Notion update every week?"
+  },
+  {
+    "start": 2127.12,
+    "duration": 1.12,
+    "text": "Resist that urge."
+  },
+  {
+    "start": 2128.24,
+    "duration": 2.48,
+    "text": "Where your team operates and where that information lives,"
+  },
+  {
+    "start": 2130.72,
+    "duration": 2.32,
+    "text": "encourage those people to live in the same tools"
+  },
+  {
+    "start": 2133.04,
+    "duration": 3.52,
+    "text": "so that you're not fracturing the way information flows."
+  },
+  {
+    "start": 2136.56,
+    "duration": 2.16,
+    "text": "So agree to a common set of tools."
+  },
+  {
+    "start": 2138.72,
+    "duration": 1.24,
+    "text": "If you're in Notion,"
+  },
+  {
+    "start": 2139.96,
+    "duration": 2.2,
+    "text": "ask another team not to be using Trello"
+  },
+  {
+    "start": 2142.16,
+    "duration": 2.8,
+    "text": "for the same information or Google Drive."
+  },
+  {
+    "start": 2145.32,
+    "duration": 2.28,
+    "text": "Try to get people to agree on common sets of things"
+  },
+  {
+    "start": 2147.6,
+    "duration": 2.8,
+    "text": "across not just revenue, but the entire organization."
+  },
+  {
+    "start": 2152.4,
+    "duration": 0.96,
+    "text": "Document it all."
+  },
+  {
+    "start": 2153.36,
+    "duration": 2.76,
+    "text": "Just spend time every week writing things down."
+  },
+  {
+    "start": 2156.12,
+    "duration": 1.64,
+    "text": "Give people what good looks like"
+  },
+  {
+    "start": 2157.76,
+    "duration": 2.36,
+    "text": "so that they can do this well."
+  },
+  {
+    "start": 2160.12,
+    "duration": 3.6,
+    "text": "It sounds really boring, but it's really, really powerful."
+  },
+  {
+    "start": 2163.72,
+    "duration": 2.56,
+    "text": "And it will accelerate the organization."
+  },
+  {
+    "start": 2168.12,
+    "duration": 3.88,
+    "text": "Lastly, so once you have established some of these rhythms,"
+  },
+  {
+    "start": 2172.0,
+    "duration": 1.8,
+    "text": "they're in place, you're feeling good about them,"
+  },
+  {
+    "start": 2174.2,
+    "duration": 1.84,
+    "text": "people understand how they're working,"
+  },
+  {
+    "start": 2176.04,
+    "duration": 2.12,
+    "text": "then you can automate it."
+  },
+  {
+    "start": 2178.16,
+    "duration": 2.88,
+    "text": "Don't jump to automation at the beginning"
+  },
+  {
+    "start": 2181.04,
+    "duration": 1.24,
+    "text": "because you'll automate a bunch of stuff"
+  },
+  {
+    "start": 2182.28,
+    "duration": 1.28,
+    "text": "that doesn't work,"
+  },
+  {
+    "start": 2183.56,
+    "duration": 2.56,
+    "text": "and then you've wasted all that time on the automation."
+  },
+  {
+    "start": 2186.12,
+    "duration": 2.4,
+    "text": "Get your rhythms in place in a really good spot"
+  },
+  {
+    "start": 2188.52,
+    "duration": 2.16,
+    "text": "and then find opportunities to automate."
+  },
+  {
+    "start": 2190.68,
+    "duration": 4.2,
+    "text": "And so there's a bunch of tools to use here."
+  },
+  {
+    "start": 2194.88,
+    "duration": 1.68,
+    "text": "We use a tool called Momentum."
+  },
+  {
+    "start": 2196.56,
+    "duration": 2.36,
+    "text": "The founders are here in the audience"
+  },
+  {
+    "start": 2198.92,
+    "duration": 2.68,
+    "text": "to push information to me as a revenue leader"
+  },
+  {
+    "start": 2201.6,
+    "duration": 1.24,
+    "text": "that I want to see."
+  },
+  {
+    "start": 2202.88,
+    "duration": 2.24,
+    "text": "So when something happens in Salesforce,"
+  },
+  {
+    "start": 2205.12,
+    "duration": 2.24,
+    "text": "a case has been in back to sales"
+  },
+  {
+    "start": 2207.36,
+    "duration": 1.52,
+    "text": "for over a certain number of days,"
+  },
+  {
+    "start": 2208.88,
+    "duration": 2.28,
+    "text": "I want the leader to be alerted of that"
+  },
+  {
+    "start": 2211.16,
+    "duration": 1.88,
+    "text": "so that they can take some action."
+  },
+  {
+    "start": 2213.04,
+    "duration": 1.84,
+    "text": "That would be an example of a measurement rhythm"
+  },
+  {
+    "start": 2214.88,
+    "duration": 3.6,
+    "text": "that then we automate and push to the leader in Slack"
+  },
+  {
+    "start": 2218.48,
+    "duration": 1.16,
+    "text": "where they're going to be alerted"
+  },
+  {
+    "start": 2219.64,
+    "duration": 1.8,
+    "text": "so that they can go take some action."
+  },
+  {
+    "start": 2221.44,
+    "duration": 2.56,
+    "text": "And so you can automate a whole ton of stuff."
+  },
+  {
+    "start": 2224.0,
+    "duration": 3.68,
+    "text": "Reports pushed to you on a certain timeline"
+  },
+  {
+    "start": 2227.68,
+    "duration": 2.0,
+    "text": "so that you have that information."
+  },
+  {
+    "start": 2229.68,
+    "duration": 2.0,
+    "text": "Get your rhythms in place,"
+  },
+  {
+    "start": 2231.68,
+    "duration": 3.08,
+    "text": "but then definitely try to automate it and streamline."
+  },
+  {
+    "start": 2234.76,
+    "duration": 2.04,
+    "text": "Then you'll really feel like Tony Stark."
+  },
+  {
+    "start": 2236.8,
+    "duration": 1.92,
+    "text": "Okay, our keys to victory."
+  },
+  {
+    "start": 2238.72,
+    "duration": 1.92,
+    "text": "Build it up over time."
+  },
+  {
+    "start": 2240.64,
+    "duration": 2.64,
+    "text": "Start with the basics and don't over-engineer it."
+  },
+  {
+    "start": 2243.28,
+    "duration": 1.84,
+    "text": "Standardize the formats"
+  },
+  {
+    "start": 2245.12,
+    "duration": 2.84,
+    "text": "and agree on common tools as much as you can."
+  },
+  {
+    "start": 2247.96,
+    "duration": 1.2,
+    "text": "Get good at documentation."
+  },
+  {
+    "start": 2249.16,
+    "duration": 2.64,
+    "text": "Spend the time dedicated to writing"
+  },
+  {
+    "start": 2251.8,
+    "duration": 2.84,
+    "text": "and then and only then use technology to automate."
+  },
+  {
+    "start": 2255.52,
+    "duration": 1.52,
+    "text": "All right, our key takeaways."
+  },
+  {
+    "start": 2257.04,
+    "duration": 2.84,
+    "text": "Final reminder on what we covered today."
+  },
+  {
+    "start": 2259.88,
+    "duration": 1.56,
+    "text": "Your revenue operating system"
+  },
+  {
+    "start": 2261.44,
+    "duration": 1.84,
+    "text": "is here to bring order to chaos,"
+  },
+  {
+    "start": 2263.28,
+    "duration": 2.12,
+    "text": "to keep you out of the vortex,"
+  },
+  {
+    "start": 2265.4,
+    "duration": 1.44,
+    "text": "to make things predictable"
+  },
+  {
+    "start": 2266.84,
+    "duration": 2.04,
+    "text": "and to push your organization faster."
+  },
+  {
+    "start": 2268.88,
+    "duration": 2.24,
+    "text": "We're going to apply the minimum effective dosage."
+  },
+  {
+    "start": 2271.12,
+    "duration": 2.68,
+    "text": "Just do the smallest amount"
+  },
+  {
+    "start": 2273.8,
+    "duration": 2.16,
+    "text": "to get you the outcome you want."
+  },
+  {
+    "start": 2275.96,
+    "duration": 2.24,
+    "text": "And there's four pieces to this flywheel."
+  },
+  {
+    "start": 2278.2,
+    "duration": 1.6,
+    "text": "We want to measure, we want to manage,"
+  },
+  {
+    "start": 2279.8,
+    "duration": 2.52,
+    "text": "we want to plan, and we want to communicate."
+  },
+  {
+    "start": 2282.32,
+    "duration": 2.08,
+    "text": "Start with the basics, measurement rhythm,"
+  },
+  {
+    "start": 2284.4,
+    "duration": 2.8,
+    "text": "growth model, and your team rhythms."
+  },
+  {
+    "start": 2287.2,
+    "duration": 1.96,
+    "text": "And finally, just know like, this is hard."
+  },
+  {
+    "start": 2289.16,
+    "duration": 0.96,
+    "text": "It's not easy."
+  },
+  {
+    "start": 2290.12,
+    "duration": 1.8,
+    "text": "These things take time to build up."
+  },
+  {
+    "start": 2291.92,
+    "duration": 1.84,
+    "text": "You're asking people to do new things."
+  },
+  {
+    "start": 2293.76,
+    "duration": 1.04,
+    "text": "It is real work."
+  },
+  {
+    "start": 2294.8,
+    "duration": 2.4,
+    "text": "Go into deploying any of this stuff"
+  },
+  {
+    "start": 2297.2,
+    "duration": 2.12,
+    "text": "knowing that there is going to be some challenge,"
+  },
+  {
+    "start": 2299.32,
+    "duration": 2.48,
+    "text": "but it is critical, especially as you grow,"
+  },
+  {
+    "start": 2301.8,
+    "duration": 2.52,
+    "text": "especially if you want to get into that hyper growth,"
+  },
+  {
+    "start": 2304.32,
+    "duration": 2.0,
+    "text": "2X year over year, above 10 million"
+  },
+  {
+    "start": 2306.32,
+    "duration": 3.76,
+    "text": "when there's a lot of things happening at any given time."
+  },
+  {
+    "start": 2310.08,
+    "duration": 4.52,
+    "text": "Having a system for this is difficult, but mission critical."
+  },
+  {
+    "start": 2314.6,
+    "duration": 0.84,
+    "text": "That's it for me."
+  },
+  {
+    "start": 2315.44,
+    "duration": 0.84,
+    "text": "Thank you, everybody."
+  },
+  {
+    "start": 2316.28,
+    "duration": 0.84,
+    "text": "Appreciate the time."
+  }
+]

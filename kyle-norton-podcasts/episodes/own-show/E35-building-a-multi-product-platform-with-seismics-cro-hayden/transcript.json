@@ -1,0 +1,4467 @@
+[
+  {
+    "start": 7.64,
+    "duration": 2.76,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline."
+  },
+  {
+    "start": 11.88,
+    "duration": 6.08,
+    "text": "I'm your host Kyle Norton, CRO@owner.com and every Wednesday we"
+  },
+  {
+    "start": 17.96,
+    "duration": 2.04,
+    "text": "dive deep into the strategies and tactics being used to"
+  },
+  {
+    "start": 20.0,
+    "duration": 3.44,
+    "text": "drive success by the best revenue leaders in the world."
+  },
+  {
+    "start": 24.24,
+    "duration": 3.32,
+    "text": "So join me as I sit down with revenue operators"
+  },
+  {
+    "start": 27.56,
+    "duration": 3.08,
+    "text": "to discuss actionable frameworks that you can implement in your"
+  },
+  {
+    "start": 30.64,
+    "duration": 4.1,
+    "text": "business today with no fluff, no sales pitches and no"
+  },
+  {
+    "start": 34.74,
+    "duration": 4.32,
+    "text": "platitudes. This episode is brought to you by Momentum, the"
+  },
+  {
+    "start": 39.06,
+    "duration": 5.84,
+    "text": "revenue orchestration platform that helps revenue teams actually execute. If"
+  },
+  {
+    "start": 44.9,
+    "duration": 2.44,
+    "text": "your pipeline is clogged with admin, buried insights and disconnected"
+  },
+  {
+    "start": 47.34,
+    "duration": 4.96,
+    "text": "tools, Momentum fixes that. It automates workflows, structures customer signals"
+  },
+  {
+    "start": 52.3,
+    "duration": 5.64,
+    "text": "and drives next steps with AI. See how Zscaler, owner.com"
+  },
+  {
+    "start": 57.02,
+    "duration": 5.88,
+    "text": "and demand base are supercharging revenue execution at Momentum IO."
+  },
+  {
+    "start": 65.68,
+    "duration": 3.28,
+    "text": "Today's guest is Hayden Stafford who is the President and"
+  },
+  {
+    "start": 68.96,
+    "duration": 5.56,
+    "text": "CRO at Seismic. Hayden turned the Microsoft Dynamics business from"
+  },
+  {
+    "start": 74.52,
+    "duration": 4.32,
+    "text": "a measly 750 million ARR business unit to a $6"
+  },
+  {
+    "start": 78.84,
+    "duration": 5.92,
+    "text": "billion CRM powerhouse. Over his 27 year career, he's managed"
+  },
+  {
+    "start": 84.76,
+    "duration": 2.4,
+    "text": "multibillion dollar go to market ops with teams of 3500"
+  },
+  {
+    "start": 87.16,
+    "duration": 5.04,
+    "text": "plus and has led a bunch of really interesting transformations"
+  },
+  {
+    "start": 92.2,
+    "duration": 4.49,
+    "text": "which we're going to unpack today. Going through financial crises"
+  },
+  {
+    "start": 96.85,
+    "duration": 4.08,
+    "text": "Covid which we all experienced going from SMB to enterprise"
+  },
+  {
+    "start": 100.93,
+    "duration": 3.16,
+    "text": "point solution to platform and we're going to talk about"
+  },
+  {
+    "start": 104.25,
+    "duration": 6.28,
+    "text": "specifically the transformation at Seismic going from a single product"
+  },
+  {
+    "start": 110.69,
+    "duration": 2.92,
+    "text": "company to a multi product platform. A bunch of the"
+  },
+  {
+    "start": 113.61,
+    "duration": 4.32,
+    "text": "lessons that he brought from Microsoft along the way. For"
+  },
+  {
+    "start": 117.93,
+    "duration": 2.4,
+    "text": "those of you who don't know Seismic, they are well"
+  },
+  {
+    "start": 120.33,
+    "duration": 1.96,
+    "text": "on their way to a half a billion dollars in"
+  },
+  {
+    "start": 122.29,
+    "duration": 4.13,
+    "text": "ARR for 1400 employees. It's one of the marquee solutions"
+  },
+  {
+    "start": 127.58,
+    "duration": 3.56,
+    "text": "in the enablement content management. You'll give me the better"
+  },
+  {
+    "start": 131.3,
+    "duration": 5.6,
+    "text": "elevator pitch but really excited about this one. Hayden. Appreciate"
+  },
+  {
+    "start": 136.9,
+    "duration": 3.64,
+    "text": "you taking the time. Of course. Kyle really enjoyed doing"
+  },
+  {
+    "start": 140.54,
+    "duration": 3.2,
+    "text": "this. Love your format as well. Kind of going deep"
+  },
+  {
+    "start": 143.74,
+    "duration": 4.32,
+    "text": "on a few topics versus shotgun scatter conversation. So delighted"
+  },
+  {
+    "start": 148.06,
+    "duration": 1.96,
+    "text": "to be here. Looks like it's a sunny day where"
+  },
+  {
+    "start": 150.02,
+    "duration": 5.52,
+    "text": "you are as well. Based on behind you. I'm in"
+  },
+  {
+    "start": 155.54,
+    "duration": 4.04,
+    "text": "San Francisco today so it's sunny today. In another hour"
+  },
+  {
+    "start": 159.58,
+    "duration": 1.44,
+    "text": "it could be foggy, it could be cold. You never"
+  },
+  {
+    "start": 161.02,
+    "duration": 5.72,
+    "text": "know at this place. Totally. So just for folks who"
+  },
+  {
+    "start": 166.74,
+    "duration": 3.08,
+    "text": "don't know like what is seismic, what's the elevator pitch"
+  },
+  {
+    "start": 169.82,
+    "duration": 2.08,
+    "text": "and what else did I miss in your background that"
+  },
+  {
+    "start": 171.9,
+    "duration": 1.2,
+    "text": "you want to let people know about? Yep. Well you"
+  },
+  {
+    "start": 173.1,
+    "duration": 2.6,
+    "text": "hit it on the head. We are well on our"
+  },
+  {
+    "start": 175.7,
+    "duration": 2.52,
+    "text": "way to a half a billion. We are about 1400"
+  },
+  {
+    "start": 178.22,
+    "duration": 3.68,
+    "text": "people at the company we are the global leader in"
+  },
+  {
+    "start": 181.9,
+    "duration": 3.11,
+    "text": "revenue enablement. So you know the right content with the"
+  },
+  {
+    "start": 185.01,
+    "duration": 5.68,
+    "text": "right context for the right client interaction. Everything from onboarding"
+  },
+  {
+    "start": 190.69,
+    "duration": 2.8,
+    "text": "and training through to getting the right presentation or the"
+  },
+  {
+    "start": 193.49,
+    "duration": 4.44,
+    "text": "right artifact to send to your customer to engaging with"
+  },
+  {
+    "start": 197.93,
+    "duration": 4.88,
+    "text": "them or your prospects and getting the analytics back. Unifying"
+  },
+  {
+    "start": 202.81,
+    "duration": 1.68,
+    "text": "your all of your go to market teams, from marketing"
+  },
+  {
+    "start": 204.49,
+    "duration": 4.68,
+    "text": "and ops and enablement to CROs and revenue leaders to"
+  },
+  {
+    "start": 209.17,
+    "duration": 5.56,
+    "text": "the AES, the CSMs, the partner teams. That's where we"
+  },
+  {
+    "start": 214.73,
+    "duration": 5.84,
+    "text": "play. So definitely a platform play with multi Personas that"
+  },
+  {
+    "start": 220.81,
+    "duration": 3.04,
+    "text": "have a stake in seismic. Yeah, and we're going to"
+  },
+  {
+    "start": 223.85,
+    "duration": 3.36,
+    "text": "talk about the Persona evolution in a big way because"
+  },
+  {
+    "start": 227.21,
+    "duration": 5.48,
+    "text": "I thought that was a fascinating takeaway. So the topic"
+  },
+  {
+    "start": 232.69,
+    "duration": 2.48,
+    "text": "is how to go from product to platform. But just"
+  },
+  {
+    "start": 235.44,
+    "duration": 4.08,
+    "text": "before we dive into the how and the why, maybe"
+  },
+  {
+    "start": 239.52,
+    "duration": 3.32,
+    "text": "just define for people because this word gets thrown around"
+  },
+  {
+    "start": 242.84,
+    "duration": 2.04,
+    "text": "a lot like what is a platform and what makes"
+  },
+  {
+    "start": 244.88,
+    "duration": 4.12,
+    "text": "it different in terms of company building. Yeah, not using"
+  },
+  {
+    "start": 249.0,
+    "duration": 6.96,
+    "text": "US seismic as the any context, but lot of companies"
+  },
+  {
+    "start": 255.04,
+    "duration": 5.88,
+    "text": "start solving a single problem, whether it's a security problem,"
+  },
+  {
+    "start": 260.0,
+    "duration": 4.23,
+    "text": "it's an infrastructure problem, it's a data center problem, it's"
+  },
+  {
+    "start": 264.23,
+    "duration": 3.2,
+    "text": "a sales problem, whatever the case may be. Generally. Well,"
+  },
+  {
+    "start": 267.43,
+    "duration": 2.84,
+    "text": "you know what, let's use Salesforce. When they first came"
+  },
+  {
+    "start": 270.27,
+    "duration": 4.2,
+    "text": "out, they solved for CRM. They were a CRM product"
+  },
+  {
+    "start": 275.63,
+    "duration": 5.04,
+    "text": "company. And then as a company grows, they begin to"
+  },
+  {
+    "start": 280.67,
+    "duration": 2.52,
+    "text": "offer more and more features and functions that stitch together"
+  },
+  {
+    "start": 284.67,
+    "duration": 4.12,
+    "text": "the various connection points that a seller might need or"
+  },
+  {
+    "start": 288.79,
+    "duration": 2.96,
+    "text": "a sales manager might need. So you go from solving"
+  },
+  {
+    "start": 291.75,
+    "duration": 2.73,
+    "text": "a single problem to being able to solve a number"
+  },
+  {
+    "start": 305.84,
+    "duration": 4.0,
+    "text": "a different purpose. That's how I would define a platform."
+  },
+  {
+    "start": 309.0,
+    "duration": 3.48,
+    "text": "And the most important piece, it's all integrated, it's all"
+  },
+  {
+    "start": 312.48,
+    "duration": 3.84,
+    "text": "on one platform. Implementation for each of those pieces doesn't"
+  },
+  {
+    "start": 316.32,
+    "duration": 4.03,
+    "text": "have to be another herculean task. That work is done"
+  },
+  {
+    "start": 320.35,
+    "duration": 5.8,
+    "text": "for customers by platform company owners. Right. And is this"
+  },
+  {
+    "start": 326.15,
+    "duration": 4.44,
+    "text": "an eventuality for most companies as they graduate into the"
+  },
+  {
+    "start": 330.59,
+    "duration": 4.0,
+    "text": "hundreds of millions of ARR? Is it essentially a necessity"
+  },
+  {
+    "start": 334.59,
+    "duration": 4.08,
+    "text": "that people go from a more verticalized solution to something"
+  },
+  {
+    "start": 338.67,
+    "duration": 4.36,
+    "text": "that is more platform oriented? Based on my experience, Kyle,"
+  },
+  {
+    "start": 343.35,
+    "duration": 3.96,
+    "text": "it has to be. I think those who don't extend"
+  },
+  {
+    "start": 348.71,
+    "duration": 5.8,
+    "text": "and you know, reach further into other capabilities will likely"
+  },
+  {
+    "start": 354.51,
+    "duration": 2.72,
+    "text": "get usurped or passed. I was just at a major"
+  },
+  {
+    "start": 357.23,
+    "duration": 4.28,
+    "text": "event for bank of America yesterday as an example. It"
+  },
+  {
+    "start": 361.51,
+    "duration": 2.76,
+    "text": "was their top vendor partners and they talked about point"
+  },
+  {
+    "start": 364.35,
+    "duration": 3.96,
+    "text": "solutions and they talked about platforms. It's on the minds"
+  },
+  {
+    "start": 368.31,
+    "duration": 4.2,
+    "text": "of the biggest companies in the world. They, they don't"
+  },
+  {
+    "start": 372.51,
+    "duration": 1.92,
+    "text": "want to necessarily have the best of breed for one"
+  },
+  {
+    "start": 374.43,
+    "duration": 3.73,
+    "text": "little thing. They want the best of platform, which may"
+  },
+  {
+    "start": 378.16,
+    "duration": 4.32,
+    "text": "mean good enough for some capabilities. So if you are"
+  },
+  {
+    "start": 382.48,
+    "duration": 6.12,
+    "text": "a single point product, point solution company, you will not"
+  },
+  {
+    "start": 388.6,
+    "duration": 3.0,
+    "text": "always win with the larger enterprises who are looking for"
+  },
+  {
+    "start": 391.6,
+    "duration": 5.0,
+    "text": "a best of platform versus best of breed. Right. And"
+  },
+  {
+    "start": 396.6,
+    "duration": 2.28,
+    "text": "so you guys are super deep in all the biggest"
+  },
+  {
+    "start": 398.88,
+    "duration": 6.08,
+    "text": "banks. Financial services is a big sector. You are largely"
+  },
+  {
+    "start": 404.96,
+    "duration": 4.64,
+    "text": "selling into true enterprise. Is that correct at seismic? 100%"
+  },
+  {
+    "start": 409.6,
+    "duration": 2.44,
+    "text": "correct. About 85% of our business is enterprise and we"
+  },
+  {
+    "start": 412.04,
+    "duration": 5.16,
+    "text": "define enterprise as anything from, call it 3,000 employees up."
+  },
+  {
+    "start": 418.6,
+    "duration": 1.8,
+    "text": "That being said, we have plenty of smaller companies and"
+  },
+  {
+    "start": 420.4,
+    "duration": 4.72,
+    "text": "it's equally applicable. But for what we solve for larger,"
+  },
+  {
+    "start": 425.12,
+    "duration": 5.5,
+    "text": "more complicated organizations benefit most from engaging a company like"
+  },
+  {
+    "start": 430.62,
+    "duration": 2.8,
+    "text": "Seismic. And we did start in banking. Our first five,"
+  },
+  {
+    "start": 433.42,
+    "duration": 4.92,
+    "text": "six years was almost entirely asset management, wealth management and"
+  },
+  {
+    "start": 438.34,
+    "duration": 5.84,
+    "text": "corporate and business banking. Because of the compliance requirements and"
+  },
+  {
+    "start": 444.18,
+    "duration": 4.76,
+    "text": "the necessities there. Yeah, exactly. And we were a one"
+  },
+  {
+    "start": 448.94,
+    "duration": 5.56,
+    "text": "trick pony then. We were a content automation provider. So"
+  },
+  {
+    "start": 454.5,
+    "duration": 6.28,
+    "text": "we helped financial services organizations create compliant and on time"
+  },
+  {
+    "start": 460.02,
+    "duration": 3.4,
+    "text": "assets that they distributed to their customers. You get it"
+  },
+  {
+    "start": 463.42,
+    "duration": 4.4,
+    "text": "wrong, you get a fine, that sort of thing within"
+  },
+  {
+    "start": 467.82,
+    "duration": 2.48,
+    "text": "banking. And we did that very well for a long"
+  },
+  {
+    "start": 470.3,
+    "duration": 3.08,
+    "text": "period of time. But as is the case with anyone"
+  },
+  {
+    "start": 473.38,
+    "duration": 3.24,
+    "text": "who has a point product, you begin to run out"
+  },
+  {
+    "start": 476.62,
+    "duration": 2.8,
+    "text": "of tam. So it's all about, you know, total addressable"
+  },
+  {
+    "start": 479.42,
+    "duration": 5.69,
+    "text": "market expansion, TAM expansion. So let's just pull on that"
+  },
+  {
+    "start": 485.11,
+    "duration": 5.6,
+    "text": "thread. So Seismic was a single product content automation platform,"
+  },
+  {
+    "start": 490.95,
+    "duration": 4.68,
+    "text": "mostly infins, fiserv and like what is the platform now"
+  },
+  {
+    "start": 495.63,
+    "duration": 1.68,
+    "text": "and how do you describe it to folks in terms"
+  },
+  {
+    "start": 497.31,
+    "duration": 6.36,
+    "text": "of the. So yes, we started automating content. So think"
+  },
+  {
+    "start": 504.95,
+    "duration": 3.84,
+    "text": "you get a prospectus from Fidelity or Vanguard, a fund"
+  },
+  {
+    "start": 508.79,
+    "duration": 3.32,
+    "text": "you have with Vanguard fact sheets from asset managers. It's"
+  },
+  {
+    "start": 513.6,
+    "duration": 3.0,
+    "text": "information about the thing that they have, whether it's a"
+  },
+  {
+    "start": 516.6,
+    "duration": 3.84,
+    "text": "fund or it's a asset class. It you know, you've"
+  },
+  {
+    "start": 520.44,
+    "duration": 5.4,
+    "text": "got performance reviews, you've got peer benchmarks, you've got fund"
+  },
+  {
+    "start": 525.84,
+    "duration": 4.84,
+    "text": "managers, descriptions of holdings, those sorts of things. We did"
+  },
+  {
+    "start": 530.68,
+    "duration": 1.36,
+    "text": "a lot of that for all the largest asset managers"
+  },
+  {
+    "start": 532.04,
+    "duration": 3.96,
+    "text": "and, and big, big banks. We started to create all"
+  },
+  {
+    "start": 536.0,
+    "duration": 3.21,
+    "text": "of this stuff and you know, came to the realization"
+  },
+  {
+    "start": 539.21,
+    "duration": 4.04,
+    "text": "you need to store this somewhere. And what I as"
+  },
+  {
+    "start": 543.25,
+    "duration": 6.68,
+    "text": "maybe a bonds guy, I sell bonds in bond funds."
+  },
+  {
+    "start": 550.81,
+    "duration": 1.56,
+    "text": "I want to see bond stuff, you want to see"
+  },
+  {
+    "start": 552.45,
+    "duration": 4.12,
+    "text": "equity stuff or you want to see fixed income stuff."
+  },
+  {
+    "start": 557.61,
+    "duration": 1.88,
+    "text": "So we had to separate it so that you could"
+  },
+  {
+    "start": 559.49,
+    "duration": 4.48,
+    "text": "only see what you were entitled to see or what"
+  },
+  {
+    "start": 563.97,
+    "duration": 3.0,
+    "text": "you needed to see. So we quickly then moved into"
+  },
+  {
+    "start": 566.97,
+    "duration": 1.17,
+    "text": "once you create the stuff, you got to store it"
+  },
+  {
+    "start": 568.14,
+    "duration": 3.32,
+    "text": "somewhere and store it in a compliant manner and allow"
+  },
+  {
+    "start": 571.46,
+    "duration": 3.52,
+    "text": "it to be shared with the people who it's allowed"
+  },
+  {
+    "start": 574.98,
+    "duration": 4.0,
+    "text": "to be shared to. As we developed that capability became"
+  },
+  {
+    "start": 578.98,
+    "duration": 4.92,
+    "text": "very clear. Large technology companies were very similar, didn't have"
+  },
+  {
+    "start": 583.9,
+    "duration": 5.44,
+    "text": "obviously the compliance constraints, but you had sellers in California"
+  },
+  {
+    "start": 589.42,
+    "duration": 3.92,
+    "text": "and customer success managers in Germany that had very, very"
+  },
+  {
+    "start": 593.34,
+    "duration": 3.13,
+    "text": "different needs of what they needed to see and what"
+  },
+  {
+    "start": 596.47,
+    "duration": 5.52,
+    "text": "they shared. So why bother polluting your SharePoint site or"
+  },
+  {
+    "start": 601.99,
+    "duration": 3.68,
+    "text": "your, your G Drive site with all this stuff and"
+  },
+  {
+    "start": 605.67,
+    "duration": 1.36,
+    "text": "you have to find it. So then we, so we"
+  },
+  {
+    "start": 607.03,
+    "duration": 5.6,
+    "text": "branched into content management. Then we got into obviously the"
+  },
+  {
+    "start": 612.63,
+    "duration": 2.44,
+    "text": "learning aspect and learning from the standpoint of field readiness."
+  },
+  {
+    "start": 615.47,
+    "duration": 3.96,
+    "text": "If you're launching a new product, if you're, you know,"
+  },
+  {
+    "start": 619.43,
+    "duration": 2.76,
+    "text": "you're running a new sales play or any you're expanding"
+  },
+  {
+    "start": 622.19,
+    "duration": 5.47,
+    "text": "in a new geo, how do you know your team's"
+  },
+  {
+    "start": 627.66,
+    "duration": 2.84,
+    "text": "ready? How do you get them ready? So that's the"
+  },
+  {
+    "start": 630.5,
+    "duration": 3.0,
+    "text": "learning aspect again. Content is core here, right? Because it"
+  },
+  {
+    "start": 633.5,
+    "duration": 2.56,
+    "text": "drives the learning materials. And then we really got into"
+  },
+  {
+    "start": 636.06,
+    "duration": 4.28,
+    "text": "the space of like the meeting itself. How are your"
+  },
+  {
+    "start": 640.34,
+    "duration": 4.4,
+    "text": "teams preparing for meetings? How are they conducting their meetings?"
+  },
+  {
+    "start": 644.82,
+    "duration": 2.8,
+    "text": "The follow up actions, we all know that prompt follow"
+  },
+  {
+    "start": 647.62,
+    "duration": 5.13,
+    "text": "up is king, right? So kind of that whole, that"
+  },
+  {
+    "start": 652.75,
+    "duration": 3.2,
+    "text": "whole experience with the customer for that big meeting and"
+  },
+  {
+    "start": 655.95,
+    "duration": 2.6,
+    "text": "then obviously the last piece is just engaging with the"
+  },
+  {
+    "start": 658.55,
+    "duration": 5.28,
+    "text": "customers with content and getting the insights and analytics back"
+  },
+  {
+    "start": 663.83,
+    "duration": 2.08,
+    "text": "from them around what they're looking at, how long they're"
+  },
+  {
+    "start": 665.91,
+    "duration": 2.76,
+    "text": "looking at, who they might be sharing it with. All"
+  },
+  {
+    "start": 668.67,
+    "duration": 2.4,
+    "text": "of this fits within that idea of the right content"
+  },
+  {
+    "start": 672.55,
+    "duration": 3.86,
+    "text": "with the right context for the right client. That's, that's"
+  },
+  {
+    "start": 676.41,
+    "duration": 3.6,
+    "text": "who we are. We span a number of point solutions."
+  },
+  {
+    "start": 680.01,
+    "duration": 5.36,
+    "text": "There are plenty, tons of very good point solution learning"
+  },
+  {
+    "start": 685.45,
+    "duration": 5.08,
+    "text": "customers like LMS type stuff. There are tons of content"
+  },
+  {
+    "start": 690.69,
+    "duration": 3.4,
+    "text": "management systems out there. There are tons of visualization and"
+  },
+  {
+    "start": 694.09,
+    "duration": 4.24,
+    "text": "data data analytics companies out there. There are great companies"
+  },
+  {
+    "start": 698.33,
+    "duration": 4.15,
+    "text": "that allow for sending of assets to customers. Hell, just"
+  },
+  {
+    "start": 702.48,
+    "duration": 4.24,
+    "text": "your email is a good example. But we represent a"
+  },
+  {
+    "start": 706.72,
+    "duration": 2.76,
+    "text": "platform that brings it all together. And almost as important"
+  },
+  {
+    "start": 709.48,
+    "duration": 2.76,
+    "text": "that it's all together on one platform, it's seamless, single"
+  },
+  {
+    "start": 712.24,
+    "duration": 4.92,
+    "text": "sign on contextual experience is that it integrates well and"
+  },
+  {
+    "start": 717.16,
+    "duration": 5.76,
+    "text": "is plugged into other platforms such that you don't have"
+  },
+  {
+    "start": 722.92,
+    "duration": 3.16,
+    "text": "to necessarily do application flipping. So everything I just talked"
+  },
+  {
+    "start": 726.08,
+    "duration": 3.28,
+    "text": "about, from onboarding an employee to getting them ready to"
+  },
+  {
+    "start": 729.36,
+    "duration": 4.96,
+    "text": "sell your new widget, to consuming content, building content, sending"
+  },
+  {
+    "start": 734.32,
+    "duration": 2.76,
+    "text": "content to a customer, that can all be done within"
+  },
+  {
+    "start": 738.56,
+    "duration": 6.0,
+    "text": "Outlook, within Salesforce. You know, any other platform of that"
+  },
+  {
+    "start": 744.56,
+    "duration": 4.64,
+    "text": "nature. Google G Drive, G Suite, that's the that's our"
+  },
+  {
+    "start": 749.2,
+    "duration": 4.96,
+    "text": "platform interacting with other platforms. Make sense. Very interesting. Yeah,"
+  },
+  {
+    "start": 754.16,
+    "duration": 5.08,
+    "text": "yeah. And so what was the timeline across going from"
+  },
+  {
+    "start": 761.08,
+    "duration": 6.12,
+    "text": "just content management for asset managers to adding LMS to"
+  },
+  {
+    "start": 767.2,
+    "duration": 3.88,
+    "text": "adding the meeting stuff, to adding the customer touch points?"
+  },
+  {
+    "start": 771.4,
+    "duration": 3.64,
+    "text": "Was this every year there was a launch or just"
+  },
+  {
+    "start": 775.04,
+    "duration": 4.72,
+    "text": "give me the scope. It's a great question and it's"
+  },
+  {
+    "start": 779.76,
+    "duration": 2.44,
+    "text": "actually a very relevant question to kind of why I"
+  },
+  {
+    "start": 782.2,
+    "duration": 3.24,
+    "text": "came on board to the company and why they came"
+  },
+  {
+    "start": 785.44,
+    "duration": 5.24,
+    "text": "looking. We were an automation only company for I'd say"
+  },
+  {
+    "start": 790.68,
+    "duration": 1.88,
+    "text": "three years, four years. I, I could be off by"
+  },
+  {
+    "start": 792.56,
+    "duration": 3.04,
+    "text": "a year or two. Then we got into content and"
+  },
+  {
+    "start": 795.6,
+    "duration": 6.08,
+    "text": "that was it for probably till about 2018, 19, maybe"
+  },
+  {
+    "start": 801.68,
+    "duration": 4.84,
+    "text": "even 2020, I'd say 2018, let's call it that. And"
+  },
+  {
+    "start": 806.0,
+    "duration": 4.52,
+    "text": "then we, we bought a couple companies that gave us"
+  },
+  {
+    "start": 810.52,
+    "duration": 2.8,
+    "text": "added capabilities. Give you a, give you a good example."
+  },
+  {
+    "start": 813.32,
+    "duration": 4.32,
+    "text": "There are loads of point solutions out there for sharing"
+  },
+  {
+    "start": 817.64,
+    "duration": 5.04,
+    "text": "content over LinkedIn or over Twitter or X. There's lots"
+  },
+  {
+    "start": 822.68,
+    "duration": 1.68,
+    "text": "of point solutions to do that. But doing it in"
+  },
+  {
+    "start": 824.36,
+    "duration": 2.8,
+    "text": "a compliant way with the content that's been approved by"
+  },
+  {
+    "start": 827.16,
+    "duration": 3.88,
+    "text": "your marketing team or your legal team or whatever, we"
+  },
+  {
+    "start": 831.04,
+    "duration": 2.16,
+    "text": "do that. We bought a company to do that. So"
+  },
+  {
+    "start": 833.2,
+    "duration": 5.72,
+    "text": "we started a round of acquisitions in the 2018 timeframe"
+  },
+  {
+    "start": 838.28,
+    "duration": 3.12,
+    "text": "and that's when we started to accelerate the platform concept."
+  },
+  {
+    "start": 842.04,
+    "duration": 5.36,
+    "text": "Okay, and you joined 2022? That's correct. Okay. So the"
+  },
+  {
+    "start": 847.4,
+    "duration": 5.48,
+    "text": "company knew that they were going multi products towards platform."
+  },
+  {
+    "start": 852.44,
+    "duration": 5.16,
+    "text": "You had done this, run this sort of transformation in"
+  },
+  {
+    "start": 857.6,
+    "duration": 3.04,
+    "text": "dynamics. Perfect guy for the role. Makes, makes a ton"
+  },
+  {
+    "start": 860.64,
+    "duration": 2.48,
+    "text": "of sense. Yeah, I mean they definitely, they definitely already"
+  },
+  {
+    "start": 863.12,
+    "duration": 6.0,
+    "text": "been on the way. The big piece was preparedness for"
+  },
+  {
+    "start": 869.12,
+    "duration": 6.52,
+    "text": "public markets as an example, better controls, better process, more"
+  },
+  {
+    "start": 875.64,
+    "duration": 7.0,
+    "text": "visibility and also just expansion, expansion of our markets. So"
+  },
+  {
+    "start": 882.88,
+    "duration": 2.92,
+    "text": "that was one of the reasons. And I came on"
+  },
+  {
+    "start": 885.8,
+    "duration": 1.64,
+    "text": "just as we were buying that learning capability. So we"
+  },
+  {
+    "start": 887.44,
+    "duration": 5.63,
+    "text": "bought a company that provided skills, competencies, field readiness. We"
+  },
+  {
+    "start": 893.07,
+    "duration": 5.16,
+    "text": "bought them in late 2021. And so I mean at"
+  },
+  {
+    "start": 898.23,
+    "duration": 3.4,
+    "text": "the time you would have had, you could have had"
+  },
+  {
+    "start": 901.11,
+    "duration": 2.96,
+    "text": "tons and tons of different roles. What was it about"
+  },
+  {
+    "start": 904.39,
+    "duration": 3.84,
+    "text": "seismic that made you feel like this was the right"
+  },
+  {
+    "start": 908.23,
+    "duration": 3.4,
+    "text": "thing? Because this was a bit of a leap. Like"
+  },
+  {
+    "start": 911.63,
+    "duration": 1.56,
+    "text": "you know that where the company is now compared to,"
+  },
+  {
+    "start": 913.27,
+    "duration": 4.44,
+    "text": "compared to three, four years ago, huge leap. And so"
+  },
+  {
+    "start": 917.71,
+    "duration": 0.64,
+    "text": "what did you see? How did you, how did you"
+  },
+  {
+    "start": 918.35,
+    "duration": 2.84,
+    "text": "make this decision as a CRO? Because I get this"
+  },
+  {
+    "start": 921.19,
+    "duration": 4.24,
+    "text": "question from people all the time. That's. Yeah, it's a"
+  },
+  {
+    "start": 925.43,
+    "duration": 4.56,
+    "text": "great question. So one thing is, I've always wanted to"
+  },
+  {
+    "start": 929.99,
+    "duration": 3.88,
+    "text": "take a company public for decades. I've always wanted to"
+  },
+  {
+    "start": 933.87,
+    "duration": 2.24,
+    "text": "go through that roadshow and go through that experience. So"
+  },
+  {
+    "start": 936.11,
+    "duration": 5.28,
+    "text": "that little inkling was always there. Couple. Couple reasons really"
+  },
+  {
+    "start": 941.39,
+    "duration": 5.36,
+    "text": "jumped to mind. Number one, I had run a very"
+  },
+  {
+    "start": 946.75,
+    "duration": 4.91,
+    "text": "good, long career course at big companies. Ernst and Young,"
+  },
+  {
+    "start": 951.82,
+    "duration": 5.8,
+    "text": "IBM, Salesforce, Microsoft. Right. Just big, big companies. And I"
+  },
+  {
+    "start": 957.62,
+    "duration": 2.6,
+    "text": "wanted to have more in a lot of those companies."
+  },
+  {
+    "start": 960.22,
+    "duration": 2.72,
+    "text": "Put it this way, Kyle, a lot of those companies,"
+  },
+  {
+    "start": 962.94,
+    "duration": 4.56,
+    "text": "I had all of the accountability and little of the"
+  },
+  {
+    "start": 967.74,
+    "duration": 4.56,
+    "text": "authority. So I'd get hauled in. In front of. At"
+  },
+  {
+    "start": 972.3,
+    "duration": 3.68,
+    "text": "Microsoft, as an example, hauled in front of the board"
+  },
+  {
+    "start": 975.98,
+    "duration": 3.96,
+    "text": "or Satya and the senior leadership team and, you know,"
+  },
+  {
+    "start": 979.02,
+    "duration": 3.04,
+    "text": "hung, drawn and quartered for a quarterly performance when I"
+  },
+  {
+    "start": 982.06,
+    "duration": 3.36,
+    "text": "owned that small piece. And I'd always wanted to work"
+  },
+  {
+    "start": 985.42,
+    "duration": 4.2,
+    "text": "within an organization that was smaller, where kind of I"
+  },
+  {
+    "start": 989.78,
+    "duration": 2.16,
+    "text": "had a little bit more control. That was one piece."
+  },
+  {
+    "start": 991.94,
+    "duration": 3.92,
+    "text": "Number two, I'm a huge believer in enablement. There are"
+  },
+  {
+    "start": 995.86,
+    "duration": 2.96,
+    "text": "some CROs that say, hey, it's enablement's problem. Let them"
+  },
+  {
+    "start": 998.82,
+    "duration": 3.0,
+    "text": "deal with it. I think a team singing off the"
+  },
+  {
+    "start": 1001.82,
+    "duration": 2.44,
+    "text": "same sheet of music, all rowing at the same pace"
+  },
+  {
+    "start": 1005.98,
+    "duration": 3.64,
+    "text": "is an amazing thing. So at my last company that"
+  },
+  {
+    "start": 1009.62,
+    "duration": 3.12,
+    "text": "I was at, I globalized the enablement function as opposed"
+  },
+  {
+    "start": 1012.74,
+    "duration": 2.2,
+    "text": "to allow it to be in each of the departments."
+  },
+  {
+    "start": 1014.34,
+    "duration": 3.4,
+    "text": "So that was point number two and point number three,"
+  },
+  {
+    "start": 1017.14,
+    "duration": 6.08,
+    "text": "a great, great culture with a great CEO. Doug Winter"
+  },
+  {
+    "start": 1023.22,
+    "duration": 2.8,
+    "text": "is our founder and CEO. Just a wonderful human being."
+  },
+  {
+    "start": 1026.26,
+    "duration": 4.05,
+    "text": "He's a friend as much as he's my boss. And"
+  },
+  {
+    "start": 1030.31,
+    "duration": 4.48,
+    "text": "it's a culture here of helping each other, supporting each"
+  },
+  {
+    "start": 1034.79,
+    "duration": 4.88,
+    "text": "other, and doing whatever is necessary, even to our detriment,"
+  },
+  {
+    "start": 1039.23,
+    "duration": 3.48,
+    "text": "to help a customer. Those were the reasons why I"
+  },
+  {
+    "start": 1042.71,
+    "duration": 2.68,
+    "text": "joined. But there must have. There would have had to"
+  },
+  {
+    "start": 1045.39,
+    "duration": 4.12,
+    "text": "be some strategic leap because the business is so different"
+  },
+  {
+    "start": 1049.51,
+    "duration": 1.52,
+    "text": "today than it was three years ago. Like, what was"
+  },
+  {
+    "start": 1051.03,
+    "duration": 3.64,
+    "text": "it in. In sort of the raw building blocks that"
+  },
+  {
+    "start": 1054.67,
+    "duration": 2.81,
+    "text": "made you say, okay, I can take this from X"
+  },
+  {
+    "start": 1057.48,
+    "duration": 3.8,
+    "text": "to Y, because Seismic, three and a half years ago,"
+  },
+  {
+    "start": 1062.52,
+    "duration": 3.68,
+    "text": "good business. Probably not on the IPO trajectory the way"
+  },
+  {
+    "start": 1066.2,
+    "duration": 5.08,
+    "text": "it is today. Not to blow smoke, but what did"
+  },
+  {
+    "start": 1071.28,
+    "duration": 3.64,
+    "text": "you see there that made you. And how did you"
+  },
+  {
+    "start": 1074.92,
+    "duration": 2.12,
+    "text": "dig in to know that the component parts were there"
+  },
+  {
+    "start": 1077.28,
+    "duration": 3.2,
+    "text": "to turn it to what it is today? Yeah, so"
+  },
+  {
+    "start": 1081.56,
+    "duration": 5.17,
+    "text": "when I was at Microsoft, we bought Seismic, the software."
+  },
+  {
+    "start": 1086.73,
+    "duration": 2.64,
+    "text": "I saw it, I knew what it was like. We"
+  },
+  {
+    "start": 1089.45,
+    "duration": 3.24,
+    "text": "did a review of it and looked at it at"
+  },
+  {
+    "start": 1092.69,
+    "duration": 6.12,
+    "text": "the company after that. And it was, you know, I"
+  },
+  {
+    "start": 1098.81,
+    "duration": 2.08,
+    "text": "saw. I saw what was happening there, and I believed"
+  },
+  {
+    "start": 1100.89,
+    "duration": 5.96,
+    "text": "in it. Then it was after that, the experience that"
+  },
+  {
+    "start": 1106.85,
+    "duration": 3.48,
+    "text": "I had had without a sound enablement team and enablement"
+  },
+  {
+    "start": 1110.33,
+    "duration": 3.73,
+    "text": "software at my last company. Truly, it was chaos. It"
+  },
+  {
+    "start": 1114.06,
+    "duration": 3.12,
+    "text": "was chaos. Our CS team was not aligned with our"
+  },
+  {
+    "start": 1117.18,
+    "duration": 5.36,
+    "text": "sales team. They had different priorities, different requirements, and hence"
+  },
+  {
+    "start": 1122.54,
+    "duration": 1.56,
+    "text": "the need to pull them together. So what, what I"
+  },
+  {
+    "start": 1124.1,
+    "duration": 4.64,
+    "text": "saw was a leader, an industry leader. Seismic is number"
+  },
+  {
+    "start": 1128.74,
+    "duration": 4.08,
+    "text": "one in this space. A great culture and a ton"
+  },
+  {
+    "start": 1132.82,
+    "duration": 3.88,
+    "text": "of upside. That's what really moved it for me. Yeah,"
+  },
+  {
+    "start": 1136.02,
+    "duration": 6.09,
+    "text": "and the upside, like, specifically the upside, like what was"
+  },
+  {
+    "start": 1142.11,
+    "duration": 3.44,
+    "text": "it that made you feel like, okay, that upside is"
+  },
+  {
+    "start": 1145.55,
+    "duration": 1.76,
+    "text": "there? Was it looking into the strategy and going, oh"
+  },
+  {
+    "start": 1147.31,
+    "duration": 3.52,
+    "text": "well, like there's all these things and if I do"
+  },
+  {
+    "start": 1150.83,
+    "duration": 2.44,
+    "text": "X, Y and Z, we'll go, we'll drive even faster"
+  },
+  {
+    "start": 1153.27,
+    "duration": 2.96,
+    "text": "growth. I'm like curious like what the specific kernels of"
+  },
+  {
+    "start": 1156.23,
+    "duration": 5.68,
+    "text": "that upside were. You know, it feels like it was"
+  },
+  {
+    "start": 1161.91,
+    "duration": 1.4,
+    "text": "ages ago. I mean, I feel you're a CRO as"
+  },
+  {
+    "start": 1163.31,
+    "duration": 3.79,
+    "text": "well, Kyle. It's like the pace. Dog years. Yeah, it's"
+  },
+  {
+    "start": 1167.1,
+    "duration": 5.64,
+    "text": "dog years. Feels like forever ago. I think the upside"
+  },
+  {
+    "start": 1172.74,
+    "duration": 3.8,
+    "text": "for me was they just bought a learning platform which"
+  },
+  {
+    "start": 1176.54,
+    "duration": 4.12,
+    "text": "kind of rounded out the platform. It was a big"
+  },
+  {
+    "start": 1180.66,
+    "duration": 2.6,
+    "text": "gap. They always partnered. Seismica had always partnered with companies"
+  },
+  {
+    "start": 1183.26,
+    "duration": 4.08,
+    "text": "that provided it. Right. For me, what, what the kernel"
+  },
+  {
+    "start": 1187.34,
+    "duration": 5.24,
+    "text": "was, was all the piece parts are there, but they"
+  },
+  {
+    "start": 1192.58,
+    "duration": 3.36,
+    "text": "as a company at that time were not rowing in"
+  },
+  {
+    "start": 1195.94,
+    "duration": 3.17,
+    "text": "the same direction. You had a leader because they, they"
+  },
+  {
+    "start": 1199.11,
+    "duration": 3.64,
+    "text": "brought the different roles up. Underneath me, Kyle, that's a"
+  },
+  {
+    "start": 1202.75,
+    "duration": 2.4,
+    "text": "piece I probably should have given some context on. These"
+  },
+  {
+    "start": 1205.15,
+    "duration": 2.96,
+    "text": "were different leaders reporting up into the CEO with different"
+  },
+  {
+    "start": 1208.11,
+    "duration": 4.68,
+    "text": "priorities, different measurements of success. And for me it was"
+  },
+  {
+    "start": 1212.79,
+    "duration": 3.16,
+    "text": "if I'm going to make this jump, that full accountability"
+  },
+  {
+    "start": 1215.03,
+    "duration": 3.44,
+    "text": "responsibility from marketing all the way through to ongoing support."
+  },
+  {
+    "start": 1220.83,
+    "duration": 4.89,
+    "text": "The upside was just so big and I was ready"
+  },
+  {
+    "start": 1225.72,
+    "duration": 1.72,
+    "text": "to do something small. I'm an older guy, may not"
+  },
+  {
+    "start": 1227.44,
+    "duration": 1.92,
+    "text": "look it right. I look like I'm in my 30s,"
+  },
+  {
+    "start": 1229.36,
+    "duration": 4.44,
+    "text": "but I hope that this is the swan song of"
+  },
+  {
+    "start": 1233.8,
+    "duration": 4.72,
+    "text": "my career of taking 30 years of experience and bringing"
+  },
+  {
+    "start": 1238.52,
+    "duration": 2.96,
+    "text": "it to a company that's scaling and growing. Yeah. Okay,"
+  },
+  {
+    "start": 1241.48,
+    "duration": 6.92,
+    "text": "very cool. So. I'm curious to think through the component"
+  },
+  {
+    "start": 1248.4,
+    "duration": 3.68,
+    "text": "parts of going to a platform strategy. So like what's"
+  },
+  {
+    "start": 1252.08,
+    "duration": 4.04,
+    "text": "different about go to market for a single product versus"
+  },
+  {
+    "start": 1256.12,
+    "duration": 3.48,
+    "text": "a multi product company? What are the, what are the"
+  },
+  {
+    "start": 1259.6,
+    "duration": 2.96,
+    "text": "building blocks that somebody needs to have in place to"
+  },
+  {
+    "start": 1262.56,
+    "duration": 3.2,
+    "text": "make this work? Okay, so I'm going to share something,"
+  },
+  {
+    "start": 1265.76,
+    "duration": 6.16,
+    "text": "Kyle, that's a little vulnerable and maybe, maybe something that,"
+  },
+  {
+    "start": 1271.24,
+    "duration": 3.52,
+    "text": "you know, other CROs wouldn't share. But when I first"
+  },
+  {
+    "start": 1274.76,
+    "duration": 3.69,
+    "text": "got here, business was booming. We had just acquired this"
+  },
+  {
+    "start": 1278.45,
+    "duration": 2.92,
+    "text": "other company and we kept it largely intact. And those"
+  },
+  {
+    "start": 1281.37,
+    "duration": 3.96,
+    "text": "sellers sold their stuff and legacy folks sold their stuff."
+  },
+  {
+    "start": 1285.33,
+    "duration": 2.68,
+    "text": "I joined right at the beginning of the new fiscal"
+  },
+  {
+    "start": 1288.01,
+    "duration": 5.68,
+    "text": "year where we did Away with overlays and whatnot. And"
+  },
+  {
+    "start": 1293.93,
+    "duration": 6.84,
+    "text": "we immediately struggled with growth. Perennial successful winners, year over"
+  },
+  {
+    "start": 1300.77,
+    "duration": 5.04,
+    "text": "year, President's Club, you know, Circle Club winners weren't winning."
+  },
+  {
+    "start": 1306.69,
+    "duration": 1.52,
+    "text": "And for my first year, year and a half, I"
+  },
+  {
+    "start": 1308.21,
+    "duration": 3.92,
+    "text": "was beating myself up like, what's going on here? Why"
+  },
+  {
+    "start": 1312.13,
+    "duration": 4.64,
+    "text": "am I now? Granted, everyone knows a lot. The market"
+  },
+  {
+    "start": 1316.77,
+    "duration": 2.72,
+    "text": "changed, of course. This was 2020. You joined and yeah,"
+  },
+  {
+    "start": 1319.49,
+    "duration": 4.6,
+    "text": "things totally 2022. This is right when everything started to"
+  },
+  {
+    "start": 1324.09,
+    "duration": 4.0,
+    "text": "decline, growth, decelerate forever. But I was still like, why"
+  },
+  {
+    "start": 1328.09,
+    "duration": 6.79,
+    "text": "aren't my best sellers winning? And it. I actually did"
+  },
+  {
+    "start": 1334.88,
+    "duration": 1.16,
+    "text": "a little bit of a sabbatical. I went on a"
+  },
+  {
+    "start": 1336.04,
+    "duration": 3.44,
+    "text": "fishing trip with two friends down in Baja, Mexico, to"
+  },
+  {
+    "start": 1339.48,
+    "duration": 3.48,
+    "text": "spend a lot of time staring at the water and"
+  },
+  {
+    "start": 1342.96,
+    "duration": 2.92,
+    "text": "the end of my fishing pole to think about this."
+  },
+  {
+    "start": 1345.88,
+    "duration": 4.72,
+    "text": "And it dawned on me. The perennial winners who were"
+  },
+  {
+    "start": 1350.6,
+    "duration": 3.52,
+    "text": "100 or above, year in, year out, were really damn"
+  },
+  {
+    "start": 1354.12,
+    "duration": 5.67,
+    "text": "good at selling the world's best sales content management system."
+  },
+  {
+    "start": 1360.75,
+    "duration": 1.52,
+    "text": "And that was all they sold. And who did they"
+  },
+  {
+    "start": 1362.27,
+    "duration": 4.4,
+    "text": "sell it to? They sold it to one buyer, usually"
+  },
+  {
+    "start": 1366.91,
+    "duration": 2.12,
+    "text": "the head of enablement or the head, the coo. Right."
+  },
+  {
+    "start": 1370.99,
+    "duration": 2.96,
+    "text": "They had one, one buyer and one product to sell."
+  },
+  {
+    "start": 1373.27,
+    "duration": 3.2,
+    "text": "Now all of a sudden they've got the complexity of"
+  },
+  {
+    "start": 1376.47,
+    "duration": 4.8,
+    "text": "four different products all integrated to one that has a"
+  },
+  {
+    "start": 1381.27,
+    "duration": 6.23,
+    "text": "value proposition for four different Personas. And you're selling on"
+  },
+  {
+    "start": 1387.5,
+    "duration": 3.12,
+    "text": "the benefit of the platform, which means you've got to,"
+  },
+  {
+    "start": 1390.7,
+    "duration": 1.56,
+    "text": "you got to anchor back on a value proposition and"
+  },
+  {
+    "start": 1392.26,
+    "duration": 2.76,
+    "text": "not just say, I got a better mousetrap. Much more"
+  },
+  {
+    "start": 1395.02,
+    "duration": 5.56,
+    "text": "strategic. Yeah, far, far more strategic. And I'll tell you"
+  },
+  {
+    "start": 1400.58,
+    "duration": 1.52,
+    "text": "what, Kyle, three and a half years later, we have"
+  },
+  {
+    "start": 1402.1,
+    "duration": 4.16,
+    "text": "moved from people that were not making their plan, who"
+  },
+  {
+    "start": 1406.26,
+    "duration": 2.8,
+    "text": "had prior made their plan, who are used to selling"
+  },
+  {
+    "start": 1409.06,
+    "duration": 5.69,
+    "text": "a single product, who are now making their plans and"
+  },
+  {
+    "start": 1414.07,
+    "duration": 4.76,
+    "text": "very comfortably selling the platform. Which, by the way, this"
+  },
+  {
+    "start": 1418.83,
+    "duration": 2.08,
+    "text": "year is one of our okrs. It's one of our"
+  },
+  {
+    "start": 1420.91,
+    "duration": 5.12,
+    "text": "company priorities is platform excellence and, you know, being good"
+  },
+  {
+    "start": 1426.03,
+    "duration": 3.12,
+    "text": "at not only selling it, but using it and talking"
+  },
+  {
+    "start": 1429.15,
+    "duration": 3.24,
+    "text": "the virtues of it. So we have come through that"
+  },
+  {
+    "start": 1432.39,
+    "duration": 2.04,
+    "text": "transition over the last three and a half years and"
+  },
+  {
+    "start": 1434.43,
+    "duration": 3.56,
+    "text": "we did it at a time while the markets were"
+  },
+  {
+    "start": 1437.99,
+    "duration": 6.01,
+    "text": "compressing. That's an understatement, especially in your business. Revtech got"
+  },
+  {
+    "start": 1444.0,
+    "duration": 5.56,
+    "text": "killed over the last three years. Yeah, you guys made"
+  },
+  {
+    "start": 1449.56,
+    "duration": 4.36,
+    "text": "it through. So I want to, I want to unpack"
+  },
+  {
+    "start": 1453.92,
+    "duration": 3.2,
+    "text": "that whole enablement journey in a bit. But so you"
+  },
+  {
+    "start": 1457.12,
+    "duration": 2.2,
+    "text": "got. I just want to clear up definitions for people."
+  },
+  {
+    "start": 1459.32,
+    "duration": 3.64,
+    "text": "So when you say you got rid of overlay reps,"
+  },
+  {
+    "start": 1462.2,
+    "duration": 3.48,
+    "text": "talk to me about the transition you made in the"
+  },
+  {
+    "start": 1465.68,
+    "duration": 0.76,
+    "text": "go to market strategy and what what you mean by"
+  },
+  {
+    "start": 1466.44,
+    "duration": 2.88,
+    "text": "like getting rid of overlay reps? Yeah. Now, now you're"
+  },
+  {
+    "start": 1469.32,
+    "duration": 4.96,
+    "text": "getting into the good stuff. The we had bought this"
+  },
+  {
+    "start": 1475.6,
+    "duration": 2.52,
+    "text": "company. It's Lessonly. The company was called Lessonly. Yeah, yeah."
+  },
+  {
+    "start": 1478.28,
+    "duration": 4.16,
+    "text": "They were very, very well known for providing skills and"
+  },
+  {
+    "start": 1483.68,
+    "duration": 4.4,
+    "text": "training for sellers. Not like, you know, security compliance training"
+  },
+  {
+    "start": 1488.08,
+    "duration": 5.63,
+    "text": "or sexual harassment or you know, anti money laundering or"
+  },
+  {
+    "start": 1493.71,
+    "duration": 4.2,
+    "text": "anything like that. It's skills read and readiness for sellers."
+  },
+  {
+    "start": 1497.99,
+    "duration": 3.48,
+    "text": "Right. Or for revenue folks. We brought them on and"
+  },
+  {
+    "start": 1501.47,
+    "duration": 3.56,
+    "text": "we kept them as a separate group and we double"
+  },
+  {
+    "start": 1505.03,
+    "duration": 5.72,
+    "text": "comped. So if you, Kyle, had Johnson and Johnson as"
+  },
+  {
+    "start": 1510.75,
+    "duration": 5.0,
+    "text": "your customer and you smelled a learning opportunity, you brought"
+  },
+  {
+    "start": 1515.75,
+    "duration": 2.74,
+    "text": "me the learning specialists and we both came in, sold"
+  },
+  {
+    "start": 1518.49,
+    "duration": 2.92,
+    "text": "the value prop, sold the benefit and we both got"
+  },
+  {
+    "start": 1521.41,
+    "duration": 5.6,
+    "text": "paid at 100%. Talk about expensive. And a lot of"
+  },
+  {
+    "start": 1527.01,
+    "duration": 4.6,
+    "text": "companies do that. A lot of companies do a lot"
+  },
+  {
+    "start": 1531.61,
+    "duration": 3.36,
+    "text": "of double comping. And I'm a big fan of specialization"
+  },
+  {
+    "start": 1534.97,
+    "duration": 5.6,
+    "text": "for certain things, but not double quoted comp for sellers."
+  },
+  {
+    "start": 1541.61,
+    "duration": 3.16,
+    "text": "And that's the trick with platform. You know, at Microsoft,"
+  },
+  {
+    "start": 1544.77,
+    "duration": 4.13,
+    "text": "go back to Microsoft, we had so many different products."
+  },
+  {
+    "start": 1548.9,
+    "duration": 2.56,
+    "text": "We had erp and within ERP you have financials, you"
+  },
+  {
+    "start": 1551.46,
+    "duration": 4.4,
+    "text": "have supply chain, you've got human capital management and then"
+  },
+  {
+    "start": 1555.86,
+    "duration": 3.16,
+    "text": "CRM, you've got salesforce automation, you've got marketing automation, you"
+  },
+  {
+    "start": 1559.02,
+    "duration": 4.28,
+    "text": "got service automation. Then we had power automate power, Power"
+  },
+  {
+    "start": 1563.3,
+    "duration": 7.08,
+    "text": "apps. Right. So yeah, all these hugely different products that"
+  },
+  {
+    "start": 1571.99,
+    "duration": 1.28,
+    "text": "could easily have been a case for. Let's have a"
+  },
+  {
+    "start": 1573.27,
+    "duration": 5.6,
+    "text": "specialist for financial, financial CRP for each one of them."
+  },
+  {
+    "start": 1578.95,
+    "duration": 4.56,
+    "text": "No, the, the model that I take is specialization needs"
+  },
+  {
+    "start": 1583.51,
+    "duration": 3.4,
+    "text": "to occur with the, with the technical roles within the"
+  },
+  {
+    "start": 1586.91,
+    "duration": 6.72,
+    "text": "company. So think solution, engineer, sales engineer, architects. You need"
+  },
+  {
+    "start": 1593.63,
+    "duration": 2.32,
+    "text": "to be wide enough and deep enough as a seller"
+  },
+  {
+    "start": 1595.95,
+    "duration": 1.16,
+    "text": "to be able to get good enough. Remember I said"
+  },
+  {
+    "start": 1597.11,
+    "duration": 3.98,
+    "text": "before, best of breed, best of platform. You don't need"
+  },
+  {
+    "start": 1601.09,
+    "duration": 2.04,
+    "text": "to be an expert, you need to have experts that"
+  },
+  {
+    "start": 1603.13,
+    "duration": 4.52,
+    "text": "you can lean back on in the business. And that's"
+  },
+  {
+    "start": 1607.65,
+    "duration": 3.0,
+    "text": "what we didn't have at the time. We had just"
+  },
+  {
+    "start": 1610.65,
+    "duration": 2.92,
+    "text": "a shadow team that was selling the other product and"
+  },
+  {
+    "start": 1613.57,
+    "duration": 4.84,
+    "text": "we did it for eight months. Wow. More. Almost a"
+  },
+  {
+    "start": 1618.41,
+    "duration": 6.04,
+    "text": "year. Interesting. And so part of this platform transformation is"
+  },
+  {
+    "start": 1625.61,
+    "duration": 1.56,
+    "text": "we need a new go to market strategy. Instead of"
+  },
+  {
+    "start": 1627.17,
+    "duration": 4.05,
+    "text": "overlays and double computer, we're now saying the strategy is"
+  },
+  {
+    "start": 1632.7,
+    "duration": 3.52,
+    "text": "one core rep with high levels of business acumen. You"
+  },
+  {
+    "start": 1636.22,
+    "duration": 2.2,
+    "text": "can speak to the C suite and you have technical"
+  },
+  {
+    "start": 1638.42,
+    "duration": 4.36,
+    "text": "folks now filling in the gaps, I would imagine. Then"
+  },
+  {
+    "start": 1642.86,
+    "duration": 3.04,
+    "text": "there's also. So there's a go to market strategy piece,"
+  },
+  {
+    "start": 1645.9,
+    "duration": 3.24,
+    "text": "but then there's a, there's a related talent piece either"
+  },
+  {
+    "start": 1649.3,
+    "duration": 3.68,
+    "text": "upskilling or bringing in new people. What was the, what"
+  },
+  {
+    "start": 1652.98,
+    "duration": 2.04,
+    "text": "was the combination of you just needed new reps that"
+  },
+  {
+    "start": 1655.02,
+    "duration": 4.95,
+    "text": "could sell a platform versus you upskilled current team. And"
+  },
+  {
+    "start": 1659.97,
+    "duration": 1.4,
+    "text": "how did you think about that? I am a big"
+  },
+  {
+    "start": 1661.37,
+    "duration": 2.96,
+    "text": "believer Kyle. And if you've got a good athlete, they"
+  },
+  {
+    "start": 1664.33,
+    "duration": 5.16,
+    "text": "can play any game. I look for athletes when we"
+  },
+  {
+    "start": 1669.49,
+    "duration": 5.28,
+    "text": "hire and it's pretty evident who the athletes are. They"
+  },
+  {
+    "start": 1674.77,
+    "duration": 3.6,
+    "text": "just, they jump higher, they run faster, they work out"
+  },
+  {
+    "start": 1678.37,
+    "duration": 4.28,
+    "text": "harder. Right. I mean these are all kind of analogies"
+  },
+  {
+    "start": 1682.65,
+    "duration": 3.23,
+    "text": "to a sport. But I think anyone who's in revenue"
+  },
+  {
+    "start": 1685.88,
+    "duration": 3.4,
+    "text": "leadership knows what I mean. You can train them and"
+  },
+  {
+    "start": 1689.28,
+    "duration": 3.68,
+    "text": "you know, guess what? I know a good company that"
+  },
+  {
+    "start": 1692.96,
+    "duration": 2.08,
+    "text": "can help you train people and enable people to transform."
+  },
+  {
+    "start": 1696.24,
+    "duration": 2.16,
+    "text": "So we put a hell of a lot of effort"
+  },
+  {
+    "start": 1698.4,
+    "duration": 4.68,
+    "text": "into using our own products obviously to upskill and up"
+  },
+  {
+    "start": 1703.08,
+    "duration": 3.08,
+    "text": "level the folks in the organization. We added one other"
+  },
+  {
+    "start": 1706.16,
+    "duration": 5.71,
+    "text": "complexity we added in buying this company. Lessonle was largely"
+  },
+  {
+    "start": 1711.87,
+    "duration": 3.6,
+    "text": "down market. They were almost entirely SMB. They did have"
+  },
+  {
+    "start": 1715.47,
+    "duration": 3.8,
+    "text": "some enterprise but I'd say 70 to 80% was SMB."
+  },
+  {
+    "start": 1720.91,
+    "duration": 1.16,
+    "text": "So not only did we have the specialization but all"
+  },
+  {
+    "start": 1722.07,
+    "duration": 2.72,
+    "text": "of a sudden we had to have a team that"
+  },
+  {
+    "start": 1724.79,
+    "duration": 5.8,
+    "text": "serviced and supported down market customers. We put quite a"
+  },
+  {
+    "start": 1730.59,
+    "duration": 5.99,
+    "text": "bit of time into like segmentation and ICP and you"
+  },
+  {
+    "start": 1736.58,
+    "duration": 4.72,
+    "text": "know, ideal customer profile and looking at territories. And at"
+  },
+  {
+    "start": 1741.3,
+    "duration": 5.2,
+    "text": "the same time we took a big effort at building"
+  },
+  {
+    "start": 1746.5,
+    "duration": 1.56,
+    "text": "a new narrative, building the new skills. We took a"
+  },
+  {
+    "start": 1748.06,
+    "duration": 5.64,
+    "text": "heavy value angle. Right. You didn't have to sell value"
+  },
+  {
+    "start": 1753.7,
+    "duration": 2.76,
+    "text": "really. If someone wanted a mousetrap you gotta sell value"
+  },
+  {
+    "start": 1756.46,
+    "duration": 3.0,
+    "text": "and you've got multiple products and frankly some single products"
+  },
+  {
+    "start": 1759.46,
+    "duration": 2.76,
+    "text": "are better at other companies who are single SKU companies."
+  },
+  {
+    "start": 1763.47,
+    "duration": 3.56,
+    "text": "So we took a major value angle. We did a"
+  },
+  {
+    "start": 1767.03,
+    "duration": 5.96,
+    "text": "lot around narrative like stand and deliver practices and just"
+  },
+  {
+    "start": 1772.99,
+    "duration": 3.32,
+    "text": "repetitive motions of getting the narrative right. And again we"
+  },
+  {
+    "start": 1776.31,
+    "duration": 1.96,
+    "text": "used our own products to do a lot of this."
+  },
+  {
+    "start": 1779.31,
+    "duration": 6.0,
+    "text": "Okay, cool. So there's the go to market strategy, team"
+  },
+  {
+    "start": 1785.31,
+    "duration": 6.58,
+    "text": "construction which is going to going to core reps plus"
+  },
+  {
+    "start": 1792.25,
+    "duration": 6.6,
+    "text": "SEs. There's the segmentation question. So rejigging how the organization"
+  },
+  {
+    "start": 1798.85,
+    "duration": 5.88,
+    "text": "is shaped. There's talent and largely you upskilled internally enablement,"
+  },
+  {
+    "start": 1804.73,
+    "duration": 2.6,
+    "text": "which is skills and narrative. What about ecosystem? So Microsoft"
+  },
+  {
+    "start": 1807.33,
+    "duration": 3.08,
+    "text": "is like world famous for this crazy ecosystem. How big"
+  },
+  {
+    "start": 1810.41,
+    "duration": 4.89,
+    "text": "was ecosystem at seismic before? And is that a, is"
+  },
+  {
+    "start": 1815.3,
+    "duration": 2.16,
+    "text": "that a thing that changes as you go from single"
+  },
+  {
+    "start": 1817.46,
+    "duration": 5.56,
+    "text": "product to platform? Yeah, I think if you ask 10"
+  },
+  {
+    "start": 1823.1,
+    "duration": 5.8,
+    "text": "CROs what an ecosystem means to them, you're going to"
+  },
+  {
+    "start": 1828.9,
+    "duration": 4.56,
+    "text": "get 20 answers right. There's no common point of view"
+  },
+  {
+    "start": 1833.46,
+    "duration": 5.2,
+    "text": "of what a channel means and we were definitely like"
+  },
+  {
+    "start": 1838.66,
+    "duration": 3.96,
+    "text": "that when I joined largely A prove it to me"
+  },
+  {
+    "start": 1842.62,
+    "duration": 5.19,
+    "text": "mindset. Show me that a channel can do this. And"
+  },
+  {
+    "start": 1847.29,
+    "duration": 3.44,
+    "text": "we didn't have it. We didn't have a channel. We"
+  },
+  {
+    "start": 1850.73,
+    "duration": 2.44,
+    "text": "had a channel team but it was largely running around"
+  },
+  {
+    "start": 1853.17,
+    "duration": 3.08,
+    "text": "and matchmaking. Let me connect you to this partner. That"
+  },
+  {
+    "start": 1856.25,
+    "duration": 8.08,
+    "text": "partner co development, co branding, co selling and developing product"
+  },
+  {
+    "start": 1864.49,
+    "duration": 5.77,
+    "text": "together and solutions. That was foreign when I first joined."
+  },
+  {
+    "start": 1871.82,
+    "duration": 3.44,
+    "text": "In fact, just today. Today will be different from when"
+  },
+  {
+    "start": 1875.26,
+    "duration": 5.08,
+    "text": "people listen to this. A blog was written by Salesforce"
+  },
+  {
+    "start": 1881.74,
+    "duration": 3.28,
+    "text": "on our behalf about Seismic being an anchor partner and"
+  },
+  {
+    "start": 1885.02,
+    "duration": 5.04,
+    "text": "a huge productivity driver for Agent Force. When your partners"
+  },
+  {
+    "start": 1890.06,
+    "duration": 4.68,
+    "text": "are writing blog posts about you that you didn't write"
+  },
+  {
+    "start": 1894.74,
+    "duration": 2.46,
+    "text": "for them, you know, you've kind of crested the hill"
+  },
+  {
+    "start": 1897.36,
+    "duration": 4.08,
+    "text": "in terms of relevance with your partners. So Dan, you"
+  },
+  {
+    "start": 1901.44,
+    "duration": 4.76,
+    "text": "guys are helping their customers learn to or you're. You're"
+  },
+  {
+    "start": 1906.2,
+    "duration": 3.88,
+    "text": "helping Salesforce learn to sell. Agent Force or their customers."
+  },
+  {
+    "start": 1910.48,
+    "duration": 4.88,
+    "text": "Yeah, it's. So we have 80 of our channel partners."
+  },
+  {
+    "start": 1923.49,
+    "duration": 4.28,
+    "text": "get paid unless Agent Force is getting consumed. And the"
+  },
+  {
+    "start": 1927.77,
+    "duration": 3.32,
+    "text": "best way to consume it is to drive enablement actions"
+  },
+  {
+    "start": 1931.33,
+    "duration": 4.12,
+    "text": "within Salesforce via Agent Force. So we are kind of"
+  },
+  {
+    "start": 1935.45,
+    "duration": 4.36,
+    "text": "the square peg for the square hole for them. They"
+  },
+  {
+    "start": 1939.81,
+    "duration": 4.68,
+    "text": "need channel partners to go make the consumption possible. For"
+  },
+  {
+    "start": 1944.49,
+    "duration": 2.69,
+    "text": "Agent Force and, and for us it's a benefit because"
+  },
+  {
+    "start": 1947.18,
+    "duration": 3.36,
+    "text": "in order to have it work, they've got to have"
+  },
+  {
+    "start": 1950.54,
+    "duration": 3.96,
+    "text": "our AI capabilities turned on. So it's a true. I"
+  },
+  {
+    "start": 1954.5,
+    "duration": 3.64,
+    "text": "scratch your back, you scratch my back. Symbiotic relationship of"
+  },
+  {
+    "start": 1958.38,
+    "duration": 3.88,
+    "text": "solutioning together. This wouldn't have been possible had we not"
+  },
+  {
+    "start": 1962.26,
+    "duration": 2.92,
+    "text": "had the access to their product teams to develop what"
+  },
+  {
+    "start": 1965.18,
+    "duration": 4.16,
+    "text": "we have today. Very, very proud of what we've accomplished"
+  },
+  {
+    "start": 1969.34,
+    "duration": 4.49,
+    "text": "with Salesforce and very cool. I want to get more"
+  },
+  {
+    "start": 1973.83,
+    "duration": 1.28,
+    "text": "into this. I just want to zoom out a touch."
+  },
+  {
+    "start": 1975.35,
+    "duration": 2.8,
+    "text": "Yeah. So how do you think about partner selection? I"
+  },
+  {
+    "start": 1978.15,
+    "duration": 4.68,
+    "text": "think one of the challenges with Channel is like everything"
+  },
+  {
+    "start": 1982.99,
+    "duration": 3.4,
+    "text": "sounds exciting Channel or technical partnerships, everything sounds exciting at"
+  },
+  {
+    "start": 1986.39,
+    "duration": 3.6,
+    "text": "the beginning. You can get all greased up about it"
+  },
+  {
+    "start": 1989.99,
+    "duration": 3.32,
+    "text": "but then like the. It doesn't actually produce the result"
+  },
+  {
+    "start": 1993.31,
+    "duration": 3.0,
+    "text": "you want when after the, you know, fun press release."
+  },
+  {
+    "start": 1997.8,
+    "duration": 2.0,
+    "text": "So how do you think about selecting the right partners?"
+  },
+  {
+    "start": 1999.44,
+    "duration": 3.16,
+    "text": "What's. What's the criteria and how do you think about"
+  },
+  {
+    "start": 2002.6,
+    "duration": 5.88,
+    "text": "the strategy of that? The best partnerships are where we"
+  },
+  {
+    "start": 2008.48,
+    "duration": 5.28,
+    "text": "both succeed. We both get benefit out of it. A"
+  },
+  {
+    "start": 2013.76,
+    "duration": 2.48,
+    "text": "lot of smaller companies think that they have a strong"
+  },
+  {
+    "start": 2016.32,
+    "duration": 4.8,
+    "text": "partnership with an Adobe Salesforce or Microsoft and SAP when"
+  },
+  {
+    "start": 2021.12,
+    "duration": 4.45,
+    "text": "in fact there is none. It's a listing on a"
+  },
+  {
+    "start": 2025.89,
+    "duration": 3.44,
+    "text": "partner exchange. You are not relevant to A partner and"
+  },
+  {
+    "start": 2029.33,
+    "duration": 3.28,
+    "text": "a partner is not relevant to you unless they bring"
+  },
+  {
+    "start": 2032.61,
+    "duration": 5.48,
+    "text": "accretive value to each other. So for me, selection of"
+  },
+  {
+    "start": 2038.09,
+    "duration": 3.96,
+    "text": "partners has to be purely based around least amount of"
+  },
+  {
+    "start": 2042.05,
+    "duration": 5.52,
+    "text": "friction and best lift for our business. And they're doing"
+  },
+  {
+    "start": 2047.57,
+    "duration": 2.5,
+    "text": "the same these these partners. And there are multiple different"
+  },
+  {
+    "start": 2050.07,
+    "duration": 4.8,
+    "text": "forms of partnerships obviously Kyle. There's just standard co selling"
+  },
+  {
+    "start": 2054.11,
+    "duration": 3.2,
+    "text": "then there's embed partners where you, you are building your"
+  },
+  {
+    "start": 2057.31,
+    "duration": 3.12,
+    "text": "product into them or them into you. And there you"
+  },
+  {
+    "start": 2060.43,
+    "duration": 4.52,
+    "text": "get the, the nirvana state of you know, rev share"
+  },
+  {
+    "start": 2065.99,
+    "duration": 3.6,
+    "text": "because otherwise it's all just attributed revenue with co sell."
+  },
+  {
+    "start": 2070.03,
+    "duration": 8.62,
+    "text": "Rev share agreements, OEM agreements, embedded software agreements are. That's"
+  },
+  {
+    "start": 2078.65,
+    "duration": 3.72,
+    "text": "the nirvana state and it is not easy at Microsoft."
+  },
+  {
+    "start": 2082.37,
+    "duration": 3.12,
+    "text": "You know one of our, one of our biggest successes"
+  },
+  {
+    "start": 2085.49,
+    "duration": 4.68,
+    "text": "was an unbelievable network of partners. Yeah. It was also"
+  },
+  {
+    "start": 2090.17,
+    "duration": 3.44,
+    "text": "a gate. It was a major gate for us because"
+  },
+  {
+    "start": 2093.17,
+    "duration": 3.24,
+    "text": "they owned the interaction with customers. When I first joined"
+  },
+  {
+    "start": 2096.41,
+    "duration": 4.72,
+    "text": "there in 2014, where we got to over the course"
+  },
+  {
+    "start": 2101.13,
+    "duration": 4.85,
+    "text": "of the seven years that I was there was almost"
+  },
+  {
+    "start": 2105.98,
+    "duration": 4.04,
+    "text": "interchangeable seismic part. I mean Microsoft partner person. Microsoft person,"
+  },
+  {
+    "start": 2110.34,
+    "duration": 3.04,
+    "text": "partner person. You couldn't tell the two apart. But it"
+  },
+  {
+    "start": 2113.38,
+    "duration": 4.12,
+    "text": "started where it was purely partner people at the accounts."
+  },
+  {
+    "start": 2117.9,
+    "duration": 3.68,
+    "text": "Yeah. That in the wonderful place to be. Yeah. And"
+  },
+  {
+    "start": 2121.58,
+    "duration": 2.28,
+    "text": "the Microsoft reps sort of do an order taking in"
+  },
+  {
+    "start": 2123.86,
+    "duration": 3.04,
+    "text": "back office and you, you change that in a big"
+  },
+  {
+    "start": 2126.9,
+    "duration": 4.04,
+    "text": "way. You got that right. The incentives were completely upside"
+  },
+  {
+    "start": 2130.94,
+    "duration": 3.44,
+    "text": "down. Incentivization of channel is everything. Remember I talked about"
+  },
+  {
+    "start": 2134.38,
+    "duration": 2.8,
+    "text": "we scratching each other's backs. If you don't have the"
+  },
+  {
+    "start": 2137.18,
+    "duration": 3.08,
+    "text": "comp structures right, partners don't want to work with you,"
+  },
+  {
+    "start": 2140.34,
+    "duration": 2.92,
+    "text": "your team doesn't want to work with the partners. Anchor"
+  },
+  {
+    "start": 2143.26,
+    "duration": 4.04,
+    "text": "on the comp structures and the incentives first. Once you"
+  },
+  {
+    "start": 2147.3,
+    "duration": 3.72,
+    "text": "think you've got a partner strategy and then sound it"
+  },
+  {
+    "start": 2151.02,
+    "duration": 4.52,
+    "text": "off the partners and see if it resonates. And so"
+  },
+  {
+    "start": 2155.54,
+    "duration": 1.56,
+    "text": "I want to go back to partner selection. So they"
+  },
+  {
+    "start": 2157.1,
+    "duration": 4.4,
+    "text": "have to bring a creative value. Least friction for most"
+  },
+  {
+    "start": 2161.82,
+    "duration": 2.36,
+    "text": "lift. How do you identify what is a creative value?"
+  },
+  {
+    "start": 2164.34,
+    "duration": 3.16,
+    "text": "Because often so much of the time it sounds great"
+  },
+  {
+    "start": 2167.5,
+    "duration": 2.16,
+    "text": "on paper and then isn't in reality. So like what"
+  },
+  {
+    "start": 2169.66,
+    "duration": 2.96,
+    "text": "are you really looking for at sort of the middle"
+  },
+  {
+    "start": 2172.62,
+    "duration": 1.56,
+    "text": "funnel to understand if this is something you really want"
+  },
+  {
+    "start": 2174.18,
+    "duration": 2.96,
+    "text": "to go deep on? Yeah, I look at the metrics"
+  },
+  {
+    "start": 2177.38,
+    "duration": 2.72,
+    "text": "that matter. I try to anchor everything back to business"
+  },
+  {
+    "start": 2180.18,
+    "duration": 5.32,
+    "text": "metrics. And I'll give you an example of one. When"
+  },
+  {
+    "start": 2185.5,
+    "duration": 4.69,
+    "text": "a partner is involved, is my win rate materially improved?"
+  },
+  {
+    "start": 2192.87,
+    "duration": 2.36,
+    "text": "So what's my win rate look like when I'm partnering"
+  },
+  {
+    "start": 2195.23,
+    "duration": 3.68,
+    "text": "with X partner? And that could be a small other"
+  },
+  {
+    "start": 2198.91,
+    "duration": 2.28,
+    "text": "ISV or it could be a, a big, big Partner,"
+  },
+  {
+    "start": 2201.19,
+    "duration": 6.76,
+    "text": "like an Accenture, right. Is, are my business metrics meaningfully"
+  },
+  {
+    "start": 2207.95,
+    "duration": 3.32,
+    "text": "different do is my velocity, days in stage, total deal"
+  },
+  {
+    "start": 2211.27,
+    "duration": 6.23,
+    "text": "cycle, is that going down, meaning, you know, shorter deals?"
+  },
+  {
+    "start": 2217.66,
+    "duration": 3.92,
+    "text": "Is my win rate going up? Is my renewal rate"
+  },
+  {
+    "start": 2221.46,
+    "duration": 3.84,
+    "text": "far superior? When I've got embedded partner technology in my"
+  },
+  {
+    "start": 2225.3,
+    "duration": 4.44,
+    "text": "solution, those are the metrics I look for. Yeah, platform"
+  },
+  {
+    "start": 2229.74,
+    "duration": 4.0,
+    "text": "depth. Okay, yeah. And, and then having the really open"
+  },
+  {
+    "start": 2233.74,
+    "duration": 1.32,
+    "text": "and honest conversation with the partner about their metrics, I"
+  },
+  {
+    "start": 2235.06,
+    "duration": 3.96,
+    "text": "would imagine. That's right. That's right. So I'm glad you"
+  },
+  {
+    "start": 2239.02,
+    "duration": 5.87,
+    "text": "brought that up. As a revenue leader, you do your"
+  },
+  {
+    "start": 2244.89,
+    "duration": 2.96,
+    "text": "monthly rhythm of the business, right? You've got your weekly"
+  },
+  {
+    "start": 2247.01,
+    "duration": 3.96,
+    "text": "forecast calls, you got your monthly business reviews, you got"
+  },
+  {
+    "start": 2250.97,
+    "duration": 2.88,
+    "text": "your quarterly business reviews. You have the cascade of all"
+  },
+  {
+    "start": 2253.85,
+    "duration": 1.16,
+    "text": "that sort of stuff going on. You've got your pipeline"
+  },
+  {
+    "start": 2255.01,
+    "duration": 4.68,
+    "text": "reviews. Are you doing the same thing with your partners?"
+  },
+  {
+    "start": 2260.97,
+    "duration": 2.24,
+    "text": "If you're not, it's not a relevant piece of your"
+  },
+  {
+    "start": 2263.21,
+    "duration": 5.39,
+    "text": "business. Are you inspecting pipeline with your partners, both sides?"
+  },
+  {
+    "start": 2268.0,
+    "duration": 3.28,
+    "text": "Are you looking at win rates? Are you looking at,"
+  },
+  {
+    "start": 2272.68,
+    "duration": 3.24,
+    "text": "you know, quota attainment set? You know, if you're not"
+  },
+  {
+    "start": 2275.92,
+    "duration": 2.08,
+    "text": "setting those targets with the partner and they're not investing"
+  },
+  {
+    "start": 2278.0,
+    "duration": 3.12,
+    "text": "the time with you around those targets in the measurement"
+  },
+  {
+    "start": 2281.12,
+    "duration": 5.84,
+    "text": "of progress against them, it's not a real partnership. That's"
+  },
+  {
+    "start": 2286.96,
+    "duration": 3.08,
+    "text": "a really good point. And I want to go back"
+  },
+  {
+    "start": 2290.04,
+    "duration": 3.88,
+    "text": "to selection. So how do you, how do you forecast"
+  },
+  {
+    "start": 2293.92,
+    "duration": 1.57,
+    "text": "that ahead? I think, like, if you have the metrics"
+  },
+  {
+    "start": 2295.49,
+    "duration": 4.28,
+    "text": "and you're currently stood up, that, that's, it's, it's great."
+  },
+  {
+    "start": 2299.77,
+    "duration": 2.56,
+    "text": "But how do you pick who to go deep with?"
+  },
+  {
+    "start": 2304.93,
+    "duration": 4.4,
+    "text": "Yeah, look, it comes back to the platform, right? When"
+  },
+  {
+    "start": 2309.33,
+    "duration": 2.8,
+    "text": "you look back at your platform, you've got a couple"
+  },
+  {
+    "start": 2312.13,
+    "duration": 5.68,
+    "text": "decisions. You've got to go buy it. Like, I'm going"
+  },
+  {
+    "start": 2317.81,
+    "duration": 4.09,
+    "text": "to go buy that product capability, I'm going to go"
+  },
+  {
+    "start": 2321.9,
+    "duration": 1.52,
+    "text": "build it, I'm going to build it into my system,"
+  },
+  {
+    "start": 2323.42,
+    "duration": 2.88,
+    "text": "I'm going to build this widget, build this capability, or"
+  },
+  {
+    "start": 2326.3,
+    "duration": 4.16,
+    "text": "I'm going to go partner. And we have a number"
+  },
+  {
+    "start": 2330.46,
+    "duration": 3.8,
+    "text": "of good partners that we use for, like RFP management,"
+  },
+  {
+    "start": 2342.46,
+    "duration": 3.81,
+    "text": "that content automation I talked about, but we knew that"
+  },
+  {
+    "start": 2346.27,
+    "duration": 3.04,
+    "text": "we had to do so much work to just make"
+  },
+  {
+    "start": 2349.31,
+    "duration": 5.28,
+    "text": "it passable. We were like, we're not going to buy"
+  },
+  {
+    "start": 2354.59,
+    "duration": 1.8,
+    "text": "it. It's not core and critical. We're not going to"
+  },
+  {
+    "start": 2356.39,
+    "duration": 3.4,
+    "text": "build it because it would take too much effort. We're"
+  },
+  {
+    "start": 2359.79,
+    "duration": 4.32,
+    "text": "going to go partner with this because we know that"
+  },
+  {
+    "start": 2364.11,
+    "duration": 4.48,
+    "text": "capability is wanted by our customers and let's bring someone"
+  },
+  {
+    "start": 2368.59,
+    "duration": 4.54,
+    "text": "in super tight that's fully integrated, almost oem and we"
+  },
+  {
+    "start": 2373.13,
+    "duration": 3.96,
+    "text": "get rev revenue for bringing them in and they get"
+  },
+  {
+    "start": 2377.09,
+    "duration": 3.6,
+    "text": "revenue from us for bringing us in in the case"
+  },
+  {
+    "start": 2380.69,
+    "duration": 3.84,
+    "text": "where they someone might be looking for an RFP solution"
+  },
+  {
+    "start": 2384.53,
+    "duration": 2.32,
+    "text": "but ends up going with a bigger broader one. So"
+  },
+  {
+    "start": 2386.85,
+    "duration": 4.32,
+    "text": "that's how we look at things. Any channel, team, partner"
+  },
+  {
+    "start": 2391.17,
+    "duration": 3.16,
+    "text": "team that any of your listeners have, if they are"
+  },
+  {
+    "start": 2394.33,
+    "duration": 4.33,
+    "text": "not meeting regularly with your product team and I mean"
+  },
+  {
+    "start": 2398.66,
+    "duration": 6.16,
+    "text": "regularly meaning weekly, maybe bi weekly, then you're, you're not"
+  },
+  {
+    "start": 2404.82,
+    "duration": 2.52,
+    "text": "doing service to your partner organization. You are just a"
+  },
+  {
+    "start": 2407.34,
+    "duration": 4.12,
+    "text": "co selling relationship with partners which again is not really"
+  },
+  {
+    "start": 2411.46,
+    "duration": 6.28,
+    "text": "beneficial to anyone. Okay, makes sense. So buy, build, partner"
+  },
+  {
+    "start": 2417.74,
+    "duration": 1.32,
+    "text": "and you've got to have that technical acumen on your"
+  },
+  {
+    "start": 2419.06,
+    "duration": 3.32,
+    "text": "team to make those decisions. Are you a B2B Tech"
+  },
+  {
+    "start": 2422.38,
+    "duration": 3.8,
+    "text": "CRO, VP of Sales or VP of Revenue Operations? Join"
+  },
+  {
+    "start": 2426.18,
+    "duration": 3.94,
+    "text": "over 200 of your peers at CRO Summit 20, a"
+  },
+  {
+    "start": 2430.12,
+    "duration": 3.84,
+    "text": "one day executive only event designed to help you tackle"
+  },
+  {
+    "start": 2433.96,
+    "duration": 2.84,
+    "text": "the challenges of today and position you for growth tomorrow."
+  },
+  {
+    "start": 2436.12,
+    "duration": 3.08,
+    "text": "Hosted at the Denver Art Museum, this summit combines cutting"
+  },
+  {
+    "start": 2439.2,
+    "duration": 4.24,
+    "text": "edge insights and actionable strategies. Learn from industry pioneers covering"
+  },
+  {
+    "start": 2443.44,
+    "duration": 4.44,
+    "text": "all aspects of sales and revenue growth into 2026 with"
+  },
+  {
+    "start": 2447.88,
+    "duration": 2.36,
+    "text": "sessions from Andrea Kayal of Help Scout, Guy Rubin of"
+  },
+  {
+    "start": 2450.24,
+    "duration": 5.87,
+    "text": "EBSTA, Wendy Sturges of Cleverbridge and more. Visit joint pavilion.com"
+  },
+  {
+    "start": 2456.43,
+    "duration": 6.56,
+    "text": "CRO-summit to secure your spot today. So in terms of"
+  },
+  {
+    "start": 2462.99,
+    "duration": 4.76,
+    "text": "the component pillars of being ready to go platform, there's"
+  },
+  {
+    "start": 2467.75,
+    "duration": 2.68,
+    "text": "the go to market strategy stuff. Talent enablement, relatively straightforward"
+  },
+  {
+    "start": 2471.07,
+    "duration": 4.8,
+    "text": "ecosystem seems like a must have. It seems like if"
+  },
+  {
+    "start": 2475.87,
+    "duration": 1.64,
+    "text": "you really want to be a platform you have to"
+  },
+  {
+    "start": 2477.51,
+    "duration": 4.73,
+    "text": "have an ecosystem of implementation partners channel and product partner."
+  },
+  {
+    "start": 2483.72,
+    "duration": 3.32,
+    "text": "Yep, I would absolutely say that that is necessary to"
+  },
+  {
+    "start": 2487.04,
+    "duration": 5.88,
+    "text": "have a complete platform for sure. What else is important"
+  },
+  {
+    "start": 2492.32,
+    "duration": 3.04,
+    "text": "for folks that are thinking about this journey for themselves?"
+  },
+  {
+    "start": 2496.68,
+    "duration": 4.2,
+    "text": "So you know like I have two products I'm about"
+  },
+  {
+    "start": 2500.88,
+    "duration": 3.76,
+    "text": "to launch or build or buy a third. We, we"
+  },
+  {
+    "start": 2504.64,
+    "duration": 3.12,
+    "text": "want to go down this like platform path. What else"
+  },
+  {
+    "start": 2507.76,
+    "duration": 1.96,
+    "text": "do they really need to make sure that they have"
+  },
+  {
+    "start": 2510.73,
+    "duration": 4.64,
+    "text": "nailed before they start the journey? Two things jumped right"
+  },
+  {
+    "start": 2515.37,
+    "duration": 3.88,
+    "text": "to mind. There's the pricing and packaging some of the"
+  },
+  {
+    "start": 2519.25,
+    "duration": 5.24,
+    "text": "parts. How do the sum parts add up versus you"
+  },
+  {
+    "start": 2524.49,
+    "duration": 7.04,
+    "text": "know single point solutions bought separately. So a sound pricing"
+  },
+  {
+    "start": 2531.53,
+    "duration": 3.56,
+    "text": "and packaging strategy that is a no brainer for customers"
+  },
+  {
+    "start": 2535.09,
+    "duration": 3.08,
+    "text": "to do that. Best of platform versus best of breed"
+  },
+  {
+    "start": 2538.17,
+    "duration": 7.12,
+    "text": "decision. That's number one. Put the cycles into that. We"
+  },
+  {
+    "start": 2545.29,
+    "duration": 3.0,
+    "text": "we actually are going through a new iteration of that"
+  },
+  {
+    "start": 2548.29,
+    "duration": 4.6,
+    "text": "of pricing and packaging and we have we're not cutting"
+  },
+  {
+    "start": 2552.89,
+    "duration": 3.72,
+    "text": "corners and we're using external third party. To help like"
+  },
+  {
+    "start": 2556.61,
+    "duration": 1.72,
+    "text": "Simon Kutcher or somebody charging you an arm and a"
+  },
+  {
+    "start": 2558.33,
+    "duration": 7.77,
+    "text": "leg. Yeah, that's right. The second piece is business value"
+  },
+  {
+    "start": 2567.3,
+    "duration": 4.72,
+    "text": "and a business value consulting team or business value engineering,"
+  },
+  {
+    "start": 2572.02,
+    "duration": 4.72,
+    "text": "whatever people call it. As you get into more and"
+  },
+  {
+    "start": 2576.74,
+    "duration": 3.6,
+    "text": "more parts of a platform that's more and more wallet"
+  },
+  {
+    "start": 2580.34,
+    "duration": 4.52,
+    "text": "share that you're taking from a customer, which means more"
+  },
+  {
+    "start": 2584.86,
+    "duration": 2.6,
+    "text": "and more resistance to buy because it's a bigger number."
+  },
+  {
+    "start": 2589.5,
+    "duration": 4.11,
+    "text": "A platform company with a big bank is going to"
+  },
+  {
+    "start": 2593.61,
+    "duration": 2.76,
+    "text": "have big dollars which means big scrutiny over a big"
+  },
+  {
+    "start": 2596.37,
+    "duration": 3.68,
+    "text": "line item. Whereas if you're a point solution and you're"
+  },
+  {
+    "start": 2600.05,
+    "duration": 5.56,
+    "text": "you know, 300k and that's it, you're going to be"
+  },
+  {
+    "start": 2605.61,
+    "duration": 4.08,
+    "text": "happy as a. Yeah pig and I don't know if"
+  },
+  {
+    "start": 2609.69,
+    "duration": 1.88,
+    "text": "I can say that but because they're never going to"
+  },
+  {
+    "start": 2611.57,
+    "duration": 2.32,
+    "text": "turn you, you're not on anyone's radar. But as soon"
+  },
+  {
+    "start": 2613.89,
+    "duration": 4.84,
+    "text": "as you become an eight figure number on a CIO's"
+  },
+  {
+    "start": 2618.89,
+    "duration": 3.82,
+    "text": "desk, you better have a damn good value story pulled"
+  },
+  {
+    "start": 2622.71,
+    "duration": 3.64,
+    "text": "together. So that's the second piece is a team that"
+  },
+  {
+    "start": 2626.35,
+    "duration": 2.96,
+    "text": "is able to articulate and is somewhat arm's length from"
+  },
+  {
+    "start": 2629.31,
+    "duration": 5.2,
+    "text": "the sales team around why that customer should be paying"
+  },
+  {
+    "start": 2634.51,
+    "duration": 7.16,
+    "text": "the dollars they spend for your platform. And so tell"
+  },
+  {
+    "start": 2641.67,
+    "duration": 2.84,
+    "text": "me more about arm's length. That's, that's a really interesting"
+  },
+  {
+    "start": 2644.51,
+    "duration": 5.32,
+    "text": "nugget there. Yeah, there's different points of view on this"
+  },
+  {
+    "start": 2649.83,
+    "duration": 5.72,
+    "text": "but some people believe that every AE and sales engineer"
+  },
+  {
+    "start": 2655.55,
+    "duration": 4.48,
+    "text": "should be able. To do an ROI calculator. ROI calculator."
+  },
+  {
+    "start": 2660.11,
+    "duration": 3.64,
+    "text": "But you know, it's obviously more than that. It's also"
+  },
+  {
+    "start": 2663.91,
+    "duration": 5.2,
+    "text": "business impact and that takes specialization. But a seller has"
+  },
+  {
+    "start": 2669.11,
+    "duration": 5.43,
+    "text": "a bias. It's tell my stuff, retire, quote them, make"
+  },
+  {
+    "start": 2674.54,
+    "duration": 4.12,
+    "text": "money, make my commission check. I do believe your value"
+  },
+  {
+    "start": 2678.66,
+    "duration": 2.76,
+    "text": "consulting team should be levered towards success, but it should"
+  },
+  {
+    "start": 2681.42,
+    "duration": 5.12,
+    "text": "be more levered towards success that is aligned with your"
+  },
+  {
+    "start": 2686.54,
+    "duration": 3.28,
+    "text": "customer's success. So a little bit more around retention rates,"
+  },
+  {
+    "start": 2689.14,
+    "duration": 4.04,
+    "text": "a little bit more around NSAT or CSAT or nps."
+  },
+  {
+    "start": 2693.18,
+    "duration": 4.04,
+    "text": "However you measure success. But having a team that is"
+  },
+  {
+    "start": 2697.22,
+    "duration": 4.56,
+    "text": "not directly tied with a hard and fast 5050 quota"
+  },
+  {
+    "start": 2701.94,
+    "duration": 3.0,
+    "text": "like sales team gives them a little bit of like"
+  },
+  {
+    "start": 2704.94,
+    "duration": 7.88,
+    "text": "third party perspective versus being the, the commission killer. So"
+  },
+  {
+    "start": 2712.82,
+    "duration": 4.84,
+    "text": "that's what I mean. And also if they're an arm's"
+  },
+  {
+    "start": 2717.66,
+    "duration": 5.92,
+    "text": "length, they're not there fighting for necessarily the immediate progression."
+  },
+  {
+    "start": 2723.58,
+    "duration": 2.9,
+    "text": "They become a valued consultant about am I getting this"
+  },
+  {
+    "start": 2726.48,
+    "duration": 4.24,
+    "text": "right? From the customer's point of view, a really, really"
+  },
+  {
+    "start": 2730.72,
+    "duration": 3.32,
+    "text": "good value consultant becomes a long term partner for customers."
+  },
+  {
+    "start": 2736.8,
+    "duration": 1.48,
+    "text": "And I was just about to ask that. So does"
+  },
+  {
+    "start": 2738.28,
+    "duration": 6.28,
+    "text": "this person stay through implementation and then a renewal? Like"
+  },
+  {
+    "start": 2744.72,
+    "duration": 5.0,
+    "text": "how deep does this relationship? Hell yes, absolutely. I call"
+  },
+  {
+    "start": 2749.72,
+    "duration": 2.48,
+    "text": "it the value continuum. If anyone from Seismic is listening"
+  },
+  {
+    "start": 2752.2,
+    "duration": 2.88,
+    "text": "to this, they're going to roll their eyes. So many"
+  },
+  {
+    "start": 2755.08,
+    "duration": 5.4,
+    "text": "companies make the mistake of using value engineering, value consulting"
+  },
+  {
+    "start": 2760.48,
+    "duration": 3.6,
+    "text": "up front to get the deal closed and then they"
+  },
+  {
+    "start": 2764.08,
+    "duration": 3.28,
+    "text": "all forget about the value that was delivered. And guess"
+  },
+  {
+    "start": 2767.36,
+    "duration": 3.12,
+    "text": "what? Three years down the line when the CIO of"
+  },
+  {
+    "start": 2771.04,
+    "duration": 3.52,
+    "text": "pick the company. But this time we'll pick Procter and"
+  },
+  {
+    "start": 2774.56,
+    "duration": 4.05,
+    "text": "Gamble, we'll pick Home Depot. CIO looks at and goes"
+  },
+  {
+    "start": 2778.61,
+    "duration": 4.96,
+    "text": "$10 million for seismic. That's made up, by the way."
+  },
+  {
+    "start": 2783.65,
+    "duration": 3.84,
+    "text": "It's not a customer. You're going to have to defend"
+  },
+  {
+    "start": 2787.49,
+    "duration": 5.44,
+    "text": "that. So therefore you've got your value sold. That's where"
+  },
+  {
+    "start": 2792.25,
+    "duration": 5.44,
+    "text": "people typically play the delivery. Are you delivering on the"
+  },
+  {
+    "start": 2797.69,
+    "duration": 3.16,
+    "text": "value promise? Is the platform built correctly? Is the methodology"
+  },
+  {
+    "start": 2800.33,
+    "duration": 3.74,
+    "text": "aligned to the final outcome? Like that Services team is"
+  },
+  {
+    "start": 2804.07,
+    "duration": 3.48,
+    "text": "not there to deliver a content system. They're there to"
+  },
+  {
+    "start": 2807.55,
+    "duration": 4.56,
+    "text": "deliver a seamless customer experience system. And then most importantly,"
+  },
+  {
+    "start": 2812.11,
+    "duration": 4.08,
+    "text": "your CSM team, are they measuring? If we sold you"
+  },
+  {
+    "start": 2816.19,
+    "duration": 3.32,
+    "text": "this deal and said we're going to drop ramp time"
+  },
+  {
+    "start": 2819.51,
+    "duration": 3.0,
+    "text": "of new hires by 20% and you're going to lift"
+  },
+  {
+    "start": 2822.51,
+    "duration": 3.56,
+    "text": "your your win rate by 15%, someone's got to be"
+  },
+  {
+    "start": 2826.07,
+    "duration": 6.65,
+    "text": "measuring it. And so is that a conversation upfront with"
+  },
+  {
+    "start": 2832.72,
+    "duration": 1.68,
+    "text": "the customer that you that you're saying or is this"
+  },
+  {
+    "start": 2834.4,
+    "duration": 3.36,
+    "text": "maybe even data you have available in seismic out of"
+  },
+  {
+    "start": 2837.76,
+    "duration": 1.4,
+    "text": "the box? You're saying like we want to share this"
+  },
+  {
+    "start": 2839.16,
+    "duration": 4.04,
+    "text": "data. Are you comfortable? Is that in the contract? That"
+  },
+  {
+    "start": 2843.2,
+    "duration": 3.64,
+    "text": "was not part of our lexicon two years ago. It"
+  },
+  {
+    "start": 2846.84,
+    "duration": 5.72,
+    "text": "is absolutely 100% part of our lexicon now. When I"
+  },
+  {
+    "start": 2852.56,
+    "duration": 1.84,
+    "text": "meet with customers, when our team meets. I mean, in"
+  },
+  {
+    "start": 2854.4,
+    "duration": 3.48,
+    "text": "fact, I would love Kyle to build into our con,"
+  },
+  {
+    "start": 2857.88,
+    "duration": 3.68,
+    "text": "our MSA agreements, you know, master service agreements. I'd love"
+  },
+  {
+    "start": 2861.56,
+    "duration": 2.64,
+    "text": "to build language in that says we anonymized. Of course"
+  },
+  {
+    "start": 2865.76,
+    "duration": 5.0,
+    "text": "we want to look at CRM data to showcase kind"
+  },
+  {
+    "start": 2870.76,
+    "duration": 1.44,
+    "text": "of an a B test. Like what was it like"
+  },
+  {
+    "start": 2872.36,
+    "duration": 3.08,
+    "text": "before you bought us and what's it like a year"
+  },
+  {
+    "start": 2875.44,
+    "duration": 3.4,
+    "text": "later when you bought us? I would love to add"
+  },
+  {
+    "start": 2878.84,
+    "duration": 1.28,
+    "text": "that in. I suspect it would cause a lot of"
+  },
+  {
+    "start": 2881.58,
+    "duration": 3.56,
+    "text": "consternation and heartburn. But we are certainly talking to customers"
+  },
+  {
+    "start": 2885.14,
+    "duration": 3.76,
+    "text": "about measure and I'm talking to CROs about it when"
+  },
+  {
+    "start": 2888.9,
+    "duration": 1.28,
+    "text": "we're doing deals. I'm like, I want to measure this"
+  },
+  {
+    "start": 2890.18,
+    "duration": 5.16,
+    "text": "stuff. So that very common set the expectation early in"
+  },
+  {
+    "start": 2895.34,
+    "duration": 1.96,
+    "text": "the sales cycle. I was on with the CRO today"
+  },
+  {
+    "start": 2898.94,
+    "duration": 2.24,
+    "text": "of a company probably every one of your listeners has"
+  },
+  {
+    "start": 2901.18,
+    "duration": 3.16,
+    "text": "used and I talked to her about being able to"
+  },
+  {
+    "start": 2904.34,
+    "duration": 3.28,
+    "text": "measure the value and being a reference a year from"
+  },
+  {
+    "start": 2907.62,
+    "duration": 3.03,
+    "text": "now, once we're able to Determine that we're providing the"
+  },
+  {
+    "start": 2910.65,
+    "duration": 3.2,
+    "text": "benefit that we said we could. Makes a lot of"
+  },
+  {
+    "start": 2913.85,
+    "duration": 2.56,
+    "text": "sense. And so arm's length means that this group is"
+  },
+  {
+    "start": 2916.41,
+    "duration": 4.48,
+    "text": "where in finance, in rev ops. Where does value engineering"
+  },
+  {
+    "start": 2920.89,
+    "duration": 2.08,
+    "text": "live or where are you. What are you calling it"
+  },
+  {
+    "start": 2922.97,
+    "duration": 8.6,
+    "text": "again? Value consulting. Value business, Value Consulting. BBC Again, kind"
+  },
+  {
+    "start": 2931.57,
+    "duration": 1.72,
+    "text": "of the question of the ask 10 people, you can"
+  },
+  {
+    "start": 2933.29,
+    "duration": 5.48,
+    "text": "get 20 answers. Definitely not into your sales leader. I"
+  },
+  {
+    "start": 2938.77,
+    "duration": 2.36,
+    "text": "don't consider myself a sales leader. I'm a CRO. But"
+  },
+  {
+    "start": 2941.13,
+    "duration": 4.36,
+    "text": "I'm a revenue leader. I would have them report directly"
+  },
+  {
+    "start": 2945.49,
+    "duration": 4.04,
+    "text": "into the CRO is what I would do. Okay. Position"
+  },
+  {
+    "start": 2949.53,
+    "duration": 2.28,
+    "text": "it. And that's how yours is set up. How mine"
+  },
+  {
+    "start": 2951.81,
+    "duration": 4.8,
+    "text": "is today. Okay, that's really interesting. Reports directly to me,"
+  },
+  {
+    "start": 2956.61,
+    "duration": 2.92,
+    "text": "it's that important. And it's not just selling the value,"
+  },
+  {
+    "start": 2959.61,
+    "duration": 3.92,
+    "text": "it's measuring the value delivered. Right. Value sold, value delivered,"
+  },
+  {
+    "start": 2963.53,
+    "duration": 6.04,
+    "text": "value realized. I call that the value continuum. So actually"
+  },
+  {
+    "start": 2969.73,
+    "duration": 3.2,
+    "text": "my marketing team keeps correcting me. It's not value sold,"
+  },
+  {
+    "start": 2972.93,
+    "duration": 5.6,
+    "text": "it's value promised. Okay, so value promised, value delivered, value"
+  },
+  {
+    "start": 2978.33,
+    "duration": 4.76,
+    "text": "realized. That's correct. So I, I suggest placing it directly"
+  },
+  {
+    "start": 2983.09,
+    "duration": 3.76,
+    "text": "into the CRO and you know, it could be a"
+  },
+  {
+    "start": 2986.85,
+    "duration": 2.92,
+    "text": "head of strategy that has that team on it, but"
+  },
+  {
+    "start": 2989.77,
+    "duration": 2.91,
+    "text": "I would keep it out of the direct quota team."
+  },
+  {
+    "start": 2993.72,
+    "duration": 2.76,
+    "text": "I have also heard of some folks placing it within"
+  },
+  {
+    "start": 2997.8,
+    "duration": 4.76,
+    "text": "other divisions outside of go to market. Like CFO you"
+  },
+  {
+    "start": 3002.56,
+    "duration": 4.44,
+    "text": "mentioned as well as marketing. Okay, fascinating. So I want"
+  },
+  {
+    "start": 3007.0,
+    "duration": 2.92,
+    "text": "to switch gears and talk about the change in sales"
+  },
+  {
+    "start": 3009.92,
+    "duration": 4.08,
+    "text": "motion. So you mentioned big enablement investment to get people"
+  },
+  {
+    "start": 3014.0,
+    "duration": 4.97,
+    "text": "to go from selling one product, there's a bunch of"
+  },
+  {
+    "start": 3018.97,
+    "duration": 2.2,
+    "text": "reps all selling their individual things to now a platform"
+  },
+  {
+    "start": 3021.33,
+    "duration": 6.28,
+    "text": "positioning. How does the, how does the message in the"
+  },
+  {
+    "start": 3027.61,
+    "duration": 5.32,
+    "text": "sales motion change. First? And then I'm going to get"
+  },
+  {
+    "start": 3032.93,
+    "duration": 1.48,
+    "text": "into how to architect it. So like what are the"
+  },
+  {
+    "start": 3034.41,
+    "duration": 5.36,
+    "text": "biggest differences between a product positioning and a platform positioning"
+  },
+  {
+    "start": 3039.33,
+    "duration": 5.05,
+    "text": "as you teach it to your team? Yeah. A platform"
+  },
+  {
+    "start": 3044.46,
+    "duration": 13.4,
+    "text": "generally touches multiple stakeholders, benefactors. Product messaging typically is very"
+  },
+  {
+    "start": 3059.86,
+    "duration": 2.48,
+    "text": "speeds and feeds if you will. It does this, it"
+  },
+  {
+    "start": 3062.34,
+    "duration": 6.3,
+    "text": "has this capabilities, very product feature function oriented. You know,"
+  },
+  {
+    "start": 3068.64,
+    "duration": 6.28,
+    "text": "it can solve your problem five times faster or it"
+  },
+  {
+    "start": 3074.92,
+    "duration": 5.28,
+    "text": "can help throughput rate increase by 2x. It's very specific"
+  },
+  {
+    "start": 3080.2,
+    "duration": 4.72,
+    "text": "to one thing and it's specific to that buyer. A"
+  },
+  {
+    "start": 3084.92,
+    "duration": 4.72,
+    "text": "product typically is bought and sold by someone who is"
+  },
+  {
+    "start": 3089.64,
+    "duration": 4.97,
+    "text": "very knowledgeable about that one category. On the platform side,"
+  },
+  {
+    "start": 3094.61,
+    "duration": 2.16,
+    "text": "this is where, when you, when you're in a platform,"
+  },
+  {
+    "start": 3096.33,
+    "duration": 3.56,
+    "text": "it's not just we're selling a platform. You got to"
+  },
+  {
+    "start": 3099.89,
+    "duration": 4.8,
+    "text": "have a marketing team that reflects platform messaging and support"
+  },
+  {
+    "start": 3105.21,
+    "duration": 4.0,
+    "text": "you. You need to have your product team oriented around"
+  },
+  {
+    "start": 3109.29,
+    "duration": 4.36,
+    "text": "a platform mindset. And the platform mindset needs to be"
+  },
+  {
+    "start": 3113.65,
+    "duration": 6.08,
+    "text": "customer first mindset. So I think the positioning is more"
+  },
+  {
+    "start": 3119.73,
+    "duration": 2.69,
+    "text": "on the speed speeds, facts in statistics for a product."
+  },
+  {
+    "start": 3123.9,
+    "duration": 3.6,
+    "text": "And you need to be able to cover for a"
+  },
+  {
+    "start": 3127.5,
+    "duration": 6.04,
+    "text": "platform far broader, more kind of business impact as opposed"
+  },
+  {
+    "start": 3133.54,
+    "duration": 1.92,
+    "text": "to speeds and feeds, the impacts of the business for"
+  },
+  {
+    "start": 3135.46,
+    "duration": 6.36,
+    "text": "each different freaking stakeholder. So you might be have a"
+  },
+  {
+    "start": 3141.82,
+    "duration": 2.56,
+    "text": "coo. What is the COO measured on? CO is measured"
+  },
+  {
+    "start": 3144.38,
+    "duration": 4.81,
+    "text": "on efficiency, bottom line. Right. Maybe it's a CRO, typically"
+  },
+  {
+    "start": 3149.19,
+    "duration": 4.16,
+    "text": "measured on the top line. Might be a marketeer measured"
+  },
+  {
+    "start": 3153.35,
+    "duration": 5.76,
+    "text": "on top of the funnel. So your messaging, the Persona"
+  },
+  {
+    "start": 3160.15,
+    "duration": 4.0,
+    "text": "becomes much wider, which means you've got to be able"
+  },
+  {
+    "start": 3164.15,
+    "duration": 2.12,
+    "text": "to go much wider, which means you can't go quite"
+  },
+  {
+    "start": 3166.27,
+    "duration": 5.4,
+    "text": "as deep. No product team I don't believe is going"
+  },
+  {
+    "start": 3171.67,
+    "duration": 1.8,
+    "text": "to be an expert in any one thing, but they're"
+  },
+  {
+    "start": 3173.47,
+    "duration": 1.72,
+    "text": "going to be able to carry the narrative of the"
+  },
+  {
+    "start": 3175.19,
+    "duration": 4.56,
+    "text": "impact to the business. The business, the company, the sum"
+  },
+  {
+    "start": 3179.75,
+    "duration": 2.92,
+    "text": "of the parts. Yeah. And does that mean a lot"
+  },
+  {
+    "start": 3182.67,
+    "duration": 2.8,
+    "text": "more verticalization so that your reps can get to know"
+  },
+  {
+    "start": 3185.47,
+    "duration": 7.2,
+    "text": "an industry and speak the language more? I don't, I"
+  },
+  {
+    "start": 3192.67,
+    "duration": 1.56,
+    "text": "don't, I don't actually, I don't know the answer to"
+  },
+  {
+    "start": 3194.23,
+    "duration": 6.24,
+    "text": "that. I think the industry pendulum changes every five to"
+  },
+  {
+    "start": 3200.47,
+    "duration": 5.22,
+    "text": "10 years. Companies swing back and forth between them. Right."
+  },
+  {
+    "start": 3205.69,
+    "duration": 2.4,
+    "text": "We're gonna go all in on industry. Unless your product"
+  },
+  {
+    "start": 3209.73,
+    "duration": 5.08,
+    "text": "is hyper specialized to an industry. I don't know that"
+  },
+  {
+    "start": 3214.81,
+    "duration": 1.8,
+    "text": "it makes a hell of a lot of sense to"
+  },
+  {
+    "start": 3216.61,
+    "duration": 3.88,
+    "text": "specialize by industry. I know Keith Block as an example."
+  },
+  {
+    "start": 3221.97,
+    "duration": 3.2,
+    "text": "Maybe Keith's listening to this. He. When I was at"
+  },
+  {
+    "start": 3225.17,
+    "duration": 2.12,
+    "text": "Salesforce and it was not as long as the other"
+  },
+  {
+    "start": 3227.29,
+    "duration": 1.97,
+    "text": "companies, but it was about two, two and a half"
+  },
+  {
+    "start": 3229.26,
+    "duration": 4.08,
+    "text": "years. His whole thing was, we will not build this"
+  },
+  {
+    "start": 3233.34,
+    "duration": 4.48,
+    "text": "ibu, the industry business units until we have industry product."
+  },
+  {
+    "start": 3237.3,
+    "duration": 4.0,
+    "text": "And I, and I believe it. I believe it. Typically"
+  },
+  {
+    "start": 3241.3,
+    "duration": 4.6,
+    "text": "most of the industry or verticalized products that are sold"
+  },
+  {
+    "start": 3245.9,
+    "duration": 4.8,
+    "text": "out there and platforms are our industry when the product"
+  },
+  {
+    "start": 3250.78,
+    "duration": 2.36,
+    "text": "like data models, I mean as an example, the data"
+  },
+  {
+    "start": 3253.14,
+    "duration": 5.26,
+    "text": "model of CRM needs to be aligned around financial services"
+  },
+  {
+    "start": 3259.96,
+    "duration": 2.84,
+    "text": "to make it vertical. You can't have a democratized data"
+  },
+  {
+    "start": 3262.8,
+    "duration": 4.08,
+    "text": "model and be relevant in an industry. And so your"
+  },
+  {
+    "start": 3266.88,
+    "duration": 3.0,
+    "text": "team at Seismic is. Not verticalized today, then we are"
+  },
+  {
+    "start": 3269.88,
+    "duration": 2.52,
+    "text": "verticalized in FS and FS only because we do have"
+  },
+  {
+    "start": 3272.4,
+    "duration": 5.28,
+    "text": "the products. So we have a platform that is just"
+  },
+  {
+    "start": 3277.68,
+    "duration": 7.93,
+    "text": "for banking and it uses industry data models. Okay. That"
+  },
+  {
+    "start": 3285.61,
+    "duration": 1.84,
+    "text": "team, the way they book revenue, the way they bill"
+  },
+  {
+    "start": 3287.45,
+    "duration": 4.04,
+    "text": "it, it's different than my core business. It's because it's"
+  },
+  {
+    "start": 3291.49,
+    "duration": 5.2,
+    "text": "where we came from. Yeah. And that was like 85%"
+  },
+  {
+    "start": 3296.69,
+    "duration": 3.48,
+    "text": "of the business back when and now it's about. 45%"
+  },
+  {
+    "start": 3300.17,
+    "duration": 4.16,
+    "text": "of the business. Yeah. Yep. Okay. Call it 50. Okay."
+  },
+  {
+    "start": 3304.33,
+    "duration": 6.43,
+    "text": "Makes. Makes a lot of sense. Yeah. Not verticalizing. Go"
+  },
+  {
+    "start": 3310.76,
+    "duration": 1.32,
+    "text": "to market until you have verticalized products is a really"
+  },
+  {
+    "start": 3312.08,
+    "duration": 4.28,
+    "text": "interesting mental model. I don't know what others think about"
+  },
+  {
+    "start": 3316.36,
+    "duration": 5.24,
+    "text": "that. I would love to hear comments and feedback from"
+  },
+  {
+    "start": 3321.6,
+    "duration": 4.36,
+    "text": "this podcast. Like, I'm a big believer in industry. Big,"
+  },
+  {
+    "start": 3325.96,
+    "duration": 2.4,
+    "text": "big believer. Because you can obviously have the, the messaging,"
+  },
+  {
+    "start": 3329.6,
+    "duration": 6.33,
+    "text": "the, the value proposition built to an industry, but relevance"
+  },
+  {
+    "start": 3335.93,
+    "duration": 4.16,
+    "text": "doesn't really come until you've got industry specific product. Yeah."
+  },
+  {
+    "start": 3341.57,
+    "duration": 2.8,
+    "text": "And I guess it might depend on how particular these"
+  },
+  {
+    "start": 3344.37,
+    "duration": 3.92,
+    "text": "markets are that you're selling to. I'm always very reticent"
+  },
+  {
+    "start": 3348.29,
+    "duration": 5.68,
+    "text": "to give like a hard rule of thumb for anything."
+  },
+  {
+    "start": 3353.05,
+    "duration": 3.52,
+    "text": "I mean, any of these things are contextual. And I"
+  },
+  {
+    "start": 3364.9,
+    "duration": 3.72,
+    "text": "on a best practice. I jokingly call them high probability"
+  },
+  {
+    "start": 3368.7,
+    "duration": 2.52,
+    "text": "practices because, you know, it's okay, that's a good pattern"
+  },
+  {
+    "start": 3372.1,
+    "duration": 3.0,
+    "text": "and it could be applied. But everybody, you know, the"
+  },
+  {
+    "start": 3375.1,
+    "duration": 3.04,
+    "text": "world changes so differently. You know, are the patterns that"
+  },
+  {
+    "start": 3378.14,
+    "duration": 3.56,
+    "text": "we've used to be successful in building companies and go"
+  },
+  {
+    "start": 3381.7,
+    "duration": 2.68,
+    "text": "to market still relevant in an AI world? Maybe, maybe"
+  },
+  {
+    "start": 3384.38,
+    "duration": 4.27,
+    "text": "not. You know, the, your market has changed. The business"
+  },
+  {
+    "start": 3388.65,
+    "duration": 3.0,
+    "text": "you're in might be a mid market versus enterprise. So."
+  },
+  {
+    "start": 3391.05,
+    "duration": 7.08,
+    "text": "Yeah, yeah, it's. I love the industry debate because there"
+  },
+  {
+    "start": 3398.13,
+    "duration": 5.44,
+    "text": "is no wrong answer. Yeah. So one of the other"
+  },
+  {
+    "start": 3403.57,
+    "duration": 3.08,
+    "text": "things that you've, you mentioned offhand is that you were"
+  },
+  {
+    "start": 3406.65,
+    "duration": 3.88,
+    "text": "selling into heads of enablement primarily and now you're spending"
+  },
+  {
+    "start": 3410.53,
+    "duration": 3.3,
+    "text": "a lot of time with Croatia. And so how do"
+  },
+  {
+    "start": 3413.83,
+    "duration": 2.16,
+    "text": "you get a team that's very different, that's a very"
+  },
+  {
+    "start": 3415.99,
+    "duration": 3.96,
+    "text": "different world to interact with. How do you get your"
+  },
+  {
+    "start": 3419.95,
+    "duration": 2.24,
+    "text": "team to make the transition to selling to like a"
+  },
+  {
+    "start": 3422.19,
+    "duration": 4.08,
+    "text": "completely new buyer, new conversations? What is that transformation like?"
+  },
+  {
+    "start": 3426.27,
+    "duration": 4.8,
+    "text": "God, that's a great question. And it's hard. When I"
+  },
+  {
+    "start": 3431.07,
+    "duration": 5.76,
+    "text": "first joined here, Kyle, 95% of my calls were with"
+  },
+  {
+    "start": 3436.83,
+    "duration": 5.21,
+    "text": "heads of enablement or like frontline sales managers. Yeah. I"
+  },
+  {
+    "start": 3442.04,
+    "duration": 2.24,
+    "text": "mean we did not have CROs. We did not have"
+  },
+  {
+    "start": 3444.28,
+    "duration": 3.08,
+    "text": "them on stage. We did not have CMOs on stage."
+  },
+  {
+    "start": 3447.36,
+    "duration": 6.68,
+    "text": "It was largely enablement. The first, first thing you need"
+  },
+  {
+    "start": 3454.04,
+    "duration": 5.08,
+    "text": "to do to elevate and engage to the actual budget"
+  },
+  {
+    "start": 3459.12,
+    "duration": 3.48,
+    "text": "owners versus the person who finds out if they have"
+  },
+  {
+    "start": 3462.6,
+    "duration": 5.6,
+    "text": "budget is you. You need to be relevant around the"
+  },
+  {
+    "start": 3468.2,
+    "duration": 5.2,
+    "text": "impact to their business. Like you can't say your teams"
+  },
+  {
+    "start": 3474.64,
+    "duration": 6.88,
+    "text": "are. Have 75% of your team has taken training. Yeah."
+  },
+  {
+    "start": 3481.24,
+    "duration": 5.52,
+    "text": "Okay, so what that, that's, that's Good for maybe the"
+  },
+  {
+    "start": 3486.76,
+    "duration": 3.28,
+    "text": "enablement leader, but so what? Yeah, what lift have I"
+  },
+  {
+    "start": 3490.04,
+    "duration": 4.56,
+    "text": "gotten in the productivity of my team? How much more"
+  },
+  {
+    "start": 3494.6,
+    "duration": 1.8,
+    "text": "revenue can I drive with fewer people because they're better"
+  },
+  {
+    "start": 3496.4,
+    "duration": 3.0,
+    "text": "trained? Those are the things that are relevant. So back"
+  },
+  {
+    "start": 3499.4,
+    "duration": 4.76,
+    "text": "to the business value metrics. You have to be relevant"
+  },
+  {
+    "start": 3504.32,
+    "duration": 3.88,
+    "text": "to them and that means be impacting the metrics that"
+  },
+  {
+    "start": 3508.2,
+    "duration": 4.96,
+    "text": "matter to them. That's number one. Number two, it starts"
+  },
+  {
+    "start": 3513.16,
+    "duration": 6.52,
+    "text": "with also just a mindset, man. Like the first customer"
+  },
+  {
+    "start": 3519.68,
+    "duration": 2.13,
+    "text": "event we had, I asked a, a friend to come"
+  },
+  {
+    "start": 3521.81,
+    "duration": 2.76,
+    "text": "up on stage who's a CRO of a company that's"
+  },
+  {
+    "start": 3524.57,
+    "duration": 4.48,
+    "text": "a customer. But we really started this mindset shift of"
+  },
+  {
+    "start": 3530.77,
+    "duration": 2.16,
+    "text": "this is who we have to target. Once you've got"
+  },
+  {
+    "start": 3532.93,
+    "duration": 3.84,
+    "text": "the messaging, once you've got the relevance, once you've got"
+  },
+  {
+    "start": 3536.77,
+    "duration": 1.68,
+    "text": "the product that they care about, now you just got"
+  },
+  {
+    "start": 3538.45,
+    "duration": 2.64,
+    "text": "to go win them. And to be honest with you,"
+  },
+  {
+    "start": 3541.09,
+    "duration": 4.8,
+    "text": "Kyle, I did it through friends first, went to people"
+  },
+  {
+    "start": 3545.89,
+    "duration": 2.56,
+    "text": "who I was closer to. And it just builds confidence"
+  },
+  {
+    "start": 3549.53,
+    "duration": 2.68,
+    "text": "and it builds momentum. And when you're doing a press"
+  },
+  {
+    "start": 3552.21,
+    "duration": 2.8,
+    "text": "release with the CRO of one of the largest travel"
+  },
+  {
+    "start": 3555.01,
+    "duration": 4.68,
+    "text": "companies in the world, other CROs from other travel companies"
+  },
+  {
+    "start": 3559.69,
+    "duration": 3.92,
+    "text": "see it. Yeah. Now you have guys like Bobby Morrison,"
+  },
+  {
+    "start": 3563.93,
+    "duration": 2.44,
+    "text": "CRO of Shopify, with that awesome quote that I saw"
+  },
+  {
+    "start": 3568.65,
+    "duration": 2.56,
+    "text": "on YouTube saying we've. Gotten a lot of traction on"
+  },
+  {
+    "start": 3571.21,
+    "duration": 3.01,
+    "text": "that one. So thank you, Bobby, if you're listening. There"
+  },
+  {
+    "start": 3574.22,
+    "duration": 4.2,
+    "text": "you go. So it starts with the mindset, building confidence."
+  },
+  {
+    "start": 3579.58,
+    "duration": 3.88,
+    "text": "It also sounds like the, the continuity across the business"
+  },
+  {
+    "start": 3583.46,
+    "duration": 3.08,
+    "text": "is really important. You know, if you want to go"
+  },
+  {
+    "start": 3586.54,
+    "duration": 4.0,
+    "text": "after CROs and sales, marketing has to get CROs in"
+  },
+  {
+    "start": 3590.54,
+    "duration": 2.6,
+    "text": "the, in the, in their case studies and build content"
+  },
+  {
+    "start": 3593.3,
+    "duration": 4.36,
+    "text": "for them. And the, the messaging has to be, be"
+  }
+]

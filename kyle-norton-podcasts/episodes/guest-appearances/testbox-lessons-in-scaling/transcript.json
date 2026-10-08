@@ -1,0 +1,2452 @@
+[
+  {
+    "start": 0.0,
+    "duration": 5.52,
+    "text": "What does it take to stay ahead in B2B SaaS? Winning in the margins. Welcome to the new"
+  },
+  {
+    "start": 5.52,
+    "duration": 5.84,
+    "text": "Go-To-Market Playbook. I'm your host, James Kekus, Chief Revenue and Experience Officer at TestBox."
+  },
+  {
+    "start": 11.36,
+    "duration": 3.28,
+    "text": "In our interview series, I sit down with go-to-market operators,"
+  },
+  {
+    "start": 14.64,
+    "duration": 5.04,
+    "text": "leaders, and industry experts who are defining the next era of go-to-market by winning in the"
+  },
+  {
+    "start": 19.68,
+    "duration": 5.04,
+    "text": "margins. These leaders are focused on incremental innovations and non-obvious advantages that drive"
+  },
+  {
+    "start": 24.72,
+    "duration": 4.24,
+    "text": "big results. The goal of this interview series is for you to take action in your business. So sit"
+  },
+  {
+    "start": 28.96,
+    "duration": 7.92,
+    "text": "back, grab a notepad, and enjoy the episode. Kyle, thanks for joining me today, man. It's"
+  },
+  {
+    "start": 36.88,
+    "duration": 2.24,
+    "text": "so great to see you. Yeah, man. Appreciate the invite."
+  },
+  {
+    "start": 39.12,
+    "duration": 5.76,
+    "text": "Yeah. You know, I was thinking about today and I was thinking about how I know you. And what you"
+  },
+  {
+    "start": 44.88,
+    "duration": 6.16,
+    "text": "don't know is that this interview is being recorded five years to almost the day when we actually"
+  },
+  {
+    "start": 51.04,
+    "duration": 4.4,
+    "text": "interviewed when you were at Shopify for your solution. Wow. Small world."
+  },
+  {
+    "start": 56.24,
+    "duration": 5.28,
+    "text": "That is crazy. So this morning, I was thinking, I was prepping for our conversation today and I was"
+  },
+  {
+    "start": 61.52,
+    "duration": 5.12,
+    "text": "like, oh, the first time I talked to Kyle, I was in Hawaii for my daughter's birthday. And I was"
+  },
+  {
+    "start": 66.64,
+    "duration": 3.76,
+    "text": "like, wait, that's this week because I'm going to Hawaii after this to see my daughter for her"
+  },
+  {
+    "start": 70.4,
+    "duration": 4.4,
+    "text": "birthday. And I was like, wait. And I looked through my emails and five years ago today,"
+  },
+  {
+    "start": 74.8,
+    "duration": 3.12,
+    "text": "we were emailing to schedule to meet two days from now. Wow. Is that crazy?"
+  },
+  {
+    "start": 77.92,
+    "duration": 2.8,
+    "text": "That is crazy. Small world. Five years just goes by."
+  },
+  {
+    "start": 80.72,
+    "duration": 4.24,
+    "text": "Just like that, right? Just like that. And it's funny because I think I officially met you in"
+  },
+  {
+    "start": 84.96,
+    "duration": 4.72,
+    "text": "person was at the go-to-market fund event, but I thought that I had met you previously in person."
+  },
+  {
+    "start": 89.68,
+    "duration": 4.16,
+    "text": "I think we've talked throughout the years. You know how COVID is right now. You never know who"
+  },
+  {
+    "start": 93.84,
+    "duration": 4.56,
+    "text": "you actually meet because you build relationships over time. I was just having this conversation"
+  },
+  {
+    "start": 98.4,
+    "duration": 4.32,
+    "text": "last night with a bunch of people that I've known for years now and I've never met in person."
+  },
+  {
+    "start": 102.72,
+    "duration": 6.8,
+    "text": "Yeah. No, it's really interesting. And I want to talk about you and your career. And I remember"
+  },
+  {
+    "start": 109.52,
+    "duration": 4.96,
+    "text": "when I first met you and interviewed with you, I was like, wow, this guy is different, right?"
+  },
+  {
+    "start": 114.48,
+    "duration": 5.28,
+    "text": "This guy thinks about revenue the right way, you know, thinks about the role, the function and,"
+  },
+  {
+    "start": 119.76,
+    "duration": 4.64,
+    "text": "you know, the outcome is growth and, and, and, you know, revenue for the business. But there's so"
+  },
+  {
+    "start": 124.4,
+    "duration": 4.72,
+    "text": "many things that happen with intention that go into it ahead of time. And I really want to dig"
+  },
+  {
+    "start": 129.12,
+    "duration": 4.0,
+    "text": "into that with you. I respect the hell out of you for the way you've approached business."
+  },
+  {
+    "start": 133.12,
+    "duration": 1.36,
+    "text": "Appreciate that. Thanks."
+  },
+  {
+    "start": 134.48,
+    "duration": 2.56,
+    "text": "Why don't we start with like, tell us a little bit about yourself,"
+  },
+  {
+    "start": 137.04,
+    "duration": 2.4,
+    "text": "your current role, your current responsibilities."
+  },
+  {
+    "start": 139.52,
+    "duration": 7.28,
+    "text": "So, uh, I'm the CRO at owner.com. So we're, uh, you could think of us Shopify plus HubSpot for"
+  },
+  {
+    "start": 147.36,
+    "duration": 4.16,
+    "text": "little tiny mom and pop restaurants. The place you order pizza from on a Friday night,"
+  },
+  {
+    "start": 151.52,
+    "duration": 4.8,
+    "text": "your favorite Indians food spot, take on delivery, heavy concepts. And we do everything from"
+  },
+  {
+    "start": 156.96,
+    "duration": 4.24,
+    "text": "website, online ordering, custom branded app, email and text message marketing,"
+  },
+  {
+    "start": 161.2,
+    "duration": 5.44,
+    "text": "like everything in this suite of tools you need to grow a restaurant and particularly compete"
+  },
+  {
+    "start": 166.64,
+    "duration": 3.04,
+    "text": "online. Being with the company for a little over two years,"
+  },
+  {
+    "start": 170.32,
+    "duration": 3.28,
+    "text": "GTM fund portfolio company. That's how I got introduced to them."
+  },
+  {
+    "start": 174.48,
+    "duration": 5.6,
+    "text": "Desperately wanted in the round and, you know, Shopify restaurants. I was at Shopify at the time."
+  },
+  {
+    "start": 180.08,
+    "duration": 6.48,
+    "text": "So spend some time with the founder to convince him to take our money. And it's been a fun ride"
+  },
+  {
+    "start": 186.56,
+    "duration": 4.8,
+    "text": "since then. It was very difficult to leave shop. Yeah. Did not really want to. And the timing was"
+  },
+  {
+    "start": 191.36,
+    "duration": 6.24,
+    "text": "horrendous because I just had my second kid. And so I was not looking for a change. But, uh,"
+  },
+  {
+    "start": 197.6,
+    "duration": 5.76,
+    "text": "when those opportunities arise with, you know, a founder and a market and a product that,"
+  },
+  {
+    "start": 203.36,
+    "duration": 3.36,
+    "text": "you know, has that special combination, you sort of have to take the leap."
+  },
+  {
+    "start": 206.72,
+    "duration": 3.84,
+    "text": "And it sounds like you were also the perfect person for that job as well."
+  },
+  {
+    "start": 210.56,
+    "duration": 5.76,
+    "text": "Well suited. Yeah. So talk to me a little bit about, I want to talk about owner.com,"
+  },
+  {
+    "start": 216.32,
+    "duration": 2.64,
+    "text": "but talk to me a little bit more about your Shopify experience, right? You were pretty"
+  },
+  {
+    "start": 218.96,
+    "duration": 6.4,
+    "text": "early there and saw massive growth. Yeah, not that early. So I was 2019 to 2022. In terms of"
+  },
+  {
+    "start": 225.36,
+    "duration": 4.4,
+    "text": "headcount, I think there were like 8,000 when I started and maybe 15,000 when I left something"
+  },
+  {
+    "start": 229.76,
+    "duration": 7.84,
+    "text": "like that, but a very interesting point of time because I had nine months pre COVID I ran the"
+  },
+  {
+    "start": 237.6,
+    "duration": 5.76,
+    "text": "point of sale group, the go-to-market function for point of sale. So it was a go-to-market team"
+  },
+  {
+    "start": 243.36,
+    "duration": 6.0,
+    "text": "completely hived off from the other existing sales and go-to-market function for the plus"
+  },
+  {
+    "start": 249.36,
+    "duration": 7.76,
+    "text": "product. You know, we were all gas. Yeah. We went from five to almost 80 people in, in 18 months,"
+  },
+  {
+    "start": 257.12,
+    "duration": 5.28,
+    "text": "but halfway through that was, was COVID and point of sale in person. So that whole thing blew up"
+  },
+  {
+    "start": 262.4,
+    "duration": 5.52,
+    "text": "and we thought the, we thought that growth would go to zero. We would be bleeding customers like"
+  },
+  {
+    "start": 267.92,
+    "duration": 5.76,
+    "text": "crazy. We actually paused, uh, our commission plan. We just said, we're going to pay everybody"
+  },
+  {
+    "start": 273.68,
+    "duration": 5.28,
+    "text": "their full OTE no matter what happens. Cause Shopify is a great company like that. Yeah."
+  },
+  {
+    "start": 278.96,
+    "duration": 6.16,
+    "text": "But then we spent a couple weeks trying to figure out, okay, how do we take this massive,"
+  },
+  {
+    "start": 285.12,
+    "duration": 4.64,
+    "text": "crazy, uh, change and make it work for our customers to work for the business. And then,"
+  },
+  {
+    "start": 290.32,
+    "duration": 6.16,
+    "text": "uh, eventually COVID sent Shopify on this crazy run, including the point of sale group,"
+  },
+  {
+    "start": 297.12,
+    "duration": 5.2,
+    "text": "because even though it was in person, we could talk to businesses that needed to get online,"
+  },
+  {
+    "start": 302.32,
+    "duration": 5.04,
+    "text": "had an in-person, uh, retail experience. And we said, well, you know, that thing's going to be"
+  },
+  {
+    "start": 307.36,
+    "duration": 4.16,
+    "text": "closed for the next, however many months, you might as well just move the whole business over."
+  },
+  {
+    "start": 311.52,
+    "duration": 7.36,
+    "text": "There's no change cost. And so that message really resonated. And so we, even the point of sale, uh,"
+  },
+  {
+    "start": 318.88,
+    "duration": 3.52,
+    "text": "product grew like crazy at that time. And that's incredible."
+  },
+  {
+    "start": 322.48,
+    "duration": 3.76,
+    "text": "And so when the owner.com opportunity came up, you know, you obviously had"
+  },
+  {
+    "start": 326.24,
+    "duration": 4.16,
+    "text": "aligned background, sound like a great company. What kind of growth has owner.com gone through"
+  },
+  {
+    "start": 330.4,
+    "duration": 7.44,
+    "text": "in your two years? So we have grown like revenue 10 X in two years on a nice run. And we're growing"
+  },
+  {
+    "start": 337.84,
+    "duration": 7.12,
+    "text": "at like just as fast a rate today as we were 18, 20 months ago. And with like really good efficiency."
+  },
+  {
+    "start": 344.96,
+    "duration": 3.6,
+    "text": "So we feel like we're in a good spot. I'm as bullish on the company today as I was"
+  },
+  {
+    "start": 349.44,
+    "duration": 3.52,
+    "text": "probably more bullish today than I was a couple, couple of years ago. So"
+  },
+  {
+    "start": 352.96,
+    "duration": 4.4,
+    "text": "considering how so many companies are struggling right now, right. To be in the position that"
+  },
+  {
+    "start": 357.36,
+    "duration": 5.2,
+    "text": "you're in is pretty incredible. Yeah. Good product, great team. You know, it all starts"
+  },
+  {
+    "start": 362.56,
+    "duration": 4.08,
+    "text": "with the founders. You know, do they have that, do they have that force of nature to"
+  },
+  {
+    "start": 367.36,
+    "duration": 4.4,
+    "text": "attract great talent and, and move a market? So that's certainly there."
+  },
+  {
+    "start": 371.76,
+    "duration": 4.56,
+    "text": "And as a CRO, like what departments functions, what do you oversee?"
+  },
+  {
+    "start": 377.28,
+    "duration": 9.92,
+    "text": "So I have demand gen slash growth sales. So BDR, a, uh, enablement rev ops partnerships,"
+  },
+  {
+    "start": 387.2,
+    "duration": 5.04,
+    "text": "which is a big area of investment for us. And then our customer onboarding function. Yeah."
+  },
+  {
+    "start": 392.24,
+    "duration": 5.44,
+    "text": "And then we hand off to CS and support from that. Got it. Okay. And how has that function changed"
+  },
+  {
+    "start": 397.68,
+    "duration": 4.88,
+    "text": "over the two years? Has it always been like this or how? Well, most of that didn't exist two years"
+  },
+  {
+    "start": 402.56,
+    "duration": 7.92,
+    "text": "ago. I inherited four reps, two of which were not a fit and, uh, and a manager. And those three"
+  },
+  {
+    "start": 410.48,
+    "duration": 4.8,
+    "text": "people are still with the business and doing awesome today. Uh, and then we had to scale it"
+  },
+  {
+    "start": 415.28,
+    "duration": 6.56,
+    "text": "up from there. So the team was like, I inherited five, two, we parted ways with, and now we're"
+  },
+  {
+    "start": 421.84,
+    "duration": 7.28,
+    "text": "like a hundred people in, in our function. A lot. So sales is probably like 60, 70 folks."
+  },
+  {
+    "start": 429.76,
+    "duration": 4.16,
+    "text": "No sales is call it 40 and change. Okay. And then you've got all the other stuff."
+  },
+  {
+    "start": 433.92,
+    "duration": 3.92,
+    "text": "Yeah. That's a lot. So, you know, as a revenue leader and, you know,"
+  },
+  {
+    "start": 437.84,
+    "duration": 5.28,
+    "text": "owning sales and taking over demand gen and marketing, right. How, how do you think about"
+  },
+  {
+    "start": 443.12,
+    "duration": 4.72,
+    "text": "breaking away from some of the traditional norms of looking at marketing or growth or demand gen"
+  },
+  {
+    "start": 447.84,
+    "duration": 6.72,
+    "text": "functions? It's a hard question to answer. I think the biggest epiphany for me was, you know,"
+  },
+  {
+    "start": 454.56,
+    "duration": 7.28,
+    "text": "early in my career, especially as I transitioned into SAS, I was just obsessed with best practice"
+  },
+  {
+    "start": 461.84,
+    "duration": 6.4,
+    "text": "and like a lot of the, a lot of my success in my early sales and management career was I just read"
+  },
+  {
+    "start": 468.24,
+    "duration": 4.72,
+    "text": "more than everybody. And I just applied those things like really rapidly. And so I was like,"
+  },
+  {
+    "start": 472.96,
+    "duration": 5.76,
+    "text": "okay, like take a thing, apply it to my business. And then that had served me. And then at some"
+  },
+  {
+    "start": 478.72,
+    "duration": 7.6,
+    "text": "point that started to serve me a little bit less once I had had sort of broader ownership of things"
+  },
+  {
+    "start": 486.96,
+    "duration": 7.04,
+    "text": "and it wasn't just like, it wasn't just sales anymore. And I, I don't know who, who, where I"
+  },
+  {
+    "start": 494.0,
+    "duration": 8.08,
+    "text": "learned this, but, uh, adapting my like blanket application of best practice and taking a, a"
+  },
+  {
+    "start": 502.88,
+    "duration": 6.4,
+    "text": "more contextual approach. And so I still read a ton. And I think the reason that we do things,"
+  },
+  {
+    "start": 509.28,
+    "duration": 4.8,
+    "text": "we do a bunch a little bit different is like, I read a lot of different things and I try to learn"
+  },
+  {
+    "start": 514.08,
+    "duration": 4.96,
+    "text": "about a lot of different crafts. Like I've spent a lot of the last few years learning about product"
+  },
+  {
+    "start": 519.04,
+    "duration": 4.32,
+    "text": "and product management and how products getting gotten built and it's just incredibly applicable"
+  },
+  {
+    "start": 523.36,
+    "duration": 5.68,
+    "text": "to go to market. And so there's a book called range by David Epstein. Great book. Yeah. Incredible."
+  },
+  {
+    "start": 529.04,
+    "duration": 4.64,
+    "text": "And he talks about why generalists rule the world, why people, you know, you bring, you're"
+  },
+  {
+    "start": 533.68,
+    "duration": 6.32,
+    "text": "pulling from a broad set of mental models and ways to solve problems. And I think that has been an"
+  },
+  {
+    "start": 540.0,
+    "duration": 4.64,
+    "text": "advantage for me because you know, I've, I've run sales for a long time, but then I was a small"
+  },
+  {
+    "start": 544.64,
+    "duration": 5.6,
+    "text": "business owner and I had to build my own website and stand up a CRM for this mixed martial arts"
+  },
+  {
+    "start": 550.24,
+    "duration": 6.8,
+    "text": "academy that I own. And then I've had operations functions and CS and, and I just think like"
+  },
+  {
+    "start": 558.0,
+    "duration": 5.68,
+    "text": "being open minded and trying to learn from everything from everywhere has been an advantage."
+  },
+  {
+    "start": 563.68,
+    "duration": 6.24,
+    "text": "And I now try to call best practices, high probability practices. I like that. I haven't"
+  },
+  {
+    "start": 569.92,
+    "duration": 3.6,
+    "text": "heard that before. I like that. It's, I just made it up. That's probably why it makes sense"
+  },
+  {
+    "start": 574.4,
+    "duration": 4.48,
+    "text": "because it's not the best practice. What is the best practice? Like what I do in my SMB business"
+  },
+  {
+    "start": 578.88,
+    "duration": 4.16,
+    "text": "is not the same that you'll do in a middle or mid market or enterprise oriented business. And so"
+  },
+  {
+    "start": 583.76,
+    "duration": 5.92,
+    "text": "like forecasting, like I don't run a bottoms up weighted commit. So tell me what's coming in this."
+  },
+  {
+    "start": 589.68,
+    "duration": 3.76,
+    "text": "You can do that in SMB, but that is a best practice in a high performance enterprise"
+  },
+  {
+    "start": 593.44,
+    "duration": 6.8,
+    "text": "organization. So some of these things don't work for your business or your leadership style or"
+  },
+  {
+    "start": 600.24,
+    "duration": 6.48,
+    "text": "your market or your company stage. And so part of why I've done a lot different and like why,"
+  },
+  {
+    "start": 606.72,
+    "duration": 5.04,
+    "text": "why we have fairly novel approaches is just a very broad approach to learning and"
+  },
+  {
+    "start": 613.44,
+    "duration": 4.24,
+    "text": "applying that with an open mind and to the context of the business."
+  },
+  {
+    "start": 617.68,
+    "duration": 5.2,
+    "text": "I love that response. And a range is a great book, big fan of that book and that concept generally,"
+  },
+  {
+    "start": 622.88,
+    "duration": 5.12,
+    "text": "right? No pun intended, because I would say that even for my own career, right? I've been a bit of"
+  },
+  {
+    "start": 628.0,
+    "duration": 4.0,
+    "text": "a generalist, right? It's actually done well. It's worked out really well for me. And I'm,"
+  },
+  {
+    "start": 632.0,
+    "duration": 4.24,
+    "text": "I'm curious to dig in a little bit on the product aspect. So we're at SASTA right now, and I,"
+  },
+  {
+    "start": 636.8,
+    "duration": 4.8,
+    "text": "was mentioning that I was at Jason Lemkin's presentation yesterday about like hiring a VP"
+  },
+  {
+    "start": 641.6,
+    "duration": 4.64,
+    "text": "of sales. And one of his slides was like, hire a VP of sales that understands the product."
+  },
+  {
+    "start": 646.24,
+    "duration": 6.4,
+    "text": "And I would say coming from a solutions background, that has not been the norm in SAS. So"
+  },
+  {
+    "start": 652.64,
+    "duration": 4.64,
+    "text": "why do you think that that hasn't been the norm and why does it need to be the norm moving forward?"
+  },
+  {
+    "start": 658.16,
+    "duration": 5.28,
+    "text": "I don't think it's being the norm because it's really hard. It's hard to find a good VP of sales."
+  },
+  {
+    "start": 663.44,
+    "duration": 5.6,
+    "text": "It's hard to find good sales reps. And if you want to narrow down your search to, I want people"
+  },
+  {
+    "start": 669.04,
+    "duration": 5.6,
+    "text": "with domain experience. I want people who understand the customer's problem. That becomes"
+  },
+  {
+    "start": 674.64,
+    "duration": 5.76,
+    "text": "really hard and finding a good revenue leader that you're, you know, you've got an alignment"
+  },
+  {
+    "start": 680.4,
+    "duration": 4.32,
+    "text": "of leadership values and they have the craft and the skills and the track record. And then now you"
+  },
+  {
+    "start": 684.72,
+    "duration": 5.12,
+    "text": "want them to know that thing. That's probably why it doesn't happen. If you can find it, it's great."
+  },
+  {
+    "start": 689.84,
+    "duration": 7.36,
+    "text": "Somebody who, who gets the customer maybe has that domain experience. I think people can learn"
+  },
+  {
+    "start": 697.2,
+    "duration": 6.0,
+    "text": "it personally. I think you can fall in love with the problem if you have a, a, like a curious"
+  },
+  {
+    "start": 704.08,
+    "duration": 6.24,
+    "text": "learning oriented individual, but, and depends on the market. You know, it could, it really depends."
+  },
+  {
+    "start": 710.32,
+    "duration": 4.24,
+    "text": "You could come into our business knowing very little about digital marketing and figure out"
+  },
+  {
+    "start": 714.56,
+    "duration": 5.76,
+    "text": "pretty fast. It's not, it's not super complex what we do. If you were in a business selling"
+  },
+  {
+    "start": 720.32,
+    "duration": 6.4,
+    "text": "to dev ops and info like security folks, you need an incredible depth. And I would, I would"
+  },
+  {
+    "start": 726.72,
+    "duration": 4.72,
+    "text": "certainly prioritize that. So like all things being equal, yeah. Hire the domain experience."
+  },
+  {
+    "start": 731.44,
+    "duration": 6.4,
+    "text": "And, and I think maybe one of the things that I've heard Jason talk about is related to this is"
+  },
+  {
+    "start": 737.84,
+    "duration": 5.2,
+    "text": "they have to learn the product. There's one thing to hire for it. I'm not as like,"
+  },
+  {
+    "start": 743.76,
+    "duration": 5.92,
+    "text": "I think it's good if possible. I'm not as like hung up on it. I certainly, uh, agree with"
+  },
+  {
+    "start": 750.72,
+    "duration": 5.68,
+    "text": "the CRO or the revenue leader. They have to understand the customer first, then the problem"
+  },
+  {
+    "start": 756.4,
+    "duration": 4.64,
+    "text": "you're solving and how the product works and solves that problem. It's, it's really important."
+  },
+  {
+    "start": 761.04,
+    "duration": 5.52,
+    "text": "Yeah. And I'm really glad to bring this up. And it's been a important topic of my general"
+  },
+  {
+    "start": 766.56,
+    "duration": 4.64,
+    "text": "thesis and premise, right? Is that I feel like in SAS and software, the last decade,"
+  },
+  {
+    "start": 771.2,
+    "duration": 3.04,
+    "text": "we've lost sight of the customer. Yeah. Would you agree with that?"
+  },
+  {
+    "start": 774.24,
+    "duration": 4.16,
+    "text": "Yeah. I mean, we've just gotten obsessed with growth. I mean, a hundred percent. Yeah."
+  },
+  {
+    "start": 778.4,
+    "duration": 1.92,
+    "text": "And, and that has led to some bad behaviors."
+  },
+  {
+    "start": 780.32,
+    "duration": 1.04,
+    "text": "And things got easy."
+  },
+  {
+    "start": 781.36,
+    "duration": 0.64,
+    "text": "Things got easy."
+  },
+  {
+    "start": 782.0,
+    "duration": 8.32,
+    "text": "That's, I think that issue of we lost sight of the customers just downstream of things were"
+  },
+  {
+    "start": 790.32,
+    "duration": 3.2,
+    "text": "really easy. So all of these things got worse."
+  },
+  {
+    "start": 793.52,
+    "duration": 5.68,
+    "text": "Yes. That's, that's a great call, right? And I think when I think about the modern go-to-market"
+  },
+  {
+    "start": 799.2,
+    "duration": 5.12,
+    "text": "and how go-to-markets evolving, I think sales leaders, especially revenue leaders,"
+  },
+  {
+    "start": 804.32,
+    "duration": 4.08,
+    "text": "CROs have to have a point of view and you have to understand the customer first."
+  },
+  {
+    "start": 808.4,
+    "duration": 4.72,
+    "text": "No longer can just be a forecasting leader, right? And forecasting culture. You have to"
+  },
+  {
+    "start": 813.12,
+    "duration": 4.16,
+    "text": "understand the entire journey because role consolidation is happening. And so, you know,"
+  },
+  {
+    "start": 817.28,
+    "duration": 5.92,
+    "text": "CROs are now being more and more responsible for solutions, for customer success, for things"
+  },
+  {
+    "start": 823.2,
+    "duration": 3.6,
+    "text": "post-sale. And I think that is a trend that's going to be happening more and more in SAS."
+  },
+  {
+    "start": 826.8,
+    "duration": 4.48,
+    "text": "And I think that changes the profile of what happens with a CRO. Do you agree with that?"
+  },
+  {
+    "start": 831.28,
+    "duration": 1.2,
+    "text": "Do you disagree with that?"
+  },
+  {
+    "start": 832.48,
+    "duration": 4.96,
+    "text": "I think fundamentally, I agree that it should be the direction people go."
+  },
+  {
+    "start": 837.44,
+    "duration": 0.72,
+    "text": "Yeah."
+  },
+  {
+    "start": 838.16,
+    "duration": 4.0,
+    "text": "I don't know if there's enough leaders out there that can do it."
+  },
+  {
+    "start": 842.16,
+    "duration": 4.16,
+    "text": "Yeah. I think that's a really interesting concept generally, is that if we think about"
+  },
+  {
+    "start": 846.32,
+    "duration": 3.52,
+    "text": "some of the shifts in go-to-market that's happening, even at TestBox, right? Role"
+  },
+  {
+    "start": 849.84,
+    "duration": 5.44,
+    "text": "consolidation, full cycle solution architect, you deliver what you sell, right? And that,"
+  },
+  {
+    "start": 855.28,
+    "duration": 3.84,
+    "text": "there are not that many folks who have that type of expertise, right? And I think that"
+  },
+  {
+    "start": 859.12,
+    "duration": 3.84,
+    "text": "that's going to continue to happen across go-to-market. So I'm glad you bring this up"
+  },
+  {
+    "start": 862.96,
+    "duration": 4.08,
+    "text": "because your concept and viewpoint of learning is something I've always admired, right? Because"
+  },
+  {
+    "start": 867.04,
+    "duration": 4.32,
+    "text": "I think too many people think that they know it all, right? And I'm a big John Wooden fan."
+  },
+  {
+    "start": 871.36,
+    "duration": 0.8,
+    "text": "Yeah, yeah, yeah."
+  },
+  {
+    "start": 872.16,
+    "duration": 4.0,
+    "text": "And one of his best quotes is, it's what you learn after you know it all that counts."
+  },
+  {
+    "start": 876.16,
+    "duration": 0.4,
+    "text": "Yeah, yeah, yeah."
+  },
+  {
+    "start": 876.56,
+    "duration": 5.6,
+    "text": "Right? And I think that general concept is what more leaders will need to lean into."
+  },
+  {
+    "start": 882.16,
+    "duration": 4.48,
+    "text": "And so I'm curious for you, because let's talk about learning, let's talk about enablement."
+  },
+  {
+    "start": 886.64,
+    "duration": 3.04,
+    "text": "That's, as long as I've ever known you, super core to what you do."
+  },
+  {
+    "start": 889.68,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 889.92,
+    "duration": 4.08,
+    "text": "And for you to go through the growth that you have at Owner.com, you've had to have a"
+  },
+  {
+    "start": 894.0,
+    "duration": 4.32,
+    "text": "probably pretty sophisticated point of view and intention in how you approach learning"
+  },
+  {
+    "start": 898.32,
+    "duration": 2.24,
+    "text": "and enablement. So can you generally talk about that?"
+  },
+  {
+    "start": 900.56,
+    "duration": 8.56,
+    "text": "Would even expand that opinion to be, I think that we underinvest in these functions in general."
+  },
+  {
+    "start": 909.12,
+    "duration": 0.32,
+    "text": "Sure."
+  },
+  {
+    "start": 909.6,
+    "duration": 7.12,
+    "text": "I think that we, because you get into spreadsheet mode. The thing that drives growth is number of"
+  },
+  {
+    "start": 916.72,
+    "duration": 6.48,
+    "text": "reps times quota equals whatever. And we know that that's not what it is. It's really pipeline"
+  },
+  {
+    "start": 923.2,
+    "duration": 7.2,
+    "text": "generated times a conversion rate. And there's some function in that equation that is the number"
+  },
+  {
+    "start": 930.4,
+    "duration": 4.88,
+    "text": "of reps needed to drive that conversion rate to handle that volume of leads. So we just get into"
+  },
+  {
+    "start": 935.28,
+    "duration": 6.0,
+    "text": "the spreadsheet mindset of scaling sales teams where we just obsess about like more reps, more"
+  },
+  {
+    "start": 941.28,
+    "duration": 5.76,
+    "text": "reps or more reps. My opinion is that we should be investing in these other foundations much earlier"
+  },
+  {
+    "start": 947.04,
+    "duration": 5.68,
+    "text": "than we are. And so like RevOps is the big one. I'm always pushing people to hire RevOps earlier"
+  },
+  {
+    "start": 952.72,
+    "duration": 5.28,
+    "text": "than they do because it makes everything downstream better if you have a good RevOps leader."
+  },
+  {
+    "start": 958.0,
+    "duration": 4.88,
+    "text": "So coming back to your question about enablement, yeah, we, I have consistently made like early"
+  },
+  {
+    "start": 962.88,
+    "duration": 6.56,
+    "text": "investments in enablement because if you're playing the traditional venture game where you're"
+  },
+  {
+    "start": 969.44,
+    "duration": 6.32,
+    "text": "trying to be fairly aggressive, then what you find is you run out of time. Like by the time"
+  },
+  {
+    "start": 976.96,
+    "duration": 6.16,
+    "text": "you have 15 AEs in seat and the conversion rates are mediocre, you're like, Oh, because our"
+  },
+  {
+    "start": 983.12,
+    "duration": 4.88,
+    "text": "onboarding plan isn't very good and nobody knows the product. And, and we don't have like, you know,"
+  },
+  {
+    "start": 988.0,
+    "duration": 7.36,
+    "text": "a structured way to teach the sales system that we want. Now you're like nine months behind because"
+  },
+  {
+    "start": 995.36,
+    "duration": 5.28,
+    "text": "you can't, you can't find a great enablement leader and then have them come in and learn."
+  },
+  {
+    "start": 1000.64,
+    "duration": 5.68,
+    "text": "It's a very high context role, learn all of this stuff and actually build and deploy and then change"
+  },
+  {
+    "start": 1006.32,
+    "duration": 4.96,
+    "text": "behavior. Sure. You just, you're, you're, you're out of time. And so you end up in, you end up"
+  },
+  {
+    "start": 1011.84,
+    "duration": 4.24,
+    "text": "where a lot of companies see like a ton of growth. Do they hit some rep number where"
+  },
+  {
+    "start": 1016.88,
+    "duration": 5.6,
+    "text": "the, the leader can no longer influence every deal or every person individually"
+  },
+  {
+    "start": 1023.2,
+    "duration": 5.2,
+    "text": "and everything starts falling apart. So, so like that early investment in enablement is important."
+  },
+  {
+    "start": 1028.4,
+    "duration": 5.28,
+    "text": "And just in general as a, as a principle, you know, like I believe that growth is the thing"
+  },
+  {
+    "start": 1033.68,
+    "duration": 4.0,
+    "text": "that differentiates growth and learning are the things that differentiate the individual and their"
+  },
+  {
+    "start": 1037.68,
+    "duration": 5.36,
+    "text": "success, the team and their success. So if you want to have an awesome learning and growth culture,"
+  },
+  {
+    "start": 1043.04,
+    "duration": 4.4,
+    "text": "you, you need somebody dedicated to that function. Okay. There are so many things"
+  },
+  {
+    "start": 1047.44,
+    "duration": 3.52,
+    "text": "that I want to take in on. I love that. Right. One of the things that has always"
+  },
+  {
+    "start": 1052.32,
+    "duration": 4.4,
+    "text": "irked me a bit about enablement is sometimes that the function has been more of a communication"
+  },
+  {
+    "start": 1056.72,
+    "duration": 5.44,
+    "text": "function than an actual empowering function. And I worked at showpad right in the sales space."
+  },
+  {
+    "start": 1062.16,
+    "duration": 4.8,
+    "text": "Right. So like we always had a point of view. And so for you and you said like hiring the right"
+  },
+  {
+    "start": 1066.96,
+    "duration": 4.64,
+    "text": "enablement leader, what are some of the things that you do to make sure that that enablement"
+  },
+  {
+    "start": 1071.6,
+    "duration": 6.24,
+    "text": "function is delivering value and is not just communication per se? So there's a lot. I'm"
+  },
+  {
+    "start": 1077.84,
+    "duration": 3.36,
+    "text": "trying to figure out where I want to go with this. Let's tell one thing, one thing that's"
+  },
+  {
+    "start": 1081.2,
+    "duration": 5.52,
+    "text": "really made an impact. Yeah. Your preamble there is worth double clicking on. Like enablement is"
+  },
+  {
+    "start": 1086.72,
+    "duration": 8.24,
+    "text": "often this communicator certification. It, it is, it becomes a bureaucracy. A lot of enablement is,"
+  },
+  {
+    "start": 1094.96,
+    "duration": 6.88,
+    "text": "is bureaucratic. And I believe the function of enablement is incredibly important. And I, but I"
+  },
+  {
+    "start": 1101.84,
+    "duration": 6.64,
+    "text": "think as a, as a group, as an industry, it's not a very well, it's not a very well done."
+  },
+  {
+    "start": 1109.12,
+    "duration": 5.44,
+    "text": "I could agree with you. Craft. I could agree. And so what I've traditionally done with enablement"
+  },
+  {
+    "start": 1114.56,
+    "duration": 4.48,
+    "text": "leaders is just find people that like do understand the craft. They've, they've carried a"
+  },
+  {
+    "start": 1119.04,
+    "duration": 6.72,
+    "text": "bag. They know how to sell. They care about sales. They're, they're not like a, an extension"
+  },
+  {
+    "start": 1125.76,
+    "duration": 3.84,
+    "text": "of HR learning and development. Like these are, these are people that really understand the day"
+  },
+  {
+    "start": 1129.6,
+    "duration": 6.0,
+    "text": "to day. Think from a servant mentality, uh, from a servant leadership mentality. First, I would say"
+  },
+  {
+    "start": 1135.6,
+    "duration": 6.48,
+    "text": "this is the number one thing for both rev ops and enablement is like, do they solve problems from"
+  },
+  {
+    "start": 1142.08,
+    "duration": 7.36,
+    "text": "the top down and think about, you know, what data do, what data do I need to serve my desires?"
+  },
+  {
+    "start": 1149.44,
+    "duration": 4.08,
+    "text": "Okay. I'm going to make a required field, required field, required field. And now closing a deal is"
+  },
+  {
+    "start": 1153.52,
+    "duration": 5.52,
+    "text": "like an hour and a half process. Same thing with enablement. Uh, we want demos to be run"
+  },
+  {
+    "start": 1159.04,
+    "duration": 4.56,
+    "text": "in a more consistent manner, have them do a certification and do this big song and dance."
+  },
+  {
+    "start": 1163.6,
+    "duration": 4.64,
+    "text": "And it's about problem solving from the perspective of the business versus, okay,"
+  },
+  {
+    "start": 1168.24,
+    "duration": 6.0,
+    "text": "what does this rep need? How can I make this reps day to day better? How do I equip them to do things?"
+  },
+  {
+    "start": 1174.24,
+    "duration": 5.36,
+    "text": "And I actually don't need to do it much today. I have an awesome enablement leader, but fantastic."
+  },
+  {
+    "start": 1179.6,
+    "duration": 5.2,
+    "text": "Traditionally I'm all, especially Shopify. I was like, where, where we were pulling,"
+  },
+  {
+    "start": 1184.8,
+    "duration": 4.24,
+    "text": "where there was a larger apparatus, you're constantly pulling and pushing me like this,"
+  },
+  {
+    "start": 1189.04,
+    "duration": 5.6,
+    "text": "this doesn't serve the rep. Yeah. Or like this needs to be re architected in a way that they're"
+  },
+  {
+    "start": 1194.64,
+    "duration": 3.76,
+    "text": "going to be excited about. Like if they're, it's great call out. If they're doing things"
+  },
+  {
+    "start": 1198.4,
+    "duration": 6.64,
+    "text": "because they're checking a box, then enablement has gone wrong. If they're walking out of this"
+  },
+  {
+    "start": 1205.04,
+    "duration": 4.72,
+    "text": "training and you're getting slacks that are, that people are excited. Oh man, I wish we had done"
+  },
+  {
+    "start": 1209.76,
+    "duration": 4.96,
+    "text": "this earlier. I'm going to go back to these deals like that. Then that's a high bar, but it is very"
+  },
+  {
+    "start": 1214.72,
+    "duration": 4.32,
+    "text": "much possible. Yeah. A manager was sharing screenshots from their newbie reps four days in."
+  },
+  {
+    "start": 1219.6,
+    "duration": 4.72,
+    "text": "And they're talking about my enablement leader was running a things like Rob's a legend. This"
+  },
+  {
+    "start": 1224.32,
+    "duration": 5.28,
+    "text": "was great. I'm like, like they're stoked. Love that. That needs to be the bar has to be. And"
+  },
+  {
+    "start": 1229.6,
+    "duration": 4.08,
+    "text": "it's almost never. And I'm really glad that you bring that up because I tend to think that"
+  },
+  {
+    "start": 1233.68,
+    "duration": 4.72,
+    "text": "enablement is, is, has historically been this like one time function, right? It's like, all right,"
+  },
+  {
+    "start": 1238.4,
+    "duration": 5.44,
+    "text": "we trained people one time we've checked the box, but enablement and success is ongoing, right? It"
+  },
+  {
+    "start": 1243.84,
+    "duration": 6.16,
+    "text": "has to be continuous learning. And I want to shift our focus a little bit around sales and the sales"
+  },
+  {
+    "start": 1250.0,
+    "duration": 3.84,
+    "text": "rep and kind of the future of sales, right? Because you talked about growth and growth"
+  },
+  {
+    "start": 1253.84,
+    "duration": 5.84,
+    "text": "mindset a little bit earlier. And so how do you go and hire for reps to make sure that they have"
+  },
+  {
+    "start": 1259.68,
+    "duration": 5.84,
+    "text": "that growth mindset? It's a part of our framework. So the first thing you have to do with any hiring"
+  },
+  {
+    "start": 1265.52,
+    "duration": 6.48,
+    "text": "at scale is get really specific about what you're looking for. And so we have a interview scorecard"
+  },
+  {
+    "start": 1272.56,
+    "duration": 9.28,
+    "text": "and, uh, 50 to 60, depending on the role, like 50 to 65% of that scorecard is just like traits and,"
+  },
+  {
+    "start": 1281.84,
+    "duration": 6.48,
+    "text": "and they're things that are fairly difficult to teach. Do you have drive? Do you have,"
+  },
+  {
+    "start": 1288.32,
+    "duration": 4.32,
+    "text": "are you a curious person? Are you interested in learning? Are you a lifelong learner?"
+  },
+  {
+    "start": 1292.64,
+    "duration": 5.52,
+    "text": "And then you just architect, okay, if this is one of the top five, most important things to,"
+  },
+  {
+    "start": 1298.16,
+    "duration": 5.04,
+    "text": "to hire against, what are the questions that go into the, into the interview process? And,"
+  },
+  {
+    "start": 1303.2,
+    "duration": 6.4,
+    "text": "and then as a leader, we're like very intentional about how we teach people to run these interviews."
+  },
+  {
+    "start": 1309.6,
+    "duration": 6.64,
+    "text": "So it's the same questions in the same order. They've got prompts and I explain why these"
+  },
+  {
+    "start": 1316.24,
+    "duration": 4.48,
+    "text": "questions are asked in this way. And they'll, there could be little things. So like in the"
+  },
+  {
+    "start": 1320.72,
+    "duration": 6.48,
+    "text": "case study, for example, they'll do a mock call and then the manager, the interviewer will give"
+  },
+  {
+    "start": 1327.2,
+    "duration": 4.0,
+    "text": "them feedback and then they'll do it again. And then after that, at the end, they say, okay, cool."
+  },
+  {
+    "start": 1331.2,
+    "duration": 3.52,
+    "text": "Awesome. Good job. Here's some good things. So let me ask you if you could do it all again,"
+  },
+  {
+    "start": 1334.72,
+    "duration": 3.92,
+    "text": "like what would you change about this mock call? And some people are like, Oh, I would like prepare"
+  },
+  {
+    "start": 1338.64,
+    "duration": 5.68,
+    "text": "more. Not a good answer. Like I just gave you the thing that you should do different. And it's,"
+  },
+  {
+    "start": 1344.32,
+    "duration": 8.24,
+    "text": "it seems silly, but that tells you so much about somebody's interest in other people's feedback and"
+  },
+  {
+    "start": 1352.56,
+    "duration": 4.16,
+    "text": "ideas. If they don't instantly go like, Oh, like all the things you said, like I just, you know,"
+  },
+  {
+    "start": 1356.72,
+    "duration": 7.6,
+    "text": "as soon as you said it, I was kicking myself. So you, I, I really specifically architect in"
+  },
+  {
+    "start": 1365.12,
+    "duration": 5.12,
+    "text": "those opportunities to learn about the candidate. Like what made you successful and why, and how"
+  },
+  {
+    "start": 1370.24,
+    "duration": 4.64,
+    "text": "did you learn that? And what was the process of getting better? And, and so we like really"
+  },
+  {
+    "start": 1374.88,
+    "duration": 5.36,
+    "text": "pick away at that stuff. Even when I interview VPs of sales, like I hired a VP of sales six months"
+  },
+  {
+    "start": 1380.24,
+    "duration": 5.6,
+    "text": "ago and same sort of thing. I want to understand learning mindset. He did a role, we did a role"
+  },
+  {
+    "start": 1385.84,
+    "duration": 5.6,
+    "text": "play where I was the sales rep. He was the manager. He was coaching me on this. Like we sent,"
+  },
+  {
+    "start": 1391.44,
+    "duration": 5.36,
+    "text": "I sent calls, right? So he reviewed all the calls and then ran this coaching meeting. So where I was"
+  },
+  {
+    "start": 1396.8,
+    "duration": 3.92,
+    "text": "the rep and this was the call and he was trying to get me to do the thing. And even in that,"
+  },
+  {
+    "start": 1401.36,
+    "duration": 4.96,
+    "text": "right at the first time I gave him feedback, run it again. How well can that, there's a VP sales"
+  },
+  {
+    "start": 1406.32,
+    "duration": 5.2,
+    "text": "candidate. How can they, how well can they, uh, incorporate that feedback? Are they interested"
+  },
+  {
+    "start": 1411.52,
+    "duration": 5.12,
+    "text": "in that feedback? Do they have followup questions on that feedback? And, and sure enough, you know,"
+  },
+  {
+    "start": 1416.64,
+    "duration": 5.6,
+    "text": "like when I give Brett feedback in the role now, like I see it within days, you know, that's,"
+  },
+  {
+    "start": 1422.24,
+    "duration": 6.48,
+    "text": "that's, that's, he has to go like that coachable mindset and that a learner's mindset has to be"
+  },
+  {
+    "start": 1428.72,
+    "duration": 4.16,
+    "text": "top to bottom. Yeah. I love that. And as a solutions leader for most of my career,"
+  },
+  {
+    "start": 1432.88,
+    "duration": 4.4,
+    "text": "I would always ask the same three questions after every customer meeting. What did you do? Well,"
+  },
+  {
+    "start": 1437.28,
+    "duration": 4.64,
+    "text": "what didn't go well? And if you could redo that meeting, how would, how would you re-approach"
+  },
+  {
+    "start": 1441.92,
+    "duration": 4.4,
+    "text": "the situation? And you're right. You learn so much about how people take feedback and how they think"
+  },
+  {
+    "start": 1446.32,
+    "duration": 4.16,
+    "text": "about how they should improve the approach. Cause they always have to get better. They always have"
+  },
+  {
+    "start": 1450.48,
+    "duration": 4.88,
+    "text": "to improve. So I love that you've done that. Was that inspired by Mark Roberge and some of his?"
+  },
+  {
+    "start": 1455.36,
+    "duration": 7.04,
+    "text": "So I, yeah, my original hiring framework was all sales acceleration rip off. It was 2015 and I"
+  },
+  {
+    "start": 1463.36,
+    "duration": 5.68,
+    "text": "had just moved into SAS. And so I, I stole the whole thing and now I've added to a couple of"
+  },
+  {
+    "start": 1469.04,
+    "duration": 6.96,
+    "text": "things and, and made it my own, but it's still like that. I took the importance of scorecarding"
+  },
+  {
+    "start": 1476.0,
+    "duration": 5.76,
+    "text": "from him and then Danny Kahneman from, um, thinking fast and slow when he talks about hiring"
+  },
+  {
+    "start": 1481.76,
+    "duration": 5.6,
+    "text": "for the IDF and like scorecarding and the importance of like halo and horns effect."
+  },
+  {
+    "start": 1487.36,
+    "duration": 6.24,
+    "text": "So being really rigorous and how scorecard is architected and being like diligent about"
+  },
+  {
+    "start": 1493.6,
+    "duration": 6.4,
+    "text": "assessing like the exact trait that you're hiring against. Like again, it's just, it's attention to"
+  },
+  {
+    "start": 1500.0,
+    "duration": 4.96,
+    "text": "detail. It's systems engineering. And I think this is the thing that leaders just generally"
+  },
+  {
+    "start": 1504.96,
+    "duration": 7.44,
+    "text": "get wrong. It's hard. It takes a long, long time to sit down and write all this stuff out and make"
+  },
+  {
+    "start": 1512.4,
+    "duration": 4.4,
+    "text": "sure it's great and review it every couple of months. And people just don't want to do that"
+  },
+  {
+    "start": 1516.8,
+    "duration": 5.2,
+    "text": "hard work. It takes intention and you know, and in sales and revenue generally, we're always moving"
+  },
+  {
+    "start": 1522.0,
+    "duration": 4.32,
+    "text": "so fast. We're trying to do so many things. So take a step back and slow down. Um, I really"
+  },
+  {
+    "start": 1526.32,
+    "duration": 4.32,
+    "text": "respect that. And I would say I've gotten to know some of the stripe leadership team through"
+  },
+  {
+    "start": 1530.64,
+    "duration": 4.08,
+    "text": "signal fire as well. And that was really the feedback they gave me is like when they scaled"
+  },
+  {
+    "start": 1534.72,
+    "duration": 4.88,
+    "text": "and how they were able to keep such a high profile was like being very, very rigorous about their"
+  },
+  {
+    "start": 1539.6,
+    "duration": 4.08,
+    "text": "hiring standards. Because I think like you just said, I would say a majority of companies from"
+  },
+  {
+    "start": 1543.68,
+    "duration": 4.32,
+    "text": "my experience are not keeping that level of consistency amongst interviews. So like you're"
+  },
+  {
+    "start": 1548.0,
+    "duration": 5.12,
+    "text": "never comparing on an even, even line, you know, it's, it's really challenging and you have new"
+  },
+  {
+    "start": 1553.12,
+    "duration": 5.84,
+    "text": "managers and you know, in the really early days I ran every single interview. You can assume,"
+  },
+  {
+    "start": 1558.96,
+    "duration": 3.92,
+    "text": "and nobody's going to be perfect, but like you're assuming your standard is going to be the best."
+  },
+  {
+    "start": 1562.88,
+    "duration": 5.28,
+    "text": "And then you bring in now VP, now managers, we're hiring directors right now. It's really difficult"
+  },
+  {
+    "start": 1568.16,
+    "duration": 5.6,
+    "text": "to make sure that at the manager level that consistency is there. And that's why we buddy"
+  },
+  {
+    "start": 1573.76,
+    "duration": 6.48,
+    "text": "up and that's why we record interviews and the VP will review those recordings and make sure."
+  },
+  {
+    "start": 1580.24,
+    "duration": 6.16,
+    "text": "And we're trying to find a way to do this with AI now to, to, uh, figure out like, did all,"
+  },
+  {
+    "start": 1586.4,
+    "duration": 5.92,
+    "text": "were all those questions asked like in the same language that they're written in the, uh,"
+  },
+  {
+    "start": 1593.28,
+    "duration": 4.96,
+    "text": "the lever, uh, template. So we're trying, I'm trying to like learn, figure out how to do this"
+  },
+  {
+    "start": 1598.24,
+    "duration": 4.96,
+    "text": "at scale now. Yeah. That's really interesting. And I think that dovetail well into a question"
+  },
+  {
+    "start": 1603.2,
+    "duration": 3.84,
+    "text": "I want to talk to you about is like AI's impact, right? Like how do you think AI is going to"
+  },
+  {
+    "start": 1607.04,
+    "duration": 6.16,
+    "text": "impact, you know, you as an executive, but also your sellers and your frontline leaders out there"
+  },
+  {
+    "start": 1613.2,
+    "duration": 5.92,
+    "text": "in the field? Yeah. So I use chat JPT every day just for my like general stuff. Yeah. It's funny,"
+  },
+  {
+    "start": 1620.0,
+    "duration": 6.96,
+    "text": "you know, it's hard to, it's hard now to describe like where I use a, where I use chat GPT just like,"
+  },
+  {
+    "start": 1626.96,
+    "duration": 5.68,
+    "text": "just sort of always, you know, I'm speaking at Sasser tomorrow and to prepare my speaking notes,"
+  },
+  {
+    "start": 1632.64,
+    "duration": 7.92,
+    "text": "I just pitched the deck out loud with a GPT voice going. And I said, I'm going to pitch you my"
+  },
+  {
+    "start": 1640.56,
+    "duration": 5.28,
+    "text": "slides, you know, take notes. And then, uh, it, it created all of my speaking notes. So now I don't"
+  },
+  {
+    "start": 1645.84,
+    "duration": 5.28,
+    "text": "have to, you know, it took me 30 minutes as opposed to going slide by slide and what am I"
+  },
+  {
+    "start": 1651.12,
+    "duration": 4.8,
+    "text": "going to say? And then writing it out. And it was, it was great. That's such an unlock. Yeah. And so"
+  },
+  {
+    "start": 1655.92,
+    "duration": 5.52,
+    "text": "books, like if there's an old book that I want to go back to and I can't really remember, I like"
+  },
+  {
+    "start": 1661.44,
+    "duration": 5.52,
+    "text": "upload the PDF into chat GPT and now you can rag search and I can find it's like, give me the"
+  },
+  {
+    "start": 1666.96,
+    "duration": 4.64,
+    "text": "chapter by chapter breakdown. Oh, so it was in chapter seven. So, and then I can ask it questions"
+  },
+  {
+    "start": 1671.6,
+    "duration": 4.96,
+    "text": "about the, the idea I'm trying to like re-remember. Love that. And it, so it just all the time,"
+  },
+  {
+    "start": 1676.56,
+    "duration": 5.92,
+    "text": "always just be more efficient generally. Right. Yeah. And once you get in the habit, I don't know"
+  },
+  {
+    "start": 1682.48,
+    "duration": 5.28,
+    "text": "who I stole this from. I wish I could give them credit, but it was Ryan Staley. Okay. Yeah. He"
+  },
+  {
+    "start": 1687.76,
+    "duration": 6.72,
+    "text": "was like the easiest way to get people to start using AI is just have them replace chat GPT,"
+  },
+  {
+    "start": 1695.52,
+    "duration": 4.48,
+    "text": "have them replace Google searches with chat GPT. I've heard that. Yep. You just build a new rhythm"
+  },
+  {
+    "start": 1700.0,
+    "duration": 4.88,
+    "text": "and now, you know, I wanted to, I was trying to figure out a form, like I didn't know how to make"
+  },
+  {
+    "start": 1704.88,
+    "duration": 5.12,
+    "text": "a formula in Excel. Chat GPT told me in like two seconds. So that's amazing. Individually, it's"
+  },
+  {
+    "start": 1710.0,
+    "duration": 6.08,
+    "text": "sort of always on all the time. And then as a business, we've done a bunch. So my opinion here"
+  },
+  {
+    "start": 1716.08,
+    "duration": 7.36,
+    "text": "is, is we don't really use AI to carpet bomb our industry with like crap messaging. I think that's"
+  },
+  {
+    "start": 1724.4,
+    "duration": 8.96,
+    "text": "short-term oriented and not all that durable of an advantage. So we've actually just used,"
+  },
+  {
+    "start": 1733.36,
+    "duration": 4.96,
+    "text": "we used AI predominantly internally. Okay. And this is because I believe that, you know,"
+  },
+  {
+    "start": 1738.32,
+    "duration": 4.4,
+    "text": "the quality of data that you have access to that you're going to layer AI tools on, that's going"
+  },
+  {
+    "start": 1742.72,
+    "duration": 6.56,
+    "text": "to determine how successful you are with those tools, garbage in, garbage out. And so we use"
+  },
+  {
+    "start": 1749.84,
+    "duration": 6.32,
+    "text": "momentum for example, to capture information from sales calls and, and add all of those things to"
+  },
+  {
+    "start": 1756.16,
+    "duration": 6.48,
+    "text": "custom Salesforce fields. We write custom prompts so that I'm continuously capturing way more data"
+  },
+  {
+    "start": 1763.2,
+    "duration": 5.6,
+    "text": "from unstructured sources like calls and putting it in. We use, we have a machine learning model"
+  },
+  {
+    "start": 1768.8,
+    "duration": 7.68,
+    "text": "that does lead scoring and enrichment. We use AI in our onboarding function to like write"
+  },
+  {
+    "start": 1777.04,
+    "duration": 6.96,
+    "text": "website copy and do a bunch of stuff. So we have, we have predominantly used AI internally. I,"
+  },
+  {
+    "start": 1784.0,
+    "duration": 5.2,
+    "text": "I continue to think that that's the most high leverage use case. Like you just saw"
+  },
+  {
+    "start": 1789.2,
+    "duration": 3.92,
+    "text": "Klarna saying that they're going to rip out Salesforce cause they built their own"
+  },
+  {
+    "start": 1793.12,
+    "duration": 6.56,
+    "text": "CRM with AI and then Workday. Yeah. Well, cause Klarna, they replaced what? 40% of their support"
+  },
+  {
+    "start": 1799.68,
+    "duration": 9.12,
+    "text": "staff with a AI chat bot. And now they're like rebuilding their SAS tools. And so again, but"
+  },
+  {
+    "start": 1808.8,
+    "duration": 6.72,
+    "text": "again, that's mostly internal, internally oriented. We're, we've, we're also using AI for support."
+  },
+  {
+    "start": 1815.52,
+    "duration": 5.12,
+    "text": "Sure. Chat support. It's like, it's arguably higher quality than human support. I agree."
+  },
+  {
+    "start": 1820.64,
+    "duration": 7.04,
+    "text": "Absolutely agree. It's everywhere. And we continue to look hard for opportunities while all"
+  },
+  {
+    "start": 1827.68,
+    "duration": 4.96,
+    "text": "collectively trying to avoid chasing shiny objects. Sure. Cause it's really easy. I'm"
+  },
+  {
+    "start": 1832.64,
+    "duration": 5.36,
+    "text": "excitable. I like new technology. I've had, I've been early on a bunch of these big trends, which"
+  },
+  {
+    "start": 1838.0,
+    "duration": 5.36,
+    "text": "has been a competitive advantage for me. Right. But the other side of that is I can, I can get"
+  },
+  {
+    "start": 1844.16,
+    "duration": 4.32,
+    "text": "overly interested in the new stuff. But at least you get in and you test it before you're rolling"
+  },
+  {
+    "start": 1848.48,
+    "duration": 5.84,
+    "text": "it out broadly. Yeah. I still take all these demos myself. I take two, four demos a week"
+  },
+  {
+    "start": 1854.32,
+    "duration": 6.16,
+    "text": "with companies because it's a lot. Yeah. 30 minutes. It's worthwhile. Yeah. I just want to"
+  },
+  {
+    "start": 1860.48,
+    "duration": 4.8,
+    "text": "see, I like, I want to see what's going on. I want to see what's happening. And most of them, you"
+  },
+  {
+    "start": 1865.28,
+    "duration": 6.48,
+    "text": "know, it's, it's pretty fit. Yeah. I can understand that one, but there's some really, there's some"
+  },
+  {
+    "start": 1871.76,
+    "duration": 4.56,
+    "text": "really interesting ones. Yeah. I want to ask you a little bit of a question about future of sales"
+  },
+  {
+    "start": 1876.32,
+    "duration": 4.72,
+    "text": "rep. Right. I feel like if you're on LinkedIn nowadays, you like take some big swing at a"
+  },
+  {
+    "start": 1881.84,
+    "duration": 5.36,
+    "text": "topic and it goes viral, but how do you see the role of the sales rep changing over the next couple"
+  },
+  {
+    "start": 1887.2,
+    "duration": 3.36,
+    "text": "of years? And the reason I asked this question is one, we're talking about technology. We're"
+  },
+  {
+    "start": 1890.56,
+    "duration": 4.24,
+    "text": "talking about consolidated role function. We're talking about points of view. You're in vertical"
+  },
+  {
+    "start": 1894.8,
+    "duration": 5.84,
+    "text": "SaaS. Like what do you think the next couple of years look like? Not to be a contrarian, but"
+  },
+  {
+    "start": 1900.64,
+    "duration": 4.72,
+    "text": "please be a contrarian. I don't actually think the, the, the role of a rep is going to change"
+  },
+  {
+    "start": 1905.36,
+    "duration": 5.92,
+    "text": "that much. Like if you zoom out, it's not going to change much more than it has already changed"
+  },
+  {
+    "start": 1911.28,
+    "duration": 6.32,
+    "text": "over the last 20 years. Sure. If you think about the day-to-day of a rep, like 20 years ago, you"
+  },
+  {
+    "start": 1917.6,
+    "duration": 4.56,
+    "text": "were just calling out of a phone book or like a, you purchased a database. It was like pretty"
+  },
+  {
+    "start": 1922.16,
+    "duration": 5.92,
+    "text": "manual. And then you got a CRM then data providers that made things a lot more efficient. Then sales"
+  },
+  {
+    "start": 1928.08,
+    "duration": 5.28,
+    "text": "engagement and acceleration tools came up. Now you're sending out hundreds of automated messages"
+  },
+  {
+    "start": 1933.44,
+    "duration": 4.48,
+    "text": "with sequences and follow-up like every week. So, you know, the role of the rep has,"
+  },
+  {
+    "start": 1939.36,
+    "duration": 5.12,
+    "text": "the experience of the rep has changed a lot, but the role of the rep hasn't really,"
+  },
+  {
+    "start": 1944.48,
+    "duration": 6.32,
+    "text": "what's the role of the rep to spend time talking to high fit prospects, understand their business"
+  },
+  {
+    "start": 1950.8,
+    "duration": 5.2,
+    "text": "and talk about why you might be able to solve those problems in a unique and valuable way."
+  },
+  {
+    "start": 1956.0,
+    "duration": 4.08,
+    "text": "And like, why now? And the rep's still going to do that. You know, you can layer on all these"
+  },
+  {
+    "start": 1960.16,
+    "duration": 6.24,
+    "text": "cool AI tools and yeah, the reps will get a lot more efficient and you should have a lot"
+  },
+  {
+    "start": 1967.2,
+    "duration": 6.96,
+    "text": "happening in an automated fashion for them. But does the role, like does the core role that if"
+  },
+  {
+    "start": 1974.16,
+    "duration": 6.88,
+    "text": "you think jobs to be done is the jobs to be done of the rep all that different? Sort of no. And"
+  },
+  {
+    "start": 1981.04,
+    "duration": 6.32,
+    "text": "if anything, we actually just want to, a lot of my approach today is how can we take away"
+  },
+  {
+    "start": 1988.08,
+    "duration": 4.32,
+    "text": "the things that aren't in that jobs to be done? The non-revenue generating activities, like how"
+  },
+  {
+    "start": 1992.4,
+    "duration": 5.84,
+    "text": "do you get rid of that? Lead research, like none of the BDR, none of our BDRs do lead research."
+  },
+  {
+    "start": 1998.24,
+    "duration": 0.32,
+    "text": "Great."
+  },
+  {
+    "start": 1998.56,
+    "duration": 7.68,
+    "text": "All done centrally controlled by our data team. It's like scraped and scored lists with a cool"
+  },
+  {
+    "start": 2006.24,
+    "duration": 7.28,
+    "text": "down. And we go so far as our head of biz ops built an internal tool that looks at through"
+  },
+  {
+    "start": 2013.52,
+    "duration": 6.48,
+    "text": "this sales left APIs, looks at the number of call, do call tasks that the rep has the next"
+  },
+  {
+    "start": 2020.0,
+    "duration": 5.84,
+    "text": "day. We want them to make like 80 to a hundred calls. So if they have 60 calls, then it's called"
+  },
+  {
+    "start": 2025.84,
+    "duration": 7.6,
+    "text": "I routing. I route will put in 20 or 30 leads into the right cadences for the rep. So the next day,"
+  },
+  {
+    "start": 2033.44,
+    "duration": 3.6,
+    "text": "it's not even like they have to import to cadence or find the leads. No, it's just,"
+  },
+  {
+    "start": 2037.04,
+    "duration": 4.8,
+    "text": "just sit down and you've got your cadence in front of them. And, and so that's a good example of"
+  },
+  {
+    "start": 2042.64,
+    "duration": 4.16,
+    "text": "did the experience of the rep change? Yeah, for sure. That's, that's, you know, like we've carved"
+  },
+  {
+    "start": 2046.8,
+    "duration": 7.76,
+    "text": "if in SMB, we've probably saved them two hours of, of like data entry and crappy work every single"
+  },
+  {
+    "start": 2054.56,
+    "duration": 5.36,
+    "text": "day. So their experience has changed a lot, but the role of the rep hasn't changed. We've actually"
+  },
+  {
+    "start": 2059.92,
+    "duration": 2.88,
+    "text": "just gotten them to spend more time on what, what the role really is."
+  },
+  {
+    "start": 2062.8,
+    "duration": 4.8,
+    "text": "I really appreciate that perspective because I think everyone wants to lean into like,"
+  },
+  {
+    "start": 2067.6,
+    "duration": 4.24,
+    "text": "Oh, we're replacing humans. We're replacing this, replacing that. If you look at history,"
+  },
+  {
+    "start": 2071.84,
+    "duration": 4.0,
+    "text": "things always take a lot longer and it's always augmentation and it's always"
+  },
+  {
+    "start": 2075.84,
+    "duration": 4.4,
+    "text": "making us more efficient. So yeah, I've really enjoyed hearing your perspective and talking"
+  },
+  {
+    "start": 2080.24,
+    "duration": 4.64,
+    "text": "about this with you. I have one question that I'm really curious, right? Is we talk about"
+  },
+  {
+    "start": 2085.44,
+    "duration": 5.28,
+    "text": "modern go-to-market evolving, go-to-market. Is there one unconventional strategy that you're"
+  },
+  {
+    "start": 2090.72,
+    "duration": 4.24,
+    "text": "using today that you think will be more common in one or two years from now?"
+  },
+  {
+    "start": 2095.52,
+    "duration": 2.48,
+    "text": "There's a few things that are unconventional, but I don't want to give away."
+  },
+  {
+    "start": 2099.68,
+    "duration": 3.68,
+    "text": "That's always the toughest thing, right? You know, maybe more generally then."
+  },
+  {
+    "start": 2103.36,
+    "duration": 5.36,
+    "text": "Like not letting BDRs do lead research, not not letting, but like having BDRs not do any"
+  },
+  {
+    "start": 2108.72,
+    "duration": 6.08,
+    "text": "of their own lead research is surprisingly unconventional, but I would agree is definitely"
+  },
+  {
+    "start": 2114.8,
+    "duration": 5.76,
+    "text": "a thing like we're going to continue to lean into. We have a fairly unconventional comp plan"
+  },
+  {
+    "start": 2120.56,
+    "duration": 7.04,
+    "text": "now that we feel really excited about and is like driving rep customer company alignment."
+  },
+  {
+    "start": 2127.6,
+    "duration": 1.44,
+    "text": "Can you share any more details on that?"
+  },
+  {
+    "start": 2129.6,
+    "duration": 1.92,
+    "text": "It's very much tied to customer outcomes."
+  },
+  {
+    "start": 2131.52,
+    "duration": 1.2,
+    "text": "Yeah, that's great."
+  },
+  {
+    "start": 2132.72,
+    "duration": 6.8,
+    "text": "Yeah. Even, even like a sales leadership comp, I think a little bit differently about, and I think"
+  },
+  {
+    "start": 2140.32,
+    "duration": 7.36,
+    "text": "strapping a revenue executive with a 50 50 plan is pretty silly. And I learned this lesson at"
+  },
+  {
+    "start": 2147.68,
+    "duration": 4.64,
+    "text": "Shopify, even though I like sort of kicked and screamed about it when I originally got my offer."
+  },
+  {
+    "start": 2153.04,
+    "duration": 6.88,
+    "text": "At revenue leaders on 50 50 plans, like you can't help, but think about what's right in front of"
+  },
+  {
+    "start": 2159.92,
+    "duration": 7.28,
+    "text": "you. Like as a, as a first time VP of sales, when it was, you know, close these deals and get"
+  },
+  {
+    "start": 2167.84,
+    "duration": 5.12,
+    "text": "to my number and be able to like, not be in a financial pinch versus,"
+  },
+  {
+    "start": 2173.68,
+    "duration": 3.84,
+    "text": "Hey, like the deal quality is not that good. We're going really fast and loose."
+  },
+  {
+    "start": 2177.52,
+    "duration": 0.4,
+    "text": "Yes."
+  },
+  {
+    "start": 2177.92,
+    "duration": 5.44,
+    "text": "You know, we're agreeing to things that like, maybe we don't want to agree to. I think, uh,"
+  },
+  {
+    "start": 2183.36,
+    "duration": 6.64,
+    "text": "over time moving revenue leaders to a less highly leveraged plan would be smart."
+  },
+  {
+    "start": 2190.0,
+    "duration": 0.56,
+    "text": "I agree."
+  },
+  {
+    "start": 2190.56,
+    "duration": 4.16,
+    "text": "And like, technically that has not worked for me because like we've hit our number"
+  },
+  {
+    "start": 2195.44,
+    "duration": 6.48,
+    "text": "every month, but one for the last 20 months. So I have sacrificed income technically,"
+  },
+  {
+    "start": 2201.92,
+    "duration": 4.96,
+    "text": "but like I'm making way better, more holistic decisions about the business that are longterm"
+  },
+  {
+    "start": 2206.88,
+    "duration": 2.4,
+    "text": "oriented and I don't have to sweat that stuff."
+  },
+  {
+    "start": 2209.28,
+    "duration": 2.96,
+    "text": "Agreed. I'm on the similar comp plan and it makes sense."
+  },
+  {
+    "start": 2213.04,
+    "duration": 6.64,
+    "text": "Yeah. Even again, we made a fairly drastic change to the, uh, quality threshold that we wanted to"
+  },
+  {
+    "start": 2219.68,
+    "duration": 5.92,
+    "text": "close. And so, uh, it was almost 40% of deals that we closed. We're like, Hey, we don't love"
+  },
+  {
+    "start": 2225.6,
+    "duration": 3.84,
+    "text": "the churn. We don't love the churn of those customers. Like they're fine, but you know,"
+  },
+  {
+    "start": 2229.44,
+    "duration": 4.08,
+    "text": "we want, we want churn to be world-class and like these customers aren't going to"
+  },
+  {
+    "start": 2233.52,
+    "duration": 4.08,
+    "text": "get us to world class. And so we just said, we're not going to do that anymore."
+  },
+  {
+    "start": 2237.6,
+    "duration": 4.8,
+    "text": "And that was my suggestion. And to, for a revenue leader say, to say,"
+  },
+  {
+    "start": 2242.96,
+    "duration": 5.12,
+    "text": "I want to sacrifice 40% of my number. Maybe I would have done it if I was on a 50 50,"
+  },
+  {
+    "start": 2248.08,
+    "duration": 5.28,
+    "text": "but probably not. I get it. It would have just been so much more challenging. And so the, the"
+  },
+  {
+    "start": 2254.32,
+    "duration": 5.04,
+    "text": "comp alignment, like Robert has talked about this on the science of scaling, uh, a bunch,"
+  },
+  {
+    "start": 2259.36,
+    "duration": 7.6,
+    "text": "you know, uh, having more company aligned plans or, uh, he talks about it with reps as well."
+  },
+  {
+    "start": 2266.96,
+    "duration": 4.08,
+    "text": "I think leaders especially is important, but that would be something else. That's probably,"
+  },
+  {
+    "start": 2271.04,
+    "duration": 5.12,
+    "text": "I love that you brought that up. And I'll say a test box. I have a similar comp plan where I'm"
+  },
+  {
+    "start": 2276.16,
+    "duration": 4.8,
+    "text": "not just incentivized on that new revenue and I didn't want to be. And because I'm responsible"
+  },
+  {
+    "start": 2281.04,
+    "duration": 5.04,
+    "text": "for solutions and, and value realization and everything post-sale, my team's responsible"
+  },
+  {
+    "start": 2286.08,
+    "duration": 4.24,
+    "text": "for implementing everything that we sell. So if I sell a bad deal, it's going to create downstream"
+  },
+  {
+    "start": 2290.32,
+    "duration": 3.28,
+    "text": "problems for me and I don't want to deal with those problems. Right. So we've gotten really"
+  },
+  {
+    "start": 2293.6,
+    "duration": 5.28,
+    "text": "great about the ICP. So I love that you've done that. If you can, you want your revenue leader"
+  },
+  {
+    "start": 2298.88,
+    "duration": 5.68,
+    "text": "to own onboard. Yeah. I love that too. Now that problem is this person's problem. And as much as,"
+  },
+  {
+    "start": 2305.28,
+    "duration": 4.24,
+    "text": "or as much as you can try, it's like, no, no, no, I'm still going to close the right deals."
+  },
+  {
+    "start": 2310.0,
+    "duration": 5.44,
+    "text": "When that team is like not your problem, when deals start blowing up and it's some other leaders"
+  },
+  {
+    "start": 2315.44,
+    "duration": 3.52,
+    "text": "that you don't have to look at the, in the eyes as your direct report every single day,"
+  },
+  {
+    "start": 2318.96,
+    "duration": 5.04,
+    "text": "every single week, it just, it's just harder to feel that same sense of accountability. And so"
+  },
+  {
+    "start": 2324.8,
+    "duration": 5.36,
+    "text": "I started, I started owning onboarding early in my Shopify days and sure enough,"
+  },
+  {
+    "start": 2330.16,
+    "duration": 4.4,
+    "text": "sales alignment got better really fast. Changes everything. Yeah, no, I love that. And I"
+  },
+  {
+    "start": 2334.56,
+    "duration": 4.0,
+    "text": "appreciate that. I feel like I can have a whole interview with you on that topic, right? Because"
+  },
+  {
+    "start": 2338.56,
+    "duration": 5.2,
+    "text": "even for us, when we made the full cycle move on SAs, it just changed the viewpoint of like,"
+  },
+  {
+    "start": 2343.76,
+    "duration": 3.68,
+    "text": "oh wow, I need to ask different questions in the sales process because I'm responsible for"
+  },
+  {
+    "start": 2347.44,
+    "duration": 5.28,
+    "text": "delivering this. So yeah, I love that. Yeah. SEs stopping it, stopping at the close one"
+  },
+  {
+    "start": 2352.72,
+    "duration": 3.68,
+    "text": "is also doesn't make any sense. I don't think it makes any sense. That's another, that's another,"
+  },
+  {
+    "start": 2356.4,
+    "duration": 5.92,
+    "text": "I think a really critical one. This is what we did again at Shopify. We had, we had the solutions"
+  },
+  {
+    "start": 2362.32,
+    "duration": 4.48,
+    "text": "engineer stay all the way through implementation. I think it's the right move. And I've had a lot"
+  },
+  {
+    "start": 2366.8,
+    "duration": 4.88,
+    "text": "of people in my own profession, you know, disagree with me. How unconventional is that?"
+  },
+  {
+    "start": 2371.68,
+    "duration": 4.16,
+    "text": "It's pretty unconventional, right? It's when you first start within a company,"
+  },
+  {
+    "start": 2375.84,
+    "duration": 4.88,
+    "text": "like when I was one of the first SEs at Jopad, I was responsible for that. But then when the"
+  },
+  {
+    "start": 2380.72,
+    "duration": 4.64,
+    "text": "functions start to grow, you typically put a dedicated PS person, SE person, but then there's"
+  },
+  {
+    "start": 2385.36,
+    "duration": 4.72,
+    "text": "no accountability after the sale. Right. And there's just like this handoff that you lob over"
+  },
+  {
+    "start": 2390.08,
+    "duration": 4.96,
+    "text": "the fence and the relationship is, yeah. Okay. This is like one of my biggest things about tech"
+  },
+  {
+    "start": 2395.04,
+    "duration": 4.96,
+    "text": "generally is like, how can you not leave? How can you not have responsibility post-signature? You"
+  },
+  {
+    "start": 2400.0,
+    "duration": 4.48,
+    "text": "build all this trust, you spend all this time building trust, building relationship. And then"
+  },
+  {
+    "start": 2404.48,
+    "duration": 4.08,
+    "text": "all of a sudden you just say, here you go, here's somebody else. Right. And so I like to call it"
+  },
+  {
+    "start": 2408.56,
+    "duration": 4.32,
+    "text": "transitioning trust, right? You like build the trust, you know, you close a deal, but you're"
+  },
+  {
+    "start": 2412.88,
+    "duration": 4.16,
+    "text": "still involved. Like our account executives are full life cycle, right? They still own the account"
+  },
+  {
+    "start": 2418.0,
+    "duration": 4.32,
+    "text": "and they work with our, our post signature teams. Cause we don't call it post sale because there's"
+  },
+  {
+    "start": 2422.32,
+    "duration": 5.44,
+    "text": "always upsell, there's always expansion, uh, continue to transition trust. So transition"
+  },
+  {
+    "start": 2427.76,
+    "duration": 3.52,
+    "text": "trust, transition trust. Yeah. That's a concept. I think I'm going to start pushing more and more,"
+  },
+  {
+    "start": 2431.28,
+    "duration": 4.0,
+    "text": "but yeah, that's why it's called because think about it like a traditional mode, you close a"
+  },
+  {
+    "start": 2435.28,
+    "duration": 4.24,
+    "text": "deal and because they have trust with you, you think that they have trust with your company and"
+  },
+  {
+    "start": 2439.52,
+    "duration": 4.08,
+    "text": "you're going to rebuild everything. So why not just kind of transition the trust through the"
+  },
+  {
+    "start": 2443.6,
+    "duration": 4.16,
+    "text": "rest of the org and get more and more people involved? Uh, because I think personally, it's"
+  },
+  {
+    "start": 2447.76,
+    "duration": 4.24,
+    "text": "like one of the most like clown moves of like sales rep sells a deal, they disappear and all"
+  },
+  {
+    "start": 2452.0,
+    "duration": 4.88,
+    "text": "of a sudden like 30 days left to renewal, they pop up. Okay, here I am. And it's like, where were"
+  },
+  {
+    "start": 2456.88,
+    "duration": 5.76,
+    "text": "you during this whole time? Right. And so I have seven escalated support tickets that I need. Yeah."
+  },
+  {
+    "start": 2462.64,
+    "duration": 4.08,
+    "text": "Yeah. So I think that's like this trend that I'm staying, trying to stay super on top of,"
+  },
+  {
+    "start": 2466.72,
+    "duration": 4.32,
+    "text": "uh, which is super interesting to me. Yeah. It's the right thing. Will people do it?"
+  },
+  {
+    "start": 2471.04,
+    "duration": 4.56,
+    "text": "I agree with you. And I think this is like the crux of you in these conversations is,"
+  },
+  {
+    "start": 2475.6,
+    "duration": 3.92,
+    "text": "I don't know that we will always have a choice in what we want to do here. I think that"
+  },
+  {
+    "start": 2480.48,
+    "duration": 5.76,
+    "text": "the market and forces are going to make this happen and we're going to adapt, right? Which"
+  },
+  {
+    "start": 2486.24,
+    "duration": 4.96,
+    "text": "is why digging into your thoughts on learning and growth, all of that is super important because I"
+  },
+  {
+    "start": 2491.2,
+    "duration": 4.16,
+    "text": "think we're just going to see this new wave of go-to-market professionals all the way across"
+  },
+  {
+    "start": 2495.36,
+    "duration": 4.48,
+    "text": "individual contributors, leaders, because the customer is now back at the center of everything"
+  },
+  {
+    "start": 2499.84,
+    "duration": 4.32,
+    "text": "that you do. And that's going to mean that you have to change. Not every company is going to"
+  },
+  {
+    "start": 2504.16,
+    "duration": 4.0,
+    "text": "be able to run the same playbook that they've been running and be successful. When you don't get"
+  },
+  {
+    "start": 2508.16,
+    "duration": 8.16,
+    "text": "115% freebie NRR, the customer starts to matter a lot more. So we're in a very new world in that"
+  },
+  {
+    "start": 2516.32,
+    "duration": 4.4,
+    "text": "way. And I think it's, you know, it's producing positive outcomes and hopefully like we won't"
+  },
+  {
+    "start": 2520.72,
+    "duration": 4.32,
+    "text": "forget those lessons. I hope so. Kyle, it's been awesome talking to you. I really appreciate"
+  },
+  {
+    "start": 2525.04,
+    "duration": 3.12,
+    "text": "you joining me and it's been great getting to know you over the last couple of years. I really"
+  },
+  {
+    "start": 2528.16,
+    "duration": 4.08,
+    "text": "respect your leadership style and excited to see, you know, you continue on your journey."
+  },
+  {
+    "start": 2532.24,
+    "duration": 8.96,
+    "text": "Thanks, man. Appreciate it. Thanks for having me."
+  }
+]

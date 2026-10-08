@@ -1,0 +1,5177 @@
+[
+  {
+    "start": 0.0,
+    "duration": 6.88,
+    "text": "I'm very excited to introduce today's guest Eric Gilpin, who is the CRO at G2. Eric has"
+  },
+  {
+    "start": 6.88,
+    "duration": 6.04,
+    "text": "been in senior revenue leadership positions for going on 15 years. He's been a CRO for"
+  },
+  {
+    "start": 12.92,
+    "duration": 7.02,
+    "text": "six to eight of the last years, including a really exciting run at Upwork. Seven years"
+  },
+  {
+    "start": 19.94,
+    "duration": 6.7,
+    "text": "there as chief sales officer and has now spent over a year at G2 as the CRO. So Eric, appreciate"
+  },
+  {
+    "start": 26.64,
+    "duration": 1.0,
+    "text": "you joining me."
+  },
+  {
+    "start": 27.88,
+    "duration": 2.84,
+    "text": "Yeah, no, Kyle. Thank you for having me. Excited to be with you today."
+  },
+  {
+    "start": 36.24,
+    "duration": 5.8,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline. I'm your host, Kyle Norton,"
+  },
+  {
+    "start": 42.04,
+    "duration": 7.24,
+    "text": "CRO at Owner.com. And every Wednesday, we dive deep into the strategies and tactics being"
+  },
+  {
+    "start": 49.28,
+    "duration": 5.92,
+    "text": "used to drive success by the best revenue leaders in the world. So join me as I sit down"
+  },
+  {
+    "start": 55.2,
+    "duration": 4.16,
+    "text": "with revenue operators to discuss actionable frameworks that you can implement in your"
+  },
+  {
+    "start": 59.36,
+    "duration": 7.16,
+    "text": "business today with no fluff, no sales pitches, and no platitudes. But first, a word from"
+  },
+  {
+    "start": 66.52,
+    "duration": 1.0,
+    "text": "our sponsors."
+  },
+  {
+    "start": 73.16,
+    "duration": 4.68,
+    "text": "This episode of the Revenue Leadership Podcast is brought to you by Superhuman. Superhuman"
+  },
+  {
+    "start": 77.84,
+    "duration": 5.52,
+    "text": "for Sales is an email app designed specifically to better manage email, to respond, collaborate,"
+  },
+  {
+    "start": 83.36,
+    "duration": 4.92,
+    "text": "and close faster. With Superhuman for Sales, reps can filter out distractions, bubble up"
+  },
+  {
+    "start": 88.28,
+    "duration": 4.8,
+    "text": "priority emails, and unblock deals with collaborative workflows. You can learn more at"
+  },
+  {
+    "start": 93.08,
+    "duration": 1.44,
+    "text": "superhuman.com."
+  },
+  {
+    "start": 95.84,
+    "duration": 7.32,
+    "text": "Cool. So we are going to talk about driving alignment strategy and planning. We are in"
+  },
+  {
+    "start": 103.16,
+    "duration": 6.84,
+    "text": "the throes of planning season. And also teasing out the difference between a sales"
+  },
+  {
+    "start": 110.0,
+    "duration": 4.92,
+    "text": "leader, a sales executive versus somebody who is a true revenue executive, somebody"
+  },
+  {
+    "start": 114.92,
+    "duration": 6.24,
+    "text": "who has a seat at the most senior table and is driving company vision and company enterprise"
+  },
+  {
+    "start": 121.16,
+    "duration": 5.84,
+    "text": "value. And so we'll tease a bunch of these topics out. But let me know, let the audience"
+  },
+  {
+    "start": 127.0,
+    "duration": 3.36,
+    "text": "know what I missed in your background. Give them your 60-second intro."
+  },
+  {
+    "start": 130.36,
+    "duration": 7.88,
+    "text": "Yeah, no, happy to. You know, so I got started in the, I would say like the tech world as"
+  },
+  {
+    "start": 138.28,
+    "duration": 7.04,
+    "text": "like my first professional job and starting in sales at a desk. This is long before the"
+  },
+  {
+    "start": 145.32,
+    "duration": 4.48,
+    "text": "assembly line of roles that you see in the sales motions today. I was what you would call"
+  },
+  {
+    "start": 149.8,
+    "duration": 6.88,
+    "text": "maybe a full stack go-to-market expert. But I got started in the rise of the Internet in"
+  },
+  {
+    "start": 156.68,
+    "duration": 6.44,
+    "text": "2001. And, you know, I was fortunate to be part of an organization that scaled globally and"
+  },
+  {
+    "start": 163.44,
+    "duration": 4.08,
+    "text": "kind of grew within that organization, winning as a result of kind of that revenue machine."
+  },
+  {
+    "start": 168.24,
+    "duration": 5.52,
+    "text": "As you mentioned, I was able to join Upwork a little over eight and a half years ago, a"
+  },
+  {
+    "start": 173.76,
+    "duration": 3.68,
+    "text": "tangential space to what I was doing, you know, kind of prior, but still in the kind of B2B"
+  },
+  {
+    "start": 177.44,
+    "duration": 6.08,
+    "text": "marketplace kind of arena and had a huge mission, big problem statement. We were fortunate"
+  },
+  {
+    "start": 183.52,
+    "duration": 6.72,
+    "text": "enough to take that company public in 2018. And also almost seven and a half years there."
+  },
+  {
+    "start": 190.24,
+    "duration": 7.32,
+    "text": "And then I just wrapped one year here at G2. And so it's been exciting kind of squiggles of"
+  },
+  {
+    "start": 197.56,
+    "duration": 2.4,
+    "text": "success, but excited to be here."
+  },
+  {
+    "start": 200.72,
+    "duration": 4.88,
+    "text": "Awesome, awesome. And how big was Upwork when you started? What was the sort of range over"
+  },
+  {
+    "start": 205.6,
+    "duration": 0.64,
+    "text": "those years?"
+  },
+  {
+    "start": 207.12,
+    "duration": 5.48,
+    "text": "Yeah, so we measured the business in what we call GSV or maybe GMV. And so total market kind"
+  },
+  {
+    "start": 212.6,
+    "duration": 4.12,
+    "text": "of sales volume. And so when I joined, this was right after the marriage of Elance and"
+  },
+  {
+    "start": 216.72,
+    "duration": 5.36,
+    "text": "Odesk that came together. So number one and two. And we were doing about a billion dollars in"
+  },
+  {
+    "start": 222.4,
+    "duration": 5.44,
+    "text": "gross sales as a company. When I left, you know, probably closer to four and a half or five"
+  },
+  {
+    "start": 227.84,
+    "duration": 4.72,
+    "text": "billion this year as a company. But the problem statement that I was working around was our"
+  },
+  {
+    "start": 232.56,
+    "duration": 4.48,
+    "text": "enterprise segment. And so how do we make the magic of the work marketplace relevant to large"
+  },
+  {
+    "start": 237.04,
+    "duration": 6.12,
+    "text": "companies? And starting there, I would say it was more of like an entrepreneurship. You know, we"
+  },
+  {
+    "start": 243.16,
+    "duration": 5.84,
+    "text": "had a scaled business, but not necessarily that customer persona or use case. And we scaled that"
+  },
+  {
+    "start": 249.0,
+    "duration": 3.64,
+    "text": "business, frankly, from zero to almost $650 million in seven years."
+  },
+  {
+    "start": 253.16,
+    "duration": 6.4,
+    "text": "Wow, that's awesome. So lots of interesting alignment conversations that we'll have there to"
+  },
+  {
+    "start": 259.56,
+    "duration": 8.12,
+    "text": "tease out. To sort of cue this whole thing up, I'm curious to hear your opinion on what's the"
+  },
+  {
+    "start": 267.68,
+    "duration": 6.6,
+    "text": "difference between a sales leader? So there's lots of VPs of sales or CROs who just have that"
+  },
+  {
+    "start": 274.28,
+    "duration": 4.8,
+    "text": "mandate versus like a real revenue executive. And this isn't about the title necessarily. I'm"
+  },
+  {
+    "start": 279.08,
+    "duration": 7.84,
+    "text": "really talking about what is the differentiation between the person who is more siloed in their"
+  },
+  {
+    "start": 286.96,
+    "duration": 6.16,
+    "text": "sales oriented thinking versus like a real revenue executive that can drive enterprise value? How do"
+  },
+  {
+    "start": 293.12,
+    "duration": 2.12,
+    "text": "you like to architect those two things?"
+  },
+  {
+    "start": 296.6,
+    "duration": 4.6,
+    "text": "Great question. I think it's a relevant topic regardless of your function, but it really shows"
+  },
+  {
+    "start": 301.48,
+    "duration": 5.8,
+    "text": "up in go to market organizations. And so as I think about my first sales leadership role, managing a"
+  },
+  {
+    "start": 307.28,
+    "duration": 6.88,
+    "text": "team of representatives, and at that phase of my career, I was just kind of in execution mode. I was"
+  },
+  {
+    "start": 314.16,
+    "duration": 4.48,
+    "text": "running a play that was kind of tops down in the organization. And while there might have been some"
+  },
+  {
+    "start": 318.64,
+    "duration": 4.84,
+    "text": "kind of creativity and flexibility of like how we navigated that, but I was definitely in execution"
+  },
+  {
+    "start": 323.48,
+    "duration": 6.6,
+    "text": "mode. I think as you move up into second line leadership, VP levels, potentially maybe running a"
+  },
+  {
+    "start": 330.08,
+    "duration": 6.64,
+    "text": "function within a sales organization, the hat that you wear is more around strategy, but"
+  },
+  {
+    "start": 336.76,
+    "duration": 6.92,
+    "text": "specifically like what is done and helping identify what are the tactics and strategies that you're"
+  },
+  {
+    "start": 343.68,
+    "duration": 8.48,
+    "text": "going to pull through. I think as you move up into SVP, definitely CRO roles, the job to be done is"
+  },
+  {
+    "start": 352.16,
+    "duration": 8.84,
+    "text": "more around who does what. And you become less attached to the how in some ways. I've struggled a"
+  },
+  {
+    "start": 361.0,
+    "duration": 8.28,
+    "text": "lot with that. You're focused more on the why we're doing certain things and who's on first to pull"
+  },
+  {
+    "start": 369.28,
+    "duration": 5.04,
+    "text": "these things through for the organization and for your customers. And you're less married to the what"
+  },
+  {
+    "start": 374.32,
+    "duration": 5.48,
+    "text": "and how. And I think that's a real challenge as people move up of understanding that their job to"
+  },
+  {
+    "start": 379.8,
+    "duration": 0.4,
+    "text": "be done."
+  },
+  {
+    "start": 381.2,
+    "duration": 9.36,
+    "text": "Hmm. Interesting. And so just say more about figuring out who does what, like how do you learn"
+  },
+  {
+    "start": 390.56,
+    "duration": 5.92,
+    "text": "that skill set? What are the things that you need to do differently at that level versus when you're"
+  },
+  {
+    "start": 396.48,
+    "duration": 2.2,
+    "text": "more strategy and tactics oriented?"
+  },
+  {
+    "start": 399.56,
+    "duration": 6.24,
+    "text": "Yeah, I mean, I think the who does what is relevant in any leadership role, but I think it's magnified"
+  },
+  {
+    "start": 406.52,
+    "duration": 4.84,
+    "text": "the higher you get in an organization. But I think there's two different sides of that story. You know,"
+  },
+  {
+    "start": 411.36,
+    "duration": 8.2,
+    "text": "one is this idea of Patrick Linceoni calls it like your team one. And understanding that my team is not"
+  },
+  {
+    "start": 419.56,
+    "duration": 6.24,
+    "text": "my direct reports. You know, my team are the fellow executives that are operating the organization. And"
+  },
+  {
+    "start": 425.8,
+    "duration": 6.0,
+    "text": "so our CMO, our chief product officer, our chief people officer, CFO, CEO. And that is my team"
+  },
+  {
+    "start": 431.8,
+    "duration": 9.56,
+    "text": "number one. And I'll park that one because I think that'll come back in a conversation in planning. But if"
+  },
+  {
+    "start": 441.36,
+    "duration": 6.56,
+    "text": "you think about the who does what for my direct reports, it's really around this framework of, in my"
+  },
+  {
+    "start": 447.92,
+    "duration": 7.28,
+    "text": "opinion, like how you hire. And this idea of that you're searching for, in addition to excellence and"
+  },
+  {
+    "start": 455.2,
+    "duration": 7.4,
+    "text": "competence and being able to be both a while wide, but a mile deep in the function, or part of the let's call it a"
+  },
+  {
+    "start": 462.6,
+    "duration": 6.12,
+    "text": "customer journey that you need them to, to obviously, perform and own. But also this idea of you're constantly"
+  },
+  {
+    "start": 468.72,
+    "duration": 5.92,
+    "text": "hiring for the team, not just the role. And so I think a lot about range. And I think a lot about inventory of this"
+  },
+  {
+    "start": 474.64,
+    "duration": 7.6,
+    "text": "team that I get, you know, obviously the, the honor to lead. And as you know, team members come and go, am I"
+  },
+  {
+    "start": 482.24,
+    "duration": 6.96,
+    "text": "constantly thinking about the inventory of the team? And so that could be creativity, that could be business"
+  },
+  {
+    "start": 489.2,
+    "duration": 7.56,
+    "text": "acumen, that could be strong, cross functional collaboration, that could be strong analytic backgrounds. And so"
+  },
+  {
+    "start": 496.76,
+    "duration": 5.2,
+    "text": "regardless, if they're the best CS leader, or if they're the best, you know, new business acquisition leader, or the"
+  },
+  {
+    "start": 501.96,
+    "duration": 6.28,
+    "text": "best rev ops leader, what are those attributes of the team that would raise the bar for everyone more so than just the"
+  },
+  {
+    "start": 508.24,
+    "duration": 8.76,
+    "text": "function that they're leading? And that is also, I would say, a learning journey, as you know, building a number of"
+  },
+  {
+    "start": 517.0,
+    "duration": 5.64,
+    "text": "different teams. And so I think about the, the, the function for the team more so than just the role."
+  },
+  {
+    "start": 524.08,
+    "duration": 7.04,
+    "text": "Interesting, it's, it's a similar analogy that I share often, is when I'm building teams, I'm trying to build a"
+  },
+  {
+    "start": 531.12,
+    "duration": 6.36,
+    "text": "basketball team, you can't have five centers, you can't have five point guards, you need a variety of skills that can"
+  },
+  {
+    "start": 537.48,
+    "duration": 8.52,
+    "text": "flex into different places to have the right winning formula. And it's hard, especially, I think, earlier in my career, I"
+  },
+  {
+    "start": 546.0,
+    "duration": 5.64,
+    "text": "really just wanted to replicate myself like, well, I'm awesome. So I'll just go hire a bunch of people like me. And then"
+  },
+  {
+    "start": 551.64,
+    "duration": 7.68,
+    "text": "everything's going to be great. And then you quickly realize that that is not at all the formula for success. So I think"
+  },
+  {
+    "start": 559.32,
+    "duration": 11.92,
+    "text": "this, this idea of team inventory is a really interesting one. And so we'll come back to team one, and how to drive"
+  },
+  {
+    "start": 571.24,
+    "duration": 10.04,
+    "text": "alignment across team one. But I want to, I want to pick up one more thing here. So it's less about the how. And so how do you"
+  },
+  {
+    "start": 581.28,
+    "duration": 10.68,
+    "text": "guide people to the right how? This is the thing I think me personally, I also struggle with, I want to have an opinion on, on how to"
+  },
+  {
+    "start": 591.96,
+    "duration": 8.4,
+    "text": "make sure those decisions are great. So how do you, how have you tried to let go of the how, and ensure that the how is still done at a"
+  },
+  {
+    "start": 600.36,
+    "duration": 1.68,
+    "text": "world class level by your, by your team?"
+  },
+  {
+    "start": 602.88,
+    "duration": 8.2,
+    "text": "Yeah, great question. And it's, as you can imagine, something that comes up in planning cycles, in a really big way, as you think"
+  },
+  {
+    "start": 611.08,
+    "duration": 8.76,
+    "text": "about, we run the B2MOM here at G2. And, and, like, we debate a lot the metrics. And I'm always curious, I'm like, is that really, like,"
+  },
+  {
+    "start": 619.84,
+    "duration": 8.72,
+    "text": "where we should be debating? But, but I'll give you a, I'll give you an example. And so I think goal alignment, and, and I would say the"
+  },
+  {
+    "start": 628.56,
+    "duration": 6.32,
+    "text": "measure to metrics are really important. And if you can align on like, whatever needle you're trying to move, whatever conversion rate"
+  },
+  {
+    "start": 634.88,
+    "duration": 7.8,
+    "text": "you're trying to improve, whatever outcome that you're trying to drive, you should be less married to how the team gets there. I mean,"
+  },
+  {
+    "start": 642.68,
+    "duration": 6.88,
+    "text": "there's frameworks around, you know, ideas of like discipline, freedom, or freedom and responsibility, or, you know, how much like surface"
+  },
+  {
+    "start": 649.56,
+    "duration": 7.6,
+    "text": "area is, you know, available for, I would say, like creativity and things. And I think those things should be embraced. I think where"
+  },
+  {
+    "start": 657.16,
+    "duration": 8.8,
+    "text": "teams, especially revenue teams, if it's all paint by numbers, and they're not necessarily a part of the how or solutioning that it comes"
+  },
+  {
+    "start": 665.96,
+    "duration": 7.04,
+    "text": "through, it's less sticky. And there's less ownership mentality of how we're trying to win on behalf of our customers. And so I think it starts"
+  },
+  {
+    "start": 673.0,
+    "duration": 5.84,
+    "text": "with like, what are we actually trying to do? And why are we doing that? And if we can have really strong alignment on the silhouette, who"
+  },
+  {
+    "start": 678.84,
+    "duration": 7.88,
+    "text": "cares what happens when we get there? I think it's a lot easier to kind of remove yourself to from the actual strategies or tactics, they need"
+  },
+  {
+    "start": 686.72,
+    "duration": 7.24,
+    "text": "to be deployed, as long as they're aligned with your core values. And, you know, they're aligned to, you know, kind of customer value. I"
+  },
+  {
+    "start": 693.96,
+    "duration": 9.04,
+    "text": "think it's really hard to do. But I feel like where I've seen high performing teams, there's no question on the why, or the what, and the how"
+  },
+  {
+    "start": 703.0,
+    "duration": 1.68,
+    "text": "is less debated, I would say."
+  },
+  {
+    "start": 705.68,
+    "duration": 11.56,
+    "text": "Okay, so it's the what and the why. And so you mentioned a couple things that are that are above the how, and it's alignment on values,"
+  },
+  {
+    "start": 717.24,
+    "duration": 9.8,
+    "text": "alignment around the customer, what else? What else do you need to architect for your senior leaders to allow them to get to the right how?"
+  },
+  {
+    "start": 727.4,
+    "duration": 10.04,
+    "text": "Yeah, I think it does start with a why. And, and I'll give you an example with Upwork, because I've been fortunate to be a part of a lot of mission"
+  },
+  {
+    "start": 737.76,
+    "duration": 7.24,
+    "text": "driven organizations. But this one was, we did a really good job of like threading it all the way through all the communities we serve. And so if"
+  },
+  {
+    "start": 745.0,
+    "duration": 7.08,
+    "text": "you thought about our vision as an organization, it was to build the world's largest work marketplace. And immediately, you'd ask yourself,"
+  },
+  {
+    "start": 752.08,
+    "duration": 11.04,
+    "text": "all right, well, so what, who cares. But if you think about the why, or the mission, or why we exist, I was this idea of we want to create"
+  },
+  {
+    "start": 763.12,
+    "duration": 9.92,
+    "text": "economic opportunity, so people have better lives. And the motions that we run, both for we're two sided marketplace, similar to G2, should be"
+  },
+  {
+    "start": 773.04,
+    "duration": 7.0,
+    "text": "rooted in that. And if you think about Upwork, I mean, we were distributing jobs around the world creating economic, economic opportunity,"
+  },
+  {
+    "start": 780.04,
+    "duration": 7.56,
+    "text": "but also helping companies scale agility and product innovation by having access to, you know, talent real time. And, and if you can, if you"
+  },
+  {
+    "start": 787.6,
+    "duration": 9.08,
+    "text": "can have a real strong culture and DNA around why you exist, I think the what is like a little easier. And so the what becomes like, okay,"
+  },
+  {
+    "start": 796.68,
+    "duration": 6.56,
+    "text": "exactly, well, how do we show up for that? If you think about G2 today, like why we exist is to empower, you know, business professionals to"
+  },
+  {
+    "start": 803.4,
+    "duration": 7.08,
+    "text": "reach their peak potential. You know, we do that by building the world's largest software marketplace rooted in trust and transparency, connecting"
+  },
+  {
+    "start": 810.48,
+    "duration": 9.08,
+    "text": "buyers and sellers faster than ever before. And you have to spend a lot of time and it's painful, you know, getting alignment there. And then if you"
+  },
+  {
+    "start": 819.56,
+    "duration": 7.88,
+    "text": "think about the depending on your go to market, the customers you want to serve, why do you want to exist? I think the how of like the tactics"
+  },
+  {
+    "start": 827.44,
+    "duration": 7.04,
+    "text": "associated with how you're going to grow the business and grow your teams. I think you get a lot more, I would say involvement and"
+  },
+  {
+    "start": 834.48,
+    "duration": 8.04,
+    "text": "participation, you know, from folks. And they feel like they're more of a part of it. It's happening through them versus to them in those"
+  },
+  {
+    "start": 842.52,
+    "duration": 5.48,
+    "text": "scenarios. But I think a lot of companies don't spend enough time on why they exist."
+  },
+  {
+    "start": 849.0,
+    "duration": 9.32,
+    "text": "That makes a bunch of sense. So we'll come back to my guess is is owner.com has a strong mission orientation based on the community that you want to serve."
+  },
+  {
+    "start": 858.32,
+    "duration": 12.4,
+    "text": "Yeah. Yeah, for us, it's about arming restaurant owners to take on their Goliaths. And it's this idea of empowering SMBs to be able to battle with the"
+  },
+  {
+    "start": 871.04,
+    "duration": 8.32,
+    "text": "dominoes and Chipotles of the world and the Ubers and DoorDashes of the world like they're under siege and we're trying to give them the tools to succeed."
+  },
+  {
+    "start": 879.36,
+    "duration": 13.08,
+    "text": "And we are absolutely deeply rooted in a very mission driven approach. And then for me, it's all about trying to figure out how I can architect principles that"
+  },
+  {
+    "start": 892.44,
+    "duration": 14.56,
+    "text": "can guide more specific decision making. The question for me oftentimes is, how does that mission tie to a sales manager deciding on how do we architect our deal"
+  },
+  {
+    "start": 907.0,
+    "duration": 11.52,
+    "text": "qualification criteria? Or how do we decide on the Salesforce project to prioritize? And so there's a level of abstraction there that I'm trying to fill in."
+  },
+  {
+    "start": 922.96,
+    "duration": 0.6,
+    "text": "Yeah, go ahead."
+  },
+  {
+    "start": 924.12,
+    "duration": 9.88,
+    "text": "I'm gonna say why. And I think there's like, there's another layer in between that. So if you feel like you have like your mission and vision alignment as an"
+  },
+  {
+    "start": 934.0,
+    "duration": 10.44,
+    "text": "organization, and I think specifically around go to market organizations, the next idea is this is this framework of like, who are we chasing? And I remember"
+  },
+  {
+    "start": 944.44,
+    "duration": 8.64,
+    "text": "right when I joined G2, I asked this question to, you know, six people my first day, and you immediately go to these like competitors, and I'll remain nameless at this"
+  },
+  {
+    "start": 953.08,
+    "duration": 8.88,
+    "text": "time. And, and I was just kind of fascinated, because in my mind, you don't chase your competition, you chase your customers. And what are the customers that we"
+  },
+  {
+    "start": 961.96,
+    "duration": 8.56,
+    "text": "want to serve that are in support of that broader mission and vision. And I feel where a lot of organizations end up like shipping their org charts a little"
+  },
+  {
+    "start": 970.52,
+    "duration": 7.2,
+    "text": "bit, and potentially not meeting their potentials, because marketing has a point of view on that product has a point of view on that your sales"
+  },
+  {
+    "start": 977.72,
+    "duration": 8.8,
+    "text": "organization has a point of view on that. And if there's a ton of daylight between those beliefs, even when you get into thinking about like, how do you"
+  },
+  {
+    "start": 986.52,
+    "duration": 8.28,
+    "text": "operationalize the qualification criteria that you need? That is a downstream decision that if you're have upstream misalignment, it kind of doesn't"
+  },
+  {
+    "start": 994.8,
+    "duration": 7.84,
+    "text": "matter. Because it might be very different. And so I feel like even after vision and mission, this idea of who are you chasing? Or who do you want to serve?"
+  },
+  {
+    "start": 1002.64,
+    "duration": 12.6,
+    "text": "And why is a lot of the work that team one or the C level team should be working on, because then it reduces lack of clarity down the organization, because"
+  },
+  {
+    "start": 1015.24,
+    "duration": 1.8,
+    "text": "everything is in service of that strategy."
+  },
+  {
+    "start": 1017.76,
+    "duration": 12.2,
+    "text": "Mm hmm. And when you first started at G2, I heard you talk about you, you narrowed your ICP. So maybe just share a little bit more about how you reframed the who we are"
+  },
+  {
+    "start": 1029.96,
+    "duration": 1.68,
+    "text": "chasing for G2."
+  },
+  {
+    "start": 1032.28,
+    "duration": 8.76,
+    "text": "Totally. And we have this very interesting pickle, if you will. And so we have a really interesting freemium model, where any organization, regardless of"
+  },
+  {
+    "start": 1041.04,
+    "duration": 13.6,
+    "text": "size, can list their company on G2, start driving reviews and kind of building that customer voice. And as a result, we've got 160,000 products that are listed on G2. You know, our go to market"
+  },
+  {
+    "start": 1054.64,
+    "duration": 9.04,
+    "text": "organization, not tiny, but not huge. We've got, you know, a little over 200 sellers around the world. So we can't chase all of them. And, and we're in this, you know, kind of"
+  },
+  {
+    "start": 1063.68,
+    "duration": 17.6,
+    "text": "marketplace business where all categories aren't created equal. And so if you think about the 90 million buyers that look at G2, they're not all going to all 2100 categories equally. You've got, you know, categories like your CRM or sales and marketing, down to back office software for veterinary"
+  },
+  {
+    "start": 1081.28,
+    "duration": 29.44,
+    "text": "hospitals. And so all revenue, as you know, is not equal. And so we did a ton of propensity modeling around the categories, around product signals, things that were really important to us, important to the customer, things that we could defend and prove, and that list started getting smaller. And as you continue to, you know, we're a big ecosystem player, we integrate with 53 other, you know, technology companies. And so that's a cut. You look at the category signals, that's a cut, product"
+  },
+  {
+    "start": 1110.72,
+    "duration": 29.68,
+    "text": "adoption, that's a cut, you run your kind of GRR and NRR regression against your current customers, that's a cut. And then quickly, you get to like a 19,000 number. And then you start to, you know, look at where clusters are, like where we have competitors that are strong lookalikes. And then, you know, through that period of time, we got down to 3000. Well, 3000 customers is a manageable list, you know, to, to focus on in year. And that's where we built our, you know, kind of account based orchestration of like, all right, product, what are you doing on this 3000?"
+  },
+  {
+    "start": 1140.72,
+    "duration": 20.8,
+    "text": "Marketing, what are you doing on this 3000? You know, the revenue teams, and then like, what role do you play in that buyer journey? The hardest part was getting to the 3000. The execution, while challenging, and we've made mistakes daily, I would say that the hardest work was way upstream before we got to execution."
+  },
+  {
+    "start": 1161.52,
+    "duration": 29.84,
+    "text": "Yeah, the answers become a lot more clear when you've, when you've defined that group. Jordan Crawford, who's one of the smartest GTM AI thinkers, had a quote that has stuck with me. He's like, the list is the message. You know, when talking about building messaging, he's like, everything is downstream of the little micro list that you've built for this campaign. And, and so relevant to this, like once you get to 3000, what they need is pretty obvious for like,"
+  },
+  {
+    "start": 1191.52,
+    "duration": 5.52,
+    "text": "if they've told product, the sales reps know what those people want. So well, that's fascinating."
+  },
+  {
+    "start": 1197.44,
+    "duration": 22.24,
+    "text": "Well, and I think a lot of organizations, especially GT are also investing in, I would say more product led in like econ motions. And so we can have a more capture motion on some of the long tail things that we, we might not chase with humans. But they're really trying to focus our, our human motions on higher order problems that are going to have the best unit economics, both for the customer and for us."
+  },
+  {
+    "start": 1219.68,
+    "duration": 29.6,
+    "text": "Yeah. So, uh, I'm thinking about these layers. Like I, uh, I've been writing this document, which is basically like, uh, um, it's a go to market engine all the way from mission to playbooks. And so I've, I'm like sketching out these layers and it sounds, it sounds like you've got a good mental model here. So you've got mission, a vision and vision alignment up, up at the very top. Who are we chasing? Seems like one of those foundational things. Like what else?"
+  },
+  {
+    "start": 1249.76,
+    "duration": 4.72,
+    "text": "What else is in there before tactics that you really focus on that first team alignment around?"
+  },
+  {
+    "start": 1254.96,
+    "duration": 10.08,
+    "text": "Yeah. And so if you have alignment around who you're chasing, um, uh, the next question in my mind jumps out to like, well, how do we align our teams, uh, uh, specific to the buyer journey?"
+  },
+  {
+    "start": 1265.6,
+    "duration": 12.88,
+    "text": "Um, I think this is another example where revenue team ship the org chart, like our model versus their model all the time. And I think as buyer behavior continues to evolve, like you should be challenging your own status quo of whatever your assembly line looks like all the time."
+  },
+  {
+    "start": 1278.96,
+    "duration": 7.52,
+    "text": "Um, you know, and for us it was like, okay, what is the role of marketing and partnerships and where does that show up in those touch points? Full funnel."
+  },
+  {
+    "start": 1286.88,
+    "duration": 6.32,
+    "text": "Uh, we run a, I call it hunter, hunter. It's not just land and expand, but you know, we're constantly, you know, growing our customers."
+  },
+  {
+    "start": 1293.6,
+    "duration": 5.44,
+    "text": "Um, what is the role of implementation and professional services? Uh, where does product success come in?"
+  },
+  {
+    "start": 1299.52,
+    "duration": 5.36,
+    "text": "Um, and so as you can imagine, you, you, you have this, let's call it target account strategy across the top."
+  },
+  {
+    "start": 1305.28,
+    "duration": 9.04,
+    "text": "Map, whatever your buyer journey is to you. And this is like design thinking workshops with everybody, including the customer combining like terms of where all those funnels exist."
+  },
+  {
+    "start": 1314.8,
+    "duration": 5.36,
+    "text": "Um, and it might not look just like an amazing winning by design bow tie. That's a great starting point, depending on your model."
+  },
+  {
+    "start": 1320.72,
+    "duration": 9.68,
+    "text": "Um, and you start figuring out what it is for you and then say, okay, great. Well, how do I lean our align our resources? Um, I, uh, I have a lot of passion around, uh, this topic of org."
+  },
+  {
+    "start": 1330.4,
+    "duration": 3.92,
+    "text": "And it was actually at an event in Boston and the, and one day I heard, well, it's product led growth."
+  },
+  {
+    "start": 1334.64,
+    "duration": 2.96,
+    "text": "Well, then it was marketing led growth. Well, then it was sales led growth."
+  },
+  {
+    "start": 1337.68,
+    "duration": 5.76,
+    "text": "And then it was like event led growth and then eco led growth. And I was like team like community led growth now."
+  },
+  {
+    "start": 1344.0,
+    "duration": 2.72,
+    "text": "I'm like, I mean, like our ego is getting in the way"
+  },
+  {
+    "start": 1347.84,
+    "duration": 3.36,
+    "text": "of, of winning for our customers. The only one that should get credit should be the customer."
+  },
+  {
+    "start": 1351.76,
+    "duration": 2.0,
+    "text": "And so it's about working in orchestration,"
+  },
+  {
+    "start": 1354.24,
+    "duration": 3.2,
+    "text": "um, in the most efficient way, um, to help your customers win."
+  },
+  {
+    "start": 1357.44,
+    "duration": 6.56,
+    "text": "And so if you can have like, you know, that surface area documented and alignment across private marketing revenue of what that funnel looks like,"
+  },
+  {
+    "start": 1364.24,
+    "duration": 3.04,
+    "text": "then you start understanding not the role, but the jobs to be done in each piece."
+  },
+  {
+    "start": 1368.08,
+    "duration": 5.68,
+    "text": "Um, and you know, mapping, uh, like what are we going to do to help our customers get through that part of the journey?"
+  },
+  {
+    "start": 1373.84,
+    "duration": 3.36,
+    "text": "Some of it could be humans. Some of it could be products. Some of it could be AI."
+  },
+  {
+    "start": 1377.84,
+    "duration": 5.04,
+    "text": "Um, some of it could be marketing nurturing, but really understanding that journey is, is incredibly important."
+  },
+  {
+    "start": 1383.36,
+    "duration": 4.72,
+    "text": "Um, and as you, as you think about the jobs to be done, once you have alignment there, then for me, it's just, all right,"
+  },
+  {
+    "start": 1388.08,
+    "duration": 1.6,
+    "text": "well, what are the input metrics?"
+  },
+  {
+    "start": 1389.68,
+    "duration": 5.68,
+    "text": "You know, revenue happens. Like what are the mile markers that we need to understand so that we can, you know, see around corners,"
+  },
+  {
+    "start": 1395.52,
+    "duration": 1.44,
+    "text": "you know, for example,"
+  },
+  {
+    "start": 1396.96,
+    "duration": 3.36,
+    "text": "you know, an average G2, like a new deal cycle is less than 90 days."
+  },
+  {
+    "start": 1400.96,
+    "duration": 3.2,
+    "text": "Um, we need to be able to, you know, have certainty good or bad,"
+  },
+  {
+    "start": 1404.64,
+    "duration": 3.68,
+    "text": "um, 90 days in the future, um, because everything we do today pays us later."
+  },
+  {
+    "start": 1408.4,
+    "duration": 2.56,
+    "text": "And so like, what are those input metrics that we're going to measure?"
+  },
+  {
+    "start": 1411.84,
+    "duration": 4.4,
+    "text": "You know, day over day, week over week, month over month, quarter over quarter to make sure that we don't necessarily get over,"
+  },
+  {
+    "start": 1416.32,
+    "duration": 3.36,
+    "text": "get ahead of our skis or go too slow on certain things."
+  },
+  {
+    "start": 1420.4,
+    "duration": 3.84,
+    "text": "Um, and doesn't mean that you wouldn't have outcome-based metrics. Um,"
+  },
+  {
+    "start": 1424.8,
+    "duration": 3.52,
+    "text": "but if you get really good at managing the inputs, the outputs tend to take care of themselves."
+  },
+  {
+    "start": 1429.12,
+    "duration": 1.12,
+    "text": "Okay."
+  },
+  {
+    "start": 1430.24,
+    "duration": 4.88,
+    "text": "And do you have a team vision document also written?"
+  },
+  {
+    "start": 1435.92,
+    "duration": 2.56,
+    "text": "Because there's always, you know, company mission values,"
+  },
+  {
+    "start": 1439.2,
+    "duration": 1.84,
+    "text": "company plan,"
+  },
+  {
+    "start": 1441.04,
+    "duration": 4.26,
+    "text": "and then oftentimes we dive down into like, and here's our strategy and the tactics for 2025."
+  },
+  {
+    "start": 1446.08,
+    "duration": 2.0,
+    "text": "But do you have a layer in between"
+  },
+  {
+    "start": 1448.32,
+    "duration": 1.44,
+    "text": "that is about"
+  },
+  {
+    "start": 1449.76,
+    "duration": 1.52,
+    "text": "clearly stating"
+  },
+  {
+    "start": 1451.28,
+    "duration": 6.64,
+    "text": "the team vision that you want your senior people building towards? Is that something that you've roadmapped or"
+  },
+  {
+    "start": 1458.32,
+    "duration": 3.04,
+    "text": "or are people like figuring it out that stuff on their own?"
+  },
+  {
+    "start": 1462.16,
+    "duration": 2.0,
+    "text": "I, I, so, um,"
+  },
+  {
+    "start": 1464.56,
+    "duration": 2.96,
+    "text": "there's one that we do and then one that I haven't done that I'm really,"
+  },
+  {
+    "start": 1468.0,
+    "duration": 4.4,
+    "text": "uh, unfortunately, I haven't been able to prioritize, but I want to strive to do this year in planning."
+  },
+  {
+    "start": 1472.72,
+    "duration": 2.56,
+    "text": "You know, I think we run the V2MOM here at G2,"
+  },
+  {
+    "start": 1475.76,
+    "duration": 4.18,
+    "text": "and there's a company version of the V2MOM and there's maybe five, you know, methods that we're prioritizing."
+  },
+  {
+    "start": 1480.8,
+    "duration": 2.88,
+    "text": "Um, every function takes that a level down and says, okay, great."
+  },
+  {
+    "start": 1484.16,
+    "duration": 5.68,
+    "text": "Um, what are the measures that you're going to do in support, um, of that V2MOM? Because there might be certain things that"
+  },
+  {
+    "start": 1490.48,
+    "duration": 4.24,
+    "text": "uh, parts of the organization might not touch directly or feel like strong connection to,"
+  },
+  {
+    "start": 1495.2,
+    "duration": 1.04,
+    "text": "um,"
+  },
+  {
+    "start": 1496.24,
+    "duration": 2.48,
+    "text": "uh, like an overall method for the organization."
+  },
+  {
+    "start": 1498.8,
+    "duration": 3.92,
+    "text": "So they need to like bring it down, personalize it to exactly what they can do and what they can control."
+  },
+  {
+    "start": 1502.8,
+    "duration": 2.48,
+    "text": "And so you'll see sub V2MOMs by function."
+  },
+  {
+    "start": 1505.76,
+    "duration": 3.44,
+    "text": "Um, okay. So their, their document is in the V2MOM"
+  },
+  {
+    "start": 1509.74,
+    "duration": 6.74,
+    "text": "format and it's, and it's a child of that company V2MOM parent. Okay. Totally. And we link them all together."
+  },
+  {
+    "start": 1516.56,
+    "duration": 2.0,
+    "text": "You know, we use Confluence to, uh,"
+  },
+  {
+    "start": 1519.28,
+    "duration": 3.84,
+    "text": "have transparency measurements and kind of report back as an organization on it."
+  },
+  {
+    "start": 1523.68,
+    "duration": 2.4,
+    "text": "Um, you know, I think the one that, uh,"
+  },
+  {
+    "start": 1527.76,
+    "duration": 2.0,
+    "text": "that I want to do in the revenue organization,"
+  },
+  {
+    "start": 1530.0,
+    "duration": 4.88,
+    "text": "um, that I haven't been able to do, and I've been a recipient of this as another company and, and I just, I need"
+  },
+  {
+    "start": 1534.88,
+    "duration": 4.9,
+    "text": "to find a way to prioritize it, is I think organizations that have really strong clarity around roles and responsibilities"
+  },
+  {
+    "start": 1540.64,
+    "duration": 2.74,
+    "text": "and decision-making frameworks are incredibly important."
+  },
+  {
+    "start": 1544.08,
+    "duration": 3.44,
+    "text": "Um, like so many things get stuck because we actually don't know"
+  },
+  {
+    "start": 1548.24,
+    "duration": 3.44,
+    "text": "who the approver is or who the informed captain is and,"
+  },
+  {
+    "start": 1552.4,
+    "duration": 0.96,
+    "text": "um,"
+  },
+  {
+    "start": 1553.36,
+    "duration": 7.52,
+    "text": "I feel like even in revenue, if a strong DACY or RACY model with like clear roles and responsibilities of who's on first,"
+  },
+  {
+    "start": 1561.2,
+    "duration": 2.34,
+    "text": "um, or who's single threaded in these decisions,"
+  },
+  {
+    "start": 1564.08,
+    "duration": 3.78,
+    "text": "because we see it so many times when you do a V2MOM review or a QBR internally,"
+  },
+  {
+    "start": 1568.16,
+    "duration": 3.28,
+    "text": "you just run into friction and you're like, why did friction exist?"
+  },
+  {
+    "start": 1571.92,
+    "duration": 4.4,
+    "text": "It was usually because of, you know, kind of this like circular conversation because no one,"
+  },
+  {
+    "start": 1576.72,
+    "duration": 3.36,
+    "text": "no one had the ability of understanding who's on first to actually advance it."
+  },
+  {
+    "start": 1580.56,
+    "duration": 3.28,
+    "text": "Um, and you didn't have clear escalation paths for like when things got stuck,"
+  },
+  {
+    "start": 1584.32,
+    "duration": 2.0,
+    "text": "but I feel like that is like the next unlock,"
+  },
+  {
+    "start": 1586.88,
+    "duration": 4.98,
+    "text": "at least for the revenue team here at G2, is like, okay, let's take vision, mission, V2MOM,"
+  },
+  {
+    "start": 1592.38,
+    "duration": 5.06,
+    "text": "customers, input metrics, and then say, okay, great. Well, how are we going to play the game every day here?"
+  },
+  {
+    "start": 1597.92,
+    "duration": 4.32,
+    "text": "Um, this idea of like, let's all ensue positive intent. Let's keep short toes."
+  },
+  {
+    "start": 1602.4,
+    "duration": 5.36,
+    "text": "I mean, we're going to step on each other, but like let's have clarity, um, and, uh,"
+  },
+  {
+    "start": 1607.76,
+    "duration": 1.68,
+    "text": "uh,"
+  },
+  {
+    "start": 1609.44,
+    "duration": 2.8,
+    "text": "speed in which we can like accelerate the operating model."
+  },
+  {
+    "start": 1612.24,
+    "duration": 4.72,
+    "text": "And I think that if you gunk that up and there is, that's not super clear. It's like, it's just slow."
+  },
+  {
+    "start": 1618.0,
+    "duration": 6.0,
+    "text": "Okay. And so those are your team principles, the short toes thing and, um,"
+  },
+  {
+    "start": 1625.6,
+    "duration": 1.6,
+    "text": "so, uh,"
+  },
+  {
+    "start": 1627.2,
+    "duration": 2.56,
+    "text": "I'm going to double click on the principles thing. I just want to make sure. So"
+  },
+  {
+    "start": 1630.64,
+    "duration": 3.76,
+    "text": "the way I architect this in the way I've like written this in my document, there's"
+  },
+  {
+    "start": 1635.04,
+    "duration": 2.0,
+    "text": "company mission, company values,"
+  },
+  {
+    "start": 1637.76,
+    "duration": 4.96,
+    "text": "company vision, team vision. There's, we have a three-year company vision, which we've"
+  },
+  {
+    "start": 1643.42,
+    "duration": 4.18,
+    "text": "documented now. There's a three and there's a component of go-to-market there."
+  },
+  {
+    "start": 1648.32,
+    "duration": 5.44,
+    "text": "Then there are the strategies. Like what is our strategy for the next 20, 24 months to get there?"
+  },
+  {
+    "start": 1654.64,
+    "duration": 5.6,
+    "text": "And then I've got these principles, but I don't, principles in org design, but I don't have that model for"
+  },
+  {
+    "start": 1660.8,
+    "duration": 4.32,
+    "text": "D like who, how do we define the DRI? Who gets to make calls on what I, we used to"
+  },
+  {
+    "start": 1665.52,
+    "duration": 4.16,
+    "text": "at shop. If I talk a lot about, is this like a level one or two decision? If it's one, just go make it."
+  },
+  {
+    "start": 1669.76,
+    "duration": 2.64,
+    "text": "If it's two, like here's the escalation paths, but"
+  },
+  {
+    "start": 1673.28,
+    "duration": 3.2,
+    "text": "that's a really interesting one that I need to tuck into my system."
+  },
+  {
+    "start": 1676.96,
+    "duration": 3.92,
+    "text": "Well, especially in the technology space, everything is cross-functional. Like, like you can't do"
+  },
+  {
+    "start": 1681.92,
+    "duration": 3.36,
+    "text": "really anything in service to the customer without touching all those surface areas."
+  },
+  {
+    "start": 1685.84,
+    "duration": 6.08,
+    "text": "And if you don't have like a, an operating model or decision-making kind of framework, whatever it is, it doesn't matter."
+  },
+  {
+    "start": 1692.32,
+    "duration": 2.0,
+    "text": "Um, it just, uh,"
+  },
+  {
+    "start": 1694.8,
+    "duration": 7.68,
+    "text": "and it's not like, uh, lack of good intent, um, by any means, it's just, you, you just created your own kind of, um,"
+  },
+  {
+    "start": 1703.36,
+    "duration": 3.28,
+    "text": "friction points, um, and you don't see them. Like I, like"
+  },
+  {
+    "start": 1707.04,
+    "duration": 3.44,
+    "text": "if I, if I ran a little bit more on this idea, if you assume positive intent"
+  },
+  {
+    "start": 1711.2,
+    "duration": 1.92,
+    "text": "and you have short toes,"
+  },
+  {
+    "start": 1713.12,
+    "duration": 4.48,
+    "text": "like, like that is a good thing. Um, and I would say that like,"
+  },
+  {
+    "start": 1718.32,
+    "duration": 4.48,
+    "text": "as accountability is increased in an organization, like your job as a leader is to push accountability down."
+  },
+  {
+    "start": 1723.28,
+    "duration": 3.92,
+    "text": "Like, like you're no longer responsible. You're responsive to the needs of the business."
+  },
+  {
+    "start": 1727.68,
+    "duration": 3.04,
+    "text": "And so as accountability is pushed down, that should create pressure"
+  },
+  {
+    "start": 1731.92,
+    "duration": 2.0,
+    "text": "and pressure should create friction."
+  },
+  {
+    "start": 1734.24,
+    "duration": 4.96,
+    "text": "And I would argue friction is where the magic is and like we have to find ways to get there as fast as possible"
+  },
+  {
+    "start": 1739.44,
+    "duration": 4.72,
+    "text": "because that's where we're like missing customer like, uh, value points."
+  },
+  {
+    "start": 1746.16,
+    "duration": 1.2,
+    "text": "Hmm."
+  },
+  {
+    "start": 1747.36,
+    "duration": 5.04,
+    "text": "I so deeply agree with this, this like friction is where the magic happens thing."
+  },
+  {
+    "start": 1752.96,
+    "duration": 6.0,
+    "text": "It, we changed our comp plan recently to make the sales rep 100% only paid when the customer goes live."
+  },
+  {
+    "start": 1759.36,
+    "duration": 2.0,
+    "text": "We're SMB, highly transactional"
+  },
+  {
+    "start": 1761.68,
+    "duration": 4.4,
+    "text": "month to month contracts. So, so that, um, cycle time is very short."
+  },
+  {
+    "start": 1766.64,
+    "duration": 2.72,
+    "text": "And so the manager's like, oh, Hey, like, you know, we're getting some"
+  },
+  {
+    "start": 1769.76,
+    "duration": 4.88,
+    "text": "butting heads and there's some friction around this. And, and I was having this conversation with one of my long-term managers."
+  },
+  {
+    "start": 1774.72,
+    "duration": 3.36,
+    "text": "I'm like, yeah, good. This is exactly what we want. You know, the friction,"
+  },
+  {
+    "start": 1778.4,
+    "duration": 6.16,
+    "text": "the friction shows you what part of your system has weaknesses and then you can address it and then we're all good point."
+  },
+  {
+    "start": 1784.56,
+    "duration": 2.0,
+    "text": "We didn't think about that. Let's buff it out."
+  },
+  {
+    "start": 1786.88,
+    "duration": 0.96,
+    "text": "Um"
+  },
+  {
+    "start": 1787.84,
+    "duration": 4.88,
+    "text": "It in that I'm going to steal this quote. Your job is to push responsibility down"
+  },
+  {
+    "start": 1793.28,
+    "duration": 5.04,
+    "text": "and pressure creating friction. I think that's like a really elegant way to think about it. I stole it from someone."
+  },
+  {
+    "start": 1798.4,
+    "duration": 4.56,
+    "text": "I'm sure I don't really have any original ideas, Kyle. I just tend to steal and try to, uh,"
+  },
+  {
+    "start": 1803.76,
+    "duration": 2.4,
+    "text": "apply them, uh, you know where I can't, um,"
+  },
+  {
+    "start": 1806.88,
+    "duration": 2.0,
+    "text": "But I noticed from your bookshelf."
+  },
+  {
+    "start": 1809.2,
+    "duration": 2.24,
+    "text": "Yeah. Yeah. We have a lot of the same ones."
+  },
+  {
+    "start": 1812.24,
+    "duration": 4.4,
+    "text": "Yeah. Well, I mean, there's a lot of good inventory out there. I mean, if you can feed your mind, you know, good stuff every day."
+  },
+  {
+    "start": 1816.88,
+    "duration": 6.48,
+    "text": "Um, yeah, you get 1% better. I mean, who knows what happens? So, yeah. Yeah. I noticed you had, uh, working backwards."
+  },
+  {
+    "start": 1823.6,
+    "duration": 3.04,
+    "text": "I think, uh, I saw in your background in one of the pods that you did"
+  },
+  {
+    "start": 1827.2,
+    "duration": 0.88,
+    "text": "and"
+  },
+  {
+    "start": 1828.08,
+    "duration": 6.42,
+    "text": "this, they, I think Amazon does a good job at that, you know, identify the DRI, the directly responsible individual"
+  },
+  {
+    "start": 1835.14,
+    "duration": 5.92,
+    "text": "single thread them with ownership, like really keep it, uh, keep things tight. This is definitely something I'm going to do."
+  },
+  {
+    "start": 1841.7,
+    "duration": 4.48,
+    "text": "Well, and I would tell you, um, I got, uh, introduced to working backwards and actually Bill Carr,"
+  },
+  {
+    "start": 1846.26,
+    "duration": 2.08,
+    "text": "one of the authors of the book, did some work, um,"
+  },
+  {
+    "start": 1848.98,
+    "duration": 5.28,
+    "text": "at my company and I was like very intimidated and kind of like, uh,"
+  },
+  {
+    "start": 1855.14,
+    "duration": 3.04,
+    "text": "not interested in the six page memo kind of early on."
+  },
+  {
+    "start": 1858.98,
+    "duration": 3.92,
+    "text": "I'm used to like slideware, give me some pictures. I can tell you a story and get out of there."
+  },
+  {
+    "start": 1863.46,
+    "duration": 4.34,
+    "text": "Um, and I would tell you that it is my preferred form of communication"
+  },
+  {
+    "start": 1868.82,
+    "duration": 3.84,
+    "text": "and I probably spend more time as much time writing as I do reading."
+  },
+  {
+    "start": 1873.3,
+    "duration": 1.36,
+    "text": "Um,"
+  },
+  {
+    "start": 1874.66,
+    "duration": 2.72,
+    "text": "it just like really makes you be thoughtful. Um,"
+  },
+  {
+    "start": 1878.18,
+    "duration": 4.4,
+    "text": "and it removes, uh, or increases clarity and kind of context. Um,"
+  },
+  {
+    "start": 1883.54,
+    "duration": 2.0,
+    "text": "and, uh,"
+  },
+  {
+    "start": 1885.62,
+    "duration": 4.8,
+    "text": "there have been ideas that I had that when I started the first page of, you know,"
+  },
+  {
+    "start": 1890.42,
+    "duration": 5.6,
+    "text": "just trying to follow the tempo of the problem statement and like alternatives and how I think about it that I ended up just"
+  },
+  {
+    "start": 1896.42,
+    "duration": 1.36,
+    "text": "not pursuing."
+  },
+  {
+    "start": 1897.78,
+    "duration": 4.08,
+    "text": "Um, and so it is like, this one was like slow down to speed ups, but I,"
+  },
+  {
+    "start": 1903.3,
+    "duration": 2.08,
+    "text": "I, I, uh, it was definitely a"
+  },
+  {
+    "start": 1905.94,
+    "duration": 4.48,
+    "text": "a turnaround story for me because I was like, no way, absolutely not. We're like not the revenue teams."
+  },
+  {
+    "start": 1910.5,
+    "duration": 2.0,
+    "text": "We're not going to do this. We're going to go talk to customers."
+  },
+  {
+    "start": 1913.22,
+    "duration": 6.08,
+    "text": "Um, but at least for me and my role, especially cross-functionally when I'm trying to communicate with my peers, I, uh,"
+  },
+  {
+    "start": 1920.5,
+    "duration": 3.2,
+    "text": "I actually really enjoy it. And actually now that I mean with chat,"
+  },
+  {
+    "start": 1923.76,
+    "duration": 6.74,
+    "text": "GPT and all the different AI assisted writing things, like totally it's, it's, uh, it's almost like a cheat code in some ways."
+  },
+  {
+    "start": 1931.14,
+    "duration": 1.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 1932.42,
+    "duration": 7.6,
+    "text": "I think I'm probably three to four times more effective writing now in chat GPT, just the research component, you know,"
+  },
+  {
+    "start": 1940.02,
+    "duration": 4.16,
+    "text": "like, oh, what was that? And, and the thing I do is for books that I've read,"
+  },
+  {
+    "start": 1944.26,
+    "duration": 4.8,
+    "text": "I'll go download the PDF and then upload it into chat GPT so I can do a rag search"
+  },
+  {
+    "start": 1949.54,
+    "duration": 4.32,
+    "text": "because I can't go back to my notes and find that one thing that I really want to tease out."
+  },
+  {
+    "start": 1953.94,
+    "duration": 2.4,
+    "text": "But if I'm building training content and I want to reference it,"
+  },
+  {
+    "start": 1956.74,
+    "duration": 4.64,
+    "text": "I can take that PDF and I'd be like, tell it like there's a quote in here about X and Y pull it out."
+  },
+  {
+    "start": 1961.78,
+    "duration": 6.88,
+    "text": "Okay. Now combine that idea with whatever and yeah, it's incredible. And then I get to play the role of editor."
+  },
+  {
+    "start": 1969.38,
+    "duration": 3.84,
+    "text": "Totally. Have you done the, uh, the notebook LM of it and just making a podcast to listen to?"
+  },
+  {
+    "start": 1973.94,
+    "duration": 6.88,
+    "text": "No, not yet. So you gotta check it out. It's a Google product, but I've seen it. Yeah. We have a ton of customer,"
+  },
+  {
+    "start": 1981.46,
+    "duration": 2.4,
+    "text": "uh, you know, use cases and case studies."
+  },
+  {
+    "start": 1983.86,
+    "duration": 3.76,
+    "text": "We always have them coming out and like I'm always trying to memorize three, five stories that I can just, you know,"
+  },
+  {
+    "start": 1987.7,
+    "duration": 1.76,
+    "text": "use to help our teams."
+  },
+  {
+    "start": 1989.46,
+    "duration": 2.96,
+    "text": "And, uh, I'm like, all right, well, I'm gonna check out this podcast thing."
+  },
+  {
+    "start": 1992.42,
+    "duration": 2.64,
+    "text": "So I just loaded up our entire microsite of all of our"
+  },
+  {
+    "start": 1995.62,
+    "duration": 5.04,
+    "text": "case studies that we've made. And within like four or five minutes, I got a 14 minute podcast by two"
+  },
+  {
+    "start": 2001.46,
+    "duration": 1.12,
+    "text": "AI, uh,"
+  },
+  {
+    "start": 2002.58,
+    "duration": 3.68,
+    "text": "avatar voices, um, yeah, like had like amazing context."
+  },
+  {
+    "start": 2006.26,
+    "duration": 4.0,
+    "text": "And it's actually a lot of our rep training onboarding is now through this tool. Um,"
+  },
+  {
+    "start": 2010.34,
+    "duration": 4.24,
+    "text": "just to change up the medium a little bit, but, uh, another, another great AI hack."
+  },
+  {
+    "start": 2015.38,
+    "duration": 3.44,
+    "text": "That's fascinating. Yeah. And there's that Orwell quote."
+  },
+  {
+    "start": 2019.38,
+    "duration": 3.04,
+    "text": "If you can't, if you can't write well, you can't think well,"
+  },
+  {
+    "start": 2023.06,
+    "duration": 2.32,
+    "text": "and I think ideas are so"
+  },
+  {
+    "start": 2026.34,
+    "duration": 3.92,
+    "text": "amorphous until you can put them on a page and then structure it into"
+  },
+  {
+    "start": 2030.82,
+    "duration": 2.0,
+    "text": "a hierarchy of, okay,"
+  },
+  {
+    "start": 2032.82,
+    "duration": 5.36,
+    "text": "this is my top level idea. These are the subcomponents. This is how they ladder together. There's too much here."
+  },
+  {
+    "start": 2038.58,
+    "duration": 4.8,
+    "text": "The, the editing and pruning is, is so much of getting to, to clarity."
+  },
+  {
+    "start": 2043.94,
+    "duration": 2.48,
+    "text": "Uh, and we're, uh, we're a hundred percent no slides here."
+  },
+  {
+    "start": 2046.58,
+    "duration": 3.04,
+    "text": "Like we like no planning can be done in the slides because it's just"
+  },
+  {
+    "start": 2050.18,
+    "duration": 3.52,
+    "text": "so low bandwidth, you know, it needs a voiceover and, and"
+  },
+  {
+    "start": 2054.66,
+    "duration": 3.44,
+    "text": "Yeah. Um, okay. So, uh,"
+  },
+  {
+    "start": 2060.18,
+    "duration": 2.64,
+    "text": "We talked principle, I want to come back to principles"
+  },
+  {
+    "start": 2063.7,
+    "duration": 5.04,
+    "text": "and because we, we, we were talking about this layer between organizational design and"
+  },
+  {
+    "start": 2069.46,
+    "duration": 2.0,
+    "text": "uh, organizational"
+  },
+  {
+    "start": 2071.52,
+    "duration": 5.88,
+    "text": "operating model, I think is a good way to put it. The racy, daisy, you know, uh, ownership"
+  },
+  {
+    "start": 2077.88,
+    "duration": 6.8,
+    "text": "of things, but I'd love to double click on principles that maybe is like a level higher in this, in this chain."
+  },
+  {
+    "start": 2085.24,
+    "duration": 5.52,
+    "text": "How have you architected the principles for your team? Is that a direct copy of"
+  },
+  {
+    "start": 2091.24,
+    "duration": 3.68,
+    "text": "company principles that are different things that your team operates by? And I'd love to hear about"
+  },
+  {
+    "start": 2095.16,
+    "duration": 3.12,
+    "text": "how you created them and then we'll get into how you reinforce."
+  },
+  {
+    "start": 2099.0,
+    "duration": 2.0,
+    "text": "Yeah. And so, um,"
+  },
+  {
+    "start": 2102.2,
+    "duration": 4.72,
+    "text": "I would say that they're, they continue to evolve. Um, uh,"
+  },
+  {
+    "start": 2108.12,
+    "duration": 4.88,
+    "text": "at least for me, uh, you know, in either new experiences or new companies or just like new,"
+  },
+  {
+    "start": 2113.96,
+    "duration": 3.84,
+    "text": "uh, you know, just learnings along the way. And so, um, I would say that"
+  },
+  {
+    "start": 2118.2,
+    "duration": 3.92,
+    "text": "even the four that I think about now, like, um, they, they continue to evolve,"
+  },
+  {
+    "start": 2122.44,
+    "duration": 4.56,
+    "text": "but they're, but I always try to make sure they're not in conflict with like the company core values. And so, you know,"
+  },
+  {
+    "start": 2127.0,
+    "duration": 1.2,
+    "text": "if I think about"
+  },
+  {
+    "start": 2128.2,
+    "duration": 2.0,
+    "text": "G2 today, um,"
+  },
+  {
+    "start": 2130.2,
+    "duration": 5.6,
+    "text": "you know, it's an acronym, it's called PEAT, but it stands for performance, entrepreneurial spirit, authenticity, and kindness."
+  },
+  {
+    "start": 2136.44,
+    "duration": 4.32,
+    "text": "And those are the company ones. Those are the company ones. Okay. And I would say those are, you know,"
+  },
+  {
+    "start": 2140.76,
+    "duration": 3.92,
+    "text": "our core values as an organization, but there's, there also needs to be like some operating values,"
+  },
+  {
+    "start": 2145.32,
+    "duration": 2.0,
+    "text": "um, that I think that,"
+  },
+  {
+    "start": 2147.72,
+    "duration": 0.88,
+    "text": "you know,"
+  },
+  {
+    "start": 2148.6,
+    "duration": 3.92,
+    "text": "that can be nested underneath that, but it allows you to drive alignment and ownership across your team."
+  },
+  {
+    "start": 2152.52,
+    "duration": 7.76,
+    "text": "And so they should be done in groups, um, and, uh, and how that shows up for the regular revenue organization. And so,"
+  },
+  {
+    "start": 2160.76,
+    "duration": 1.04,
+    "text": "um,"
+  },
+  {
+    "start": 2161.8,
+    "duration": 7.28,
+    "text": "uh, I think those exercises are really important. And so, uh, I like my own personal leadership, you know, principles that I, I definitely"
+  },
+  {
+    "start": 2169.64,
+    "duration": 3.84,
+    "text": "convey, but there's this operating principles of like how the team's going to show up."
+  },
+  {
+    "start": 2173.88,
+    "duration": 5.2,
+    "text": "Um, and it's around like how we're going to be relentless and, um, you know, proving customer value."
+  },
+  {
+    "start": 2179.48,
+    "duration": 4.08,
+    "text": "Um, it's around like, how are we going to be focused on growth every day and making sure that, you know,"
+  },
+  {
+    "start": 2183.56,
+    "duration": 2.0,
+    "text": "we're feeding your mind, you know, good stuff."
+  },
+  {
+    "start": 2185.96,
+    "duration": 3.44,
+    "text": "Um, it's around like, how are we going to communicate with clarity and candor?"
+  },
+  {
+    "start": 2189.8,
+    "duration": 7.44,
+    "text": "Um, you know, the, the idea around the only difficult part of difficult conversations is not having them, um, and having that increased speed,"
+  },
+  {
+    "start": 2197.64,
+    "duration": 2.4,
+    "text": "you know, within the organization, but they're never in conflict,"
+  },
+  {
+    "start": 2200.68,
+    "duration": 3.6,
+    "text": "you know, with, with over the company values are, but it allows us to,"
+  },
+  {
+    "start": 2205.08,
+    "duration": 6.56,
+    "text": "um, I would say put some more guardrails on our operating model, um, of how we're, you know, trying to ladder back up to that why we exist."
+  },
+  {
+    "start": 2212.2,
+    "duration": 3.2,
+    "text": "Um, and those are always best done when you have all of your different, you know,"
+  },
+  {
+    "start": 2215.48,
+    "duration": 4.88,
+    "text": "Functional leaders within the revenue org coming together to kind of coauthor those and those should evolve every year."
+  },
+  {
+    "start": 2221.0,
+    "duration": 2.72,
+    "text": "Um, just as the climate or the opportunity or,"
+  },
+  {
+    "start": 2224.44,
+    "duration": 3.6,
+    "text": "uh, maybe the headwind or the tailwind that you're facing. Um, those should,"
+  },
+  {
+    "start": 2228.68,
+    "duration": 4.08,
+    "text": "you know, cultures like, uh, in my opinion, like a conversation of how things are done around here."
+  },
+  {
+    "start": 2233.24,
+    "duration": 2.56,
+    "text": "Um, and you know, that should be ever evolving."
+  },
+  {
+    "start": 2236.84,
+    "duration": 2.0,
+    "text": "Okay. And so the"
+  },
+  {
+    "start": 2239.38,
+    "duration": 7.96,
+    "text": "Relentless focus on growth, clarity in communication and candor. Those are, are those your personal leadership principles or those your operating principles?"
+  },
+  {
+    "start": 2247.64,
+    "duration": 8.56,
+    "text": "This would be like the G2 leadership team operating principles in the revenue org. Um, and this idea of like focusing on growth every day. And so, um,"
+  },
+  {
+    "start": 2257.08,
+    "duration": 3.06,
+    "text": "How are we constantly learning as a organization and as individuals?"
+  },
+  {
+    "start": 2261.0,
+    "duration": 2.16,
+    "text": "Um, I would say that the personal leadership"
+  },
+  {
+    "start": 2264.2,
+    "duration": 1.68,
+    "text": "uh"
+  },
+  {
+    "start": 2265.88,
+    "duration": 2.0,
+    "text": "Rants, um, they weave in"
+  },
+  {
+    "start": 2268.04,
+    "duration": 2.0,
+    "text": "um, but uh, they're probably"
+  },
+  {
+    "start": 2270.36,
+    "duration": 4.64,
+    "text": "I don't know if they're unique to me because I hear them repeated a lot. Um, so they're hopefully they're sticky but uh,"
+  },
+  {
+    "start": 2275.48,
+    "duration": 2.0,
+    "text": "Those are a evolving journey for sure"
+  },
+  {
+    "start": 2283.08,
+    "duration": 8.88,
+    "text": "Yes.ai enables your ceo subject matter experts and other senior leaders to engage prospects directly creating meaningful connections and boosting response rates"
+  },
+  {
+    "start": 2292.28,
+    "duration": 5.76,
+    "text": "With just one click your team can strategically involve senior staff to make your outreach more credible and effective"
+  },
+  {
+    "start": 2298.76,
+    "duration": 8.0,
+    "text": "Empower your gtm team to orchestrate your outbound process and say yes to yes.ai. That's y-e-s-s.ai"
+  },
+  {
+    "start": 2308.76,
+    "duration": 1.2,
+    "text": "Okay"
+  },
+  {
+    "start": 2309.96,
+    "duration": 4.26,
+    "text": "And so you said there so you've got your g2 revenue leadership principles"
+  },
+  {
+    "start": 2315.14,
+    "duration": 2.58,
+    "text": "Relentless growth communication there. Is there a fourth one?"
+  },
+  {
+    "start": 2318.68,
+    "duration": 4.72,
+    "text": "Uh this idea of uh, well you said it kind of growth, um, uh"
+  },
+  {
+    "start": 2324.76,
+    "duration": 1.68,
+    "text": "the um"
+  },
+  {
+    "start": 2326.44,
+    "duration": 2.0,
+    "text": "Focused on growth every day, but you covered yes"
+  },
+  {
+    "start": 2328.84,
+    "duration": 1.04,
+    "text": "Okay"
+  },
+  {
+    "start": 2329.88,
+    "duration": 3.12,
+    "text": "And then the short toes thing. Where's where?"
+  },
+  {
+    "start": 2333.96,
+    "duration": 1.76,
+    "text": "Where does that fit in?"
+  },
+  {
+    "start": 2335.72,
+    "duration": 3.6,
+    "text": "I I sold this from uh, the ceo at upwork. Um"
+  },
+  {
+    "start": 2340.2,
+    "duration": 2.0,
+    "text": "you know it it"
+  },
+  {
+    "start": 2342.36,
+    "duration": 2.56,
+    "text": "and it kind of comes back to this friction thing and so i've kind of"
+  },
+  {
+    "start": 2345.56,
+    "duration": 3.6,
+    "text": "Ran with it like getting from uh accountability or pressure to friction"
+  },
+  {
+    "start": 2349.8,
+    "duration": 0.88,
+    "text": "um"
+  },
+  {
+    "start": 2350.68,
+    "duration": 3.12,
+    "text": "But it's this idea that you can be hard on the work, but not on the person"
+  },
+  {
+    "start": 2354.6,
+    "duration": 2.24,
+    "text": "And I think sometimes people don't understand the difference"
+  },
+  {
+    "start": 2357.48,
+    "duration": 3.52,
+    "text": "And if you if you if you're rooted in this idea of assuming positive intent"
+  },
+  {
+    "start": 2361.64,
+    "duration": 2.0,
+    "text": "And if that's just like rooted in the dna"
+  },
+  {
+    "start": 2364.36,
+    "duration": 5.28,
+    "text": "The ability to have short toes should be okay. Meaning that we're going to step on each other like rubbing is racing"
+  },
+  {
+    "start": 2370.28,
+    "duration": 1.36,
+    "text": "and um"
+  },
+  {
+    "start": 2371.64,
+    "duration": 4.08,
+    "text": "And if if you start with this idea of assuming positive intent, it should be okay"
+  },
+  {
+    "start": 2376.36,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 2377.4,
+    "duration": 4.24,
+    "text": "If you really have you know, it's kimcott would scale up kim scott would say radical candor"
+  },
+  {
+    "start": 2382.2,
+    "duration": 2.0,
+    "text": "You know short toes and so I stole that"
+  },
+  {
+    "start": 2384.2,
+    "duration": 4.64,
+    "text": "um, you know from hayden, um and and built upon that this idea of like"
+  },
+  {
+    "start": 2389.56,
+    "duration": 3.7,
+    "text": "That that accountability pressure to friction model should be celebrated"
+  },
+  {
+    "start": 2393.96,
+    "duration": 1.28,
+    "text": "And how do we get there?"
+  },
+  {
+    "start": 2395.24,
+    "duration": 5.12,
+    "text": "Um as fast as possible and you can be hard on the work without having to be hard on the on the person or team"
+  },
+  {
+    "start": 2401.64,
+    "duration": 2.72,
+    "text": "And say that one more time accountability to friction"
+  },
+  {
+    "start": 2405.08,
+    "duration": 2.08,
+    "text": "So accountability creates pressure"
+  },
+  {
+    "start": 2407.88,
+    "duration": 7.04,
+    "text": "All right pressure creates friction and we should get the friction as fast as possible around that idea kyle. That's where the the magic happens"
+  },
+  {
+    "start": 2415.72,
+    "duration": 1.44,
+    "text": "okay"
+  },
+  {
+    "start": 2417.16,
+    "duration": 1.68,
+    "text": "and so the"
+  },
+  {
+    "start": 2418.84,
+    "duration": 4.26,
+    "text": "The short toes and assuming positive intent are these your personal leadership principles?"
+  },
+  {
+    "start": 2424.6,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 2425.72,
+    "duration": 3.68,
+    "text": "Or are these just like things that you talk about are these your team?"
+  },
+  {
+    "start": 2429.64,
+    "duration": 2.32,
+    "text": "I'm, just trying to like fit them all into their yeah"
+  },
+  {
+    "start": 2432.04,
+    "duration": 3.92,
+    "text": "Yeah, well and you're and you're probably going to learn that like this is the downside of reading a lot of books"
+  },
+  {
+    "start": 2436.12,
+    "duration": 1.44,
+    "text": "You just steal"
+  },
+  {
+    "start": 2437.56,
+    "duration": 3.28,
+    "text": "From a lot of places. Um, in fact a lot of shit for you know"
+  },
+  {
+    "start": 2440.84,
+    "duration": 4.08,
+    "text": "People are like you just talking like one-liners and i'm like, yeah, but there's there's so many of them. Uh,"
+  },
+  {
+    "start": 2445.96,
+    "duration": 1.44,
+    "text": "uh"
+  },
+  {
+    "start": 2447.4,
+    "duration": 3.52,
+    "text": "All of these are adaptations of just things that i've been able to"
+  },
+  {
+    "start": 2451.24,
+    "duration": 4.88,
+    "text": "Get excited about and like strong conviction and belief in and then run with but I but i'll give you my four"
+  },
+  {
+    "start": 2456.92,
+    "duration": 2.96,
+    "text": "Uh leadership principles, yeah, I was just about to ask yeah"
+  },
+  {
+    "start": 2459.96,
+    "duration": 6.24,
+    "text": "Yeah, I mean, I think they're they're relevant, you know, potentially in any function but like they really show up for me. Um,"
+  },
+  {
+    "start": 2467.16,
+    "duration": 4.64,
+    "text": "In the revenue org and so, um, the first one is this idea you have to hire the best people possible"
+  },
+  {
+    "start": 2472.6,
+    "duration": 1.76,
+    "text": "period"
+  },
+  {
+    "start": 2474.36,
+    "duration": 2.0,
+    "text": "and um"
+  },
+  {
+    "start": 2476.36,
+    "duration": 1.36,
+    "text": "uh"
+  },
+  {
+    "start": 2477.72,
+    "duration": 5.76,
+    "text": "And like even also understanding that like bad hires will happen but like sitting on them is not okay"
+  },
+  {
+    "start": 2484.2,
+    "duration": 4.82,
+    "text": "Um, and and that would be like the first layer of defense for an organization"
+  },
+  {
+    "start": 2489.48,
+    "duration": 2.8,
+    "text": "um, you you promote what you permit"
+  },
+  {
+    "start": 2493.24,
+    "duration": 4.0,
+    "text": "and um, I think having a lot of uh, both rigor"
+  },
+  {
+    "start": 2498.04,
+    "duration": 5.92,
+    "text": "And uh conviction and that includes the range versus just functional experience, but you got to hire the best people possible"
+  },
+  {
+    "start": 2504.6,
+    "duration": 1.36,
+    "text": "period"
+  },
+  {
+    "start": 2505.96,
+    "duration": 4.88,
+    "text": "Um as as a part of that, um and hiring for you know, the team not necessarily just the role"
+  },
+  {
+    "start": 2511.8,
+    "duration": 4.0,
+    "text": "This the second one kyle would be around this idea if you got to provide absolute clarity"
+  },
+  {
+    "start": 2516.76,
+    "duration": 2.0,
+    "text": "Of like where we're going and why?"
+  },
+  {
+    "start": 2519.08,
+    "duration": 2.0,
+    "text": "Um, and that shows up in the company"
+  },
+  {
+    "start": 2521.08,
+    "duration": 4.72,
+    "text": "You know, obviously mission and vision but that also shows up in the jobs to be done of whatever function that you're leading"
+  },
+  {
+    "start": 2525.88,
+    "duration": 6.26,
+    "text": "There should be like absolute clarity on on where we're going and why um, and that is communicated"
+  },
+  {
+    "start": 2533.0,
+    "duration": 1.52,
+    "text": "um daily"
+  },
+  {
+    "start": 2534.52,
+    "duration": 5.2,
+    "text": "Uh, you know through whatever medium, um that you have, um, because I think lack of clarity"
+  },
+  {
+    "start": 2540.28,
+    "duration": 7.04,
+    "text": "Uh is is probably one of the biggest withholds of you know company performance. Um, and the bigger you get the harder it is"
+  },
+  {
+    "start": 2548.04,
+    "duration": 4.72,
+    "text": "Um, and you have to constantly prioritize like if you chase two rabbits, you won't catch either one of them"
+  },
+  {
+    "start": 2552.76,
+    "duration": 7.2,
+    "text": "And so like how do you order those things? Um to be effective not just efficient but like absolute clarity of where we're going and why?"
+  },
+  {
+    "start": 2561.16,
+    "duration": 5.94,
+    "text": "Um, the third one would be uh this around this idea of like you have to give everyone all the tools and resources to be successful"
+  },
+  {
+    "start": 2568.06,
+    "duration": 4.8,
+    "text": "And and what I mean by that that's not just in bloating your rev tech stack even more"
+  },
+  {
+    "start": 2573.42,
+    "duration": 7.38,
+    "text": "um their frameworks, um, they are, you know, uh operating principles their you know, uh cadences"
+  },
+  {
+    "start": 2581.74,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 2582.7,
+    "duration": 3.44,
+    "text": "Their training and development like all there's a ton of things"
+  },
+  {
+    "start": 2586.3,
+    "duration": 5.68,
+    "text": "Uh, and you have to have your ear to the ground constantly looking for like where can we continue to invest in our teams?"
+  },
+  {
+    "start": 2592.3,
+    "duration": 4.08,
+    "text": "and so tools and resources isn't necessarily just about technology, but it's just like this idea of"
+  },
+  {
+    "start": 2596.86,
+    "duration": 1.44,
+    "text": "um"
+  },
+  {
+    "start": 2598.3,
+    "duration": 3.3,
+    "text": "Constantly developing and resourcing your team to be successful"
+  },
+  {
+    "start": 2603.66,
+    "duration": 3.7,
+    "text": "And then the last one and it's the hardest one for me personally"
+  },
+  {
+    "start": 2607.9,
+    "duration": 2.8,
+    "text": "um in something that I strive for"
+  },
+  {
+    "start": 2611.42,
+    "duration": 2.0,
+    "text": "uh, and I get a lot of feedback on"
+  },
+  {
+    "start": 2613.82,
+    "duration": 1.28,
+    "text": "is"
+  },
+  {
+    "start": 2615.1,
+    "duration": 2.56,
+    "text": "Is number four kyle you got to stay out of their way?"
+  },
+  {
+    "start": 2620.3,
+    "duration": 5.36,
+    "text": "And so like we think if you hire the best people possible period provide absolute clarity of where we're going and why give"
+  },
+  {
+    "start": 2625.66,
+    "duration": 2.34,
+    "text": "Them all the tools and resources they need to be successful"
+  },
+  {
+    "start": 2628.86,
+    "duration": 2.0,
+    "text": "Then get out of their way"
+  },
+  {
+    "start": 2630.86,
+    "duration": 2.4,
+    "text": "um, and I feel like that is uh,"
+  },
+  {
+    "start": 2633.82,
+    "duration": 2.16,
+    "text": "That is where my journey continues. Um"
+  },
+  {
+    "start": 2636.7,
+    "duration": 6.72,
+    "text": "Of just trying to continue to push both accountability and empowerment down and making sure that I am not the the bottleneck. Uh,"
+  },
+  {
+    "start": 2644.14,
+    "duration": 2.0,
+    "text": "um, yeah"
+  },
+  {
+    "start": 2646.7,
+    "duration": 6.48,
+    "text": "and so there's a lot of conflicting discourse on this on this principle because uh"
+  },
+  {
+    "start": 2653.34,
+    "duration": 2.0,
+    "text": "uh"
+  },
+  {
+    "start": 2655.42,
+    "duration": 5.44,
+    "text": "And this goes back to some of the founder both noise and but toby luke has talked about this and I stole his"
+  },
+  {
+    "start": 2661.5,
+    "duration": 3.62,
+    "text": "Sort of like micro coaching framework. It's like not micromanagement"
+  },
+  {
+    "start": 2665.82,
+    "duration": 4.96,
+    "text": "If you have more context more understanding than anybody else like you need to be involved"
+  },
+  {
+    "start": 2671.42,
+    "duration": 2.0,
+    "text": "in things um"
+  },
+  {
+    "start": 2674.94,
+    "duration": 4.8,
+    "text": "And you know this comes back to task relevant maturity from andy grove and high output management"
+  },
+  {
+    "start": 2680.94,
+    "duration": 1.68,
+    "text": "how do you"
+  },
+  {
+    "start": 2682.62,
+    "duration": 1.92,
+    "text": "What are you doing tactically to balance that like?"
+  },
+  {
+    "start": 2684.54,
+    "duration": 4.08,
+    "text": "How do you know where to get involved versus where to where to like let people run?"
+  },
+  {
+    "start": 2689.34,
+    "duration": 2.0,
+    "text": "Uh, how are you doing that?"
+  },
+  {
+    "start": 2691.42,
+    "duration": 3.2,
+    "text": "So for me like I think all of those, uh,"
+  },
+  {
+    "start": 2695.34,
+    "duration": 2.48,
+    "text": "like methodology, um core beliefs"
+  },
+  {
+    "start": 2698.46,
+    "duration": 3.86,
+    "text": "Or or frameworks are relevant, but for me it shows up in the stage of the organization"
+  },
+  {
+    "start": 2703.42,
+    "duration": 2.32,
+    "text": "and uh, I um,"
+  },
+  {
+    "start": 2706.54,
+    "duration": 5.36,
+    "text": "uh, if you think about you shared your mission earlier of obviously helping, you know, small businesses win like"
+  },
+  {
+    "start": 2712.3,
+    "duration": 2.48,
+    "text": "You know g2 is also a david and goliath story, you know"
+  },
+  {
+    "start": 2714.78,
+    "duration": 5.6,
+    "text": "We have entrepreneurs, um all over our platform and they're using their customer voice to you know compete and win"
+  },
+  {
+    "start": 2721.26,
+    "duration": 4.08,
+    "text": "And you know a lot of them are in their zero to ten story or journey"
+  },
+  {
+    "start": 2725.82,
+    "duration": 3.12,
+    "text": "Um, i'd be the first to tell you that I would not be an effective leader"
+  },
+  {
+    "start": 2729.58,
+    "duration": 2.0,
+    "text": "um at that, um"
+  },
+  {
+    "start": 2732.22,
+    "duration": 5.04,
+    "text": "You know probably stage of organization because I spend a lot more time in systems thinking I would say"
+  },
+  {
+    "start": 2737.98,
+    "duration": 2.26,
+    "text": "reward and recognition systems processes"
+  },
+  {
+    "start": 2741.2,
+    "duration": 3.68,
+    "text": "Um and like things that scale as a result of a machine"
+  },
+  {
+    "start": 2745.76,
+    "duration": 1.92,
+    "text": "and so, um"
+  },
+  {
+    "start": 2747.68,
+    "duration": 1.84,
+    "text": "And if I think about that"
+  },
+  {
+    "start": 2749.52,
+    "duration": 5.12,
+    "text": "Like in my job to be done. I'm just trying to figure out how we can do the same thing. Um,"
+  },
+  {
+    "start": 2755.12,
+    "duration": 2.0,
+    "text": "and not just like in a you know, uh"
+  },
+  {
+    "start": 2758.8,
+    "duration": 5.94,
+    "text": "Predictable revenue model, um, but in a situation that will scale globally across tens of thousands, you know of customers"
+  },
+  {
+    "start": 2765.52,
+    "duration": 2.64,
+    "text": "And in order to do that, I can't I can't have"
+  },
+  {
+    "start": 2769.12,
+    "duration": 5.54,
+    "text": "Um other than focusing on who does what and making sure that we have the right, uh, I would say capabilities"
+  },
+  {
+    "start": 2775.36,
+    "duration": 2.0,
+    "text": "you know kind of on the team like I"
+  },
+  {
+    "start": 2778.08,
+    "duration": 6.16,
+    "text": "I just don't think I would be effective if um, I had to not micromanage or micro coach. Um,"
+  },
+  {
+    "start": 2785.28,
+    "duration": 1.92,
+    "text": "but I just"
+  },
+  {
+    "start": 2787.2,
+    "duration": 4.24,
+    "text": "I think based on the stage of the company the playbook may change but that's you know, one person's opinion"
+  },
+  {
+    "start": 2792.24,
+    "duration": 2.0,
+    "text": "Yeah, okay. Interesting"
+  },
+  {
+    "start": 2794.64,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 2795.76,
+    "duration": 1.84,
+    "text": "and so"
+  },
+  {
+    "start": 2797.6,
+    "duration": 3.2,
+    "text": "I want to uh come back to this idea of team one alignment"
+  },
+  {
+    "start": 2801.12,
+    "duration": 5.94,
+    "text": "And so I I saw that you posted on linkedin you were with your team one recently and you made reference to lenchioni"
+  },
+  {
+    "start": 2807.36,
+    "duration": 3.52,
+    "text": "Who I love um, what do you what else are you doing?"
+  },
+  {
+    "start": 2811.44,
+    "duration": 1.68,
+    "text": "um"
+  },
+  {
+    "start": 2813.12,
+    "duration": 2.0,
+    "text": "What else are you doing to drive?"
+  },
+  {
+    "start": 2815.6,
+    "duration": 4.24,
+    "text": "Team one alignment outside of what we've already covered. What what are the other principles?"
+  },
+  {
+    "start": 2819.84,
+    "duration": 5.68,
+    "text": "I'm assuming that also strategic planning is one of them and we'll we'll get into that. But what are the other big tools for you?"
+  },
+  {
+    "start": 2826.48,
+    "duration": 5.44,
+    "text": "Yeah, I mean I think it's in this like, you know this this like t approach in my mind of like I need to be like"
+  },
+  {
+    "start": 2831.98,
+    "duration": 1.14,
+    "text": "super"
+  },
+  {
+    "start": 2833.12,
+    "duration": 1.12,
+    "text": "uh"
+  },
+  {
+    "start": 2834.24,
+    "duration": 4.58,
+    "text": "Deep in the revenue organization kind of functional expertise, but if I want to build relationships"
+  },
+  {
+    "start": 2839.84,
+    "duration": 2.64,
+    "text": "And I really want to connect, um with my peers"
+  },
+  {
+    "start": 2843.2,
+    "duration": 3.28,
+    "text": "Um, I need to know more and learn as much as I can about what they're doing"
+  },
+  {
+    "start": 2846.96,
+    "duration": 7.12,
+    "text": "um, and uh, even outside of the personal motivations and kind of communication styles, but like really"
+  },
+  {
+    "start": 2854.64,
+    "duration": 2.0,
+    "text": "um how their organizations, um"
+  },
+  {
+    "start": 2857.36,
+    "duration": 6.64,
+    "text": "Uh are also in service of the customer and so i'm thinking about their own assembly lines thinking about their own kind of core functions"
+  },
+  {
+    "start": 2864.64,
+    "duration": 5.36,
+    "text": "um, and not a know-it-all by any means but like I feel like I can drive relevance and"
+  },
+  {
+    "start": 2870.56,
+    "duration": 3.36,
+    "text": "Kind of connect the dots. Um, if i'm a student of kind of all of these things"
+  },
+  {
+    "start": 2874.48,
+    "duration": 4.16,
+    "text": "Um, and I try to reciprocate and not just provide a readout on revenue"
+  },
+  {
+    "start": 2878.72,
+    "duration": 4.64,
+    "text": "But like details why we're doing these certain things and like why it shows up and specifically where we need"
+  },
+  {
+    "start": 2883.76,
+    "duration": 2.0,
+    "text": "our hr team involved or"
+  },
+  {
+    "start": 2886.0,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 2887.2,
+    "duration": 5.2,
+    "text": "Like our finance team is super close to the customer. That's a huge that's a major superpower for us. Um,"
+  },
+  {
+    "start": 2892.96,
+    "duration": 2.0,
+    "text": "because they you know, they"
+  },
+  {
+    "start": 2894.96,
+    "duration": 4.4,
+    "text": "When you think about prioritization and planning like it's not just the revenue team asking for things like, you know"
+  },
+  {
+    "start": 2899.36,
+    "duration": 5.84,
+    "text": "We've got voices all around the place of like what else could we do in service of our customers regardless of the function?"
+  },
+  {
+    "start": 2905.28,
+    "duration": 1.6,
+    "text": "And so I spent a lot of time"
+  },
+  {
+    "start": 2906.88,
+    "duration": 5.14,
+    "text": "Just trying to like learn what's important to them so that um, I can be relevant in building those relationships"
+  },
+  {
+    "start": 2912.5,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 2913.62,
+    "duration": 4.58,
+    "text": "And I probably spend more than 50 percent of my time in that team kind of cross-functionally"
+  },
+  {
+    "start": 2918.98,
+    "duration": 1.28,
+    "text": "uh"
+  },
+  {
+    "start": 2920.26,
+    "duration": 2.0,
+    "text": "Which is challenging. Um"
+  },
+  {
+    "start": 2922.34,
+    "duration": 4.64,
+    "text": "And I and I probably I would say a large portion of the other part of the time is just in front of the customer"
+  },
+  {
+    "start": 2927.54,
+    "duration": 6.4,
+    "text": "um versus uh being in the like day-to-day operations of the business outside of like core things like forecasting board meetings and"
+  },
+  {
+    "start": 2934.42,
+    "duration": 3.28,
+    "text": "um, you know planning sessions and and things like that, but um"
+  },
+  {
+    "start": 2938.58,
+    "duration": 3.2,
+    "text": "I tend to over index there because I feel like if you don't get it right in that room"
+  },
+  {
+    "start": 2942.42,
+    "duration": 2.0,
+    "text": "It just all falls apart down the organization"
+  },
+  {
+    "start": 2946.58,
+    "duration": 5.44,
+    "text": "So building relationships and sort of a deep empathy and understanding is the big principle"
+  },
+  {
+    "start": 2952.9,
+    "duration": 2.0,
+    "text": "values and principles align that we talked about"
+  },
+  {
+    "start": 2956.96,
+    "duration": 2.26,
+    "text": "Collaborative planning any other like major"
+  },
+  {
+    "start": 2960.26,
+    "duration": 3.36,
+    "text": "Team one alignment building things that you put in that list"
+  },
+  {
+    "start": 2964.58,
+    "duration": 2.0,
+    "text": "You know, I mean we invest a lot. Um"
+  },
+  {
+    "start": 2966.98,
+    "duration": 2.24,
+    "text": "And conscious leadership here at g2"
+  },
+  {
+    "start": 2969.78,
+    "duration": 5.04,
+    "text": "um, and there's a ton of like different frameworks table group and valenciano teams, you know have uh,"
+  },
+  {
+    "start": 2975.38,
+    "duration": 7.52,
+    "text": "a great model here as well, but like using a using some sort of external both resource and coach, um to help"
+  },
+  {
+    "start": 2983.38,
+    "duration": 3.6,
+    "text": "um facilitate um connection, um, i've done it at both"
+  },
+  {
+    "start": 2987.7,
+    "duration": 3.44,
+    "text": "uh, both at upwork as well as g2 and I really feel like that is"
+  },
+  {
+    "start": 2991.78,
+    "duration": 6.02,
+    "text": "Um such an asset to that organization, um to have both tools a framework and potentially external help facilitate"
+  },
+  {
+    "start": 2998.5,
+    "duration": 4.08,
+    "text": "Um a lot of that a lot of that journey. Um, because it allows you to get"
+  },
+  {
+    "start": 3003.38,
+    "duration": 1.84,
+    "text": "uh"
+  },
+  {
+    "start": 3005.22,
+    "duration": 1.92,
+    "text": "strong connection and"
+  },
+  {
+    "start": 3007.14,
+    "duration": 0.8,
+    "text": "and"
+  },
+  {
+    "start": 3007.94,
+    "duration": 5.12,
+    "text": "Get to that friction stuff. It gives you a framework to get to friction so that when you get to planning like"
+  },
+  {
+    "start": 3013.46,
+    "duration": 4.4,
+    "text": "You know these elephants in the room don't come out like the elephants, you know, we're taking care of earlier on"
+  },
+  {
+    "start": 3018.42,
+    "duration": 2.0,
+    "text": "Awesome"
+  },
+  {
+    "start": 3020.42,
+    "duration": 1.52,
+    "text": "um"
+  },
+  {
+    "start": 3021.94,
+    "duration": 5.52,
+    "text": "All right. Let's jump to planning this. Uh, this was super useful. I I these are great frameworks"
+  },
+  {
+    "start": 3028.18,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 3029.22,
+    "duration": 0.88,
+    "text": "so"
+  },
+  {
+    "start": 3030.1,
+    "duration": 1.52,
+    "text": "Talk me through"
+  },
+  {
+    "start": 3031.62,
+    "duration": 4.64,
+    "text": "Let's start with annual planning. You're in the middle of it. We just we just presented last week to the board"
+  },
+  {
+    "start": 3036.82,
+    "duration": 2.0,
+    "text": "um, so i'm"
+  },
+  {
+    "start": 3039.22,
+    "duration": 6.96,
+    "text": "Deeply invested in uh imbued in this right now. So just walk through how you go about planning today"
+  },
+  {
+    "start": 3046.82,
+    "duration": 3.92,
+    "text": "What that looks like for g2 and then we'll pack unpack some of the big lessons learned"
+  },
+  {
+    "start": 3051.62,
+    "duration": 2.0,
+    "text": "yeah, I mean I think um"
+  },
+  {
+    "start": 3054.26,
+    "duration": 2.0,
+    "text": "I don't know if there's any uh"
+  },
+  {
+    "start": 3060.16,
+    "duration": 2.5,
+    "text": "Uniqueness, um to g2. Um"
+  },
+  {
+    "start": 3064.26,
+    "duration": 2.0,
+    "text": "And uh meaning that like"
+  },
+  {
+    "start": 3067.06,
+    "duration": 2.32,
+    "text": "You know and we're evolving it even in this cycle"
+  },
+  {
+    "start": 3070.02,
+    "duration": 3.36,
+    "text": "As we've had a you know, a lot of new leaders at the organization. So we have a new cfo"
+  },
+  {
+    "start": 3073.86,
+    "duration": 2.88,
+    "text": "We have a new cro. Um, we have a new cmo"
+  },
+  {
+    "start": 3077.3,
+    "duration": 4.24,
+    "text": "As a part of this kind of planning cycle and so as you can imagine as you add new people to the team"
+  },
+  {
+    "start": 3082.1,
+    "duration": 2.88,
+    "text": "um, uh that planning cycle will continue to evolve and"
+  },
+  {
+    "start": 3085.54,
+    "duration": 0.56,
+    "text": "and"
+  },
+  {
+    "start": 3086.1,
+    "duration": 0.32,
+    "text": "You know"
+  },
+  {
+    "start": 3086.42,
+    "duration": 5.04,
+    "text": "We're obviously focused on to your point earlier around like what is that kind of long-range vision or plan for the organization?"
+  },
+  {
+    "start": 3091.54,
+    "duration": 2.88,
+    "text": "And then how are we backcasting or reverse engineering for what we want?"
+  },
+  {
+    "start": 3094.58,
+    "duration": 2.08,
+    "text": "um, you know for the following year and"
+  },
+  {
+    "start": 3097.3,
+    "duration": 4.24,
+    "text": "and uh, one of the things that we actually did this week, which I really appreciated was"
+  },
+  {
+    "start": 3102.42,
+    "duration": 2.96,
+    "text": "Even though we're in planning. We did a really um,"
+  },
+  {
+    "start": 3105.86,
+    "duration": 4.32,
+    "text": "Thorough job and not really a post-mortem but evaluating like how are we currently doing on the plans?"
+  },
+  {
+    "start": 3111.06,
+    "duration": 3.36,
+    "text": "And you know, I think a lot of organizations miss where it's like, all right"
+  },
+  {
+    "start": 3115.06,
+    "duration": 4.64,
+    "text": "These are our okrs for the year and now we're going to plan the new ones versus like really doing a strong"
+  },
+  {
+    "start": 3119.92,
+    "duration": 5.46,
+    "text": "Post-mortem or just reality therapy of like well what really worked and didn't work. Um,"
+  },
+  {
+    "start": 3126.82,
+    "duration": 2.32,
+    "text": "And it doesn't mean that you shouldn't have the same plan the following year"
+  },
+  {
+    "start": 3129.22,
+    "duration": 2.72,
+    "text": "Like there's probably some consistent themes that will always come through"
+  },
+  {
+    "start": 3132.5,
+    "duration": 3.6,
+    "text": "Um, but if your plan is completely changing every year and i've seen this in organizations"
+  },
+  {
+    "start": 3136.18,
+    "duration": 0.32,
+    "text": "All right"
+  },
+  {
+    "start": 3136.5,
+    "duration": 2.4,
+    "text": "These are the five things we're going to do the next year five kyle"
+  },
+  {
+    "start": 3138.9,
+    "duration": 2.24,
+    "text": "We're going to do these five things and actually we're gonna do the next five things"
+  },
+  {
+    "start": 3141.94,
+    "duration": 0.72,
+    "text": "um"
+  },
+  {
+    "start": 3142.66,
+    "duration": 3.52,
+    "text": "Your customers are going to feel all of that. Um, your teams are going to feel all of that"
+  },
+  {
+    "start": 3146.34,
+    "duration": 2.0,
+    "text": "And so trying to find a way to link"
+  },
+  {
+    "start": 3148.66,
+    "duration": 4.56,
+    "text": "The old to the new but in the spirit of this long-range plan, I think is is really important"
+  },
+  {
+    "start": 3153.22,
+    "duration": 2.64,
+    "text": "and so we did you know really big deep dive on"
+  },
+  {
+    "start": 3156.74,
+    "duration": 3.6,
+    "text": "How successful or unsuccessful we were in our current version"
+  },
+  {
+    "start": 3160.9,
+    "duration": 7.52,
+    "text": "Um, and then making sure that we're we're bringing that uh learning or continuation into the you know, kind of the next year planning cycle"
+  },
+  {
+    "start": 3169.06,
+    "duration": 1.28,
+    "text": "um"
+  },
+  {
+    "start": 3170.34,
+    "duration": 2.72,
+    "text": "It also starts a lot around this idea of like who are we chasing?"
+  },
+  {
+    "start": 3173.62,
+    "duration": 7.04,
+    "text": "Um, and so that we can prioritize resources across product marketing revenue and service of those customers that we want to win or continue to serve"
+  },
+  {
+    "start": 3181.38,
+    "duration": 4.08,
+    "text": "Um, and so there's a lot of alignment up there like we spent a lot of time on like growth levers"
+  },
+  {
+    "start": 3185.94,
+    "duration": 3.76,
+    "text": "And so, you know, we have this, you know bigger horizon matrix of what we want to do"
+  },
+  {
+    "start": 3189.86,
+    "duration": 2.32,
+    "text": "And but then zooming into next year, what are those going to be?"
+  },
+  {
+    "start": 3193.06,
+    "duration": 6.56,
+    "text": "um, and then you have got like your tops down bottoms up assumptions, um that are in partnership with finance revenue of like where you think"
+  },
+  {
+    "start": 3200.26,
+    "duration": 2.24,
+    "text": "um, you know closest to the pin could be"
+  },
+  {
+    "start": 3203.14,
+    "duration": 5.84,
+    "text": "um, and then you look at like, you know, what are the financial goals of the organization that everyone's trying to increase durability and and"
+  },
+  {
+    "start": 3209.62,
+    "duration": 2.08,
+    "text": "It's a rule of 40 in a balanced way"
+  },
+  {
+    "start": 3212.34,
+    "duration": 4.24,
+    "text": "And so, okay, well, let's figure out the containers, you know kind of of those and like what are the puts and takes?"
+  },
+  {
+    "start": 3216.74,
+    "duration": 2.0,
+    "text": "You know that we need to to look at"
+  },
+  {
+    "start": 3218.98,
+    "duration": 5.92,
+    "text": "um, and it's more of a collaboration than a negotiation i've been in the negotiation ones where everyone like comes in and like"
+  },
+  {
+    "start": 3226.18,
+    "duration": 5.36,
+    "text": "They could do and and you'll fund any of them and it's like the biggest waste of time and just like a morale killer"
+  },
+  {
+    "start": 3231.94,
+    "duration": 2.56,
+    "text": "for the organization, um, and so"
+  },
+  {
+    "start": 3235.3,
+    "duration": 1.12,
+    "text": "uh"
+  },
+  {
+    "start": 3236.42,
+    "duration": 2.08,
+    "text": "But yeah, I would say, you know"
+  },
+  {
+    "start": 3238.98,
+    "duration": 4.08,
+    "text": "This idea of like we're keeping our mind on the mercedes, but we need to get the chevy out the door next year, too"
+  },
+  {
+    "start": 3243.62,
+    "duration": 7.04,
+    "text": "um, and you know thinking both long-term and short-term, um, but like having a really conscious effort of being reflective of like"
+  },
+  {
+    "start": 3251.14,
+    "duration": 2.0,
+    "text": "Well, how well do we do on the last one?"
+  },
+  {
+    "start": 3253.22,
+    "duration": 2.0,
+    "text": "And what is the continuation?"
+  },
+  {
+    "start": 3255.22,
+    "duration": 3.28,
+    "text": "Um having the discipline to be like, well, that was a bad idea. We need to punt it"
+  },
+  {
+    "start": 3259.06,
+    "duration": 3.12,
+    "text": "Um, we need to stop doing that. Um the hardest one"
+  },
+  {
+    "start": 3262.74,
+    "duration": 1.28,
+    "text": "And we haven't gotten there yet"
+  },
+  {
+    "start": 3264.02,
+    "duration": 2.64,
+    "text": "But I would assume every organization is going to get there in their planning cycles"
+  },
+  {
+    "start": 3266.66,
+    "duration": 2.0,
+    "text": "You got to get the trade-offs because you can't do everything"
+  },
+  {
+    "start": 3268.98,
+    "duration": 2.8,
+    "text": "um, and so I think the next step before we do our"
+  },
+  {
+    "start": 3272.58,
+    "duration": 4.16,
+    "text": "Uh, you know kind of next steps on the plan is like, all right. Well, what's our stop doing list?"
+  },
+  {
+    "start": 3276.98,
+    "duration": 2.0,
+    "text": "um at the same time and"
+  },
+  {
+    "start": 3279.62,
+    "duration": 2.0,
+    "text": "Those have always been the most, uh"
+  },
+  {
+    "start": 3281.68,
+    "duration": 2.34,
+    "text": "Challenging but rewarding conversations I think in planning"
+  },
+  {
+    "start": 3284.9,
+    "duration": 4.08,
+    "text": "Yeah, that makes a ton of sense. And so what's the starting point? So do you?"
+  },
+  {
+    "start": 3289.86,
+    "duration": 3.78,
+    "text": "When you're trying to come up with your big strategic themes for 2025"
+  },
+  {
+    "start": 3294.18,
+    "duration": 5.36,
+    "text": "Is that out of a three-year plan that you've already architected? Is that from the ceo down?"
+  },
+  {
+    "start": 3299.94,
+    "duration": 4.64,
+    "text": "You know really with the vision or what's the what's the the starting the starting piece?"
+  },
+  {
+    "start": 3304.98,
+    "duration": 4.5,
+    "text": "Yeah, I mean, I think it it's somewhat nuanced by the organization in the stage of the organization"
+  },
+  {
+    "start": 3310.02,
+    "duration": 2.8,
+    "text": "As you can imagine, you know upward we were publicly traded"
+  },
+  {
+    "start": 3313.22,
+    "duration": 2.8,
+    "text": "Um, we had to be a little more short-term and on certain things"
+  },
+  {
+    "start": 3316.74,
+    "duration": 2.8,
+    "text": "You know as a result, but it's still having a long-term vision"
+  },
+  {
+    "start": 3320.18,
+    "duration": 0.88,
+    "text": "um"
+  },
+  {
+    "start": 3321.06,
+    "duration": 2.0,
+    "text": "and but I think it starts with"
+  },
+  {
+    "start": 3323.94,
+    "duration": 2.16,
+    "text": "At least for us it's like the jumping off point"
+  },
+  {
+    "start": 3326.74,
+    "duration": 5.44,
+    "text": "And you know understanding where are we going to end the year on a lot of these different, you know growth levers that we had"
+  },
+  {
+    "start": 3332.42,
+    "duration": 2.0,
+    "text": "um, and for us, you know, we run"
+  },
+  {
+    "start": 3335.14,
+    "duration": 4.0,
+    "text": "The kind of february or end of january to february calendar and so we're in the middle of q4"
+  },
+  {
+    "start": 3339.46,
+    "duration": 4.48,
+    "text": "Um, and while we have good telemetry, but we don't know exactly how it's going to end up. We're hopeful"
+  },
+  {
+    "start": 3344.42,
+    "duration": 2.88,
+    "text": "um that we think know where that jumping off point is and so there's some"
+  },
+  {
+    "start": 3347.94,
+    "duration": 0.88,
+    "text": "uh"
+  },
+  {
+    "start": 3348.82,
+    "duration": 4.8,
+    "text": "Educated guessing based on our models of like where we're going to end and that's that's kind of the jumping off point of like"
+  },
+  {
+    "start": 3353.7,
+    "duration": 2.0,
+    "text": "Where we start, you know kind of from planning"
+  },
+  {
+    "start": 3355.7,
+    "duration": 2.88,
+    "text": "But then it then it does go back up to like who are we chasing?"
+  },
+  {
+    "start": 3358.66,
+    "duration": 2.64,
+    "text": "like where are the growth levers for next year and"
+  },
+  {
+    "start": 3361.78,
+    "duration": 4.64,
+    "text": "Alignment around that then start prioritizing what what teams are going to be invested in as a result"
+  },
+  {
+    "start": 3366.58,
+    "duration": 2.48,
+    "text": "Um, some might get a lot some might get zero some might get less"
+  },
+  {
+    "start": 3370.02,
+    "duration": 4.0,
+    "text": "You know depending on you know, whatever that that strategy is and then you break that up into"
+  },
+  {
+    "start": 3374.58,
+    "duration": 3.14,
+    "text": "You kind of measure methods and you break that up into inputs and outputs"
+  },
+  {
+    "start": 3378.42,
+    "duration": 5.92,
+    "text": "and uh, I mean obviously there's some you know, I would say governance around getting it approved and all those other things but"
+  },
+  {
+    "start": 3384.98,
+    "duration": 4.16,
+    "text": "um, and then it's you know, month over month week over week quarter over quarter, uh,"
+  },
+  {
+    "start": 3390.1,
+    "duration": 3.76,
+    "text": "Learn adapt. It's just like how do we get the signal and either do more or do less do something else?"
+  },
+  {
+    "start": 3394.58,
+    "duration": 1.2,
+    "text": "Okay"
+  },
+  {
+    "start": 3395.78,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 3396.82,
+    "duration": 6.08,
+    "text": "What have been some of the biggest changes or learnings that you've made to annual planning specifically over the years?"
+  },
+  {
+    "start": 3403.62,
+    "duration": 3.2,
+    "text": "Where were the mistakes? What what do you wish you had known?"
+  },
+  {
+    "start": 3407.38,
+    "duration": 4.16,
+    "text": "When you first started building large organizational, uh annual plans"
+  },
+  {
+    "start": 3413.62,
+    "duration": 2.26,
+    "text": "I don't know if it was a mistake or a reality"
+  },
+  {
+    "start": 3417.3,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 3418.5,
+    "duration": 2.32,
+    "text": "Meaning that like there's always going to be things you can't plan for"
+  },
+  {
+    "start": 3421.38,
+    "duration": 4.88,
+    "text": "And I don't I don't think that everyone's intentionally is like do we have like an oh shit button in the plan?"
+  },
+  {
+    "start": 3426.82,
+    "duration": 6.0,
+    "text": "um, and i'll give you an example, um, and i've one that I think upwork navigated really well, but um think about upwork as a"
+  },
+  {
+    "start": 3433.3,
+    "duration": 4.48,
+    "text": "You know global provider of talent and uh, unfortunately when the war in ukraine"
+  },
+  {
+    "start": 3438.34,
+    "duration": 6.56,
+    "text": "Um started which no one could forecast we had a lot of talent on our platform that were working both in ukraine russia belarus and others"
+  },
+  {
+    "start": 3445.46,
+    "duration": 5.12,
+    "text": "Um and based on sanctions our own decisions like, you know, we we decided to do business differently in that region"
+  },
+  {
+    "start": 3451.22,
+    "duration": 3.7,
+    "text": "Um, but we have tens of thousands of talent in that region and customers"
+  },
+  {
+    "start": 3455.8,
+    "duration": 5.36,
+    "text": "Um, and you have to make a material, you know decision, you know aligned with your values and like what you want to do"
+  },
+  {
+    "start": 3461.96,
+    "duration": 4.32,
+    "text": "The whole like annual planning process, uh in some ways kind of kind of goes out the window"
+  },
+  {
+    "start": 3466.84,
+    "duration": 2.0,
+    "text": "um, and uh"
+  },
+  {
+    "start": 3469.32,
+    "duration": 4.64,
+    "text": "I don't know and we managed through that crisis. Um, and I think we're on the right side of"
+  },
+  {
+    "start": 3474.6,
+    "duration": 3.52,
+    "text": "of all of those things and one of my you know, kind of proudest moments of being there but"
+  },
+  {
+    "start": 3478.68,
+    "duration": 1.36,
+    "text": "the uh"
+  },
+  {
+    "start": 3480.04,
+    "duration": 2.0,
+    "text": "I don't know if companies plan for that"
+  },
+  {
+    "start": 3482.76,
+    "duration": 4.32,
+    "text": "Meaning that like do we have a and it doesn't have to be like disaster recovery planning"
+  },
+  {
+    "start": 3487.08,
+    "duration": 3.6,
+    "text": "I mean obviously large organizations like, you know have a whole team for these things"
+  },
+  {
+    "start": 3491.24,
+    "duration": 5.2,
+    "text": "Um, but like a contingency plan if it got a lot worse, what would we do if it got a lot better?"
+  },
+  {
+    "start": 3496.68,
+    "duration": 1.36,
+    "text": "What would we do?"
+  },
+  {
+    "start": 3498.04,
+    "duration": 5.68,
+    "text": "Um, and if it got you know sideways, um, well, we weren't making the progress that we wanted. What would we do?"
+  },
+  {
+    "start": 3504.28,
+    "duration": 2.72,
+    "text": "I think we set an annual plan. We're like, all right, let's go execute"
+  },
+  {
+    "start": 3507.32,
+    "duration": 3.44,
+    "text": "But there's not a lot of agility baked in um should things change like I think"
+  },
+  {
+    "start": 3511.24,
+    "duration": 2.24,
+    "text": "In conversations with other ceros like yourself"
+  },
+  {
+    "start": 3514.04,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 3515.0,
+    "duration": 2.64,
+    "text": "You know, maybe six months ago. Everyone was feeling some pain"
+  },
+  {
+    "start": 3518.12,
+    "duration": 3.52,
+    "text": "I would say like 50 of the people I talked to are like hey things are actually improving"
+  },
+  {
+    "start": 3521.72,
+    "duration": 3.12,
+    "text": "Like q3 was better than we thought it would be q4 is is building"
+  },
+  {
+    "start": 3525.48,
+    "duration": 2.48,
+    "text": "And so like how do we build some of that optimism in our plan?"
+  },
+  {
+    "start": 3528.28,
+    "duration": 4.8,
+    "text": "Uh, yeah. Yeah. Yeah, and so my my I guess my after my long rant there kyle"
+  },
+  {
+    "start": 3533.4,
+    "duration": 2.0,
+    "text": "You can't have like a set and forget it"
+  },
+  {
+    "start": 3535.48,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 3536.6,
+    "duration": 2.0,
+    "text": "there needs to be uh"
+  },
+  {
+    "start": 3538.76,
+    "duration": 5.2,
+    "text": "Some flexibility and contingency planning on good bad or sideways. Um"
+  },
+  {
+    "start": 3544.68,
+    "duration": 5.2,
+    "text": "And I think that's where uh, if you don't anticipate that you're not ready to take advantage of it or get ahead of it"
+  },
+  {
+    "start": 3550.84,
+    "duration": 2.56,
+    "text": "Yeah. Yeah, we've done exactly this"
+  },
+  {
+    "start": 3554.04,
+    "duration": 3.44,
+    "text": "We've built a financial model, which i'm pretty confident. I can go beat"
+  },
+  {
+    "start": 3558.52,
+    "duration": 0.88,
+    "text": "and"
+  },
+  {
+    "start": 3559.4,
+    "duration": 3.68,
+    "text": "There's an upside plan with some exciting product"
+  },
+  {
+    "start": 3563.72,
+    "duration": 6.0,
+    "text": "Bets that we will only go tackle if we see ourselves with the same momentum coming at a q1"
+  },
+  {
+    "start": 3570.04,
+    "duration": 5.12,
+    "text": "q2 that we have today and if it is then it's yeah, it's it's all gas because the"
+  },
+  {
+    "start": 3576.04,
+    "duration": 2.64,
+    "text": "The venture market is heating up like crazy"
+  },
+  {
+    "start": 3579.4,
+    "duration": 1.36,
+    "text": "um"
+  },
+  {
+    "start": 3580.76,
+    "duration": 4.08,
+    "text": "we feel like we're in a really exciting direction, but we also don't want to build a plan that is"
+  },
+  {
+    "start": 3585.72,
+    "duration": 4.0,
+    "text": "the full send plan we want to we want to build a plan that is"
+  },
+  {
+    "start": 3589.88,
+    "duration": 0.96,
+    "text": "Is"
+  },
+  {
+    "start": 3590.84,
+    "duration": 4.32,
+    "text": "That leaves us some wiggle room for unforeseen going wrong and then"
+  },
+  {
+    "start": 3595.8,
+    "duration": 2.0,
+    "text": "Some further unlocks"
+  },
+  {
+    "start": 3597.8,
+    "duration": 2.32,
+    "text": "If things keep going the way that they're going"
+  },
+  {
+    "start": 3600.92,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 3601.88,
+    "duration": 2.0,
+    "text": "and so that brings me to another question, which is"
+  },
+  {
+    "start": 3604.52,
+    "duration": 2.88,
+    "text": "How often do you go back to your annual plans? Like what's the process to?"
+  },
+  {
+    "start": 3608.36,
+    "duration": 1.36,
+    "text": "then actually"
+  },
+  {
+    "start": 3609.72,
+    "duration": 2.0,
+    "text": "Make sure these things are happening"
+  },
+  {
+    "start": 3612.12,
+    "duration": 4.0,
+    "text": "Quarter to quarter month to month. Do you have a review cycle or these?"
+  },
+  {
+    "start": 3616.84,
+    "duration": 2.0,
+    "text": "Like how do you operationalize it throughout the year?"
+  },
+  {
+    "start": 3619.4,
+    "duration": 4.88,
+    "text": "Yeah, so, um as I mentioned a couple times with the v2 mom we've got five"
+  },
+  {
+    "start": 3624.92,
+    "duration": 4.8,
+    "text": "uh, I would say overarching, you know kind of methods throughout the organization and so"
+  },
+  {
+    "start": 3630.44,
+    "duration": 1.28,
+    "text": "um"
+  },
+  {
+    "start": 3631.72,
+    "duration": 6.0,
+    "text": "Uh, there's a lot of different cadences and some of our cross-functional we we elect, you know, um, you know"
+  },
+  {
+    "start": 3637.72,
+    "duration": 3.2,
+    "text": "Stealing from both netflix and amazon this idea of like a single threaded"
+  },
+  {
+    "start": 3641.48,
+    "duration": 6.48,
+    "text": "Informed captain, you know for all these v2. Yeah. Yeah. They have a cross-functional team, you know, that's obviously working together on these things"
+  },
+  {
+    "start": 3648.6,
+    "duration": 7.28,
+    "text": "Each method has a has a single threaded on her. Correct, correct. Nice. Um, uh, and usually"
+  },
+  {
+    "start": 3656.52,
+    "duration": 6.4,
+    "text": "You could say that that you know is like, uh, they have the most surface area of that problem. Um, but sometimes not"
+  },
+  {
+    "start": 3663.16,
+    "duration": 3.6,
+    "text": "Um, you know, sometimes it's another leader to the organization. Um,"
+  },
+  {
+    "start": 3667.4,
+    "duration": 5.92,
+    "text": "Uh that is stepping up, uh, you know to to better help, you know, kind of I would say cross-functionally align around it"
+  },
+  {
+    "start": 3673.88,
+    "duration": 1.28,
+    "text": "um"
+  },
+  {
+    "start": 3675.16,
+    "duration": 4.16,
+    "text": "And uh, they have a number of different cases, um, you know as a part of that"
+  },
+  {
+    "start": 3680.04,
+    "duration": 2.0,
+    "text": "I think we do a decent job of communication"
+  },
+  {
+    "start": 3682.68,
+    "duration": 3.36,
+    "text": "both on a monthly quarterly basis of like how all of our"
+  },
+  {
+    "start": 3686.68,
+    "duration": 2.0,
+    "text": "Both measures and metrics are latting up"
+  },
+  {
+    "start": 3688.68,
+    "duration": 0.56,
+    "text": "um"
+  },
+  {
+    "start": 3689.24,
+    "duration": 4.24,
+    "text": "you know we had our all hands actually today here in chicago and one of one of the parts of that every month is"
+  },
+  {
+    "start": 3693.8,
+    "duration": 4.24,
+    "text": "We kind of go through the v2 mom performance and we try to pick out some stories of things that are going well things"
+  },
+  {
+    "start": 3698.04,
+    "duration": 2.8,
+    "text": "That are not going well and what are we doing on it? Um"
+  },
+  {
+    "start": 3701.56,
+    "duration": 5.28,
+    "text": "And then we do I would say more uh, probably more like a qbr format you would think um, but every month"
+  },
+  {
+    "start": 3707.4,
+    "duration": 3.2,
+    "text": "uh, the cross-functional team that is um assigned to"
+  },
+  {
+    "start": 3711.16,
+    "duration": 4.88,
+    "text": "You know to that method will come in and do a deeper dive with the senior leadership team"
+  },
+  {
+    "start": 3716.52,
+    "duration": 5.36,
+    "text": "All the folks that are on their team, um, and it's not scorecarding or report cards. Like those are like set in advance"
+  },
+  {
+    "start": 3722.28,
+    "duration": 4.16,
+    "text": "This is more around the risks dependencies. Where are we stuck? Where do we need to more? What do we learn?"
+  },
+  {
+    "start": 3726.68,
+    "duration": 1.44,
+    "text": "What do we want to do differently?"
+  },
+  {
+    "start": 3728.12,
+    "duration": 5.36,
+    "text": "Um, and I would say those have gotten more collaborative in nature versus a readout. He can just you could send the readout"
+  },
+  {
+    "start": 3734.04,
+    "duration": 2.88,
+    "text": "Yeah, yeah, write it write it and read it discussion base. That's right"
+  },
+  {
+    "start": 3737.48,
+    "duration": 4.32,
+    "text": "um, and then as a senior leadership team, um, as I mentioned, uh,"
+  },
+  {
+    "start": 3742.28,
+    "duration": 3.68,
+    "text": "I don't know if we were on recording or not, but we do these sync weeks so we get together for a month"
+  },
+  {
+    "start": 3746.6,
+    "duration": 1.04,
+    "text": "and"
+  },
+  {
+    "start": 3747.64,
+    "duration": 4.48,
+    "text": "The v2 mom review is a big part of that. We have a couple off sites a year v2 mom's a big part of that"
+  },
+  {
+    "start": 3752.68,
+    "duration": 2.0,
+    "text": "uh, and it's it's uh"
+  },
+  {
+    "start": 3755.64,
+    "duration": 4.8,
+    "text": "If you believe in this idea of like what gets talked about gets done or like what gets measured gets managed"
+  },
+  {
+    "start": 3760.6,
+    "duration": 5.28,
+    "text": "Like we try to we try to vote with our our wallet, uh our time wallets, um in that way"
+  },
+  {
+    "start": 3766.76,
+    "duration": 2.4,
+    "text": "Right. Yeah, you were talking about sync week"
+  },
+  {
+    "start": 3769.7,
+    "duration": 2.26,
+    "text": "Before we recorded so maybe just give some more"
+  },
+  {
+    "start": 3772.84,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 3773.8,
+    "duration": 2.64,
+    "text": "Unpack that a little bit like what what does the sync week do?"
+  },
+  {
+    "start": 3776.84,
+    "duration": 3.76,
+    "text": "What do you build around it would love to share more with the audience there"
+  },
+  {
+    "start": 3781.4,
+    "duration": 5.52,
+    "text": "Yeah, um, so if you think about g2 today, we've got you know close to 600 employees, um globally"
+  },
+  {
+    "start": 3787.48,
+    "duration": 3.22,
+    "text": "Um, and we have some hubs and in places like chicago"
+  },
+  {
+    "start": 3791.64,
+    "duration": 2.56,
+    "text": "London bangalore, but we also have a distributed team"
+  },
+  {
+    "start": 3794.84,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 3795.8,
+    "duration": 2.0,
+    "text": "around the world and"
+  },
+  {
+    "start": 3797.8,
+    "duration": 5.84,
+    "text": "Uh, you know, we maximize our hybrid environment, you know, there are some teams that are I would say more co-located in hubs"
+  },
+  {
+    "start": 3803.64,
+    "duration": 2.64,
+    "text": "But you know, we have this distributed model as well"
+  },
+  {
+    "start": 3807.0,
+    "duration": 6.4,
+    "text": "And as a leadership team we decided we were going to get together for three days every month to spend time together"
+  },
+  {
+    "start": 3813.96,
+    "duration": 2.64,
+    "text": "and uh, we we realized that"
+  },
+  {
+    "start": 3817.16,
+    "duration": 6.0,
+    "text": "In addition to the I would say distributed cadences that we had or virtual cadences like it really allowed us to like move the needle quickly"
+  },
+  {
+    "start": 3823.72,
+    "duration": 3.12,
+    "text": "um and be a lot more collaborative, um"
+  },
+  {
+    "start": 3828.12,
+    "duration": 5.2,
+    "text": "And so we said or at least in revenue we said hey, why don't we do that in the revenue organization as well?"
+  },
+  {
+    "start": 3833.64,
+    "duration": 4.56,
+    "text": "And so uh one week of every month, uh, we invite everybody that's local to chicago"
+  },
+  {
+    "start": 3838.28,
+    "duration": 4.24,
+    "text": "We don't have everyone flying for it, but a lot of our team members and revenues are pretty close to chicago"
+  },
+  {
+    "start": 3843.0,
+    "duration": 2.0,
+    "text": "and so we have them come in and we try to"
+  },
+  {
+    "start": 3845.4,
+    "duration": 3.68,
+    "text": "Tuesday wednesday thursday, and so we try to do all of the uh, one to many"
+  },
+  {
+    "start": 3849.78,
+    "duration": 3.94,
+    "text": "Experiences that same week and so we'll have our all hands. We're doing a ton of"
+  },
+  {
+    "start": 3854.28,
+    "duration": 5.44,
+    "text": "uh, I would say sales process stage and like medfit qualification work right now with our sales team and so we try to"
+  },
+  {
+    "start": 3860.6,
+    "duration": 2.48,
+    "text": "Stage all of those experiences, you know kind of live"
+  },
+  {
+    "start": 3863.72,
+    "duration": 6.96,
+    "text": "We have a customer event. Um, you know here we'll have 30 customers that are doing a kind of a product adoption session this afternoon"
+  },
+  {
+    "start": 3871.08,
+    "duration": 4.0,
+    "text": "Um, we've got partners that have flown in and the leadership team's taking them to dinner this evening"
+  },
+  {
+    "start": 3875.08,
+    "duration": 3.3,
+    "text": "And so we try to like jam it all in to create some energy and excitement"
+  },
+  {
+    "start": 3879.08,
+    "duration": 0.88,
+    "text": "um"
+  },
+  {
+    "start": 3879.96,
+    "duration": 6.16,
+    "text": "and maximize it will be distributed but one week a month we're going to be as collaborative as possible and"
+  },
+  {
+    "start": 3886.68,
+    "duration": 2.8,
+    "text": "We're a couple months in and we're excited about the results so far"
+  },
+  {
+    "start": 3890.28,
+    "duration": 2.0,
+    "text": "nice, and so that's your"
+  },
+  {
+    "start": 3892.76,
+    "duration": 7.2,
+    "text": "Revenue leadership team all the way down to ic's every most most people come into chicago for for those couple days for the the ones"
+  },
+  {
+    "start": 3899.96,
+    "duration": 4.48,
+    "text": "that are uh, local we're not we're not asking folks to fly unless their team is"
+  },
+  {
+    "start": 3905.16,
+    "duration": 4.0,
+    "text": "Is you know has a meaningful reason for them to come in and do that and they'll use their you know"
+  },
+  {
+    "start": 3909.24,
+    "duration": 2.64,
+    "text": "tne budgets to to pull that through we're not um,"
+  },
+  {
+    "start": 3912.68,
+    "duration": 6.32,
+    "text": "uh, we're not against it by any means but we're just trying to maximize but I think with all the noise with return to office and"
+  },
+  {
+    "start": 3919.8,
+    "duration": 3.92,
+    "text": "All these things like we're just trying to be very transparent up front of like we're just going to try and do both"
+  },
+  {
+    "start": 3924.28,
+    "duration": 2.4,
+    "text": "We're going to maximize, you know this distributed model"
+  },
+  {
+    "start": 3926.68,
+    "duration": 5.12,
+    "text": "But then we're also going to recognize and celebrate these, you know in together or together experiences where we can"
+  },
+  {
+    "start": 3932.84,
+    "duration": 1.28,
+    "text": "Yeah"
+  },
+  {
+    "start": 3934.12,
+    "duration": 5.44,
+    "text": "We're going through the same thing right now. I'm i'm in our new san francisco office. We've been 100 remote"
+  },
+  {
+    "start": 3939.8,
+    "duration": 3.52,
+    "text": "uh the entire company's history and we're thinking through"
+  },
+  {
+    "start": 3944.12,
+    "duration": 6.16,
+    "text": "You know, what are what are the ways to take all of the benefits of being remote like I think we are as a as a"
+  },
+  {
+    "start": 3950.34,
+    "duration": 1.06,
+    "text": "company"
+  },
+  {
+    "start": 3951.4,
+    "duration": 1.84,
+    "text": "staying remote in our"
+  },
+  {
+    "start": 3953.24,
+    "duration": 2.0,
+    "text": "like in our foundation"
+  },
+  {
+    "start": 3955.72,
+    "duration": 4.96,
+    "text": "And then layering on enough in-person connectivity to go faster in a bunch of ways"
+  },
+  {
+    "start": 3961.08,
+    "duration": 4.08,
+    "text": "and so that means a commitment to writing and documentation a commitment to"
+  },
+  {
+    "start": 3965.56,
+    "duration": 6.32,
+    "text": "the remote digital experience being just as good as the in-person experience not over orienting to"
+  },
+  {
+    "start": 3972.76,
+    "duration": 3.7,
+    "text": "Um having people in person that don't need that that level of collaboration"
+  },
+  {
+    "start": 3977.24,
+    "duration": 2.64,
+    "text": "It's a tricky needle to thread for sure, but"
+  },
+  {
+    "start": 3980.6,
+    "duration": 3.76,
+    "text": "Clearly people need to come together. I'm here for a product off-site this week"
+  },
+  {
+    "start": 3984.84,
+    "duration": 4.32,
+    "text": "And it's just magic, you know, like secret marathon projects and the energy"
+  },
+  {
+    "start": 3990.28,
+    "duration": 2.0,
+    "text": "There is some place for it"
+  },
+  {
+    "start": 3992.36,
+    "duration": 2.0,
+    "text": "I I put it in this. Um"
+  },
+  {
+    "start": 3995.0,
+    "duration": 1.52,
+    "text": "Uh, my dad used to always say eric"
+  },
+  {
+    "start": 3996.52,
+    "duration": 4.24,
+    "text": "You can't walk and chew gum like he would pick on me with this like you got to be able to walk and chew gum"
+  },
+  {
+    "start": 4001.32,
+    "duration": 2.0,
+    "text": "And there are so many ands"
+  },
+  {
+    "start": 4004.28,
+    "duration": 3.76,
+    "text": "Uh opportunities I think in business, but everyone's like polarized in their oars"
+  },
+  {
+    "start": 4008.2,
+    "duration": 4.24,
+    "text": "Well, it's either this or it's that and i'm like, yeah, but there's so much magic in the and"
+  },
+  {
+    "start": 4013.32,
+    "duration": 2.0,
+    "text": "um, and uh"
+  },
+  {
+    "start": 4015.96,
+    "duration": 6.8,
+    "text": "I think the distributed work is like great like, um, let's maximize both. Um, you know, yeah as a part of that"
+  },
+  {
+    "start": 4022.76,
+    "duration": 2.88,
+    "text": "You don't have to be all in on one side to be flexible. Um"
+  },
+  {
+    "start": 4026.44,
+    "duration": 6.32,
+    "text": "Uh be uh agile, um, and you know coach celebrate the opportunities in both versus I think"
+  },
+  {
+    "start": 4033.4,
+    "duration": 6.48,
+    "text": "Similar to most things people are dug in on uh on one side versus maybe thinking about no, it's it's an and play"
+  },
+  {
+    "start": 4040.6,
+    "duration": 1.04,
+    "text": "Yeah"
+  },
+  {
+    "start": 4041.64,
+    "duration": 2.0,
+    "text": "for sort of bizarre"
+  },
+  {
+    "start": 4043.8,
+    "duration": 2.0,
+    "text": "moral reasons it seems like"
+  },
+  {
+    "start": 4046.28,
+    "duration": 5.76,
+    "text": "people have taken a there's a religious fervor to in-person versus remote and"
+  },
+  {
+    "start": 4052.76,
+    "duration": 4.88,
+    "text": "You know clearly there's like lots of benefits to either and different working models make sense and company stage"
+  },
+  {
+    "start": 4058.2,
+    "duration": 1.68,
+    "text": "yeah, my my"
+  },
+  {
+    "start": 4059.88,
+    "duration": 5.84,
+    "text": "uh, the fastest way that I pass judgment on somebody when I see their writing on linkedin is just uh,"
+  },
+  {
+    "start": 4066.2,
+    "duration": 2.0,
+    "text": "binary thinking and"
+  },
+  {
+    "start": 4068.52,
+    "duration": 5.28,
+    "text": "Absolute conviction in things because there's just so much nuance in the world. I I um,"
+  },
+  {
+    "start": 4074.36,
+    "duration": 2.64,
+    "text": "We get that question a lot of like well, what are you doing with the sales team?"
+  },
+  {
+    "start": 4077.08,
+    "duration": 2.72,
+    "text": "And i'm like well, it kind of doesn't matter you need to do what's best for you"
+  },
+  {
+    "start": 4080.44,
+    "duration": 4.4,
+    "text": "um, and all these other things are just data inputs that you can use but like um,"
+  },
+  {
+    "start": 4085.72,
+    "duration": 6.24,
+    "text": "uh, like it's it's a nuanced answer and it depends on your company your culture your go-to-market, um, all those things and"
+  },
+  {
+    "start": 4092.6,
+    "duration": 1.28,
+    "text": "um"
+  },
+  {
+    "start": 4093.88,
+    "duration": 1.6,
+    "text": "uh, you like"
+  },
+  {
+    "start": 4095.48,
+    "duration": 3.52,
+    "text": "I don't think that's something you just want to copycat. You need to be intentional in how you think about it"
+  },
+  {
+    "start": 4099.72,
+    "duration": 4.64,
+    "text": "Yeah makes makes a ton of sense. Um, all right last question before we"
+  },
+  {
+    "start": 4105.0,
+    "duration": 2.48,
+    "text": "uh move to our lightning round"
+  },
+  {
+    "start": 4108.04,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 4109.32,
+    "duration": 1.12,
+    "text": "so you've got"
+  },
+  {
+    "start": 4110.44,
+    "duration": 5.44,
+    "text": "These cadences sort of monthly and quarterly to review the plan to track progress"
+  },
+  {
+    "start": 4116.36,
+    "duration": 3.92,
+    "text": "At what point do you make change? Like what when what is the point where you say?"
+  },
+  {
+    "start": 4121.48,
+    "duration": 4.8,
+    "text": "This plan is no longer connected to the reality of the market today or just like it was the wrong idea"
+  },
+  {
+    "start": 4126.52,
+    "duration": 2.4,
+    "text": "And and how do you refactor on the go?"
+  },
+  {
+    "start": 4130.28,
+    "duration": 2.0,
+    "text": "so I think this is the um,"
+  },
+  {
+    "start": 4133.56,
+    "duration": 1.68,
+    "text": "uh"
+  },
+  {
+    "start": 4135.24,
+    "duration": 4.96,
+    "text": "Like the real opportunity um for organizations and like g2 we're trying to navigate through it as well"
+  },
+  {
+    "start": 4140.52,
+    "duration": 2.96,
+    "text": "Because if as I mentioned before if you're really aligned on the measures"
+  },
+  {
+    "start": 4144.44,
+    "duration": 1.52,
+    "text": "and uh"
+  },
+  {
+    "start": 4145.96,
+    "duration": 1.6,
+    "text": "Like i'll give you an example like, you know"
+  },
+  {
+    "start": 4147.56,
+    "duration": 2.16,
+    "text": "One of the things we're trying to do is increase, you know"
+  },
+  {
+    "start": 4149.8,
+    "duration": 5.2,
+    "text": "Customer roi to you know, obviously reduce churn in the business like a lot of organizations are thinking through this"
+  },
+  {
+    "start": 4155.8,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 4156.92,
+    "duration": 4.24,
+    "text": "The team should feel empowered as long as it's in that container of our core values"
+  },
+  {
+    "start": 4161.4,
+    "duration": 5.2,
+    "text": "Um as well as it's um, you know things that are what are two-way doors versus a one-way door"
+  },
+  {
+    "start": 4167.16,
+    "duration": 2.0,
+    "text": "um, they should be empowered to like"
+  },
+  {
+    "start": 4169.56,
+    "duration": 1.12,
+    "text": "uh"
+  },
+  {
+    "start": 4170.68,
+    "duration": 2.64,
+    "text": "Be very agile and test and learn as fast as possible"
+  },
+  {
+    "start": 4173.96,
+    "duration": 5.84,
+    "text": "um, they're going to be some core bets that they're going to make um, you know that takes some more instrumentation and alignment but like"
+  },
+  {
+    "start": 4180.44,
+    "duration": 5.04,
+    "text": "We don't want to get in the way of of them trying to figure out how to move that metric, you know for themselves"
+  },
+  {
+    "start": 4185.8,
+    "duration": 2.56,
+    "text": "And so in some ways it should constantly be evolving"
+  },
+  {
+    "start": 4188.6,
+    "duration": 3.76,
+    "text": "Um based on what that signal is and different teams are going to get different signals"
+  },
+  {
+    "start": 4192.92,
+    "duration": 4.48,
+    "text": "um as a part of that and so I would say that the expectation is is"
+  },
+  {
+    "start": 4198.04,
+    "duration": 5.2,
+    "text": "Um that you should be entrepreneurial which is one of our core values and how you're attacking that problem all the time"
+  },
+  {
+    "start": 4203.32,
+    "duration": 2.08,
+    "text": "And we'll celebrate that even if it's a failed plot"
+  },
+  {
+    "start": 4206.2,
+    "duration": 3.36,
+    "text": "Um, I would say the bigger swings that are say more"
+  },
+  {
+    "start": 4210.76,
+    "duration": 6.4,
+    "text": "Systems thinking about how we're doing, you know different things as an organization, especially if they're lined across product marketing and revenue"
+  },
+  {
+    "start": 4217.8,
+    "duration": 1.68,
+    "text": "um"
+  },
+  {
+    "start": 4219.48,
+    "duration": 2.56,
+    "text": "I would say quarterly is probably um"
+  },
+  {
+    "start": 4222.92,
+    "duration": 2.88,
+    "text": "Our current uh cadence of that because we've got enough"
+  },
+  {
+    "start": 4226.28,
+    "duration": 4.0,
+    "text": "Runway to understand signal that we want to continue and stay the course or if we want to pivot"
+  },
+  {
+    "start": 4230.52,
+    "duration": 2.0,
+    "text": "um, or if we want to double down"
+  },
+  {
+    "start": 4232.52,
+    "duration": 5.92,
+    "text": "like in certain areas, but but our hope would be is that the teams that are responsible for the"
+  },
+  {
+    "start": 4239.0,
+    "duration": 1.12,
+    "text": "the how"
+  },
+  {
+    "start": 4240.12,
+    "duration": 4.72,
+    "text": "Are constantly, you know trying new things and that's one of the reasons I love being in go-to-market like yeah"
+  },
+  {
+    "start": 4244.84,
+    "duration": 3.84,
+    "text": "we have tools and processes and obviously we partner with product and marketing but like"
+  },
+  {
+    "start": 4249.16,
+    "duration": 5.92,
+    "text": "We can be so creative. Um and how we both communicate how we like structure certain things the cases"
+  },
+  {
+    "start": 4255.08,
+    "duration": 2.0,
+    "text": "We want to run with our customers messaging"
+  },
+  {
+    "start": 4257.72,
+    "duration": 2.56,
+    "text": "And so we should be we should be changing it up all the time"
+  },
+  {
+    "start": 4261.24,
+    "duration": 1.84,
+    "text": "Nice. Awesome"
+  },
+  {
+    "start": 4263.08,
+    "duration": 4.96,
+    "text": "um, okay, uh quick fire round, uh, and then we'll wrap it up"
+  },
+  {
+    "start": 4268.6,
+    "duration": 1.76,
+    "text": "What do you think separates?"
+  },
+  {
+    "start": 4270.36,
+    "duration": 4.72,
+    "text": "A truly exceptional great best-in-class cro from just like run-of-the-mill"
+  },
+  {
+    "start": 4281.4,
+    "duration": 2.0,
+    "text": "The ones that i'd learn the most from"
+  },
+  {
+    "start": 4285.88,
+    "duration": 2.0,
+    "text": "Um"
+  },
+  {
+    "start": 4289.48,
+    "duration": 2.64,
+    "text": "Have this like commitment to constantly, uh"
+  },
+  {
+    "start": 4293.24,
+    "duration": 5.04,
+    "text": "Uh stretching themselves and and learning. Um, I remember, you know the conversation that we had, you know"
+  },
+  {
+    "start": 4298.28,
+    "duration": 2.24,
+    "text": "Maybe a month and a half ago when we were talking about this podcast"
+  },
+  {
+    "start": 4300.68,
+    "duration": 0.24,
+    "text": "um"
+  },
+  {
+    "start": 4300.92,
+    "duration": 2.72,
+    "text": "there were a number of takeaways I had in that call and I can see"
+  },
+  {
+    "start": 4304.12,
+    "duration": 3.84,
+    "text": "just in my interactions with you and how you show up in linkedin and like some of the voices and"
+  },
+  {
+    "start": 4308.44,
+    "duration": 3.52,
+    "text": "And things that you obviously, you know had on this podcast like you have this like deep"
+  },
+  {
+    "start": 4312.66,
+    "duration": 4.42,
+    "text": "Commitment to constantly stretching yourself and like taking in application of new things"
+  },
+  {
+    "start": 4317.8,
+    "duration": 2.08,
+    "text": "um, and you don't think of your"
+  },
+  {
+    "start": 4320.76,
+    "duration": 1.84,
+    "text": "uh"
+  },
+  {
+    "start": 4322.6,
+    "duration": 5.28,
+    "text": "You're probably constantly expanding your network and constantly looking for like how do I like feed my mind good stuff and like soak up new"
+  },
+  {
+    "start": 4327.88,
+    "duration": 2.0,
+    "text": "Things that you could steal and apply"
+  },
+  {
+    "start": 4330.36,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 4331.32,
+    "duration": 3.92,
+    "text": "and very just as much external as you are probably internally focused, um,"
+  },
+  {
+    "start": 4335.4,
+    "duration": 6.64,
+    "text": "and that might seem like a chore or like a how do I get started or um, I love it. I have a blast doing it"
+  },
+  {
+    "start": 4342.12,
+    "duration": 3.2,
+    "text": "Yeah, or or hey, am I really going to be the most effective and i'm like, yeah"
+  },
+  {
+    "start": 4345.32,
+    "duration": 5.68,
+    "text": "but if you're not constantly taking like outside in thinking like you're not growing as an organization either like the like"
+  },
+  {
+    "start": 4352.36,
+    "duration": 2.0,
+    "text": "And so I feel like the people that I learned the most from"
+  },
+  {
+    "start": 4354.6,
+    "duration": 2.72,
+    "text": "Um, and where i've had the biggest ahas is like you got to get out"
+  },
+  {
+    "start": 4358.04,
+    "duration": 4.88,
+    "text": "Um, everyone's going through the same thing. It might be a little nuanced and different but like we're all more alike than different"
+  },
+  {
+    "start": 4363.48,
+    "duration": 3.12,
+    "text": "um, like the best leaders have a commitment to like growing their"
+  },
+  {
+    "start": 4367.32,
+    "duration": 2.56,
+    "text": "their uh, not just network, but but um"
+  },
+  {
+    "start": 4370.5,
+    "duration": 5.22,
+    "text": "Experiences and learning just as much outside of the walls as they do inside their corporate walls. Yeah"
+  },
+  {
+    "start": 4376.44,
+    "duration": 2.0,
+    "text": "And i've learned so much from other"
+  },
+  {
+    "start": 4379.48,
+    "duration": 1.6,
+    "text": "uh other"
+  },
+  {
+    "start": 4381.08,
+    "duration": 7.28,
+    "text": "Facets of the world like learning from product leaders and engineering folks and learning a ton about marketing like, you know that"
+  },
+  {
+    "start": 4388.84,
+    "duration": 4.16,
+    "text": "You I think I don't know if you referenced the book directly, but david epstein's range"
+  },
+  {
+    "start": 4393.64,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 4394.76,
+    "duration": 2.0,
+    "text": "Yeah, it's it's uh"
+  },
+  {
+    "start": 4397.08,
+    "duration": 2.0,
+    "text": "There's so much truth there"
+  },
+  {
+    "start": 4399.16,
+    "duration": 1.04,
+    "text": "um"
+  },
+  {
+    "start": 4400.2,
+    "duration": 4.72,
+    "text": "Well, it's another one of those it's another one of those and stories like you can do 10 000 hours"
+  },
+  {
+    "start": 4405.08,
+    "duration": 4.56,
+    "text": "Like the tiger woods approach or you can be roger federer like both can both can be true"
+  },
+  {
+    "start": 4410.6,
+    "duration": 3.7,
+    "text": "Yeah, toby luke, uh from shop advice to say being t-shaped"
+  },
+  {
+    "start": 4414.92,
+    "duration": 2.48,
+    "text": "So what is your what is the the deep part of your t?"
+  },
+  {
+    "start": 4417.48,
+    "duration": 5.52,
+    "text": "What do you what do you have those 10 20 50 000 hours at and then how do you develop breadth?"
+  },
+  {
+    "start": 4423.16,
+    "duration": 2.0,
+    "text": "I I think it's totally piece of it"
+  },
+  {
+    "start": 4426.04,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 4427.16,
+    "duration": 4.72,
+    "text": "What is the most common advice you find yourself giving to your leaders or mentees people?"
+  },
+  {
+    "start": 4431.88,
+    "duration": 4.16,
+    "text": "You're you're taking into your team. What like what do you find yourself going back to the most?"
+  },
+  {
+    "start": 4440.2,
+    "duration": 2.0,
+    "text": "I"
+  },
+  {
+    "start": 4442.68,
+    "duration": 3.84,
+    "text": "I spend a lot of time and this is like an amazon steal. Um,"
+  },
+  {
+    "start": 4447.0,
+    "duration": 4.64,
+    "text": "But I spend a lot of time on like what are your own input metrics regardless of your role?"
+  },
+  {
+    "start": 4452.68,
+    "duration": 2.4,
+    "text": "um understanding that our biggest competitor is time"
+  },
+  {
+    "start": 4456.12,
+    "duration": 4.08,
+    "text": "And like, you know choosing you to one thing means we're explicitly hopefully choosing not to do something else"
+  },
+  {
+    "start": 4460.52,
+    "duration": 3.04,
+    "text": "and if you don't understand like what that mile marker of signal is"
+  },
+  {
+    "start": 4464.2,
+    "duration": 0.8,
+    "text": "like"
+  },
+  {
+    "start": 4465.0,
+    "duration": 6.16,
+    "text": "You end up like getting off track. Um, and you go through these course corrections that are that are that are challenging and they're hard"
+  },
+  {
+    "start": 4471.8,
+    "duration": 1.44,
+    "text": "and so, um"
+  },
+  {
+    "start": 4473.24,
+    "duration": 4.4,
+    "text": "Regardless of your role like what are the input metrics? Everything is a funnel I think in business"
+  },
+  {
+    "start": 4477.72,
+    "duration": 4.56,
+    "text": "and so like what are the input metrics to just like give you confidence or conviction that um,"
+  },
+  {
+    "start": 4483.08,
+    "duration": 2.0,
+    "text": "You're on or off track. Um"
+  },
+  {
+    "start": 4485.72,
+    "duration": 1.04,
+    "text": "and"
+  },
+  {
+    "start": 4486.76,
+    "duration": 1.76,
+    "text": "And getting it wrong is okay"
+  },
+  {
+    "start": 4488.52,
+    "duration": 3.84,
+    "text": "Meaning like these losses in altitude are going to happen. It's all about how you react"
+  },
+  {
+    "start": 4493.0,
+    "duration": 4.4,
+    "text": "And um and what you learn, you know kind of forward from that but I spent a lot of time on that"
+  },
+  {
+    "start": 4497.48,
+    "duration": 2.0,
+    "text": "um in the revenue org like"
+  },
+  {
+    "start": 4499.72,
+    "duration": 1.36,
+    "text": "probably too much"
+  },
+  {
+    "start": 4501.08,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 4502.04,
+    "duration": 2.0,
+    "text": "but it uh, as you can imagine like"
+  },
+  {
+    "start": 4504.28,
+    "duration": 1.68,
+    "text": "especially with a seller or team i'm like"
+  },
+  {
+    "start": 4505.96,
+    "duration": 5.52,
+    "text": "All right, let's pull up demo metrics because I can actually go back 67 days ago and tell you like when you got off track"
+  },
+  {
+    "start": 4512.12,
+    "duration": 3.12,
+    "text": "Yeah, in fact one of our tops one of our top sellers. Um,"
+  },
+  {
+    "start": 4515.88,
+    "duration": 5.36,
+    "text": "Uh, you know, she's had a hundred percent of her plan, uh in october for the year and you can see it"
+  },
+  {
+    "start": 4521.88,
+    "duration": 2.8,
+    "text": "It's it's just starting to fall off and i'm like don't do it"
+  },
+  {
+    "start": 4525.0,
+    "duration": 4.48,
+    "text": "Like don't do it. Like you're you're an accelerator dollars and you're gonna hate it come february"
+  },
+  {
+    "start": 4529.56,
+    "duration": 1.76,
+    "text": "Like you gotta fill that funnel"
+  },
+  {
+    "start": 4531.32,
+    "duration": 1.68,
+    "text": "So yeah"
+  },
+  {
+    "start": 4533.0,
+    "duration": 5.7,
+    "text": "Yeah, that is such a good one. Um, what's the hardest lesson you've had to learn in your career?"
+  },
+  {
+    "start": 4539.34,
+    "duration": 2.0,
+    "text": "You"
+  },
+  {
+    "start": 4550.14,
+    "duration": 2.0,
+    "text": "There's a bunch um"
+  },
+  {
+    "start": 4556.78,
+    "duration": 3.38,
+    "text": "And it's probably around that you might heard me say earlier like the only thing difficult"
+  },
+  {
+    "start": 4560.86,
+    "duration": 2.88,
+    "text": "About difficult conversations is not having them"
+  },
+  {
+    "start": 4565.02,
+    "duration": 2.0,
+    "text": "and I would say"
+  },
+  {
+    "start": 4567.98,
+    "duration": 2.0,
+    "text": "All of the big things, uh"
+  },
+  {
+    "start": 4570.46,
+    "duration": 4.66,
+    "text": "That i've learned from or like failures along the way I talk a lot about these ideas like losses and altitude"
+  },
+  {
+    "start": 4576.3,
+    "duration": 2.0,
+    "text": "You saw you saw them coming"
+  },
+  {
+    "start": 4578.3,
+    "duration": 2.64,
+    "text": "And you had to do them over again. You would have done it all faster"
+  },
+  {
+    "start": 4581.9,
+    "duration": 2.0,
+    "text": "and uh, oh, yeah"
+  },
+  {
+    "start": 4584.14,
+    "duration": 5.84,
+    "text": "And that's hard even like the really hard decisions. Um, you probably would have made faster. Um, yeah, but it's"
+  },
+  {
+    "start": 4590.7,
+    "duration": 2.0,
+    "text": "It's not procrastination"
+  },
+  {
+    "start": 4593.1,
+    "duration": 2.8,
+    "text": "It's it's not like lack of self-awareness. Um"
+  },
+  {
+    "start": 4596.62,
+    "duration": 2.32,
+    "text": "I think we're just human and uh"
+  },
+  {
+    "start": 4600.06,
+    "duration": 1.52,
+    "text": "Hard things are hard"
+  },
+  {
+    "start": 4601.58,
+    "duration": 2.0,
+    "text": "Mm-hmm for sure"
+  },
+  {
+    "start": 4603.66,
+    "duration": 0.96,
+    "text": "um"
+  },
+  {
+    "start": 4604.62,
+    "duration": 5.2,
+    "text": "Last question i'm particularly excited to ask you this one. What's the best thing you've read in the last 12 months?"
+  },
+  {
+    "start": 4610.7,
+    "duration": 2.0,
+    "text": "Oh, man. Um"
+  },
+  {
+    "start": 4612.78,
+    "duration": 0.72,
+    "text": "uh"
+  },
+  {
+    "start": 4613.5,
+    "duration": 3.76,
+    "text": "I finished it last weekend. So i'm a big seth goddard fan and so if you go back to"
+  },
+  {
+    "start": 4619.02,
+    "duration": 3.68,
+    "text": "Or or all marketers or liars linchpin whatever but uh,"
+  },
+  {
+    "start": 4623.02,
+    "duration": 3.36,
+    "text": "He actually wrote this book called small is the new big but that's that's another good one"
+  },
+  {
+    "start": 4626.38,
+    "duration": 3.54,
+    "text": "But that this last one he wrote is called this is strategy and it's like 293"
+  },
+  {
+    "start": 4630.7,
+    "duration": 5.12,
+    "text": "like uh appetizers meaning like all these little good nuggets, uh on a menu that"
+  },
+  {
+    "start": 4636.3,
+    "duration": 2.56,
+    "text": "It's just like rapid ideation in my mind. Um,"
+  },
+  {
+    "start": 4639.58,
+    "duration": 4.56,
+    "text": "Uh, and like I I just it was it was one of those like 250 pages done in two hours"
+  },
+  {
+    "start": 4644.46,
+    "duration": 2.96,
+    "text": "Uh didn't stop and probably came up with like 10 good ideas"
+  },
+  {
+    "start": 4648.06,
+    "duration": 2.56,
+    "text": "Um, and it was just rapid fire like ideas"
+  },
+  {
+    "start": 4651.1,
+    "duration": 5.76,
+    "text": "Um, uh, it was it was excellent. I actually thought it was great for planning based on like where we're at like in the stage"
+  },
+  {
+    "start": 4657.02,
+    "duration": 1.12,
+    "text": "of the year"
+  },
+  {
+    "start": 4658.14,
+    "duration": 6.24,
+    "text": "Um, it was it was great. He's he's fantastic at those. He's good. Uh, the dip is in"
+  },
+  {
+    "start": 4665.1,
+    "duration": 4.32,
+    "text": "Our owner book bar. It's one that we recommend a ton. I I like seth goddard"
+  },
+  {
+    "start": 4669.66,
+    "duration": 4.08,
+    "text": "I haven't read nearly as many as you have but yeah, he's definitely uh,"
+  },
+  {
+    "start": 4674.46,
+    "duration": 3.76,
+    "text": "Man is he just like a different thinker you read those books?"
+  },
+  {
+    "start": 4678.62,
+    "duration": 6.24,
+    "text": "I just wish I could have this level of creativity and insight. Well, and it's in like it his uh,"
+  },
+  {
+    "start": 4684.94,
+    "duration": 2.8,
+    "text": "His simplicity is so elegant. Um,"
+  },
+  {
+    "start": 4688.62,
+    "duration": 6.08,
+    "text": "You know another one to your point on uh cost functional, uh partnership. I'm also reading marty kagan's new one transformed. Um,"
+  },
+  {
+    "start": 4695.34,
+    "duration": 4.56,
+    "text": "As we can see i'm a big kagan guy though. Yeah, like empowered was really good. Um,"
+  },
+  {
+    "start": 4700.22,
+    "duration": 4.98,
+    "text": "And see our teams have done some sessions with him but as i'm trying to like strengthen my relationship"
+  },
+  {
+    "start": 4705.9,
+    "duration": 5.28,
+    "text": "um in understanding, um with our product partners, um, uh, but i'm excited, um,"
+  },
+  {
+    "start": 4711.9,
+    "duration": 2.24,
+    "text": "awesome learn a little bit more about why they"
+  },
+  {
+    "start": 4714.94,
+    "duration": 2.0,
+    "text": "Why they hate dates?"
+  },
+  {
+    "start": 4717.58,
+    "duration": 3.68,
+    "text": "Uh, but but I need to learn if I want to you know, obviously build partnerships so"
+  },
+  {
+    "start": 4721.98,
+    "duration": 1.6,
+    "text": "Yeah, awesome"
+  },
+  {
+    "start": 4723.58,
+    "duration": 0.8,
+    "text": "uh"
+  },
+  {
+    "start": 4724.38,
+    "duration": 2.0,
+    "text": "Eric, this was great. I I"
+  },
+  {
+    "start": 4726.7,
+    "duration": 5.68,
+    "text": "I learned a ton. I think people are going to learn an immense amount from uh from this recording"
+  },
+  {
+    "start": 4733.02,
+    "duration": 5.68,
+    "text": "I have a bunch of quotes that i'm going to forget to credit you for so I apologize in advance, but uh,"
+  },
+  {
+    "start": 4739.34,
+    "duration": 4.24,
+    "text": "Well, you can't credit me for them because I stole them from someone else. Yeah. There you go. Yeah. Yeah. Yeah"
+  },
+  {
+    "start": 4744.46,
+    "duration": 5.04,
+    "text": "Um, where can people find you where people want to hear more from you? What's the best place to to get more?"
+  },
+  {
+    "start": 4750.14,
+    "duration": 3.92,
+    "text": "Yeah, I would say i'm most active on on linkedin. Um, and so, uh,"
+  },
+  {
+    "start": 4754.7,
+    "duration": 6.16,
+    "text": "You're pretty, uh responsive on direct messages there. Um, and uh"
+  },
+  {
+    "start": 4761.82,
+    "duration": 4.72,
+    "text": "You know if you're in the sas community i'm probably coming your way anyway, because you're a due to customer or prospects"
+  },
+  {
+    "start": 4766.7,
+    "duration": 4.72,
+    "text": "Uh, thank you in advance for the time and it was great to connect with you and how we're helping"
+  },
+  {
+    "start": 4771.5,
+    "duration": 6.08,
+    "text": "You know honor.com as well. So this is awesome. Uh, appreciate it. And uh, thanks again for coming on"
+  },
+  {
+    "start": 4778.14,
+    "duration": 3.76,
+    "text": "Thank you for listening to the revenue leadership podcast if you enjoyed it"
+  },
+  {
+    "start": 4781.9,
+    "duration": 3.36,
+    "text": "Don't forget to subscribe and you can find a link in the show notes"
+  },
+  {
+    "start": 4785.66,
+    "duration": 3.28,
+    "text": "And be sure to leave a five-star review share it with your network"
+  },
+  {
+    "start": 4789.5,
+    "duration": 3.22,
+    "text": "And please join me next wednesday for another great conversation"
+  }
+]

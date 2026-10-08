@@ -1,0 +1,2642 @@
+[
+  {
+    "start": 0.0,
+    "duration": 4.64,
+    "text": "Kyle Norton is the CRO at Owner.com, where he's running what might be the most"
+  },
+  {
+    "start": 4.64,
+    "duration": 4.56,
+    "text": "AI-enabled revenue team out there. In today's episode, he shares how the right tooling can"
+  },
+  {
+    "start": 9.2,
+    "duration": 6.16,
+    "text": "completely shift the economics of your sales team. If your BDRs now talk to 20 decision makers a day"
+  },
+  {
+    "start": 15.36,
+    "duration": 5.52,
+    "text": "and are booking those at like a 14 to 16 percent rate, now the economics of a BDR"
+  },
+  {
+    "start": 20.88,
+    "duration": 8.32,
+    "text": "are completely different. The closed one ARR divided by the BDR comp is like well over 10x."
+  },
+  {
+    "start": 29.2,
+    "duration": 5.12,
+    "text": "But despite being heavily focused on AI, Kyle pushes back against the popular advice of simply"
+  },
+  {
+    "start": 34.32,
+    "duration": 5.6,
+    "text": "buying your team AI subscriptions. And he shares his experience of how centralized implementations"
+  },
+  {
+    "start": 39.92,
+    "duration": 3.92,
+    "text": "have been the most powerful way to create results. The production quality between what"
+  },
+  {
+    "start": 43.84,
+    "duration": 6.48,
+    "text": "this applied AI builds and what like a very AI-savvy AE would build is not like 50%,"
+  },
+  {
+    "start": 50.32,
+    "duration": 5.04,
+    "text": "it's not 100%, it's like an order of magnitude. Plus, we cover the specific area of your funnel"
+  },
+  {
+    "start": 55.36,
+    "duration": 4.56,
+    "text": "where you should be focusing 80% of your AI efforts today. And Kyle has a reality check"
+  },
+  {
+    "start": 59.92,
+    "duration": 4.4,
+    "text": "for leaders who claim they don't have the headcount or budget to innovate with AI."
+  },
+  {
+    "start": 64.32,
+    "duration": 6.0,
+    "text": "There are no excuses anymore. Your CFO penny pinching is not an excuse. Your CIO giving"
+  },
+  {
+    "start": 70.32,
+    "duration": 3.36,
+    "text": "you friction about whatever is not an excuse. Like you just have to..."
+  },
+  {
+    "start": 74.88,
+    "duration": 1.76,
+    "text": "Welcome to Topline."
+  },
+  {
+    "start": 76.64,
+    "duration": 5.28,
+    "text": "Hello, welcome to Topline, listeners. Today, we have a special guest. Yes, you all know Kyle"
+  },
+  {
+    "start": 81.92,
+    "duration": 6.56,
+    "text": "Norton of the Revenue Leadership Podcast. And of course, I'm joined by my esteemed co-host,"
+  },
+  {
+    "start": 88.48,
+    "duration": 6.48,
+    "text": "Sam Jacobs, CEO of Pavilion, Asad Zaman, CEO of Sales Talent Agency. Welcome. Welcome, guys."
+  },
+  {
+    "start": 94.96,
+    "duration": 1.44,
+    "text": "How are we doing this morning?"
+  },
+  {
+    "start": 96.4,
+    "duration": 6.0,
+    "text": "Oh, this is good. I like this energy, AJ. I'm doing okay. I've got a board call in 22 minutes,"
+  },
+  {
+    "start": 102.4,
+    "duration": 6.08,
+    "text": "so I'll be leaving a little early, but otherwise good. I got my first OpenClaw agent installed in"
+  },
+  {
+    "start": 108.48,
+    "duration": 6.08,
+    "text": "my Slack and I talked to it. And it's very similar to talking to my executive assistant."
+  },
+  {
+    "start": 115.36,
+    "duration": 3.2,
+    "text": "And I don't know what that's about either."
+  },
+  {
+    "start": 118.56,
+    "duration": 7.84,
+    "text": "I had a cloud code this morning. I was copying tokens from GitHub and I put it right into the"
+  },
+  {
+    "start": 126.4,
+    "duration": 4.72,
+    "text": "chat. And then at the end, it was like, you need to refresh your token. Don't ever do that again."
+  },
+  {
+    "start": 131.12,
+    "duration": 3.44,
+    "text": "Don't put that in the chat because apparently that just streams out to the world. So later"
+  },
+  {
+    "start": 134.56,
+    "duration": 5.04,
+    "text": "in the conversation, it's like, hey, can you give me your token again? And I was like,"
+  },
+  {
+    "start": 139.6,
+    "duration": 3.28,
+    "text": "wait a second, are you tricking me? And I said, no, I'm not going to fall for that."
+  },
+  {
+    "start": 142.88,
+    "duration": 4.56,
+    "text": "And I was like, haha, got you. And so it's so funny, the personality."
+  },
+  {
+    "start": 150.72,
+    "duration": 5.2,
+    "text": "And then I was messing around and I was like, hey, cloud code, can you change the font to"
+  },
+  {
+    "start": 155.92,
+    "duration": 4.24,
+    "text": "wingdings? And it just said, no, that was its response. And I was like, no, you're telling me"
+  },
+  {
+    "start": 160.16,
+    "duration": 4.32,
+    "text": "no. And it was like, if you change the code base to wingdings, it's completely"
+  },
+  {
+    "start": 165.12,
+    "duration": 3.6,
+    "text": "gibberish trash. I was like, not the code, the font. Come on."
+  },
+  {
+    "start": 168.72,
+    "duration": 3.28,
+    "text": "I like that it has a personality. It's cracking jokes with you."
+  },
+  {
+    "start": 172.0,
+    "duration": 1.2,
+    "text": "Yeah, here we are."
+  },
+  {
+    "start": 173.2,
+    "duration": 3.52,
+    "text": "You're supposed to use a .env file for tokens."
+  },
+  {
+    "start": 177.52,
+    "duration": 4.24,
+    "text": "Yeah, you have to do some things that I had no idea what I was doing, which is open up"
+  },
+  {
+    "start": 181.76,
+    "duration": 5.52,
+    "text": "another terminal window and create a URL and then secretly do that."
+  },
+  {
+    "start": 187.36,
+    "duration": 5.44,
+    "text": "The number of random places that novices like the four of us are putting our credit card so"
+  },
+  {
+    "start": 192.8,
+    "duration": 6.4,
+    "text": "that we can like spin up these instances. It's like I've got a DevOps thing with Alessio."
+  },
+  {
+    "start": 199.2,
+    "duration": 5.68,
+    "text": "That's where my .env file is, Kyle. And, you know, somehow I gave my credit card to AWS"
+  },
+  {
+    "start": 205.52,
+    "duration": 5.52,
+    "text": "at some point. It's just like I was like, I might need something from AWS."
+  },
+  {
+    "start": 211.04,
+    "duration": 3.36,
+    "text": "So it's funny. I'm waiting to see all the charges before I can test them."
+  },
+  {
+    "start": 214.96,
+    "duration": 2.16,
+    "text": "Yeah. Kyle, what are you up to these days?"
+  },
+  {
+    "start": 217.12,
+    "duration": 6.08,
+    "text": "Trying to grow Owner.com. That is focus number one. And the podcast is like a fun side thing."
+  },
+  {
+    "start": 223.2,
+    "duration": 3.84,
+    "text": "So I get to talk to interesting people every week and learn about what's going on."
+  },
+  {
+    "start": 227.6,
+    "duration": 7.12,
+    "text": "I'm a bad podcast businesser because we are poorly monetized and that it's mostly an education"
+  },
+  {
+    "start": 234.72,
+    "duration": 4.88,
+    "text": "project for me. But Austin's trying to make that get a little sharper."
+  },
+  {
+    "start": 239.6,
+    "duration": 3.92,
+    "text": "Thinking about just things you're doing right now in terms of AI,"
+  },
+  {
+    "start": 243.52,
+    "duration": 2.08,
+    "text": "like what's what's top of mind for you right now?"
+  },
+  {
+    "start": 245.6,
+    "duration": 6.88,
+    "text": "You know, what's working like you're you're probably running one of the most AI enabled"
+  },
+  {
+    "start": 252.48,
+    "duration": 5.6,
+    "text": "go to market teams in tech, like on the SMB side. I can't imagine there's another company that's"
+  },
+  {
+    "start": 258.08,
+    "duration": 4.48,
+    "text": "like right there where you are. And so you're at the edge, which means you are figuring out"
+  },
+  {
+    "start": 262.56,
+    "duration": 5.28,
+    "text": "what's working and also what's not working. So let's start there. Like what's actually"
+  },
+  {
+    "start": 268.48,
+    "duration": 4.48,
+    "text": "working at this point for you? Like of all the things you've tried, which ones are giving"
+  },
+  {
+    "start": 272.96,
+    "duration": 5.12,
+    "text": "results and which ones are like, eh, that sounded cool, but didn't really go anywhere."
+  },
+  {
+    "start": 278.08,
+    "duration": 6.08,
+    "text": "I'll start from the the foundations, because what we're doing today and getting value from"
+  },
+  {
+    "start": 284.16,
+    "duration": 6.0,
+    "text": "is is built on a bunch of foundation that you need as a baseline. The recommendation I give"
+  },
+  {
+    "start": 290.16,
+    "duration": 5.92,
+    "text": "to everybody is start with data. You have to start with good first party and third party data."
+  },
+  {
+    "start": 296.08,
+    "duration": 4.32,
+    "text": "Without that, nothing really works because you can't give the models what they need to make"
+  },
+  {
+    "start": 300.4,
+    "duration": 5.68,
+    "text": "smart decisions or give you good outputs. Do you mean like data on your ICP? So like,"
+  },
+  {
+    "start": 306.08,
+    "duration": 4.72,
+    "text": "hey, who we're reaching, like contact data or do you mean like broader than that, like more data?"
+  },
+  {
+    "start": 311.84,
+    "duration": 4.56,
+    "text": "So there's two parts of data foundations, third party data and first party data."
+  },
+  {
+    "start": 316.4,
+    "duration": 6.56,
+    "text": "Third party data is having a map of your entire market to start. So what is what does your entire"
+  },
+  {
+    "start": 322.96,
+    "duration": 6.88,
+    "text": "TAM look like? What is your SOM within that? And then being able to go account by account into"
+  },
+  {
+    "start": 329.84,
+    "duration": 6.08,
+    "text": "those SOM accounts. So your serviceable, obtainable market, the companies that you think you can get"
+  },
+  {
+    "start": 335.92,
+    "duration": 6.72,
+    "text": "on a call with and win today, not your like aspirational fundraising TAM, but the actual"
+  },
+  {
+    "start": 342.64,
+    "duration": 4.72,
+    "text": "customers you want to work with today. And being able to enrich every single one of those accounts"
+  },
+  {
+    "start": 347.36,
+    "duration": 6.32,
+    "text": "with the information that you need to decide who to talk to now and how to prioritize that market."
+  },
+  {
+    "start": 353.68,
+    "duration": 6.48,
+    "text": "And so that's going to be different for every business. But some of that is off the shelf data"
+  },
+  {
+    "start": 360.16,
+    "duration": 6.24,
+    "text": "you could find from ZoomInfo. We sell to local economy, like little restaurants. So that data"
+  },
+  {
+    "start": 366.4,
+    "duration": 5.68,
+    "text": "is not in ZoomInfo. We use DataLane for it. And then some of it we've built custom scrapers and"
+  },
+  {
+    "start": 372.08,
+    "duration": 6.56,
+    "text": "enrichment flows. The prompt I give to folks, and I just had this conversation yesterday with"
+  },
+  {
+    "start": 378.64,
+    "duration": 4.56,
+    "text": "somebody building the infrastructure, is like, go sit with your very best reps and ask them, when you"
+  },
+  {
+    "start": 383.2,
+    "duration": 4.48,
+    "text": "sit down for a demo, when do you know you're like, I'm going to close this one? Like, this is going"
+  },
+  {
+    "start": 387.68,
+    "duration": 5.28,
+    "text": "to be awesome. Like, what are those little triggers? It's like, well, when I go to their website or I"
+  },
+  {
+    "start": 392.96,
+    "duration": 5.68,
+    "text": "look on LinkedIn and I see these three things, or if they have this role that they're hiring for,"
+  },
+  {
+    "start": 398.64,
+    "duration": 6.4,
+    "text": "I know that it's going to be like a very timely conversation. And you basically extract all of"
+  },
+  {
+    "start": 405.04,
+    "duration": 8.56,
+    "text": "that out of your PMM materials, what is your ICP? And then what the rep says they want as like"
+  },
+  {
+    "start": 413.6,
+    "duration": 4.96,
+    "text": "their perfect customer. If every demo could look like this, what is that? And then you have to"
+  },
+  {
+    "start": 418.56,
+    "duration": 5.52,
+    "text": "figure out what's the digital footprint of that. It's like, oh, I want companies that are rapidly"
+  },
+  {
+    "start": 424.08,
+    "duration": 5.52,
+    "text": "scaling their engineering org. Okay, well, that's an easy one. You can look at how many open roles"
+  },
+  {
+    "start": 429.6,
+    "duration": 6.8,
+    "text": "there are on their careers page for engineers. Or it could be something that you're backing into"
+  },
+  {
+    "start": 436.4,
+    "duration": 5.6,
+    "text": "a little more circuitously. So like, we want to know how much volume are you getting on the third"
+  },
+  {
+    "start": 442.0,
+    "duration": 7.04,
+    "text": "party delivery apps? That's not readily accessible, but you can see how many orders, how many reviews"
+  },
+  {
+    "start": 449.04,
+    "duration": 5.76,
+    "text": "did that customer have on month one? How many reviews did they have month two? That delta gives"
+  },
+  {
+    "start": 454.8,
+    "duration": 4.48,
+    "text": "you the number of new reviews. And then I can say, all right, well, 10% of people leave reviews."
+  },
+  {
+    "start": 459.28,
+    "duration": 5.6,
+    "text": "So I'll take that review number, divide it by 0.1, and that's the number of orders that are"
+  },
+  {
+    "start": 464.88,
+    "duration": 5.84,
+    "text": "getting placed. And so you have to build that system yourself. And whatever this looks like"
+  },
+  {
+    "start": 470.72,
+    "duration": 7.04,
+    "text": "for your business with AI, you can make those decisions. And then you need the perfect mapping"
+  },
+  {
+    "start": 477.76,
+    "duration": 5.04,
+    "text": "of who all the contacts are in those in those places. Mobile phone numbers is like absolutely"
+  },
+  {
+    "start": 482.8,
+    "duration": 5.84,
+    "text": "essential in today's world. And then some detail to tell you for each of those people, what is"
+  },
+  {
+    "start": 488.64,
+    "duration": 5.12,
+    "text": "important to them in regards to the problems that you solve. Feels like an everyday iteration, I"
+  },
+  {
+    "start": 493.76,
+    "duration": 6.0,
+    "text": "would assume, Kyle. Yeah. And not just everyday enriching and updating the information, but"
+  },
+  {
+    "start": 499.76,
+    "duration": 7.36,
+    "text": "actually everyday making that scaffolding better. So the first model that we built to predict"
+  },
+  {
+    "start": 507.12,
+    "duration": 4.4,
+    "text": "how big or small this customer would be, we just completely overhauled it. We hired a new"
+  },
+  {
+    "start": 511.52,
+    "duration": 4.64,
+    "text": "senior data scientist, and this was her first big project. Update that whole model and make it"
+  },
+  {
+    "start": 516.16,
+    "duration": 6.24,
+    "text": "better, bring in more data. And then we're creating new models for lead scoring. We built"
+  },
+  {
+    "start": 522.4,
+    "duration": 6.08,
+    "text": "a model that can predict if a lead is likely to pick up or not. Our head of applied AI"
+  },
+  {
+    "start": 529.28,
+    "duration": 4.88,
+    "text": "built a score that tells you what leads are likely to pick up or not. And if you call high"
+  },
+  {
+    "start": 534.24,
+    "duration": 6.8,
+    "text": "connect leads, they pick up at like a two point three X rate, like a normal lead, which is insane."
+  },
+  {
+    "start": 541.04,
+    "duration": 6.32,
+    "text": "And Titan X does this as a product. Can you frame like the net effect of this on your"
+  },
+  {
+    "start": 547.36,
+    "duration": 3.6,
+    "text": "gold market? Like once you got this data foundation in place and you've been able"
+  },
+  {
+    "start": 550.96,
+    "duration": 5.04,
+    "text": "to do some of these things, what was the actual like numerical benefits you guys had?"
+  },
+  {
+    "start": 556.0,
+    "duration": 7.6,
+    "text": "Well, the original BDR BDR team that we hired would not have been able to ever do cold outbound"
+  },
+  {
+    "start": 563.6,
+    "duration": 7.52,
+    "text": "in our, we, our ACV is like 10 to 12 K high velocity, but our original call to decision"
+  },
+  {
+    "start": 571.12,
+    "duration": 4.4,
+    "text": "maker connect rate was like three to 4%. So if you made a hundred calls, you're only talking"
+  },
+  {
+    "start": 575.52,
+    "duration": 5.52,
+    "text": "to four decision makers. Maybe you book one opportunity a day, maybe. And then, you know,"
+  },
+  {
+    "start": 581.04,
+    "duration": 4.16,
+    "text": "your close rates from your ACV is like a BDR motion, just the economics won't pencil out."
+  },
+  {
+    "start": 585.76,
+    "duration": 6.96,
+    "text": "But if your BDR is now talk to 20 decision makers a day and are booking those at like a 14 to 16%"
+  },
+  {
+    "start": 592.8,
+    "duration": 8.88,
+    "text": "rate. Now the economics of a BDR are completely different. The closed one ARR divided by the"
+  },
+  {
+    "start": 602.88,
+    "duration": 2.64,
+    "text": "BDR comp is like well over 10 X now."
+  },
+  {
+    "start": 605.52,
+    "duration": 6.16,
+    "text": "This idea of AI being a use case for anyone, for everything. It seems like you have and your team,"
+  },
+  {
+    "start": 612.8,
+    "duration": 5.52,
+    "text": "AI ops, whomever have been able to build the AI foundational levels. And then you're giving your"
+  },
+  {
+    "start": 618.32,
+    "duration": 6.72,
+    "text": "team, the BDRs, whomever, the very specific use cases of how to use it versus giving them AI and"
+  },
+  {
+    "start": 625.04,
+    "duration": 4.64,
+    "text": "giving them open book. Is that, is that fair to say? Because you have to have like predictability"
+  },
+  {
+    "start": 629.68,
+    "duration": 6.8,
+    "text": "and revenue. So giving them the use cases so you know exactly what you expect to see and outcomes"
+  },
+  {
+    "start": 636.48,
+    "duration": 6.0,
+    "text": "you see from those AI use cases. Is that, because we, we've struggled with this where it's like,"
+  },
+  {
+    "start": 642.48,
+    "duration": 5.28,
+    "text": "or we'll build something that's AI enabled. And we're like, we want to go give this to our team"
+  },
+  {
+    "start": 647.76,
+    "duration": 5.52,
+    "text": "and Ryan, our CRO is like, no, you have to have really specific use cases to the team. You can't"
+  },
+  {
+    "start": 653.28,
+    "duration": 5.84,
+    "text": "just hand this over to them. Yeah. So, so, and this is the, the newsletter that I wrote on my"
+  },
+  {
+    "start": 659.12,
+    "duration": 4.96,
+    "text": "sub stack. Then we republished through pavilion through the top line newsletter. Everybody's"
+  },
+  {
+    "start": 664.08,
+    "duration": 4.8,
+    "text": "interested in this. I'm getting text messages. I got a random text message from somebody saying,"
+  },
+  {
+    "start": 668.88,
+    "duration": 2.24,
+    "text": "Hey, what do you know about decentralized AI?"
+  },
+  {
+    "start": 671.68,
+    "duration": 6.72,
+    "text": "We're shaping the conversation guys. We're shaping the conversation."
+  },
+  {
+    "start": 678.4,
+    "duration": 6.16,
+    "text": "Yeah. This is by far the most popular sub stack I've ever written. And I got so many messages"
+  },
+  {
+    "start": 684.56,
+    "duration": 4.0,
+    "text": "about it and people wanting to talk. And if you're listening and I haven't responded, I just don't"
+  },
+  {
+    "start": 688.56,
+    "duration": 9.68,
+    "text": "have time. This is why this is the point of the podcast. So this was an emergent property for us."
+  },
+  {
+    "start": 698.24,
+    "duration": 6.0,
+    "text": "This wasn't a preplanned strategy, but it just sort of like came out of how we approached it."
+  },
+  {
+    "start": 704.24,
+    "duration": 4.48,
+    "text": "And so there, I see there's two camps and how people are trying to bring AI into go to market."
+  },
+  {
+    "start": 708.72,
+    "duration": 4.96,
+    "text": "One is a very decentralized approach, which is like, give everybody cloud accounts,"
+  },
+  {
+    "start": 713.68,
+    "duration": 5.44,
+    "text": "tell them to build cool stuff, encourage them to, to, you know, be on the cutting edge and"
+  },
+  {
+    "start": 719.12,
+    "duration": 4.88,
+    "text": "learn these skills themselves. Everybody in the entire company needs to be AI native."
+  },
+  {
+    "start": 724.0,
+    "duration": 6.8,
+    "text": "And that seems really good on paper. And I was trying to push AI adoption a lot, maybe 12 months"
+  },
+  {
+    "start": 730.8,
+    "duration": 7.12,
+    "text": "ago. But what we really found in practice is that all of the best things, all of the most impactful"
+  },
+  {
+    "start": 738.8,
+    "duration": 5.52,
+    "text": "implementations were all highly centralized. So it was basically our VP of biz ops, me and our VP"
+  },
+  {
+    "start": 744.32,
+    "duration": 7.12,
+    "text": "of rev ops for the, for a long time were by far the most interested and on the cutting edge of"
+  },
+  {
+    "start": 751.44,
+    "duration": 3.84,
+    "text": "learning this stuff. And we would just come up with these ideas. And, and this is really like"
+  },
+  {
+    "start": 755.28,
+    "duration": 4.88,
+    "text": "our VP of biz ops and data who is, who did most of the building. And we would build something"
+  },
+  {
+    "start": 760.16,
+    "duration": 5.92,
+    "text": "centrally and then just deploy it to the team in the experiences that they already use. So we,"
+  },
+  {
+    "start": 766.08,
+    "duration": 6.96,
+    "text": "we didn't like vibe code, a pre-call like prep app. Cause because I don't want additional surfaces."
+  },
+  {
+    "start": 773.04,
+    "duration": 4.56,
+    "text": "There's already too many surfaces that a rep lives in. We would just give them that information"
+  },
+  {
+    "start": 777.6,
+    "duration": 6.08,
+    "text": "in Salesforce, in sales loft. Like now we've got this applied AI lead who builds all this stuff,"
+  },
+  {
+    "start": 783.68,
+    "duration": 4.96,
+    "text": "the production quality between what YG builds and what like a very AI savvy AI,"
+  },
+  {
+    "start": 790.08,
+    "duration": 5.2,
+    "text": "a E would build is not like 50%. It's not a hundred percent. It's like an order of magnitude."
+  },
+  {
+    "start": 795.28,
+    "duration": 8.32,
+    "text": "What YG builds is 10, 20 times better than what the really savvy AE might build. And so you just"
+  },
+  {
+    "start": 803.6,
+    "duration": 6.8,
+    "text": "get a completely different result out of it and you can properly enable your whole org to adopt"
+  },
+  {
+    "start": 810.4,
+    "duration": 6.0,
+    "text": "it. And you don't have this like soup of custom gems and custom GPTs and all of this stuff."
+  },
+  {
+    "start": 817.04,
+    "duration": 4.64,
+    "text": "And we have found that that has driven like far better business results."
+  },
+  {
+    "start": 821.68,
+    "duration": 4.24,
+    "text": "You see this like enthusiasm. So if you are lucky, you have people that"
+  },
+  {
+    "start": 826.88,
+    "duration": 4.72,
+    "text": "understand that they have to play with AI and they're trying to wrestle with it. And that's"
+  },
+  {
+    "start": 831.6,
+    "duration": 5.28,
+    "text": "fantastic. Like you have the right people, but if that's all you're doing is this decentralized"
+  },
+  {
+    "start": 836.88,
+    "duration": 5.36,
+    "text": "thing, what you end up getting are the benefits of like a really pro consumer. Like it's the"
+  },
+  {
+    "start": 842.24,
+    "duration": 5.6,
+    "text": "consumer benefits of AI that you really feel inside your businesses. Your emails get written,"
+  },
+  {
+    "start": 847.84,
+    "duration": 4.0,
+    "text": "you know, maybe if the person has good taste, they're sending better emails. Maybe they're"
+  },
+  {
+    "start": 851.84,
+    "duration": 5.92,
+    "text": "sending worse. Like you get like the meeting notes staff, you get like decks being built a"
+  },
+  {
+    "start": 857.76,
+    "duration": 5.12,
+    "text": "bit faster. You get like certain things happening, sometimes faster, sometimes better, sometimes a"
+  },
+  {
+    "start": 862.88,
+    "duration": 6.24,
+    "text": "little bit of both. But you don't get like real business use cases, like the ones that you can"
+  },
+  {
+    "start": 869.12,
+    "duration": 4.96,
+    "text": "say, ah, this moved the needle for the business in a really substantial manner and is ready for"
+  },
+  {
+    "start": 874.08,
+    "duration": 4.56,
+    "text": "prime time. Like that ready for prime time thing, you just don't get it. I totally agree with you."
+  },
+  {
+    "start": 879.36,
+    "duration": 5.12,
+    "text": "And I'm sure what Kyle said is correct. But also one of the things I'm seeing inside my"
+  },
+  {
+    "start": 884.48,
+    "duration": 8.96,
+    "text": "organization is you do see speeds changing. And it's, it is getting strange when you have"
+  },
+  {
+    "start": 893.44,
+    "duration": 5.76,
+    "text": "certain people who are, you know, you can call them Claude native or co-work native, who are able to"
+  },
+  {
+    "start": 899.2,
+    "duration": 6.0,
+    "text": "process output, just regular work output. Like what's the outcome? There's a good example of"
+  },
+  {
+    "start": 905.2,
+    "duration": 5.36,
+    "text": "this, by the way. Yeah. And like, and it's weird because when you have the disconnect of some"
+  },
+  {
+    "start": 910.56,
+    "duration": 6.08,
+    "text": "people that haven't, they haven't adopted it personally, they are now slowing down the people"
+  },
+  {
+    "start": 916.64,
+    "duration": 6.0,
+    "text": "that have. And so there's a group of people that read, I forwarded the Clairvaux article, AJ,"
+  },
+  {
+    "start": 922.64,
+    "duration": 3.52,
+    "text": "about, you know, if you can't do something in a day, you're not going to make it. And you still,"
+  },
+  {
+    "start": 926.16,
+    "duration": 5.52,
+    "text": "you feel this tendency for certain people to want to defer, you know, they think things should take"
+  },
+  {
+    "start": 931.68,
+    "duration": 4.8,
+    "text": "weeks instead of days. And, and even though I do agree with Kyle, like there should be"
+  },
+  {
+    "start": 936.48,
+    "duration": 5.92,
+    "text": "centralization so that you can build high, high leverage roles where you're making decisions that"
+  },
+  {
+    "start": 942.4,
+    "duration": 5.68,
+    "text": "have a broad impact. So if you're in rev ops enablement, if you're in marketing, you have"
+  },
+  {
+    "start": 948.08,
+    "duration": 6.88,
+    "text": "to become AI native just to do your job at a different speed. But when it comes building the"
+  },
+  {
+    "start": 954.96,
+    "duration": 6.08,
+    "text": "core systems to accelerate workflow, that should be centralized. And so I don't really need my"
+  },
+  {
+    "start": 961.04,
+    "duration": 5.44,
+    "text": "account executives and BDRs spending a bunch of time in in cloud code and building stuff because"
+  },
+  {
+    "start": 967.2,
+    "duration": 6.72,
+    "text": "they are they are a role that has like a multiplicity like there are 60 of those people"
+  },
+  {
+    "start": 973.92,
+    "duration": 4.72,
+    "text": "in that role or 40 of the people in that role. Those are core systems that need to be built"
+  },
+  {
+    "start": 978.64,
+    "duration": 6.24,
+    "text": "centrally. If you are the sales enablement manager or director, you need to be able to figure out how"
+  },
+  {
+    "start": 984.88,
+    "duration": 6.4,
+    "text": "to make your organization AI native. And it's interesting, like, almost everything that gets"
+  },
+  {
+    "start": 991.28,
+    "duration": 7.36,
+    "text": "produced now, prototypes, mockups, like, like the initial versions of things like are all cloud code"
+  },
+  {
+    "start": 998.64,
+    "duration": 8.24,
+    "text": "artifacts, like in our organization, you know, we wanted to cut a bunch of data to, to make a smarter"
+  },
+  {
+    "start": 1006.88,
+    "duration": 4.56,
+    "text": "decision about how we're managing the launch organization. And so the rev ops person pulled"
+  },
+  {
+    "start": 1011.44,
+    "duration": 4.96,
+    "text": "everything together and the output was a cloud code artifact that you could you could like move"
+  },
+  {
+    "start": 1016.4,
+    "duration": 4.8,
+    "text": "the you could like pull the dragger, you could change things and it would just update. So it's"
+  },
+  {
+    "start": 1021.2,
+    "duration": 5.2,
+    "text": "like a better version of a spreadsheet now a way more usable version of like a massive spreadsheet."
+  },
+  {
+    "start": 1026.96,
+    "duration": 5.84,
+    "text": "And that does need to become the default if you are in a role of any leverage. So what should you"
+  },
+  {
+    "start": 1032.8,
+    "duration": 5.52,
+    "text": "build centrally what could be on the edges and just like, you know, vibe coded throwaway apps"
+  },
+  {
+    "start": 1038.32,
+    "duration": 7.36,
+    "text": "or artifacts. And this extends to build versus buy. I think like the core intelligence of the"
+  },
+  {
+    "start": 1045.68,
+    "duration": 5.28,
+    "text": "organization needs to be centrally built and managed. And I don't think you want to buy those"
+  },
+  {
+    "start": 1050.96,
+    "duration": 7.68,
+    "text": "solutions. And so I was at the clay CRO summit on Friday, and this was a big topic of conversation"
+  },
+  {
+    "start": 1059.52,
+    "duration": 4.0,
+    "text": "of like, what are people building versus buying? What should I have internally versus not,"
+  },
+  {
+    "start": 1064.08,
+    "duration": 5.2,
+    "text": "I think you have to own the intelligence, you have to build the intelligence internally,"
+  },
+  {
+    "start": 1069.84,
+    "duration": 9.2,
+    "text": "and buy things that are like workflows and user experience. And so the the example on the sales"
+  },
+  {
+    "start": 1079.04,
+    "duration": 7.6,
+    "text": "engagement side, I haven't seen any of the sales engagement providers build a build an AI product"
+  },
+  {
+    "start": 1086.64,
+    "duration": 5.44,
+    "text": "that does any of the intelligence stuff, like, oh, this is the next best action, or you should do"
+  },
+  {
+    "start": 1092.32,
+    "duration": 5.68,
+    "text": "these things with these deals. I'm yet to see those companies produce something that is like"
+  },
+  {
+    "start": 1098.0,
+    "duration": 6.4,
+    "text": "all that viable. Curious if you guys have seen anything different. But they're a good place to"
+  },
+  {
+    "start": 1104.4,
+    "duration": 7.28,
+    "text": "inject the outputs of the intelligence layer that you built internally, you know, the the deal health"
+  },
+  {
+    "start": 1111.68,
+    "duration": 8.16,
+    "text": "score, or your estimated win rate that that prioritizes leads, like you inject those things,"
+  },
+  {
+    "start": 1119.92,
+    "duration": 5.44,
+    "text": "you do the intelligence, you print that somewhere on a lead record. And then, you know, the sales"
+  },
+  {
+    "start": 1125.36,
+    "duration": 4.8,
+    "text": "engagement platforms, those are good experiences, I wouldn't try to recreate an experience because"
+  },
+  {
+    "start": 1130.16,
+    "duration": 5.84,
+    "text": "you need rock solid stability, you don't want to vibe code the thing that your reps use every day,"
+  },
+  {
+    "start": 1136.0,
+    "duration": 4.16,
+    "text": "even though it could be a little better. Because you need rock solid stability, you need the"
+  },
+  {
+    "start": 1140.16,
+    "duration": 6.08,
+    "text": "support ecosystem, you want something that's familiar to them. So I think like, it diminishes"
+  },
+  {
+    "start": 1146.24,
+    "duration": 4.88,
+    "text": "the value of the sales engagement platforms, because it's just like a, you know, a dumb UX now."
+  },
+  {
+    "start": 1151.12,
+    "duration": 3.68,
+    "text": "But I think that is the way that companies should think about this, this interplay, like,"
+  },
+  {
+    "start": 1154.8,
+    "duration": 4.96,
+    "text": "what do I build versus buy, you want to build internally, the core intelligence."
+  },
+  {
+    "start": 1159.76,
+    "duration": 4.88,
+    "text": "Yeah, the sales engagement is a really interesting point, given that their data all lives inside the"
+  },
+  {
+    "start": 1164.64,
+    "duration": 4.64,
+    "text": "CRM. So they don't really have data as emotes, because they're not really doing the enrichment"
+  },
+  {
+    "start": 1169.28,
+    "duration": 6.96,
+    "text": "aspect of it. But the workflow distribution part of it, I think is what is being still very"
+  },
+  {
+    "start": 1176.24,
+    "duration": 9.2,
+    "text": "undervalued in the market, in terms of what SaaS really means in 2026. And it's, it's this is just"
+  },
+  {
+    "start": 1185.44,
+    "duration": 6.48,
+    "text": "a really fascinating conversation in the sense that, you know, for Quotapath, within similar to"
+  },
+  {
+    "start": 1191.92,
+    "duration": 5.04,
+    "text": "how you all are thinking about it, you have this like central core intelligence engine. And then"
+  },
+  {
+    "start": 1196.96,
+    "duration": 5.84,
+    "text": "you basically bring everything in with the MCP, which is APIs for agents, just API, you bring it"
+  },
+  {
+    "start": 1202.8,
+    "duration": 8.72,
+    "text": "in. And so now we have dust frames for the pre sales demo, dust frames for the handoff notes,"
+  },
+  {
+    "start": 1211.52,
+    "duration": 7.28,
+    "text": "dust frames for the executive, I'm going to talk to one of our customers, and I have the total"
+  },
+  {
+    "start": 1218.8,
+    "duration": 6.48,
+    "text": "timeline there. And so you kind of templatized the data and all of the use cases very specifically"
+  },
+  {
+    "start": 1225.28,
+    "duration": 5.44,
+    "text": "for the organization. But the workflow management tools, we'll even call Gong as one of those,"
+  },
+  {
+    "start": 1230.72,
+    "duration": 4.88,
+    "text": "those remain, because that's, that's still a really important and central part of the workflow."
+  },
+  {
+    "start": 1235.6,
+    "duration": 6.08,
+    "text": "And so I completely agree there. What's interesting here is that these are three very different sorts"
+  },
+  {
+    "start": 1241.68,
+    "duration": 6.8,
+    "text": "of businesses. So Karl, you guys have raised a lot of money, you have lots of revenue. And so you"
+  },
+  {
+    "start": 1248.48,
+    "duration": 4.56,
+    "text": "have resources to invest into this. And so sometimes people will listen to you and be like,"
+  },
+  {
+    "start": 1253.04,
+    "duration": 4.72,
+    "text": "yeah, you can do it. But what about us? Right? Like at an earlier stage in the life cycle."
+  },
+  {
+    "start": 1257.76,
+    "duration": 4.88,
+    "text": "But AJ's business is, you know, at a different stage in its life cycle, where they're earlier"
+  },
+  {
+    "start": 1262.64,
+    "duration": 5.12,
+    "text": "on in their revenue journey, and they've been able to make a lot of headway. So AJ, can you"
+  },
+  {
+    "start": 1267.76,
+    "duration": 5.92,
+    "text": "talk and then there's ours, which is AJ, you have venture funding that you can invest into this with"
+  },
+  {
+    "start": 1273.68,
+    "duration": 6.16,
+    "text": "an eye on the future. STA doesn't have that. But we have our profit that enables us to also have"
+  },
+  {
+    "start": 1279.84,
+    "duration": 5.12,
+    "text": "some sort of a centralized view on this. And so we've also stood up a centralized operation to"
+  },
+  {
+    "start": 1284.96,
+    "duration": 6.88,
+    "text": "think about the intelligence layer being a central component. And building something that is actually"
+  },
+  {
+    "start": 1291.84,
+    "duration": 6.08,
+    "text": "modeled a bit off of what you've done, Karl, like a bootstrap profitable business version of that"
+  },
+  {
+    "start": 1298.48,
+    "duration": 4.24,
+    "text": "is what we're trying to build. And it's really interesting. It's like you can do a lot more than"
+  },
+  {
+    "start": 1302.72,
+    "duration": 8.0,
+    "text": "you think. And the appropriate thing for your stage. So AJ, can you speak about you built that"
+  },
+  {
+    "start": 1310.72,
+    "duration": 7.12,
+    "text": "AIOps role early on, you've done all these things, you've invested different to Kyle from a magnitude"
+  },
+  {
+    "start": 1317.84,
+    "duration": 6.56,
+    "text": "perspective, but you've gotten a lot of ROI. What has it taken? Like, give us a flavor of what it"
+  },
+  {
+    "start": 1324.4,
+    "duration": 6.96,
+    "text": "took to get what you've got. A lot of existential crisis by a founder at night. Honestly, I mean,"
+  },
+  {
+    "start": 1331.36,
+    "duration": 4.72,
+    "text": "I'm serious, where I say like, every day, I'm having to reinvent and rethink and relearn"
+  },
+  {
+    "start": 1336.08,
+    "duration": 4.88,
+    "text": "everything that I'm doing. And so is my team. And that's really an important part of it. Because"
+  },
+  {
+    "start": 1340.96,
+    "duration": 4.8,
+    "text": "at the end of the day, I don't think quota path as a product today will be the main revenue driver"
+  },
+  {
+    "start": 1345.76,
+    "duration": 4.8,
+    "text": "for the organization in 12 months. I think the product that we're going to release in the next"
+  },
+  {
+    "start": 1350.56,
+    "duration": 5.36,
+    "text": "two months will be the thing and I have to, I have to communicate to my team that this innovators"
+  },
+  {
+    "start": 1355.92,
+    "duration": 5.6,
+    "text": "dilemma is not just real, it will happen. And that's what's ultimately the most challenging"
+  },
+  {
+    "start": 1361.52,
+    "duration": 4.96,
+    "text": "part of this whole entire thing is how do I tell a team of 70 people, including individual"
+  },
+  {
+    "start": 1366.48,
+    "duration": 5.68,
+    "text": "contributors of like, hey, we're gonna die. Sorry, like that's just the reality of the situation if"
+  },
+  {
+    "start": 1372.16,
+    "duration": 5.04,
+    "text": "we don't innovate. I mean, that's all startups. But today, that's all roles. That's all"
+  },
+  {
+    "start": 1377.2,
+    "duration": 5.76,
+    "text": "responsibilities. Every company has to go through that. It'd be insane for us to think that the"
+  },
+  {
+    "start": 1382.96,
+    "duration": 5.2,
+    "text": "way that we do things today, two years from now, three years from now, that's the job. That's where"
+  },
+  {
+    "start": 1388.16,
+    "duration": 4.72,
+    "text": "the imagine in our world, of all the things we do, where does the value accrue? Like what"
+  },
+  {
+    "start": 1392.88,
+    "duration": 5.12,
+    "text": "are people actually paying us for? That thing will completely change. And so if we don't change,"
+  },
+  {
+    "start": 1398.0,
+    "duration": 4.88,
+    "text": "then we'll miss the boat. And it's happened in previous platform shifts. 10 years from now,"
+  },
+  {
+    "start": 1402.88,
+    "duration": 4.4,
+    "text": "you know, I want to build a company that sustains past my career. So 10 years from now, do you think"
+  },
+  {
+    "start": 1407.6,
+    "duration": 5.68,
+    "text": "is making money doing what it does today? Highly unlikely, highly unlikely. It's really strange"
+  },
+  {
+    "start": 1413.28,
+    "duration": 5.36,
+    "text": "time, right? Like strange things to think about. I sort of want to challenge the premise of like"
+  },
+  {
+    "start": 1418.64,
+    "duration": 5.68,
+    "text": "the previous question a little bit. Like, oh, well, owners raised a lot of money. So it's different or"
+  },
+  {
+    "start": 1424.32,
+    "duration": 6.96,
+    "text": "we're bootstrapped or whatever, because AJ's got it right. If you do not, if you do not become AI"
+  },
+  {
+    "start": 1431.28,
+    "duration": 4.56,
+    "text": "native in terms of the product you offer and how you operate as an organization, you will just get"
+  },
+  {
+    "start": 1435.84,
+    "duration": 6.16,
+    "text": "swallowed up because either it's competitive, like AI native competitors come and surpass you"
+  },
+  {
+    "start": 1442.0,
+    "duration": 5.68,
+    "text": "or competitors that make this pivot or incumbents that will just, that will, that can build the"
+  },
+  {
+    "start": 1447.68,
+    "duration": 4.88,
+    "text": "feature that is your company so easily. And I think you need to become the intelligence layer"
+  },
+  {
+    "start": 1452.56,
+    "duration": 4.72,
+    "text": "as much as, as much as you can. And I think, you know, for Codapath differently than the sales"
+  },
+  {
+    "start": 1457.28,
+    "duration": 6.72,
+    "text": "engagement tools, there is a differentiation opportunity in terms of the intelligence that"
+  },
+  {
+    "start": 1464.0,
+    "duration": 6.96,
+    "text": "you have across all of these customers to provide unique, unique insight and unique intelligence"
+  },
+  {
+    "start": 1470.96,
+    "duration": 5.84,
+    "text": "that is not just a UX. If you are just a UX for comp planning to drag, make drag and drop easier"
+  },
+  {
+    "start": 1476.8,
+    "duration": 5.04,
+    "text": "and see pretty visuals. Yeah. That that's not the way of the future, but if you can."
+  },
+  {
+    "start": 1481.84,
+    "duration": 4.16,
+    "text": "Well, Kyle, the thing that you said that's so interesting went earlier on, like, I haven't"
+  },
+  {
+    "start": 1486.0,
+    "duration": 4.4,
+    "text": "seen a sales engagement platform that does the insights well. Now for Codapath, when we release"
+  },
+  {
+    "start": 1491.12,
+    "duration": 5.12,
+    "text": "Atlas and it will ultimately say, these are the three things that you need to change with your"
+  },
+  {
+    "start": 1496.24,
+    "duration": 5.44,
+    "text": "comp to change the behaviors of your team today, right now, quarter to quarter, what we're seeing"
+  },
+  {
+    "start": 1501.68,
+    "duration": 4.48,
+    "text": "with, and I'm going to write the top line newsletter on this, AI native companies and commissions"
+  },
+  {
+    "start": 1506.16,
+    "duration": 8.16,
+    "text": "are changing their comp every quarter. There is a 250% higher chance that they will change"
+  },
+  {
+    "start": 1514.32,
+    "duration": 5.6,
+    "text": "their comp every quarter because their pricing models change every quarter. And that is the"
+  },
+  {
+    "start": 1519.92,
+    "duration": 4.48,
+    "text": "thing that is dynamically, the world is changing. How are they changing Avijay? Like what element,"
+  },
+  {
+    "start": 1524.4,
+    "duration": 6.24,
+    "text": "what variables or things are they playing around with the most? The usage and credits and outcomes"
+  },
+  {
+    "start": 1530.64,
+    "duration": 5.04,
+    "text": "based pricing is what's changing the most in those organizations. They're still trying to"
+  },
+  {
+    "start": 1535.68,
+    "duration": 6.96,
+    "text": "figure out margins in terms of what makes their business actually viable. The same way. So is the"
+  },
+  {
+    "start": 1542.64,
+    "duration": 4.88,
+    "text": "structure of the comp plan the same, but like the percentages of what they're playing around"
+  },
+  {
+    "start": 1547.6,
+    "duration": 3.36,
+    "text": "with a little bit? Yeah, there's, there's like, basically what we're seeing is that a lot of these"
+  },
+  {
+    "start": 1550.96,
+    "duration": 5.44,
+    "text": "AI native companies are going to enterprise a lot faster and, and with a CFO at an enterprise,"
+  },
+  {
+    "start": 1556.4,
+    "duration": 4.48,
+    "text": "you have to have much more prediction around what you're going to be paying. And they don't like"
+  },
+  {
+    "start": 1560.88,
+    "duration": 6.72,
+    "text": "usage based as much. We've also, another thing we find in is that there are a basket of AI companies"
+  },
+  {
+    "start": 1567.6,
+    "duration": 6.64,
+    "text": "that are just growing so absolutely quickly that they don't have to offer commissions at all to"
+  },
+  {
+    "start": 1574.24,
+    "duration": 8.0,
+    "text": "the sales people. 71% of companies enter the year without quotas. 71% of all, all SaaS companies."
+  },
+  {
+    "start": 1582.88,
+    "duration": 6.64,
+    "text": "The, the reality is AI native companies sometimes don't even have quotas. Like they're, and I,"
+  },
+  {
+    "start": 1589.52,
+    "duration": 4.88,
+    "text": "and I've had this conversation with Matt Braley as well, where you have sales cycles that are like"
+  },
+  {
+    "start": 1595.04,
+    "duration": 5.6,
+    "text": "going from 12 months to three months because the, the buying and the budgetary is opening"
+  },
+  {
+    "start": 1600.64,
+    "duration": 4.0,
+    "text": "immediately. And they're not even being able to set quotas. So they're setting rates and"
+  },
+  {
+    "start": 1604.64,
+    "duration": 4.0,
+    "text": "percentages of it, but not, I don't think that's the variable that's affecting whether you pay"
+  },
+  {
+    "start": 1608.64,
+    "duration": 4.24,
+    "text": "commissions or not, whether you pay commissions or not, it's just dependent on one plane is the"
+  },
+  {
+    "start": 1612.88,
+    "duration": 4.72,
+    "text": "value of your stock options. So if I can give you stock options that are just growing at an"
+  },
+  {
+    "start": 1617.6,
+    "duration": 4.16,
+    "text": "astronomical rate, imagine Anthropic, right? We know people at Anthropic that have just"
+  },
+  {
+    "start": 1622.32,
+    "duration": 5.92,
+    "text": "made like the sort of money that a CRO would make off of like the, one of the largest exits ever,"
+  },
+  {
+    "start": 1628.24,
+    "duration": 3.76,
+    "text": "you know, and they'll make that as an AE, like, you know, that that's the sort of equity."
+  },
+  {
+    "start": 1633.52,
+    "duration": 3.52,
+    "text": "Monday.com infamously did this very first. They didn't pay commissions,"
+  },
+  {
+    "start": 1637.04,
+    "duration": 6.8,
+    "text": "even as a public company. But that was like, yeah, yeah. But their equity actually wasn't"
+  },
+  {
+    "start": 1643.84,
+    "duration": 4.8,
+    "text": "valid enough for that. So were you able to attract the best people and retain the best people? If you"
+  },
+  {
+    "start": 1648.64,
+    "duration": 5.2,
+    "text": "were Monday.com with that stance you want, like it, it didn't work for them as well as it does"
+  },
+  {
+    "start": 1653.84,
+    "duration": 4.64,
+    "text": "right now, if you're Anthropic OpenAI. So there is a basket of these AI companies that have the"
+  },
+  {
+    "start": 1658.48,
+    "duration": 4.08,
+    "text": "sort of growth where they're like, listen, you'll have a really solid base. We'll give you equity."
+  },
+  {
+    "start": 1662.56,
+    "duration": 3.6,
+    "text": "And that equity is just going to grow at astronomical rates. You will be rich,"
+  },
+  {
+    "start": 1666.16,
+    "duration": 5.92,
+    "text": "chill. And that, that can work. If you are like anything below the fastest growing AI"
+  },
+  {
+    "start": 1672.08,
+    "duration": 5.12,
+    "text": "companies in the world, you can't do that. In history. Yeah. In history, you have to be one"
+  },
+  {
+    "start": 1677.2,
+    "duration": 4.96,
+    "text": "of them. Otherwise it doesn't work. You're going to see talent density drop. And so everybody else"
+  },
+  {
+    "start": 1682.16,
+    "duration": 4.16,
+    "text": "has variable components, but not how do you structure it? Then that's where that conversation"
+  },
+  {
+    "start": 1686.32,
+    "duration": 5.92,
+    "text": "happens. So you need to, you need to reinvent yourself as a business. That is a prerequisite,"
+  },
+  {
+    "start": 1692.24,
+    "duration": 6.8,
+    "text": "but you have to make these investments into the AI capabilities in order to do that. And so people"
+  },
+  {
+    "start": 1699.04,
+    "duration": 5.68,
+    "text": "will hear me talk and like, oh, I can't afford to get higher, like a fancy applied AI leader."
+  },
+  {
+    "start": 1704.72,
+    "duration": 4.56,
+    "text": "And we've got, I don't know, three or four people in applied AI. Now we've got a ton of open roles"
+  },
+  {
+    "start": 1709.28,
+    "duration": 4.32,
+    "text": "for that team. We're just stuffing people into that. Okay. That might be a little unique to the"
+  },
+  {
+    "start": 1714.16,
+    "duration": 7.44,
+    "text": "owners and Vantas of, of the world, but you can have one person you, you can, you can let,"
+  },
+  {
+    "start": 1721.6,
+    "duration": 4.96,
+    "text": "you can find headcount elsewhere and you have to force yourself to do this."
+  },
+  {
+    "start": 1727.12,
+    "duration": 7.12,
+    "text": "Go and do the stack rank of your organization and figure out who are the people that if they"
+  },
+  {
+    "start": 1734.24,
+    "duration": 5.36,
+    "text": "walked out the door today, you'd be like, oh, okay, we'll be fine. And, and you're just going"
+  },
+  {
+    "start": 1739.6,
+    "duration": 5.92,
+    "text": "to have to use those folks who... STA is able to do it. Like if STA can do it, which is we don't"
+  },
+  {
+    "start": 1745.52,
+    "duration": 7.04,
+    "text": "have venture. We are a business that has to, that has no recurring revenue. Every quarter starts at"
+  },
+  {
+    "start": 1752.56,
+    "duration": 5.52,
+    "text": "zero. Like we can find it. We were able to find it and say, what's the walking approach to this?"
+  },
+  {
+    "start": 1758.08,
+    "duration": 4.32,
+    "text": "And then I, once you start seeing momentum with it, then you can build around. Now you're like,"
+  },
+  {
+    "start": 1762.4,
+    "duration": 5.04,
+    "text": "oh, I can add a second now. Cause like the first one's the most important investment. After that,"
+  },
+  {
+    "start": 1767.44,
+    "duration": 6.0,
+    "text": "it kind of like just convinces you on its own. It's so obvious. When, when you look at the"
+  },
+  {
+    "start": 1773.44,
+    "duration": 5.76,
+    "text": "projects that that team is shipping for us, it is so obvious. We, we will just hire people as"
+  },
+  {
+    "start": 1779.2,
+    "duration": 5.2,
+    "text": "fast as we can into those seats. No matter what, there will be no budget conversation."
+  },
+  {
+    "start": 1784.4,
+    "duration": 5.52,
+    "text": "However many people we can bring in to that have that type of skillset. And, and let's talk about"
+  },
+  {
+    "start": 1789.92,
+    "duration": 5.52,
+    "text": "what skillsets to be in that team, but like, I'm going to channel my inner Jason Lemkin on this."
+  },
+  {
+    "start": 1795.44,
+    "duration": 4.56,
+    "text": "Like there are no excuses anymore. We've been doing this for coming up on... You wouldn't die"
+  },
+  {
+    "start": 1800.0,
+    "duration": 5.6,
+    "text": "otherwise. Like that is, yeah. Like you have to go carve out the budget and people are like, oh,"
+  },
+  {
+    "start": 1805.6,
+    "duration": 3.12,
+    "text": "well, you know, my CFO is tight with the first strings or blah, blah, blah, blah, blah. It's"
+  },
+  {
+    "start": 1808.72,
+    "duration": 7.28,
+    "text": "like, I don't care. It's like, go, go find a way, like make, you know, make room in your org chart,"
+  },
+  {
+    "start": 1816.0,
+    "duration": 4.4,
+    "text": "move some people out that are your bottom performers and spend the money on somebody"
+  },
+  {
+    "start": 1820.4,
+    "duration": 5.84,
+    "text": "who is truly world-class at this stuff. It will be the best returning investment that you make"
+  },
+  {
+    "start": 1827.2,
+    "duration": 5.92,
+    "text": "by bar none. There's this interesting question of centralized versus decentralized,"
+  },
+  {
+    "start": 1833.12,
+    "duration": 6.4,
+    "text": "but then department versus company, right? So like, do you centralize it company-wide?"
+  },
+  {
+    "start": 1839.52,
+    "duration": 4.8,
+    "text": "Do you centralize it department-wide? Like how do you think about the intelligence layer between"
+  },
+  {
+    "start": 1844.32,
+    "duration": 1.92,
+    "text": "those two components? Where do you centralize it?"
+  },
+  {
+    "start": 1846.24,
+    "duration": 2.4,
+    "text": "It's got to be company, Kyle, right?"
+  },
+  {
+    "start": 1848.64,
+    "duration": 1.92,
+    "text": "Well, I don't know."
+  },
+  {
+    "start": 1850.56,
+    "duration": 2.56,
+    "text": "But product and go-to-market are so different."
+  },
+  {
+    "start": 1853.92,
+    "duration": 3.6,
+    "text": "Okay. That's separate. Yes. That's a hundred percent separate."
+  },
+  {
+    "start": 1857.52,
+    "duration": 5.12,
+    "text": "I think like the AI you're applying to how your product team works and the AI you build"
+  },
+  {
+    "start": 1862.64,
+    "duration": 4.48,
+    "text": "into your product, that is a separate endeavor. And basically it's the point, like if you're not"
+  },
+  {
+    "start": 1867.12,
+    "duration": 5.2,
+    "text": "a totally AI-pilled engineer now, like you're going to lose your job imminently because everybody"
+  },
+  {
+    "start": 1872.32,
+    "duration": 0.8,
+    "text": "else around you is going to..."
+  },
+  {
+    "start": 1873.12,
+    "duration": 7.84,
+    "text": "If you're still writing code like manually, like if let's say if 20% or more of your code"
+  },
+  {
+    "start": 1880.96,
+    "duration": 6.16,
+    "text": "is handwritten still, you are very behind the market. Like that's where you are. Like you're"
+  },
+  {
+    "start": 1887.12,
+    "duration": 4.24,
+    "text": "kind of at that point where if you look at the 10% of the best engineers in the world,"
+  },
+  {
+    "start": 1892.0,
+    "duration": 4.24,
+    "text": "they're not writing code manually anymore. Like they're just not."
+  },
+  {
+    "start": 1896.24,
+    "duration": 2.88,
+    "text": "Yeah. I don't know what the specific benchmark is, but..."
+  },
+  {
+    "start": 1899.12,
+    "duration": 1.44,
+    "text": "It's literally that."
+  },
+  {
+    "start": 1900.8,
+    "duration": 4.64,
+    "text": "It is that. If you're doing more than 20%, it's a problem. You shouldn't have to."
+  },
+  {
+    "start": 1906.08,
+    "duration": 7.2,
+    "text": "Yeah. And so let's just say like, okay, product is over there and then everything market-facing"
+  },
+  {
+    "start": 1913.28,
+    "duration": 5.04,
+    "text": "from marketing all the way through to customer support is a separate basket. I do think that"
+  },
+  {
+    "start": 1918.32,
+    "duration": 8.0,
+    "text": "that needs to be quite centralized and you need central data management and intelligence building"
+  },
+  {
+    "start": 1926.32,
+    "duration": 4.24,
+    "text": "that can serve a bunch of these purposes. One of the other reasons that I don't want"
+  },
+  {
+    "start": 1930.56,
+    "duration": 5.04,
+    "text": "my intelligence to be in these other products, I don't want the intelligence engine to be in"
+  },
+  {
+    "start": 1935.6,
+    "duration": 6.32,
+    "text": "the sales engagement tool or be in my CS platform is I want to manage those centrally and I want"
+  },
+  {
+    "start": 1941.92,
+    "duration": 8.08,
+    "text": "everything to be able to come back to the same sets of skills or context files or prompts that"
+  },
+  {
+    "start": 1950.8,
+    "duration": 3.44,
+    "text": "then get shared centrally so that you have..."
+  },
+  {
+    "start": 1954.24,
+    "duration": 5.36,
+    "text": "Should I give you a variable on this in a services business? So like contrasting product"
+  },
+  {
+    "start": 1959.6,
+    "duration": 5.28,
+    "text": "versus services businesses. I've thought about this a lot. If you're a product business,"
+  },
+  {
+    "start": 1965.68,
+    "duration": 5.2,
+    "text": "yours, AJ's, I think you have to separate these two things. So you think you centralize by"
+  },
+  {
+    "start": 1970.88,
+    "duration": 4.4,
+    "text": "core department of the business. And so you say product is its own thing. This is its own thing."
+  },
+  {
+    "start": 1975.28,
+    "duration": 4.24,
+    "text": "You don't centralize it and operate from that. And you want to give people the chance to"
+  },
+  {
+    "start": 1979.52,
+    "duration": 4.0,
+    "text": "experiment on their own because you're going to get interesting ideas from the edge of where"
+  },
+  {
+    "start": 1983.52,
+    "duration": 5.68,
+    "text": "people are experimenting. Your most AI-filled whatever is going to bring ideas to the table,"
+  },
+  {
+    "start": 1989.2,
+    "duration": 4.56,
+    "text": "but you want to centralize things that go into production. If you're a services business,"
+  },
+  {
+    "start": 1993.76,
+    "duration": 5.76,
+    "text": "you probably need to centralize a lot more because your product is the people that are"
+  },
+  {
+    "start": 1999.52,
+    "duration": 5.68,
+    "text": "going into the market and solving that problem. So if you're Accenture, if you are a law firm,"
+  },
+  {
+    "start": 2005.92,
+    "duration": 5.44,
+    "text": "like your product is the humans and it's like intertwined between product and broader market."
+  },
+  {
+    "start": 2011.36,
+    "duration": 4.48,
+    "text": "Like in the services business, those two things are highly intertwined. And so you centralize"
+  },
+  {
+    "start": 2015.84,
+    "duration": 4.16,
+    "text": "even further over that. And so that's an interesting distinction on how like you"
+  },
+  {
+    "start": 2020.0,
+    "duration": 6.0,
+    "text": "would effectively build it here versus that. How are you picking the problems that you decide to"
+  },
+  {
+    "start": 2026.0,
+    "duration": 8.16,
+    "text": "focus the resources into? At this point, you probably have all these ideas of like really"
+  },
+  {
+    "start": 2034.16,
+    "duration": 9.12,
+    "text": "impactful stuff that could happen. And so how do you pick between like A versus B? This is what"
+  },
+  {
+    "start": 2043.28,
+    "duration": 6.4,
+    "text": "we're going to go after. Is that just taste? So the framework really needs to be identifying the"
+  },
+  {
+    "start": 2049.68,
+    "duration": 5.12,
+    "text": "most important business problems to go solve. Like people will randomly be like, oh, like I"
+  },
+  {
+    "start": 2054.8,
+    "duration": 8.24,
+    "text": "saw this cool thing on X or I saw I got this idea from a buddy. And or like they just thought of"
+  },
+  {
+    "start": 2063.04,
+    "duration": 4.24,
+    "text": "this idea on their own, like I could use AI for that. And so you end up doing a lot of these"
+  },
+  {
+    "start": 2067.28,
+    "duration": 6.8,
+    "text": "quality of life, like little itty bitty things that are not all that useful versus forcing yourself"
+  },
+  {
+    "start": 2074.08,
+    "duration": 5.36,
+    "text": "to think about, OK, what are the most important strategic priorities for the business? And then"
+  },
+  {
+    "start": 2079.44,
+    "duration": 6.4,
+    "text": "what are the ways to solve those business problems? And then where can I apply AI to that? And so I"
+  },
+  {
+    "start": 2085.84,
+    "duration": 5.6,
+    "text": "have this like five piece framework. So first, you want to map all the possibilities. What are"
+  },
+  {
+    "start": 2091.44,
+    "duration": 3.92,
+    "text": "the problems you want to solve and what are the possible ways to solve that problem?"
+  },
+  {
+    "start": 2096.0,
+    "duration": 5.52,
+    "text": "What's the payoff? So if I choose this possibility versus that one, if that works, what's the"
+  },
+  {
+    "start": 2101.52,
+    "duration": 6.88,
+    "text": "payoff of it? Is it a million dollars and more ARR? Is it saving 200K? What is the probability"
+  },
+  {
+    "start": 2108.4,
+    "duration": 4.72,
+    "text": "that that works out? And if you take payoff times probability, now you get expected value."
+  },
+  {
+    "start": 2113.12,
+    "duration": 5.44,
+    "text": "A lot of this is like a riff on Annie Duke's stuff from How to Decide and Thinking in Vets."
+  },
+  {
+    "start": 2119.36,
+    "duration": 5.44,
+    "text": "And then you have to think about the perspiration, like now what is the effort required to make that"
+  },
+  {
+    "start": 2125.84,
+    "duration": 5.68,
+    "text": "initiative work? And then you can pick, then you can choose what you want to do,"
+  },
+  {
+    "start": 2131.52,
+    "duration": 6.48,
+    "text": "because you obviously want high payoff, high probability bets, possibilities that have low"
+  },
+  {
+    "start": 2138.0,
+    "duration": 7.6,
+    "text": "perspiration. And so that you can either use as an actual framework or is just a heuristic."
+  },
+  {
+    "start": 2145.6,
+    "duration": 3.84,
+    "text": "And you keep coming back to yourself and when you're thinking through problems,"
+  },
+  {
+    "start": 2150.16,
+    "duration": 5.68,
+    "text": "okay, these are the options and well, what's the outcome if we get that right? Well, it saves every"
+  },
+  {
+    "start": 2155.84,
+    "duration": 8.96,
+    "text": "rep like 15 minutes a day. Okay, no, that's not that compelling versus, and I think 80% of your"
+  },
+  {
+    "start": 2164.8,
+    "duration": 6.72,
+    "text": "AI efforts in your early innings should be pipeline focused. Pipeline is, you talk to any CRO,"
+  },
+  {
+    "start": 2171.52,
+    "duration": 4.72,
+    "text": "any founder, other than the fastest growing companies in history, what's their problem?"
+  },
+  {
+    "start": 2176.24,
+    "duration": 7.76,
+    "text": "If they had more pipeline, things would be better. And AI is a really good pipeline tool."
+  },
+  {
+    "start": 2185.68,
+    "duration": 3.68,
+    "text": "And so once you get your first party and third party data foundations in the right place,"
+  },
+  {
+    "start": 2189.36,
+    "duration": 6.32,
+    "text": "now what are the options to go do that? Is it about picking the absolute right accounts and"
+  },
+  {
+    "start": 2195.68,
+    "duration": 6.32,
+    "text": "knowing what time to reach out to them or knowing what to say to them on a cold call or in an email"
+  },
+  {
+    "start": 2202.0,
+    "duration": 6.64,
+    "text": "or using AI to generate compelling artifacts to send to those customers? We have this AI website"
+  },
+  {
+    "start": 2208.64,
+    "duration": 8.64,
+    "text": "grader that's the world's best lead magnet. That's an example of building AI as a pipeline driver."
+  },
+  {
+    "start": 2217.28,
+    "duration": 6.96,
+    "text": "On that point, your AI initiatives as it relates to pipeline, how often are you looking at the"
+  },
+  {
+    "start": 2224.24,
+    "duration": 6.16,
+    "text": "different channels and are you measuring then cost of acquisition to that? Are you adjusting"
+  },
+  {
+    "start": 2230.4,
+    "duration": 5.68,
+    "text": "them on a weekly basis and the different channels? You're constantly looking at this. Do you feel"
+  },
+  {
+    "start": 2236.08,
+    "duration": 6.88,
+    "text": "like it's revved up more as a CRO prior to AI or is it about the same way more?"
+  },
+  {
+    "start": 2243.52,
+    "duration": 6.16,
+    "text": "We have tests that are happening every single week in terms of new ideas. And I would say 80%"
+  },
+  {
+    "start": 2249.68,
+    "duration": 7.76,
+    "text": "of what our AI lead does is pipe gen focused. We actually had multiple tests happening last week."
+  },
+  {
+    "start": 2258.96,
+    "duration": 5.92,
+    "text": "Small things like what hours of the day should you be calling? And so we built some tests to"
+  },
+  {
+    "start": 2264.88,
+    "duration": 7.2,
+    "text": "figure out, okay, how do we control for dial volumes in person and figure out exactly what"
+  },
+  {
+    "start": 2272.08,
+    "duration": 5.44,
+    "text": "times of day should we be calling? How do we structure the team so that then we put meetings,"
+  },
+  {
+    "start": 2278.08,
+    "duration": 4.16,
+    "text": "everybody has to have some meetings. We put meetings in the parts of the day that are"
+  },
+  {
+    "start": 2282.24,
+    "duration": 5.28,
+    "text": "low connect rate. And we really make sure that the team is as revved up as possible for those"
+  },
+  {
+    "start": 2287.52,
+    "duration": 7.04,
+    "text": "high connect time periods. And you can just take every little piece of your funnel building motion"
+  },
+  {
+    "start": 2295.12,
+    "duration": 4.64,
+    "text": "and figure out how to improve that. Time to first touch. When somebody fills out a lead form,"
+  },
+  {
+    "start": 2299.76,
+    "duration": 5.28,
+    "text": "how fast do you get to them? How do you use AI to make that better? Well, make sure that the rep"
+  },
+  {
+    "start": 2305.04,
+    "duration": 6.96,
+    "text": "doesn't have to do any research before picking up the phone and calling. So AI does the research"
+  },
+  {
+    "start": 2312.0,
+    "duration": 6.56,
+    "text": "and fills in the information and hand delivers to the BDR exactly what they need. Just the three"
+  },
+  {
+    "start": 2318.56,
+    "duration": 5.04,
+    "text": "things, not 20 things that you could say on this cold call. They just need like two or three."
+  },
+  {
+    "start": 2323.6,
+    "duration": 6.16,
+    "text": "And then you can experiment like, okay, let's try a different pattern interrupt. Let's try a"
+  },
+  {
+    "start": 2329.76,
+    "duration": 6.32,
+    "text": "different offer of value. And you can start to get really intelligent about that system."
+  },
+  {
+    "start": 2336.08,
+    "duration": 4.72,
+    "text": "One more thing, like you can't do that unless your first party data is good. So we talked about the"
+  },
+  {
+    "start": 2340.8,
+    "duration": 4.24,
+    "text": "first party data piece, which the third party data piece, which is understanding your market,"
+  },
+  {
+    "start": 2345.04,
+    "duration": 5.68,
+    "text": "the accounts through to call contact information. First party data is, do you understand what's"
+  },
+  {
+    "start": 2350.72,
+    "duration": 4.72,
+    "text": "happening in your customer journey in a deep level of granularity so that you can do these"
+  },
+  {
+    "start": 2355.44,
+    "duration": 6.16,
+    "text": "tests? And that's where we use momentum so that it scans every call and fills in all the fields."
+  },
+  {
+    "start": 2361.6,
+    "duration": 6.32,
+    "text": "And we can write prompts and then back test and backfill from previous calls to have this level"
+  },
+  {
+    "start": 2367.92,
+    "duration": 4.8,
+    "text": "of intelligence of like, when people ask these questions, what happened? And when we give these"
+  },
+  {
+    "start": 2372.72,
+    "duration": 4.32,
+    "text": "answers or we rolled out new pricing, so we've got all of these prompts that are set up to tell"
+  },
+  {
+    "start": 2377.04,
+    "duration": 5.2,
+    "text": "us if the new pricing is working or not. You need that infrastructure as a baseline. And I like tell"
+  },
+  {
+    "start": 2382.24,
+    "duration": 5.28,
+    "text": "everybody use momentum if you're like slightly bigger. Do you still tell them, by the way?"
+  },
+  {
+    "start": 2387.52,
+    "duration": 5.84,
+    "text": "Congrats also as an advisor, but I'm just I'm kind of being facetious and joking about that comment."
+  },
+  {
+    "start": 2394.08,
+    "duration": 2.8,
+    "text": "No, actually, we use momentum. It's free product, of course."
+  },
+  {
+    "start": 2397.52,
+    "duration": 5.92,
+    "text": "I actually think the Salesforce acquisition is awesome. And and I was like a big supporter of"
+  },
+  {
+    "start": 2403.44,
+    "duration": 6.08,
+    "text": "that on both sides of the fence, actually, because it'll just help them get deeper into"
+  },
+  {
+    "start": 2410.24,
+    "duration": 7.36,
+    "text": "making Salesforce be like the best system possible. And they'll get a bunch of advantages now over all"
+  },
+  {
+    "start": 2417.6,
+    "duration": 5.12,
+    "text": "the other call recording tools that are that's that's going to be. I went from being a bear on"
+  },
+  {
+    "start": 2422.72,
+    "duration": 6.72,
+    "text": "Salesforce 24 months ago to being like very bullish on Salesforce now, which I never thought I would"
+  },
+  {
+    "start": 2429.44,
+    "duration": 5.92,
+    "text": "say because, you know, they bought Bluebirds, Momentum, Qualified, Informatica. They're all"
+  },
+  {
+    "start": 2435.36,
+    "duration": 6.56,
+    "text": "in on AI. And I think the way the ecosystem is going to move is actually it advantages"
+  },
+  {
+    "start": 2441.92,
+    "duration": 4.64,
+    "text": "Salesforce as like this pivot point of where all the integrations are, where all the partners are,"
+  },
+  {
+    "start": 2446.56,
+    "duration": 4.0,
+    "text": "where governance and rules and permissions all sit. I actually think it's going to work"
+  },
+  {
+    "start": 2450.56,
+    "duration": 4.24,
+    "text": "out pretty well for them. It's interesting because they have so much revenue like to"
+  },
+  {
+    "start": 2454.8,
+    "duration": 4.96,
+    "text": "move a 40 billion dollar business. You know, if you want to grow that at 30 percent, 20 percent,"
+  },
+  {
+    "start": 2459.76,
+    "duration": 5.6,
+    "text": "like that's a lot of revenue you got to find. And so that doesn't mean like if in the public"
+  },
+  {
+    "start": 2465.36,
+    "duration": 4.56,
+    "text": "markets they aren't able to show the sort of growth that is going to be amazing in the short"
+  },
+  {
+    "start": 2469.92,
+    "duration": 6.48,
+    "text": "term for their stock. It doesn't mean that from a value provided to a CRO and a revenue ops person"
+  },
+  {
+    "start": 2476.4,
+    "duration": 5.76,
+    "text": "and hence the sales team that they can't figure out a really, really good integration of all of"
+  },
+  {
+    "start": 2482.16,
+    "duration": 4.08,
+    "text": "this stuff and hence product for the team. I think on one side, you have to be bullish. On the other"
+  },
+  {
+    "start": 2486.24,
+    "duration": 5.36,
+    "text": "side, you still probably have a tough time in the market for a bit. But it's founder led. That's"
+  },
+  {
+    "start": 2491.6,
+    "duration": 5.12,
+    "text": "the key. Benioff can make the call and say we're all in on this. We are in Salesforce. And that's"
+  },
+  {
+    "start": 2496.72,
+    "duration": 4.0,
+    "text": "true for, I think, so many startups. It's going to be really interesting to see what happens to"
+  },
+  {
+    "start": 2500.72,
+    "duration": 6.32,
+    "text": "the PE companies or venture companies that have installed CEOs that are very much the predictable"
+  },
+  {
+    "start": 2507.04,
+    "duration": 7.12,
+    "text": "revenue drivers and they've done it for decades because that's going to change. I don't think"
+  },
+  {
+    "start": 2514.16,
+    "duration": 4.48,
+    "text": "it's true. I think it's like there are more companies that were founder led that have"
+  },
+  {
+    "start": 2518.64,
+    "duration": 5.28,
+    "text": "failed than succeeded. There's more market cap that's been created by non-founder CEOs than"
+  },
+  {
+    "start": 2523.92,
+    "duration": 8.24,
+    "text": "founder CEOs. And so I think it's like there is advantages when you're the founder. You're willing"
+  },
+  {
+    "start": 2532.16,
+    "duration": 6.96,
+    "text": "to take certain risks and bets that maybe the other person is going to be more measured about."
+  },
+  {
+    "start": 2539.12,
+    "duration": 6.4,
+    "text": "But I think it's undeniable that on the other side, you have CEOs of all sorts that can do"
+  },
+  {
+    "start": 2545.52,
+    "duration": 6.4,
+    "text": "that as well. I think Satya, Sundar, these guys at different points have shown the founder sort"
+  },
+  {
+    "start": 2551.92,
+    "duration": 5.12,
+    "text": "of mentality. So then a founder CEO says, they're like me. But it's like, no, you are just a really"
+  },
+  {
+    "start": 2557.04,
+    "duration": 4.96,
+    "text": "good CEO. And they're a really good CEO. It's not like you're a really good CEO because you're a"
+  },
+  {
+    "start": 2562.0,
+    "duration": 4.64,
+    "text": "founder. You've just figured out how to be a really good CEO. And that guy is doing the CEO"
+  },
+  {
+    "start": 2566.64,
+    "duration": 4.88,
+    "text": "job really well too. It's kind of that. That's where I think it is. Just like how the founder"
+  },
+  {
+    "start": 2571.52,
+    "duration": 6.56,
+    "text": "mode thing was like complete nonsense. It's like, hmm. And it over tilted. It went into this wrong"
+  },
+  {
+    "start": 2578.08,
+    "duration": 6.24,
+    "text": "area. Ben Horowitz spoke about this. He's like, it started happening where you found companies that"
+  },
+  {
+    "start": 2584.32,
+    "duration": 6.08,
+    "text": "were actually not hiring the sort of people they needed to hire to be able to go solve the problems"
+  },
+  {
+    "start": 2590.4,
+    "duration": 4.72,
+    "text": "they needed to solve. So founder mode became an impediment to growth within the interest"
+  },
+  {
+    "start": 2595.92,
+    "duration": 4.48,
+    "text": "portfolio. And they had to push really hard to kind of break that mentality within their"
+  },
+  {
+    "start": 2600.4,
+    "duration": 6.0,
+    "text": "portfolio. That was really interesting. I still think founder mode is really important. Anything"
+  },
+  {
+    "start": 2606.4,
+    "duration": 4.24,
+    "text": "in the extreme can be detrimental. You're going to trigger us on that one, Kyle, because"
+  },
+  {
+    "start": 2613.76,
+    "duration": 6.56,
+    "text": "I think if you look at founder mode as you want a founder who has a certain, I don't know,"
+  },
+  {
+    "start": 2620.32,
+    "duration": 6.64,
+    "text": "a certain energy to them and certain sort of proactiveness to them. Sure. Great. But at the"
+  },
+  {
+    "start": 2626.96,
+    "duration": 5.44,
+    "text": "same time, the theory was framed. So it's like the framing of founder mode. Is that effective"
+  },
+  {
+    "start": 2632.4,
+    "duration": 4.0,
+    "text": "or ineffective? I think it's like one of the most ineffective things that they published,"
+  },
+  {
+    "start": 2636.4,
+    "duration": 4.48,
+    "text": "because it's hard to understand and implement it correctly. It's one of those theories that"
+  },
+  {
+    "start": 2640.88,
+    "duration": 6.08,
+    "text": "always gets you always stand when you implement it. So if its implementation is traditionally"
+  },
+  {
+    "start": 2646.96,
+    "duration": 5.44,
+    "text": "overextended, it's not a good theory. It didn't get like understood. Yeah, that's fair."
+  },
+  {
+    "start": 2652.4,
+    "duration": 5.04,
+    "text": "What do you think? Because you're at the edge of this, you're noticing like as model improvement"
+  },
+  {
+    "start": 2657.44,
+    "duration": 6.48,
+    "text": "has happened, new use cases have become available. What are you excited about in the next 12 months"
+  },
+  {
+    "start": 2664.48,
+    "duration": 5.28,
+    "text": "beyond the pipeline stuff where you're like, this is not doable today, but I think it'll be possible"
+  },
+  {
+    "start": 2669.76,
+    "duration": 7.44,
+    "text": "at some point. Cowork is a really interesting first step in this where, you know, the last 12"
+  },
+  {
+    "start": 2677.2,
+    "duration": 5.84,
+    "text": "months you could build a bunch of the stuff we're building now. It just was way trickier. And you"
+  },
+  {
+    "start": 2683.04,
+    "duration": 6.56,
+    "text": "had to like, I had to learn how to use terminal and set all this like other stuff up. And there"
+  },
+  {
+    "start": 2689.6,
+    "duration": 5.44,
+    "text": "was a pretty big learning curve. And I think Cowork and what Claude announced yesterday,"
+  },
+  {
+    "start": 2695.04,
+    "duration": 7.28,
+    "text": "which is sort of like their open claw competitive push, like dispatch, I think it is where you can"
+  },
+  {
+    "start": 2702.32,
+    "duration": 5.52,
+    "text": "have like mobile access. I think we're just going to, we're going to take, I don't know who's,"
+  },
+  {
+    "start": 2707.84,
+    "duration": 3.52,
+    "text": "I can't remember whose quote it was. Like the future, the future is here. It's just not evenly"
+  },
+  {
+    "start": 2711.36,
+    "duration": 5.2,
+    "text": "distributed yet. I think we already live in this where there's a lot of people that are completely"
+  },
+  {
+    "start": 2716.56,
+    "duration": 5.76,
+    "text": "living in the future and are just doing like things that are, that are, were once unimaginable."
+  },
+  {
+    "start": 2722.32,
+    "duration": 5.76,
+    "text": "Like my VP of rev ops was like, he's like, I, yesterday I accomplished what I would have done"
+  },
+  {
+    "start": 2728.08,
+    "duration": 6.32,
+    "text": "in two weeks, like two years ago. And he sent me the list of, I was like, dude, tell me more. Like,"
+  },
+  {
+    "start": 2734.4,
+    "duration": 4.08,
+    "text": "what did you do? And he sent me the list of these like six things. And I was like, wow, that is"
+  },
+  {
+    "start": 2738.48,
+    "duration": 6.32,
+    "text": "crazy. And, but Steve is living in the future. He's got his open client instance and like all of"
+  },
+  {
+    "start": 2744.8,
+    "duration": 7.2,
+    "text": "the context files and skills and it's API'd into everything. But I think bringing what he, people"
+  },
+  {
+    "start": 2752.0,
+    "duration": 6.0,
+    "text": "like him and people, what my, my applied AI leader is doing to like many, many more people."
+  },
+  {
+    "start": 2758.0,
+    "duration": 6.16,
+    "text": "And I think the average employee in the next six to 12 months will be much more like a Steve. And,"
+  },
+  {
+    "start": 2764.16,
+    "duration": 6.4,
+    "text": "and we're seeing this in our business where the people that have adopted the tools just jump out"
+  },
+  {
+    "start": 2770.56,
+    "duration": 6.4,
+    "text": "of slack at you. Like, you know, something goes to the enablement team and then they spin up an"
+  },
+  {
+    "start": 2776.96,
+    "duration": 6.0,
+    "text": "output that is like super high quality. And I'm impressed by, and it was three hours later. I was"
+  },
+  {
+    "start": 2782.96,
+    "duration": 5.76,
+    "text": "like, this is multiple days of work. And so those people are just so much more valuable and they do"
+  },
+  {
+    "start": 2788.72,
+    "duration": 5.36,
+    "text": "so much more and they're going to rise the ranks so rapidly that it's not that everybody's going"
+  },
+  {
+    "start": 2794.08,
+    "duration": 5.6,
+    "text": "to be like, you're not AI native, you're fired. It's just going to be like, it's so drastic,"
+  },
+  {
+    "start": 2799.68,
+    "duration": 5.68,
+    "text": "the difference in output between these two people. But I think the co-works and dispatches and,"
+  },
+  {
+    "start": 2805.36,
+    "duration": 5.12,
+    "text": "you know, somebody building like a easy to use open cloud will come to more people. And that I"
+  },
+  {
+    "start": 2810.48,
+    "duration": 5.36,
+    "text": "think is going to unlock much more productivity. And we'll probably start seeing that in like GDP"
+  },
+  {
+    "start": 2815.84,
+    "duration": 5.84,
+    "text": "numbers over the next 12 to 24 months. And would also expose like another group of people, like,"
+  },
+  {
+    "start": 2821.68,
+    "duration": 6.0,
+    "text": "you know, the, the ones that, that latch onto it, like that's an accelerant for them. And the ones"
+  },
+  {
+    "start": 2827.68,
+    "duration": 6.16,
+    "text": "who don't, it becomes like, it exposes that person greatly as well. So like it's going to become a"
+  },
+  {
+    "start": 2833.84,
+    "duration": 6.4,
+    "text": "bit scarier for a lot of people too, as a result. So Kyle, you've made me feel slightly better about"
+  },
+  {
+    "start": 2840.24,
+    "duration": 5.28,
+    "text": "what we're doing at Quotapath, but it's still, I'll still have the existential crisis tonight."
+  },
+  {
+    "start": 2845.52,
+    "duration": 3.12,
+    "text": "It happens every night. I just go through this. I'm like, sit there and I'm like, oh my God,"
+  },
+  {
+    "start": 2848.64,
+    "duration": 8.16,
+    "text": "what are we doing? Right now we have Cloud Code and CloudBot and co-work all running at the same"
+  },
+  {
+    "start": 2856.8,
+    "duration": 5.36,
+    "text": "time. And it's just like, that part of it is a mess. And we are also trying to figure out how"
+  },
+  {
+    "start": 2862.16,
+    "duration": 5.52,
+    "text": "do you reconcile all these different context files, all these different skills? How do you give"
+  },
+  {
+    "start": 2867.68,
+    "duration": 4.8,
+    "text": "people access with the right governance and permissions to like what parts of this GitHub"
+  },
+  {
+    "start": 2872.48,
+    "duration": 5.92,
+    "text": "repo? That is an unsolved problem. But I think AJ, your theme is such a good example of like,"
+  },
+  {
+    "start": 2878.4,
+    "duration": 5.36,
+    "text": "you guys raise venture dollars, but you're not on the like, you know, growth at all costs, like"
+  },
+  {
+    "start": 2883.76,
+    "duration": 5.84,
+    "text": "spend, spend the most trajectory. And you have a team that is like AI-pilled and building real"
+  },
+  {
+    "start": 2889.6,
+    "duration": 7.12,
+    "text": "stuff. You do not need to be owner in spending, you know, the, the, the, or burning the amount"
+  },
+  {
+    "start": 2896.72,
+    "duration": 5.44,
+    "text": "of capital that we are playing our game. Like you can do it in, I mean, both you guys are running"
+  },
+  {
+    "start": 2902.16,
+    "duration": 4.8,
+    "text": "organizations like this. And so I think the message to leave everybody as we wrap is like,"
+  },
+  {
+    "start": 2906.96,
+    "duration": 8.32,
+    "text": "there are no excuses. Your CFO being penny-pinching is not an excuse. Your CIO, you know, uh, giving"
+  },
+  {
+    "start": 2915.28,
+    "duration": 4.56,
+    "text": "you friction about whatever is not an excuse. Like you just have to go run. Product roadmaps"
+  },
+  {
+    "start": 2919.84,
+    "duration": 5.12,
+    "text": "being months and years is not an excuse. Like there are. And if you're not in a position of"
+  },
+  {
+    "start": 2924.96,
+    "duration": 4.24,
+    "text": "power, like just leave that company. Like you're in the wrong company then. If you're not in a"
+  },
+  {
+    "start": 2929.2,
+    "duration": 6.56,
+    "text": "position of power and you're noticing that sort of like hesitation, leave. And if you are, then push"
+  },
+  {
+    "start": 2935.76,
+    "duration": 4.0,
+    "text": "hard. Like if you're in a position of power, expose that as like the thing that's going to be the"
+  },
+  {
+    "start": 2939.76,
+    "duration": 5.68,
+    "text": "thing that makes us fail. And if you're the founder CEO, fix your order, like you have to"
+  },
+  {
+    "start": 2945.44,
+    "duration": 4.4,
+    "text": "make this work. This has been a great episode of top line. What I learned from it is that founder"
+  },
+  {
+    "start": 2949.84,
+    "duration": 10.16,
+    "text": "mode is very real and awesome. Thanks Kyle. I hope Sam's board meeting went well as he had to hop,"
+  },
+  {
+    "start": 2960.0,
+    "duration": 3.92,
+    "text": "but thanks for joining us today. Yeah. Appreciate it."
+  }
+]

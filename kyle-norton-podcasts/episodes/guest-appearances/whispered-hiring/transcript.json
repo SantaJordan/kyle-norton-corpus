@@ -1,0 +1,3952 @@
+[
+  {
+    "start": 0.0,
+    "duration": 6.56,
+    "text": "But I think one of the mistakes people make is they lack a significant amount of structure in how they hire."
+  },
+  {
+    "start": 6.56,
+    "duration": 4.72,
+    "text": "Redundancy and having multiple points of view doesn't mean hiring by consensus."
+  },
+  {
+    "start": 11.28,
+    "duration": 5.12,
+    "text": "Because I actually think hiring by consensus leads you to worse decisions."
+  },
+  {
+    "start": 16.4,
+    "duration": 2.6,
+    "text": "I don't think we're a smaller team because of AI now."
+  },
+  {
+    "start": 19.0,
+    "duration": 2.2,
+    "text": "I think we get more done because of AI."
+  },
+  {
+    "start": 21.2,
+    "duration": 3.56,
+    "text": "Yeah, as resources get cheaper, you're not going to use less of them,"
+  },
+  {
+    "start": 24.76,
+    "duration": 1.88,
+    "text": "which is the typical supply-demand curve."
+  },
+  {
+    "start": 26.64,
+    "duration": 1.2,
+    "text": "You'll actually use more of them."
+  },
+  {
+    "start": 27.84,
+    "duration": 6.16,
+    "text": "Fundamentally, people are really bad at hiring, and interviewing is sort of useless in a lot of ways."
+  },
+  {
+    "start": 40.24,
+    "duration": 3.92,
+    "text": "Welcome to How I Hire, the podcast where we talk with senior go-to-market leaders"
+  },
+  {
+    "start": 44.16,
+    "duration": 3.76,
+    "text": "about how they find, vet, attract, and grow new talent."
+  },
+  {
+    "start": 47.92,
+    "duration": 2.24,
+    "text": "Today, I'm joined by Kyle Norton."
+  },
+  {
+    "start": 50.16,
+    "duration": 4.16,
+    "text": "Kyle is a CRO at Owner.com, which provides a turnkey digital platform for restaurants."
+  },
+  {
+    "start": 54.32,
+    "duration": 2.8,
+    "text": "Before that, Kyle was a sales leader at Shopify."
+  },
+  {
+    "start": 57.12,
+    "duration": 4.0,
+    "text": "So, if there's somebody who knows selling to Main Street businesses, it's Kyle."
+  },
+  {
+    "start": 61.12,
+    "duration": 1.2,
+    "text": "Kyle, it's great to have you."
+  },
+  {
+    "start": 62.88,
+    "duration": 2.0,
+    "text": "Appreciate it. Good to see you again, Andy."
+  },
+  {
+    "start": 65.52,
+    "duration": 1.52,
+    "text": "Yeah, absolutely. Looking forward to this."
+  },
+  {
+    "start": 68.0,
+    "duration": 3.12,
+    "text": "So, you target a different buyer than most B2B sales teams."
+  },
+  {
+    "start": 71.12,
+    "duration": 3.12,
+    "text": "I'm excited to talk to you about the strategies you use to build your team."
+  },
+  {
+    "start": 74.24,
+    "duration": 2.32,
+    "text": "I've heard you on a lot of other podcasts."
+  },
+  {
+    "start": 76.56,
+    "duration": 2.8,
+    "text": "Talk is hiring is a part of the overall podcast discussion,"
+  },
+  {
+    "start": 79.36,
+    "duration": 2.16,
+    "text": "but I'm excited to go deep on how you hire today."
+  },
+  {
+    "start": 82.24,
+    "duration": 2.48,
+    "text": "Yeah, I'm looking forward to it because I think a lot about this."
+  },
+  {
+    "start": 85.04,
+    "duration": 2.4,
+    "text": "It's a topic that is near and dear to my heart."
+  },
+  {
+    "start": 87.44,
+    "duration": 2.32,
+    "text": "That's great. We're going to take it in some fun directions for sure."
+  },
+  {
+    "start": 90.8,
+    "duration": 4.56,
+    "text": "How do you think about team design and where you need to hire people?"
+  },
+  {
+    "start": 95.36,
+    "duration": 1.68,
+    "text": "I guess I would break it into two buckets."
+  },
+  {
+    "start": 97.04,
+    "duration": 3.76,
+    "text": "There's the senior exec roles where you're being very strategic."
+  },
+  {
+    "start": 100.8,
+    "duration": 2.24,
+    "text": "And then there's the always-on type of roles."
+  },
+  {
+    "start": 103.04,
+    "duration": 1.2,
+    "text": "I guess we'll go down both."
+  },
+  {
+    "start": 104.24,
+    "duration": 4.32,
+    "text": "But I'd be curious if you're designing a new exec role, how do you think about that?"
+  },
+  {
+    "start": 108.56,
+    "duration": 0.8,
+    "text": "How do you design it?"
+  },
+  {
+    "start": 109.36,
+    "duration": 3.2,
+    "text": "When do you know you need to hire a new senior go-to-market exec?"
+  },
+  {
+    "start": 112.56,
+    "duration": 4.08,
+    "text": "The when question is the trickiest one because I think we're all balancing"
+  },
+  {
+    "start": 116.64,
+    "duration": 7.2,
+    "text": "the same thing of not becoming an overly top-heavy organization with a bunch of senior execs"
+  },
+  {
+    "start": 124.48,
+    "duration": 5.52,
+    "text": "cooking up plans in ivory towers without the muscle to go execute."
+  },
+  {
+    "start": 131.36,
+    "duration": 4.88,
+    "text": "There's obviously a lot of inefficiency there, but we are in a very rapidly scaling business."
+  },
+  {
+    "start": 137.04,
+    "duration": 5.36,
+    "text": "We're approaching 50 million ARR, still growing close to 2.5x year over year."
+  },
+  {
+    "start": 143.04,
+    "duration": 8.88,
+    "text": "So in that world, we tend to be hiring ahead quite a bit."
+  },
+  {
+    "start": 152.8,
+    "duration": 4.48,
+    "text": "So we're hiring a director of Salesforce architecture right now."
+  },
+  {
+    "start": 157.28,
+    "duration": 3.76,
+    "text": "Somebody that's going to be quite senior coming from a much larger company."
+  },
+  {
+    "start": 161.6,
+    "duration": 6.88,
+    "text": "And that's a person that most companies might not hire for a few quarters or a few years."
+  },
+  {
+    "start": 169.04,
+    "duration": 5.76,
+    "text": "But with the speed at which we are moving as an organization and all of the infrastructure"
+  },
+  {
+    "start": 174.8,
+    "duration": 5.44,
+    "text": "investments, it's a hire that makes sense for us to pull forward because the decisions you"
+  },
+  {
+    "start": 180.24,
+    "duration": 5.28,
+    "text": "make now can have really significant ramifications in terms of tech debt, which you know better than"
+  },
+  {
+    "start": 185.52,
+    "duration": 4.08,
+    "text": "most in some future period."
+  },
+  {
+    "start": 189.6,
+    "duration": 3.04,
+    "text": "And so the when is the hardest part."
+  },
+  {
+    "start": 192.64,
+    "duration": 1.92,
+    "text": "I think a lot of it is feel."
+  },
+  {
+    "start": 197.36,
+    "duration": 6.08,
+    "text": "Generally, you know what types of folks you'll have in the organization."
+  },
+  {
+    "start": 203.44,
+    "duration": 6.0,
+    "text": "But the question is, when do I need a senior sales leader versus a functional sales leader?"
+  },
+  {
+    "start": 209.44,
+    "duration": 5.92,
+    "text": "When do I need my first RevOps leader or a chief of staff?"
+  },
+  {
+    "start": 215.36,
+    "duration": 2.56,
+    "text": "When do I invest in some of these other functions?"
+  },
+  {
+    "start": 219.76,
+    "duration": 1.84,
+    "text": "So you'll have some pattern recognition."
+  },
+  {
+    "start": 221.6,
+    "duration": 4.48,
+    "text": "I find talking to other CROs is eminently helpful here."
+  },
+  {
+    "start": 226.08,
+    "duration": 4.16,
+    "text": "A couple hours ago, I was on a call with a bunch of the Pavilion Gold people."
+  },
+  {
+    "start": 230.8,
+    "duration": 1.76,
+    "text": "And this was a topic conversation."
+  },
+  {
+    "start": 232.56,
+    "duration": 6.0,
+    "text": "And some folks shared really interesting insight on it when they placed these roles and how they"
+  },
+  {
+    "start": 238.56,
+    "duration": 0.48,
+    "text": "knew."
+  },
+  {
+    "start": 239.04,
+    "duration": 4.96,
+    "text": "And there's not an awesome framework or roadmap to follow."
+  },
+  {
+    "start": 244.08,
+    "duration": 5.84,
+    "text": "So I think having peers to benchmark against is a piece of it."
+  },
+  {
+    "start": 249.92,
+    "duration": 2.32,
+    "text": "And it is feel."
+  },
+  {
+    "start": 252.24,
+    "duration": 5.92,
+    "text": "I still think at the end of the day, where are you feeling pressure from the organization?"
+  },
+  {
+    "start": 258.16,
+    "duration": 6.08,
+    "text": "Where are you feeling like you're not moving fast enough that you want to make more progress?"
+  },
+  {
+    "start": 264.24,
+    "duration": 2.88,
+    "text": "What's bottlenecked by you personally?"
+  },
+  {
+    "start": 267.68,
+    "duration": 8.08,
+    "text": "We hired an SVP of go-to-market strategy recently, who's a very senior executive,"
+  },
+  {
+    "start": 275.76,
+    "duration": 5.92,
+    "text": "was HubSpot for 8 years, worked directly with Brian Halligan, reported in him."
+  },
+  {
+    "start": 281.68,
+    "duration": 6.48,
+    "text": "And that was to unlock a series of investments that we're making because I was basically"
+  },
+  {
+    "start": 288.16,
+    "duration": 0.96,
+    "text": "bottlenecking it."
+  },
+  {
+    "start": 289.12,
+    "duration": 4.24,
+    "text": "I couldn't spend as much time as I think these bets needed."
+  },
+  {
+    "start": 293.36,
+    "duration": 2.48,
+    "text": "And that was a feel thing."
+  },
+  {
+    "start": 295.84,
+    "duration": 6.72,
+    "text": "And we got lucky that he was in our orbit as a company and he's an incredible leader."
+  },
+  {
+    "start": 302.56,
+    "duration": 2.16,
+    "text": "And so we went ahead and made that decision."
+  },
+  {
+    "start": 306.32,
+    "duration": 3.76,
+    "text": "So figuring out that piece of it is, I think, very difficult, nuanced."
+  },
+  {
+    "start": 310.88,
+    "duration": 1.68,
+    "text": "Pattern recognition helps."
+  },
+  {
+    "start": 312.56,
+    "duration": 1.68,
+    "text": "And it's a feel thing."
+  },
+  {
+    "start": 314.24,
+    "duration": 2.72,
+    "text": "Hiring reps is not at all vibes and feel."
+  },
+  {
+    "start": 318.08,
+    "duration": 1.28,
+    "text": "That is programmatic."
+  },
+  {
+    "start": 319.36,
+    "duration": 6.08,
+    "text": "And you need to be awesome in the spreadsheet to be able to do that well so that you are"
+  },
+  {
+    "start": 325.84,
+    "duration": 4.16,
+    "text": "capturing growth while managing your unit economics and efficiency."
+  },
+  {
+    "start": 330.0,
+    "duration": 1.92,
+    "text": "If we want to triple click into that, we can."
+  },
+  {
+    "start": 331.92,
+    "duration": 1.12,
+    "text": "But I'm excited."
+  },
+  {
+    "start": 333.04,
+    "duration": 3.12,
+    "text": "I got 2 questions on the strategy of the senior folks."
+  },
+  {
+    "start": 336.16,
+    "duration": 5.28,
+    "text": "First, one is I think your point was really solid on you're hiring ahead when you're growing"
+  },
+  {
+    "start": 341.44,
+    "duration": 0.8,
+    "text": "fast."
+  },
+  {
+    "start": 342.24,
+    "duration": 2.48,
+    "text": "People are like, hey, what level should I hire at?"
+  },
+  {
+    "start": 344.72,
+    "duration": 2.88,
+    "text": "And I always say, listen, if you're growing at the types of rates you're growing at,"
+  },
+  {
+    "start": 348.48,
+    "duration": 2.96,
+    "text": "overhire the person who can pull you up."
+  },
+  {
+    "start": 351.44,
+    "duration": 3.28,
+    "text": "And you don't have to worry about leveling them at the future point."
+  },
+  {
+    "start": 355.6,
+    "duration": 1.36,
+    "text": "They've seen the things ahead."
+  },
+  {
+    "start": 356.96,
+    "duration": 3.68,
+    "text": "So I love how you gave the example of the SVP of strategy."
+  },
+  {
+    "start": 361.52,
+    "duration": 1.12,
+    "text": "And I do the same thing."
+  },
+  {
+    "start": 362.64,
+    "duration": 7.6,
+    "text": "My heuristic is if you are above 20 million ARR and still doubling, you have a pretty"
+  },
+  {
+    "start": 370.24,
+    "duration": 2.64,
+    "text": "good chance you're hitting some exit velocity."
+  },
+  {
+    "start": 372.88,
+    "duration": 4.64,
+    "text": "You should be putting somebody into the seat today that can do the job that you know today"
+  },
+  {
+    "start": 377.52,
+    "duration": 3.68,
+    "text": "can do the job required in 18 months."
+  },
+  {
+    "start": 381.68,
+    "duration": 0.24,
+    "text": "Yes."
+  },
+  {
+    "start": 381.92,
+    "duration": 3.44,
+    "text": "And so you're going to have an 18-month hire ahead."
+  },
+  {
+    "start": 385.36,
+    "duration": 5.6,
+    "text": "And you're hopefully going to put somebody in that role that also has a lot of potential."
+  },
+  {
+    "start": 390.96,
+    "duration": 5.52,
+    "text": "And so by the time you get to that point in 18 months, they've also leveled themselves"
+  },
+  {
+    "start": 396.48,
+    "duration": 3.6,
+    "text": "up so that they're ready to take the next year and hopefully the year after that."
+  },
+  {
+    "start": 400.08,
+    "duration": 6.08,
+    "text": "Because me, the same as everybody, I have to requalify for my job every single quarter."
+  },
+  {
+    "start": 406.88,
+    "duration": 6.4,
+    "text": "I was the CRO at a 20 million ARR business a year and a bit ago."
+  },
+  {
+    "start": 413.28,
+    "duration": 2.96,
+    "text": "And now I'm the CRO at a $50 million business."
+  },
+  {
+    "start": 416.24,
+    "duration": 2.0,
+    "text": "And so am I still qualified to do that?"
+  },
+  {
+    "start": 418.24,
+    "duration": 5.04,
+    "text": "Am I growing rapidly enough to be credible in this seat?"
+  },
+  {
+    "start": 423.28,
+    "duration": 2.56,
+    "text": "And everybody has to ask themselves that question."
+  },
+  {
+    "start": 425.84,
+    "duration": 2.88,
+    "text": "You have to ask yourself that question about your team as well."
+  },
+  {
+    "start": 429.68,
+    "duration": 3.68,
+    "text": "We have that obligation to scaling ourselves."
+  },
+  {
+    "start": 433.92,
+    "duration": 4.48,
+    "text": "And so you're trying to do that math with senior hires."
+  },
+  {
+    "start": 439.28,
+    "duration": 4.96,
+    "text": "How often are you responding to great candidates that just appear in front of you for the senior"
+  },
+  {
+    "start": 444.24,
+    "duration": 2.72,
+    "text": "level roles versus saying, I need to go find that one?"
+  },
+  {
+    "start": 446.96,
+    "duration": 2.0,
+    "text": "So take the HubSpot person, for example."
+  },
+  {
+    "start": 449.84,
+    "duration": 1.76,
+    "text": "Was that an opportunistic hire?"
+  },
+  {
+    "start": 451.6,
+    "duration": 3.52,
+    "text": "Or were you conscious that you needed to hire before you went and did it?"
+  },
+  {
+    "start": 455.12,
+    "duration": 0.88,
+    "text": "A little bit of both."
+  },
+  {
+    "start": 456.88,
+    "duration": 7.36,
+    "text": "He was sort of around the business, doing a little bit of advisory work with us, and"
+  },
+  {
+    "start": 464.8,
+    "duration": 4.48,
+    "text": "just acting as a resource as we tried to figure some of this stuff out."
+  },
+  {
+    "start": 470.16,
+    "duration": 3.68,
+    "text": "And as soon as we started to feel..."
+  },
+  {
+    "start": 474.4,
+    "duration": 6.08,
+    "text": "As soon as I felt like, I need somebody full-time in this role driving these initiatives,"
+  },
+  {
+    "start": 480.48,
+    "duration": 0.96,
+    "text": "it was like a no-brainer."
+  },
+  {
+    "start": 481.44,
+    "duration": 1.12,
+    "text": "He's the guy."
+  },
+  {
+    "start": 482.72,
+    "duration": 2.48,
+    "text": "So that was a little bit of a blend."
+  },
+  {
+    "start": 486.32,
+    "duration": 3.12,
+    "text": "This architecture role was, no, we know we need somebody."
+  },
+  {
+    "start": 490.48,
+    "duration": 5.36,
+    "text": "My VP of RepOps is a very humble and thoughtful person."
+  },
+  {
+    "start": 495.84,
+    "duration": 5.68,
+    "text": "And so he realized, he's like, hey, I think I'm at the outer reaches of my technical"
+  },
+  {
+    "start": 501.52,
+    "duration": 1.36,
+    "text": "architecture competence."
+  },
+  {
+    "start": 502.88,
+    "duration": 1.76,
+    "text": "Let's go hire an expert."
+  },
+  {
+    "start": 504.64,
+    "duration": 0.72,
+    "text": "We haven't made..."
+  },
+  {
+    "start": 505.92,
+    "duration": 3.6,
+    "text": "We've made a few purely opportunistic hires."
+  },
+  {
+    "start": 509.52,
+    "duration": 3.52,
+    "text": "Where there's just an incredible person, you just have to find them a seat."
+  },
+  {
+    "start": 513.04,
+    "duration": 2.64,
+    "text": "I haven't done that as much in the revenue org, though."
+  },
+  {
+    "start": 515.68,
+    "duration": 3.12,
+    "text": "But that's been in other places more than the revenue team."
+  },
+  {
+    "start": 518.8,
+    "duration": 3.36,
+    "text": "But sometimes you do just meet a candidate, and you're like, I don't care where, but we"
+  },
+  {
+    "start": 522.16,
+    "duration": 1.92,
+    "text": "need to find a seat."
+  },
+  {
+    "start": 525.2,
+    "duration": 0.72,
+    "text": "We'll do that a little bit."
+  },
+  {
+    "start": 525.92,
+    "duration": 2.56,
+    "text": "But the bar is extremely high for that."
+  },
+  {
+    "start": 528.48,
+    "duration": 0.5,
+    "text": "Yes."
+  },
+  {
+    "start": 529.84,
+    "duration": 3.52,
+    "text": "It's hard at that senior level because they can also cause chaos as well, too."
+  },
+  {
+    "start": 533.92,
+    "duration": 0.56,
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 534.72,
+    "duration": 5.36,
+    "text": "If you don't have the production capacity, putting a senior person in that's going to"
+  },
+  {
+    "start": 540.96,
+    "duration": 4.56,
+    "text": "build a strategy and a plan and have great ideas doesn't really get you anywhere if you're"
+  },
+  {
+    "start": 545.52,
+    "duration": 4.32,
+    "text": "still bottlenecked by RepOps and BizOps and data and enablement."
+  },
+  {
+    "start": 549.84,
+    "duration": 1.76,
+    "text": "So you have to be thoughtful there."
+  },
+  {
+    "start": 552.32,
+    "duration": 6.48,
+    "text": "Oftentimes, we're pulling roles forward more than we are purely creating opportunistic"
+  },
+  {
+    "start": 558.8,
+    "duration": 1.12,
+    "text": "things for people."
+  },
+  {
+    "start": 560.08,
+    "duration": 5.2,
+    "text": "We know we need something in the future, and it's maybe in a headcount plan, or maybe it's"
+  },
+  {
+    "start": 565.28,
+    "duration": 5.68,
+    "text": "just in the leader's head knowing that, hey, at some point, I need a marketing ops individual"
+  },
+  {
+    "start": 570.96,
+    "duration": 1.68,
+    "text": "and that person floats into your life."
+  },
+  {
+    "start": 572.64,
+    "duration": 3.92,
+    "text": "And you're like, well, we probably would have waited six months, but this person is"
+  },
+  {
+    "start": 576.56,
+    "duration": 2.56,
+    "text": "amazing and was a recommendation."
+  },
+  {
+    "start": 579.12,
+    "duration": 2.56,
+    "text": "Let's find a way to make that work."
+  },
+  {
+    "start": 581.68,
+    "duration": 1.44,
+    "text": "That happens more frequently."
+  },
+  {
+    "start": 583.12,
+    "duration": 2.08,
+    "text": "It also, too, depends on the person."
+  },
+  {
+    "start": 585.52,
+    "duration": 2.0,
+    "text": "Let's find a way to make that work."
+  },
+  {
+    "start": 587.52,
+    "duration": 1.52,
+    "text": "That happens more frequently."
+  },
+  {
+    "start": 589.04,
+    "duration": 2.4,
+    "text": "And also to the point we touched on the growth, right?"
+  },
+  {
+    "start": 591.44,
+    "duration": 4.64,
+    "text": "Like if you're growing at 15% a year, there's no budget for any headcount and you can't"
+  },
+  {
+    "start": 596.08,
+    "duration": 0.56,
+    "text": "pull it forward."
+  },
+  {
+    "start": 596.64,
+    "duration": 5.04,
+    "text": "If you're growing 100% a year, we got this great guy or gal, let's pull them forward"
+  },
+  {
+    "start": 601.68,
+    "duration": 0.56,
+    "text": "a little bit."
+  },
+  {
+    "start": 602.24,
+    "duration": 3.84,
+    "text": "It's a lot easier conversation with your CFO as well."
+  },
+  {
+    "start": 606.08,
+    "duration": 1.36,
+    "text": "And you can fund."
+  },
+  {
+    "start": 607.44,
+    "duration": 4.32,
+    "text": "The other thing is at these growth rates, you can fund it out of growth."
+  },
+  {
+    "start": 611.76,
+    "duration": 5.6,
+    "text": "You can say, okay, this person is expensive, but they are going to make this initiative"
+  },
+  {
+    "start": 617.36,
+    "duration": 4.56,
+    "text": "go faster and it will drive this ARR expansion."
+  },
+  {
+    "start": 621.92,
+    "duration": 3.36,
+    "text": "And so your ROI is really positive."
+  },
+  {
+    "start": 625.28,
+    "duration": 3.04,
+    "text": "You have a lot more flexibility in a high growth environment."
+  },
+  {
+    "start": 628.32,
+    "duration": 5.04,
+    "text": "We've raised our forecast to the board, I think three times already this year."
+  },
+  {
+    "start": 633.36,
+    "duration": 1.76,
+    "text": "We're like seven months in."
+  },
+  {
+    "start": 635.12,
+    "duration": 5.2,
+    "text": "So you have more credibility to say, okay, we're going to do this and we're going to"
+  },
+  {
+    "start": 640.32,
+    "duration": 0.56,
+    "text": "pull this forward."
+  },
+  {
+    "start": 640.88,
+    "duration": 0.8,
+    "text": "We're going to spend the money."
+  },
+  {
+    "start": 642.48,
+    "duration": 7.6,
+    "text": "I've just moved some headcount around very recently to back one of our big 2026 facing"
+  },
+  {
+    "start": 650.08,
+    "duration": 1.92,
+    "text": "bets that's going well."
+  },
+  {
+    "start": 652.64,
+    "duration": 2.16,
+    "text": "And it's a no brainer."
+  },
+  {
+    "start": 654.8,
+    "duration": 3.28,
+    "text": "It's like, we will find the funding for it."
+  },
+  {
+    "start": 658.08,
+    "duration": 5.52,
+    "text": "And if you just do a little napkin math to model it out, there's actually the revenue"
+  },
+  {
+    "start": 663.6,
+    "duration": 5.12,
+    "text": "there to justify the spend without increasing burn."
+  },
+  {
+    "start": 669.12,
+    "duration": 4.88,
+    "text": "So there's a few ways to get out of it to get the path there."
+  },
+  {
+    "start": 674.0,
+    "duration": 4.4,
+    "text": "Last question before we dive into the process stuff, which I'm really excited about is you"
+  },
+  {
+    "start": 678.4,
+    "duration": 5.2,
+    "text": "touched a little bit early on being really deliberate on senior level hires."
+  },
+  {
+    "start": 683.6,
+    "duration": 5.84,
+    "text": "Do you believe with AI changes in businesses that leadership teams of these go to market"
+  },
+  {
+    "start": 689.44,
+    "duration": 2.24,
+    "text": "leaders are just smaller and more nimble now?"
+  },
+  {
+    "start": 691.68,
+    "duration": 5.12,
+    "text": "Or is that a function of the owner.com go to market model?"
+  },
+  {
+    "start": 697.76,
+    "duration": 2.96,
+    "text": "I don't think we're, we're a smaller team because of AI yet."
+  },
+  {
+    "start": 700.72,
+    "duration": 0.48,
+    "text": "Yeah."
+  },
+  {
+    "start": 701.2,
+    "duration": 3.36,
+    "text": "I think we get more done because of AI for sure."
+  },
+  {
+    "start": 704.56,
+    "duration": 10.88,
+    "text": "And at a higher quality, this again comes back to what's that principle in energy where"
+  },
+  {
+    "start": 715.44,
+    "duration": 3.68,
+    "text": "the more available something is lean one where you have more energy."
+  },
+  {
+    "start": 719.12,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 719.28,
+    "duration": 4.8,
+    "text": "It's like you can, I forget the name, but it's like the Divinus principle or something"
+  },
+  {
+    "start": 724.16,
+    "duration": 6.24,
+    "text": "like that or the, I think like there's more capacity to do things or just doing more things."
+  },
+  {
+    "start": 731.44,
+    "duration": 7.52,
+    "text": "And AI is giving us a lot of AI is giving us a lot of leverage, but the teams are still"
+  },
+  {
+    "start": 738.96,
+    "duration": 0.64,
+    "text": "fairly big."
+  },
+  {
+    "start": 739.6,
+    "duration": 5.12,
+    "text": "Like our span of control hasn't changed a ton, but it will over time."
+  },
+  {
+    "start": 744.72,
+    "duration": 7.36,
+    "text": "Like I think over time, like you will have teams that are managing portions of the team"
+  },
+  {
+    "start": 752.08,
+    "duration": 1.12,
+    "text": "that are basically agents."
+  },
+  {
+    "start": 754.56,
+    "duration": 5.44,
+    "text": "I think conceptualizing that is a little hard right now, but if you could have a bunch of"
+  },
+  {
+    "start": 760.0,
+    "duration": 8.08,
+    "text": "work done by workflows and tools that otherwise would be done, would be done by people, then"
+  },
+  {
+    "start": 768.08,
+    "duration": 3.84,
+    "text": "you are in essence, managing these like people, agent, hybrid teams."
+  },
+  {
+    "start": 771.92,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 772.08,
+    "duration": 6.8,
+    "text": "I think sometimes it's a, it's just like a fun, it's a fun future to tease, even though"
+  },
+  {
+    "start": 778.88,
+    "duration": 1.12,
+    "text": "it's just automation."
+  },
+  {
+    "start": 780.08,
+    "duration": 2.32,
+    "text": "Like it's just, it's just technology leverage."
+  },
+  {
+    "start": 784.24,
+    "duration": 3.04,
+    "text": "But I think we're going to still maintain like fairly significant teams."
+  },
+  {
+    "start": 787.28,
+    "duration": 2.8,
+    "text": "Cause you're a bunch of the advantage is going to get competed away."
+  },
+  {
+    "start": 790.08,
+    "duration": 6.88,
+    "text": "Anyways, if your competitors are all getting similar advantages from AI, then you're still"
+  },
+  {
+    "start": 796.96,
+    "duration": 4.4,
+    "text": "going to have to hire as many developers and as many sales reps, it's just, everything"
+  },
+  {
+    "start": 801.36,
+    "duration": 1.44,
+    "text": "gets more efficient."
+  },
+  {
+    "start": 802.8,
+    "duration": 4.88,
+    "text": "But, but that, that arbitrage gets, gets competed away."
+  },
+  {
+    "start": 808.4,
+    "duration": 0.8,
+    "text": "I love that."
+  },
+  {
+    "start": 809.2,
+    "duration": 0.96,
+    "text": "That makes a ton of sense."
+  },
+  {
+    "start": 811.6,
+    "duration": 0.24,
+    "text": "Okay."
+  },
+  {
+    "start": 812.56,
+    "duration": 2.4,
+    "text": "Let's dive into maybe some of the machines you've built."
+  },
+  {
+    "start": 814.96,
+    "duration": 3.76,
+    "text": "I've done it to a couple of low, high velocity, low ACP companies."
+  },
+  {
+    "start": 818.72,
+    "duration": 4.88,
+    "text": "So I'm really excited to hear how you think about hiring in a systematic way."
+  },
+  {
+    "start": 823.6,
+    "duration": 2.8,
+    "text": "Jevin's paradox, by the way, that was going to drive me nuts."
+  },
+  {
+    "start": 829.76,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 829.92,
+    "duration": 1.92,
+    "text": "If anyone hasn't heard that term, it's a great one."
+  },
+  {
+    "start": 831.84,
+    "duration": 5.76,
+    "text": "It's more resources equals you're actually going to use more of them rather than less."
+  },
+  {
+    "start": 837.6,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 837.92,
+    "duration": 3.44,
+    "text": "As resources get cheaper, you're going to, you're not going to use less of them, which"
+  },
+  {
+    "start": 841.36,
+    "duration": 1.6,
+    "text": "is a typical supply demand curve."
+  },
+  {
+    "start": 842.96,
+    "duration": 5.6,
+    "text": "You'll actually use more of them because more demand comes in based on the lower, the lower"
+  },
+  {
+    "start": 848.56,
+    "duration": 0.64,
+    "text": "price."
+  },
+  {
+    "start": 849.2,
+    "duration": 0.72,
+    "text": "So, okay."
+  },
+  {
+    "start": 849.92,
+    "duration": 8.56,
+    "text": "So hiring systems, I think this is fundamentally, and this is not just a SMB high velocity sales,"
+  },
+  {
+    "start": 860.4,
+    "duration": 0.8,
+    "text": "sales principles."
+  },
+  {
+    "start": 861.92,
+    "duration": 3.2,
+    "text": "I've managed enterprise teams of hired enterprise teams."
+  },
+  {
+    "start": 865.12,
+    "duration": 4.64,
+    "text": "And I tried to take the same level of rigor in those roles as well."
+  },
+  {
+    "start": 870.4,
+    "duration": 8.0,
+    "text": "But I think one of the mistakes people make is they lack a significant amount of structure"
+  },
+  {
+    "start": 878.4,
+    "duration": 1.2,
+    "text": "in how they hire."
+  },
+  {
+    "start": 879.6,
+    "duration": 5.68,
+    "text": "Because fundamentally, people are really bad at hiring and interviewing is sort of useless"
+  },
+  {
+    "start": 885.28,
+    "duration": 0.72,
+    "text": "in a lot of ways."
+  },
+  {
+    "start": 886.56,
+    "duration": 7.28,
+    "text": "If you really go back to the research on the predictive qualities of the interview process,"
+  },
+  {
+    "start": 893.84,
+    "duration": 3.6,
+    "text": "especially behavioral interviews versus NC performance."
+  },
+  {
+    "start": 897.44,
+    "duration": 8.08,
+    "text": "If you read Danny, Dan O'Connor's work, if you read thinking fast and slow, we are incredibly"
+  },
+  {
+    "start": 905.52,
+    "duration": 1.52,
+    "text": "biased decision makers."
+  },
+  {
+    "start": 907.6,
+    "duration": 6.24,
+    "text": "We rely on patterns and heuristics as humans to help us navigate the world."
+  },
+  {
+    "start": 914.96,
+    "duration": 4.8,
+    "text": "And therefore we, in general, people are just terrible at hiring."
+  },
+  {
+    "start": 919.76,
+    "duration": 3.2,
+    "text": "Like I, you know, without all of this, I would probably be terrible."
+  },
+  {
+    "start": 923.84,
+    "duration": 0.8,
+    "text": "At it as well."
+  },
+  {
+    "start": 924.64,
+    "duration": 4.32,
+    "text": "And some people will delude themselves to thinking it's like, Oh, you know, I just,"
+  },
+  {
+    "start": 928.96,
+    "duration": 1.44,
+    "text": "I have a good eye for talent."
+  },
+  {
+    "start": 930.4,
+    "duration": 2.72,
+    "text": "I know where to dig and yada, yada."
+  },
+  {
+    "start": 933.12,
+    "duration": 1.76,
+    "text": "It's, it's, I don't think it's true."
+  },
+  {
+    "start": 934.88,
+    "duration": 5.12,
+    "text": "I think there's a lot of false attribution bias there."
+  },
+  {
+    "start": 940.0,
+    "duration": 4.0,
+    "text": "And if you stepped back and you looked at your hiring track record, most leaders would"
+  },
+  {
+    "start": 944.0,
+    "duration": 4.72,
+    "text": "go, Oh man, like I was wrong 30% of the time, you know, or more."
+  },
+  {
+    "start": 948.72,
+    "duration": 7.76,
+    "text": "And so is that, is that better than, um, fairly blindly just like picking resumes out"
+  },
+  {
+    "start": 956.48,
+    "duration": 2.32,
+    "text": "of a stack that meet a certain threshold?"
+  },
+  {
+    "start": 958.8,
+    "duration": 4.64,
+    "text": "You know, anybody that says president's club on their, on their resume, we hire, would"
+  },
+  {
+    "start": 963.44,
+    "duration": 5.04,
+    "text": "that be a better strategy than going through a whole like meandering interview process?"
+  },
+  {
+    "start": 968.48,
+    "duration": 0.5,
+    "text": "Yes."
+  },
+  {
+    "start": 969.84,
+    "duration": 0.56,
+    "text": "Potentially."
+  },
+  {
+    "start": 971.12,
+    "duration": 4.64,
+    "text": "And so I think the structure here is to fight against human bias."
+  },
+  {
+    "start": 975.76,
+    "duration": 7.12,
+    "text": "The structure here is to, is to, is to resist the urge to rely on bad heuristics."
+  },
+  {
+    "start": 983.84,
+    "duration": 7.2,
+    "text": "And the best example here, especially, uh, in hiring salespeople is the halo effect."
+  },
+  {
+    "start": 991.04,
+    "duration": 1.92,
+    "text": "So this is, this goes back to a great book."
+  },
+  {
+    "start": 992.96,
+    "duration": 0.4,
+    "text": "Yeah."
+  },
+  {
+    "start": 993.36,
+    "duration": 0.5,
+    "text": "Yeah."
+  },
+  {
+    "start": 994.8,
+    "duration": 2.16,
+    "text": "And this goes back to some economists early research."
+  },
+  {
+    "start": 997.76,
+    "duration": 6.96,
+    "text": "Uh, what happens is there's one strength that can make you, there's one strength in"
+  },
+  {
+    "start": 1004.72,
+    "duration": 4.0,
+    "text": "a candidate that can make you think, uh, much more highly about the other skills that you"
+  },
+  {
+    "start": 1008.72,
+    "duration": 0.88,
+    "text": "think are important."
+  },
+  {
+    "start": 1010.16,
+    "duration": 2.08,
+    "text": "And in salespeople, that's charisma."
+  },
+  {
+    "start": 1012.24,
+    "duration": 3.2,
+    "text": "People who are really charismatic and build incredible rapport."
+  },
+  {
+    "start": 1016.08,
+    "duration": 6.08,
+    "text": "We tend to, without a very structured, uh, score cutting process, think they're awesome"
+  },
+  {
+    "start": 1022.16,
+    "duration": 1.6,
+    "text": "at all sorts of different things."
+  },
+  {
+    "start": 1023.76,
+    "duration": 4.4,
+    "text": "But if you were really paying attention and this is a condiment thing, you know, being"
+  },
+  {
+    "start": 1028.16,
+    "duration": 5.28,
+    "text": "structured in your scorecard and deliberate that you're asking specific questions to get"
+  },
+  {
+    "start": 1033.52,
+    "duration": 5.44,
+    "text": "at specific hiring criteria and measuring them independently of every other criteria."
+  },
+  {
+    "start": 1039.76,
+    "duration": 4.88,
+    "text": "Because one of the things that, that, uh, is really important in many sales environments"
+  },
+  {
+    "start": 1044.64,
+    "duration": 3.84,
+    "text": "is how organized and, and, uh, conscientious are you?"
+  },
+  {
+    "start": 1049.2,
+    "duration": 6.88,
+    "text": "Um, and oftentimes we don't even think to actually ask ourselves that question and,"
+  },
+  {
+    "start": 1056.08,
+    "duration": 5.28,
+    "text": "and really reflect on what are the signals in this interview process that indicate whether"
+  },
+  {
+    "start": 1061.36,
+    "duration": 1.92,
+    "text": "or not this person is, is organized or not."
+  },
+  {
+    "start": 1063.28,
+    "duration": 5.92,
+    "text": "And we, we just go off of this impression, man, they were really, they were really personable"
+  },
+  {
+    "start": 1069.2,
+    "duration": 1.2,
+    "text": "and very charismatic."
+  },
+  {
+    "start": 1070.4,
+    "duration": 4.32,
+    "text": "And we're just like, they're a higher, but what condiment talks about is when you break"
+  },
+  {
+    "start": 1074.72,
+    "duration": 6.4,
+    "text": "out the different components of, of that, uh, of that hiring criteria, you're forced"
+  },
+  {
+    "start": 1081.12,
+    "duration": 2.08,
+    "text": "to make more independent decisions."
+  },
+  {
+    "start": 1083.2,
+    "duration": 6.16,
+    "text": "And so in our hiring scorecard, we have like different things broken out, even down to"
+  },
+  {
+    "start": 1089.36,
+    "duration": 1.04,
+    "text": "company values."
+  },
+  {
+    "start": 1090.4,
+    "duration": 5.28,
+    "text": "So there's like five company values that we're scoring against independently so that they"
+  },
+  {
+    "start": 1095.68,
+    "duration": 1.76,
+    "text": "don't sort of, you're not co-mingling."
+  },
+  {
+    "start": 1098.16,
+    "duration": 5.92,
+    "text": "And I think this is, this is one piece of the, of, of hiring excellence is are you really"
+  },
+  {
+    "start": 1104.08,
+    "duration": 1.04,
+    "text": "carefully scorecarding?"
+  },
+  {
+    "start": 1105.76,
+    "duration": 4.56,
+    "text": "And we can talk about going back to your scorecards to, to ask yourself the question, if those"
+  },
+  {
+    "start": 1110.32,
+    "duration": 3.52,
+    "text": "are the right criteria, but do you have a really great scorecard?"
+  },
+  {
+    "start": 1113.84,
+    "duration": 6.0,
+    "text": "Do you have a consistent process so that there is a controlled environment to, to evaluate"
+  },
+  {
+    "start": 1119.84,
+    "duration": 0.64,
+    "text": "these things?"
+  },
+  {
+    "start": 1121.12,
+    "duration": 6.24,
+    "text": "And so we ask the same questions in the same order across the same sets of interviews."
+  },
+  {
+    "start": 1127.36,
+    "duration": 3.44,
+    "text": "So in my interviews, I asked the same few things in the same order."
+  },
+  {
+    "start": 1130.8,
+    "duration": 3.84,
+    "text": "Every single time we run the case study with the same inputs, with the same questions,"
+  },
+  {
+    "start": 1134.64,
+    "duration": 7.28,
+    "text": "every single time we have to give the, the, the, uh, candidate similar or the same feedback"
+  },
+  {
+    "start": 1141.92,
+    "duration": 3.04,
+    "text": "in those interviews, just so that we're constraining variables."
+  },
+  {
+    "start": 1145.36,
+    "duration": 4.72,
+    "text": "When I'm in, when I interviewed for a few pieces of sales, I gave them the same feedback"
+  },
+  {
+    "start": 1150.8,
+    "duration": 3.92,
+    "text": "every single time, regardless of how they had sort of performed in the case study so"
+  },
+  {
+    "start": 1154.72,
+    "duration": 4.16,
+    "text": "that I could understand how they responded to that exact piece of feedback and, and,"
+  },
+  {
+    "start": 1159.52,
+    "duration": 3.92,
+    "text": "and compare that across the, the different candidates."
+  },
+  {
+    "start": 1163.44,
+    "duration": 3.2,
+    "text": "And so it's really about, it's really about structuring consistency."
+  },
+  {
+    "start": 1167.28,
+    "duration": 1.6,
+    "text": "Do you have a standard interview process?"
+  },
+  {
+    "start": 1168.88,
+    "duration": 1.36,
+    "text": "Do you have a scorecard?"
+  },
+  {
+    "start": 1170.24,
+    "duration": 6.96,
+    "text": "Is your applicant tracking system set up in a way to support the, the structured,"
+  },
+  {
+    "start": 1177.84,
+    "duration": 3.44,
+    "text": "um, the structured acquisition of, of that information?"
+  },
+  {
+    "start": 1182.16,
+    "duration": 5.76,
+    "text": "And then do you have enough redundancy in your hiring system so that, uh, you're getting"
+  },
+  {
+    "start": 1188.72,
+    "duration": 3.04,
+    "text": "multiple points of view on a candidate?"
+  },
+  {
+    "start": 1191.76,
+    "duration": 4.72,
+    "text": "And so I was gonna ask, are you using something like a meta view, which is like the gong"
+  },
+  {
+    "start": 1196.48,
+    "duration": 5.52,
+    "text": "for interviews or are you, are you, do you value the voice and reflecting back on those"
+  },
+  {
+    "start": 1202.0,
+    "duration": 1.52,
+    "text": "interviews at all?"
+  },
+  {
+    "start": 1203.52,
+    "duration": 3.76,
+    "text": "We use meta view and I've never gone back to my meta view notes a single time."
+  },
+  {
+    "start": 1208.08,
+    "duration": 1.04,
+    "text": "Ah, okay."
+  },
+  {
+    "start": 1210.0,
+    "duration": 5.04,
+    "text": "I've always wondered, I think it would be very brilliant if in the roundups or you will"
+  },
+  {
+    "start": 1215.04,
+    "duration": 4.8,
+    "text": "dive deeper into how you review candidates post hire and see how good they are."
+  },
+  {
+    "start": 1219.84,
+    "duration": 3.2,
+    "text": "But if you were using that data, but, uh, so it sounds like you're capturing the data,"
+  },
+  {
+    "start": 1223.04,
+    "duration": 2.16,
+    "text": "but are you leveraging it as a different question?"
+  },
+  {
+    "start": 1225.2,
+    "duration": 8.32,
+    "text": "We're capturing it and I'm, we're working on a project to take all of those transcripts,"
+  },
+  {
+    "start": 1233.52,
+    "duration": 6.72,
+    "text": "all of the interview data, put it into a model to take, to make the data more structured"
+  },
+  {
+    "start": 1240.24,
+    "duration": 6.56,
+    "text": "so that we can do sort of a regression analysis to understand what parts of the candidate,"
+  },
+  {
+    "start": 1246.8,
+    "duration": 3.52,
+    "text": "uh, responses are actually most predictive of enroll success."
+  },
+  {
+    "start": 1250.32,
+    "duration": 3.92,
+    "text": "We've done a very rudimentary version of this, which, which we can talk about,"
+  },
+  {
+    "start": 1254.24,
+    "duration": 2.72,
+    "text": "but I think going back to your original question, like how do you get structured?"
+  },
+  {
+    "start": 1257.84,
+    "duration": 2.08,
+    "text": "And the last thing I was talking about was redundancy."
+  },
+  {
+    "start": 1259.92,
+    "duration": 5.6,
+    "text": "And so redundancy and having multiple points of view doesn't mean hiring by consensus,"
+  },
+  {
+    "start": 1265.52,
+    "duration": 6.08,
+    "text": "because I actually think hiring by consensus leads you to, uh, worse decisions."
+  },
+  {
+    "start": 1271.6,
+    "duration": 2.08,
+    "text": "So we are a champion."
+  },
+  {
+    "start": 1273.68,
+    "duration": 5.6,
+    "text": "We are a champion based hiring, uh, approach, not a consensus based hiring approach."
+  },
+  {
+    "start": 1279.28,
+    "duration": 3.76,
+    "text": "So I'm going to give feedback to, to the hiring manager."
+  },
+  {
+    "start": 1283.6,
+    "duration": 3.36,
+    "text": "You know, I interview you and I'm like, oh, Andy's great."
+  },
+  {
+    "start": 1286.96,
+    "duration": 3.04,
+    "text": "But you know, he doesn't seem like a very curious person."
+  },
+  {
+    "start": 1290.0,
+    "duration": 1.84,
+    "text": "He didn't have any questions for me."
+  },
+  {
+    "start": 1292.56,
+    "duration": 4.64,
+    "text": "Um, and so one of our company principles is scale yourself."
+  },
+  {
+    "start": 1297.2,
+    "duration": 5.76,
+    "text": "So I, I, I'm not sure if they have the scale yourself quality and I'll bring that back to"
+  },
+  {
+    "start": 1302.96,
+    "duration": 4.32,
+    "text": "the hiring manager, but I only spend 30 or 45 minutes with these candidates and maybe they go,"
+  },
+  {
+    "start": 1307.28,
+    "duration": 3.52,
+    "text": "oh no, no, we actually, we started talking about this and they talked about all of these ways"
+  },
+  {
+    "start": 1310.8,
+    "duration": 3.84,
+    "text": "they're using AI and they watched all these YouTube videos and they knew all this stuff"
+  },
+  {
+    "start": 1314.64,
+    "duration": 1.68,
+    "text": "and they read this book on whatever."
+  },
+  {
+    "start": 1316.32,
+    "duration": 1.04,
+    "text": "Okay, great."
+  },
+  {
+    "start": 1317.36,
+    "duration": 2.0,
+    "text": "Like you, you are the hiring manager."
+  },
+  {
+    "start": 1319.36,
+    "duration": 5.92,
+    "text": "You have spent most of the time, three to four X, the number of hours that I've spent with them."
+  },
+  {
+    "start": 1325.28,
+    "duration": 1.36,
+    "text": "Ultimately, it's your decision."
+  },
+  {
+    "start": 1326.64,
+    "duration": 1.68,
+    "text": "You are, you have to, but you have to champion."
+  },
+  {
+    "start": 1328.88,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 1329.2,
+    "duration": 3.44,
+    "text": "You don't get to rely on like me giving the thumbs up."
+  },
+  {
+    "start": 1332.64,
+    "duration": 0.96,
+    "text": "It's not my decision."
+  },
+  {
+    "start": 1333.6,
+    "duration": 0.72,
+    "text": "It's your decision."
+  },
+  {
+    "start": 1334.32,
+    "duration": 4.0,
+    "text": "But I'm going to give you feedback and I'm going to press on the places where I think"
+  },
+  {
+    "start": 1338.32,
+    "duration": 1.28,
+    "text": "there may be weakness."
+  },
+  {
+    "start": 1339.6,
+    "duration": 2.08,
+    "text": "Sometimes I'm just like, this person is a stud."
+  },
+  {
+    "start": 1341.68,
+    "duration": 1.36,
+    "text": "Like, let's go get them."
+  },
+  {
+    "start": 1343.04,
+    "duration": 2.0,
+    "text": "But oftentimes I'm, I'm prodding."
+  },
+  {
+    "start": 1345.68,
+    "duration": 4.32,
+    "text": "Um, and they have to reflect on that and then make the decision because, uh,"
+  },
+  {
+    "start": 1350.0,
+    "duration": 1.68,
+    "text": "Have you ever overruled Kyle?"
+  },
+  {
+    "start": 1351.68,
+    "duration": 5.12,
+    "text": "I mean, I, I personally, if they approach you do, which is like my hiring manager needs to"
+  },
+  {
+    "start": 1356.8,
+    "duration": 2.96,
+    "text": "own that decision and they, they will learn."
+  },
+  {
+    "start": 1359.76,
+    "duration": 4.08,
+    "text": "And if I overrule they don't, but I'm curious, like, are there patterns where you see and you"
+  },
+  {
+    "start": 1363.92,
+    "duration": 2.96,
+    "text": "say this one's not going to work?"
+  },
+  {
+    "start": 1366.88,
+    "duration": 6.32,
+    "text": "I'm sure I have like said, Hey, this is a no go for me for whatever reason, because I'm"
+  },
+  {
+    "start": 1373.84,
+    "duration": 0.88,
+    "text": "breaking my rule."
+  },
+  {
+    "start": 1374.72,
+    "duration": 2.08,
+    "text": "My rule is to like give them the feedback."
+  },
+  {
+    "start": 1376.8,
+    "duration": 1.44,
+    "text": "I'm going to be strong about the feedback."
+  },
+  {
+    "start": 1378.24,
+    "duration": 1.28,
+    "text": "Like, I don't think this is a good hire."
+  },
+  {
+    "start": 1379.52,
+    "duration": 6.16,
+    "text": "And I've probably gone so far as to make it feel like a, like a straight veto, but I really"
+  },
+  {
+    "start": 1385.68,
+    "duration": 1.12,
+    "text": "try not to."
+  },
+  {
+    "start": 1386.8,
+    "duration": 3.92,
+    "text": "So how do people, if there's more on the structure, this is powerful."
+  },
+  {
+    "start": 1390.72,
+    "duration": 6.16,
+    "text": "I feel like one thing we talked about beforehand was, uh, how do you kind of reflect back on"
+  },
+  {
+    "start": 1396.88,
+    "duration": 1.28,
+    "text": "candidates after you've hired them?"
+  },
+  {
+    "start": 1398.16,
+    "duration": 4.0,
+    "text": "I'd love to hear kind of your very few companies do that."
+  },
+  {
+    "start": 1402.16,
+    "duration": 3.76,
+    "text": "And so it's neat to see a company that's really built that into their processes."
+  },
+  {
+    "start": 1405.92,
+    "duration": 0.72,
+    "text": "Yeah."
+  },
+  {
+    "start": 1406.64,
+    "duration": 5.44,
+    "text": "So, well, one of the funny things is, uh, you know, in sales, you, you really understand"
+  },
+  {
+    "start": 1412.08,
+    "duration": 4.56,
+    "text": "the power of, of analysis and feedback and iteration."
+  },
+  {
+    "start": 1416.64,
+    "duration": 3.6,
+    "text": "And in hiring, we don't seem to sort of do that ever."
+  },
+  {
+    "start": 1420.24,
+    "duration": 3.68,
+    "text": "We just hire a bunch of people and then we keep doing that forever."
+  },
+  {
+    "start": 1423.92,
+    "duration": 0.64,
+    "text": "More or less."
+  },
+  {
+    "start": 1425.28,
+    "duration": 6.56,
+    "text": "Most companies don't iterate and improve their, their hiring process all that frequently or"
+  },
+  {
+    "start": 1431.84,
+    "duration": 6.56,
+    "text": "have a mechanism to give really good feedback to the manager, uh, because many of these"
+  },
+  {
+    "start": 1438.4,
+    "duration": 3.68,
+    "text": "decisions are all on a long time horizon."
+  },
+  {
+    "start": 1442.08,
+    "duration": 5.44,
+    "text": "Um, so what we've done right now, it's, it is an, well, it's a, it's on a quarterly cadence"
+  },
+  {
+    "start": 1447.52,
+    "duration": 6.8,
+    "text": "now, but it is still, um, more qualitative than it is quantitative."
+  },
+  {
+    "start": 1454.32,
+    "duration": 5.84,
+    "text": "We're going to move to a more data backed approach when we can do the synthesis of the"
+  },
+  {
+    "start": 1460.16,
+    "duration": 1.6,
+    "text": "transcripts and a bunch of other stuff."
+  },
+  {
+    "start": 1461.76,
+    "duration": 7.76,
+    "text": "But right now what we do is the, our TA, our GTM TA leader, she works with rev ops to pull"
+  },
+  {
+    "start": 1470.08,
+    "duration": 1.76,
+    "text": "all of the people that we've hired."
+  },
+  {
+    "start": 1471.84,
+    "duration": 2.4,
+    "text": "We take the scores at each stage."
+  },
+  {
+    "start": 1474.24,
+    "duration": 6.16,
+    "text": "So recruiter screen, hiring manager, one case study bar raiser, which is me and puts it"
+  },
+  {
+    "start": 1480.4,
+    "duration": 0.56,
+    "text": "on a spreadsheet."
+  },
+  {
+    "start": 1480.96,
+    "duration": 5.6,
+    "text": "And then we measure it against their, um, their total attainment."
+  },
+  {
+    "start": 1486.56,
+    "duration": 4.48,
+    "text": "So their lifetime attainment and then their first three month attainment to understand"
+  },
+  {
+    "start": 1491.04,
+    "duration": 4.24,
+    "text": "if there's a difference, because I'm actually more interested in how somebody is after four"
+  },
+  {
+    "start": 1495.28,
+    "duration": 2.72,
+    "text": "to six months than they are, how they are in month two."
+  },
+  {
+    "start": 1498.32,
+    "duration": 4.32,
+    "text": "And this is a really valuable process for a bunch of reasons."
+  },
+  {
+    "start": 1502.64,
+    "duration": 4.32,
+    "text": "One is you start to understand where your process is good and not so good because you'll"
+  },
+  {
+    "start": 1506.96,
+    "duration": 2.24,
+    "text": "look at a candidate who you all thought was great."
+  },
+  {
+    "start": 1509.92,
+    "duration": 2.0,
+    "text": "Um, you all thought was great."
+  },
+  {
+    "start": 1511.92,
+    "duration": 2.72,
+    "text": "You all gave fours and they weren't that good in the role."
+  },
+  {
+    "start": 1514.64,
+    "duration": 5.2,
+    "text": "And so then what we do is, and it's mostly about evaluating the outliers in this process."
+  },
+  {
+    "start": 1519.84,
+    "duration": 5.44,
+    "text": "We'll sit down for like 90 minutes and go person by person and where there is a high"
+  },
+  {
+    "start": 1525.36,
+    "duration": 6.4,
+    "text": "score with a low, with low productivity or like low score, lower scores and high productivity."
+  },
+  {
+    "start": 1531.76,
+    "duration": 6.24,
+    "text": "We go into every one of those candidates in lever and we'll read all of the interview"
+  },
+  {
+    "start": 1538.0,
+    "duration": 2.8,
+    "text": "scores, interview notes together."
+  },
+  {
+    "start": 1540.8,
+    "duration": 6.0,
+    "text": "One feedback is often your notes suck, take better notes, uh, which is a, which is a good,"
+  },
+  {
+    "start": 1546.8,
+    "duration": 5.68,
+    "text": "uh, uh, feedback mechanism, but then we'll go through and say, oh, well, you know, we"
+  },
+  {
+    "start": 1553.36,
+    "duration": 2.56,
+    "text": "in the role, they're not very coachable."
+  },
+  {
+    "start": 1556.64,
+    "duration": 3.84,
+    "text": "Um, and so what did we ask enough questions?"
+  },
+  {
+    "start": 1560.48,
+    "duration": 2.56,
+    "text": "Did we dig deep enough into their coachability?"
+  },
+  {
+    "start": 1563.04,
+    "duration": 6.0,
+    "text": "And it's like, oh no, we skimmed over it or they gave this answer and, and, uh, I could"
+  },
+  {
+    "start": 1569.04,
+    "duration": 4.8,
+    "text": "have gone to like another two levels deeper digging into the heart of it."
+  },
+  {
+    "start": 1573.84,
+    "duration": 5.92,
+    "text": "So you, you get feedback on your overall process, what's working and what's not in, in specific"
+  },
+  {
+    "start": 1579.84,
+    "duration": 3.44,
+    "text": "manager feedback on like, what did those managers miss?"
+  },
+  {
+    "start": 1583.28,
+    "duration": 2.72,
+    "text": "Especially when we use a four point system."
+  },
+  {
+    "start": 1586.0,
+    "duration": 4.96,
+    "text": "So if somebody is a four or like a three or a four strong, higher versus higher."
+  },
+  {
+    "start": 1590.96,
+    "duration": 5.68,
+    "text": "So the, the manager who got it wrong, you can go in and say, and like ask yourself those"
+  },
+  {
+    "start": 1596.64,
+    "duration": 0.56,
+    "text": "questions."
+  },
+  {
+    "start": 1597.2,
+    "duration": 4.48,
+    "text": "One of the things that we realized on a macro basis, what was an individual, it was an"
+  },
+  {
+    "start": 1601.68,
+    "duration": 2.32,
+    "text": "individual observation that then we rolled up to macro."
+  },
+  {
+    "start": 1604.56,
+    "duration": 5.84,
+    "text": "We noticed one person was consistently rating people as threes who went on to be actually"
+  },
+  {
+    "start": 1610.4,
+    "duration": 0.96,
+    "text": "really good in the role."
+  },
+  {
+    "start": 1612.24,
+    "duration": 4.4,
+    "text": "And they were really focused on the sales craft."
+  },
+  {
+    "start": 1616.64,
+    "duration": 4.08,
+    "text": "Like when you could read the notes in there, the, those people were really great in the"
+  },
+  {
+    "start": 1620.72,
+    "duration": 0.72,
+    "text": "case study."
+  },
+  {
+    "start": 1621.44,
+    "duration": 2.16,
+    "text": "They delivered it well, good discovery."
+  },
+  {
+    "start": 1623.6,
+    "duration": 2.56,
+    "text": "Like the sales acumen was, was really there."
+  },
+  {
+    "start": 1626.8,
+    "duration": 5.76,
+    "text": "Whereas other people were more focused on the, um, on the intangibles."
+  },
+  {
+    "start": 1632.56,
+    "duration": 6.0,
+    "text": "So their history, their history of excellence, their coachability, curiosity, all of those"
+  },
+  {
+    "start": 1638.56,
+    "duration": 0.64,
+    "text": "other things."
+  },
+  {
+    "start": 1639.2,
+    "duration": 5.44,
+    "text": "And what we found is, uh, surprisingly the, the sales craft that they exhibited in the"
+  },
+  {
+    "start": 1644.64,
+    "duration": 3.68,
+    "text": "case study was actually not that indicative of their success in the role."
+  },
+  {
+    "start": 1648.32,
+    "duration": 2.64,
+    "text": "It was all of those other things that were way more important."
+  },
+  {
+    "start": 1650.96,
+    "duration": 5.52,
+    "text": "And so we've, we've subsequently, um, streamlined what the case study looks at."
+  },
+  {
+    "start": 1657.12,
+    "duration": 6.16,
+    "text": "We're making it, um, slightly simpler because it just wasn't predictive of success, which"
+  },
+  {
+    "start": 1663.28,
+    "duration": 2.16,
+    "text": "is crazy as a sales leader."
+  },
+  {
+    "start": 1665.44,
+    "duration": 6.32,
+    "text": "Like everybody listening to this, you all, we all have mock demos or like that, that"
+  },
+  {
+    "start": 1672.48,
+    "duration": 1.28,
+    "text": "case study stage."
+  },
+  {
+    "start": 1673.76,
+    "duration": 2.0,
+    "text": "And, uh, there's a potential..."
+  },
+  {
+    "start": 1675.76,
+    "duration": 4.08,
+    "text": "This might be unique to our environment because we're so coaching heavy and it's high"
+  },
+  {
+    "start": 1679.84,
+    "duration": 0.64,
+    "text": "velocity."
+  },
+  {
+    "start": 1681.12,
+    "duration": 6.88,
+    "text": "So we can really mold, we can mold DNA into sales excellence better than, than most."
+  },
+  {
+    "start": 1688.72,
+    "duration": 4.72,
+    "text": "Um, but I sent this to a few friends of mine because I, I, they're going to run the same"
+  },
+  {
+    "start": 1693.44,
+    "duration": 0.48,
+    "text": "process."
+  },
+  {
+    "start": 1693.92,
+    "duration": 4.88,
+    "text": "And I'm really curious to hear what they see in terms of like how predictive is, is the"
+  },
+  {
+    "start": 1698.8,
+    "duration": 0.96,
+    "text": "case study."
+  },
+  {
+    "start": 1699.76,
+    "duration": 0.88,
+    "text": "Am I correct?"
+  },
+  {
+    "start": 1700.64,
+    "duration": 3.52,
+    "text": "You guys invest heavily in, in, in the enablement function as well, too."
+  },
+  {
+    "start": 1704.16,
+    "duration": 1.76,
+    "text": "You talked about how you're heavy on coaching."
+  },
+  {
+    "start": 1705.92,
+    "duration": 0.32,
+    "text": "Have you..."
+  },
+  {
+    "start": 1706.88,
+    "duration": 1.92,
+    "text": "Big, big enablement investment."
+  },
+  {
+    "start": 1708.8,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 1709.92,
+    "duration": 5.12,
+    "text": "I remember at one company I was at all these rockstar AEs were excited to become managers."
+  },
+  {
+    "start": 1715.04,
+    "duration": 2.0,
+    "text": "I was like, if you don't have great enablement, don't do it."
+  },
+  {
+    "start": 1717.04,
+    "duration": 0.24,
+    "text": "Right."
+  },
+  {
+    "start": 1717.28,
+    "duration": 3.2,
+    "text": "And so I'm guessing you've got a lot of time there."
+  },
+  {
+    "start": 1720.48,
+    "duration": 4.64,
+    "text": "If you, if you're growing, you're doing a lot of growing and developing yourself."
+  },
+  {
+    "start": 1725.12,
+    "duration": 0.8,
+    "text": "Yeah."
+  },
+  {
+    "start": 1725.92,
+    "duration": 0.4,
+    "text": "Yeah."
+  },
+  {
+    "start": 1726.32,
+    "duration": 5.52,
+    "text": "Really strong, uh, enablement leader, strong team and a big team for the size of the size"
+  },
+  {
+    "start": 1731.84,
+    "duration": 1.6,
+    "text": "of organization, but it's paid off."
+  },
+  {
+    "start": 1733.68,
+    "duration": 3.84,
+    "text": "And we've just started hiring, uh, new grads."
+  },
+  {
+    "start": 1737.52,
+    "duration": 5.6,
+    "text": "So kids straight out of the top schools and business schools in the, uh, in Ontario."
+  },
+  {
+    "start": 1743.84,
+    "duration": 4.16,
+    "text": "And, uh, they're flying out of the gates."
+  },
+  {
+    "start": 1748.0,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 1748.32,
+    "duration": 6.24,
+    "text": "Like they're arguably ramping faster than the SDRs we hired that had sales experience"
+  },
+  {
+    "start": 1754.56,
+    "duration": 2.64,
+    "text": "previously because they're very high potential."
+  },
+  {
+    "start": 1757.2,
+    "duration": 0.64,
+    "text": "Yeah."
+  },
+  {
+    "start": 1757.84,
+    "duration": 0.64,
+    "text": "They're multiple."
+  },
+  {
+    "start": 1759.28,
+    "duration": 2.72,
+    "text": "They're not cynical of like, oh man, I've done it this way three times."
+  },
+  {
+    "start": 1762.0,
+    "duration": 3.2,
+    "text": "I really don't need to put it in the system or things like that."
+  },
+  {
+    "start": 1766.4,
+    "duration": 0.48,
+    "text": "Yeah."
+  },
+  {
+    "start": 1766.88,
+    "duration": 8.16,
+    "text": "And so we continue to rotate our hiring approach more and more to, are you a psychotic worker?"
+  },
+  {
+    "start": 1775.04,
+    "duration": 1.76,
+    "text": "Like, do you just like to work hard?"
+  },
+  {
+    "start": 1776.8,
+    "duration": 0.88,
+    "text": "You'd like to grind."
+  },
+  {
+    "start": 1777.68,
+    "duration": 1.6,
+    "text": "Do you like to get good at things?"
+  },
+  {
+    "start": 1780.24,
+    "duration": 1.36,
+    "text": "Are you really organized?"
+  },
+  {
+    "start": 1782.32,
+    "duration": 2.48,
+    "text": "Um, cause it's hard to do high velocity."
+  },
+  {
+    "start": 1784.8,
+    "duration": 5.68,
+    "text": "If you're, if you're disorganized, it just, you, you miss everything and your deals go"
+  },
+  {
+    "start": 1790.48,
+    "duration": 0.5,
+    "text": "cold."
+  },
+  {
+    "start": 1791.52,
+    "duration": 3.44,
+    "text": "And then do they have a, do they have a learner's mindset?"
+  },
+  {
+    "start": 1794.96,
+    "duration": 1.84,
+    "text": "Do they, do they really want to study and learn?"
+  },
+  {
+    "start": 1796.8,
+    "duration": 0.8,
+    "text": "Are they curious?"
+  },
+  {
+    "start": 1798.8,
+    "duration": 0.72,
+    "text": "Are they coachable?"
+  },
+  {
+    "start": 1799.52,
+    "duration": 4.32,
+    "text": "If they have those things, generally, uh, we can teach them."
+  },
+  {
+    "start": 1804.56,
+    "duration": 1.44,
+    "text": "Generally, we can teach them the rest."
+  },
+  {
+    "start": 1806.0,
+    "duration": 3.92,
+    "text": "And there's a bunch of examples of people on the team where the case studies, like we're"
+  },
+  {
+    "start": 1809.92,
+    "duration": 6.16,
+    "text": "straight up not good, especially with some of our, our like new grad hires or our, our"
+  },
+  {
+    "start": 1816.56,
+    "duration": 0.88,
+    "text": "most junior hires."
+  },
+  {
+    "start": 1817.44,
+    "duration": 3.68,
+    "text": "Sometimes the case studies are like, you know, we're like, uh, you know, they, they really"
+  },
+  {
+    "start": 1821.12,
+    "duration": 4.4,
+    "text": "struggled and they like, didn't quite get this, but then we just love their makeup."
+  },
+  {
+    "start": 1825.52,
+    "duration": 4.08,
+    "text": "You know, that we just love the fact that they've, you know, they did awesome in school"
+  },
+  {
+    "start": 1829.6,
+    "duration": 5.04,
+    "text": "and they were an athlete and they did, you know, extracurricular stuff and their parents"
+  },
+  {
+    "start": 1834.64,
+    "duration": 0.88,
+    "text": "run a restaurant."
+  },
+  {
+    "start": 1835.52,
+    "duration": 0.8,
+    "text": "We're like, whatever."
+  },
+  {
+    "start": 1836.32,
+    "duration": 3.92,
+    "text": "Like, you know, we'll, we'll figure it out if they can figure it out."
+  },
+  {
+    "start": 1840.24,
+    "duration": 6.4,
+    "text": "And, uh, some of those people that were very like questionable case study performances"
+  },
+  {
+    "start": 1846.64,
+    "duration": 2.0,
+    "text": "are, are crushing now."
+  },
+  {
+    "start": 1848.64,
+    "duration": 3.92,
+    "text": "You mean, sell me that pen is not the best question to ask in a sales interview?"
+  },
+  {
+    "start": 1852.56,
+    "duration": 0.72,
+    "text": "Apparently not."
+  },
+  {
+    "start": 1854.72,
+    "duration": 5.2,
+    "text": "How do, um, so flipping around from the candidate perspective, how do they break through the"
+  },
+  {
+    "start": 1859.92,
+    "duration": 0.64,
+    "text": "noise?"
+  },
+  {
+    "start": 1860.56,
+    "duration": 7.2,
+    "text": "Uh, multi-threading for sure helps, you know, trying to reach out, uh, to multiple people"
+  },
+  {
+    "start": 1867.76,
+    "duration": 2.72,
+    "text": "in the organization through and through multiple channels."
+  },
+  {
+    "start": 1871.44,
+    "duration": 4.24,
+    "text": "I've said this on, on podcasts before, but if you really want to get an interview, all"
+  },
+  {
+    "start": 1875.68,
+    "duration": 3.84,
+    "text": "you got to do is cold call the, that functional leader."
+  },
+  {
+    "start": 1880.32,
+    "duration": 0.32,
+    "text": "I do."
+  },
+  {
+    "start": 1880.64,
+    "duration": 5.2,
+    "text": "I no longer say cold call me cause I don't want the cold calls, but cold call Brandon"
+  },
+  {
+    "start": 1885.84,
+    "duration": 5.6,
+    "text": "who runs BDR cold call Brian, who runs a cold call to hiring manager."
+  },
+  {
+    "start": 1891.44,
+    "duration": 2.64,
+    "text": "Nobody makes cold calls and that's, that's the business we're in."
+  },
+  {
+    "start": 1894.08,
+    "duration": 2.96,
+    "text": "So, um, do the work."
+  },
+  {
+    "start": 1897.04,
+    "duration": 1.6,
+    "text": "So yeah, you can reach out on LinkedIn."
+  },
+  {
+    "start": 1898.64,
+    "duration": 5.84,
+    "text": "You can send an email trying to get a referral in is really helpful, but then, you know,"
+  },
+  {
+    "start": 1904.48,
+    "duration": 2.88,
+    "text": "do the uncomfortable thing and make the call."
+  },
+  {
+    "start": 1907.36,
+    "duration": 2.32,
+    "text": "By the way, I've got stats from culture amp on."
+  },
+  {
+    "start": 1910.4,
+    "duration": 3.12,
+    "text": "If you are a caller, it's the mindset."
+  },
+  {
+    "start": 1913.52,
+    "duration": 4.16,
+    "text": "It's, it may not be because people may not pick up, but we had this dude in Australia"
+  },
+  {
+    "start": 1917.68,
+    "duration": 1.6,
+    "text": "that was like four X anyone else."
+  },
+  {
+    "start": 1919.28,
+    "duration": 6.0,
+    "text": "And when we dug into it, it was just, he thought about everything was how do I put myself in"
+  },
+  {
+    "start": 1925.28,
+    "duration": 2.88,
+    "text": "an uncomfortable position and do what, what doesn't feel right."
+  },
+  {
+    "start": 1928.72,
+    "duration": 0.56,
+    "text": "Yeah."
+  },
+  {
+    "start": 1929.28,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 1929.6,
+    "duration": 2.0,
+    "text": "And it's very similar to our environment."
+  },
+  {
+    "start": 1932.4,
+    "duration": 6.48,
+    "text": "Um, so multi-threading multi-channel and being really thoughtful about your outreach, like"
+  },
+  {
+    "start": 1938.88,
+    "duration": 3.84,
+    "text": "that outreach is actually worse than no outreach, I think."
+  },
+  {
+    "start": 1942.72,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 1942.96,
+    "duration": 5.52,
+    "text": "And so you want to have, you know, really clear, a really clear opinion on why owner"
+  },
+  {
+    "start": 1948.48,
+    "duration": 3.68,
+    "text": "and why you mention your results."
+  },
+  {
+    "start": 1952.16,
+    "duration": 0.56,
+    "text": "It's funny."
+  },
+  {
+    "start": 1952.72,
+    "duration": 4.08,
+    "text": "Like I'll get some of these emails and, and people don't talk about their sales results"
+  },
+  {
+    "start": 1956.8,
+    "duration": 0.72,
+    "text": "at all."
+  },
+  {
+    "start": 1957.52,
+    "duration": 4.16,
+    "text": "And so I assume that the results are crap because if you were, you were a president's"
+  },
+  {
+    "start": 1961.68,
+    "duration": 5.2,
+    "text": "club performer who smoked quota every single, every single quarter, you're going to mention"
+  },
+  {
+    "start": 1966.88,
+    "duration": 4.0,
+    "text": "that in the, in the outreach, but there's been rare occasions where people do have results"
+  },
+  {
+    "start": 1970.88,
+    "duration": 4.56,
+    "text": "and failed to mention them, but I would definitely be results oriented in that outreach."
+  },
+  {
+    "start": 1975.44,
+    "duration": 0.56,
+    "text": "I liked that."
+  },
+  {
+    "start": 1976.0,
+    "duration": 2.96,
+    "text": "We talked, uh, the other day about references."
+  },
+  {
+    "start": 1978.96,
+    "duration": 3.6,
+    "text": "I, you had, uh, you and I were talking, I'd be fascinated to hear how you think about"
+  },
+  {
+    "start": 1982.56,
+    "duration": 1.6,
+    "text": "references and sales interview."
+  },
+  {
+    "start": 1984.72,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 1985.68,
+    "duration": 6.08,
+    "text": "So references are arguably more valuable than almost anything else you're going to do in"
+  },
+  {
+    "start": 1991.76,
+    "duration": 0.8,
+    "text": "the interview process."
+  },
+  {
+    "start": 1994.32,
+    "duration": 5.92,
+    "text": "And I would say, uh, references escalate in importance as you, as you raise in seniority,"
+  },
+  {
+    "start": 2000.24,
+    "duration": 3.76,
+    "text": "the higher, the role you're hiring for references for an SDR."
+  },
+  {
+    "start": 2004.0,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 2004.16,
+    "duration": 4.0,
+    "text": "You want to see great references, but most of the time they're going to be with like a"
+  },
+  {
+    "start": 2008.16,
+    "duration": 1.6,
+    "text": "summer internship manager."
+  },
+  {
+    "start": 2009.76,
+    "duration": 7.44,
+    "text": "You're not normally going to get a ton of feedback there, but, uh, especially managers,"
+  },
+  {
+    "start": 2017.2,
+    "duration": 5.2,
+    "text": "directors, VPs, you need to go hardcore with references."
+  },
+  {
+    "start": 2022.4,
+    "duration": 7.12,
+    "text": "Our CEO is the king of this and, and he'll go to town on references."
+  },
+  {
+    "start": 2029.52,
+    "duration": 5.6,
+    "text": "And, uh, and so there's a couple like strategic ways to do it."
+  },
+  {
+    "start": 2035.12,
+    "duration": 5.44,
+    "text": "So, um, when I get too close to offer, so when we've gone through all the stages with"
+  },
+  {
+    "start": 2040.56,
+    "duration": 5.28,
+    "text": "the candidate, let's, let's just talk senior hiring for, um, I will send them my, uh,"
+  },
+  {
+    "start": 2045.84,
+    "duration": 2.32,
+    "text": "mutual references email."
+  },
+  {
+    "start": 2048.16,
+    "duration": 1.12,
+    "text": "It's a template."
+  },
+  {
+    "start": 2049.28,
+    "duration": 3.52,
+    "text": "And so, Hey, thanks for going through the process with me."
+  },
+  {
+    "start": 2053.36,
+    "duration": 1.76,
+    "text": "Uh, we're really excited about it."
+  },
+  {
+    "start": 2055.12,
+    "duration": 6.0,
+    "text": "Now is the time where we typically do references and we want this to be like a mutual process."
+  },
+  {
+    "start": 2061.68,
+    "duration": 5.36,
+    "text": "So I'm going to introduce you to these people on the team, um, who you would be spending time"
+  },
+  {
+    "start": 2067.04,
+    "duration": 4.08,
+    "text": "working with and get to know them, but also ask them about what it's like working for me"
+  },
+  {
+    "start": 2071.12,
+    "duration": 1.04,
+    "text": "and working at the company."
+  },
+  {
+    "start": 2072.88,
+    "duration": 3.92,
+    "text": "Like, and, and, and I'm trying to encourage them to, to really dig in."
+  },
+  {
+    "start": 2077.36,
+    "duration": 5.44,
+    "text": "And then I say, and here's a list of every single person that has worked directly for"
+  },
+  {
+    "start": 2082.8,
+    "duration": 3.84,
+    "text": "me since I became a VP of sales and all of my key counterparts."
+  },
+  {
+    "start": 2086.64,
+    "duration": 8.24,
+    "text": "So I have this list with everybody's LinkedIn, um, on it of all of like my, the people who"
+  },
+  {
+    "start": 2094.88,
+    "duration": 4.72,
+    "text": "reported directly into me and then my marketing counterparts, my CS counterparts."
+  },
+  {
+    "start": 2099.6,
+    "duration": 4.08,
+    "text": "I say like re I won't, you know, cause if I give you referrals, they're all going to"
+  },
+  {
+    "start": 2103.68,
+    "duration": 1.2,
+    "text": "be people that are going to say good things."
+  },
+  {
+    "start": 2104.88,
+    "duration": 1.28,
+    "text": "But this is, this is everybody."
+  },
+  {
+    "start": 2106.16,
+    "duration": 4.72,
+    "text": "If you want to source your own referrals, if there's anybody that's not in this list"
+  },
+  {
+    "start": 2110.88,
+    "duration": 2.48,
+    "text": "that you want to go talk to, please go do it."
+  },
+  {
+    "start": 2113.36,
+    "duration": 5.28,
+    "text": "You have my full permission to, to, uh, really deeply background background."
+  },
+  {
+    "start": 2119.44,
+    "duration": 2.96,
+    "text": "And I would like the same permission for you."
+  },
+  {
+    "start": 2122.4,
+    "duration": 4.32,
+    "text": "Like it'd be great if you can give me the names of two people you've reported into two"
+  },
+  {
+    "start": 2126.72,
+    "duration": 3.76,
+    "text": "people that have reported directly into you, but I'd love it if you could give me the green"
+  },
+  {
+    "start": 2130.48,
+    "duration": 3.12,
+    "text": "light to go source my own references."
+  },
+  {
+    "start": 2133.6,
+    "duration": 5.04,
+    "text": "Just let me know who I should not go speak with because maybe it's like, this is the"
+  },
+  {
+    "start": 2138.64,
+    "duration": 5.76,
+    "text": "best friend of my current boss or, uh, there, there might be like some other sensitivity"
+  },
+  {
+    "start": 2144.4,
+    "duration": 1.52,
+    "text": "that I want to be mindful of."
+  },
+  {
+    "start": 2145.92,
+    "duration": 2.24,
+    "text": "I don't, I don't want to be disruptive."
+  },
+  {
+    "start": 2148.88,
+    "duration": 5.28,
+    "text": "And sometimes the response back is like, well, like, I don't really want you to talk to my,"
+  },
+  {
+    "start": 2154.16,
+    "duration": 6.16,
+    "text": "my like old VP of sales because they sucked and we didn't get along and this is why I"
+  },
+  {
+    "start": 2160.32,
+    "duration": 0.32,
+    "text": "left."
+  },
+  {
+    "start": 2160.64,
+    "duration": 4.48,
+    "text": "So, so you'll learn stuff just from that process that maybe you want to dig into the candidate"
+  },
+  {
+    "start": 2165.12,
+    "duration": 3.68,
+    "text": "with, but then you get the green light and then it's your job to go digging."
+  },
+  {
+    "start": 2169.84,
+    "duration": 4.0,
+    "text": "And so I'll tag you my TA team in on this and I'll say, Hey, like, can you go look on"
+  },
+  {
+    "start": 2173.84,
+    "duration": 6.24,
+    "text": "LinkedIn for these people who were at this company at this time that would have overlapped?"
+  },
+  {
+    "start": 2180.08,
+    "duration": 2.08,
+    "text": "And then I'll just send out some outreach."
+  },
+  {
+    "start": 2182.16,
+    "duration": 2.16,
+    "text": "Hey, you know, I'm about to hire Andy."
+  },
+  {
+    "start": 2184.32,
+    "duration": 1.44,
+    "text": "This is a great tip for my CEO."
+  },
+  {
+    "start": 2186.4,
+    "duration": 5.28,
+    "text": "Uh, he's like, this is a really important role and it's when we really need to get it"
+  },
+  {
+    "start": 2191.68,
+    "duration": 0.32,
+    "text": "right."
+  },
+  {
+    "start": 2192.0,
+    "duration": 7.04,
+    "text": "And so your, your feedback would be invaluable to me for the, for that process because it"
+  },
+  {
+    "start": 2199.04,
+    "duration": 1.2,
+    "text": "lets them know that it's important."
+  },
+  {
+    "start": 2200.24,
+    "duration": 1.92,
+    "text": "It is really, really, really important."
+  },
+  {
+    "start": 2202.16,
+    "duration": 5.36,
+    "text": "And so making sure that this person knows that it's, it's an important input one, it'll"
+  },
+  {
+    "start": 2207.52,
+    "duration": 7.12,
+    "text": "improve your response rates and people's people picking up on this and then it'll, um, it'll,"
+  },
+  {
+    "start": 2214.64,
+    "duration": 2.88,
+    "text": "uh, help them open up more honestly."
+  },
+  {
+    "start": 2217.52,
+    "duration": 3.44,
+    "text": "And then I always say to them, he's like, you know, I won't share anything with the"
+  },
+  {
+    "start": 2220.96,
+    "duration": 0.64,
+    "text": "candidate."
+  },
+  {
+    "start": 2221.6,
+    "duration": 1.68,
+    "text": "Everything is between you and me."
+  },
+  {
+    "start": 2223.28,
+    "duration": 3.84,
+    "text": "They won't even know that we spoke if, if you, if you would prefer that."
+  },
+  {
+    "start": 2227.76,
+    "duration": 3.52,
+    "text": "And then I'll get into my sort of a back channel questions."
+  },
+  {
+    "start": 2231.28,
+    "duration": 3.12,
+    "text": "I try to be like brief to be respectful of time."
+  },
+  {
+    "start": 2235.04,
+    "duration": 4.32,
+    "text": "And the biggest things that I want to know is like, where would you rank this person"
+  },
+  {
+    "start": 2239.36,
+    "duration": 2.48,
+    "text": "and all of the people you've worked with in this function?"
+  },
+  {
+    "start": 2241.84,
+    "duration": 7.76,
+    "text": "So if I'm hiring a VP of sales, I'll ask the, uh, CS leader or the founder that that"
+  },
+  {
+    "start": 2249.6,
+    "duration": 0.72,
+    "text": "person worked with."
+  },
+  {
+    "start": 2250.32,
+    "duration": 3.52,
+    "text": "I was like, I've got all of the VPs of all the sales leaders you've ever worked with."
+  },
+  {
+    "start": 2253.84,
+    "duration": 2.48,
+    "text": "Where does this person stack rank amongst them?"
+  },
+  {
+    "start": 2257.28,
+    "duration": 2.32,
+    "text": "Uh, in terms of like percent percentile."
+  },
+  {
+    "start": 2259.6,
+    "duration": 5.44,
+    "text": "And if people are saying, Oh, like, you know, definitely 30th percentile, no bueno for me"
+  },
+  {
+    "start": 2265.04,
+    "duration": 3.6,
+    "text": "because I want people who are like, I want to hear, this is the best person I've ever"
+  },
+  {
+    "start": 2268.64,
+    "duration": 5.12,
+    "text": "worked with, or the best like leader in, in marketing I've ever worked with or top 5%,"
+  },
+  {
+    "start": 2273.76,
+    "duration": 0.96,
+    "text": "top 10%."
+  },
+  {
+    "start": 2274.72,
+    "duration": 1.84,
+    "text": "That's, that's really what we're trying to find."
+  },
+  {
+    "start": 2277.2,
+    "duration": 3.84,
+    "text": "And I want to understand, uh, that person's working style."
+  },
+  {
+    "start": 2281.04,
+    "duration": 4.08,
+    "text": "You know, like if, if this person works for me, how do I best engage with them?"
+  },
+  {
+    "start": 2285.12,
+    "duration": 3.04,
+    "text": "What, what, what do I need to know about being their manager?"
+  },
+  {
+    "start": 2288.16,
+    "duration": 6.4,
+    "text": "This is sort of a nuanced way of, of getting towards some of their work quirks as well."
+  },
+  {
+    "start": 2295.12,
+    "duration": 0.48,
+    "text": "Yeah."
+  },
+  {
+    "start": 2295.6,
+    "duration": 3.92,
+    "text": "You know, what are the things that, what are the things that don't work for Andy?"
+  },
+  {
+    "start": 2299.52,
+    "duration": 3.84,
+    "text": "And it's like, Oh, well, like, you know, Andy doesn't want feedback."
+  },
+  {
+    "start": 2303.36,
+    "duration": 2.4,
+    "text": "Andy, like, you know, he just wants to be left alone."
+  },
+  {
+    "start": 2306.48,
+    "duration": 2.48,
+    "text": "Uh, sort of doesn't work for me."
+  },
+  {
+    "start": 2308.96,
+    "duration": 3.92,
+    "text": "I guess there'll be, you know, like where I want feedback for my direct reports."
+  },
+  {
+    "start": 2312.88,
+    "duration": 3.92,
+    "text": "Like I can't have a, I can't have a direct report that doesn't want feedback and just"
+  },
+  {
+    "start": 2316.8,
+    "duration": 1.52,
+    "text": "wants to be like totally left alone."
+  },
+  {
+    "start": 2318.32,
+    "duration": 4.48,
+    "text": "That's, that's, that's a bad, it's like just a, that's a yellow, yellow flag."
+  },
+  {
+    "start": 2322.8,
+    "duration": 1.84,
+    "text": "And so I want to like be pretty diligent."
+  },
+  {
+    "start": 2324.64,
+    "duration": 1.52,
+    "text": "I want to source a bunch of these."
+  },
+  {
+    "start": 2326.16,
+    "duration": 3.44,
+    "text": "I really do want to encourage that person to talk to people that have worked for me"
+  },
+  {
+    "start": 2329.6,
+    "duration": 2.48,
+    "text": "in the past because it's about fit at the end of the day."
+  },
+  {
+    "start": 2332.08,
+    "duration": 5.84,
+    "text": "There's no perfect candidate, but there's candidates that better fit your culture because,"
+  },
+  {
+    "start": 2337.92,
+    "duration": 4.24,
+    "text": "you know, maybe my strengths and my particular strengths and weaknesses don't match with"
+  },
+  {
+    "start": 2342.16,
+    "duration": 0.56,
+    "text": "this person."
+  },
+  {
+    "start": 2342.72,
+    "duration": 5.04,
+    "text": "Maybe my working style doesn't really make sense for, for this individual."
+  },
+  {
+    "start": 2347.76,
+    "duration": 2.32,
+    "text": "So, so like finding that match is important."
+  },
+  {
+    "start": 2350.08,
+    "duration": 3.2,
+    "text": "I loved, I I've learned so much on your template."
+  },
+  {
+    "start": 2353.28,
+    "duration": 0.72,
+    "text": "It was so powerful."
+  },
+  {
+    "start": 2354.0,
+    "duration": 1.84,
+    "text": "One thing I'll share with you that I found really helpful."
+  },
+  {
+    "start": 2356.4,
+    "duration": 7.52,
+    "text": "I write and maintain and keep updated my user manual because I am who I am and I want people"
+  },
+  {
+    "start": 2363.92,
+    "duration": 2.64,
+    "text": "to, I have my quirks and you have yours."
+  },
+  {
+    "start": 2367.2,
+    "duration": 3.28,
+    "text": "And so every time I hire somebody, I'm like, listen, this is who I am."
+  },
+  {
+    "start": 2370.48,
+    "duration": 4.48,
+    "text": "You don't have to write yours, but you can read mine and we can have the conversation"
+  },
+  {
+    "start": 2374.96,
+    "duration": 6.32,
+    "text": "because there are places where I'm going to come across insanely intense, but I don't"
+  },
+  {
+    "start": 2381.28,
+    "duration": 3.12,
+    "text": "mean to, but if you don't know that it's going to scare you."
+  },
+  {
+    "start": 2384.8,
+    "duration": 3.44,
+    "text": "And so I think the writing your own user manual has been a powerful one for me."
+  },
+  {
+    "start": 2388.24,
+    "duration": 4.72,
+    "text": "But if you're a document called my blueprint, it's the, it's the same thing."
+  },
+  {
+    "start": 2392.96,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 2393.28,
+    "duration": 5.36,
+    "text": "Cause there's little things and you don't understand you, you live in your own head."
+  },
+  {
+    "start": 2398.64,
+    "duration": 5.04,
+    "text": "So it's hard to appreciate some of the things that you do might be really different for"
+  },
+  {
+    "start": 2403.68,
+    "duration": 0.32,
+    "text": "folks."
+  },
+  {
+    "start": 2404.0,
+    "duration": 2.96,
+    "text": "And so it's, it's good to source that from your current teams."
+  },
+  {
+    "start": 2408.4,
+    "duration": 1.52,
+    "text": "It's a good feedback mechanism."
+  },
+  {
+    "start": 2410.72,
+    "duration": 5.44,
+    "text": "Uh, but just like little things, like I like to, I really like to understand things and,"
+  },
+  {
+    "start": 2416.16,
+    "duration": 1.84,
+    "text": "and so I'm, and I'm generally curious."
+  },
+  {
+    "start": 2418.0,
+    "duration": 2.88,
+    "text": "So I might ask a bunch of questions about stuff."
+  },
+  {
+    "start": 2421.44,
+    "duration": 5.12,
+    "text": "And if you don't know that it's coming from a place of, of curiosity and interest, you"
+  },
+  {
+    "start": 2426.56,
+    "duration": 2.72,
+    "text": "might think I'm second guessing you or I'm questioning you."
+  },
+  {
+    "start": 2429.84,
+    "duration": 7.2,
+    "text": "But, um, in my blueprints, I talk about how, uh, how I am curious to understand root cause"
+  },
+  {
+    "start": 2437.12,
+    "duration": 3.84,
+    "text": "or one of the other things, like I'm opinionated, but open, it's like, look, like I'm going"
+  },
+  {
+    "start": 2440.96,
+    "duration": 4.48,
+    "text": "to have an opinion about most stuff because I spent a lot of time thinking about revenue"
+  },
+  {
+    "start": 2445.44,
+    "duration": 2.24,
+    "text": "leadership and systems building."
+  },
+  {
+    "start": 2447.68,
+    "duration": 5.12,
+    "text": "Um, but you should never let that scare you away from, from advocating for what you think"
+  },
+  {
+    "start": 2452.8,
+    "duration": 0.88,
+    "text": "is the right thing."
+  },
+  {
+    "start": 2453.68,
+    "duration": 4.24,
+    "text": "Don't let me bully you off your, off your opinion because it's opinionated, but open,"
+  },
+  {
+    "start": 2457.92,
+    "duration": 4.4,
+    "text": "just bring me good logic and data and tell me I'm wrong."
+  },
+  {
+    "start": 2462.32,
+    "duration": 1.92,
+    "text": "And I'm super open-minded."
+  },
+  {
+    "start": 2464.32,
+    "duration": 3.04,
+    "text": "But there could be the other side, if they don't know your blueprint and they'd be like,"
+  },
+  {
+    "start": 2467.36,
+    "duration": 1.36,
+    "text": "this guy just has his opinion."
+  },
+  {
+    "start": 2468.72,
+    "duration": 1.2,
+    "text": "He doesn't want to be open."
+  },
+  {
+    "start": 2469.92,
+    "duration": 3.76,
+    "text": "And it's like, you're creating that space for people to do that, which I do the same"
+  },
+  {
+    "start": 2473.68,
+    "duration": 0.72,
+    "text": "thing."
+  },
+  {
+    "start": 2474.4,
+    "duration": 0.72,
+    "text": "Yeah."
+  },
+  {
+    "start": 2475.12,
+    "duration": 2.64,
+    "text": "And some people are just like, cause they're not going to jive."
+  },
+  {
+    "start": 2477.76,
+    "duration": 4.88,
+    "text": "They're not going to jive with your approach or your style and they just want something"
+  },
+  {
+    "start": 2482.64,
+    "duration": 0.96,
+    "text": "different."
+  },
+  {
+    "start": 2483.6,
+    "duration": 1.92,
+    "text": "And it's good to learn that upfront."
+  },
+  {
+    "start": 2485.52,
+    "duration": 0.56,
+    "text": "I like that."
+  },
+  {
+    "start": 2486.08,
+    "duration": 5.44,
+    "text": "One more thing you mentioned earlier on a prep chat was, um, what types of references you"
+  },
+  {
+    "start": 2491.52,
+    "duration": 3.68,
+    "text": "want direct reports and, and direct managers."
+  },
+  {
+    "start": 2495.2,
+    "duration": 3.76,
+    "text": "I'd be curious how you look at, like, say somebody sends you that list of references."
+  },
+  {
+    "start": 2499.76,
+    "duration": 1.12,
+    "text": "What are the good ones to send you?"
+  },
+  {
+    "start": 2500.88,
+    "duration": 0.8,
+    "text": "What are the bad ones?"
+  },
+  {
+    "start": 2501.68,
+    "duration": 1.84,
+    "text": "What are the ones you do want to talk to?"
+  },
+  {
+    "start": 2503.52,
+    "duration": 2.24,
+    "text": "So you want to be diligent to triangulate."
+  },
+  {
+    "start": 2505.76,
+    "duration": 4.88,
+    "text": "I definitely want to talk to as many people that that person has worked directly for as"
+  },
+  {
+    "start": 2510.64,
+    "duration": 0.48,
+    "text": "I can."
+  },
+  {
+    "start": 2513.28,
+    "duration": 0.8,
+    "text": "Minimum of two."
+  },
+  {
+    "start": 2514.64,
+    "duration": 3.76,
+    "text": "And I want to make sure that I'm talking to multiple people that have worked for that"
+  },
+  {
+    "start": 2518.4,
+    "duration": 0.56,
+    "text": "individual."
+  },
+  {
+    "start": 2519.76,
+    "duration": 5.76,
+    "text": "This is where I've gone wrong in the past where I've, I've interviewed, you know, that"
+  },
+  {
+    "start": 2525.52,
+    "duration": 4.96,
+    "text": "person's past two founders and maybe somebody else and they're glowing references."
+  },
+  {
+    "start": 2530.48,
+    "duration": 2.0,
+    "text": "I was like, person is a stud."
+  },
+  {
+    "start": 2532.48,
+    "duration": 0.88,
+    "text": "Let's go."
+  },
+  {
+    "start": 2533.36,
+    "duration": 6.24,
+    "text": "But I didn't go interview enough of their direct reports or in one case, like any of"
+  },
+  {
+    "start": 2539.6,
+    "duration": 1.44,
+    "text": "the direct reports."
+  },
+  {
+    "start": 2541.04,
+    "duration": 2.16,
+    "text": "And I know I would have learned a lot there."
+  },
+  {
+    "start": 2544.16,
+    "duration": 6.24,
+    "text": "But the upwards, the upwards feedback, the feedback from above was so strong that it"
+  },
+  {
+    "start": 2550.4,
+    "duration": 1.76,
+    "text": "was just confirming my priors."
+  },
+  {
+    "start": 2552.16,
+    "duration": 1.2,
+    "text": "And so we went ahead."
+  },
+  {
+    "start": 2553.36,
+    "duration": 5.2,
+    "text": "But instead, you should be really diligent to try to talk to, like, two, three, four"
+  },
+  {
+    "start": 2559.12,
+    "duration": 5.52,
+    "text": "managers that have worked for that for that person to really get an understanding of what"
+  },
+  {
+    "start": 2564.64,
+    "duration": 1.36,
+    "text": "it's like to work for them."
+  },
+  {
+    "start": 2566.0,
+    "duration": 4.0,
+    "text": "Because ultimately, that is the thing that is more important than anything is what is"
+  },
+  {
+    "start": 2570.56,
+    "duration": 3.68,
+    "text": "what is the engagement you can drive within your team?"
+  },
+  {
+    "start": 2575.12,
+    "duration": 1.12,
+    "text": "How do you develop them?"
+  },
+  {
+    "start": 2576.24,
+    "duration": 1.68,
+    "text": "How do you motivate?"
+  },
+  {
+    "start": 2577.92,
+    "duration": 5.12,
+    "text": "How do you focus them so that they can do the same for their teams?"
+  },
+  {
+    "start": 2583.04,
+    "duration": 4.8,
+    "text": "And if it's if it's not there, it's an issue because it's much easier."
+  },
+  {
+    "start": 2587.84,
+    "duration": 4.88,
+    "text": "It's much easier to do the smoke and mirrors thing with your boss, especially if you report"
+  },
+  {
+    "start": 2592.72,
+    "duration": 3.92,
+    "text": "it to a CEO or somebody who's not in the day to day weeds."
+  },
+  {
+    "start": 2596.64,
+    "duration": 1.92,
+    "text": "But you can't really smoke and mirrors."
+  },
+  {
+    "start": 2598.56,
+    "duration": 6.8,
+    "text": "You can't you can't you can't obfuscate with your direct managers, with your direct reports."
+  },
+  {
+    "start": 2605.36,
+    "duration": 3.04,
+    "text": "Yeah, there was people can be two faced."
+  },
+  {
+    "start": 2608.4,
+    "duration": 4.4,
+    "text": "Sometimes they can be amazing to the senior leadership and total."
+  },
+  {
+    "start": 2614.16,
+    "duration": 1.36,
+    "text": "Brooks to the people below them."
+  },
+  {
+    "start": 2615.52,
+    "duration": 1.12,
+    "text": "I've seen that happen."
+  },
+  {
+    "start": 2616.64,
+    "duration": 0.96,
+    "text": "I hate those people."
+  },
+  {
+    "start": 2618.24,
+    "duration": 2.24,
+    "text": "And they're they set red flags."
+  },
+  {
+    "start": 2620.48,
+    "duration": 3.76,
+    "text": "But there's sometimes you can miss them if you don't do the downward interviews."
+  },
+  {
+    "start": 2624.24,
+    "duration": 1.12,
+    "text": "Well, I know we're getting towards time."
+  },
+  {
+    "start": 2625.36,
+    "duration": 1.68,
+    "text": "Maybe we can wrap up with one fun one."
+  },
+  {
+    "start": 2627.44,
+    "duration": 2.08,
+    "text": "Owner.com has built an amazing brand."
+  },
+  {
+    "start": 2629.52,
+    "duration": 1.04,
+    "text": "I hear about it everywhere."
+  },
+  {
+    "start": 2631.12,
+    "duration": 7.28,
+    "text": "I'd love to hear how you think about your employer brand and your personal brand when you're hiring"
+  },
+  {
+    "start": 2638.4,
+    "duration": 0.56,
+    "text": "folks."
+  },
+  {
+    "start": 2638.96,
+    "duration": 0.5,
+    "text": "Yeah."
+  },
+  {
+    "start": 2640.24,
+    "duration": 1.36,
+    "text": "So for sales, it's actually..."
+  },
+  {
+    "start": 2642.32,
+    "duration": 3.6,
+    "text": "It's arguably more about your personal brand as a leader."
+  },
+  {
+    "start": 2646.72,
+    "duration": 7.84,
+    "text": "So I've been writing on LinkedIn for 5 or 6 years now with more regularity and intensity"
+  },
+  {
+    "start": 2654.56,
+    "duration": 0.88,
+    "text": "the last couple years."
+  },
+  {
+    "start": 2655.44,
+    "duration": 3.92,
+    "text": "That's the reason I started the podcast was one to learn from super smart people."
+  },
+  {
+    "start": 2660.48,
+    "duration": 2.64,
+    "text": "But also, it's a great brand building exercise."
+  },
+  {
+    "start": 2663.12,
+    "duration": 4.64,
+    "text": "I really want to be known in the market as a thought leader and somebody that"
+  },
+  {
+    "start": 2668.72,
+    "duration": 3.92,
+    "text": "leaders and reps should really want to come work for."
+  },
+  {
+    "start": 2674.72,
+    "duration": 5.12,
+    "text": "And so it is a long payoff, but it's compounding."
+  },
+  {
+    "start": 2680.64,
+    "duration": 7.6,
+    "text": "And so I got very little benefit from writing on LinkedIn for a while."
+  },
+  {
+    "start": 2688.24,
+    "duration": 3.44,
+    "text": "But then all of a sudden, it started to have a bit of a flywheel."
+  },
+  {
+    "start": 2691.68,
+    "duration": 4.4,
+    "text": "And then every post got you more people and more people."
+  },
+  {
+    "start": 2696.08,
+    "duration": 2.32,
+    "text": "And then when I posted roles, there was..."
+  },
+  {
+    "start": 2698.4,
+    "duration": 2.8,
+    "text": "Before the LinkedIn algorithm changed at the beginning of the year..."
+  },
+  {
+    "start": 2701.2,
+    "duration": 0.56,
+    "text": "Yep."
+  },
+  {
+    "start": 2701.76,
+    "duration": 8.96,
+    "text": "I could post BDR&E roles and get 40,000 to 80,000 impressions and over 1,000 applicants"
+  },
+  {
+    "start": 2710.72,
+    "duration": 2.32,
+    "text": "in 24 to 48 hours."
+  },
+  {
+    "start": 2713.84,
+    "duration": 4.72,
+    "text": "Quality of that applicant is obviously a spectrum."
+  },
+  {
+    "start": 2718.56,
+    "duration": 10.16,
+    "text": "But we were able to build 80% of our initial IC team through my network."
+  },
+  {
+    "start": 2728.72,
+    "duration": 2.08,
+    "text": "One degree removed, basically."
+  },
+  {
+    "start": 2731.44,
+    "duration": 0.56,
+    "text": "People who..."
+  },
+  {
+    "start": 2732.64,
+    "duration": 1.92,
+    "text": "A lot of the original team was..."
+  },
+  {
+    "start": 2734.56,
+    "duration": 2.56,
+    "text": "They had worked with somebody who I'd worked with,"
+  },
+  {
+    "start": 2737.12,
+    "duration": 2.96,
+    "text": "or we were one degree connected and they brought in their friends."
+  },
+  {
+    "start": 2740.8,
+    "duration": 4.08,
+    "text": "And it was a lot of the network."
+  },
+  {
+    "start": 2744.88,
+    "duration": 6.8,
+    "text": "But it's easy to be on people's radar and pull in those second degree folks"
+  },
+  {
+    "start": 2751.68,
+    "duration": 2.48,
+    "text": "when you have a megaphone."
+  },
+  {
+    "start": 2754.72,
+    "duration": 3.28,
+    "text": "And I think leaders need to be really conscious of it."
+  },
+  {
+    "start": 2759.36,
+    "duration": 3.92,
+    "text": "And be conscious of what's happening on your rep view,"
+  },
+  {
+    "start": 2763.28,
+    "duration": 3.68,
+    "text": "what's happening on Glassdoor, keeping a pulse on your team."
+  },
+  {
+    "start": 2768.4,
+    "duration": 6.72,
+    "text": "I think this is one of the underappreciated aspects of having a highly engaged team."
+  },
+  {
+    "start": 2775.12,
+    "duration": 3.84,
+    "text": "They're going to be excited to bring in their friends and share the message."
+  },
+  {
+    "start": 2778.96,
+    "duration": 5.36,
+    "text": "And so there's just easy things to do to make sure that your organization is excited about"
+  },
+  {
+    "start": 2784.32,
+    "duration": 0.56,
+    "text": "being there."
+  },
+  {
+    "start": 2785.52,
+    "duration": 6.08,
+    "text": "And oftentimes, we think too transactionally about our teams."
+  },
+  {
+    "start": 2791.6,
+    "duration": 3.36,
+    "text": "I just, as a leadership philosophy, agree with this."
+  },
+  {
+    "start": 2794.96,
+    "duration": 3.76,
+    "text": "The servant leadership approach is the thing that I stress the most with my leaders."
+  },
+  {
+    "start": 2799.28,
+    "duration": 2.88,
+    "text": "But also, there's this incredible flywheel that we have..."
+  },
+  {
+    "start": 2802.96,
+    "duration": 8.32,
+    "text": "We're in the top 0.3% of companies on rep view."
+  },
+  {
+    "start": 2811.84,
+    "duration": 2.16,
+    "text": "And our DoorDash is impeccable."
+  },
+  {
+    "start": 2814.72,
+    "duration": 1.6,
+    "text": "Our Glassdoor is impeccable."
+  },
+  {
+    "start": 2818.48,
+    "duration": 3.6,
+    "text": "And those things matter a lot in today's world."
+  },
+  {
+    "start": 2822.08,
+    "duration": 1.2,
+    "text": "I could not agree more."
+  },
+  {
+    "start": 2823.28,
+    "duration": 3.76,
+    "text": "I coach a lot of people on getting on podcasts, writing."
+  },
+  {
+    "start": 2827.92,
+    "duration": 2.72,
+    "text": "You don't just do it because you want followers."
+  },
+  {
+    "start": 2830.64,
+    "duration": 1.84,
+    "text": "This builds your brand as a leader."
+  },
+  {
+    "start": 2832.48,
+    "duration": 2.88,
+    "text": "I think when people see you on a podcast like this,"
+  },
+  {
+    "start": 2835.36,
+    "duration": 4.64,
+    "text": "they want thoughtful, intelligent leaders they can get excited about."
+  },
+  {
+    "start": 2840.0,
+    "duration": 2.4,
+    "text": "And it can go wrong."
+  },
+  {
+    "start": 2842.4,
+    "duration": 4.32,
+    "text": "If you're not thoughtful and intelligent, going on podcast might not actually help you."
+  },
+  {
+    "start": 2847.6,
+    "duration": 3.52,
+    "text": "So you do want to cultivate that."
+  },
+  {
+    "start": 2851.12,
+    "duration": 5.28,
+    "text": "And if you're going to do podcasts, be really prepared with something to say."
+  },
+  {
+    "start": 2856.4,
+    "duration": 4.64,
+    "text": "But yeah, I think it's an important thing for leaders to do."
+  },
+  {
+    "start": 2861.04,
+    "duration": 0.56,
+    "text": "That's awesome."
+  },
+  {
+    "start": 2861.6,
+    "duration": 1.12,
+    "text": "Well, thank you so much."
+  },
+  {
+    "start": 2862.72,
+    "duration": 1.2,
+    "text": "I really learned a lot."
+  },
+  {
+    "start": 2863.92,
+    "duration": 2.4,
+    "text": "I think references and your tactics there."
+  },
+  {
+    "start": 2866.32,
+    "duration": 1.36,
+    "text": "I've got a bunch of notes."
+  },
+  {
+    "start": 2868.32,
+    "duration": 1.36,
+    "text": "And then systematic hiring."
+  },
+  {
+    "start": 2869.68,
+    "duration": 1.68,
+    "text": "I've not met anybody that does it better."
+  },
+  {
+    "start": 2871.36,
+    "duration": 1.6,
+    "text": "So thank you again, Kyle."
+  },
+  {
+    "start": 2872.96,
+    "duration": 0.8,
+    "text": "Appreciate the time."
+  },
+  {
+    "start": 2873.76,
+    "duration": 6.64,
+    "text": "Thanks, Andy."
+  }
+]

@@ -1,0 +1,3357 @@
+[
+  {
+    "start": 0.0,
+    "duration": 5.04,
+    "text": "And we've had to teach the problem that, you know, email is, it inherently sucks."
+  },
+  {
+    "start": 5.04,
+    "duration": 4.48,
+    "text": "Everyone has an email problem. And so I think people don't realize that it affects and can"
+  },
+  {
+    "start": 9.52,
+    "duration": 3.52,
+    "text": "actually improve the lives and actually improve productivity for everyone in the organization"
+  },
+  {
+    "start": 13.04,
+    "duration": 4.0,
+    "text": "if you make it better. But a lot of people just think it's an executive problem, that they get"
+  },
+  {
+    "start": 17.04,
+    "duration": 4.24,
+    "text": "the most emails, that they're blocking people. It's actually the entire organization that has"
+  },
+  {
+    "start": 21.28,
+    "duration": 6.0,
+    "text": "that problem. And so much of your day-to-day is just answering goddamn emails."
+  },
+  {
+    "start": 30.64,
+    "duration": 6.0,
+    "text": "Hello, and welcome to the Revenue Leadership Podcast by Topline."
+  },
+  {
+    "start": 37.28,
+    "duration": 6.88,
+    "text": "I'm your host, Kyle Norton, CRO at Owner.com. And every Wednesday, we dive deep into the"
+  },
+  {
+    "start": 44.16,
+    "duration": 5.52,
+    "text": "strategies and tactics being used to drive success by the best revenue leaders in the world."
+  },
+  {
+    "start": 50.48,
+    "duration": 4.8,
+    "text": "So join me as I sit down with revenue operators to discuss actionable frameworks that you can"
+  },
+  {
+    "start": 55.28,
+    "duration": 5.44,
+    "text": "implement in your business today with no fluff, no sales pitches, and no platitudes."
+  },
+  {
+    "start": 85.28,
+    "duration": 18.0,
+    "text": "And I'm excited to welcome today's guest, Andrew Johnson, who is the VP of Sales at Superhuman,"
+  },
+  {
+    "start": 103.84,
+    "duration": 5.2,
+    "text": "which is the most productive AI email application built for working professionals."
+  },
+  {
+    "start": 110.24,
+    "duration": 4.8,
+    "text": "Previous to Superhuman, Andrew spent four and a half years at SendGrid and Twilio going through"
+  },
+  {
+    "start": 115.76,
+    "duration": 6.8,
+    "text": "the SendGrid IPO, then the acquisition by Twilio, where he then became the head of all SendGrid"
+  },
+  {
+    "start": 122.56,
+    "duration": 6.88,
+    "text": "sales. Since then, Andrew spent a year and a half at Scale.ai, who's doing fascinating stuff"
+  },
+  {
+    "start": 129.44,
+    "duration": 3.92,
+    "text": "in the AI landscape before taking this role at Superhuman almost two years ago."
+  },
+  {
+    "start": 133.92,
+    "duration": 6.96,
+    "text": "And we're going to crack into all things PLG and SLG, dig into AI and sales a little bit,"
+  },
+  {
+    "start": 140.88,
+    "duration": 3.12,
+    "text": "talk about what Superhuman is doing there, because I know you're doing some cool stuff."
+  },
+  {
+    "start": 144.0,
+    "duration": 2.96,
+    "text": "So I'm excited for this one, and welcome to the show, Andrew."
+  },
+  {
+    "start": 147.68,
+    "duration": 1.68,
+    "text": "Thanks so much, Kyle. Looking forward to it."
+  },
+  {
+    "start": 150.4,
+    "duration": 4.08,
+    "text": "So what did I miss in your background? What do you want to fill in for folks?"
+  },
+  {
+    "start": 155.36,
+    "duration": 5.36,
+    "text": "Well, thank you, Mr. Mutch. It's been a really fun journey. I think before that, I spent some"
+  },
+  {
+    "start": 160.72,
+    "duration": 5.04,
+    "text": "time at a small e-commerce startup, so I was bootstrapped. So I've seen everything from very"
+  },
+  {
+    "start": 165.76,
+    "duration": 6.16,
+    "text": "small bootstrapped companies all the way through very large public organizations. So that's been"
+  },
+  {
+    "start": 171.92,
+    "duration": 6.72,
+    "text": "a fun journey. My career started in the entertainment business. I was Lloyd, if you"
+  },
+  {
+    "start": 178.64,
+    "duration": 3.84,
+    "text": "watched Entourage, I'm probably dating myself. I actually did that job for a few years out of"
+  },
+  {
+    "start": 182.48,
+    "duration": 7.68,
+    "text": "school. Oh, very cool. Or it might have been very difficult, depending on how real that"
+  },
+  {
+    "start": 192.08,
+    "duration": 6.24,
+    "text": "interpretation is. So when you were at Scale, had they started to raise silly money yet,"
+  },
+  {
+    "start": 198.32,
+    "duration": 1.2,
+    "text": "or was that just after?"
+  },
+  {
+    "start": 200.64,
+    "duration": 4.0,
+    "text": "No, they hadn't raised. So I came there when they were probably, I think we were"
+  },
+  {
+    "start": 204.64,
+    "duration": 2.32,
+    "text": "five or six hundred people at that point, when I first joined."
+  },
+  {
+    "start": 206.96,
+    "duration": 1.28,
+    "text": "Oh, it was that big. Wow."
+  },
+  {
+    "start": 208.24,
+    "duration": 4.32,
+    "text": "It was that big. Revenue was quite high. I'm not sure if I can say exactly where it was at that"
+  },
+  {
+    "start": 212.56,
+    "duration": 5.2,
+    "text": "point, but it was quite high. And they had raised, at that point, they were at their"
+  },
+  {
+    "start": 217.76,
+    "duration": 5.76,
+    "text": "$7 billion valuation. So they had raised pretty crazy money at that point. And then right as I"
+  },
+  {
+    "start": 223.52,
+    "duration": 3.68,
+    "text": "was leaving, they did that doubling of the valuation where they raised, I think, another"
+  },
+  {
+    "start": 227.2,
+    "duration": 4.8,
+    "text": "billion funding up to $13 billion in evaluation. But it was a crazy time because that was right"
+  },
+  {
+    "start": 232.0,
+    "duration": 6.08,
+    "text": "when ChatGPT launched. We actually did the early training of ChatGPT-3. And then all the other"
+  },
+  {
+    "start": 238.08,
+    "duration": 4.0,
+    "text": "models that were out there, we did a lot of training for those models as well. So it was"
+  },
+  {
+    "start": 242.08,
+    "duration": 4.72,
+    "text": "really interesting to be part of that early sales motion, starting into these startup companies"
+  },
+  {
+    "start": 246.8,
+    "duration": 3.12,
+    "text": "and LMs that we're building, what we now are very popular with."
+  },
+  {
+    "start": 250.72,
+    "duration": 6.08,
+    "text": "Very cool. And so other than that, you've basically been an email guy for nine years."
+  },
+  {
+    "start": 257.52,
+    "duration": 2.72,
+    "text": "So what is your obsession with email?"
+  },
+  {
+    "start": 261.68,
+    "duration": 5.76,
+    "text": "It was not intended. I think I got to know it because when I was at that eCommerce startup,"
+  },
+  {
+    "start": 267.44,
+    "duration": 4.08,
+    "text": "we did a lot of outbound email. A lot of our strategy was actually setting up"
+  },
+  {
+    "start": 271.52,
+    "duration": 5.36,
+    "text": "these deployed eCommerce shops for online publishers. And email was the common channel."
+  },
+  {
+    "start": 276.88,
+    "duration": 5.76,
+    "text": "So I learned a lot about that as a channel. And then it made sense as I transitioned into SendGrid."
+  },
+  {
+    "start": 282.64,
+    "duration": 5.36,
+    "text": "But email infrastructure, especially at DevTools, was a far cry from eCommerce. And so I think it"
+  },
+  {
+    "start": 288.0,
+    "duration": 4.24,
+    "text": "was just by luck and happenstance. And then I started to fall in love with the channel."
+  },
+  {
+    "start": 292.24,
+    "duration": 7.44,
+    "text": "And then now it's hard to get away from it. Yeah. Once you build your reputation as a senior"
+  },
+  {
+    "start": 299.68,
+    "duration": 6.4,
+    "text": "revenue person in a particular category like this, your unique value to those companies is"
+  },
+  {
+    "start": 306.08,
+    "duration": 7.36,
+    "text": "so different than your value to any other B2B company that it's hard to unstick yourself, really."
+  },
+  {
+    "start": 314.32,
+    "duration": 1.52,
+    "text": "Totally. A hundred percent."
+  },
+  {
+    "start": 315.84,
+    "duration": 4.0,
+    "text": "At least there's good companies in the space. I mean, I've been a superhuman customer for,"
+  },
+  {
+    "start": 319.84,
+    "duration": 4.88,
+    "text": "I don't know, a couple of years now. And it's a great product. And so it's nice to like,"
+  },
+  {
+    "start": 325.52,
+    "duration": 4.72,
+    "text": "SendGrid was a great story. Now you're in a great spot. So you're picking some email"
+  },
+  {
+    "start": 330.24,
+    "duration": 2.64,
+    "text": "winners along the way. Well, thank you for being a customer. I know"
+  },
+  {
+    "start": 333.6,
+    "duration": 2.0,
+    "text": "you've been a huge advocate, so it means a lot."
+  },
+  {
+    "start": 336.4,
+    "duration": 4.08,
+    "text": "Yeah. I'm bad at my referral code. I'm always just being like,"
+  },
+  {
+    "start": 340.48,
+    "duration": 6.16,
+    "text": "dude, you got to use superhuman. What do you do? You just go through your email like an ancient"
+  },
+  {
+    "start": 346.64,
+    "duration": 6.0,
+    "text": "barbarian, clicking around and doing stuff. But I never think to send my referral code."
+  },
+  {
+    "start": 352.64,
+    "duration": 5.52,
+    "text": "So I think I've probably, I've maybe got two or three official referrals out of 30."
+  },
+  {
+    "start": 358.16,
+    "duration": 10.8,
+    "text": "Because I'm always berating people about email best practice. So I'm a super user,"
+  },
+  {
+    "start": 368.96,
+    "duration": 6.24,
+    "text": "I would say, and an advocate. So I want to know from you, what are the best, you're in the company,"
+  },
+  {
+    "start": 375.2,
+    "duration": 5.12,
+    "text": "so you got to have really good tricks. So what are the advanced level superhuman tricks that"
+  },
+  {
+    "start": 380.32,
+    "duration": 5.6,
+    "text": "I might not know about yet? Maybe just explain to people before that, explain to people what"
+  },
+  {
+    "start": 385.92,
+    "duration": 3.92,
+    "text": "makes superhuman difference, because they probably have no idea. I sound like a crazy person."
+  },
+  {
+    "start": 390.4,
+    "duration": 5.36,
+    "text": "Yeah, the way that I sell or talk about superhuman is imagine if you took Gmail,"
+  },
+  {
+    "start": 395.76,
+    "duration": 4.96,
+    "text": "and you redesigned it in 2025. Gmail really hasn't been touched. Sure, they've added features,"
+  },
+  {
+    "start": 400.72,
+    "duration": 5.76,
+    "text": "they've added integrations, they've added AI now in Gemini, but they really haven't done much"
+  },
+  {
+    "start": 406.48,
+    "duration": 4.16,
+    "text": "network flow. And it's still a pretty poor experience. I think, and that is even worse"
+  },
+  {
+    "start": 410.64,
+    "duration": 4.8,
+    "text": "if you look at Outlook. And so the way I think about it is, if email were designed today,"
+  },
+  {
+    "start": 415.52,
+    "duration": 3.84,
+    "text": "how would that look and feel? And that is superhuman. So much more streamlined,"
+  },
+  {
+    "start": 419.36,
+    "duration": 6.88,
+    "text": "very responsive, very intuitive, makes it easy to segment and focus on what you need to prioritize."
+  },
+  {
+    "start": 426.24,
+    "duration": 5.12,
+    "text": "It's really built for the modern era. And we're seeing incredible results in the way that we can"
+  },
+  {
+    "start": 431.36,
+    "duration": 3.84,
+    "text": "make working professionals operate faster, save time, all those things."
+  },
+  {
+    "start": 435.2,
+    "duration": 6.88,
+    "text": "And so that's what superhuman is. The way I pitch it, I'm like, shortcuts and templates"
+  },
+  {
+    "start": 442.08,
+    "duration": 5.36,
+    "text": "everywhere. Everything you can do from one button. So I can rip through my email and"
+  },
+  {
+    "start": 449.28,
+    "duration": 8.32,
+    "text": "maybe a quarter of the time, I'm just like, trash this, move this here. I'll drop in a snippet,"
+  },
+  {
+    "start": 457.6,
+    "duration": 7.2,
+    "text": "because I do so many things repeatedly. Booking interviews or scheduling follow-up time,"
+  },
+  {
+    "start": 464.8,
+    "duration": 4.48,
+    "text": "people on the podcast. Oh, it's like the... I don't even know what the button is. The squiggly"
+  },
+  {
+    "start": 469.28,
+    "duration": 5.44,
+    "text": "button, I type in podcast, then it's like scheduling and then it's... That's my superhuman"
+  },
+  {
+    "start": 474.72,
+    "duration": 7.2,
+    "text": "pitch. It's just like snippets and hotkeys. And I think that is the pitch. Some people get"
+  },
+  {
+    "start": 481.92,
+    "duration": 5.12,
+    "text": "scared by that. They're like, I have to go to shortcuts and use the mouse. But I think when"
+  },
+  {
+    "start": 487.04,
+    "duration": 5.2,
+    "text": "you're a power user like you and I, you become so obsessed with how fast it is to move in between"
+  },
+  {
+    "start": 492.24,
+    "duration": 5.6,
+    "text": "those things that it's second nature and it's just a huge hack. Yeah. Okay. So what are the"
+  },
+  {
+    "start": 497.84,
+    "duration": 7.44,
+    "text": "expert level hacks that I need to know about? The big ones for me, some of this is just the"
+  },
+  {
+    "start": 505.28,
+    "duration": 4.24,
+    "text": "newer function that we've recently launched. So a lot of folks are on the beta now. We're"
+  },
+  {
+    "start": 509.52,
+    "duration": 5.04,
+    "text": "releasing more. But the biggest things, we just launched AI labels. So you can prompt and say,"
+  },
+  {
+    "start": 515.12,
+    "duration": 5.84,
+    "text": "all emails from Kyle go into this template, or I want to capture all things about podcasts. You"
+  },
+  {
+    "start": 520.96,
+    "duration": 4.72,
+    "text": "can custom label an email based on a prompt. Really, really cool. And so I've built custom"
+  },
+  {
+    "start": 525.68,
+    "duration": 7.2,
+    "text": "labels for customers, for types of customers for my team. I built them for certain use cases,"
+  },
+  {
+    "start": 532.88,
+    "duration": 4.72,
+    "text": "like for example, approvals. Rather than having to go into Salesforce for our approval tool or"
+  },
+  {
+    "start": 537.6,
+    "duration": 4.56,
+    "text": "CPQ tool, I can have them coming through my email and I can have a certain inbox that I'm triaging"
+  },
+  {
+    "start": 542.16,
+    "duration": 5.92,
+    "text": "those. And so it has even further increased my ability to just hack the whole system with email."
+  },
+  {
+    "start": 548.08,
+    "duration": 7.12,
+    "text": "So that's a big one for me. So you're creating the inbox splits, but with a natural language"
+  },
+  {
+    "start": 555.2,
+    "duration": 5.84,
+    "text": "prompt. Correct. That's right. And just for people who don't know, we'll get you access"
+  },
+  {
+    "start": 561.04,
+    "duration": 4.08,
+    "text": "after this. For those who don't know, we have splits built in, like all of your calendar invites"
+  },
+  {
+    "start": 565.12,
+    "duration": 5.28,
+    "text": "are split out of its own dedicated, we call them a split or its own inbox, such that they remove"
+  },
+  {
+    "start": 570.4,
+    "duration": 4.32,
+    "text": "the clutter from things that you actually have to respond to. So that's a big one. The last one,"
+  },
+  {
+    "start": 574.72,
+    "duration": 5.76,
+    "text": "I would just say, I'm just the automatic reminders and then auto drafts that we just launched."
+  },
+  {
+    "start": 580.48,
+    "duration": 5.68,
+    "text": "That's a huge one for me. Yeah. Okay. Nice. Yeah. Reminders is like the best because I like"
+  },
+  {
+    "start": 586.16,
+    "duration": 6.4,
+    "text": "zero inbox. So being able to just hit like H tomorrow, H Friday, and just like have everything"
+  },
+  {
+    "start": 592.56,
+    "duration": 7.04,
+    "text": "like, okay, just like get out of my eyes for a while until I can come back. That's cool."
+  },
+  {
+    "start": 600.32,
+    "duration": 10.24,
+    "text": "Yeah. All right. Let's get into PLG to SLG. So Superhuman had a lot of notoriety in the early"
+  },
+  {
+    "start": 610.56,
+    "duration": 3.68,
+    "text": "days for one being like an expensive email product. People are like, what? You're charging"
+  },
+  {
+    "start": 614.24,
+    "duration": 6.96,
+    "text": "for email? It's 30 bucks a month. That was sort of crazy at the time. But then customers would"
+  },
+  {
+    "start": 621.2,
+    "duration": 7.52,
+    "text": "go through a very curated onboarding. I think what caught a lot of tech Twitter's attention"
+  },
+  {
+    "start": 628.72,
+    "duration": 4.96,
+    "text": "about Superhuman success in the early days was like, one, it was email that you were paying for."
+  },
+  {
+    "start": 633.68,
+    "duration": 8.48,
+    "text": "And two, this very curated onboarding process that had humans in it. You actually did an"
+  },
+  {
+    "start": 642.16,
+    "duration": 6.56,
+    "text": "onboarding call for a B2C product, which was very atypical. And now you're trying to layer on a"
+  },
+  {
+    "start": 648.72,
+    "duration": 8.56,
+    "text": "sales motion on top of this very prominent PLG motion. So just talk us through the journey first."
+  },
+  {
+    "start": 657.44,
+    "duration": 5.36,
+    "text": "Like, why did you get hired to do this thing? What was the timing? And what are you trying"
+  },
+  {
+    "start": 662.8,
+    "duration": 3.68,
+    "text": "to achieve? And then I want to get into some of the building blocks from there."
+  },
+  {
+    "start": 667.44,
+    "duration": 5.04,
+    "text": "Yeah. So part of my remit was... So first of all, let's take you back to around 2021."
+  },
+  {
+    "start": 672.48,
+    "duration": 6.08,
+    "text": "Superhuman raised its Series C. And off the heels of that had decided, let's start investigating"
+  },
+  {
+    "start": 679.6,
+    "duration": 6.32,
+    "text": "more of a B2B motion. So started off with a very SMB. Who are the customers that have 3, 4, 5,"
+  },
+  {
+    "start": 685.92,
+    "duration": 5.12,
+    "text": "maybe even 10 seats? Can we consolidate those seats together and put them on a contract and"
+  },
+  {
+    "start": 691.76,
+    "duration": 4.24,
+    "text": "contract that revenue and then potentially expand that revenue? So that was the first motion."
+  },
+  {
+    "start": 696.0,
+    "duration": 4.32,
+    "text": "What I was brought on it was, how do we double down on that motion, but then continue to move"
+  },
+  {
+    "start": 700.32,
+    "duration": 7.2,
+    "text": "upmarket? So larger opportunities and then even into the enterprise. And that was the core focus"
+  },
+  {
+    "start": 707.52,
+    "duration": 6.8,
+    "text": "is how can we go unlock what we know to be true around power users and get not only them and those"
+  },
+  {
+    "start": 714.32,
+    "duration": 5.12,
+    "text": "10, 15, 20 people on it, but large portions of those organizations. And we've been quite"
+  },
+  {
+    "start": 719.44,
+    "duration": 3.52,
+    "text": "successful in doing so. But it definitely has been a journey when you think about"
+  },
+  {
+    "start": 722.96,
+    "duration": 3.92,
+    "text": "how you go from that PLG, who is the right customer, and then how do you shift to"
+  },
+  {
+    "start": 726.88,
+    "duration": 3.6,
+    "text": "this new buyer, multi-buyer world inside of large organizations."
+  },
+  {
+    "start": 732.32,
+    "duration": 7.36,
+    "text": "So what's the hardest thing trying to go tops down now? Is it the customer, the user education?"
+  },
+  {
+    "start": 739.68,
+    "duration": 4.0,
+    "text": "Is it getting people to want to pay for email? What are the big"
+  },
+  {
+    "start": 745.6,
+    "duration": 2.56,
+    "text": "SLG blockers, sales-led growth blockers?"
+  },
+  {
+    "start": 750.08,
+    "duration": 4.64,
+    "text": "So let me back up just slightly. I think the key thing has been when we first went to"
+  },
+  {
+    "start": 754.72,
+    "duration": 4.96,
+    "text": "Transition, you got to know who your ICP is, right? So we first took a look at who are the"
+  },
+  {
+    "start": 759.68,
+    "duration": 5.28,
+    "text": "buyers that are usually buying Superhuman? What do they look like? And we used a PLG tool to"
+  },
+  {
+    "start": 764.96,
+    "duration": 4.48,
+    "text": "identify those signals and then reach out to them. So we did an outbound sales-led motion"
+  },
+  {
+    "start": 769.44,
+    "duration": 4.96,
+    "text": "off of the ICP that we already knew. We then learned that we had to craft and iterate that"
+  },
+  {
+    "start": 774.4,
+    "duration": 4.56,
+    "text": "ICP and that persona slightly to make sure that we were thinking about the way that that person"
+  },
+  {
+    "start": 778.96,
+    "duration": 4.48,
+    "text": "now might bring to the org versus just themselves. So that was the biggest shift. That was the first"
+  },
+  {
+    "start": 783.44,
+    "duration": 6.32,
+    "text": "thing. How do you outbound correctly to that new audience? As we've gone up market, what we found"
+  },
+  {
+    "start": 789.84,
+    "duration": 6.24,
+    "text": "is we actually often inversely compared to most companies have access to very senior level people"
+  },
+  {
+    "start": 796.08,
+    "duration": 3.6,
+    "text": "very early on because that's who's using the product. So I'll give you an example. There's"
+  },
+  {
+    "start": 799.68,
+    "duration": 4.4,
+    "text": "a Fortune 500 company I'm talking to right now. My champion and the person that I'm on texting"
+  },
+  {
+    "start": 804.08,
+    "duration": 4.88,
+    "text": "with is the COO because he's been a Superhuman user. They had 15 people on it and then their"
+  },
+  {
+    "start": 808.96,
+    "duration": 4.72,
+    "text": "IT department blocked Superhuman. And it was like he lost the second break. He's like,"
+  },
+  {
+    "start": 813.68,
+    "duration": 4.16,
+    "text": "I can't live without this tool. I got to go back into it. And it's great because you have"
+  },
+  {
+    "start": 817.84,
+    "duration": 5.28,
+    "text": "instant access to that economic buyer and that champion. The hard part for us is then,"
+  },
+  {
+    "start": 823.12,
+    "duration": 4.96,
+    "text": "how do you work down and how do you convince them that the ROI and the cost of Superhuman"
+  },
+  {
+    "start": 828.08,
+    "duration": 4.16,
+    "text": "is worth what they're paying for as an executive? That's the hard part for us."
+  },
+  {
+    "start": 832.24,
+    "duration": 6.88,
+    "text": "So going from 15 to 20 to 100 users actually can be easy. Going from 100 to 75% of the"
+  },
+  {
+    "start": 839.12,
+    "duration": 3.12,
+    "text": "organization when pitching that everyone should use Superhuman, that's hard."
+  },
+  {
+    "start": 843.12,
+    "duration": 6.72,
+    "text": "Hmm. And so what makes it hard in particular going from 100 to like 1,000?"
+  },
+  {
+    "start": 851.6,
+    "duration": 3.84,
+    "text": "People don't believe and we've gotten better at this and I can talk a little bit on how"
+  },
+  {
+    "start": 856.0,
+    "duration": 5.28,
+    "text": "that Superhuman is widely applicable to everybody. They think it's a niche product,"
+  },
+  {
+    "start": 861.28,
+    "duration": 4.64,
+    "text": "that it's the people who like keyboard shortcuts or are going to go down to inbox zero"
+  },
+  {
+    "start": 865.92,
+    "duration": 4.56,
+    "text": "are going to get the value from it. And we've had to teach the problem that email is"
+  },
+  {
+    "start": 871.44,
+    "duration": 4.16,
+    "text": "it inherently sucks. Everyone has an email problem. And so I think people don't realize"
+  },
+  {
+    "start": 875.6,
+    "duration": 4.0,
+    "text": "that it affects and can actually improve the lives and actually improve productivity for"
+  },
+  {
+    "start": 879.6,
+    "duration": 3.2,
+    "text": "everyone in the organization if you make it better. But a lot of people just think it's"
+  },
+  {
+    "start": 882.8,
+    "duration": 4.24,
+    "text": "an executive problem, that they get the most emails, that they're blocking people."
+  },
+  {
+    "start": 887.04,
+    "duration": 2.24,
+    "text": "It's actually the entire organization that has that problem."
+  },
+  {
+    "start": 892.08,
+    "duration": 3.04,
+    "text": "And so much of your day-to-day is just answering goddamn emails."
+  },
+  {
+    "start": 895.12,
+    "duration": 3.92,
+    "text": "Totally. Yeah, especially for outbound professionals. So sales,"
+  },
+  {
+    "start": 899.76,
+    "duration": 4.96,
+    "text": "marketing, customer success, those organizations, typically if you get more than I think our"
+  },
+  {
+    "start": 904.72,
+    "duration": 5.2,
+    "text": "threshold is around 30 or 50 emails a day, you typically are a strong fit for Superhuman."
+  },
+  {
+    "start": 909.92,
+    "duration": 4.64,
+    "text": "That's usually around the threshold. Regardless, if you're having to respond to them,"
+  },
+  {
+    "start": 914.56,
+    "duration": 4.72,
+    "text": "if you have to just triage those inbox for knowledge, even if you're a product manager"
+  },
+  {
+    "start": 919.28,
+    "duration": 3.92,
+    "text": "or an engineering leader, you can be a strong fit for the product."
+  },
+  {
+    "start": 924.16,
+    "duration": 10.08,
+    "text": "And so it's sales and CS. These are the core target functions now for the enterprise motion?"
+  },
+  {
+    "start": 935.04,
+    "duration": 3.44,
+    "text": "I would say that is one of them. We say outbound professionals because we don't"
+  },
+  {
+    "start": 938.48,
+    "duration": 4.96,
+    "text": "want to limit ourselves to just the sales team. But yeah, people who are"
+  },
+  {
+    "start": 943.44,
+    "duration": 4.64,
+    "text": "emailing externally for a core part of their job descriptions is a key focus for us."
+  },
+  {
+    "start": 949.04,
+    "duration": 7.28,
+    "text": "Hmm. Okay. And so are you doing any cold net new outbound or is it always"
+  },
+  {
+    "start": 957.28,
+    "duration": 5.6,
+    "text": "pockets of PLG users that you're trying to roll up into bigger accounts?"
+  },
+  {
+    "start": 963.92,
+    "duration": 3.92,
+    "text": "It is now to the enterprise side, we've started doing more of that cold outbound tactic where we"
+  },
+  {
+    "start": 967.84,
+    "duration": 4.8,
+    "text": "take lookalike customers or find lookalike companies from places that we've won."
+  },
+  {
+    "start": 973.12,
+    "duration": 5.28,
+    "text": "We won a very large consulting firm. Actually, it was written up in a Newsweek article"
+  },
+  {
+    "start": 979.2,
+    "duration": 3.12,
+    "text": "about how they're managing directors. One of the big four consulting firms,"
+  },
+  {
+    "start": 983.2,
+    "duration": 4.64,
+    "text": "they're managing directors of a cohort of about 4,000 people have now access and approval to"
+  },
+  {
+    "start": 987.84,
+    "duration": 4.08,
+    "text": "use Superhuman. And so what we're doing then is finding what are the other companies,"
+  },
+  {
+    "start": 991.92,
+    "duration": 5.2,
+    "text": "other consulting firms that have likely similar problems, and then going outbound to those cold."
+  },
+  {
+    "start": 997.12,
+    "duration": 4.96,
+    "text": "And typically, that method resonates quite well. So we're slightly starting to give our"
+  },
+  {
+    "start": 1002.08,
+    "duration": 3.6,
+    "text": "toes more than that, but it's very predicated on what we've learned about PLG motion."
+  },
+  {
+    "start": 1006.64,
+    "duration": 7.04,
+    "text": "Okay, that makes a ton of sense. So as you're building this new motion from scratch,"
+  },
+  {
+    "start": 1014.4,
+    "duration": 5.28,
+    "text": "what are the building blocks? So sounds like data is one of them. So trying to find"
+  },
+  {
+    "start": 1020.56,
+    "duration": 4.96,
+    "text": "those accounts in your base. What are the other things that you had to, if you could break down"
+  },
+  {
+    "start": 1025.52,
+    "duration": 4.64,
+    "text": "sort of the components of infrastructure and capabilities that you had to build"
+  },
+  {
+    "start": 1030.72,
+    "duration": 3.04,
+    "text": "for somebody trying to add an SLG motion to a PLG team?"
+  },
+  {
+    "start": 1035.2,
+    "duration": 4.56,
+    "text": "Yeah, I think, and thinking about this off the cuff a little bit, the biggest things are,"
+  },
+  {
+    "start": 1039.76,
+    "duration": 4.56,
+    "text": "so first one is data, right? Do you have the right data around what you're tracking? Does"
+  },
+  {
+    "start": 1044.32,
+    "duration": 5.44,
+    "text": "that data support a sales motion? Are you reaching out to customers with the right intent signal?"
+  },
+  {
+    "start": 1049.76,
+    "duration": 3.28,
+    "text": "Like, is that data correct? Is it giving you the right signal? So you've got to validate that."
+  },
+  {
+    "start": 1054.48,
+    "duration": 3.6,
+    "text": "Probably even before that, you have to validate what is our ICP and how does it change?"
+  },
+  {
+    "start": 1059.04,
+    "duration": 3.28,
+    "text": "You're probably now not only building for the end user, but you're building for the buyer,"
+  },
+  {
+    "start": 1062.32,
+    "duration": 6.56,
+    "text": "especially as you go forward. So that leads me into the next thing of, what does that buyer"
+  },
+  {
+    "start": 1068.88,
+    "duration": 4.8,
+    "text": "care about versus the end user? And what are we going to need from a product standpoint to win"
+  },
+  {
+    "start": 1073.68,
+    "duration": 5.52,
+    "text": "over both those people? So the product today might win over Kyle Lorton, who's the CRF owner,"
+  },
+  {
+    "start": 1079.2,
+    "duration": 4.88,
+    "text": "but it might not win over your workplace technology lead because it doesn't have"
+  },
+  {
+    "start": 1084.08,
+    "duration": 4.08,
+    "text": "SAML and SCINT or another enterprise protocol. And so we had to think through,"
+  },
+  {
+    "start": 1088.16,
+    "duration": 5.68,
+    "text": "how does the product need to develop? And then the second thing is, as we push for the product"
+  },
+  {
+    "start": 1093.84,
+    "duration": 4.8,
+    "text": "to be more collaborative and be more widely applicable to larger parts of the organization,"
+  },
+  {
+    "start": 1098.64,
+    "duration": 5.6,
+    "text": "not a siloed product, we had to think about what are the features that the product needs to have,"
+  },
+  {
+    "start": 1104.24,
+    "duration": 3.84,
+    "text": "such that that's true. So you not only get value as an individual, but you get value as"
+  },
+  {
+    "start": 1108.8,
+    "duration": 4.88,
+    "text": "an organization. So ICP, data and signaling, and then product."
+  },
+  {
+    "start": 1113.68,
+    "duration": 4.32,
+    "text": "And then the fourth one is just the team. How does the team architect it? Do we have the right"
+  },
+  {
+    "start": 1118.0,
+    "duration": 5.84,
+    "text": "persona of people in seat? A PLG seller can be very different from an SLG seller. Do we have"
+  },
+  {
+    "start": 1123.84,
+    "duration": 4.56,
+    "text": "the right customer success motion to support larger organizations in those rollouts? So you've"
+  },
+  {
+    "start": 1128.4,
+    "duration": 5.12,
+    "text": "got to fundamentally shift. And then the last part and maybe the most important part is,"
+  },
+  {
+    "start": 1133.6,
+    "duration": 3.68,
+    "text": "does our marketing and does our messaging and positioning website,"
+  },
+  {
+    "start": 1137.28,
+    "duration": 5.28,
+    "text": "where we're putting content out, match the level of demand and can drive the demand such that"
+  },
+  {
+    "start": 1143.12,
+    "duration": 2.64,
+    "text": "it's saying the message so that you, Kyle, say,"
+  },
+  {
+    "start": 1146.32,
+    "duration": 4.0,
+    "text": "I want to bring Superhuman to the rest of my team. I love this as a user."
+  },
+  {
+    "start": 1150.32,
+    "duration": 3.92,
+    "text": "That has to shift because often, when we first started reaching out to folks, they said,"
+  },
+  {
+    "start": 1154.24,
+    "duration": 3.44,
+    "text": "love Superhuman, but why would I bring it to my team? I've always thought of this as an"
+  },
+  {
+    "start": 1157.68,
+    "duration": 4.08,
+    "text": "individual product. It doesn't make sense for me to bring it to my team. Before we do that outreach,"
+  },
+  {
+    "start": 1161.76,
+    "duration": 4.24,
+    "text": "we've got to pre-nurture them with the messaging around, hey, the product should be thought of as"
+  },
+  {
+    "start": 1166.0,
+    "duration": 3.68,
+    "text": "a team product. It should be brought to your team. So there's a lot of marketing work that"
+  },
+  {
+    "start": 1169.68,
+    "duration": 7.76,
+    "text": "needs to go into that ICP content position network as well. I wasn't at Shopify at this time,"
+  },
+  {
+    "start": 1177.44,
+    "duration": 7.52,
+    "text": "but you could still feel the remnants, even when I was there 2019 to 2022, that people still really"
+  },
+  {
+    "start": 1184.96,
+    "duration": 8.08,
+    "text": "felt like Shopify was a mom-and-pop product, or it's a product for small businesses."
+  },
+  {
+    "start": 1193.68,
+    "duration": 6.0,
+    "text": "And we were already winning deals with the Mattels of the world and really big enterprise"
+  },
+  {
+    "start": 1199.68,
+    "duration": 8.88,
+    "text": "customers. But even then, the typical understanding was that it wasn't an enterprise product."
+  },
+  {
+    "start": 1208.64,
+    "duration": 5.04,
+    "text": "And they had enterprise-grade customers for like five, six years."
+  },
+  {
+    "start": 1215.36,
+    "duration": 3.68,
+    "text": "But those preconceptions, they don't go away very easily."
+  },
+  {
+    "start": 1220.16,
+    "duration": 2.48,
+    "text": "So I'd imagine you guys have had the same experience."
+  },
+  {
+    "start": 1223.52,
+    "duration": 5.2,
+    "text": "Very similar. I always forget that Shopify had that motion too, but it was a very,"
+  },
+  {
+    "start": 1228.72,
+    "duration": 2.4,
+    "text": "very key part of their early growth. So that makes sense."
+  },
+  {
+    "start": 1231.76,
+    "duration": 5.6,
+    "text": "Yeah. Shopify was only product-led for years and years and years. I don't think they had the"
+  },
+  {
+    "start": 1237.36,
+    "duration": 6.24,
+    "text": "plus product until after the IPO. And the plus product at the beginning was like,"
+  },
+  {
+    "start": 1243.6,
+    "duration": 7.28,
+    "text": "we'll give you a CSM. That was basically the only differentiator for a while."
+  },
+  {
+    "start": 1252.4,
+    "duration": 5.36,
+    "text": "I want to go back. So you mentioned the team getting the right butts in seats."
+  },
+  {
+    "start": 1257.76,
+    "duration": 4.24,
+    "text": "And a PLG seller is different than an SLG seller. What are the big differences? What makes a great"
+  },
+  {
+    "start": 1262.0,
+    "duration": 4.96,
+    "text": "PLG seller? What makes a great SLG seller? What are the differences there?"
+  },
+  {
+    "start": 1268.32,
+    "duration": 5.04,
+    "text": "There's this element of being able to hunt and do more outbound, more of that commercially-minded"
+  },
+  {
+    "start": 1273.36,
+    "duration": 4.32,
+    "text": "person versus how do you lock down a customer on a contract? And why do you use the signal"
+  },
+  {
+    "start": 1277.68,
+    "duration": 5.12,
+    "text": "that you're already getting? And so that person who's a really good PLG seller can grow into a"
+  },
+  {
+    "start": 1282.8,
+    "duration": 5.2,
+    "text": "role of being more of that hunter mentality that you see in an SLG motion. But oftentimes,"
+  },
+  {
+    "start": 1288.0,
+    "duration": 2.96,
+    "text": "you need to bring other people to create that culture."
+  },
+  {
+    "start": 1290.96,
+    "duration": 4.24,
+    "text": "What does it look like to be a little bit more aggressive? How do we think about the buyer? How"
+  },
+  {
+    "start": 1295.2,
+    "duration": 6.72,
+    "text": "do we run a more stripped, medic process in our sales cycle? When you're in PLG often, it's"
+  },
+  {
+    "start": 1301.92,
+    "duration": 4.0,
+    "text": "how do you unblock them? And how do you make sure that it's easy to buy, easy to win,"
+  },
+  {
+    "start": 1305.92,
+    "duration": 3.52,
+    "text": "easy to bring on the team? But you're not necessarily challenging the customer to think"
+  },
+  {
+    "start": 1309.44,
+    "duration": 3.92,
+    "text": "about, hey, why don't you bring this here to our team? Are you looking at the metrics this way?"
+  },
+  {
+    "start": 1313.36,
+    "duration": 4.08,
+    "text": "It's a little bit more of that reactive. I'm not saying it's not important. And being a strong"
+  },
+  {
+    "start": 1317.44,
+    "duration": 4.88,
+    "text": "PLG seller can be hard in its own right. But it's just a different mentality,"
+  },
+  {
+    "start": 1322.32,
+    "duration": 6.56,
+    "text": "different approach that you have to take. What percentage of PLG sellers can make the"
+  },
+  {
+    "start": 1328.88,
+    "duration": 6.56,
+    "text": "leap versus what percentage of them should really end up in CS or onboarding a different function?"
+  },
+  {
+    "start": 1336.32,
+    "duration": 3.2,
+    "text": "I think it depends on the product you're selling. If you're in a dev tool,"
+  },
+  {
+    "start": 1339.52,
+    "duration": 4.32,
+    "text": "I actually think PLG sellers can do quite well. Because that approach of customer service,"
+  },
+  {
+    "start": 1343.84,
+    "duration": 5.68,
+    "text": "a little bit more friendly, a little bit less aggressive, can work really well."
+  },
+  {
+    "start": 1349.52,
+    "duration": 4.4,
+    "text": "The catch is they have to be willing to ask hard questions. They have to really be willing to go"
+  },
+  {
+    "start": 1353.92,
+    "duration": 5.36,
+    "text": "deep and challenge that end customer, that developer, and then be technical enough to"
+  },
+  {
+    "start": 1359.28,
+    "duration": 5.2,
+    "text": "have the trust to do so. So PLG sellers on a dev tool can work quite well. And I saw that"
+  },
+  {
+    "start": 1364.48,
+    "duration": 7.12,
+    "text": "at Send Group Twilio. I think if you are in a product like Superhuman, a little bit more of a"
+  },
+  {
+    "start": 1372.16,
+    "duration": 7.44,
+    "text": "non-tech tool or a dev tool, having more of that soft sales skill that comes with being more"
+  },
+  {
+    "start": 1379.6,
+    "duration": 4.88,
+    "text": "medic-focused or methodology-focused, being able to be a little bit deeper discovery because you"
+  },
+  {
+    "start": 1384.48,
+    "duration": 3.84,
+    "text": "have to do more value selling, you have to create that payment a little bit more acutely,"
+  },
+  {
+    "start": 1388.96,
+    "duration": 4.4,
+    "text": "is really important. And so I would say it really depends on the product and the type of company"
+  },
+  {
+    "start": 1393.36,
+    "duration": 5.68,
+    "text": "you're in. But typically, I've seen PLG work well in dev tool companies graduating into that"
+  },
+  {
+    "start": 1399.2,
+    "duration": 4.64,
+    "text": "machine. Makes sense. How big was the sales team when you started versus now?"
+  },
+  {
+    "start": 1405.36,
+    "duration": 5.84,
+    "text": "Very small. We were, gosh, three AEs. We had about three customer success reps."
+  },
+  {
+    "start": 1412.48,
+    "duration": 5.28,
+    "text": "And then we had a team of longer tail support folks that ended up leading into supporting"
+  },
+  {
+    "start": 1417.76,
+    "duration": 4.56,
+    "text": "upmarket customers. And we almost doubled that motion entirely, so across the board."
+  },
+  {
+    "start": 1423.12,
+    "duration": 7.12,
+    "text": "You know, now closer to about 15 total. Okay. And did most of the first three AEs,"
+  },
+  {
+    "start": 1430.88,
+    "duration": 6.32,
+    "text": "were they able to make that transition? Or was it about bringing in new people for a very new"
+  },
+  {
+    "start": 1437.2,
+    "duration": 5.28,
+    "text": "approach? How do you think about transitioning culture versus just creating something totally"
+  },
+  {
+    "start": 1442.48,
+    "duration": 7.28,
+    "text": "new? Great question. Most of them are still here. One individual left to take another opportunity,"
+  },
+  {
+    "start": 1449.76,
+    "duration": 3.2,
+    "text": "but most have made a transition. And we've thought about different roles, whether that be"
+  },
+  {
+    "start": 1453.84,
+    "duration": 5.6,
+    "text": "inbound focused and closing, locking down deals. Some have made a transition to more of an account"
+  },
+  {
+    "start": 1459.44,
+    "duration": 4.4,
+    "text": "manager. So they're working with customers and have a little bit more of that, I'll call it"
+  },
+  {
+    "start": 1463.84,
+    "duration": 5.76,
+    "text": "superhuman love, delight. And so they want to be less salesy, less aggressive and making FIP really"
+  },
+  {
+    "start": 1469.6,
+    "duration": 4.08,
+    "text": "want that nice role for upsell and expansion. And then we've had to certainly hire folks,"
+  },
+  {
+    "start": 1473.68,
+    "duration": 4.64,
+    "text": "especially in the enterprise segment, to bring some of that new energy in that we want"
+  },
+  {
+    "start": 1478.32,
+    "duration": 4.24,
+    "text": "to build inside the organization. In addition to that, we've had to hire roles like our first"
+  },
+  {
+    "start": 1482.56,
+    "duration": 5.2,
+    "text": "lead sales engineer, we've had to hire a go-to-market ops person, and then obviously"
+  },
+  {
+    "start": 1487.76,
+    "duration": 4.64,
+    "text": "some more commercial minded CSMs. And similarly, we've upleveled and tried to"
+  },
+  {
+    "start": 1492.4,
+    "duration": 4.8,
+    "text": "train the team as much as we can. I think the great part about superhuman is everyone who's"
+  },
+  {
+    "start": 1497.2,
+    "duration": 5.68,
+    "text": "worked here loves the product, uses the product. And so it's so much harder to let go of someone"
+  },
+  {
+    "start": 1502.88,
+    "duration": 4.24,
+    "text": "who has that delight to the customer and delight to the product. I think we can train them if"
+  },
+  {
+    "start": 1507.12,
+    "duration": 5.76,
+    "text": "they're open to it versus trying to cut ties and bring some new blood in who don't have that same"
+  },
+  {
+    "start": 1513.52,
+    "duration": 4.0,
+    "text": "historical love for the product. So we've been trying to train as much as we can."
+  },
+  {
+    "start": 1519.52,
+    "duration": 6.72,
+    "text": "But in order to get that hunter mentality, you had to bring in people with that craft already."
+  },
+  {
+    "start": 1527.28,
+    "duration": 1.2,
+    "text": "Correct. Yeah, that's right."
+  },
+  {
+    "start": 1529.36,
+    "duration": 9.84,
+    "text": "Makes sense. And was it people from... Did you need prior experience in the market segment? Or"
+  },
+  {
+    "start": 1540.32,
+    "duration": 3.36,
+    "text": "it's a fairly easy product to understand, so you just need great sellers?"
+  },
+  {
+    "start": 1546.24,
+    "duration": 3.76,
+    "text": "More great sellers, people who rely just on the motion. I think we found"
+  },
+  {
+    "start": 1550.8,
+    "duration": 3.68,
+    "text": "sellers who have used the product in past lives do really well."
+  },
+  {
+    "start": 1555.36,
+    "duration": 0.4,
+    "text": "I bet."
+  },
+  {
+    "start": 1556.72,
+    "duration": 4.72,
+    "text": "Yeah. And that is, I wouldn't say a key criteria, but has worked really well of"
+  },
+  {
+    "start": 1561.44,
+    "duration": 3.92,
+    "text": "people who just understand where the product shines, where it doesn't. And then similar to you,"
+  },
+  {
+    "start": 1565.36,
+    "duration": 4.16,
+    "text": "have been their own advocates, almost like unofficial sellers out there saying,"
+  },
+  {
+    "start": 1570.08,
+    "duration": 3.68,
+    "text": "hey, I've told my buddies about superhuman. I've told the rest of my team about superhuman."
+  },
+  {
+    "start": 1573.76,
+    "duration": 2.56,
+    "text": "Those people do really well. So we actually look for that and screen for that."
+  },
+  {
+    "start": 1577.12,
+    "duration": 4.32,
+    "text": "Yeah. I need superhuman.com slash Kyle, and I'll just tell people to go there."
+  },
+  {
+    "start": 1581.44,
+    "duration": 4.48,
+    "text": "So I don't have to think of referral codes. Go here. This is my special one."
+  },
+  {
+    "start": 1586.72,
+    "duration": 2.48,
+    "text": "We can create your own landing page. That works well. We can do that."
+  },
+  {
+    "start": 1589.2,
+    "duration": 6.88,
+    "text": "Yeah, yeah. Just my shining face ripping through an inbox. That makes a ton of sense. And I bet"
+  },
+  {
+    "start": 1596.08,
+    "duration": 5.52,
+    "text": "there's enough sellers out there who are in the product that you go really, really find great"
+  },
+  {
+    "start": 1601.6,
+    "duration": 10.08,
+    "text": "folks. So I wanted to go back to data. So how much of this was internal data functionality that"
+  },
+  {
+    "start": 1611.68,
+    "duration": 5.04,
+    "text": "you needed to build? What was already there? Just talk to me about building this baseline."
+  },
+  {
+    "start": 1617.6,
+    "duration": 5.36,
+    "text": "It was more of a surfacing of the product than it was actually finding the data."
+  },
+  {
+    "start": 1622.96,
+    "duration": 4.32,
+    "text": "We have an unbelievable analytics team, and it's one of the great parts about coming from"
+  },
+  {
+    "start": 1627.36,
+    "duration": 4.32,
+    "text": "B2C businesses. They measured everything. And so it was about two things. First,"
+  },
+  {
+    "start": 1631.68,
+    "duration": 4.88,
+    "text": "translating those into a place that we could see them. So Salesforce, we also adopted a tool called"
+  },
+  {
+    "start": 1636.56,
+    "duration": 5.84,
+    "text": "Focus. And so we leveraged that to show those signals in a place that's easily digestible for"
+  },
+  {
+    "start": 1642.4,
+    "duration": 4.72,
+    "text": "sales. And the second piece was, how do we interpret them? We have all this data, but"
+  },
+  {
+    "start": 1647.12,
+    "duration": 4.64,
+    "text": "does it mean the same thing in a B2C world as it does in a B2B world? So figuring out"
+  },
+  {
+    "start": 1651.76,
+    "duration": 7.12,
+    "text": "which signals correlate to action and action that means intent to buy or intent to potentially"
+  },
+  {
+    "start": 1658.88,
+    "duration": 4.16,
+    "text": "scale and expand inside of an account. So it was more of translation of the data."
+  },
+  {
+    "start": 1663.04,
+    "duration": 5.28,
+    "text": "We were very lucky, which I think a lot of PLG companies don't have. We have all the data there."
+  },
+  {
+    "start": 1668.32,
+    "duration": 3.76,
+    "text": "The big mistake that I often see made is like, I'm going to turn on a PLG motion,"
+  },
+  {
+    "start": 1672.08,
+    "duration": 4.48,
+    "text": "go the opposite way from SLG to PLG. They want to open that up and they don't have the data."
+  },
+  {
+    "start": 1676.56,
+    "duration": 4.08,
+    "text": "And so they're like, let's just turn it on and see what happens. And they don't really understand"
+  },
+  {
+    "start": 1680.64,
+    "duration": 3.76,
+    "text": "or have the ability to understand any of those signals and what the customers are actually"
+  },
+  {
+    "start": 1684.4,
+    "duration": 4.8,
+    "text": "telling them from the product. Instrumenting that customer journey so that you can actually"
+  },
+  {
+    "start": 1690.32,
+    "duration": 8.96,
+    "text": "move them along. And so then the data, so do you understand the intent signals more deeply?"
+  },
+  {
+    "start": 1699.84,
+    "duration": 6.32,
+    "text": "And so does that then lead to a score in Salesforce or what happens with Pocus? How"
+  },
+  {
+    "start": 1706.16,
+    "duration": 6.48,
+    "text": "does that piece of it work? That's right. So we score them in Pocus based on we have"
+  },
+  {
+    "start": 1712.64,
+    "duration": 4.16,
+    "text": "different we call plays. So things that we're tracking their specific motions."
+  },
+  {
+    "start": 1717.6,
+    "duration": 7.52,
+    "text": "And then we score the different leads inside of those plays. So a company has three or four"
+  },
+  {
+    "start": 1725.12,
+    "duration": 8.56,
+    "text": "individuals who are 50% plus engaged in the product month over month. They're in the top"
+  },
+  {
+    "start": 1733.68,
+    "duration": 5.04,
+    "text": "percentile of people who use reminders. There's those types of signals. And then"
+  },
+  {
+    "start": 1738.72,
+    "duration": 4.4,
+    "text": "we can even enrich that data. So it's also an outbound professional or the type of"
+  },
+  {
+    "start": 1743.12,
+    "duration": 4.96,
+    "text": "role that we would classify in that outbound persona. That would be a strong signal of a"
+  },
+  {
+    "start": 1748.08,
+    "duration": 5.2,
+    "text": "person that we can reach out to or a company that we might target and try to use the fodder that"
+  },
+  {
+    "start": 1753.28,
+    "duration": 5.12,
+    "text": "you have 15, 20 seats of people who are separately using the product. And then we can use that as an"
+  },
+  {
+    "start": 1758.4,
+    "duration": 8.4,
+    "text": "engagement tactic. Okay. And then Pocus runs those plays or then they're going into a sales"
+  },
+  {
+    "start": 1766.8,
+    "duration": 6.08,
+    "text": "loft cadence? What's the next step? It's the latter. So Pocus runs the data intelligence"
+  },
+  {
+    "start": 1772.88,
+    "duration": 5.2,
+    "text": "piece. And then you can push and build outbound campaigns from that place. You can have it all"
+  },
+  {
+    "start": 1778.08,
+    "duration": 3.04,
+    "text": "sequenced through such that it makes sense from... In Pocus?"
+  },
+  {
+    "start": 1781.12,
+    "duration": 3.92,
+    "text": "Yep. In Pocus, they connect directly to whatever outbound tool you're using, whether it be"
+  },
+  {
+    "start": 1785.04,
+    "duration": 2.24,
+    "text": "Apollo, Outreach, Sales Loft, they can connect to all of them."
+  },
+  {
+    "start": 1788.0,
+    "duration": 4.56,
+    "text": "Okay. So Pocus is orchestrating and then it goes into a cadence,"
+  },
+  {
+    "start": 1792.56,
+    "duration": 5.52,
+    "text": "the rep sits down. And how much does the rep do versus it's centrally orchestrated?"
+  },
+  {
+    "start": 1799.12,
+    "duration": 3.6,
+    "text": "The rep is the one that is... So a couple of things. We have SDRs and reps who are running"
+  },
+  {
+    "start": 1802.72,
+    "duration": 5.76,
+    "text": "plays. So SDRs will often do the long tail, less nurtured, a little bit more cold or lukewarm"
+  },
+  {
+    "start": 1808.48,
+    "duration": 5.84,
+    "text": "outbound. Reps are then either doing outbound to expand accounts that they already have contracted"
+  },
+  {
+    "start": 1814.4,
+    "duration": 4.4,
+    "text": "or accounts that have higher intent or more senior contacts."
+  },
+  {
+    "start": 1821.04,
+    "duration": 4.48,
+    "text": "You can one-click add them into these sequences or these plays. So it can be very automated."
+  },
+  {
+    "start": 1826.4,
+    "duration": 4.88,
+    "text": "We found, as I'm sure you've seen the theme across the board, the more manual you can get,"
+  },
+  {
+    "start": 1831.28,
+    "duration": 4.16,
+    "text": "the more personalized you can get with the message. So often, we will take the data and"
+  },
+  {
+    "start": 1835.44,
+    "duration": 4.24,
+    "text": "the information from Pocus. And then rather than just pushing it through Outreach, we'll actually"
+  },
+  {
+    "start": 1839.68,
+    "duration": 5.04,
+    "text": "build it up in Superhuman and send a personalized note. Or the rep will fly to me and say,"
+  },
+  {
+    "start": 1844.72,
+    "duration": 5.84,
+    "text": "Hey, Andrew, I saw that the CRO Kyle is using Superhuman. Here's his data. Here's his company's"
+  },
+  {
+    "start": 1850.56,
+    "duration": 5.36,
+    "text": "data around their usage. Can you send them an email and leverage this kind of template that"
+  },
+  {
+    "start": 1855.92,
+    "duration": 4.48,
+    "text": "we built out? So often, we'll do that. Like your shared team templates in Superhuman."
+  },
+  {
+    "start": 1860.4,
+    "duration": 8.64,
+    "text": "Correct. Yeah. That's smart. Cool. So zooming out a bit. So we've talked about these core pillars."
+  },
+  {
+    "start": 1869.68,
+    "duration": 6.32,
+    "text": "Positioning and marketing, team, the whole product, ICP plus product, make sure you have"
+  },
+  {
+    "start": 1876.0,
+    "duration": 6.16,
+    "text": "what you need for both user and buyer, and then data. Anything else that we need to add to that"
+  },
+  {
+    "start": 1882.16,
+    "duration": 3.6,
+    "text": "framework? Is that a pretty good? I think those are, to keep it simple,"
+  },
+  {
+    "start": 1885.76,
+    "duration": 5.76,
+    "text": "those are like the four or five key pillars. And just like infrastructure. So you've got Pocus,"
+  },
+  {
+    "start": 1891.52,
+    "duration": 3.92,
+    "text": "it's Salesforce stuff. There's probably new infrastructure to run a motion."
+  },
+  {
+    "start": 1896.4,
+    "duration": 3.84,
+    "text": "Yeah. What are the, sorry, go ahead. No, I was just going to say, I mean,"
+  },
+  {
+    "start": 1900.24,
+    "duration": 4.0,
+    "text": "there's so many interesting tools now. Pocus is a great one. There's a lot of cool things that"
+  },
+  {
+    "start": 1904.24,
+    "duration": 3.76,
+    "text": "Clay's doing. I mean, name your tool. There's some great infrastructure that you can build."
+  },
+  {
+    "start": 1908.0,
+    "duration": 4.4,
+    "text": "But I do think you've got to have a pretty, you know, PLG ultimately is instrumentation,"
+  },
+  {
+    "start": 1912.4,
+    "duration": 4.24,
+    "text": "as you mentioned earlier. And so you've got to have a really strong opinion and very well built"
+  },
+  {
+    "start": 1916.64,
+    "duration": 4.56,
+    "text": "out instrumentation on that process. That's a key part too, as well. It can't just be,"
+  },
+  {
+    "start": 1921.28,
+    "duration": 4.08,
+    "text": "it can't just be, Hey, we're going to measure one signal and try to pipe that into,"
+  },
+  {
+    "start": 1925.36,
+    "duration": 3.84,
+    "text": "you know, an email cadence into a rep. It's got to be very instrumented."
+  },
+  {
+    "start": 1929.84,
+    "duration": 9.04,
+    "text": "Yeah. Cool. So for companies that you see adding SLG to their PLG motion,"
+  },
+  {
+    "start": 1938.88,
+    "duration": 3.52,
+    "text": "what are the most common failure modes? Like where do people go wrong?"
+  },
+  {
+    "start": 1942.72,
+    "duration": 4.32,
+    "text": "I think the first one is not adapting to the same product. That's the biggest one,"
+  },
+  {
+    "start": 1947.04,
+    "duration": 5.76,
+    "text": "because everything stems there. If you fail to understand who you're selling to and how that"
+  },
+  {
+    "start": 1953.36,
+    "duration": 3.6,
+    "text": "process is going to change, or if there's going to be multiple stakeholders,"
+  },
+  {
+    "start": 1956.96,
+    "duration": 3.36,
+    "text": "you're going to market them wrong. You're going to have the wrong messaging and sales."
+  },
+  {
+    "start": 1960.32,
+    "duration": 4.4,
+    "text": "You're not going to be able to outbound. That's huge. And then as a follow on too,"
+  },
+  {
+    "start": 1964.72,
+    "duration": 4.72,
+    "text": "if the product doesn't meet that understanding of that new buyer or what that new buyer wants,"
+  },
+  {
+    "start": 1969.44,
+    "duration": 4.8,
+    "text": "doesn't meet that understanding of that new buyer or what that company is going to need."
+  },
+  {
+    "start": 1974.24,
+    "duration": 4.4,
+    "text": "When you move into a sales led motion from PLG, you're also going to not be able to either A,"
+  },
+  {
+    "start": 1978.64,
+    "duration": 4.56,
+    "text": "close the deal or B, expand the deal. And so those are probably the biggest ones that I see."
+  },
+  {
+    "start": 1984.96,
+    "duration": 2.88,
+    "text": "And then I think the third is just making sure you have the right team"
+  },
+  {
+    "start": 1987.84,
+    "duration": 3.76,
+    "text": "and the right new culture around that team and process around that team."
+  },
+  {
+    "start": 1991.6,
+    "duration": 5.84,
+    "text": "It fundamentally shifts. Not to say that you can't have both a PLG or PLS motion at the same time,"
+  },
+  {
+    "start": 1997.44,
+    "duration": 3.44,
+    "text": "but you've got to really think about how you're now measuring a team against goals"
+  },
+  {
+    "start": 2000.88,
+    "duration": 3.84,
+    "text": "and what that's going to look like. Okay. That makes a lot of sense."
+  },
+  {
+    "start": 2006.0,
+    "duration": 5.76,
+    "text": "What did you do at Superhuman to unlock the sales culture? Because sometimes,"
+  },
+  {
+    "start": 2012.4,
+    "duration": 4.56,
+    "text": "you're in a fairly big, successful company. Sales is this new thing over there."
+  },
+  {
+    "start": 2017.6,
+    "duration": 5.6,
+    "text": "You might be working with a bunch of devs who aren't used to now salespeople"
+  },
+  {
+    "start": 2023.92,
+    "duration": 4.32,
+    "text": "playing a more prominent role. How did you think about transitioning"
+  },
+  {
+    "start": 2029.2,
+    "duration": 3.36,
+    "text": "and building the culture in the right way at a company level?"
+  },
+  {
+    "start": 2034.16,
+    "duration": 5.36,
+    "text": "It starts with everyone from top down at the... We call it our M team or it's our executive team"
+  },
+  {
+    "start": 2039.52,
+    "duration": 6.88,
+    "text": "being bought into, hey, we're going B2B. Because ultimately, we can't just build for the B2C"
+  },
+  {
+    "start": 2046.4,
+    "duration": 3.52,
+    "text": "customer anymore. We've got to build for the type of company that we want to land"
+  },
+  {
+    "start": 2050.88,
+    "duration": 4.4,
+    "text": "and what that looks like. And so everyone's got to be bought into the vision of being more sales"
+  },
+  {
+    "start": 2055.28,
+    "duration": 5.2,
+    "text": "led. That's number one. And I think with that, the best way I found to be able to do that is"
+  },
+  {
+    "start": 2060.48,
+    "duration": 4.56,
+    "text": "bring people along for the ride. So when you get into deals that are really meaningful,"
+  },
+  {
+    "start": 2065.04,
+    "duration": 6.16,
+    "text": "bring in your CTO, bring in individual engineers, make them feel and hear the pain that's coming"
+  },
+  {
+    "start": 2071.2,
+    "duration": 5.04,
+    "text": "from the customer and also make them feel and hear the excitement from when you win a deal."
+  },
+  {
+    "start": 2077.2,
+    "duration": 3.36,
+    "text": "That big, large consulting customer, that was a company-wide effort. That wasn't"
+  },
+  {
+    "start": 2081.2,
+    "duration": 4.0,
+    "text": "Andrew, that wasn't an individual sales group, that was the entire company winning that deal"
+  },
+  {
+    "start": 2085.2,
+    "duration": 5.52,
+    "text": "together. And it was celebrated as such. And so I think you see this switch flip in people's minds"
+  },
+  {
+    "start": 2090.72,
+    "duration": 7.76,
+    "text": "of, oh, that's a huge impact. And we could go get 10,000 customers or we could go get one large"
+  },
+  {
+    "start": 2098.48,
+    "duration": 6.16,
+    "text": "consulting client. And the impact of that is the same. But sticking this to the product,"
+  },
+  {
+    "start": 2104.64,
+    "duration": 4.64,
+    "text": "the customer feedback that you get, all those things just amplify when you get a very large"
+  },
+  {
+    "start": 2109.28,
+    "duration": 5.6,
+    "text": "deal. And so, yeah, bringing people along for that ride as well as being bought into that motion was"
+  },
+  {
+    "start": 2114.88,
+    "duration": 4.48,
+    "text": "very, very key. I think that's the big one. And then you can get down to the tactical around,"
+  },
+  {
+    "start": 2119.36,
+    "duration": 4.48,
+    "text": "how do you change? You implement things like Medic or again, a methodology,"
+  },
+  {
+    "start": 2123.84,
+    "duration": 5.76,
+    "text": "such that there's this new repetition and expectation that I'm setting, the team is"
+  },
+  {
+    "start": 2129.6,
+    "duration": 4.16,
+    "text": "setting with the new sellers that are in seat around how we operate moving forward,"
+  },
+  {
+    "start": 2133.76,
+    "duration": 4.4,
+    "text": "versus a little bit of a different, more laid-back culture at PLGmotion."
+  },
+  {
+    "start": 2139.04,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 2139.2,
+    "duration": 1.2,
+    "text": "From a sales perspective, at least."
+  },
+  {
+    "start": 2141.76,
+    "duration": 9.36,
+    "text": "That makes a ton of sense. It's interesting, sales is such a rush and it's so fun that even"
+  },
+  {
+    "start": 2151.12,
+    "duration": 7.28,
+    "text": "if you're a PM or an eng, and you've never thought about sales, if those people are involved"
+  },
+  {
+    "start": 2158.4,
+    "duration": 8.32,
+    "text": "tangentially and are involved in a win, no matter who you are, that feels fun. We've had some"
+  },
+  {
+    "start": 2166.72,
+    "duration": 7.12,
+    "text": "product folks involved in deals and saves and stuff here. And I totally agree, the best way to"
+  },
+  {
+    "start": 2173.84,
+    "duration": 9.76,
+    "text": "get people invested is give them the bug, give them that sales bug, give them a taste and make"
+  },
+  {
+    "start": 2183.6,
+    "duration": 11.28,
+    "text": "sure that they feel part of the recognition and the vibe because it's only natural to gravitate"
+  },
+  {
+    "start": 2194.88,
+    "duration": 0.56,
+    "text": "towards that."
+  },
+  {
+    "start": 2196.32,
+    "duration": 5.44,
+    "text": "Totally. We've even done, this is probably common, but I give my other executive team"
+  },
+  {
+    "start": 2201.76,
+    "duration": 6.4,
+    "text": "members quotas. I have my head of finance, I'll say like, hey, I have $100,000 in your head or"
+  },
+  {
+    "start": 2208.16,
+    "duration": 6.48,
+    "text": "$50,000. I want pipelines in you based on you introing us to vendors that we might sell them to."
+  },
+  {
+    "start": 2215.92,
+    "duration": 3.84,
+    "text": "That's one way. And then I think, to your point, if you bring those product leaders or those"
+  },
+  {
+    "start": 2219.76,
+    "duration": 4.72,
+    "text": "engineers into calls, oftentimes, they'll go back and think about that call of the customer"
+  },
+  {
+    "start": 2224.48,
+    "duration": 5.04,
+    "text": "and then develop a solution. And they'll bring... This totally changed their game from being"
+  },
+  {
+    "start": 2229.52,
+    "duration": 5.2,
+    "text": "internal only to now having this external piece, which is addicting to a certain extent."
+  },
+  {
+    "start": 2234.72,
+    "duration": 4.56,
+    "text": "We get that all day being in sales, and we take it for granted. But people who are internally"
+  },
+  {
+    "start": 2239.28,
+    "duration": 5.04,
+    "text": "focused don't get that customer thing that we're building for on a day-to-day basis,"
+  },
+  {
+    "start": 2244.32,
+    "duration": 2.0,
+    "text": "which is, again, super invigorating across the board."
+  },
+  {
+    "start": 2246.96,
+    "duration": 5.36,
+    "text": "Awesome. So let's transition to AI and go-to-market. And so there's a bunch of AI built"
+  },
+  {
+    "start": 2252.32,
+    "duration": 4.96,
+    "text": "into the superhuman product. AI replies is something that I use a bunch. And it's actually"
+  },
+  {
+    "start": 2258.08,
+    "duration": 5.28,
+    "text": "since the beta that I was in a while ago has gotten so much better. And it started to really"
+  },
+  {
+    "start": 2263.36,
+    "duration": 6.24,
+    "text": "sound like me more and more. But we're using AI and go-to-market today, if anywhere."
+  },
+  {
+    "start": 2271.6,
+    "duration": 3.44,
+    "text": "We're using it quite a bit. So we've adopted a fair number of tools. I mean,"
+  },
+  {
+    "start": 2276.32,
+    "duration": 5.76,
+    "text": "the cool part about building sales inside of a relatively established org that's somewhat large"
+  },
+  {
+    "start": 2282.08,
+    "duration": 6.0,
+    "text": "and being like a Series A startup inside of the series and company is I can build a Series A"
+  },
+  {
+    "start": 2288.08,
+    "duration": 4.08,
+    "text": "startup. I don't have to go to the old traditional model of hiring a bunch of reps. And so we've"
+  },
+  {
+    "start": 2292.16,
+    "duration": 7.04,
+    "text": "tried to automate where we can. So we obviously are using the superhuman suite. We're using things"
+  },
+  {
+    "start": 2299.2,
+    "duration": 7.68,
+    "text": "like DONG and adapting into automated Salesforce enrichment, automated Salesforce field management,"
+  },
+  {
+    "start": 2306.88,
+    "duration": 6.64,
+    "text": "things like that to help the AEs focus on selling and time. We also have a tool that"
+  },
+  {
+    "start": 2313.6,
+    "duration": 8.16,
+    "text": "helps us with RFPs. So we've got an SE. Our turnaround time on RFPs is almost less than"
+  },
+  {
+    "start": 2321.76,
+    "duration": 7.04,
+    "text": "24 hours. For 250 questionnaires that we get from large organizations, we only really have"
+  },
+  {
+    "start": 2328.8,
+    "duration": 3.6,
+    "text": "one person in that role. It's a no-brainer. It's a no-brainer."
+  },
+  {
+    "start": 2332.4,
+    "duration": 1.12,
+    "text": "Yeah, such an easy one."
+  },
+  {
+    "start": 2334.24,
+    "duration": 4.72,
+    "text": "Easy one. And then so we try to implement everywhere. And even personally, I encourage"
+  },
+  {
+    "start": 2338.96,
+    "duration": 6.0,
+    "text": "people. I mean, we use Claude at the company level as well as ChatGPT. I encourage everyone"
+  },
+  {
+    "start": 2344.96,
+    "duration": 6.96,
+    "text": "to get a license and using the pro version. Personally, I've built like an Andrew interview"
+  },
+  {
+    "start": 2351.92,
+    "duration": 5.12,
+    "text": "GPT. So I can check myself and I can upload transcripts into that. And it helps them with"
+  },
+  {
+    "start": 2357.04,
+    "duration": 4.96,
+    "text": "hiring. It makes sure that I'm being unbiased. And so there's all these little hacks outside"
+  },
+  {
+    "start": 2362.0,
+    "duration": 4.72,
+    "text": "of the tools that you can go buy, again, like the Clays, like the GONGs that do a great job."
+  },
+  {
+    "start": 2366.72,
+    "duration": 5.44,
+    "text": "But just using the LMs out there to really explore and build and automate for your own"
+  },
+  {
+    "start": 2372.16,
+    "duration": 2.48,
+    "text": "workflows. And we try to do that as much as we can. It's super important."
+  },
+  {
+    "start": 2375.52,
+    "duration": 3.12,
+    "text": "So you're using GONG for CRM enrichment or another tool?"
+  },
+  {
+    "start": 2379.36,
+    "duration": 4.72,
+    "text": "We're using GONG. We also just explored another tool called Wiser, which we're implementing"
+  },
+  {
+    "start": 2384.08,
+    "duration": 0.4,
+    "text": "right now."
+  },
+  {
+    "start": 2385.2,
+    "duration": 1.52,
+    "text": "Oh, I know Corey."
+  },
+  {
+    "start": 2387.44,
+    "duration": 5.44,
+    "text": "Okay. Corey is a friend of mine as well. And we looked at a couple tools and we thought he was a"
+  },
+  {
+    "start": 2392.88,
+    "duration": 5.36,
+    "text": "great option. So we just started implementing that right now. So yeah, we're using GONG,"
+  },
+  {
+    "start": 2398.24,
+    "duration": 2.32,
+    "text": "but we didn't feel like GONG was hitting all the benchmarks."
+  },
+  {
+    "start": 2401.76,
+    "duration": 6.32,
+    "text": "I just yanked out GONG a couple months ago, because it was just so expensive. And we're"
+  },
+  {
+    "start": 2408.08,
+    "duration": 6.8,
+    "text": "doing it through Momentum, which is similar-ish CRM enrichment, but they have a call recording"
+  },
+  {
+    "start": 2414.88,
+    "duration": 8.16,
+    "text": "tool now. Obviously, it's not feature parity to GONG today. But for a fraction of the cost"
+  },
+  {
+    "start": 2423.04,
+    "duration": 4.24,
+    "text": "and to consolidate just in one vendor, we took the plunge pretty early."
+  },
+  {
+    "start": 2429.04,
+    "duration": 5.28,
+    "text": "Yeah, that's probably one of the first places I would tell people to start is CRM enrichment,"
+  },
+  {
+    "start": 2434.32,
+    "duration": 6.08,
+    "text": "because AI does such a good job with it. It's pretty low stakes, really high value"
+  },
+  {
+    "start": 2442.16,
+    "duration": 1.52,
+    "text": "from a productivity perspective."
+  },
+  {
+    "start": 2444.56,
+    "duration": 5.36,
+    "text": "Totally. That's a big one. The other tool, if you've heard of a company called Cinch,"
+  },
+  {
+    "start": 2449.92,
+    "duration": 5.76,
+    "text": "we're doing automated. Cinch.io, I think it's a website."
+  },
+  {
+    "start": 2455.68,
+    "duration": 1.76,
+    "text": "Supercharging sales. Is that it?"
+  },
+  {
+    "start": 2458.8,
+    "duration": 5.76,
+    "text": "Let me just make sure I'm looking. Wiscinch.com, excuse me. It's spelled S-Y-N-C-H. Yes,"
+  },
+  {
+    "start": 2464.56,
+    "duration": 5.84,
+    "text": "you're on the right page. Yeah, so it's a forecasting tool. I didn't like the native"
+  },
+  {
+    "start": 2470.4,
+    "duration": 7.04,
+    "text": "forecasting in GONG either. I don't mean to beat up on them."
+  },
+  {
+    "start": 2478.48,
+    "duration": 7.12,
+    "text": "I know. It's a great call tool, not a great on anything else. And we use them to do"
+  },
+  {
+    "start": 2486.96,
+    "duration": 5.52,
+    "text": "forecasting, but also they have AI-built natural language reports. So you can say,"
+  },
+  {
+    "start": 2492.48,
+    "duration": 4.96,
+    "text": "show me a report with this sort of thing. It's greatly increased our productivity of our single"
+  },
+  {
+    "start": 2497.44,
+    "duration": 6.16,
+    "text": "RebOps person as well. So that's another area like the SE use case that is super helpful to"
+  },
+  {
+    "start": 2503.6,
+    "duration": 11.28,
+    "text": "have an actual built in. The official marketing playbook for 2025 starts at CMO Summit."
+  },
+  {
+    "start": 2514.88,
+    "duration": 5.44,
+    "text": "On April 17th, join 150 of the world's top marketing executives in Atlanta for a one-day"
+  },
+  {
+    "start": 2520.32,
+    "duration": 5.68,
+    "text": "event designed to redefine marketing's role in business growth. In a world of shrinking budgets,"
+  },
+  {
+    "start": 2526.0,
+    "duration": 5.28,
+    "text": "the CMOs who lead with strategy and innovation are the ones driving real results. This summit"
+  },
+  {
+    "start": 2531.28,
+    "duration": 5.52,
+    "text": "is where you'll gain the tools, insights, and connections to do just that. Hear from industry"
+  },
+  {
+    "start": 2536.8,
+    "duration": 4.56,
+    "text": "pioneers, engage in hands-on workshops, and surround yourself with marketing trailblazers"
+  },
+  {
+    "start": 2541.36,
+    "duration": 4.8,
+    "text": "who aren't just your peers. They're the minds who will inspire your next breakthrough."
+  },
+  {
+    "start": 2546.16,
+    "duration": 4.48,
+    "text": "Visit joinpavilion.com slash CMO Summit to secure your spot today."
+  },
+  {
+    "start": 2551.6,
+    "duration": 4.16,
+    "text": "Very cool. And the seed round led by Jack Altman, who's on our board, who I know well."
+  },
+  {
+    "start": 2555.76,
+    "duration": 9.04,
+    "text": "So there you go. Small world. And so what skills do you think a rep really needs to triple down"
+  },
+  {
+    "start": 2564.8,
+    "duration": 7.2,
+    "text": "on in an age of AI? So like the world of selling will likely change a lot in the next three to"
+  },
+  {
+    "start": 2572.0,
+    "duration": 6.4,
+    "text": "five years. What does that mean for the rep in your mind? In my mind, it's two games. First is"
+  },
+  {
+    "start": 2578.4,
+    "duration": 5.12,
+    "text": "you have to be really good at the soft skills because the AI can't yet replace that. And so"
+  },
+  {
+    "start": 2583.52,
+    "duration": 4.48,
+    "text": "you have to really know how to be persuasive with customers. You have to know how to take feedback."
+  },
+  {
+    "start": 2588.0,
+    "duration": 4.16,
+    "text": "You have to know how to ask the right discovery questions. Do your homework. Practice those"
+  },
+  {
+    "start": 2592.16,
+    "duration": 6.16,
+    "text": "things. Do the mock calls with your team. I think that's really, really important."
+  },
+  {
+    "start": 2598.96,
+    "duration": 6.48,
+    "text": "Learn those skills. And then the second piece is most teams are going to operate with less"
+  },
+  {
+    "start": 2605.44,
+    "duration": 4.96,
+    "text": "things or less supporting functions. You've got to be a builder. So you've got to learn how to"
+  },
+  {
+    "start": 2610.4,
+    "duration": 6.16,
+    "text": "build and leverage the tools that are either at access at your company or you go request access"
+  },
+  {
+    "start": 2616.56,
+    "duration": 4.24,
+    "text": "to them such that you can build workflows that make you supercharged, whether that be"
+  },
+  {
+    "start": 2620.8,
+    "duration": 4.32,
+    "text": "helping you automate outbound and pipeline gen, whether that be automating follow-ups."
+  },
+  {
+    "start": 2625.12,
+    "duration": 3.68,
+    "text": "It could be anything. But I think you've got to be willing to build your workflows and AI"
+  },
+  {
+    "start": 2628.8,
+    "duration": 4.24,
+    "text": "and understand and know those tools. But I think really getting good at the soft skills is going"
+  },
+  {
+    "start": 2633.04,
+    "duration": 3.92,
+    "text": "to set you apart because you can't just be mediocre anymore. You've got to be really good."
+  },
+  {
+    "start": 2637.68,
+    "duration": 5.52,
+    "text": "Yeah. I was thinking about this the other week. I was like, man, I would kill to be a rep right now"
+  },
+  {
+    "start": 2643.76,
+    "duration": 8.16,
+    "text": "in a company that has some AI in go-to-market but not a lot because I would be in there"
+  },
+  {
+    "start": 2651.92,
+    "duration": 4.88,
+    "text": "building clay tables and running my own automations and going completely rogue."
+  },
+  {
+    "start": 2657.6,
+    "duration": 5.84,
+    "text": "And there's just so much opportunity at an individual level. We're doing most of it top down,"
+  },
+  {
+    "start": 2663.44,
+    "duration": 4.08,
+    "text": "like building a bunch of this stuff. We're SMB, so it's a slightly different"
+  },
+  {
+    "start": 2669.44,
+    "duration": 7.52,
+    "text": "environment. But you look at some of what people are building on Twitter or on LinkedIn and some"
+  },
+  {
+    "start": 2676.96,
+    "duration": 7.6,
+    "text": "of those automations. I'm like, man, I would be using Operator to do a bunch of stuff. It's wild."
+  },
+  {
+    "start": 2685.28,
+    "duration": 5.28,
+    "text": "Actually, I have to ask, what are your favorite tools right now? I know Operator. I haven't used"
+  },
+  {
+    "start": 2690.56,
+    "duration": 3.44,
+    "text": "it, but I've heard good things about it. But what do you have at your staff right now that you're"
+  },
+  {
+    "start": 2694.0,
+    "duration": 8.96,
+    "text": "really liking? Operator is not that functional. It's really fun to use. And you could do some"
+  },
+  {
+    "start": 2702.96,
+    "duration": 6.32,
+    "text": "low-stakes stuff like research and have it crawl websites and do certain things. I use Deep Research"
+  },
+  {
+    "start": 2709.28,
+    "duration": 3.12,
+    "text": "all the time, constantly. On ChatGPT?"
+  },
+  {
+    "start": 2712.4,
+    "duration": 7.2,
+    "text": "On ChatGPT, yeah. So I use ChatGPT for problem-solving when I'm thinking through a problem."
+  },
+  {
+    "start": 2723.28,
+    "duration": 5.92,
+    "text": "Like I'm writing a proposal for something right now, and so I use Super Whisper to just talk as"
+  },
+  {
+    "start": 2729.44,
+    "duration": 12.0,
+    "text": "a dictation app. So I'll just use Super Whisper, yammer away into O1 Pro and Deep Research and"
+  },
+  {
+    "start": 2741.44,
+    "duration": 3.6,
+    "text": "talk about my problem. I'm like, go research all of the people who have solved this problem,"
+  },
+  {
+    "start": 2745.04,
+    "duration": 5.92,
+    "text": "the experts in the field, bring back that research, and then format it into whatever I want."
+  },
+  {
+    "start": 2750.96,
+    "duration": 6.32,
+    "text": "Like a proposal, like a plan with these work streams, but tell me what work streams I'm"
+  },
+  {
+    "start": 2757.28,
+    "duration": 6.32,
+    "text": "missing. So the problem-solving and synthesis, I use ChatGPT for, and I find myself using"
+  },
+  {
+    "start": 2763.6,
+    "duration": 8.56,
+    "text": "Deep Research constantly now. And then Clod, I use for writing. So I've got a bunch of writing"
+  },
+  {
+    "start": 2772.16,
+    "duration": 10.16,
+    "text": "projects in there. So I've taken a bunch of stuff I've written. I've gotten it to describe my"
+  },
+  {
+    "start": 2782.32,
+    "duration": 6.48,
+    "text": "writing style in a whole bunch of detail. And so I can now, when I record the podcast, I'll take"
+  },
+  {
+    "start": 2788.8,
+    "duration": 5.12,
+    "text": "the transcript, put the transcript into my newsletter writer, which is built on a bunch of"
+  },
+  {
+    "start": 2793.92,
+    "duration": 6.48,
+    "text": "stuff that I've already written. And it will just like crank out a really good version, like a"
+  },
+  {
+    "start": 2800.4,
+    "duration": 7.12,
+    "text": "version where I'll do a 20 to 30-minute edit on it. And I look at it, I'm like, this is like a"
+  },
+  {
+    "start": 2807.6,
+    "duration": 6.0,
+    "text": "four-hour piece of writing. And it took me 30 minutes. And it's funny, I get asked, people"
+  },
+  {
+    "start": 2813.6,
+    "duration": 3.68,
+    "text": "jokingly ask me, like, how do you have time for all this, like podcasts and company and all this"
+  },
+  {
+    "start": 2817.28,
+    "duration": 6.88,
+    "text": "stuff? And I would jokingly say, it's like, I don't know, I just work a lot, because I do."
+  },
+  {
+    "start": 2824.72,
+    "duration": 6.08,
+    "text": "But I really don't think I could do the podcast and write the newsletter and keep doing LinkedIn"
+  },
+  {
+    "start": 2830.8,
+    "duration": 6.0,
+    "text": "content without some of these workflows. And I have stuff for like any little thing that I do a"
+  },
+  {
+    "start": 2836.8,
+    "duration": 6.32,
+    "text": "lot. I find I'm like, oh, I should just like, I'll spend 20 minutes, do this meta prompting"
+  },
+  {
+    "start": 2843.12,
+    "duration": 6.96,
+    "text": "process where I'll tell the AI to build the prompt for me. And then I'll put that into either a"
+  },
+  {
+    "start": 2850.08,
+    "duration": 5.68,
+    "text": "cloud project or a custom GPT. Actually, I've stopped using custom GPTs. I just use"
+  },
+  {
+    "start": 2857.36,
+    "duration": 4.72,
+    "text": "projects now in OpenAI, because it takes all that into the context window."
+  },
+  {
+    "start": 2862.16,
+    "duration": 8.32,
+    "text": "Just custom GPTs don't work well, for some reason. My output of just a normal chat is better"
+  },
+  {
+    "start": 2870.48,
+    "duration": 4.72,
+    "text": "than an output of a custom GPT for some bizarre reason. I don't know. I don't know. Maybe somebody"
+  },
+  {
+    "start": 2875.2,
+    "duration": 5.36,
+    "text": "can tell me if you're listening. Yeah, so like that type of stuff."
+  },
+  {
+    "start": 2881.44,
+    "duration": 6.0,
+    "text": "That's cool. I just did my first deep research. I was late to the game. I used chat GPT a lot,"
+  },
+  {
+    "start": 2887.44,
+    "duration": 6.24,
+    "text": "but I had not done a deep research prompt yet. And I was blown away. So nothing being a more."
+  },
+  {
+    "start": 2893.68,
+    "duration": 4.0,
+    "text": "Yeah. So like, I'll give you a funny example, because it's just my default now."
+  },
+  {
+    "start": 2898.24,
+    "duration": 5.36,
+    "text": "I'm like, you know, my hair has been receding now for a couple years. And you get, yeah, yeah, yeah."
+  },
+  {
+    "start": 2904.24,
+    "duration": 5.84,
+    "text": "And so you get pinged with like all like the internet's full of like, oh, it's this miracle"
+  },
+  {
+    "start": 2910.08,
+    "duration": 3.92,
+    "text": "thing. You got to do the little, little spiky roller, or it's a topical, you got to take this"
+  },
+  {
+    "start": 2914.0,
+    "duration": 5.36,
+    "text": "pill. And I'm like, just go tell me. I was like, do it. I did a deep research thing. I'm just like,"
+  },
+  {
+    "start": 2919.36,
+    "duration": 6.8,
+    "text": "tell me what are the most science based non-pharmacological interventions for hair loss."
+  },
+  {
+    "start": 2926.16,
+    "duration": 6.08,
+    "text": "And it's in my, I have a health folder in chat GPT that has like my aura ring data,"
+  },
+  {
+    "start": 2932.24,
+    "duration": 4.56,
+    "text": "and like a health dossier. And I told it to like ask me a bunch of questions, like ask me as many"
+  },
+  {
+    "start": 2936.8,
+    "duration": 4.4,
+    "text": "questions as you need to understand my health profile, to then give me like tailored answers."
+  },
+  {
+    "start": 2941.2,
+    "duration": 9.76,
+    "text": "So this is a chat in my health project in chat GPT. And the feedback is just so clarifying,"
+  },
+  {
+    "start": 2950.96,
+    "duration": 4.4,
+    "text": "because you're like, okay, now these are the research papers with like clinically proven"
+  },
+  {
+    "start": 2956.0,
+    "duration": 5.12,
+    "text": "results. And it's basically none of the crap that people are like trying to shove to you"
+  },
+  {
+    "start": 2961.68,
+    "duration": 6.0,
+    "text": "through Instagram ads. And so I just find this is my default now. Like I just default to deep"
+  },
+  {
+    "start": 2967.68,
+    "duration": 6.88,
+    "text": "research for most things that like I really want to know a lot about with like a level of precision."
+  },
+  {
+    "start": 2976.56,
+    "duration": 5.92,
+    "text": "I built a gambling, I built like a gambling one, which is pretty funny with GPT and O1 Pro,"
+  },
+  {
+    "start": 2983.04,
+    "duration": 6.88,
+    "text": "with deep research and O1 Pro that was on a heater for like the, for a while. It's still"
+  },
+  {
+    "start": 2989.92,
+    "duration": 5.52,
+    "text": "like pretty good, but like it was, it was like hitting it like 80% correct for a while. So it's,"
+  },
+  {
+    "start": 2995.44,
+    "duration": 6.72,
+    "text": "I don't know, I'm obsessed. Okay, I want to ask a couple, one more question before we get into the"
+  },
+  {
+    "start": 3002.16,
+    "duration": 12.56,
+    "text": "quick fire. So I think like one of the, one of my concerns with AI tools is so much of the output is"
+  },
+  {
+    "start": 3014.72,
+    "duration": 5.84,
+    "text": "like really generic, and it has bot breath, like you can tell it was written by AI. And when somebody"
+  },
+  {
+    "start": 3020.64,
+    "duration": 5.44,
+    "text": "sends me like an AI, very clearly AI generated email, like I'm sort of offended by it."
+  },
+  {
+    "start": 3027.6,
+    "duration": 3.52,
+    "text": "Cause it's just like, it's like, ah, you didn't even take the effort to like research me or do,"
+  },
+  {
+    "start": 3031.12,
+    "duration": 7.84,
+    "text": "or do anything. And so I've used, I use superhuman AI, the AI response a lot for like low stakes"
+  },
+  {
+    "start": 3038.96,
+    "duration": 5.2,
+    "text": "stuff, things where I'm like not that interested, or it's like not something super important."
+  },
+  {
+    "start": 3044.72,
+    "duration": 4.72,
+    "text": "And, and, and it's great for that, but I haven't quite gotten, I haven't graduated to like"
+  },
+  {
+    "start": 3049.44,
+    "duration": 10.0,
+    "text": "responding to, to higher stakes thing, things with AI written. And so how do you think about"
+  },
+  {
+    "start": 3059.44,
+    "duration": 5.84,
+    "text": "blending the two and getting people to really leverage, like how do you get your sales team"
+  },
+  {
+    "start": 3065.28,
+    "duration": 7.6,
+    "text": "to use your AI tooling while also sounding personal and, but in being able to get it at scale?"
+  },
+  {
+    "start": 3073.84,
+    "duration": 6.0,
+    "text": "Yeah, it's a good question. I think, I'm excited to get you in the beta from, from superhuman,"
+  },
+  {
+    "start": 3079.84,
+    "duration": 4.4,
+    "text": "just real quick. I think like the, it's gotten better as we now auto draft every reminder email"
+  },
+  {
+    "start": 3084.24,
+    "duration": 3.68,
+    "text": "you have, we auto draft a response, which is pretty, which has been really helpful in that"
+  },
+  {
+    "start": 3087.92,
+    "duration": 3.76,
+    "text": "the response is a little bit better because it's using the context from the spread. So"
+  },
+  {
+    "start": 3091.68,
+    "duration": 6.56,
+    "text": "it's improved. So I would say like things like that, what I tell my team is leverage the AI,"
+  },
+  {
+    "start": 3098.4,
+    "duration": 4.4,
+    "text": "but then put your filter on, like, don't just know, click, fire, send, like it's not going to"
+  },
+  {
+    "start": 3102.8,
+    "duration": 4.32,
+    "text": "work. You've got to, you know, the customer, do your research, do all the things that you do to"
+  },
+  {
+    "start": 3107.12,
+    "duration": 4.4,
+    "text": "be a good AI. In fact, if you're leveraging it in the right way, it's going to give you more time"
+  },
+  {
+    "start": 3111.52,
+    "duration": 5.28,
+    "text": "to do that. So what I, what I typically say is leverage the tools, it's going to make you operate"
+  },
+  {
+    "start": 3116.8,
+    "duration": 7.28,
+    "text": "faster. I mean, you and I probably both know that you can, you know, have it create things and they"
+  },
+  {
+    "start": 3124.08,
+    "duration": 3.36,
+    "text": "have to edit, it's going to be faster than having to type the whole thing out and like make three"
+  },
+  {
+    "start": 3127.44,
+    "duration": 4.56,
+    "text": "or four versions. And so that's what I try to do is blend between, you know, being a filter and"
+  },
+  {
+    "start": 3132.0,
+    "duration": 6.64,
+    "text": "editor, but still using the tool. The other thing is, you know, I, I think the more that you can"
+  },
+  {
+    "start": 3139.2,
+    "duration": 4.24,
+    "text": "get really good at prompting, which sounds like you've gotten masterfully at and teaching my team"
+  },
+  {
+    "start": 3143.44,
+    "duration": 4.16,
+    "text": "to spend time working on that, the better the output is going to be. And knowing like, what"
+  },
+  {
+    "start": 3147.6,
+    "duration": 3.6,
+    "text": "are the things that you can prompt that's going to give you the type of output that you want."
+  },
+  {
+    "start": 3151.2,
+    "duration": 3.92,
+    "text": "And then the editing becomes less, you can add in that piece of really powerful,"
+  },
+  {
+    "start": 3155.28,
+    "duration": 4.72,
+    "text": "personalization of content that's going to matter. Another tool that I love, just like"
+  },
+  {
+    "start": 3160.0,
+    "duration": 4.08,
+    "text": "thrown out is called WhisperFlow, which is basically dictation. And then it will..."
+  },
+  {
+    "start": 3164.08,
+    "duration": 1.68,
+    "text": "That's like super whisper. Yeah, yeah."
+  },
+  {
+    "start": 3165.76,
+    "duration": 4.0,
+    "text": "Yeah. It's, it's awesome. But what I've done is, or I've told my team,"
+  },
+  {
+    "start": 3169.76,
+    "duration": 5.44,
+    "text": "dictate and I'll try using that into chat2BT. So spend like three, four or five minutes just"
+  },
+  {
+    "start": 3175.2,
+    "duration": 4.56,
+    "text": "dictating an entire prompt into what you want. And then you can even add in research bullets"
+  },
+  {
+    "start": 3179.76,
+    "duration": 4.0,
+    "text": "that you've collected, you know, things that you've learned about a customer. The output is"
+  },
+  {
+    "start": 3183.76,
+    "duration": 5.92,
+    "text": "way better. And then you can use that and put that into, you know, an email. So there's a lot"
+  },
+  {
+    "start": 3189.68,
+    "duration": 4.8,
+    "text": "of ways that I think finding the tools and like melding your deep research with the customer,"
+  },
+  {
+    "start": 3194.48,
+    "duration": 4.0,
+    "text": "with how the tools are helping create the content, you can get to a really good place"
+  },
+  {
+    "start": 3198.48,
+    "duration": 4.08,
+    "text": "that doesn't sound just robotic. Yeah. One thing that I would love"
+  },
+  {
+    "start": 3203.52,
+    "duration": 7.28,
+    "text": "to have in Superhuman is to be able to like, tune, like, tune the AI response"
+  },
+  {
+    "start": 3211.36,
+    "duration": 5.28,
+    "text": "to like specific things. Like I want to say, it's like, hey, if there's ever a scheduling thing,"
+  },
+  {
+    "start": 3217.6,
+    "duration": 5.52,
+    "text": "CC my app and CC Viviana and like defer scheduling to her. Because like, I'll get a thing,"
+  },
+  {
+    "start": 3223.12,
+    "duration": 8.4,
+    "text": "hey, grab some time. And I want to like, cram into the context window every time the Superhuman"
+  },
+  {
+    "start": 3231.52,
+    "duration": 5.36,
+    "text": "like drafts a response to be like, hey, like default to this or default to that, or like,"
+  },
+  {
+    "start": 3236.88,
+    "duration": 6.48,
+    "text": "be a little less formal. Like that's the thing I wish I could tune a little bit more,"
+  },
+  {
+    "start": 3243.36,
+    "duration": 5.36,
+    "text": "or like feed it more of my own writing intentionally to be like, tune it in this way."
+  },
+  {
+    "start": 3249.6,
+    "duration": 4.32,
+    "text": "That's a part of the scale. We were thinking about a couple different things. You know,"
+  },
+  {
+    "start": 3253.92,
+    "duration": 5.2,
+    "text": "none of these are product commitments. So just saying that out loud. So Laura,"
+  },
+  {
+    "start": 3259.12,
+    "duration": 5.36,
+    "text": "our product team doesn't kill me. But one of them is bring your own AI. So like if you have"
+  },
+  {
+    "start": 3264.56,
+    "duration": 5.12,
+    "text": "ChatGPT for your business, you can plug that into like our Ask AI feature functionality,"
+  },
+  {
+    "start": 3269.68,
+    "duration": 3.68,
+    "text": "and it will leverage that context through business or whatever you've written before"
+  },
+  {
+    "start": 3273.36,
+    "duration": 3.76,
+    "text": "and use that in terms of responses. That's an interesting one. Kind of difficult,"
+  },
+  {
+    "start": 3277.12,
+    "duration": 3.84,
+    "text": "but there's a lot of things there. The other one is the ability to what you just said of like,"
+  },
+  {
+    "start": 3280.96,
+    "duration": 4.72,
+    "text": "tune or fine tune responses. So I have one that I sound like if I write something,"
+  },
+  {
+    "start": 3285.68,
+    "duration": 5.2,
+    "text": "and then I change the message and I say improve, keep casual, it kind of nails the tonality that"
+  },
+  {
+    "start": 3290.88,
+    "duration": 4.64,
+    "text": "I want. But like that prompt is not available, I have to type it each time. So being able to like,"
+  },
+  {
+    "start": 3295.52,
+    "duration": 5.44,
+    "text": "have a saved prompt that you could tune. And the last one that Rahul I think has talked about in"
+  },
+  {
+    "start": 3300.96,
+    "duration": 4.24,
+    "text": "a few places is workflows, which is exactly what you're talking about. If I get an email"
+  },
+  {
+    "start": 3305.2,
+    "duration": 4.48,
+    "text": "from a candidate or a recruiting email, automatically CC this person and it builds"
+  },
+  {
+    "start": 3309.68,
+    "duration": 5.04,
+    "text": "out an AI built workflow. So it knows like the type of email based on natural language."
+  },
+  {
+    "start": 3314.72,
+    "duration": 3.76,
+    "text": "That's a big one that probably will be built this year, just timing is the way."
+  },
+  {
+    "start": 3319.2,
+    "duration": 6.56,
+    "text": "Yeah, I do that with snippets now. Like the one like if it's a, I have got like a vendor one,"
+  },
+  {
+    "start": 3325.76,
+    "duration": 5.12,
+    "text": "a partner one, an interview one, like a personal one. And I just hit the squiggly,"
+  },
+  {
+    "start": 3331.52,
+    "duration": 5.84,
+    "text": "like, what is it the semi colon, I had like semi colon, and then the like semi colon partners."
+  },
+  {
+    "start": 3337.36,
+    "duration": 4.08,
+    "text": "And then it's just like the partner scheduling thing as CC's Viviana. But like, I want,"
+  },
+  {
+    "start": 3341.44,
+    "duration": 4.8,
+    "text": "I just wish that could be baked into the AI. I feel like that's probably coming from if anybody's"
+  },
+  {
+    "start": 3346.24,
+    "duration": 4.72,
+    "text": "going to figure out it's you guys. I'll relay that feedback. I think you're not alone there."
+  },
+  {
+    "start": 3350.96,
+    "duration": 3.68,
+    "text": "There's a lot of people that want very similar things. So but I'll make sure the product team"
+  },
+  {
+    "start": 3354.64,
+    "duration": 4.4,
+    "text": "gets that. That's a good one. Yeah, this is a podcast slash product feedback."
+  },
+  {
+    "start": 3360.56,
+    "duration": 1.84,
+    "text": "I love it. It's great. Yeah."
+  },
+  {
+    "start": 3364.32,
+    "duration": 4.32,
+    "text": "There's so much opportunity, I think in this space. It's really cool. This is why I think"
+  },
+  {
+    "start": 3368.64,
+    "duration": 4.96,
+    "text": "folks should be thinking about an email tool like this because you can just as long as you put in"
+  },
+  {
+    "start": 3373.68,
+    "duration": 7.2,
+    "text": "effort to like tune things how you like it. You can you can fly. Yeah. Okay. It's become my second"
+  },
+  {
+    "start": 3380.88,
+    "duration": 4.4,
+    "text": "brain is my last plug. It literally is my second brain. I couldn't I couldn't live without it. So"
+  },
+  {
+    "start": 3385.92,
+    "duration": 4.48,
+    "text": "yeah, I feel the same way. All right, quickfire round."
+  },
+  {
+    "start": 3391.52,
+    "duration": 2.88,
+    "text": "What do you think separates a good sales leader from a great one?"
+  },
+  {
+    "start": 3394.8,
+    "duration": 5.36,
+    "text": "I think no matter the size of the business and the organization, you have to be willing to get"
+  },
+  {
+    "start": 3400.16,
+    "duration": 5.76,
+    "text": "your hands dirty. If you can't go in and be called in to sell a deal or help a rep sell a deal. I"
+  },
+  {
+    "start": 3405.92,
+    "duration": 9.44,
+    "text": "don't care if you're a CRO of Snowflake or you're at Superhuman. You've got to be able to drive a"
+  },
+  {
+    "start": 3415.36,
+    "duration": 4.32,
+    "text": "deal forward and be willing to get your hands dirty and be willing to engage in that way."
+  },
+  {
+    "start": 3420.24,
+    "duration": 4.4,
+    "text": "You can't just farm everything out. At the end of the day, this is still an art and"
+  },
+  {
+    "start": 3424.64,
+    "duration": 4.72,
+    "text": "being able to be that thought leader and that go-to person, I think, is really important."
+  },
+  {
+    "start": 3429.36,
+    "duration": 4.16,
+    "text": "I think you build a couple things, a lot of trust with your core group of reps, right?"
+  },
+  {
+    "start": 3434.4,
+    "duration": 3.44,
+    "text": "Hey, Andrew actually knows how to sell. He actually takes the time to learn the product"
+  },
+  {
+    "start": 3437.84,
+    "duration": 6.0,
+    "text": "and knows how to position it such that I can bring him in. And if he can do it, there's a way that we"
+  },
+  {
+    "start": 3443.84,
+    "duration": 3.2,
+    "text": "can learn how to do it too. I think it just builds a ton of trust."
+  },
+  {
+    "start": 3447.76,
+    "duration": 5.44,
+    "text": "What's the most common advice you find yourself giving to mentees? First-line"
+  },
+  {
+    "start": 3453.2,
+    "duration": 4.24,
+    "text": "managers that are figuring out what do you find to be the advices you most frequently give?"
+  },
+  {
+    "start": 3459.92,
+    "duration": 3.68,
+    "text": "I think a lot of sales reps who transition into a leadership role,"
+  },
+  {
+    "start": 3465.28,
+    "duration": 4.8,
+    "text": "it's hard for them to go from individual quota attainment and how do I operate in a very narrow,"
+  },
+  {
+    "start": 3470.08,
+    "duration": 4.96,
+    "text": "focused view to how do I think about the business model and how do I think about"
+  },
+  {
+    "start": 3475.6,
+    "duration": 4.0,
+    "text": "to how do I think about both my team that I'm now managing,"
+  },
+  {
+    "start": 3479.6,
+    "duration": 3.28,
+    "text": "my own quota, but also what's good for the company and the customer."
+  },
+  {
+    "start": 3482.88,
+    "duration": 4.96,
+    "text": "And so the feedback I often get is raise your altitude a little bit more and think about"
+  },
+  {
+    "start": 3488.48,
+    "duration": 5.04,
+    "text": "when I'm answering a question or making a strategic decision, you can make a strategic"
+  },
+  {
+    "start": 3493.52,
+    "duration": 4.64,
+    "text": "decision that has a short-term impact that's negative for your team, but could be the long-term"
+  },
+  {
+    "start": 3498.72,
+    "duration": 4.24,
+    "text": "benefit of things to move forward in the right direction. And so you've got to be able to take"
+  },
+  {
+    "start": 3502.96,
+    "duration": 6.88,
+    "text": "your place out of it from just quota attainment, your own quota, and that's hard to do."
+  },
+  {
+    "start": 3509.84,
+    "duration": 2.64,
+    "text": "100%. What's the hardest lesson you've had to learn?"
+  },
+  {
+    "start": 3514.32,
+    "duration": 5.2,
+    "text": "I think it's just to go slow. Go slow to go fast, which I think you,"
+  },
+  {
+    "start": 3520.64,
+    "duration": 4.08,
+    "text": "again, coming from being a seller and going through the ranks of mid-market to enterprise,"
+  },
+  {
+    "start": 3524.72,
+    "duration": 3.92,
+    "text": "you operate of how do I keep things moving forward? How do I have constant pressure?"
+  },
+  {
+    "start": 3528.64,
+    "duration": 4.08,
+    "text": "And sometimes, especially as you then graduate into leadership, you have to"
+  },
+  {
+    "start": 3532.72,
+    "duration": 4.32,
+    "text": "see the whole playing field and make sure you take time to sit back and go slow"
+  },
+  {
+    "start": 3537.04,
+    "duration": 5.36,
+    "text": "and make a very informed decision versus a fast one. And I think that's a big one that I've had"
+  },
+  {
+    "start": 3542.4,
+    "duration": 6.48,
+    "text": "to learn because I've made one-way door decisions by accident when I thought it was a two-way door,"
+  },
+  {
+    "start": 3548.88,
+    "duration": 4.08,
+    "text": "and it's very hard to do. Yeah, yeah. That'll get you."
+  },
+  {
+    "start": 3554.96,
+    "duration": 1.84,
+    "text": "What's the best thing you've read in the last 12 months?"
+  },
+  {
+    "start": 3557.68,
+    "duration": 2.16,
+    "text": "There's a book called Super Communicators by Charles..."
+  },
+  {
+    "start": 3559.84,
+    "duration": 1.76,
+    "text": "I just finished it. Yeah."
+  },
+  {
+    "start": 3562.56,
+    "duration": 3.44,
+    "text": "I finished that too long ago. We just had our SKL, and I presented it on our SKL,"
+  },
+  {
+    "start": 3566.0,
+    "duration": 4.56,
+    "text": "and I just thought it was... Some of it's obvious, but I think it's told in a way that really resonates."
+  },
+  {
+    "start": 3571.36,
+    "duration": 8.24,
+    "text": "Yeah, I think so too. It was great. A lot of good takeaways, good reminders. It was solid."
+  },
+  {
+    "start": 3579.68,
+    "duration": 5.44,
+    "text": "Well, Andrew, this was great. I think this is going to be really helpful to folks as they think"
+  },
+  {
+    "start": 3585.12,
+    "duration": 6.0,
+    "text": "about layering in this SLG motion. I think that framework is really helpful about how you"
+  },
+  {
+    "start": 3591.12,
+    "duration": 6.08,
+    "text": "transition the team, how do you think about ICP and product, infrastructure, the data and tech."
+  },
+  {
+    "start": 3598.4,
+    "duration": 5.2,
+    "text": "So tons of really actionable insights for folks. Appreciate you joining. If people want more from"
+  },
+  {
+    "start": 3603.6,
+    "duration": 2.88,
+    "text": "you, where should they go? You can find me at"
+  },
+  {
+    "start": 3607.28,
+    "duration": 4.0,
+    "text": "andrew.johnson.superhuman.com, or hit me up on LinkedIn. I'm responsive to both."
+  },
+  {
+    "start": 3612.16,
+    "duration": 5.2,
+    "text": "Okay, cool. Appreciate it. And yeah, thank you for taking my product feedback."
+  },
+  {
+    "start": 3619.12,
+    "duration": 3.04,
+    "text": "Thank you, Kyle, for being such a super fan. I really appreciate it. Thanks for your time."
+  },
+  {
+    "start": 3622.16,
+    "duration": 0.8,
+    "text": "Yeah, yeah, for sure."
+  },
+  {
+    "start": 3637.2,
+    "duration": 0.8,
+    "text": "Thank you, Andrew."
+  },
+  {
+    "start": 3638.0,
+    "duration": 0.4,
+    "text": "Thanks, Kyle."
+  },
+  {
+    "start": 3638.4,
+    "duration": 4.32,
+    "text": "And be sure to leave a five star review, share it with your network."
+  },
+  {
+    "start": 3642.72,
+    "duration": 5.52,
+    "text": "And please join me next Wednesday for another great conversation."
+  }
+]

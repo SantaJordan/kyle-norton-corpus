@@ -1,0 +1,2532 @@
+[
+  {
+    "start": 0.0,
+    "duration": 6.4,
+    "text": "Today, I'm joined for the second time by Kyle Naughton, the CRO who scaled Owner.com from"
+  },
+  {
+    "start": 6.4,
+    "duration": 6.96,
+    "text": "3 million to 21 million RR in 22 months with Adbound. But he doesn't believe in AISDRs."
+  },
+  {
+    "start": 13.36,
+    "duration": 7.6,
+    "text": "Why? Because 95% of AISDR setups are raised to the bottom. Kyle has been saying this for months"
+  },
+  {
+    "start": 20.96,
+    "duration": 5.52,
+    "text": "on the Revenue Leadership Podcast, and in this part 2 conversation, we break down how the sales"
+  },
+  {
+    "start": 26.48,
+    "duration": 6.32,
+    "text": "team actually uses AI in Adbound, why they're opening an office for the BDR team on top of"
+  },
+  {
+    "start": 32.8,
+    "duration": 5.04,
+    "text": "their remote team, and their Adbound growth plans. By the end, you will understand why"
+  },
+  {
+    "start": 37.84,
+    "duration": 5.68,
+    "text": "internal AI use cases are far more powerful than external ones. Welcome back to the Adbound"
+  },
+  {
+    "start": 43.52,
+    "duration": 6.0,
+    "text": "Kitchen Podcast. I'm Eric, the Adbound Chef, and this is your go-to resource for scaling Adbound."
+  },
+  {
+    "start": 49.52,
+    "duration": 6.4,
+    "text": "Let's get cooking. Hey Kyle, welcome back to the show. Thanks for having me back. I didn't do so"
+  },
+  {
+    "start": 55.92,
+    "duration": 6.24,
+    "text": "bad last time that I wouldn't get the invite. Yeah, I think last time we talked a lot about"
+  },
+  {
+    "start": 62.16,
+    "duration": 4.32,
+    "text": "Adbound, but I don't think we talked about everything. So, I'm glad to have you back"
+  },
+  {
+    "start": 66.48,
+    "duration": 5.44,
+    "text": "and to talk about FI12 part 2 with you today. I'm excited, looking forward to it."
+  },
+  {
+    "start": 72.56,
+    "duration": 5.04,
+    "text": "So, let's start with AI. I know AI is a big topic, and I know, actually, last week I was"
+  },
+  {
+    "start": 77.6,
+    "duration": 4.64,
+    "text": "talking with SDR leaders, and we were talking about AI, and a lot of them didn't know"
+  },
+  {
+    "start": 83.2,
+    "duration": 6.0,
+    "text": "how you can use AI, actually, other than just call outreach. I know a lot of people talk about"
+  },
+  {
+    "start": 89.2,
+    "duration": 8.24,
+    "text": "AI-SDR, so what's your take on AI-SDR and AI in general for Adbound? Yeah, so I try to be"
+  },
+  {
+    "start": 98.32,
+    "duration": 9.6,
+    "text": "as much of a non-dual thinker as possible, and so I don't say AI-SDR can't work. I just think most,"
+  },
+  {
+    "start": 108.0,
+    "duration": 7.04,
+    "text": "I think 95% of what people are doing with AI-SDR is pretty crap, and it's mostly a race to the"
+  },
+  {
+    "start": 115.04,
+    "duration": 6.48,
+    "text": "bottom, because you're always going to get a short-term pop. If you just send out 10,000"
+  },
+  {
+    "start": 121.52,
+    "duration": 6.32,
+    "text": "emails to your market, and it's slightly personalized, you will get some return. You'll"
+  },
+  {
+    "start": 127.84,
+    "duration": 4.4,
+    "text": "get some opportunity return on that, because there's just latent demand in your market. They"
+  },
+  {
+    "start": 132.24,
+    "duration": 5.2,
+    "text": "don't know who you are, and so there's certainly some sort of return. But for the most part,"
+  },
+  {
+    "start": 137.52,
+    "duration": 6.72,
+    "text": "the way that 95% of people are doing AI-SDR is not very sustainable. It's this big carpet bomb,"
+  },
+  {
+    "start": 144.24,
+    "duration": 6.16,
+    "text": "and then it very rapidly falls off, because your market isn't very compelled by that messaging,"
+  },
+  {
+    "start": 150.4,
+    "duration": 6.16,
+    "text": "and it's not very well done. But then there are people that are doing it incredibly well."
+  },
+  {
+    "start": 158.64,
+    "duration": 6.88,
+    "text": "I look at Jordan Crawford, and Florin Tutulia, these guys who have really nailed"
+  },
+  {
+    "start": 166.24,
+    "duration": 7.76,
+    "text": "how to do high-intent, very specific, tailored, high-quality personalization at scale,"
+  },
+  {
+    "start": 174.8,
+    "duration": 5.2,
+    "text": "and so it's possible. I think there's a lot to be learned there, but generally, I think the way"
+  },
+  {
+    "start": 180.0,
+    "duration": 5.92,
+    "text": "that people are doing it is not great. But I think it is going to be a part of our playbooks,"
+  },
+  {
+    "start": 185.92,
+    "duration": 5.6,
+    "text": "for the most part, as long as it is not just, hey, Kyle, I saw you went to Queens University,"
+  },
+  {
+    "start": 191.52,
+    "duration": 5.36,
+    "text": "and here's some crap that doesn't matter, and let me pitch my product now. I'm so sick of these"
+  },
+  {
+    "start": 196.88,
+    "duration": 8.96,
+    "text": "emails, and they have what I lovingly call bot breath, and I actually look down at those brands"
+  },
+  {
+    "start": 205.84,
+    "duration": 5.36,
+    "text": "that are just sending me generic AI messaging. I use Superhuman, so I mark them as spam right away,"
+  },
+  {
+    "start": 211.2,
+    "duration": 5.6,
+    "text": "and then I never see them again. So I think you have to be careful. I think that there's a"
+  },
+  {
+    "start": 216.8,
+    "duration": 4.96,
+    "text": "reputational and a brand risk there, and as an industry, we also need to be careful of just"
+  },
+  {
+    "start": 221.76,
+    "duration": 6.0,
+    "text": "torching the inbox, because eventually, Google and Microsoft will have to take preventative measures"
+  },
+  {
+    "start": 227.76,
+    "duration": 6.08,
+    "text": "so that they can protect the inbox of their users if you're just getting overwhelmed. Again, I use"
+  },
+  {
+    "start": 233.84,
+    "duration": 5.52,
+    "text": "Superhuman, so I don't see any of it, but I go into my other inbox split, and it's a war zone."
+  },
+  {
+    "start": 239.36,
+    "duration": 5.36,
+    "text": "It's crazy. So if you're not using a tool like that, I don't know how you would ever navigate"
+  },
+  {
+    "start": 244.72,
+    "duration": 6.56,
+    "text": "your inbox. Actually, you mentioned Jordan Crawford and Florian also about the people using"
+  },
+  {
+    "start": 251.28,
+    "duration": 5.52,
+    "text": "AI the right way for Collab Twitch. I know also pretty big SDRs are also using it. So you have"
+  },
+  {
+    "start": 256.8,
+    "duration": 6.8,
+    "text": "Rippling. They have like four tier two and tier three accounts. They have Mac SDRs, and they have"
+  },
+  {
+    "start": 263.6,
+    "duration": 5.2,
+    "text": "AI for those using Clay to write the message for those Mac SDRs. For tier two and tier three accounts,"
+  },
+  {
+    "start": 268.8,
+    "duration": 5.36,
+    "text": "they use AI to write messages and to do it, I think, the same way as Jordan and Florian are"
+  },
+  {
+    "start": 274.16,
+    "duration": 3.36,
+    "text": "doing it. But just for tier two and tier three accounts, and for tier one accounts, they still have"
+  },
+  {
+    "start": 277.52,
+    "duration": 4.96,
+    "text": "account-based SDRs to focus on those accounts. Yeah, Ramp's doing some cool stuff there too."
+  },
+  {
+    "start": 284.0,
+    "duration": 3.2,
+    "text": "Interviewed their head of business systems for my podcast yesterday."
+  },
+  {
+    "start": 288.56,
+    "duration": 3.76,
+    "text": "Really interesting stuff. Yeah, if you want to talk AI, they're way ahead of where we are. They're"
+  },
+  {
+    "start": 292.32,
+    "duration": 6.24,
+    "text": "doing some cool stuff. I know they had G, I think, Guillaume Cavan, also. He was also doing"
+  },
+  {
+    "start": 298.56,
+    "duration": 6.56,
+    "text": "cool stuff with Ramp. Yeah, there's certainly some bright spots with Outbound. This is just"
+  },
+  {
+    "start": 305.12,
+    "duration": 5.04,
+    "text": "another form of growth marketing. This is what growth marketing used to be. Build a list,"
+  },
+  {
+    "start": 310.16,
+    "duration": 6.08,
+    "text": "personalize with dynamic fields, and send out a bunch of emails. That's how a lot of growth"
+  },
+  {
+    "start": 316.24,
+    "duration": 5.52,
+    "text": "marketing was done when I first got into tech over a decade ago. And so we're just coming back"
+  },
+  {
+    "start": 321.76,
+    "duration": 5.6,
+    "text": "to that. But now that the tools are so broadly available, so much of it is being done so poorly"
+  },
+  {
+    "start": 327.68,
+    "duration": 5.92,
+    "text": "that I think we all have a risk of response rates and open rates going to zero. But there's a place"
+  },
+  {
+    "start": 333.6,
+    "duration": 7.2,
+    "text": "to it, but you just have to be really choiceful about it. Not get captured by the sugar rush"
+  },
+  {
+    "start": 340.8,
+    "duration": 4.96,
+    "text": "of fun party tricks that have a short-term pop, and really thinking systematically about"
+  },
+  {
+    "start": 345.76,
+    "duration": 6.32,
+    "text": "the enrichment and the list segmentation and specificity around the personalization that is"
+  },
+  {
+    "start": 352.08,
+    "duration": 4.32,
+    "text": "actually highly impactful. And you need a thinker like Jordan to be able to do it."
+  },
+  {
+    "start": 356.4,
+    "duration": 8.08,
+    "text": "His prompt chain is 86 prompts to go from account, finding individuals, learning about them,"
+  },
+  {
+    "start": 364.48,
+    "duration": 6.24,
+    "text": "creating messaging to email sent. He did one for owner because we're buddies. And so he sent me,"
+  },
+  {
+    "start": 370.72,
+    "duration": 3.76,
+    "text": "he's like, hey, I ran you guys through it. What do you think of this email? It was really good."
+  },
+  {
+    "start": 374.48,
+    "duration": 5.12,
+    "text": "I was like, yeah, I would totally send that. And so you can do it well, but I think that's"
+  },
+  {
+    "start": 379.6,
+    "duration": 6.48,
+    "text": "the exception, not the norm right now. Now I'm curious to know how you think about AI for owner,"
+  },
+  {
+    "start": 386.08,
+    "duration": 6.48,
+    "text": "because I know, I think your billiard team is focused mainly on the phone. So they do 95% of."
+  },
+  {
+    "start": 392.56,
+    "duration": 5.92,
+    "text": "Yeah, like 90% phone. 90% phone. So how do you think about AI for them?"
+  },
+  {
+    "start": 400.16,
+    "duration": 5.76,
+    "text": "So when I was first thinking about where we wanted to apply AI, you have to look at the"
+  },
+  {
+    "start": 405.92,
+    "duration": 6.48,
+    "text": "sort of capabilities of the tooling. And I think for me, it was more clear once you start learning"
+  },
+  {
+    "start": 412.4,
+    "duration": 5.52,
+    "text": "about how LLMs work, it was, it was really clear that internal use cases were going to be a lot"
+  },
+  {
+    "start": 417.92,
+    "duration": 7.92,
+    "text": "more powerful because you can pattern match quite easily. You can do like fill in the blanks type"
+  },
+  {
+    "start": 425.84,
+    "duration": 6.8,
+    "text": "work, like the, the sort of GPT, you can call it like foreign onwards threes to some extent"
+  },
+  {
+    "start": 432.64,
+    "duration": 5.68,
+    "text": "was, you know, the world's hardest working intern, like whatever you were doing with your offshore"
+  },
+  {
+    "start": 438.32,
+    "duration": 3.68,
+    "text": "list building, you could basically have done with a, with a model."
+  },
+  {
+    "start": 442.0,
+    "duration": 6.56,
+    "text": "And so one of our first big applications was with momentum. So basically it's like AI powered"
+  },
+  {
+    "start": 448.56,
+    "duration": 6.72,
+    "text": "CRM fill. So it takes a cold call and demo, and we actually have post-sale transcripts"
+  },
+  {
+    "start": 455.28,
+    "duration": 3.92,
+    "text": "all get pulled in. We have a bunch of custom prompts that run across those transcripts,"
+  },
+  {
+    "start": 459.2,
+    "duration": 4.72,
+    "text": "and then it fills in all of the information for the rep or the onboarding specialist in"
+  },
+  {
+    "start": 463.92,
+    "duration": 5.44,
+    "text": "Salesforce across fields. So it can, we'll run a prompt and this one goes into an account field,"
+  },
+  {
+    "start": 469.36,
+    "duration": 4.72,
+    "text": "an opportunity field, a case field. And that, you know, really accelerated the reps. And then"
+  },
+  {
+    "start": 474.08,
+    "duration": 5.76,
+    "text": "we also built a bunch of like intelligence layer on top of it. So if certain things are happening"
+  },
+  {
+    "start": 479.84,
+    "duration": 4.4,
+    "text": "on a call that we don't want to have happen, we can flag that to a manager with an alert"
+  },
+  {
+    "start": 484.24,
+    "duration": 5.44,
+    "text": "because the LLM is pulling that out of the call. So that was a big, big use case. And honestly,"
+  },
+  {
+    "start": 489.68,
+    "duration": 6.48,
+    "text": "like tons of what we do AI wise is momentum driven because I could just do whatever I want in there."
+  },
+  {
+    "start": 496.16,
+    "duration": 4.16,
+    "text": "I can, I can, I can run a prompt across all the customer interaction and then have it"
+  },
+  {
+    "start": 500.32,
+    "duration": 3.28,
+    "text": "right into Salesforce or Slack. And so that really becomes the engine for"
+  },
+  {
+    "start": 504.16,
+    "duration": 6.48,
+    "text": "a bunch of stuff like spiffs. Like I want to run a spiff. We did some really cool research and I"
+  },
+  {
+    "start": 510.64,
+    "duration": 5.2,
+    "text": "want the reps to use the research on calls. And so instead of having reps be like, I use the"
+  },
+  {
+    "start": 515.84,
+    "duration": 4.56,
+    "text": "research and like send the call to their manager to then like give them points in the spiff."
+  },
+  {
+    "start": 520.4,
+    "duration": 5.04,
+    "text": "You can just write a prompt to say, and I'm injecting the entire research document into"
+  },
+  {
+    "start": 525.44,
+    "duration": 5.68,
+    "text": "the context window for the prompt. You're like, did the rep mention anything from this, like from"
+  },
+  {
+    "start": 531.12,
+    "duration": 4.4,
+    "text": "this document on the call? And then it'll just like ping the channel once that happens. And so"
+  },
+  {
+    "start": 535.6,
+    "duration": 5.52,
+    "text": "like that now becomes how we run spiffs. So anything that's like internal and wrote, like,"
+  },
+  {
+    "start": 541.12,
+    "duration": 8.16,
+    "text": "you know, just, just like basic sort of arduous task. I try to do with momentum and we've built"
+  },
+  {
+    "start": 549.28,
+    "duration": 6.48,
+    "text": "some other stuff too. Like we've got ML models for lead scoring that feeds our rotating system,"
+  },
+  {
+    "start": 555.76,
+    "duration": 6.96,
+    "text": "which we've talked about in the past. And then the one that is really like we've been working"
+  },
+  {
+    "start": 562.72,
+    "duration": 5.12,
+    "text": "on for a while, but like, as we've hired in the last couple of months has really been like a cool"
+  },
+  {
+    "start": 567.84,
+    "duration": 5.76,
+    "text": "breakthrough is what we're doing with Avara, which is an AI simulator. And I looked at all of the AI"
+  },
+  {
+    "start": 573.6,
+    "duration": 5.2,
+    "text": "Sims, the hyper balance of the world. And we ended up using Avara because it was like many things I"
+  },
+  {
+    "start": 578.8,
+    "duration": 5.36,
+    "text": "choose. It was more customizable. Like I could really put my fingerprint on how we wanted to"
+  },
+  {
+    "start": 584.16,
+    "duration": 6.4,
+    "text": "operate. So we've uploaded our sales methodology, our scripts, demos, demos, like highly scored"
+  },
+  {
+    "start": 590.56,
+    "duration": 5.04,
+    "text": "demos from our hall of fame, fame library. We bought, we dump all of that in, and then a bunch"
+  },
+  {
+    "start": 595.6,
+    "duration": 8.64,
+    "text": "of other transcripts so that the SIM can learn how to be our customer. And like, it's freaky good."
+  },
+  {
+    "start": 604.24,
+    "duration": 4.96,
+    "text": "Like it's you like go into the SIM and it's actually like for a second, it's hard to do it"
+  },
+  {
+    "start": 609.2,
+    "duration": 8.96,
+    "text": "because you're just like, so drawn in by how like realistic the SIM acts like the customer. And so,"
+  },
+  {
+    "start": 618.56,
+    "duration": 3.84,
+    "text": "but because we've hired a bunch of people and promoted a bunch of people into new roles,"
+  },
+  {
+    "start": 622.4,
+    "duration": 7.28,
+    "text": "we've gotten to see it like really come to life the last few months. And so I had a cohort of new"
+  },
+  {
+    "start": 629.68,
+    "duration": 8.48,
+    "text": "AE start, GN1, they were BDR promotes. All of them put in like five, six, seven hours of SIMs as they"
+  },
+  {
+    "start": 638.16,
+    "duration": 5.28,
+    "text": "were practicing the demo and doing all this stuff. And both of them are going to smash their quota."
+  },
+  {
+    "start": 643.44,
+    "duration": 6.64,
+    "text": "And one of them is going to, is going to hit his quota faster than ever, any BDR promote ever before"
+  },
+  {
+    "start": 650.08,
+    "duration": 4.56,
+    "text": "by like a pretty long shot. I think the, I think the second guy would have set the record, but"
+  },
+  {
+    "start": 654.64,
+    "duration": 4.4,
+    "text": "Tyler may have to it. I think some of that is our enablement just in general is getting better,"
+  },
+  {
+    "start": 659.04,
+    "duration": 5.92,
+    "text": "but certainly like the SIM being able to do SIMs, same thing with our SDR team, like new SDRs"
+  },
+  {
+    "start": 664.96,
+    "duration": 5.68,
+    "text": "going and running like a hundred SIMs on an inbound cold call or different scenarios."
+  },
+  {
+    "start": 670.64,
+    "duration": 5.6,
+    "text": "Like in all of these roles, people are setting records for first and second month, sourced and"
+  },
+  {
+    "start": 676.24,
+    "duration": 6.24,
+    "text": "closed and speed to quota hit. And so Auvara has been one that we're pretty excited about."
+  },
+  {
+    "start": 682.48,
+    "duration": 5.12,
+    "text": "And we're now building SIMs for post-sale and support and like all, like a bunch of other"
+  },
+  {
+    "start": 687.6,
+    "duration": 4.72,
+    "text": "use cases now, which is, which is fun. For this use case specifically, I really like this one"
+  },
+  {
+    "start": 692.32,
+    "duration": 6.4,
+    "text": "because most of the SIMs I know, they don't practice this the same way. They do maybe"
+  },
+  {
+    "start": 699.28,
+    "duration": 4.72,
+    "text": "a few role plays and that's pretty much it. And I think AI is a pretty good solution for that"
+  },
+  {
+    "start": 704.0,
+    "duration": 4.72,
+    "text": "because one, you don't need to be with your manager on the call to role play, same with your"
+  },
+  {
+    "start": 708.72,
+    "duration": 4.96,
+    "text": "colleagues. If they are not available, you can't role play. So I think it's a really great way to"
+  },
+  {
+    "start": 714.24,
+    "duration": 6.4,
+    "text": "practice because it's not just you practicing alone. I don't know if your team is not committing,"
+  },
+  {
+    "start": 720.64,
+    "duration": 4.64,
+    "text": "but if you are in your car or in the subway, you can practice on your own, but here you are"
+  },
+  {
+    "start": 725.28,
+    "duration": 5.12,
+    "text": "practicing with a real situation that's, that's already trained with your customers or prospects."
+  },
+  {
+    "start": 730.4,
+    "duration": 7.6,
+    "text": "So, which is make the simulation way better and they're more prepared for the real situation."
+  },
+  {
+    "start": 738.64,
+    "duration": 5.04,
+    "text": "And interestingly enough, the SIM is a better mock call partner than the managers."
+  },
+  {
+    "start": 744.72,
+    "duration": 2.16,
+    "text": "Okay. Well, tell me more about that."
+  },
+  {
+    "start": 747.44,
+    "duration": 6.72,
+    "text": "Well, so it's Pareto principle, really like 80% of sales calls are going to fit into like a small"
+  },
+  {
+    "start": 754.16,
+    "duration": 5.84,
+    "text": "bucket of outcomes. They're either going to be interested, but have questions or try to brush"
+  },
+  {
+    "start": 760.0,
+    "duration": 4.4,
+    "text": "you off because they don't have time, or they're going to say that they like their current solution."
+  },
+  {
+    "start": 765.04,
+    "duration": 5.6,
+    "text": "But, you know, there's like a hundred different ways that a cold call can go, but 80% of the time"
+  },
+  {
+    "start": 770.64,
+    "duration": 8.4,
+    "text": "it's, it's in 20% of these outcomes, even less. And so the, like what's an LLM good at it's pattern,"
+  },
+  {
+    "start": 779.04,
+    "duration": 5.92,
+    "text": "pattern recognition and replication. And so we, you dump in a whole bunch of these call scenarios"
+  },
+  {
+    "start": 785.68,
+    "duration": 5.52,
+    "text": "from all sorts of cold calls and it replicates the, the, the prospect really, really well."
+  },
+  {
+    "start": 792.08,
+    "duration": 3.36,
+    "text": "And it's just going to do that better than a manager. Like a manager would have to put in"
+  },
+  {
+    "start": 795.44,
+    "duration": 8.48,
+    "text": "a lot of practice to be like a really great role play actor. And so we've, I find, I find the SIM"
+  },
+  {
+    "start": 803.92,
+    "duration": 4.32,
+    "text": "is like just quite high quality. And the other thing that we were surprised by is like,"
+  },
+  {
+    "start": 809.44,
+    "duration": 5.12,
+    "text": "I generally find reps, they'll do role plays with you. Like they'll do it, but like nobody's excited"
+  },
+  {
+    "start": 814.56,
+    "duration": 8.08,
+    "text": "about it. And cause it's like a little awkward and people avoid it. And, and, but because it's an AI,"
+  },
+  {
+    "start": 822.64,
+    "duration": 4.24,
+    "text": "they can just sit there and there's no judgment. They're not worried about like looking silly"
+  },
+  {
+    "start": 826.88,
+    "duration": 4.96,
+    "text": "or like not making enough progress. Like they can just do it at their own pace without"
+  },
+  {
+    "start": 832.56,
+    "duration": 6.48,
+    "text": "you know, without like judgment or concern. And so they just end up in there or like something"
+  },
+  {
+    "start": 839.04,
+    "duration": 4.64,
+    "text": "happens. What you see sometimes too, is like something happens on a call and then they go in"
+  },
+  {
+    "start": 843.68,
+    "duration": 6.32,
+    "text": "cause there's the, the SIMs are all in chunks. And so you can do an end of call SIM. You could"
+  },
+  {
+    "start": 850.0,
+    "duration": 5.28,
+    "text": "do like a ask for next steps SIM. So if you're like, Oh man, I didn't ask for the meeting."
+  },
+  {
+    "start": 855.28,
+    "duration": 6.8,
+    "text": "I didn't confirm. And then you can go just go rip like 10 end of call SIMs instead of like"
+  },
+  {
+    "start": 862.8,
+    "duration": 5.68,
+    "text": "only getting practice, you know, after 15 more calls. So you can get better really fast. And,"
+  },
+  {
+    "start": 868.48,
+    "duration": 5.76,
+    "text": "and, and that experience is much more alive and feedback rich. So the learning is stronger."
+  },
+  {
+    "start": 874.24,
+    "duration": 7.04,
+    "text": "So you are talking about practicing with further simulation, but can you, this Avara specifically,"
+  },
+  {
+    "start": 881.28,
+    "duration": 4.48,
+    "text": "can Avara give feedback to the rep saying what they should improve or so? Do you have like a"
+  },
+  {
+    "start": 885.76,
+    "duration": 6.48,
+    "text": "shortcut? It does. They've made a bunch of improvements. I haven't been in there in like"
+  },
+  {
+    "start": 892.24,
+    "duration": 2.88,
+    "text": "a couple months. They've made a bunch of improvements to it. One of the piece of"
+  },
+  {
+    "start": 895.12,
+    "duration": 4.8,
+    "text": "product feedback I gave was just give me feedback, just give them feedback on one thing. Like just,"
+  },
+  {
+    "start": 899.92,
+    "duration": 6.24,
+    "text": "just have them repeat just, just one thing at a time. And that's the reason I, we chose to"
+  },
+  {
+    "start": 906.16,
+    "duration": 6.56,
+    "text": "partner with them versus like Hyperbound who was actually more, was, was a more company at the time,"
+  },
+  {
+    "start": 913.36,
+    "duration": 7.92,
+    "text": "but the, the ability for Avara to like flex into how I think great coaching should be done was,"
+  },
+  {
+    "start": 921.28,
+    "duration": 4.0,
+    "text": "was the reason. And like, they've been like iterating on roadmaps so fast, which has been"
+  },
+  {
+    "start": 925.28,
+    "duration": 3.92,
+    "text": "fun. That's, I ended up partnering with a lot of early stage companies and like, that's the thing"
+  },
+  {
+    "start": 929.2,
+    "duration": 5.6,
+    "text": "I'm looking for is like, how fast can you move with me? So for AI, for Abound specifically,"
+  },
+  {
+    "start": 934.8,
+    "duration": 4.72,
+    "text": "you mentioned enablement, unbinding. You are talking also about moment, using momentum to"
+  },
+  {
+    "start": 939.52,
+    "duration": 5.84,
+    "text": "extract from the transcript of your course to update your CRM, for example. So same question"
+  },
+  {
+    "start": 945.36,
+    "duration": 6.4,
+    "text": "for SCoCAD. Now, when your reps are doing real calls with real Prospector customers,"
+  },
+  {
+    "start": 951.76,
+    "duration": 3.92,
+    "text": "can momentum extract the transcript and score the rep on the call too?"
+  },
+  {
+    "start": 956.4,
+    "duration": 6.88,
+    "text": "We haven't done scoring yet. We have one mechanism to see how close they're following script."
+  },
+  {
+    "start": 964.08,
+    "duration": 5.92,
+    "text": "Okay. But I think it would be possible. I haven't endeavored down this path yet because I want my"
+  },
+  {
+    "start": 970.0,
+    "duration": 5.04,
+    "text": "managers to be like in there live, listening to calls and really like doing the feedback,"
+  },
+  {
+    "start": 975.04,
+    "duration": 5.6,
+    "text": "giving the, we had done this previously with, with replays, which was quite good."
+  },
+  {
+    "start": 980.64,
+    "duration": 4.72,
+    "text": "They ended up getting bought by somebody else, but I know it's possible. And I think,"
+  },
+  {
+    "start": 985.36,
+    "duration": 3.76,
+    "text": "especially as LLMs have gotten so much better in the last little while, it should be possible."
+  },
+  {
+    "start": 989.12,
+    "duration": 6.48,
+    "text": "I just want to be able to like finally tune that for how I teach sales. This, this is my"
+  },
+  {
+    "start": 996.16,
+    "duration": 4.88,
+    "text": "issue with like a bunch of, bunch of tools in this market. You know, like the AI co-pilots,"
+  },
+  {
+    "start": 1001.04,
+    "duration": 4.08,
+    "text": "it's like, we're going to tell you what to do next. I'm like, based on what? Oh, based on Medic."
+  },
+  {
+    "start": 1005.12,
+    "duration": 5.92,
+    "text": "I'm like, well, like we're SMB and I want to do it in this way. And I have like this framework"
+  },
+  {
+    "start": 1011.04,
+    "duration": 5.12,
+    "text": "that I teach. And so I want to be able to take my own documentation and training and have,"
+  },
+  {
+    "start": 1016.16,
+    "duration": 3.04,
+    "text": "have the model do it. And so we're, we're going to get there pretty soon."
+  },
+  {
+    "start": 1020.48,
+    "duration": 2.16,
+    "text": "And the last one you mentioned is gamification also,"
+  },
+  {
+    "start": 1022.64,
+    "duration": 4.32,
+    "text": "because you are talking about Spiffs. So you can track if your reps are doing the things."
+  },
+  {
+    "start": 1029.52,
+    "duration": 4.4,
+    "text": "Do you have any other ways you use AI for outbound? I know you use AI for a lot of things,"
+  },
+  {
+    "start": 1033.92,
+    "duration": 1.68,
+    "text": "but for outbound specifically?"
+  },
+  {
+    "start": 1035.6,
+    "duration": 5.2,
+    "text": "Yeah. Well, the lead scoring, which we talked about last time, those are, those are both ML"
+  },
+  {
+    "start": 1040.8,
+    "duration": 3.68,
+    "text": "models that power scoring for outbound. That's it. I think right now."
+  },
+  {
+    "start": 1048.4,
+    "duration": 4.48,
+    "text": "Yeah. And I think I, on my notes, I have alert, you already mentioned that the alerts for managers."
+  },
+  {
+    "start": 1052.88,
+    "duration": 4.48,
+    "text": "So what do you track actually for outbound? For example, let's say for cold calls, what do you"
+  },
+  {
+    "start": 1057.36,
+    "duration": 2.24,
+    "text": "track? When do you send them something to your managers?"
+  },
+  {
+    "start": 1061.2,
+    "duration": 2.48,
+    "text": "Cold call adherence would be one of the big ones."
+  },
+  {
+    "start": 1064.0,
+    "duration": 5.92,
+    "text": "The word, like there's certain words that tell us if this is like not a good fit or the timing is"
+  },
+  {
+    "start": 1069.92,
+    "duration": 9.12,
+    "text": "off. So there's alerts that are set up that like if BDR books a call, but some of these keywords"
+  },
+  {
+    "start": 1079.04,
+    "duration": 5.52,
+    "text": "have been mentioned, it'll get flagged. And it's like, Hey, we shouldn't, like you, you, the, the,"
+  },
+  {
+    "start": 1084.56,
+    "duration": 5.12,
+    "text": "that's an unqualified account by some, by some criteria that you can't know digitally, but it"
+  },
+  {
+    "start": 1089.68,
+    "duration": 4.32,
+    "text": "can come up on a call. And sometimes the BDR just like books, the meeting anyways, they're not"
+  },
+  {
+    "start": 1094.0,
+    "duration": 4.96,
+    "text": "thinking or they don't remember, but then this is like the assist. So there's a few of those as well."
+  },
+  {
+    "start": 1099.84,
+    "duration": 5.52,
+    "text": "It's like a, they're like guardrails, just like kill bumpers down the bowling lane to keep people,"
+  },
+  {
+    "start": 1105.92,
+    "duration": 2.8,
+    "text": "keep people as on framework as possible."
+  },
+  {
+    "start": 1109.92,
+    "duration": 5.44,
+    "text": "Gotcha. Now I want to focus more on annual planning and I know that"
+  },
+  {
+    "start": 1115.92,
+    "duration": 6.0,
+    "text": "Now I want to focus more on annual planning and I know that's something you love to talk about."
+  },
+  {
+    "start": 1121.92,
+    "duration": 4.72,
+    "text": "So we talk a lot about outbound and I know outbound's pretty efficient for you. So how do you"
+  },
+  {
+    "start": 1126.64,
+    "duration": 7.36,
+    "text": "think about outbound now in your annual planning in terms of headcount? Because yes, the, the old"
+  },
+  {
+    "start": 1134.0,
+    "duration": 5.12,
+    "text": "model is obviously efficient to scale is to add more people and you can scale with that. I know"
+  },
+  {
+    "start": 1139.12,
+    "duration": 4.8,
+    "text": "that's not the way you're thinking about it. I know you, if you're hiring a new BDR, you already"
+  },
+  {
+    "start": 1143.92,
+    "duration": 6.24,
+    "text": "know more or less what they can produce. So how do you think about outbound in 2025 and,"
+  },
+  {
+    "start": 1150.8,
+    "duration": 6.48,
+    "text": "and how does it fit in your annual planning? Yeah. So let me just take a step back and talk"
+  },
+  {
+    "start": 1157.28,
+    "duration": 5.12,
+    "text": "about annual planning, annual planning, like more generally, and then, and then bring me back to the,"
+  },
+  {
+    "start": 1163.36,
+    "duration": 5.76,
+    "text": "some of the outbound specific things. So for great annual planning, you need to do two things."
+  },
+  {
+    "start": 1170.0,
+    "duration": 6.08,
+    "text": "You need to think top down and bottoms up. So we have objectives as a company, you know,"
+  },
+  {
+    "start": 1176.08,
+    "duration": 5.52,
+    "text": "we want to more than double in 2025. And so that's the number. And then you just,"
+  },
+  {
+    "start": 1181.6,
+    "duration": 5.52,
+    "text": "you can press that down through your model and then you get, you get a framework that tells you"
+  },
+  {
+    "start": 1187.12,
+    "duration": 4.32,
+    "text": "how many reps you need, how many leads you need. And that's great. And that's what a lot of startups"
+  },
+  {
+    "start": 1191.44,
+    "duration": 4.88,
+    "text": "do. And then they give it to their VP of sales and they say, here's your model. And like all the"
+  },
+  {
+    "start": 1196.32,
+    "duration": 5.2,
+    "text": "assumptions are crazy. You're like, well, this means every rep needs to close triple as many"
+  },
+  {
+    "start": 1201.52,
+    "duration": 6.08,
+    "text": "deals every quarter as they do now. And so like that model can be, can make not make not a lot"
+  },
+  {
+    "start": 1207.6,
+    "duration": 4.96,
+    "text": "of sense. And then you need to go, the other version is bottoms up. What are my, what are my"
+  },
+  {
+    "start": 1213.12,
+    "duration": 4.32,
+    "text": "inputs and conversion rates? Because what we do is basically it's a manufacturing line."
+  },
+  {
+    "start": 1218.0,
+    "duration": 5.76,
+    "text": "Inputs go in one side, they go through a series of machines, conversion, like conversion rate"
+  },
+  {
+    "start": 1223.84,
+    "duration": 5.52,
+    "text": "points, the cold call, the demo, the followup call, a proposal, and then some sort of outcome"
+  },
+  {
+    "start": 1229.36,
+    "duration": 7.52,
+    "text": "comes out the back. And so you take your current model, your current inputs could be for outbound."
+  },
+  {
+    "start": 1236.88,
+    "duration": 5.12,
+    "text": "It's like number of leads added to cadence activities, call versus email. Your inbound"
+  },
+  {
+    "start": 1242.0,
+    "duration": 3.92,
+    "text": "volume is in there and you know what your conversion rates are today. And we say, okay,"
+  },
+  {
+    "start": 1245.92,
+    "duration": 6.96,
+    "text": "we can scale this up by, by 70% this year by adding headcount before things start breaking."
+  },
+  {
+    "start": 1252.88,
+    "duration": 5.76,
+    "text": "And that gives me this number. And then you're triangulating between these two things and trying"
+  },
+  {
+    "start": 1258.64,
+    "duration": 5.84,
+    "text": "to identify, okay, does my bottoms up model, which, which is built on today's current assumptions,"
+  },
+  {
+    "start": 1264.48,
+    "duration": 5.84,
+    "text": "plus some sort of feasible improvement in outcomes. Okay. I think we can move demo to"
+  },
+  {
+    "start": 1270.32,
+    "duration": 5.12,
+    "text": "show rate or call to connect rate by X or Y. And then, and then you're running that through"
+  },
+  {
+    "start": 1276.16,
+    "duration": 3.92,
+    "text": "based on the projects you think you can run. And then you're, you're taking these two,"
+  },
+  {
+    "start": 1280.64,
+    "duration": 5.84,
+    "text": "two angles, like people call it the W framework. Like you can start here, then you start, then"
+  },
+  {
+    "start": 1286.48,
+    "duration": 4.72,
+    "text": "you're, then you're taking a bottoms up and then you're bringing them together. And, and, or I call"
+  },
+  {
+    "start": 1291.2,
+    "duration": 4.96,
+    "text": "it triangulation. And so you're triangulating, like what's the Delta between where we want to"
+  },
+  {
+    "start": 1296.16,
+    "duration": 4.64,
+    "text": "be as a company and what we think is like really possible. And then that forces you to now problem"
+  },
+  {
+    "start": 1300.8,
+    "duration": 6.24,
+    "text": "solve. You're like, and, and inspect the funnel. So now I'll talk generally and then we'll talk"
+  },
+  {
+    "start": 1307.04,
+    "duration": 6.64,
+    "text": "outbound, but then you have to inspect the entire revenue funnel to figure out where your biggest"
+  },
+  {
+    "start": 1313.68,
+    "duration": 6.32,
+    "text": "levers are. And so my decision-making framework there is I'm, I'm looking for, so you have to"
+  },
+  {
+    "start": 1320.0,
+    "duration": 4.56,
+    "text": "look at all of your potentials. It's four P's and this is borrowed from Annie Duke. There's four"
+  },
+  {
+    "start": 1324.56,
+    "duration": 5.04,
+    "text": "P's. I look at all of my potentials. We'll just talk outbound specific. Actually, it's easier."
+  },
+  {
+    "start": 1329.6,
+    "duration": 4.88,
+    "text": "I look at all of the potential things I can do. I can just tell people to make more calls or I can"
+  },
+  {
+    "start": 1334.48,
+    "duration": 4.96,
+    "text": "improve the data that they've got. And I can run this training on, on objection handling or"
+  },
+  {
+    "start": 1340.24,
+    "duration": 3.44,
+    "text": "openers. What are all my potentials? What's the payoff if those things work?"
+  },
+  {
+    "start": 1344.32,
+    "duration": 6.0,
+    "text": "So if, if like, what do I reasonably think I can do with win rates? If I do this like massive"
+  },
+  {
+    "start": 1350.32,
+    "duration": 4.16,
+    "text": "training program and I get the outcome, okay, that's the, that's the payoff. Then what's the"
+  },
+  {
+    "start": 1354.48,
+    "duration": 4.48,
+    "text": "probability of that thing working? Is this a coin flip? It's like, this might work when it might"
+  },
+  {
+    "start": 1358.96,
+    "duration": 6.56,
+    "text": "totally not. This is the probabilistic thinking that, that Annie Duke preaches in, in thinking"
+  },
+  {
+    "start": 1365.52,
+    "duration": 5.68,
+    "text": "in bets and how to decide. Two of her really good books. And then I think about perspiration. That's"
+  },
+  {
+    "start": 1371.2,
+    "duration": 7.92,
+    "text": "the fourth P. How much effort is in these projects? And so I now have a, I look at my full funnel"
+  },
+  {
+    "start": 1379.68,
+    "duration": 4.64,
+    "text": "and usually it jumps out at the page of you. Like if you are worth your salt as a revenue leader,"
+  },
+  {
+    "start": 1384.32,
+    "duration": 3.84,
+    "text": "like you can look at this and you sort of know from the anecdotes of your sales team,"
+  },
+  {
+    "start": 1388.16,
+    "duration": 6.08,
+    "text": "like where you have problems and you'd be like, okay, it's, it's AQL to book rate. You know,"
+  },
+  {
+    "start": 1394.24,
+    "duration": 5.52,
+    "text": "it's only 40% but like we're only booking 40% of people who say they want to talk to us."
+  },
+  {
+    "start": 1399.76,
+    "duration": 4.88,
+    "text": "Like if we go fix that because it's at the top of the funnel, the volumes change drastically the"
+  },
+  {
+    "start": 1404.64,
+    "duration": 4.16,
+    "text": "rest of the way through. And then it's like, what are my potentials? What's the probability of it"
+  },
+  {
+    "start": 1408.8,
+    "duration": 4.16,
+    "text": "working out? And what's the payoff? And then you look at all of the projects across that,"
+  },
+  {
+    "start": 1412.96,
+    "duration": 3.84,
+    "text": "that decision-making framework, probability payoff, perspiration,"
+  },
+  {
+    "start": 1417.36,
+    "duration": 3.6,
+    "text": "and then your stack ranking, what you want to, what you want to work on. And it forces you to"
+  },
+  {
+    "start": 1420.96,
+    "duration": 6.96,
+    "text": "think it's like, okay, you know, I'm, I'm now improving conversion rates here and inputs here,"
+  },
+  {
+    "start": 1427.92,
+    "duration": 5.68,
+    "text": "but like I still have a Delta in my model. And so, so now I'm forced to think through, okay, well"
+  },
+  {
+    "start": 1433.6,
+    "duration": 5.44,
+    "text": "I need a new channel. So do we need to stand up partnerships in reseller? Do we need to think"
+  },
+  {
+    "start": 1439.04,
+    "duration": 6.64,
+    "text": "about like a customer referral program? Like the, the, the, that triangulation forces you to now"
+  },
+  {
+    "start": 1446.24,
+    "duration": 4.48,
+    "text": "appreciate the reality of, of the business and then start problem solving from there."
+  },
+  {
+    "start": 1450.72,
+    "duration": 4.8,
+    "text": "And same thing happens in outbound. You're like, we have the budget to do this, but the company"
+  },
+  {
+    "start": 1455.52,
+    "duration": 6.56,
+    "text": "wants 40% more than that. And so, so like, how are we, how are we solutioning? And that's ultimately"
+  },
+  {
+    "start": 1462.08,
+    "duration": 4.32,
+    "text": "what you get paid for. Like that's, that's what we get paid for as outbound leaders and as revenue"
+  },
+  {
+    "start": 1466.4,
+    "duration": 5.04,
+    "text": "leaders is to go like solve that problem. And you're looking at innovative technologies. Maybe"
+  },
+  {
+    "start": 1471.44,
+    "duration": 6.24,
+    "text": "I'm going to carpet bomb my, my market with like crappy messaging through an AI STR or go hire"
+  },
+  {
+    "start": 1477.68,
+    "duration": 4.72,
+    "text": "Jordan and just have him do it for you. It's, it, you, then you're, you're problem solving,"
+  },
+  {
+    "start": 1482.4,
+    "duration": 5.28,
+    "text": "you're figuring it out and you can go. And could you give an example actually for outbound for,"
+  },
+  {
+    "start": 1487.68,
+    "duration": 4.56,
+    "text": "for this year for you, something you identify that should be fixed or improved maybe?"
+  },
+  {
+    "start": 1492.96,
+    "duration": 5.92,
+    "text": "Yeah. So we're thinking a lot about book to show rates right now because there's a bunch of cool"
+  },
+  {
+    "start": 1498.88,
+    "duration": 4.72,
+    "text": "stuff happening, but, and, and we've built some frameworks and playbooks, but I don't,"
+  },
+  {
+    "start": 1503.6,
+    "duration": 5.12,
+    "text": "I think the adherence is pretty spotty. And so book to show rate in out in BDR specifically"
+  },
+  {
+    "start": 1508.72,
+    "duration": 4.32,
+    "text": "is, is an area of opportunity. And so what that means is like your sell between and your"
+  },
+  {
+    "start": 1513.04,
+    "duration": 5.2,
+    "text": "confirmation playbook. So after you book a meeting, what are you sending to the prospect"
+  },
+  {
+    "start": 1518.24,
+    "duration": 4.48,
+    "text": "to keep them warm between today and tomorrow when the meeting happens or today in two days"
+  },
+  {
+    "start": 1522.72,
+    "duration": 4.72,
+    "text": "from now, when the meeting occurs, and then what is my playbook to confirm that meeting?"
+  },
+  {
+    "start": 1527.44,
+    "duration": 4.24,
+    "text": "And so some reps are hyper diligent and they do, they make the call four hours before,"
+  },
+  {
+    "start": 1531.68,
+    "duration": 3.68,
+    "text": "and then they send the text and at the meeting starts. And then they're like, they're like,"
+  },
+  {
+    "start": 1535.36,
+    "duration": 4.16,
+    "text": "right, right on top of it. And then others, not so much. So what do we need to do to drive"
+  },
+  {
+    "start": 1539.52,
+    "duration": 4.96,
+    "text": "a level of rigor? So every BDR can run that playbook perfectly every time."
+  },
+  {
+    "start": 1545.36,
+    "duration": 6.16,
+    "text": "And oftentimes for me, it's not about saying like, Hey, do this like, Hey, do this better."
+  },
+  {
+    "start": 1551.52,
+    "duration": 4.4,
+    "text": "Like I need you to need you to like get this right every time, because that's more difficult."
+  },
+  {
+    "start": 1555.92,
+    "duration": 4.4,
+    "text": "It's a difficult expectation and you're going to have some people just that can do it. But what"
+  },
+  {
+    "start": 1560.32,
+    "duration": 7.12,
+    "text": "are the, what are the systems and frameworks that I need to put around a rep to, to help them do"
+  },
+  {
+    "start": 1567.44,
+    "duration": 6.72,
+    "text": "this? Well, it's a, it's a reminder system. It's like prompting stuff in sales loft. It's like an"
+  },
+  {
+    "start": 1574.16,
+    "duration": 6.08,
+    "text": "intelligence layer so that, you know, we can get the data to say, okay, cause you can look at"
+  },
+  {
+    "start": 1580.8,
+    "duration": 8.08,
+    "text": "events and look at the events, the call event compared to the meeting event and look at by rep,"
+  },
+  {
+    "start": 1589.6,
+    "duration": 5.76,
+    "text": "how many activities are going into how many activities are within two hours of a meeting"
+  },
+  {
+    "start": 1595.36,
+    "duration": 5.92,
+    "text": "event happening. And then you could get the data to say, all right, our highest performing reps on"
+  },
+  {
+    "start": 1601.28,
+    "duration": 8.16,
+    "text": "book to show are the ones who have a density of more than three activities logs per account that"
+  },
+  {
+    "start": 1609.44,
+    "duration": 6.16,
+    "text": "they have a meeting within like three hours. And, and so like, what is that layer? We haven't built"
+  },
+  {
+    "start": 1615.6,
+    "duration": 6.0,
+    "text": "that yet. This is like sort of ideation, but then I can give that information to the rep. So they"
+  },
+  {
+    "start": 1621.6,
+    "duration": 4.88,
+    "text": "have visibility every day. And that feedback mechanism to be like, okay, I'm trying to get"
+  },
+  {
+    "start": 1626.48,
+    "duration": 4.88,
+    "text": "better at this thing. Here's my metric to move. And then you put it in their dashboard. So they"
+  },
+  {
+    "start": 1631.36,
+    "duration": 4.32,
+    "text": "see it every day. And then you're just, you're, it's like a drumbeat. We call it our secret,"
+  },
+  {
+    "start": 1635.68,
+    "duration": 6.24,
+    "text": "secret sauce is we sell to restaurants, but every rep has a secret sauce for the month."
+  },
+  {
+    "start": 1641.92,
+    "duration": 4.16,
+    "text": "And it's the one thing they're trying to get better at. It's the one thing that will most move the"
+  },
+  {
+    "start": 1646.08,
+    "duration": 5.92,
+    "text": "needle. And so like programmatically across the team, I think it's a book to demo and we're doing"
+  },
+  {
+    "start": 1652.0,
+    "duration": 4.64,
+    "text": "a book to show and we're doing a bunch of stuff, but then just craft, like we're just trying to"
+  },
+  {
+    "start": 1656.64,
+    "duration": 5.68,
+    "text": "get the craft of our team better all the time. And so my big focus on the managers have the last"
+  },
+  {
+    "start": 1662.96,
+    "duration": 4.72,
+    "text": "couple of months has been just like dialing in their coaching. So they're only coaching one"
+  },
+  {
+    "start": 1667.68,
+    "duration": 4.4,
+    "text": "thing at a time. The reps are getting good at identifying what they want their secret sauce to"
+  },
+  {
+    "start": 1672.08,
+    "duration": 4.32,
+    "text": "be. And then just like getting repetitions in the data on their secret sauce. So that,"
+  },
+  {
+    "start": 1676.4,
+    "duration": 4.72,
+    "text": "and that's been really helpful. And something you mentioned, that's interesting. So it's,"
+  },
+  {
+    "start": 1681.12,
+    "duration": 3.76,
+    "text": "I know you talk about the secret sauce, but for me, it's like, you are helping them creating"
+  },
+  {
+    "start": 1684.88,
+    "duration": 4.4,
+    "text": "your habit and being, you said on sales loft, you have, you can see it on sales loft. You can"
+  },
+  {
+    "start": 1689.28,
+    "duration": 6.16,
+    "text": "see it somewhere else. So it's, you, you are also here to help them build this habit. Yeah. And so"
+  },
+  {
+    "start": 1695.44,
+    "duration": 5.28,
+    "text": "most of this is just shamelessly stolen from James Clear and Atomic Habits. Like how do you form,"
+  },
+  {
+    "start": 1700.72,
+    "duration": 4.96,
+    "text": "how do you form a good habit? Yeah. Yeah. Yeah. Make it easy, make it visible, make it rewarding."
+  },
+  {
+    "start": 1706.24,
+    "duration": 4.72,
+    "text": "And, and so how do I, and it's, so it's environmental design. And so a lot of the time"
+  },
+  {
+    "start": 1710.96,
+    "duration": 5.6,
+    "text": "it's just about doing the things that gently nudge somebody towards doing something better."
+  },
+  {
+    "start": 1716.56,
+    "duration": 4.08,
+    "text": "It's called nudge theory from behavioral economics. There's a really good book by Richard"
+  },
+  {
+    "start": 1720.64,
+    "duration": 7.52,
+    "text": "Thaler called nudge. An example like of nudge theory is in England, they wanted more people to"
+  },
+  {
+    "start": 1728.88,
+    "duration": 7.44,
+    "text": "become Oregon donors. So on the form they changed, they used to say, check this box to become an"
+  },
+  {
+    "start": 1736.32,
+    "duration": 4.64,
+    "text": "Oregon donor. And now it's check this box to remove yourself as an Oregon donor. So you have"
+  },
+  {
+    "start": 1740.96,
+    "duration": 5.2,
+    "text": "the effortful action, the action that has friction, which is checking a box is to opt out."
+  },
+  {
+    "start": 1746.16,
+    "duration": 4.64,
+    "text": "This is a really simple one. Opt out versus opt in is going to, it's going to always drive a certain"
+  },
+  {
+    "start": 1750.8,
+    "duration": 6.64,
+    "text": "behavior. And that skyrocketed their opt in rates for Oregon donorship. And so you really have to"
+  },
+  {
+    "start": 1757.44,
+    "duration": 5.04,
+    "text": "think about the design of the digital environment you're giving to your teams and every piece of"
+  },
+  {
+    "start": 1762.48,
+    "duration": 6.96,
+    "text": "friction you put in the way of your rep doing the thing you want them to do is bad. And so how do"
+  },
+  {
+    "start": 1769.44,
+    "duration": 5.68,
+    "text": "you make the easy thing, low friction and the hard thing, high friction is an example of environment"
+  },
+  {
+    "start": 1775.12,
+    "duration": 3.44,
+    "text": "design. Same thing with, you know, like let's use, I'll give you a concrete example that,"
+  },
+  {
+    "start": 1778.56,
+    "duration": 6.32,
+    "text": "which was a cool one around. So one of James Clear's like principles is make it visible."
+  },
+  {
+    "start": 1784.88,
+    "duration": 5.2,
+    "text": "And so this is, this is what my head of rev ops did two companies ago. We wanted people,"
+  },
+  {
+    "start": 1790.08,
+    "duration": 5.36,
+    "text": "we did an analysis and we looked at all of the activity going into tier A, B and C accounts."
+  },
+  {
+    "start": 1795.44,
+    "duration": 5.6,
+    "text": "And we're like, wow, our team's like spending 25% of their time touching tier C accounts that like,"
+  },
+  {
+    "start": 1801.04,
+    "duration": 4.16,
+    "text": "we don't really ever want to meet with. And only 30% of their time was in tier A accounts,"
+  },
+  {
+    "start": 1805.2,
+    "duration": 6.16,
+    "text": "but like we were not account constrained. And so what Steve did to make the thing you want"
+  },
+  {
+    "start": 1811.36,
+    "duration": 5.04,
+    "text": "to happen more readily visible is, so on the main BDR dashboard that they looked at every day to"
+  },
+  {
+    "start": 1816.4,
+    "duration": 5.6,
+    "text": "see how their stack ranked against their peers and what's going on. He made the top left module"
+  },
+  {
+    "start": 1822.0,
+    "duration": 6.32,
+    "text": "in the dashboard activities by account tier. And so everybody saw, and he didn't say anything."
+  },
+  {
+    "start": 1828.32,
+    "duration": 3.36,
+    "text": "This was the cool thing. He did this as an experiment. We weren't going to say anything."
+  },
+  {
+    "start": 1831.68,
+    "duration": 4.8,
+    "text": "We were just going to put this module in the dashboard and the reps are going to see,"
+  },
+  {
+    "start": 1836.8,
+    "duration": 6.0,
+    "text": "who's putting activity into the whatever quality accounts. And it snapped to like 80%"
+  },
+  {
+    "start": 1843.76,
+    "duration": 5.76,
+    "text": "activity into tier, into A tier accounts within the course of weeks without him saying anything."
+  },
+  {
+    "start": 1849.52,
+    "duration": 6.08,
+    "text": "And that's like a James Clear, make it visible type of environmental design thing. So you can,"
+  },
+  {
+    "start": 1856.8,
+    "duration": 6.0,
+    "text": "this needs to be in our heads constantly as leaders. What are those principles that are"
+  },
+  {
+    "start": 1862.8,
+    "duration": 6.08,
+    "text": "habit forming? No, that's a, I think, yeah, that's a good example because"
+  },
+  {
+    "start": 1868.88,
+    "duration": 6.48,
+    "text": "creating a new habit, it's tough if you don't put, create the environment for it. So yeah."
+  },
+  {
+    "start": 1876.4,
+    "duration": 4.24,
+    "text": "I'm curious also about outbound and for your account planning for this year."
+  },
+  {
+    "start": 1881.92,
+    "duration": 4.4,
+    "text": "Earlier I was saying that you're pretty efficient with outbound and how do you think about hiring"
+  },
+  {
+    "start": 1886.32,
+    "duration": 5.52,
+    "text": "specifically for A's and BDRs? I know, I think, I don't remember which podcast,"
+  },
+  {
+    "start": 1891.84,
+    "duration": 5.52,
+    "text": "but you are mentioning that you have like a time of 300K, 300,000 restaurants in the US."
+  },
+  {
+    "start": 1898.0,
+    "duration": 5.92,
+    "text": "So what's the limit? Because I imagine you can hire like infinite number of BDRs or A's."
+  },
+  {
+    "start": 1903.92,
+    "duration": 4.96,
+    "text": "So how do you think about that? So there's a bunch of inputs here."
+  },
+  {
+    "start": 1910.88,
+    "duration": 5.68,
+    "text": "One input is every time you hire a bunch of salespeople, there's some lag in ramp."
+  },
+  {
+    "start": 1917.12,
+    "duration": 6.0,
+    "text": "So you're incurring quite a bit of cost today to then ramp a rep, have them produce revenue and"
+  },
+  {
+    "start": 1923.12,
+    "duration": 5.28,
+    "text": "have that revenue then show up in your growth model month over month over month. And especially"
+  },
+  {
+    "start": 1928.4,
+    "duration": 6.88,
+    "text": "for us, some of our monetization is on payments. So for us, for the revenue to really start hitting"
+  },
+  {
+    "start": 1935.28,
+    "duration": 4.96,
+    "text": "the books and for us to have a, have a payback, CAC payback, they need to be up and running and"
+  },
+  {
+    "start": 1940.24,
+    "duration": 6.32,
+    "text": "producing revenue. And there's like a ramp to that for the new customer. And so you can't hire"
+  },
+  {
+    "start": 1947.68,
+    "duration": 9.68,
+    "text": "too aggressively or else your cash burn gets sort of squirrelly and your LTV CAC gets out of sorts"
+  },
+  {
+    "start": 1957.36,
+    "duration": 5.52,
+    "text": "in the short term. And so you have to be mindful of like when you're putting this head count in"
+  },
+  {
+    "start": 1962.88,
+    "duration": 5.92,
+    "text": "and like how much, just like how much water can this sponge absorb in terms of like the business"
+  },
+  {
+    "start": 1968.88,
+    "duration": 5.84,
+    "text": "metrics. Two is what's our, what's our capacity to do is from a management perspective. Like how,"
+  },
+  {
+    "start": 1974.72,
+    "duration": 5.28,
+    "text": "how many fully ramped managers do I have that can run and execute my system? Because I don't"
+  },
+  {
+    "start": 1980.0,
+    "duration": 5.44,
+    "text": "really want to give a brand new green manager nine reps. You know, I can have a really great"
+  },
+  {
+    "start": 1985.44,
+    "duration": 5.28,
+    "text": "manager, have 10 reps if they've like, you know, being a rep in my system, they've managed for 18"
+  },
+  {
+    "start": 1990.72,
+    "duration": 5.04,
+    "text": "months, you know, that, that, that person can handle it. And I could give them five new people"
+  },
+  {
+    "start": 1996.32,
+    "duration": 5.84,
+    "text": "out of a team of 10 and they could, they could do it. But I think like management capacity is"
+  },
+  {
+    "start": 2002.16,
+    "duration": 8.72,
+    "text": "usually the place that things fall apart in my opinion. And so you're, you know, I work really"
+  },
+  {
+    "start": 2010.88,
+    "duration": 6.0,
+    "text": "closely with finance on, on playing with the model. And, you know, even we have conversations"
+  },
+  {
+    "start": 2016.88,
+    "duration": 5.28,
+    "text": "around, you know, like what's the relative impact of the investment of expanding the sales team"
+  },
+  {
+    "start": 2022.16,
+    "duration": 5.2,
+    "text": "versus hiring engineers. And so at one point in the planning process, I was like, yeah, like we can,"
+  },
+  {
+    "start": 2027.36,
+    "duration": 3.6,
+    "text": "let's push her some of this stuff out. I would rather have engineering capacity in Q1."
+  },
+  {
+    "start": 2031.6,
+    "duration": 5.28,
+    "text": "We've got a new CPO, new VP of engineering who are, who are awesome. Like, let's go, let's go"
+  },
+  {
+    "start": 2036.88,
+    "duration": 6.56,
+    "text": "prioritize product because I know I can deliver the number with like less than what, what was"
+  },
+  {
+    "start": 2043.44,
+    "duration": 7.28,
+    "text": "actually modeled. And so like in my role as a CRO, like those are the optimization decisions I'm"
+  },
+  {
+    "start": 2050.72,
+    "duration": 6.64,
+    "text": "making. And so, yeah, you just have to know the quality of your system matters a lot."
+  },
+  {
+    "start": 2058.08,
+    "duration": 6.48,
+    "text": "If your documentation sucks and new BDRs are asking a million questions every day because"
+  },
+  {
+    "start": 2064.56,
+    "duration": 3.76,
+    "text": "the only place they can get an answer to something is from their manager or from a buddy,"
+  },
+  {
+    "start": 2068.32,
+    "duration": 6.08,
+    "text": "you can't take in that many BDRs at a time. If you're like us and everything is written down,"
+  },
+  {
+    "start": 2074.4,
+    "duration": 4.96,
+    "text": "we got videos for stuff and like our LMS is squeaky clean because we've got like an awesome"
+  },
+  {
+    "start": 2079.36,
+    "duration": 4.96,
+    "text": "enablement team. Yeah. Like I can, we're going to bring in a cohort of probably like 10 newbies"
+  },
+  {
+    "start": 2084.32,
+    "duration": 5.68,
+    "text": "in March and like we brought in big cohorts in the last couple of months and they'll ramp"
+  },
+  {
+    "start": 2090.0,
+    "duration": 3.44,
+    "text": "pretty well. So you just, you, you like have to be honest about the state of your business."
+  },
+  {
+    "start": 2095.2,
+    "duration": 4.08,
+    "text": "Okay. You're talking about having more BDRs and before starting the recording,"
+  },
+  {
+    "start": 2099.28,
+    "duration": 6.16,
+    "text": "we're talking about your opening an office in Toronto. So what's your take on, I know"
+  },
+  {
+    "start": 2106.08,
+    "duration": 5.04,
+    "text": "owner was remote first. We're still remote first technically. Okay. But now you're opening an"
+  },
+  {
+    "start": 2111.12,
+    "duration": 6.16,
+    "text": "office. So what made you, what was the decision? What happened for you to make this decision?"
+  },
+  {
+    "start": 2117.84,
+    "duration": 6.64,
+    "text": "Yeah. So I've had, I've had this lingering feeling of, especially for an SMB sales team,"
+  },
+  {
+    "start": 2124.48,
+    "duration": 4.72,
+    "text": "which is hiring a bunch of people like early in their career, would they benefit from being around"
+  },
+  {
+    "start": 2129.2,
+    "duration": 3.92,
+    "text": "their peers and their managers and in that environment? Like I grew up in that environment"
+  },
+  {
+    "start": 2133.12,
+    "duration": 6.88,
+    "text": "and it was just, it was like really formative for me in many ways. And so I, I started to think"
+  },
+  {
+    "start": 2140.0,
+    "duration": 5.76,
+    "text": "about, you know, like what, what would the ramp and productivity impact be if people were co-located."
+  },
+  {
+    "start": 2146.56,
+    "duration": 4.72,
+    "text": "And so early last year, I started asking a bunch of people and I was disappointed by the answer"
+  },
+  {
+    "start": 2151.28,
+    "duration": 3.92,
+    "text": "because much of the time the answer was like, oh yeah, we brought everybody back into the office."
+  },
+  {
+    "start": 2155.2,
+    "duration": 4.64,
+    "text": "But when I asked them about their remote onboarding program and how enablement was structured,"
+  },
+  {
+    "start": 2160.48,
+    "duration": 4.08,
+    "text": "it's like, oh yeah, we've got like one person in enablement and they've got 40 reps."
+  },
+  {
+    "start": 2164.56,
+    "duration": 7.04,
+    "text": "Like, okay, that's a train wreck. So like your, you, you saying a office is better is like not"
+  },
+  {
+    "start": 2171.6,
+    "duration": 5.2,
+    "text": "that consequential because you were doing remote poorly. But over the year, I like, I was just"
+  },
+  {
+    "start": 2176.8,
+    "duration": 3.92,
+    "text": "asking everybody and I was starting, especially with the podcast, I got access to a bunch of"
+  },
+  {
+    "start": 2180.72,
+    "duration": 6.64,
+    "text": "people that did it really well and had really great, you know, remote enablement infrastructure"
+  },
+  {
+    "start": 2188.0,
+    "duration": 4.4,
+    "text": "and more and more people I talked to that were running pilots. So I have a number of friends"
+  },
+  {
+    "start": 2192.4,
+    "duration": 6.32,
+    "text": "who wrote, who ran friends and people I've just met that ran side-by-sides. They had, you know,"
+  },
+  {
+    "start": 2198.72,
+    "duration": 5.92,
+    "text": "15, I was at dinner last night with somebody, 15 in-person, 15 remote BDRs. Then they hired"
+  },
+  {
+    "start": 2204.64,
+    "duration": 5.76,
+    "text": "only in-person BDRs for the, because they wanted to, to do this pilot. And the in-person team is"
+  },
+  {
+    "start": 2210.4,
+    "duration": 9.52,
+    "text": "just like crushing. And, and so people I talked to a ramp was anywhere between like 20 and 40%"
+  },
+  {
+    "start": 2219.92,
+    "duration": 5.44,
+    "text": "faster productivity was anywhere between some people, it was like 30% better for their in-person"
+  },
+  {
+    "start": 2225.36,
+    "duration": 6.32,
+    "text": "teams all the way up to double. I talked to one very large company in the last couple of weeks"
+  },
+  {
+    "start": 2231.68,
+    "duration": 6.88,
+    "text": "that they have like hundreds of over a hundred BDRs and they have a, they had one in-person pilot"
+  },
+  {
+    "start": 2238.56,
+    "duration": 5.36,
+    "text": "now two because it went well, their activity volume on a per person basis for their"
+  },
+  {
+    "start": 2243.92,
+    "duration": 8.56,
+    "text": "in-person teams is over 60% higher. Yeah. And like that makes sense intuitively. It makes sense."
+  },
+  {
+    "start": 2252.48,
+    "duration": 5.04,
+    "text": "Like it's so hard to get yourself motivated and pumped up to, to crank out a hundred cold calls,"
+  },
+  {
+    "start": 2257.52,
+    "duration": 4.16,
+    "text": "just like sitting in your apartments, me sitting in my like windowless basement."
+  },
+  {
+    "start": 2262.56,
+    "duration": 5.12,
+    "text": "That, that takes a very different level of, of willpower versus I remember it. Like you're"
+  },
+  {
+    "start": 2267.68,
+    "duration": 3.84,
+    "text": "around all your buddies, everybody's ripping dials. Like you just can't, you're just like,"
+  },
+  {
+    "start": 2271.52,
+    "duration": 4.16,
+    "text": "oh, I gotta, I gotta make calls where I look like a, I look like an idiot. And so"
+  },
+  {
+    "start": 2277.6,
+    "duration": 5.92,
+    "text": "I talked to a bunch of really smart people in every single pilot. I didn't talk to one person"
+  },
+  {
+    "start": 2283.52,
+    "duration": 5.76,
+    "text": "whose pilot did not pretty heavily favor in person. And I just think like from a,"
+  },
+  {
+    "start": 2291.92,
+    "duration": 5.2,
+    "text": "for the benefit of young people, I think like getting to move to a new city and get the"
+  },
+  {
+    "start": 2297.12,
+    "duration": 3.84,
+    "text": "experience of like meeting a bunch of buddies, like two people in my wedding party were people"
+  },
+  {
+    "start": 2300.96,
+    "duration": 5.52,
+    "text": "that I met at that first job. You, you hear this like over and over and over. And so I think it's"
+  },
+  {
+    "start": 2306.48,
+    "duration": 5.36,
+    "text": "also super beneficial for those people to learn faster and develop community and be around their"
+  },
+  {
+    "start": 2311.84,
+    "duration": 4.48,
+    "text": "peers. And you know, if you're 22 and this is your first job and you're like renting an apartment"
+  },
+  {
+    "start": 2316.32,
+    "duration": 4.72,
+    "text": "with a friend, like you got to get out of that apartment, you're going to go crazy. And so I"
+  },
+  {
+    "start": 2321.04,
+    "duration": 4.08,
+    "text": "think it's better for the, for the rep. I think it's better for the company. And I'm really excited"
+  },
+  {
+    "start": 2325.12,
+    "duration": 7.2,
+    "text": "about, about the impact it's going to make. I know KD was the first one talking about the impact"
+  },
+  {
+    "start": 2332.32,
+    "duration": 7.68,
+    "text": "remote versus in-office on sales performance. And I think it was at the beginning of COVID,"
+  },
+  {
+    "start": 2340.0,
+    "duration": 6.08,
+    "text": "he was talking about the, his own impact on ramp, actually, what you are saying, because they were"
+  },
+  {
+    "start": 2346.08,
+    "duration": 5.2,
+    "text": "moving from an in-office environment to a remote environment. And he said the biggest impact was"
+  },
+  {
+    "start": 2351.28,
+    "duration": 9.44,
+    "text": "on ramp for them. On which part? The ramp, the ramp. Oh, ramp. Yeah. Yeah. And so KD was a big"
+  },
+  {
+    "start": 2360.72,
+    "duration": 4.56,
+    "text": "influence on me making this decision. Him and I have talked about it a bunch. His whole team's"
+  },
+  {
+    "start": 2365.28,
+    "duration": 5.36,
+    "text": "in Boca now. He's like sending us videos of him like doing stuff with his squad. And he's a good"
+  },
+  {
+    "start": 2370.64,
+    "duration": 6.64,
+    "text": "example. Like if he, if, if he feels like his in-person teams are running that much better"
+  },
+  {
+    "start": 2377.28,
+    "duration": 4.88,
+    "text": "than his remote teams. And I know the quality of the systems that he's built him. And I see the"
+  },
+  {
+    "start": 2382.16,
+    "duration": 4.4,
+    "text": "world very similarly. If I hear from him, like just how impactful it is. Okay. Then I'm going"
+  },
+  {
+    "start": 2386.56,
+    "duration": 8.4,
+    "text": "to trust that a lot, but I think like, interestingly enough, I feel like the way there was the cohort of"
+  },
+  {
+    "start": 2394.96,
+    "duration": 4.56,
+    "text": "people who were good at remote were slower to come back into the office. Cause it wasn't as"
+  },
+  {
+    "start": 2399.52,
+    "duration": 4.72,
+    "text": "much of a burning fire. And so actually the first group of return to office people"
+  },
+  {
+    "start": 2405.12,
+    "duration": 2.96,
+    "text": "weren't very compelling. Cause they were just like, they did it because they sucked at the"
+  },
+  {
+    "start": 2408.08,
+    "duration": 6.48,
+    "text": "other things and not, not every time, obviously, but now, now yeah, I've definitely like a bunch"
+  },
+  {
+    "start": 2414.56,
+    "duration": 5.28,
+    "text": "of smart leaders have, I've seen big impacts. And so I will track the data and I'm committed"
+  },
+  {
+    "start": 2419.84,
+    "duration": 5.04,
+    "text": "to sharing it as I learn it. We'll see. And actually I'm curious about that. Are you"
+  },
+  {
+    "start": 2424.88,
+    "duration": 9.12,
+    "text": "thinking about doing it just for the BDR team? BDR first. So SDR and BDRs are basically"
+  },
+  {
+    "start": 2434.0,
+    "duration": 6.72,
+    "text": "only hired in Toronto with the five day in office expectation now. And interestingly,"
+  },
+  {
+    "start": 2441.6,
+    "duration": 6.32,
+    "text": "people seem to be really excited about that. And the, the right people are excited and the wrong"
+  },
+  {
+    "start": 2447.92,
+    "duration": 7.12,
+    "text": "people are like, Oh, okay. Yeah. Like, is that permanent? And, and those are always the people"
+  },
+  {
+    "start": 2455.04,
+    "duration": 6.32,
+    "text": "that, that I feel like we were on the edge about. And so it's also a good selection tool to just"
+  },
+  {
+    "start": 2461.36,
+    "duration": 6.64,
+    "text": "like see who leans in. And then as this group matures and as they graduate from SDR, BDR, AE,"
+  },
+  {
+    "start": 2468.0,
+    "duration": 5.44,
+    "text": "outbound AE, we're going to introduce more flexibility. I think like inbound AE, I would"
+  },
+  {
+    "start": 2473.44,
+    "duration": 4.72,
+    "text": "like to be in an office and then it's probably at, and maybe there's some flexibility. I haven't made"
+  },
+  {
+    "start": 2478.16,
+    "duration": 5.12,
+    "text": "the decisions yet, but probably like give them more flexibility to be hybrid, like one or two"
+  },
+  {
+    "start": 2483.28,
+    "duration": 6.56,
+    "text": "days a week. Or maybe we let the BDRs who are, who have like hit quota a bunch, have like two"
+  },
+  {
+    "start": 2489.84,
+    "duration": 4.64,
+    "text": "days flex a week, but then you just, the data's there. If they're making calls in the office and"
+  },
+  {
+    "start": 2494.48,
+    "duration": 4.0,
+    "text": "not at home, then that goes away. We won't do that anymore. But I think at some point,"
+  },
+  {
+    "start": 2499.68,
+    "duration": 4.64,
+    "text": "at some point you can graduate people to fully remote and be like, you've got a desk. If you"
+  },
+  {
+    "start": 2504.32,
+    "duration": 4.96,
+    "text": "want to come in, that's awesome. But if you want to be remote and you don't feel like you need this,"
+  },
+  {
+    "start": 2509.6,
+    "duration": 11.12,
+    "text": "then that's cool too. Because at some point, the lifestyle advantage of being remote"
+  },
+  {
+    "start": 2521.52,
+    "duration": 5.12,
+    "text": "outweighs the performance impact, like the lifestyle advantage for a retention purpose."
+  },
+  {
+    "start": 2527.36,
+    "duration": 7.2,
+    "text": "No, you're like a now 27 year old outbound AE. You might have like a partner, a dog,"
+  },
+  {
+    "start": 2534.56,
+    "duration": 5.28,
+    "text": "you're like thinking about having a family and you don't need that. You have more individual"
+  },
+  {
+    "start": 2539.84,
+    "duration": 6.96,
+    "text": "discipline because you're just like a professional now. So that person might not need to be in the"
+  },
+  {
+    "start": 2546.8,
+    "duration": 7.6,
+    "text": "office the same way that a 22 year old BDR will. And I'm curious, before we jump to the next,"
+  },
+  {
+    "start": 2554.4,
+    "duration": 3.44,
+    "text": "to the last question, because we're almost at the end of the recording. Did you think about"
+  },
+  {
+    "start": 2557.84,
+    "duration": 4.4,
+    "text": "having field reps also? Because I know you are selling to restaurants now."
+  },
+  {
+    "start": 2563.6,
+    "duration": 7.04,
+    "text": "It's just so inefficient compared to our core model. If my reps can run three to four held"
+  },
+  {
+    "start": 2570.64,
+    "duration": 12.32,
+    "text": "demos a day, them trying to door knock or be in person, drive around, there's so much time eaten"
+  },
+  {
+    "start": 2582.96,
+    "duration": 9.12,
+    "text": "up, driving in place, parking, then you've got a meeting. If they no-show then, that hour is"
+  },
+  {
+    "start": 2592.08,
+    "duration": 7.36,
+    "text": "really wasted. And our reps are so high activity. They're ripping demos and then as soon as they're"
+  },
+  {
+    "start": 2599.44,
+    "duration": 4.0,
+    "text": "off demos, they're trying to do all their follow-ups and they're nurturing their existing"
+  },
+  {
+    "start": 2603.44,
+    "duration": 7.84,
+    "text": "pipe and they're doing handoff stuff to onboarding. Our core motion is so efficient that"
+  },
+  {
+    "start": 2611.92,
+    "duration": 7.12,
+    "text": "the positive impacts of trying to door knock or meet in the field is not outweighed. And I did"
+  },
+  {
+    "start": 2619.04,
+    "duration": 4.72,
+    "text": "this math at Shopify as well. We thought about doing this at shop with an in-person team."
+  },
+  {
+    "start": 2623.76,
+    "duration": 6.88,
+    "text": "And I ran the numbers and I'm like, okay, well, our win rates have to be 80% in the field to make"
+  },
+  {
+    "start": 2630.64,
+    "duration": 5.6,
+    "text": "the model work because Shopify had the advantage, really strong brand. It was a lot of inbound."
+  },
+  {
+    "start": 2636.24,
+    "duration": 3.84,
+    "text": "And our win rates were already really good in that point of sale product."
+  },
+  {
+    "start": 2641.28,
+    "duration": 5.76,
+    "text": "And so, we ended up killing the initiative and we didn't need it. We were scaling so rapidly"
+  },
+  {
+    "start": 2647.04,
+    "duration": 6.8,
+    "text": "anyways. Now, looking back about everything you've done at Honor, on that one specifically,"
+  },
+  {
+    "start": 2653.84,
+    "duration": 3.68,
+    "text": "knowing what you know now, is there anything you have done differently in your approach?"
+  },
+  {
+    "start": 2661.04,
+    "duration": 8.48,
+    "text": "I would have done everything earlier. What we know now worked was at some point a speculative"
+  },
+  {
+    "start": 2670.08,
+    "duration": 6.48,
+    "text": "bet that we experimented with and we eventually leaned into. I would have just wanted to go"
+  },
+  {
+    "start": 2676.56,
+    "duration": 7.6,
+    "text": "put more resources behind the stuff that now I know works. But that's not a great answer to the"
+  },
+  {
+    "start": 2684.16,
+    "duration": 23.12,
+    "text": "question. What would we have changed? I might have done this in-person experiment earlier."
+  },
+  {
+    "start": 2708.0,
+    "duration": 9.84,
+    "text": "Where would we have been if I would have done this 12 months ago? That's definitely one that"
+  },
+  {
+    "start": 2717.84,
+    "duration": 5.6,
+    "text": "could have been a needle mover. Why this one?"
+  },
+  {
+    "start": 2726.8,
+    "duration": 5.36,
+    "text": "Because I'm very bullish that it's going to have a pretty big impact. I think if ramp comes down"
+  },
+  {
+    "start": 2732.48,
+    "duration": 8.96,
+    "text": "and productivity jumps, if productivity only goes up by 20% across 30 BDRs, that's a ton of ARR."
+  },
+  {
+    "start": 2742.56,
+    "duration": 9.28,
+    "text": "When our BDRs are ripping out 6-7k MRR every single month and then we get 20% on top of that"
+  },
+  {
+    "start": 2751.84,
+    "duration": 8.08,
+    "text": "across 30 BDRs, that's real revenue. If this office thing goes well, I will have definitely"
+  },
+  {
+    "start": 2759.92,
+    "duration": 9.04,
+    "text": "wished I had done it earlier. Maybe I would have hired a second-line BDR leader earlier."
+  },
+  {
+    "start": 2771.04,
+    "duration": 6.64,
+    "text": "I just would have done some of these senior roles earlier because at the time you're managing burn"
+  },
+  {
+    "start": 2777.68,
+    "duration": 8.4,
+    "text": "and you don't want to bring in too much senior headcount too early because if growth slows,"
+  },
+  {
+    "start": 2786.16,
+    "duration": 3.28,
+    "text": "then you're way overweight and you have to make really difficult decisions."
+  },
+  {
+    "start": 2790.08,
+    "duration": 7.28,
+    "text": "But in retrospect, maybe we should have just been more confident that it would just keep"
+  },
+  {
+    "start": 2797.36,
+    "duration": 6.16,
+    "text": "going like this because every time I bring somebody in, they're doing a bunch of projects"
+  },
+  {
+    "start": 2803.52,
+    "duration": 7.04,
+    "text": "and they're improving the team. You can see the impact of these people. When I brought my head"
+  },
+  {
+    "start": 2810.56,
+    "duration": 5.04,
+    "text": "of rev ops in, things started to just go like this. When I brought my head of enablement in,"
+  },
+  {
+    "start": 2815.6,
+    "duration": 6.32,
+    "text": "things got better quite rapidly. Maybe we would have spent a little more aggressively"
+  },
+  {
+    "start": 2821.92,
+    "duration": 3.68,
+    "text": "on some of these roles because they've all been really high leverage."
+  },
+  {
+    "start": 2827.04,
+    "duration": 3.2,
+    "text": "For the second-line manager, for the BDR team,"
+  },
+  {
+    "start": 2832.8,
+    "duration": 4.96,
+    "text": "the front-line managers or the first-line managers, are they reporting directly to you or"
+  },
+  {
+    "start": 2837.76,
+    "duration": 0.64,
+    "text": "to someone else?"
+  },
+  {
+    "start": 2838.4,
+    "duration": 5.92,
+    "text": "For a long time, yeah. I have a VP of sales in now who's been here"
+  },
+  {
+    "start": 2844.32,
+    "duration": 8.48,
+    "text": "close to a year now. Maybe only nine months. I definitely wish I had hired him earlier."
+  },
+  {
+    "start": 2852.8,
+    "duration": 8.64,
+    "text": "I let that go too long. I just probably would have brought some of these roles ahead like"
+  },
+  {
+    "start": 2861.44,
+    "duration": 5.36,
+    "text": "nine months because I was trying to be fiscally disciplined, which is good."
+  },
+  {
+    "start": 2868.4,
+    "duration": 4.56,
+    "text": "Given where we're at as a business, saving a little bit of money here and there, it's irrelevant."
+  },
+  {
+    "start": 2873.76,
+    "duration": 4.08,
+    "text": "It's really about growth. We're growing faster today than we were"
+  },
+  {
+    "start": 2877.84,
+    "duration": 2.16,
+    "text": "at any point in the first half of last year."
+  },
+  {
+    "start": 2882.4,
+    "duration": 3.52,
+    "text": "It's all gas. I probably would have wanted to be more aggressive earlier."
+  },
+  {
+    "start": 2888.0,
+    "duration": 2.88,
+    "text": "Thank you so much for this part two, for everyone listening."
+  },
+  {
+    "start": 2890.88,
+    "duration": 3.52,
+    "text": "Thank you so much for listening to this episode. I'll see you on the next episode."
+  },
+  {
+    "start": 2894.96,
+    "duration": 1.6,
+    "text": "Thank you very much. Appreciate it."
+  },
+  {
+    "start": 2896.56,
+    "duration": 5.68,
+    "text": "If you found this part two with Kael useful and want to build a strong adbound culture"
+  },
+  {
+    "start": 2902.24,
+    "duration": 3.76,
+    "text": "at your company, you might enjoy my newsletter, Adbound Kitchen."
+  },
+  {
+    "start": 2906.8,
+    "duration": 5.12,
+    "text": "You get a free version every Sunday, and there is a paid version where you receive more in-depth"
+  },
+  {
+    "start": 2911.92,
+    "duration": 6.0,
+    "text": "content. I sent nine already. The last one was how Snowflake's adbound engine drove them past"
+  },
+  {
+    "start": 2917.92,
+    "duration": 6.08,
+    "text": "3 billion ARR. Before that, I sent the guide to building an enterprise prospecting system."
+  },
+  {
+    "start": 2924.72,
+    "duration": 5.12,
+    "text": "And before that, I've sent the cold calling playbook for 2025, data-driven."
+  },
+  {
+    "start": 2930.72,
+    "duration": 2.72,
+    "text": "The next one will be the SDR curry puff recipe."
+  },
+  {
+    "start": 2934.32,
+    "duration": 4.56,
+    "text": "If you're interested, subscribe using the link in the description."
+  }
+]

@@ -1,0 +1,3347 @@
+[
+  {
+    "start": 0.0,
+    "duration": 6.96,
+    "text": "How much do you think is luck and at what point did pinking the right companies become a skill game?"
+  },
+  {
+    "start": 8.16,
+    "duration": 9.44,
+    "text": "I think a lot of it is luck if I were honest. I mean there's there's signals, things like founder quality, the the mission in the market that they're going after,"
+  },
+  {
+    "start": 18.72,
+    "duration": 2.0,
+    "text": "the team quality that they've assembled,"
+  },
+  {
+    "start": 21.36,
+    "duration": 2.8,
+    "text": "and investors to some extent but I think a lot of it"
+  },
+  {
+    "start": 24.64,
+    "duration": 4.88,
+    "text": "also ends up just being luck and so I'd be silly to say like I knew exactly going into these roles"
+  },
+  {
+    "start": 29.84,
+    "duration": 3.36,
+    "text": "that these companies were going to be massively successful. So a lot of it is luck."
+  },
+  {
+    "start": 33.92,
+    "duration": 5.12,
+    "text": "Yeah, I loved your podcast with Robert on Science of Scaling talking about how you"
+  },
+  {
+    "start": 39.84,
+    "duration": 5.76,
+    "text": "were quite thorough in the lattice evaluation. Obviously by that point you were you were starting to be a pretty sharp picker"
+  },
+  {
+    "start": 46.08,
+    "duration": 2.88,
+    "text": "but to have three of those is is awesome."
+  },
+  {
+    "start": 54.64,
+    "duration": 3.78,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline."
+  },
+  {
+    "start": 59.06,
+    "duration": 3.12,
+    "text": "I'm your host Kyle Norton, CRO at Owner.com"
+  },
+  {
+    "start": 62.66,
+    "duration": 6.24,
+    "text": "and every Wednesday we dive deep into the strategies and tactics being used to drive success"
+  },
+  {
+    "start": 69.46,
+    "duration": 2.0,
+    "text": "by the best revenue leaders in the world."
+  },
+  {
+    "start": 72.26,
+    "duration": 6.16,
+    "text": "So join me as I sit down with revenue operators to discuss actionable frameworks that you can implement in your business today"
+  },
+  {
+    "start": 78.98,
+    "duration": 3.54,
+    "text": "with no fluff, no sales pitches, and no platitudes."
+  },
+  {
+    "start": 83.7,
+    "duration": 2.0,
+    "text": "But first a word from our sponsors."
+  },
+  {
+    "start": 89.38,
+    "duration": 2.0,
+    "text": "Momentum.io"
+  },
+  {
+    "start": 91.62,
+    "duration": 8.0,
+    "text": "This episode is brought to you by Momentum.io. Momentum is a powerful tool for turning sales and customer conversations into go-to-market data."
+  },
+  {
+    "start": 100.34,
+    "duration": 5.2,
+    "text": "Using GenAI, it extracts, analyzes, and automates customer intelligence across your org."
+  },
+  {
+    "start": 106.34,
+    "duration": 5.76,
+    "text": "The best part, it's not a new platform for your team to adopt. It integrates seamlessly with your existing stack"
+  },
+  {
+    "start": 112.58,
+    "duration": 2.26,
+    "text": "and writes data back to Salesforce directly."
+  },
+  {
+    "start": 115.64,
+    "duration": 7.04,
+    "text": "Some of the most innovative companies out there like Zscaler, Demandbase, Ramp, 1Password, and even my company Owner.com"
+  },
+  {
+    "start": 123.24,
+    "duration": 2.24,
+    "text": "use Momentum every single day to"
+  },
+  {
+    "start": 126.44,
+    "duration": 6.56,
+    "text": "capture forecast and churn risk, autofill, Salesforce fields, share product signals, and track sentiment."
+  },
+  {
+    "start": 133.64,
+    "duration": 2.66,
+    "text": "So check it out with a free trial at Momentum.io"
+  },
+  {
+    "start": 138.52,
+    "duration": 5.04,
+    "text": "Hello and welcome to the Revenue Leadership Podcast. I'm your host Kyle Norton and today"
+  },
+  {
+    "start": 143.64,
+    "duration": 7.28,
+    "text": "I'm joined by Dini Mehta who is an executive in residence at Peak 15 Ventures, Peak 15 Partners,"
+  },
+  {
+    "start": 151.96,
+    "duration": 2.0,
+    "text": "formerly known as Sequoia India,"
+  },
+  {
+    "start": 154.04,
+    "duration": 7.12,
+    "text": "and had two amazing runs at Drawbridge where she was the VP of Global Sales and then Lattice"
+  },
+  {
+    "start": 161.64,
+    "duration": 2.0,
+    "text": "where she was the CRO,"
+  },
+  {
+    "start": 163.96,
+    "duration": 2.64,
+    "text": "taking both those companies from single digits to"
+  },
+  {
+    "start": 167.24,
+    "duration": 5.76,
+    "text": "100 million plus outcomes. So really excited to dig in and we're going to spend time on two topics today."
+  },
+  {
+    "start": 173.48,
+    "duration": 6.88,
+    "text": "One is how to go multi-product as a revenue leader, which is a massively important and complex topic"
+  },
+  {
+    "start": 181.16,
+    "duration": 5.92,
+    "text": "and we'll also get into how to lead high engagement teams. So thrilled for the conversation and thanks for joining us Dini."
+  },
+  {
+    "start": 188.2,
+    "duration": 4.48,
+    "text": "Thank you, Kyle. Thank you for having me. I'm super excited to go deep on these topics and yeah,"
+  },
+  {
+    "start": 192.68,
+    "duration": 7.52,
+    "text": "I've had a lot of hard-earned lessons and so hopefully sharing these lessons can save folks making the same mistakes I did."
+  },
+  {
+    "start": 201.16,
+    "duration": 2.0,
+    "text": "Yeah, I'm sure they will."
+  },
+  {
+    "start": 203.64,
+    "duration": 6.24,
+    "text": "So let's just give folks like your 60-second background. Tell us a little bit about the career story and"
+  },
+  {
+    "start": 210.76,
+    "duration": 2.0,
+    "text": "how you got to Peak 15."
+  },
+  {
+    "start": 213.24,
+    "duration": 1.76,
+    "text": "Absolutely. So"
+  },
+  {
+    "start": 215.0,
+    "duration": 3.92,
+    "text": "originally, I'm from India, born and raised there, moved to the States for college,"
+  },
+  {
+    "start": 219.64,
+    "duration": 1.76,
+    "text": "fell into tech"
+  },
+  {
+    "start": 221.4,
+    "duration": 3.92,
+    "text": "because I didn't know what I wanted to do with my life and then definitely fell into sales."
+  },
+  {
+    "start": 225.72,
+    "duration": 4.32,
+    "text": "The first few years I tried to do every other job and go to market except for sales because I had this"
+  },
+  {
+    "start": 230.52,
+    "duration": 4.5,
+    "text": "negative impression of what it meant to be in sales and then eventually realized that there's a lot of positives"
+  },
+  {
+    "start": 235.64,
+    "duration": 5.04,
+    "text": "and decided to make... Familiar story. Yep. Yep. We all have, a lot of us have that story."
+  },
+  {
+    "start": 241.8,
+    "duration": 2.0,
+    "text": "And so got my first"
+  },
+  {
+    "start": 244.04,
+    "duration": 3.92,
+    "text": "taste of sales at a company called Quantcast, which was in hyper growth."
+  },
+  {
+    "start": 248.44,
+    "duration": 4.32,
+    "text": "I was an AE there and you know for two and a half years we went from like"
+  },
+  {
+    "start": 253.48,
+    "duration": 4.16,
+    "text": "10 million to 200 million in revenue. So it was like really fast rapid growth."
+  },
+  {
+    "start": 258.2,
+    "duration": 6.1,
+    "text": "And from there I wanted to see, I loved management, fell in love with management, which is what took me to Drawbridge"
+  },
+  {
+    "start": 264.92,
+    "duration": 2.72,
+    "text": "where I joined as the first sales hire"
+  },
+  {
+    "start": 268.44,
+    "duration": 2.8,
+    "text": "and was there for about five and a half years. We went from"
+  },
+  {
+    "start": 271.8,
+    "duration": 4.64,
+    "text": "a single product to three products, eventually sold the business to LinkedIn."
+  },
+  {
+    "start": 277.0,
+    "duration": 6.32,
+    "text": "And finally my most recent operating run was at Lattice, which is an HR tech platform"
+  },
+  {
+    "start": 283.88,
+    "duration": 4.98,
+    "text": "completely different than what I'd done prior, which was mostly selling to marketers and doing large enterprise"
+  },
+  {
+    "start": 289.32,
+    "duration": 3.2,
+    "text": "sales versus Lattice was an HR tech platform, PLG,"
+  },
+  {
+    "start": 293.64,
+    "duration": 2.64,
+    "text": "high velocity transactional sales. And so learned a ton,"
+  },
+  {
+    "start": 296.76,
+    "duration": 3.76,
+    "text": "was a great run, also joined at about three million and was there past a hundred."
+  },
+  {
+    "start": 301.08,
+    "duration": 4.72,
+    "text": "And now I'm in residence at Peak15, helping a bunch of founders"
+  },
+  {
+    "start": 306.44,
+    "duration": 2.42,
+    "text": "on their own journey of scaling go-to-markets."
+  },
+  {
+    "start": 309.88,
+    "duration": 2.0,
+    "text": "Very cool. That's awesome."
+  },
+  {
+    "start": 311.88,
+    "duration": 0.96,
+    "text": "So,"
+  },
+  {
+    "start": 312.84,
+    "duration": 3.44,
+    "text": "Quantcast, Lattice, and Drawbridge, all quite a magic touch."
+  },
+  {
+    "start": 317.48,
+    "duration": 6.48,
+    "text": "How much do you think is luck and at what point did pinking the right companies become a skill game?"
+  },
+  {
+    "start": 325.4,
+    "duration": 2.32,
+    "text": "I think a lot of it is luck, if I were honest."
+  },
+  {
+    "start": 328.44,
+    "duration": 6.4,
+    "text": "I mean, there's signals, things like founder quality, the mission in the market that they're going after,"
+  },
+  {
+    "start": 335.48,
+    "duration": 2.0,
+    "text": "the team quality that they've assembled,"
+  },
+  {
+    "start": 338.2,
+    "duration": 3.12,
+    "text": "and investors to some extent, but I think a lot of it"
+  },
+  {
+    "start": 341.88,
+    "duration": 4.8,
+    "text": "also ends up just being luck. And so I'd be silly to say like I knew exactly going into these roles"
+  },
+  {
+    "start": 347.0,
+    "duration": 3.44,
+    "text": "that these companies were going to be massively successful. So a lot of it is luck."
+  },
+  {
+    "start": 351.16,
+    "duration": 5.12,
+    "text": "Yeah, I loved your podcast with Robert on Science of Scaling talking about how you"
+  },
+  {
+    "start": 357.08,
+    "duration": 5.68,
+    "text": "were quite thorough in the Lattice evaluation. Obviously by that point you were starting to be a pretty sharp picker,"
+  },
+  {
+    "start": 363.24,
+    "duration": 2.96,
+    "text": "but to have three of those is awesome."
+  },
+  {
+    "start": 367.8,
+    "duration": 6.48,
+    "text": "So in terms of queuing up this conversation, the topic we want to really go deep on is how to go multi-product."
+  },
+  {
+    "start": 375.4,
+    "duration": 4.4,
+    "text": "Jack Altman, who was your founder CEO, who's on our board at Owner"
+  },
+  {
+    "start": 381.08,
+    "duration": 2.0,
+    "text": "and said wonderful things about you,"
+  },
+  {
+    "start": 383.32,
+    "duration": 4.88,
+    "text": "gave a talk at Saster last year about some of the unexpected ways that"
+  },
+  {
+    "start": 388.68,
+    "duration": 4.4,
+    "text": "going multi-product benefited Lattice. And it wasn't all just expansion into the base,"
+  },
+  {
+    "start": 393.16,
+    "duration": 6.64,
+    "text": "it was about higher win rates, bigger ACVs at the top of the funnel. It was a really fascinating talk."
+  },
+  {
+    "start": 400.36,
+    "duration": 4.8,
+    "text": "The other side of that coin, and that was product centric, and the other side of this coin is"
+  },
+  {
+    "start": 405.72,
+    "duration": 3.28,
+    "text": "how the heck do you do it and go to market? You go from selling"
+  },
+  {
+    "start": 410.12,
+    "duration": 2.16,
+    "text": "one single product to many and"
+  },
+  {
+    "start": 413.56,
+    "duration": 2.56,
+    "text": "there's so many complexities that we want to unpack. So maybe just"
+  },
+  {
+    "start": 416.84,
+    "duration": 2.0,
+    "text": "queue up before we get into the details"
+  },
+  {
+    "start": 419.16,
+    "duration": 7.04,
+    "text": "the Lattice journey, where they started and where they were in terms of this multi-product journey, and then we'll dig into the how."
+  },
+  {
+    "start": 427.16,
+    "duration": 1.36,
+    "text": "Absolutely."
+  },
+  {
+    "start": 428.52,
+    "duration": 2.98,
+    "text": "So I had some experience with multi-product from Drawbridge."
+  },
+  {
+    "start": 432.04,
+    "duration": 4.0,
+    "text": "And so when I joined Drawbridge, we had a single product that was majority of the revenue"
+  },
+  {
+    "start": 436.44,
+    "duration": 3.04,
+    "text": "and then at about 50 million, we decided to add in a new product."
+  },
+  {
+    "start": 439.88,
+    "duration": 5.52,
+    "text": "But this was like we decoupled our platform and said now we'll sell parts of the data"
+  },
+  {
+    "start": 446.44,
+    "duration": 4.82,
+    "text": "parts of that product as modular pieces to different personas."
+  },
+  {
+    "start": 451.8,
+    "duration": 6.32,
+    "text": "So I thought going into Lattice, I know how to do multi-product. This is like check, check. Of course, we've done this."
+  },
+  {
+    "start": 458.6,
+    "duration": 6.16,
+    "text": "But coming into Lattice, it was a completely different experience. And I'll touch on the high level."
+  },
+  {
+    "start": 465.48,
+    "duration": 2.0,
+    "text": "When I joined, we were about"
+  },
+  {
+    "start": 468.04,
+    "duration": 3.92,
+    "text": "3 million in revenue at Lattice, 35 people in the team."
+  },
+  {
+    "start": 472.68,
+    "duration": 5.68,
+    "text": "And we were just getting, when I joined two months in, we were getting ready to launch our second product."
+  },
+  {
+    "start": 478.6,
+    "duration": 4.66,
+    "text": "So our first product was the performance suite, which was like performance reviews, one-on-ones, feedback."
+  },
+  {
+    "start": 484.6,
+    "duration": 3.36,
+    "text": "And our next product was this engagement surveys."
+  },
+  {
+    "start": 488.92,
+    "duration": 3.12,
+    "text": "And it was a big bet for the business because we were a fairly small team."
+  },
+  {
+    "start": 492.44,
+    "duration": 6.32,
+    "text": "On the end side, a lot of our capacity was going into building this product for the last, I think, eight months, 12 months."
+  },
+  {
+    "start": 499.56,
+    "duration": 2.32,
+    "text": "And so high risk move."
+  },
+  {
+    "start": 502.68,
+    "duration": 3.62,
+    "text": "We had advisors telling us that this is too early to be going multi-product."
+  },
+  {
+    "start": 507.08,
+    "duration": 4.4,
+    "text": "You know, you've got a good thing going, like continue sort of going down that path."
+  },
+  {
+    "start": 511.96,
+    "duration": 6.48,
+    "text": "But the founders had good conviction. And so they'd taken this bet. And my job was to come in and figure out how do we"
+  },
+  {
+    "start": 519.4,
+    "duration": 2.0,
+    "text": "go sell this thing."
+  },
+  {
+    "start": 522.44,
+    "duration": 5.92,
+    "text": "We did that. And from there, it sort of became our playbook, where every year we had a new product."
+  },
+  {
+    "start": 529.0,
+    "duration": 6.56,
+    "text": "And in my tenure there, over four and a half years, we went from a single product to like four different products."
+  },
+  {
+    "start": 536.2,
+    "duration": 4.34,
+    "text": "And so yeah, a lot of learnings of like how the complexity"
+  },
+  {
+    "start": 541.24,
+    "duration": 7.36,
+    "text": "also increases, incrementally increases, as the scale of the business and the new products get added on. But yeah, definitely a fun"
+  },
+  {
+    "start": 549.32,
+    "duration": 2.0,
+    "text": "thing to navigate."
+  },
+  {
+    "start": 551.32,
+    "duration": 5.36,
+    "text": "For sure. And now they're a full-blown HRS, which is a whole other can of worms, another huge"
+  },
+  {
+    "start": 557.0,
+    "duration": 2.96,
+    "text": "you know, bet the company type of thing, which is fun to see."
+  },
+  {
+    "start": 561.32,
+    "duration": 2.0,
+    "text": "Yep, yep."
+  },
+  {
+    "start": 563.96,
+    "duration": 2.64,
+    "text": "So let's unpack the first"
+  },
+  {
+    "start": 567.24,
+    "duration": 2.96,
+    "text": "time going multi-product and launching the"
+  },
+  {
+    "start": 570.9,
+    "duration": 2.82,
+    "text": "engagement product. So you're two months in."
+  },
+  {
+    "start": 574.44,
+    "duration": 4.0,
+    "text": "How did you try to get with a small team, I would imagine at that point?"
+  },
+  {
+    "start": 579.24,
+    "duration": 2.0,
+    "text": "How did you think about"
+  },
+  {
+    "start": 581.46,
+    "duration": 3.54,
+    "text": "preparation for going multi-product? How did you think about the go-to-market messaging?"
+  },
+  {
+    "start": 585.0,
+    "duration": 5.12,
+    "text": "What were the key components that you needed to put in place to be able to sell that second product?"
+  },
+  {
+    "start": 590.76,
+    "duration": 2.0,
+    "text": "Yeah, I mean, I think first of all, it was"
+  },
+  {
+    "start": 593.46,
+    "duration": 2.0,
+    "text": "understanding what the product is."
+  },
+  {
+    "start": 595.8,
+    "duration": 2.64,
+    "text": "And so what we were launching was engagement surveys."
+  },
+  {
+    "start": 599.16,
+    "duration": 2.96,
+    "text": "Secondly, understanding how does this second product"
+  },
+  {
+    "start": 602.68,
+    "duration": 2.0,
+    "text": "connect to the current product?"
+  },
+  {
+    "start": 605.08,
+    "duration": 4.4,
+    "text": "Third was like, is it the same persona? What I was used to in my prior"
+  },
+  {
+    "start": 610.44,
+    "duration": 2.0,
+    "text": "job at Drawbridge was"
+  },
+  {
+    "start": 612.84,
+    "duration": 2.0,
+    "text": "selling to different personas"
+  },
+  {
+    "start": 615.24,
+    "duration": 3.92,
+    "text": "which is a different version of multi-product, where you're selling into the same"
+  },
+  {
+    "start": 619.56,
+    "duration": 4.48,
+    "text": "account and it's primarily expansion-based, but selling to a completely different persona."
+  },
+  {
+    "start": 624.52,
+    "duration": 3.94,
+    "text": "Versus here, we were selling a new product to the same persona."
+  },
+  {
+    "start": 629.88,
+    "duration": 6.24,
+    "text": "And so first was understanding what the product is, then how does it fit into our current product story?"
+  },
+  {
+    "start": 636.52,
+    "duration": 4.32,
+    "text": "Is there a connection or is it just an added skew that we're adding onto the platform?"
+  },
+  {
+    "start": 641.8,
+    "duration": 5.84,
+    "text": "Third, how do we tell that story? Because now we are no longer a performance management company."
+  },
+  {
+    "start": 648.2,
+    "duration": 5.44,
+    "text": "We're now transitioning from performance management to what is the thing we're transitioning to."
+  },
+  {
+    "start": 654.2,
+    "duration": 4.96,
+    "text": "So working with marketing, working with the exec team, which is fairly small at that point,"
+  },
+  {
+    "start": 659.64,
+    "duration": 2.26,
+    "text": "and figuring out what is our messaging."
+  },
+  {
+    "start": 662.6,
+    "duration": 5.2,
+    "text": "And then we were at that point, gosh, how big were we? We were like five AEs,"
+  },
+  {
+    "start": 668.36,
+    "duration": 1.84,
+    "text": "fairly small,"
+  },
+  {
+    "start": 670.2,
+    "duration": 5.92,
+    "text": "like early. This was five AEs, a couple BDRs. Our marketing team was like three people, including"
+  },
+  {
+    "start": 676.76,
+    "duration": 3.92,
+    "text": "our head of marketing. So it was a very, very lean team."
+  },
+  {
+    "start": 681.4,
+    "duration": 5.2,
+    "text": "And we were like, I think a week away from launch, one week away from launching this product."
+  },
+  {
+    "start": 686.92,
+    "duration": 3.28,
+    "text": "We're like, well, we need to figure out how we're going to train the team on it."
+  },
+  {
+    "start": 690.6,
+    "duration": 3.84,
+    "text": "We've got to do something. And so this is the chaos of startups, where"
+  },
+  {
+    "start": 694.84,
+    "duration": 4.24,
+    "text": "I literally cleared my calendar for two days,"
+  },
+  {
+    "start": 699.8,
+    "duration": 1.04,
+    "text": "and"
+  },
+  {
+    "start": 700.84,
+    "duration": 8.96,
+    "text": "the COO and I, we just locked ourselves up in a conference room and said, we're going to do certifications for every person that's client facing."
+  },
+  {
+    "start": 711.08,
+    "duration": 7.44,
+    "text": "And so we came up with materials for the team saying, you're going to study this, we're going to do a demo,"
+  },
+  {
+    "start": 718.52,
+    "duration": 1.76,
+    "text": "we're going to tell you what the positioning is."
+  },
+  {
+    "start": 720.84,
+    "duration": 6.0,
+    "text": "And then we locked ourselves up in this room, came up with a rubric, and basically did"
+  },
+  {
+    "start": 727.48,
+    "duration": 5.04,
+    "text": "all day, for two days, certifications across AEs, BDRs, CSMs."
+  },
+  {
+    "start": 733.4,
+    "duration": 1.04,
+    "text": "Wow."
+  },
+  {
+    "start": 734.44,
+    "duration": 1.52,
+    "text": "Yeah, early days."
+  },
+  {
+    "start": 735.96,
+    "duration": 1.68,
+    "text": "Very cool."
+  },
+  {
+    "start": 737.64,
+    "duration": 1.28,
+    "text": "And"
+  },
+  {
+    "start": 738.92,
+    "duration": 2.48,
+    "text": "in the subsequent product launches, did you still run a"
+  },
+  {
+    "start": 742.04,
+    "duration": 4.08,
+    "text": "similar certification process? Obviously more robust, but was that always a part of it?"
+  },
+  {
+    "start": 746.68,
+    "duration": 2.0,
+    "text": "Yeah, thankfully, a lot more robust."
+  },
+  {
+    "start": 750.28,
+    "duration": 5.12,
+    "text": "Run by enablement, not with just us sitting in a room, because that wasn't the best use of time."
+  },
+  {
+    "start": 755.4,
+    "duration": 6.08,
+    "text": "But at that point, it was the earlier days, and it set the tone. We also sort of made sure people knew,"
+  },
+  {
+    "start": 762.28,
+    "duration": 5.14,
+    "text": "like, not everyone passed on the first go. So it wasn't just like a check the box type of certification."
+  },
+  {
+    "start": 768.04,
+    "duration": 2.0,
+    "text": "We really wanted people to"
+  },
+  {
+    "start": 771.56,
+    "duration": 3.68,
+    "text": "feel the importance of what it meant to represent the second product,"
+  },
+  {
+    "start": 775.8,
+    "duration": 5.04,
+    "text": "and make sure that we're telling the right story. Because a lot of times when you launch a second product,"
+  },
+  {
+    "start": 781.32,
+    "duration": 4.32,
+    "text": "it's easy to be like, yeah, I got it. I got the main features. I'm going to get out there."
+  },
+  {
+    "start": 785.88,
+    "duration": 5.44,
+    "text": "And then what happens is you sort of still keep selling the primary, the first product that you launched with,"
+  },
+  {
+    "start": 791.64,
+    "duration": 2.0,
+    "text": "and you undersell your new product."
+  },
+  {
+    "start": 794.2,
+    "duration": 2.0,
+    "text": "And so the goal was to"
+  },
+  {
+    "start": 796.6,
+    "duration": 5.38,
+    "text": "really stress the importance that the reason we're sitting in this conference room, and the reason we're doing certifications,"
+  },
+  {
+    "start": 802.94,
+    "duration": 4.88,
+    "text": "and partly keeping a high bar on who gets certified, is to make sure people knew"
+  },
+  {
+    "start": 808.38,
+    "duration": 4.24,
+    "text": "this is an important part of our new messaging, our new sales plays."
+  },
+  {
+    "start": 814.14,
+    "duration": 2.0,
+    "text": "So yeah, we definitely got more robust,"
+  },
+  {
+    "start": 816.3,
+    "duration": 5.2,
+    "text": "but it was like a good signaling to the team of how important it is that we're doing this right now."
+  },
+  {
+    "start": 822.94,
+    "duration": 1.12,
+    "text": "And"
+  },
+  {
+    "start": 824.06,
+    "duration": 3.92,
+    "text": "when you launched engagement surveys, was the focus to go"
+  },
+  {
+    "start": 828.62,
+    "duration": 6.18,
+    "text": "upsell a bunch of existing customers? Was it more about enabling people to win new business? What was the priority?"
+  },
+  {
+    "start": 836.14,
+    "duration": 6.24,
+    "text": "We thought the focus was going to be primarily selling to new customers. It was mostly about growth."
+  },
+  {
+    "start": 843.26,
+    "duration": 2.0,
+    "text": "And we thought this was going to attract"
+  },
+  {
+    "start": 845.5,
+    "duration": 4.24,
+    "text": "a mid-market customer. At that point, we were primarily an SMB business"
+  },
+  {
+    "start": 850.62,
+    "duration": 2.0,
+    "text": "in terms of the segment that we played in."
+  },
+  {
+    "start": 853.18,
+    "duration": 1.28,
+    "text": "And"
+  },
+  {
+    "start": 854.46,
+    "duration": 4.66,
+    "text": "we thought this is going to be more interesting to a mid-market customer. That was our assumption"
+  },
+  {
+    "start": 859.74,
+    "duration": 4.32,
+    "text": "when launching the product. And we thought, yeah, maybe some of the existing customers might be interested,"
+  },
+  {
+    "start": 864.14,
+    "duration": 2.32,
+    "text": "but this is going to really allow us to sell to a different"
+  },
+  {
+    "start": 867.18,
+    "duration": 6.16,
+    "text": "customer base. But that wasn't the case. Our existing customers were interested in consolidating, or at least looking at the product."
+  },
+  {
+    "start": 873.9,
+    "duration": 4.64,
+    "text": "We also had a lot of interest from SMB in this product, for this product."
+  },
+  {
+    "start": 879.02,
+    "duration": 4.56,
+    "text": "So there was a certain level of like the assumptions we had, and that happened with most of our product launches."
+  },
+  {
+    "start": 883.98,
+    "duration": 4.88,
+    "text": "The assumptions we had around who's going to be interested versus post-launch, what we'd learn"
+  },
+  {
+    "start": 889.5,
+    "duration": 3.76,
+    "text": "was there was always new learnings in that, which is like, oh, interesting."
+  },
+  {
+    "start": 893.26,
+    "duration": 4.08,
+    "text": "We didn't think this was based on the research we'd done and the product work we'd done."
+  },
+  {
+    "start": 897.82,
+    "duration": 4.8,
+    "text": "We thought this was going to hit this part of the market. But actually, we learned to stay open."
+  },
+  {
+    "start": 904.04,
+    "duration": 2.0,
+    "text": "Interesting."
+  },
+  {
+    "start": 908.14,
+    "duration": 2.96,
+    "text": "When you got more sophisticated, how much validation were you doing?"
+  },
+  {
+    "start": 911.66,
+    "duration": 2.32,
+    "text": "You have this surprise. So in future"
+  },
+  {
+    "start": 914.62,
+    "duration": 3.84,
+    "text": "launches, did you go out and try to validate that stuff ahead of time? Or did you say,"
+  },
+  {
+    "start": 918.78,
+    "duration": 4.56,
+    "text": "if it's new or existing, we're happy either way? How much rigor did you put around that?"
+  },
+  {
+    "start": 924.06,
+    "duration": 4.24,
+    "text": "We were very good about talking to our existing customers"
+  },
+  {
+    "start": 928.94,
+    "duration": 1.44,
+    "text": "around"
+  },
+  {
+    "start": 930.38,
+    "duration": 5.04,
+    "text": "product strategy, what we're thinking about, and making sure we were building products that we think would resonate"
+  },
+  {
+    "start": 935.98,
+    "duration": 2.0,
+    "text": "with the customers."
+  },
+  {
+    "start": 938.78,
+    "duration": 3.28,
+    "text": "So we definitely did our validation, but there's still sort of, you know, you can't,"
+  },
+  {
+    "start": 942.54,
+    "duration": 5.04,
+    "text": "you're not doing every segment and every cut of the market when you're validating. And so there's"
+  },
+  {
+    "start": 948.14,
+    "duration": 5.92,
+    "text": "still consistently like parts of it, and it was mostly healthy surprises, which is like, we didn't realize"
+  },
+  {
+    "start": 954.46,
+    "duration": 4.02,
+    "text": "that this was the impact we're going to see in this part of the market, which is interesting."
+  },
+  {
+    "start": 959.02,
+    "duration": 5.28,
+    "text": "So yeah, it was a big, you know, when we launched it, it was primarily to like, can we open up a new"
+  },
+  {
+    "start": 965.26,
+    "duration": 5.28,
+    "text": "segment of the market? In reality, it helped us, it increased our win rates,"
+  },
+  {
+    "start": 971.1,
+    "duration": 4.16,
+    "text": "it increased our ACVs, even to the existing base that we were selling to,"
+  },
+  {
+    "start": 975.98,
+    "duration": 2.0,
+    "text": "which was a happy surprise."
+  },
+  {
+    "start": 980.54,
+    "duration": 1.84,
+    "text": "And"
+  },
+  {
+    "start": 982.38,
+    "duration": 3.68,
+    "text": "so what were the other big benefits? So increased win rates, increased ACV,"
+  },
+  {
+    "start": 987.18,
+    "duration": 5.84,
+    "text": "you got expansion revenue. What other big outcomes did you find with launching subsequent products?"
+  },
+  {
+    "start": 993.66,
+    "duration": 5.28,
+    "text": "Yeah, I think the win rate and the ACVs were the highest pieces that also led to"
+  },
+  {
+    "start": 999.42,
+    "duration": 2.24,
+    "text": "healthy attainment rates for the sales team."
+  },
+  {
+    "start": 1002.22,
+    "duration": 5.2,
+    "text": "The other part was like, we're in a fairly noisy space. Lots of companies were doing the same thing."
+  },
+  {
+    "start": 1007.9,
+    "duration": 4.48,
+    "text": "Like you could get a performance management suite for free if you have ADP."
+  },
+  {
+    "start": 1012.54,
+    "duration": 4.48,
+    "text": "So like in some ways we were competing with free. There's a ton of more mature"
+  },
+  {
+    "start": 1017.74,
+    "duration": 4.0,
+    "text": "competitors in space that, you know, had five years of"
+  },
+  {
+    "start": 1022.3,
+    "duration": 5.6,
+    "text": "heads up on us in terms of product build outs. And there's a ton that were like copying us"
+  },
+  {
+    "start": 1028.38,
+    "duration": 3.36,
+    "text": "and were cutting their price in half. So it was a fairly noisy space."
+  },
+  {
+    "start": 1032.22,
+    "duration": 4.64,
+    "text": "So the chance to have a second product and saying we were the first"
+  },
+  {
+    "start": 1037.34,
+    "duration": 4.64,
+    "text": "in market to consolidate performance management and engagement surveys"
+  },
+  {
+    "start": 1042.62,
+    "duration": 5.28,
+    "text": "was powerful. Because now we could say this is the first time you can connect and see"
+  },
+  {
+    "start": 1048.46,
+    "duration": 4.0,
+    "text": "how are your top performers feeling? Because those two things should be"
+  },
+  {
+    "start": 1052.76,
+    "duration": 5.78,
+    "text": "overlapped and like you don't have that insight today. And a lot of times you're surprised when a top performer leaves."
+  },
+  {
+    "start": 1059.02,
+    "duration": 4.88,
+    "text": "What if you could do something about that proactively? And now because we are connecting those data sets"
+  },
+  {
+    "start": 1064.46,
+    "duration": 6.0,
+    "text": "we can help you proactively manage that if there's like hot spots that aren't doing well."
+  },
+  {
+    "start": 1070.7,
+    "duration": 3.52,
+    "text": "And so it was, you know, I think that positioning and that story"
+  },
+  {
+    "start": 1074.86,
+    "duration": 1.36,
+    "text": "really helped."
+  },
+  {
+    "start": 1076.22,
+    "duration": 5.22,
+    "text": "The sort of increased win rates, it translated to increased win rates, higher ACVs."
+  },
+  {
+    "start": 1082.06,
+    "duration": 2.0,
+    "text": "It also opened up new opportunities."
+  },
+  {
+    "start": 1084.46,
+    "duration": 2.24,
+    "text": "I would imagine. Yeah, stickiness."
+  },
+  {
+    "start": 1087.34,
+    "duration": 4.0,
+    "text": "Stickiness. And then consolidation folks wanted, they didn't want multiple vendors."
+  },
+  {
+    "start": 1091.9,
+    "duration": 1.52,
+    "text": "And so"
+  },
+  {
+    "start": 1093.42,
+    "duration": 5.06,
+    "text": "it opened up new types of opportunities for us. People that were coming in and would say, well, I only want engagement."
+  },
+  {
+    "start": 1098.96,
+    "duration": 2.0,
+    "text": "But a completely different ICP."
+  },
+  {
+    "start": 1101.44,
+    "duration": 2.88,
+    "text": "And so, you know, understanding if that would be a good fit for us."
+  },
+  {
+    "start": 1104.32,
+    "duration": 4.56,
+    "text": "But it did open up a lot of our top of the funnel conversations we were having."
+  },
+  {
+    "start": 1109.68,
+    "duration": 5.2,
+    "text": "And, you know, eventually it became the thing that people knew in market that Lattice launches a new product every year."
+  },
+  {
+    "start": 1115.52,
+    "duration": 4.72,
+    "text": "So product velocity and product breadth became a core part of our strategy."
+  },
+  {
+    "start": 1120.8,
+    "duration": 4.4,
+    "text": "Where it was like competitors knew like every year we're going to launch a new product."
+  },
+  {
+    "start": 1126.56,
+    "duration": 1.44,
+    "text": "Very cool."
+  },
+  {
+    "start": 1128.08,
+    "duration": 5.92,
+    "text": "The more top of funnel one's an interesting one because there's just an entire new category you can go"
+  },
+  {
+    "start": 1134.64,
+    "duration": 2.0,
+    "text": "rank for and be featured"
+  },
+  {
+    "start": 1136.94,
+    "duration": 1.7,
+    "text": "against and"
+  },
+  {
+    "start": 1138.64,
+    "duration": 3.84,
+    "text": "it's like a totally new way to come in if somebody doesn't need"
+  },
+  {
+    "start": 1143.68,
+    "duration": 2.0,
+    "text": "the first product at that point."
+  },
+  {
+    "start": 1146.4,
+    "duration": 5.14,
+    "text": "And then it's, you know, so much of it is like the story you tell even if someone comes in with employee engagement."
+  },
+  {
+    "start": 1152.72,
+    "duration": 4.96,
+    "text": "Because we kept a single sales team selling all products, which was another debate,"
+  },
+  {
+    "start": 1158.88,
+    "duration": 1.68,
+    "text": "Okay, I wanted to get here."
+  },
+  {
+    "start": 1160.56,
+    "duration": 1.04,
+    "text": "Yes"
+  },
+  {
+    "start": 1161.6,
+    "duration": 3.6,
+    "text": "because that was, you know, it was like every time we launched a product we thought about well,"
+  },
+  {
+    "start": 1165.68,
+    "duration": 2.0,
+    "text": "should this product be like a specialized"
+  },
+  {
+    "start": 1168.56,
+    "duration": 7.04,
+    "text": "team that just focuses on this product? And we consistently made the decision of like, no, we're going to let train our current teams"
+  },
+  {
+    "start": 1176.4,
+    "duration": 2.4,
+    "text": "and have them sell all products."
+  },
+  {
+    "start": 1179.6,
+    "duration": 2.5,
+    "text": "They both, both those approaches have their trade-offs."
+  },
+  {
+    "start": 1183.28,
+    "duration": 2.32,
+    "text": "But ultimately we decided to like stick with"
+  },
+  {
+    "start": 1186.16,
+    "duration": 2.0,
+    "text": "our current team learning the product."
+  },
+  {
+    "start": 1188.96,
+    "duration": 2.98,
+    "text": "Just given the the sort of buyer experience"
+  },
+  {
+    "start": 1192.64,
+    "duration": 5.12,
+    "text": "in that and also like you can pivot if somebody comes in and asking for product two,"
+  },
+  {
+    "start": 1198.24,
+    "duration": 2.48,
+    "text": "but you know that you could really help them"
+  },
+  {
+    "start": 1201.28,
+    "duration": 7.28,
+    "text": "see the value in product A and then bundle and give you, you know, sort of make commercial discounts happen to get them to buy multiple products."
+  },
+  {
+    "start": 1209.28,
+    "duration": 2.48,
+    "text": "That was a core part of the sales strategy,"
+  },
+  {
+    "start": 1211.76,
+    "duration": 7.2,
+    "text": "which was easier to deploy when you have a single AE selling all products versus multiple AEs selling different products."
+  },
+  {
+    "start": 1220.0,
+    "duration": 1.6,
+    "text": "So how did you make that decision?"
+  },
+  {
+    "start": 1221.6,
+    "duration": 4.96,
+    "text": "So we talked a little bit about the outcomes like the buyer experience, the ability to have more"
+  },
+  {
+    "start": 1227.12,
+    "duration": 2.72,
+    "text": "things in your bag to sell in that moment,"
+  },
+  {
+    "start": 1230.62,
+    "duration": 1.3,
+    "text": "bundling, like"
+  },
+  {
+    "start": 1231.92,
+    "duration": 6.32,
+    "text": "what's the other side of it? In what situations would you have a specialist rep or like what's the"
+  },
+  {
+    "start": 1238.56,
+    "duration": 2.0,
+    "text": "what are the pros and cons of each?"
+  },
+  {
+    "start": 1240.64,
+    "duration": 4.64,
+    "text": "I think especially in a drawbridge we had specialist reps that even within the same account,"
+  },
+  {
+    "start": 1245.76,
+    "duration": 3.44,
+    "text": "these were large enterprises, but within the same account we'd have"
+  },
+  {
+    "start": 1250.08,
+    "duration": 4.8,
+    "text": "rep A sell product A product one and rep B sell product two."
+  },
+  {
+    "start": 1255.52,
+    "duration": 3.38,
+    "text": "And it made sense because they were different personas."
+  },
+  {
+    "start": 1259.68,
+    "duration": 5.04,
+    "text": "And there weren't, there wasn't a ton of, so I think persona if you're selling the same persona, that's one"
+  },
+  {
+    "start": 1265.36,
+    "duration": 2.82,
+    "text": "reason to think through like does it make sense to have multiple"
+  },
+  {
+    "start": 1268.88,
+    "duration": 5.12,
+    "text": "reps sell to the same persona under the same umbrella, which was the chief people officer."
+  },
+  {
+    "start": 1274.72,
+    "duration": 3.44,
+    "text": "Two is the the velocity at which you're shipping new products to."
+  },
+  {
+    "start": 1278.72,
+    "duration": 5.68,
+    "text": "If you're shipping them twice a year, I would think and you know, even this was like towards the end,"
+  },
+  {
+    "start": 1284.8,
+    "duration": 5.92,
+    "text": "it definitely became more challenging to train the team on we've got four products. Now you've got a fifth one."
+  },
+  {
+    "start": 1291.2,
+    "duration": 2.0,
+    "text": "So you've got to remember as a rep,"
+  },
+  {
+    "start": 1293.76,
+    "duration": 3.2,
+    "text": "you know lots of breadth, but also depth in each of those products."
+  },
+  {
+    "start": 1297.36,
+    "duration": 4.0,
+    "text": "And so it becomes a training and enablement challenge. So that was the flip side of it."
+  },
+  {
+    "start": 1301.92,
+    "duration": 6.82,
+    "text": "Third, it's like how who's accountable because yes, reps are going to maximize ACVs and try to maximize"
+  },
+  {
+    "start": 1310.08,
+    "duration": 7.76,
+    "text": "win rates, but ultimately if your product through two and three like ultimately who's owning the quota for those specific products."
+  },
+  {
+    "start": 1318.16,
+    "duration": 2.42,
+    "text": "Like those are the trade-offs we thought about and ultimately,"
+  },
+  {
+    "start": 1321.14,
+    "duration": 5.84,
+    "text": "you know, my answer was I'll be accountable to make sure we have the right comp plan, the right incentives, the right training structure"
+  },
+  {
+    "start": 1327.38,
+    "duration": 6.56,
+    "text": "to make sure our current team sells through products in new business and then expands it post sale."
+  },
+  {
+    "start": 1334.82,
+    "duration": 4.16,
+    "text": "Okay, I want to come back to incentives. So in terms of the structure,"
+  },
+  {
+    "start": 1340.34,
+    "duration": 2.5,
+    "text": "buyer experience, the personas,"
+  },
+  {
+    "start": 1343.76,
+    "duration": 4.82,
+    "text": "bundling, like if you don't bundle a lot, then maybe the single threaded rep isn't"
+  },
+  {
+    "start": 1349.22,
+    "duration": 2.0,
+    "text": "necessary. And so the reasons to not,"
+  },
+  {
+    "start": 1352.02,
+    "duration": 4.56,
+    "text": "the reason to have multiple reps would be like maybe the technical breadth."
+  },
+  {
+    "start": 1357.22,
+    "duration": 2.0,
+    "text": "What else would get you to have"
+  },
+  {
+    "start": 1359.94,
+    "duration": 2.4,
+    "text": "multiple reps selling the same product as opposed to one?"
+  },
+  {
+    "start": 1363.38,
+    "duration": 2.0,
+    "text": "Technical depth would be one."
+  },
+  {
+    "start": 1366.02,
+    "duration": 6.0,
+    "text": "Just the ability to go really deep on a specific product and be the specialist on that product."
+  },
+  {
+    "start": 1372.66,
+    "duration": 3.84,
+    "text": "Two, the accountability per product, revenue per product."
+  },
+  {
+    "start": 1376.98,
+    "duration": 4.0,
+    "text": "Right. Another piece because now you've got quota assigned to a specific product"
+  },
+  {
+    "start": 1381.46,
+    "duration": 3.68,
+    "text": "versus sort of general quota assigned against all products."
+  },
+  {
+    "start": 1386.9,
+    "duration": 4.96,
+    "text": "So it's accountability. And third, it's like the rollouts become so much simpler"
+  },
+  {
+    "start": 1392.34,
+    "duration": 2.48,
+    "text": "because now you've got basically a GM structure"
+  },
+  {
+    "start": 1395.46,
+    "duration": 5.6,
+    "text": "where the product manager directly talks to the PMM that's associated with that product, talks to the sales team"
+  },
+  {
+    "start": 1401.62,
+    "duration": 2.64,
+    "text": "versus in this org, you've got"
+  },
+  {
+    "start": 1404.98,
+    "duration": 6.0,
+    "text": "even though you've got specific product managers, they've got to go sell to all of customer facing"
+  },
+  {
+    "start": 1412.42,
+    "duration": 4.74,
+    "text": "employees, which is a challenge. So the complexity internally of launching new products,"
+  },
+  {
+    "start": 1418.1,
+    "duration": 3.04,
+    "text": "there's a real overhead to that on the flip side."
+  },
+  {
+    "start": 1422.5,
+    "duration": 2.58,
+    "text": "Yeah, so when I joined Shopify,"
+  },
+  {
+    "start": 1425.7,
+    "duration": 1.68,
+    "text": "it was to"
+  },
+  {
+    "start": 1427.46,
+    "duration": 4.4,
+    "text": "greatly expand the sales-led motion for our point of sale product. Point of sale had been"
+  },
+  {
+    "start": 1432.26,
+    "duration": 2.0,
+    "text": "like a down market product-led"
+  },
+  {
+    "start": 1434.5,
+    "duration": 2.0,
+    "text": "thing and they"
+  },
+  {
+    "start": 1436.58,
+    "duration": 1.68,
+    "text": "rebuilt the whole"
+  },
+  {
+    "start": 1438.26,
+    "duration": 4.48,
+    "text": "suite. It was ready for prime time. They wanted to take it up market and needed a sales-led motion."
+  },
+  {
+    "start": 1443.62,
+    "duration": 1.44,
+    "text": "And"
+  },
+  {
+    "start": 1445.06,
+    "duration": 2.0,
+    "text": "it was interesting being"
+  },
+  {
+    "start": 1448.34,
+    "duration": 4.88,
+    "text": "a new team over on the side that had no connection to the existing sales team."
+  },
+  {
+    "start": 1453.46,
+    "duration": 6.48,
+    "text": "We didn't even roll into the same CRO. The two org charts didn't overlap until basically the CEO, I don't think,"
+  },
+  {
+    "start": 1460.5,
+    "duration": 6.24,
+    "text": "because it was owned by a VP of product who owned that category that had its own marketing team, own sales team."
+  },
+  {
+    "start": 1467.54,
+    "duration": 1.12,
+    "text": "And"
+  },
+  {
+    "start": 1468.66,
+    "duration": 1.04,
+    "text": "the"
+  },
+  {
+    "start": 1469.7,
+    "duration": 3.68,
+    "text": "decision there was, look, this other team's never going to pay attention to point of sale."
+  },
+  {
+    "start": 1474.26,
+    "duration": 6.32,
+    "text": "Their number for next year is like a billion dollars in net new revenue and my target was like"
+  },
+  {
+    "start": 1481.44,
+    "duration": 6.02,
+    "text": "130. It's not worth paying attention. And so to give it its own life and its own"
+  },
+  {
+    "start": 1488.74,
+    "duration": 5.68,
+    "text": "space to be successful, we needed a totally separate thing. And then we got it to a level where"
+  },
+  {
+    "start": 1495.46,
+    "duration": 4.8,
+    "text": "arguably, we were too successful for our own good and they wanted to collapse everything together and"
+  },
+  {
+    "start": 1501.54,
+    "duration": 2.0,
+    "text": "bring it under one roof."
+  },
+  {
+    "start": 1504.02,
+    "duration": 5.44,
+    "text": "But it was really challenging to be a separate thing and then try to bring it all together."
+  },
+  {
+    "start": 1509.86,
+    "duration": 2.0,
+    "text": "That product basically"
+  },
+  {
+    "start": 1513.22,
+    "duration": 4.24,
+    "text": "didn't stall out, but didn't grow anywhere as fast as it should have in the year"
+  },
+  {
+    "start": 1517.46,
+    "duration": 6.48,
+    "text": "we tried to bring it together because now it was a small thing that wasn't going to drive the main number."
+  },
+  {
+    "start": 1524.42,
+    "duration": 2.72,
+    "text": "Now it's come back to prominence and they've restaffed it, but"
+  },
+  {
+    "start": 1528.34,
+    "duration": 2.72,
+    "text": "it was interesting for me to see the other side of things."
+  },
+  {
+    "start": 1532.18,
+    "duration": 3.52,
+    "text": "There were three different sales teams that never overlapped in the org chart."
+  },
+  {
+    "start": 1536.18,
+    "duration": 5.52,
+    "text": "Yeah, financial products, point of sale, and then our core plus product and now everything's all together and"
+  },
+  {
+    "start": 1543.78,
+    "duration": 5.84,
+    "text": "I think for many organizations, that's a more effective approach if the rep can handle it."
+  },
+  {
+    "start": 1550.34,
+    "duration": 2.0,
+    "text": "Yeah, I think that's the big question mark."
+  },
+  {
+    "start": 1552.82,
+    "duration": 2.0,
+    "text": "Can you handle it?"
+  },
+  {
+    "start": 1555.46,
+    "duration": 2.64,
+    "text": "Yeah, I almost think as hearing you talk it through,"
+  },
+  {
+    "start": 1558.82,
+    "duration": 2.0,
+    "text": "the default answer should be"
+  },
+  {
+    "start": 1561.14,
+    "duration": 2.4,
+    "text": "give it to the existing reps unless it is"
+  },
+  {
+    "start": 1564.34,
+    "duration": 4.96,
+    "text": "so complex that they can't do it. It's so different and it's going to take them"
+  },
+  {
+    "start": 1569.78,
+    "duration": 4.48,
+    "text": "away from their existing things so much that you need a specialist, but the default should be"
+  },
+  {
+    "start": 1574.82,
+    "duration": 5.04,
+    "text": "try to make it work with one rep, even from a buyer's perspective. That would make sense to me."
+  },
+  {
+    "start": 1580.34,
+    "duration": 5.6,
+    "text": "Yeah, or it's like there's clear reason to do it if it's a different persona. I think HubSpot had done that"
+  },
+  {
+    "start": 1586.5,
+    "duration": 5.12,
+    "text": "where they'd done it really successfully where they had this"
+  },
+  {
+    "start": 1592.1,
+    "duration": 2.0,
+    "text": "motion going and then they sort of"
+  },
+  {
+    "start": 1594.1,
+    "duration": 5.28,
+    "text": "seeded a new one with PLG. Actually, they started sales led then added PLG and then consolidated it all."
+  },
+  {
+    "start": 1599.86,
+    "duration": 5.7,
+    "text": "I think it can be done, but there is just so much complexity and there's complexity on both approaches."
+  },
+  {
+    "start": 1606.34,
+    "duration": 5.36,
+    "text": "When I thought about all the things I faced at Drawbridge when I had two reps in the same account"
+  },
+  {
+    "start": 1613.14,
+    "duration": 2.0,
+    "text": "with the two different products, it was"
+  },
+  {
+    "start": 1615.54,
+    "duration": 2.56,
+    "text": "like the sort of attribution challenges and"
+  },
+  {
+    "start": 1618.82,
+    "duration": 4.16,
+    "text": "the confusion on the buyer's side, even with two personas."
+  },
+  {
+    "start": 1623.78,
+    "duration": 3.92,
+    "text": "I agree with you. The default, especially if you're a mid-market"
+  },
+  {
+    "start": 1628.24,
+    "duration": 5.72,
+    "text": "SMB-focused business, selling to the same persona is default to the same rep and through enablement."
+  },
+  {
+    "start": 1634.1,
+    "duration": 7.28,
+    "text": "Eventually, we added in a layer of SEs that played product specialists so we could pull them in"
+  },
+  {
+    "start": 1642.02,
+    "duration": 3.76,
+    "text": "and I wish we did that earlier. In hindsight,"
+  },
+  {
+    "start": 1646.5,
+    "duration": 5.76,
+    "text": "we waited too long to add that layer in instead of continuing to force reps to learn"
+  },
+  {
+    "start": 1652.88,
+    "duration": 2.1,
+    "text": "everything and we could have just said,"
+  },
+  {
+    "start": 1655.54,
+    "duration": 1.28,
+    "text": "here's a"
+  },
+  {
+    "start": 1656.82,
+    "duration": 3.6,
+    "text": "SME, a specialist that'll help you with anything related to comp"
+  },
+  {
+    "start": 1660.96,
+    "duration": 5.38,
+    "text": "compensation or anything related to OKRs. Maybe that is one learning in hindsight."
+  },
+  {
+    "start": 1667.06,
+    "duration": 2.0,
+    "text": "That's a really interesting takeaway."
+  },
+  {
+    "start": 1669.14,
+    "duration": 4.16,
+    "text": "Yeah, I think that's one that I'm going to put in the old memory bank."
+  },
+  {
+    "start": 1675.46,
+    "duration": 2.98,
+    "text": "So let's go to incentives. How did you think about incentivizing?"
+  },
+  {
+    "start": 1679.38,
+    "duration": 2.26,
+    "text": "It's this new product. I'm not really comfortable."
+  },
+  {
+    "start": 1682.34,
+    "duration": 4.96,
+    "text": "It's harder to sell. The market doesn't get it. How do you actually get a rep to be excited to go"
+  },
+  {
+    "start": 1688.02,
+    "duration": 2.0,
+    "text": "sell this new thing when"
+  },
+  {
+    "start": 1690.18,
+    "duration": 2.0,
+    "text": "all of our status quo bias would push us"
+  },
+  {
+    "start": 1692.82,
+    "duration": 2.0,
+    "text": "away from embracing that new thing?"
+  },
+  {
+    "start": 1695.62,
+    "duration": 4.96,
+    "text": "Yeah, I think using SPFs was really big for us in the beginning and then bragging rights."
+  },
+  {
+    "start": 1702.02,
+    "duration": 2.0,
+    "text": "We had a huge culture of celebration"
+  },
+  {
+    "start": 1704.58,
+    "duration": 2.16,
+    "text": "on deals and watching a rep"
+  },
+  {
+    "start": 1707.3,
+    "duration": 3.68,
+    "text": "being able to turn a $7k deal into a $13k deal"
+  },
+  {
+    "start": 1711.38,
+    "duration": 6.0,
+    "text": "because they added on a second product and seeing what that did to their quota and how they were able to navigate it and the"
+  },
+  {
+    "start": 1717.38,
+    "duration": 1.92,
+    "text": "fact that they get bragging rights."
+  },
+  {
+    "start": 1720.18,
+    "duration": 6.24,
+    "text": "We had fun contests of who sold the first 10 deals because so much of it is just creating momentum in the beginning"
+  },
+  {
+    "start": 1726.66,
+    "duration": 3.12,
+    "text": "because once you get that initial momentum, people pick up and sort of"
+  },
+  {
+    "start": 1730.42,
+    "duration": 2.88,
+    "text": "drive it. But changing the status quo"
+  },
+  {
+    "start": 1734.34,
+    "duration": 5.68,
+    "text": "and letting inertia win is the challenge. SPFs were huge. Contests were huge. A lot of this was like"
+  },
+  {
+    "start": 1740.82,
+    "duration": 5.92,
+    "text": "we tried not to touch the comp plans because when you touch comp plans, there's always trade-offs to it."
+  },
+  {
+    "start": 1747.06,
+    "duration": 6.9,
+    "text": "So we tried to sort of focus more on what are short-term SPFs and what are the cultural things we can do to really celebrate."
+  },
+  {
+    "start": 1754.5,
+    "duration": 3.92,
+    "text": "So even at Company All Hands, we talk about, oh, these folks closed the"
+  },
+  {
+    "start": 1758.98,
+    "duration": 4.64,
+    "text": "first five deals for this new product. And so I think folks really tried to"
+  },
+  {
+    "start": 1764.5,
+    "duration": 2.16,
+    "text": "live up to that and then it became part of the"
+  },
+  {
+    "start": 1767.38,
+    "duration": 5.68,
+    "text": "fabric of the culture of like we launch a new product and I want to be the first five on the leaderboard that sells it."
+  },
+  {
+    "start": 1773.78,
+    "duration": 2.0,
+    "text": "Yeah, that makes a ton of sense. I'm reading"
+  },
+  {
+    "start": 1776.34,
+    "duration": 5.44,
+    "text": "The Power of Moments right now by the Heath Brothers and one of the things that they talk about is like the"
+  },
+  {
+    "start": 1782.5,
+    "duration": 5.12,
+    "text": "is the importance of the recognition feedback loop. So they talk about this"
+  },
+  {
+    "start": 1789.14,
+    "duration": 2.56,
+    "text": "research by Carolyn Wiley."
+  },
+  {
+    "start": 1792.9,
+    "duration": 2.0,
+    "text": "And so she's University of"
+  },
+  {
+    "start": 1795.86,
+    "duration": 5.76,
+    "text": "Roosevelt University. And so they did a study of like employee engagement over 50 years and"
+  },
+  {
+    "start": 1802.18,
+    "duration": 7.6,
+    "text": "the thing that came up every single time in every survey they did across 50 years was as the only thing that stayed a top two"
+  },
+  {
+    "start": 1810.34,
+    "duration": 3.36,
+    "text": "input in every single one was"
+  },
+  {
+    "start": 1814.96,
+    "duration": 6.58,
+    "text": "continuous ongoing recognition and not like a recognition program. The point they're making is it's not a program."
+  },
+  {
+    "start": 1822.02,
+    "duration": 7.12,
+    "text": "It's just like every week, is there a drip feed of recognition going to your employees on like a one-to-one basis?"
+  },
+  {
+    "start": 1829.86,
+    "duration": 4.24,
+    "text": "And all the engagement research like the Gallup Q12 stuff that I really like and"
+  },
+  {
+    "start": 1834.98,
+    "duration": 5.2,
+    "text": "so I think that's a really interesting piece of it. Like, you know, it doesn't need to be just about the money."
+  },
+  {
+    "start": 1840.74,
+    "duration": 2.0,
+    "text": "It could be the"
+  },
+  {
+    "start": 1842.98,
+    "duration": 2.66,
+    "text": "it could be that recognition and the reinforcement."
+  },
+  {
+    "start": 1846.1,
+    "duration": 6.4,
+    "text": "Yeah, and we saw that even with like other things like when we launched Outbound and like getting people to actually go into Outbound."
+  },
+  {
+    "start": 1852.98,
+    "duration": 4.48,
+    "text": "It's a challenge when you've got good inbound demand and you're in a place where you can find your way"
+  },
+  {
+    "start": 1858.1,
+    "duration": 6.08,
+    "text": "find your way to quota just through inbound like getting folks to say no now let's spend time on this thing. That's painful"
+  },
+  {
+    "start": 1864.74,
+    "duration": 4.48,
+    "text": "but it is important long term for you and like we did I think using"
+  },
+  {
+    "start": 1869.92,
+    "duration": 5.38,
+    "text": "recognition and creating that culture of bragging rights like really went a long way where people wanted to"
+  },
+  {
+    "start": 1875.78,
+    "duration": 3.04,
+    "text": "step up and help figure it out. So yeah, I couldn't agree more"
+  },
+  {
+    "start": 1879.3,
+    "duration": 4.08,
+    "text": "with that. And like making it a thing making it a moment like this is"
+  },
+  {
+    "start": 1883.86,
+    "duration": 2.72,
+    "text": "this is the thing that is sort of everywhere in our"
+  },
+  {
+    "start": 1887.22,
+    "duration": 1.76,
+    "text": "in our ecosystem"
+  },
+  {
+    "start": 1888.98,
+    "duration": 1.6,
+    "text": "in the company of the"
+  },
+  {
+    "start": 1890.58,
+    "duration": 4.32,
+    "text": "Shoutouts the leaderboard the spiffs, you know that that all that added momentum. That's cool"
+  },
+  {
+    "start": 1894.98,
+    "duration": 3.68,
+    "text": "Yeah, I think it's like important to only do one or two things like what you can't do"
+  },
+  {
+    "start": 1898.74,
+    "duration": 2.0,
+    "text": "Yeah, it's like have 10 things"
+  },
+  {
+    "start": 1901.22,
+    "duration": 4.88,
+    "text": "that are all we're gonna get recognized and they're all important and so like you've got to pick one thing for this quarter"
+  },
+  {
+    "start": 1906.34,
+    "duration": 4.0,
+    "text": "It's like we're gonna launch this product and do an amazing job at it or we're gonna launch outbound"
+  },
+  {
+    "start": 1910.5,
+    "duration": 5.06,
+    "text": "So yeah, I think I agree with like making it a thing across the board. But first a word from our sponsors"
+  },
+  {
+    "start": 1917.14,
+    "duration": 2.0,
+    "text": "So"
+  },
+  {
+    "start": 1922.5,
+    "duration": 3.52,
+    "text": "Are you coming to gtm 2024 in austin, texas"
+  },
+  {
+    "start": 1926.82,
+    "duration": 2.8,
+    "text": "It's going to happen october 14th to 16th"
+  },
+  {
+    "start": 1930.58,
+    "duration": 4.24,
+    "text": "I'm, kim scott and I wrote radical candor and radical respect"
+  },
+  {
+    "start": 1935.46,
+    "duration": 1.42,
+    "text": "at gtm"
+  },
+  {
+    "start": 1936.88,
+    "duration": 4.9,
+    "text": "2024 i'm going to be diving into how you can solicit feedback"
+  },
+  {
+    "start": 1942.18,
+    "duration": 2.32,
+    "text": "It'll give you the opportunity to read minds"
+  },
+  {
+    "start": 1945.06,
+    "duration": 2.66,
+    "text": "How you can give both praise and criticism"
+  },
+  {
+    "start": 1948.18,
+    "duration": 6.1,
+    "text": "And how you can gauge how what you are saying is landing and make corrections so that you can have better conversations"
+  },
+  {
+    "start": 1955.54,
+    "duration": 2.0,
+    "text": "whether you're looking to"
+  },
+  {
+    "start": 1958.34,
+    "duration": 4.24,
+    "text": "Improve your relationships at work or improve your results at work"
+  },
+  {
+    "start": 1962.74,
+    "duration": 4.5,
+    "text": "This session will equip you with the strategy strategies to excel in 2025"
+  },
+  {
+    "start": 1967.8,
+    "duration": 4.74,
+    "text": "So don't wait get your ticket before they sell out you can get it at join pavilion.com"
+  },
+  {
+    "start": 1974.02,
+    "duration": 3.06,
+    "text": "Gtm 2024. See you in austin"
+  },
+  {
+    "start": 1978.36,
+    "duration": 3.12,
+    "text": "That's great. And so just going back to incentives. Um"
+  },
+  {
+    "start": 1982.6,
+    "duration": 6.0,
+    "text": "Did you change the structure of the comp plan outside of spiffs or did you you were still just going to pay on acv?"
+  },
+  {
+    "start": 1989.0,
+    "duration": 2.0,
+    "text": "And this was a way to get more acv"
+  },
+  {
+    "start": 1991.08,
+    "duration": 4.32,
+    "text": "Or did you have your comp plan broken down by product and like certain products got higher percentage?"
+  },
+  {
+    "start": 1995.56,
+    "duration": 2.0,
+    "text": "Just walk me through what the comp plan looked like"
+  },
+  {
+    "start": 1997.64,
+    "duration": 4.88,
+    "text": "No, we thought about it almost every every six months. We'd be like should we change our comp plan?"
+  },
+  {
+    "start": 2002.84,
+    "duration": 2.0,
+    "text": "Should we add in the product-based?"
+  },
+  {
+    "start": 2005.64,
+    "duration": 6.34,
+    "text": "Quotas or give for people guidance and we decided against it because it could it could lead to odd behaviors"
+  },
+  {
+    "start": 2012.6,
+    "duration": 6.08,
+    "text": "Um, I did that for outbound which was a mistake where we actually said we'll pay you more on outbound deals than inbound deals"
+  },
+  {
+    "start": 2019.64,
+    "duration": 6.4,
+    "text": "And to just incentivize action on outbound and it actually drove the the wrong kind of behavior because people were like well"
+  },
+  {
+    "start": 2026.52,
+    "duration": 2.0,
+    "text": "I don't want to share this lead with"
+  },
+  {
+    "start": 2028.52,
+    "duration": 6.24,
+    "text": "With marketing when they're running a program because I want to get credit or i'll spend more time on a five thousand dollar outbound deal"
+  },
+  {
+    "start": 2034.76,
+    "duration": 5.04,
+    "text": "Than a ten thousand dollar inbound deal. So it's like weird incentives. And so we decided to"
+  },
+  {
+    "start": 2040.36,
+    "duration": 3.44,
+    "text": "instead of changing the comp plan educating the team"
+  },
+  {
+    "start": 2044.44,
+    "duration": 0.8,
+    "text": "on"
+  },
+  {
+    "start": 2045.24,
+    "duration": 2.0,
+    "text": "the upside if you"
+  },
+  {
+    "start": 2047.4,
+    "duration": 7.12,
+    "text": "Sell these additional products what that does to your acvs what that does to your quota attainment like you have to sell less deals"
+  },
+  {
+    "start": 2055.08,
+    "duration": 3.22,
+    "text": "To get to same or higher levels of performance"
+  },
+  {
+    "start": 2058.92,
+    "duration": 3.2,
+    "text": "on a quarterly basis, so we put in resources around"
+  },
+  {
+    "start": 2062.68,
+    "duration": 1.12,
+    "text": "um"
+  },
+  {
+    "start": 2063.8,
+    "duration": 7.92,
+    "text": "Your you know quota calculators. We'd sort of talk about it in all hands saying here's kevin. Kevin's crushed selling new"
+  },
+  {
+    "start": 2072.36,
+    "duration": 4.08,
+    "text": "Products he sold less deals, but has produced more revenue"
+  },
+  {
+    "start": 2076.76,
+    "duration": 5.44,
+    "text": "Here's what it meant. So so much of it was less the comp plan changes and more, you know again part of like"
+  },
+  {
+    "start": 2082.76,
+    "duration": 5.28,
+    "text": "Just beating the drum on the advantages that you have the company has a ton of advantage of selling multiple products"
+  },
+  {
+    "start": 2088.04,
+    "duration": 5.36,
+    "text": "But you've got you can give yourself a raise by by adding this to your playbook"
+  },
+  {
+    "start": 2093.96,
+    "duration": 6.88,
+    "text": "Hmm. Yeah that that comp visibility is so important, you know, like quota path does a good job with this their whole"
+  },
+  {
+    "start": 2101.32,
+    "duration": 3.28,
+    "text": "Shtick is like we're not going to just calculate quotas for finance"
+  },
+  {
+    "start": 2104.6,
+    "duration": 4.96,
+    "text": "But we're going to like show the rep and help you incentivize people. I I think that that gets"
+  },
+  {
+    "start": 2111.0,
+    "duration": 4.88,
+    "text": "we don't utilize that enough as as revenue leaders like helping people see the math and"
+  },
+  {
+    "start": 2116.66,
+    "duration": 6.5,
+    "text": "Visualize, you know, like hey, this is like a twelve thousand dollar paycheck if you can get x and y by selling these new things"
+  },
+  {
+    "start": 2123.96,
+    "duration": 2.8,
+    "text": "So the whole time you had just an acv based"
+  },
+  {
+    "start": 2127.32,
+    "duration": 5.04,
+    "text": "Uh comp plan nice and simple accelerator. Oh, yep. We had accelerators and that's it"
+  },
+  {
+    "start": 2133.32,
+    "duration": 2.0,
+    "text": "You were listening to robert"
+  },
+  {
+    "start": 2135.38,
+    "duration": 4.74,
+    "text": "Simplicity simplicity is a part of the comp philosophy from sales acceleration formula percent"
+  },
+  {
+    "start": 2140.92,
+    "duration": 2.0,
+    "text": "That's awesome. Um"
+  },
+  {
+    "start": 2143.24,
+    "duration": 2.88,
+    "text": "so I wanted to go into enablement, so"
+  },
+  {
+    "start": 2147.32,
+    "duration": 4.9,
+    "text": "Let's maybe fast forward beyond you and jack in a boardroom certifying"
+  },
+  {
+    "start": 2153.1,
+    "duration": 7.2,
+    "text": "What did uh, what did a great enablement and rollout look like how far before you launched did you start doing stuff?"
+  },
+  {
+    "start": 2160.94,
+    "duration": 2.72,
+    "text": "Um, just walk walk me through like what best in class enablement looked like"
+  },
+  {
+    "start": 2164.22,
+    "duration": 4.0,
+    "text": "Yeah, um, i'm a huge believer of enablement. I think a lot of times"
+  },
+  {
+    "start": 2169.5,
+    "duration": 2.0,
+    "text": "Yeah, revenue leaders underutilize"
+  },
+  {
+    "start": 2172.04,
+    "duration": 6.34,
+    "text": "Enablement and think it's just training but enablement can be so much more like it always reported directly into me"
+  },
+  {
+    "start": 2178.86,
+    "duration": 4.96,
+    "text": "Uh partly because I I wanted to make sure people it's it's strategic if you leverage it such"
+  },
+  {
+    "start": 2184.3,
+    "duration": 4.88,
+    "text": "Can be the glue that really connects all the pieces of the org because as you start to scale"
+  },
+  {
+    "start": 2189.66,
+    "duration": 2.64,
+    "text": "The thing that's hardest is like how do you make sure?"
+  },
+  {
+    "start": 2193.02,
+    "duration": 4.72,
+    "text": "Um, especially in a remote hybrid world where we're not all in an office all the time"
+  },
+  {
+    "start": 2198.3,
+    "duration": 6.56,
+    "text": "um the the risk of people coming up with their own versions of what this product's meant to do"
+  },
+  {
+    "start": 2205.34,
+    "duration": 5.6,
+    "text": "Yeah is so high like just their own versions of reality forget, you know product launches but for anything"
+  },
+  {
+    "start": 2211.5,
+    "duration": 3.6,
+    "text": "And enablement can play the role of really making sure"
+  },
+  {
+    "start": 2216.54,
+    "duration": 2.0,
+    "text": "product marketing product"
+  },
+  {
+    "start": 2219.98,
+    "duration": 4.64,
+    "text": "Sales uh customer success are all sort of saying the right things"
+  },
+  {
+    "start": 2225.34,
+    "duration": 4.74,
+    "text": "Um, so product marketing is like pre-product when you're building the product plays that role of the quarterback"
+  },
+  {
+    "start": 2230.62,
+    "duration": 0.96,
+    "text": "across"
+  },
+  {
+    "start": 2231.58,
+    "duration": 6.72,
+    "text": "Product and marketing content all the pieces and then once it's closer to launch. That's where enablement takes over"
+  },
+  {
+    "start": 2238.86,
+    "duration": 4.48,
+    "text": "And enablement's responsible of working with product marketing and saying, okay. Now, how do I translate this?"
+  },
+  {
+    "start": 2243.98,
+    "duration": 2.32,
+    "text": "Um this new feature this new product"
+  },
+  {
+    "start": 2246.86,
+    "duration": 4.66,
+    "text": "And make it relevant and translate it for the different audiences and stakeholders"
+  },
+  {
+    "start": 2252.22,
+    "duration": 3.52,
+    "text": "So a bdr doesn't need to know all the details about every product"
+  },
+  {
+    "start": 2255.82,
+    "duration": 3.04,
+    "text": "But they need to be able to speak to the value and what it means"
+  },
+  {
+    "start": 2259.5,
+    "duration": 3.04,
+    "text": "um a csm might need to go in much more detail and"
+  },
+  {
+    "start": 2262.86,
+    "duration": 6.8,
+    "text": "Explain sort of how an existing customer might see value and the reporting advantages or whatever the feature advantages are"
+  },
+  {
+    "start": 2270.14,
+    "duration": 4.82,
+    "text": "Sales has to tell the story. So I think there's like different ways to construct enablement"
+  },
+  {
+    "start": 2275.5,
+    "duration": 3.2,
+    "text": "That is personalized to the different stakeholders in the business"
+  },
+  {
+    "start": 2279.1,
+    "duration": 2.4,
+    "text": "Which I think a lot of times people think of enablement as like well"
+  },
+  {
+    "start": 2281.58,
+    "duration": 5.52,
+    "text": "They take stuff for product marketing create a deck and train the yeah. Yeah. Yeah. Yeah, you know as the base level"
+  },
+  {
+    "start": 2287.66,
+    "duration": 2.48,
+    "text": "Uh, it's like the most fun at the foundational level"
+  },
+  {
+    "start": 2290.14,
+    "duration": 5.36,
+    "text": "That's what it is. But I think at its best it can truly be the glue that connects all the pieces together"
+  },
+  {
+    "start": 2296.22,
+    "duration": 4.48,
+    "text": "For sure. I have i've been very lucky to work with awesome enablement people"
+  },
+  {
+    "start": 2301.42,
+    "duration": 4.56,
+    "text": "And i'm super picky about it, but it's you know, absolutely such a strategic asset for me"
+  },
+  {
+    "start": 2306.54,
+    "duration": 2.0,
+    "text": "So shout out to mel and rob"
+  },
+  {
+    "start": 2309.18,
+    "duration": 2.0,
+    "text": "uh henry, um"
+  },
+  {
+    "start": 2312.14,
+    "duration": 5.52,
+    "text": "Who wrote the narrative so when you when you took things to market who wrote what the reps said"
+  },
+  {
+    "start": 2319.1,
+    "duration": 6.56,
+    "text": "Um, it's a good question because it was it was a joint effort because when we had it where it was just marketing doing it"
+  },
+  {
+    "start": 2326.3,
+    "duration": 3.92,
+    "text": "Um, or just enablement doing it, you know, it had its blind spots"
+  },
+  {
+    "start": 2330.62,
+    "duration": 3.04,
+    "text": "So what we learn is like for every product launch we'd pick"
+  },
+  {
+    "start": 2334.3,
+    "duration": 2.58,
+    "text": "A small team that would workshop"
+  },
+  {
+    "start": 2337.44,
+    "duration": 3.7,
+    "text": "The positioning so it start with you know product marketing would lead that exercise"
+  },
+  {
+    "start": 2341.52,
+    "duration": 4.4,
+    "text": "So they come to the table saying here's what we're thinking. Here's the positioning. Here's the story. Here's the market"
+  },
+  {
+    "start": 2346.56,
+    "duration": 5.76,
+    "text": "And then sales would come back with well, I don't know if that resonates that doesn't feel like how I talk"
+  },
+  {
+    "start": 2352.72,
+    "duration": 4.24,
+    "text": "So, how do I now turn this positioning document into something that's usable?"
+  },
+  {
+    "start": 2357.6,
+    "duration": 4.98,
+    "text": "Um at the different levels and so we'd have one or two aes from different segments. We'd have enablement"
+  },
+  {
+    "start": 2363.6,
+    "duration": 2.0,
+    "text": "And we'd have marketing"
+  },
+  {
+    "start": 2365.68,
+    "duration": 5.6,
+    "text": "Um for smaller features enablement would play that role but for large product launches we'd create that group"
+  },
+  {
+    "start": 2371.84,
+    "duration": 5.04,
+    "text": "Um, like a couple months before launch and so we're working on it. Okay. Yeah, so we'd"
+  },
+  {
+    "start": 2377.52,
+    "duration": 2.0,
+    "text": "um, this was when we were"
+  },
+  {
+    "start": 2380.48,
+    "duration": 4.72,
+    "text": "Fairly mature and had enough resources when we weren't planning two weeks before launch"
+  },
+  {
+    "start": 2387.84,
+    "duration": 2.0,
+    "text": "Um, and so"
+  },
+  {
+    "start": 2390.24,
+    "duration": 2.32,
+    "text": "When would you have reps in like?"
+  },
+  {
+    "start": 2392.72,
+    "duration": 1.04,
+    "text": "Would"
+  },
+  {
+    "start": 2393.76,
+    "duration": 3.36,
+    "text": "Would you have reps pitching the product before it's officially announced?"
+  },
+  {
+    "start": 2397.2,
+    "duration": 4.4,
+    "text": "Would you like sell it ahead to get feedback or how did you stage like, okay, we're"
+  },
+  {
+    "start": 2402.72,
+    "duration": 5.28,
+    "text": "We think that our customers are going to want this product and we've got this messaging and we're we're building it"
+  },
+  {
+    "start": 2408.08,
+    "duration": 4.32,
+    "text": "But like when did you go validate with real world conversations and ask people for money?"
+  },
+  {
+    "start": 2412.48,
+    "duration": 3.6,
+    "text": "like how did you think about getting because you know, it's it's"
+  },
+  {
+    "start": 2416.88,
+    "duration": 3.84,
+    "text": "Asking people if they want it and asking people for money are two very different things"
+  },
+  {
+    "start": 2421.68,
+    "duration": 5.6,
+    "text": "When did you start to do those things? Yeah, I mean we'd we'd launch it to our existing customer base"
+  },
+  {
+    "start": 2427.92,
+    "duration": 3.28,
+    "text": "Um a month in advance typically and so that was our like first"
+  },
+  {
+    "start": 2431.76,
+    "duration": 1.52,
+    "text": "Like let's get them to use it"
+  },
+  {
+    "start": 2433.28,
+    "duration": 5.62,
+    "text": "Let's get some feedbacks or csm teams in partnership with the product lead would would have those conversations"
+  },
+  {
+    "start": 2439.2,
+    "duration": 1.76,
+    "text": "We'd get insight from that"
+  },
+  {
+    "start": 2440.96,
+    "duration": 2.74,
+    "text": "And then the sales team would start practicing"
+  },
+  {
+    "start": 2444.4,
+    "duration": 0.8,
+    "text": "um"
+  },
+  {
+    "start": 2445.2,
+    "duration": 1.76,
+    "text": "pitching the product"
+  },
+  {
+    "start": 2446.96,
+    "duration": 3.44,
+    "text": "Um a couple weeks before the launch at a minimum"
+  },
+  {
+    "start": 2451.04,
+    "duration": 3.06,
+    "text": "And so we'd have it launched internally"
+  },
+  {
+    "start": 2454.64,
+    "duration": 5.76,
+    "text": "on our demo products, but wouldn't be we weren't allowed to show it to customers till we"
+  },
+  {
+    "start": 2460.88,
+    "duration": 5.44,
+    "text": "Publicly launched it and so for two weeks we had certifications going on people were pitching it"
+  },
+  {
+    "start": 2466.4,
+    "duration": 2.0,
+    "text": "We wanted to make sure that we were ready"
+  },
+  {
+    "start": 2468.4,
+    "duration": 5.76,
+    "text": "So as soon as we launched that's basically where everybody would start having the conversation and the race starts to who's going to sell"
+  },
+  {
+    "start": 2474.16,
+    "duration": 2.0,
+    "text": "the first 10 deals"
+  },
+  {
+    "start": 2476.24,
+    "duration": 7.22,
+    "text": "So the first time you pitched it was after the public launch, yeah, okay interesting and had you guys considered"
+  },
+  {
+    "start": 2485.28,
+    "duration": 4.32,
+    "text": "Like getting people to pitch it before the public launch in order to get the kinks out"
+  },
+  {
+    "start": 2490.16,
+    "duration": 5.84,
+    "text": "Or what was the reason to to stage it that way? Yeah, I mean we did it with existing customers"
+  },
+  {
+    "start": 2496.08,
+    "duration": 5.76,
+    "text": "So stems would pitch it early on so we like would you know through those through those cycles"
+  },
+  {
+    "start": 2502.0,
+    "duration": 2.88,
+    "text": "We'd get a sense for like what are the bugs what are the things we need to like"
+  },
+  {
+    "start": 2505.6,
+    "duration": 2.0,
+    "text": "Clearly misses that we need to fix"
+  },
+  {
+    "start": 2507.68,
+    "duration": 2.9,
+    "text": "But on the new biz side when we're talking to prospects"
+  },
+  {
+    "start": 2511.44,
+    "duration": 6.08,
+    "text": "Um, typically the whole team was got the go at the same time big bang. Yep. Okay to go"
+  },
+  {
+    "start": 2518.16,
+    "duration": 2.56,
+    "text": "Very cool. And so no selling ahead like that"
+  },
+  {
+    "start": 2520.8,
+    "duration": 6.24,
+    "text": "You could you would announce it and then that product was available and live like ready to sell and implement that day"
+  },
+  {
+    "start": 2527.36,
+    "duration": 2.0,
+    "text": "Yeah, no selling ahead"
+  },
+  {
+    "start": 2529.76,
+    "duration": 3.84,
+    "text": "Which was hard because reps yeah, i'm like ready they're like well I have it in my demo"
+  },
+  {
+    "start": 2533.92,
+    "duration": 2.96,
+    "text": "I can already start selling it which was always the hardest part"
+  },
+  {
+    "start": 2537.44,
+    "duration": 2.64,
+    "text": "um, because on the flip side and the product's like well, we don't want to"
+  },
+  {
+    "start": 2540.4,
+    "duration": 4.8,
+    "text": "We don't want to get all these features into the demo if we're going to already start selling it because we haven't launched it"
+  },
+  {
+    "start": 2545.36,
+    "duration": 2.32,
+    "text": "So that was a hard thing the first few times"
+  },
+  {
+    "start": 2548.24,
+    "duration": 5.68,
+    "text": "Um, but then we got to a place where we were good about just holding saying hey this this launch is tuesday"
+  },
+  {
+    "start": 2554.0,
+    "duration": 3.36,
+    "text": "That's when we talk about it to give it the surprise element and market"
+  },
+  {
+    "start": 2557.36,
+    "duration": 1.44,
+    "text": "and"
+  },
+  {
+    "start": 2558.8,
+    "duration": 6.56,
+    "text": "Probably the right customer centric way to do it because you know many companies you've got a product launch coming in"
+  },
+  {
+    "start": 2566.16,
+    "duration": 2.64,
+    "text": "on jan 1 and it's september 26th, then we're"
+  },
+  {
+    "start": 2569.44,
+    "duration": 6.48,
+    "text": "We're pitching. Oh, we got this thing. It's great. And then you're just sort of sandbagging the implementation until it's actually ready"
+  },
+  {
+    "start": 2576.56,
+    "duration": 5.86,
+    "text": "Which yeah, we were very conservative with that and you know, there were there were debates on that like should we be more aggressive?"
+  },
+  {
+    "start": 2582.82,
+    "duration": 5.6,
+    "text": "It's like launch it six months before it's ready and start pitching it ahead and we just never did that"
+  },
+  {
+    "start": 2588.42,
+    "duration": 2.0,
+    "text": "We're like we'd rather just wait"
+  },
+  {
+    "start": 2590.58,
+    "duration": 2.0,
+    "text": "And that's a cultural thing. That was you know"
+  },
+  {
+    "start": 2593.3,
+    "duration": 4.24,
+    "text": "Basically, you know, you were highly customer centric. Is that the reasoning that was just yeah"
+  },
+  {
+    "start": 2597.54,
+    "duration": 3.84,
+    "text": "We didn't want to we didn't want to like lose customers trust by yeah"
+  },
+  {
+    "start": 2601.7,
+    "duration": 3.36,
+    "text": "Pre-selling and now they're getting a bad experience and we're figuring it out"
+  },
+  {
+    "start": 2605.14,
+    "duration": 3.28,
+    "text": "So we wanted to be buttoned up when we showed up and sold a new product"
+  },
+  {
+    "start": 2608.5,
+    "duration": 4.08,
+    "text": "And so they had high confidence in at lattice when they pitch a new product they're ready"
+  },
+  {
+    "start": 2613.38,
+    "duration": 2.74,
+    "text": "Yeah, and hr hr tech is such a small ecosystem"
+  },
+  {
+    "start": 2616.9,
+    "duration": 4.4,
+    "text": "You know that buying community is pretty tight. I sold hr tech for like three years"
+  },
+  {
+    "start": 2621.94,
+    "duration": 5.84,
+    "text": "And you know, it's it's a unique one and they've got you know, very tight groups. So that makes a ton of sense to me"
+  },
+  {
+    "start": 2628.98,
+    "duration": 1.76,
+    "text": "um"
+  },
+  {
+    "start": 2630.74,
+    "duration": 2.16,
+    "text": "I want to talk a little bit about so"
+  },
+  {
+    "start": 2633.86,
+    "duration": 5.92,
+    "text": "When you were talking about the comp plan and incentives and being able to"
+  },
+  {
+    "start": 2640.98,
+    "duration": 1.44,
+    "text": "basically"
+  },
+  {
+    "start": 2642.42,
+    "duration": 6.08,
+    "text": "Guide people to this new outcome without having to do, you know, like crazy comp plan magic"
+  },
+  {
+    "start": 2649.3,
+    "duration": 2.0,
+    "text": "It really sounds to me"
+  },
+  {
+    "start": 2651.86,
+    "duration": 2.56,
+    "text": "Like you need a team of people that are"
+  },
+  {
+    "start": 2654.98,
+    "duration": 6.88,
+    "text": "Willing to do things for the company and you know, that's more missionary versus mercenary as oftentimes people say so"
+  },
+  {
+    "start": 2662.34,
+    "duration": 2.0,
+    "text": "I would imagine that the culture"
+  },
+  {
+    "start": 2664.74,
+    "duration": 1.84,
+    "text": "You were able to build"
+  },
+  {
+    "start": 2666.58,
+    "duration": 1.36,
+    "text": "enabled"
+  },
+  {
+    "start": 2667.94,
+    "duration": 3.68,
+    "text": "You to launch a product and just be like, please go sell this and have them say, okay"
+  },
+  {
+    "start": 2671.7,
+    "duration": 6.08,
+    "text": "let's go sell this versus and i've seen many companies where you need to like it's triple commission for the new thing and you're"
+  },
+  {
+    "start": 2677.94,
+    "duration": 6.32,
+    "text": "You know putting like specific kpis and you don't get any commission and you sell certain this certain amount of the product"
+  },
+  {
+    "start": 2685.46,
+    "duration": 2.24,
+    "text": "I'm guessing that this was possible because of"
+  },
+  {
+    "start": 2688.42,
+    "duration": 3.12,
+    "text": "The like engagement and mindset of your team. Am I am I right there?"
+  },
+  {
+    "start": 2692.02,
+    "duration": 0.88,
+    "text": "100"
+  },
+  {
+    "start": 2692.9,
+    "duration": 4.16,
+    "text": "Yeah, I think there are people deeply engaged and cared about the mission of the company"
+  },
+  {
+    "start": 2697.62,
+    "duration": 3.68,
+    "text": "Uh, not just one of our values was ship shipmate self"
+  },
+  {
+    "start": 2702.02,
+    "duration": 5.36,
+    "text": "And it was one of my favorite values. And so I think people like very deeply internalize that which was"
+  },
+  {
+    "start": 2707.78,
+    "duration": 5.84,
+    "text": "you know, i've got to put the company first my team second and myself last and it's the hardest to implement and"
+  },
+  {
+    "start": 2714.1,
+    "duration": 4.88,
+    "text": "Live up to in sales given that it is competitive. It's high stakes. It's high pressure"
+  },
+  {
+    "start": 2719.62,
+    "duration": 2.72,
+    "text": "um, but I was very proud of the team that like really"
+  },
+  {
+    "start": 2722.9,
+    "duration": 5.28,
+    "text": "Lived up to those values and and sort of put the company first in scenarios where it was hard to"
+  },
+  {
+    "start": 2729.06,
+    "duration": 2.0,
+    "text": "cool, so let's transition to"
+  },
+  {
+    "start": 2731.94,
+    "duration": 4.48,
+    "text": "How do you get to that point? How do you build a an engaged enough team where?"
+  },
+  {
+    "start": 2737.06,
+    "duration": 3.76,
+    "text": "They are legitimately ship ship ship ship mate self"
+  },
+  {
+    "start": 2741.54,
+    "duration": 4.32,
+    "text": "um, and maybe just start with like your business case for engagement because I think"
+  },
+  {
+    "start": 2746.74,
+    "duration": 5.2,
+    "text": "People hear this and they think it's like squishy and soft and um,"
+  },
+  {
+    "start": 2752.98,
+    "duration": 4.0,
+    "text": "Maybe not in some of the sales dna that exists in our world"
+  },
+  {
+    "start": 2757.38,
+    "duration": 5.76,
+    "text": "And so how would you make what what argument would you make for the business imperative of?"
+  },
+  {
+    "start": 2763.78,
+    "duration": 2.0,
+    "text": "You're driving to engagement"
+  },
+  {
+    "start": 2765.78,
+    "duration": 2.0,
+    "text": "Yeah, no, it's um"
+  },
+  {
+    "start": 2767.86,
+    "duration": 6.24,
+    "text": "I feel very strongly about it and i've always felt strongly about it. But now that i've seen the results that it can drive"
+  },
+  {
+    "start": 2775.06,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 2776.26,
+    "duration": 6.24,
+    "text": "It's like I have very high conviction that building a high performing team that delivers"
+  },
+  {
+    "start": 2783.2,
+    "duration": 2.0,
+    "text": "consistently starts with a"
+  },
+  {
+    "start": 2785.7,
+    "duration": 2.88,
+    "text": "Starts with the people first approach and a highly engaged team"
+  },
+  {
+    "start": 2788.9,
+    "duration": 5.38,
+    "text": "Like there's just no two ways about it, but you can get performance from people through transactional"
+  },
+  {
+    "start": 2795.28,
+    "duration": 4.82,
+    "text": "Transactional approaches through fear through scarcity, which is what a lot of sales orgs are built on"
+  },
+  {
+    "start": 2800.66,
+    "duration": 3.68,
+    "text": "Build on a foundation of fear and scarcity when I first started in sales I was"
+  },
+  {
+    "start": 2804.82,
+    "duration": 2.72,
+    "text": "I was surprised that like we're all part of the same company"
+  },
+  {
+    "start": 2807.94,
+    "duration": 6.0,
+    "text": "but somehow you're like pitted against this different region and you're not supposed to share best practices and"
+  },
+  {
+    "start": 2814.26,
+    "duration": 2.0,
+    "text": "Yeah, it's just odd or like, you know"
+  },
+  {
+    "start": 2816.26,
+    "duration": 4.8,
+    "text": "Managers would tell you things in a one-on-one or team meeting and we'd all agree that. Yep"
+  },
+  {
+    "start": 2821.06,
+    "duration": 5.36,
+    "text": "We'll do that and then you leave and like people are like we're not going to do that. Yeah, there's no way"
+  },
+  {
+    "start": 2827.38,
+    "duration": 4.4,
+    "text": "And it's just my mind was blown like what kind of team doesn't just tell the manager"
+  },
+  {
+    "start": 2832.1,
+    "duration": 2.4,
+    "text": "that i'm not going to do it and here's why not and so"
+  },
+  {
+    "start": 2835.22,
+    "duration": 4.72,
+    "text": "um, yeah, one of the reasons I went to lattice after drawbridge, um"
+  },
+  {
+    "start": 2840.58,
+    "duration": 2.48,
+    "text": "Was to try to build a different type of revenue org"
+  },
+  {
+    "start": 2843.46,
+    "duration": 2.0,
+    "text": "Because a lot of people asked me like why would you you know?"
+  },
+  {
+    "start": 2845.46,
+    "duration": 4.08,
+    "text": "You sort of just went off of a big run. Why would you go to a three million dollar series a business?"
+  },
+  {
+    "start": 2849.62,
+    "duration": 5.36,
+    "text": "Like yeah, that's you know, it was sort of a head scratching move for a lot of people that cared about me"
+  },
+  {
+    "start": 2855.54,
+    "duration": 5.52,
+    "text": "Um, but the reason partly was of course I believed in the market I I really hit it off with jack"
+  },
+  {
+    "start": 2861.54,
+    "duration": 6.64,
+    "text": "Uh, but part of it was also the chance to build a different type of revenue org where a younger me would have felt"
+  },
+  {
+    "start": 2868.98,
+    "duration": 0.72,
+    "text": "more"
+  },
+  {
+    "start": 2869.7,
+    "duration": 1.84,
+    "text": "um, like I belonged"
+  },
+  {
+    "start": 2871.54,
+    "duration": 5.38,
+    "text": "And felt like it didn't it didn't have to go against the grain because I think there's this misconception"
+  },
+  {
+    "start": 2877.62,
+    "duration": 2.0,
+    "text": "That salespeople are coin operated"
+  },
+  {
+    "start": 2880.26,
+    "duration": 2.0,
+    "text": "And all they care about is money"
+  },
+  {
+    "start": 2882.58,
+    "duration": 3.46,
+    "text": "And it's just not true like everyone from engineers"
+  },
+  {
+    "start": 2886.82,
+    "duration": 4.82,
+    "text": "To even commission driven sales people want the same things. They want to feel like they're part of a community"
+  },
+  {
+    "start": 2892.26,
+    "duration": 3.04,
+    "text": "They want to feel like they're getting growth and they're you know"
+  },
+  {
+    "start": 2895.86,
+    "duration": 2.64,
+    "text": "Getting the development on a on an annual basis"
+  },
+  {
+    "start": 2899.14,
+    "duration": 5.44,
+    "text": "and if there's a purpose that they're going after and I feel like those three pillars make up so much of"
+  },
+  {
+    "start": 2905.3,
+    "duration": 2.0,
+    "text": "highly engaged teams and you know, I think"
+  },
+  {
+    "start": 2908.1,
+    "duration": 1.2,
+    "text": "um"
+  },
+  {
+    "start": 2909.3,
+    "duration": 2.56,
+    "text": "There's a huge opportunity for sales teams to embrace that"
+  },
+  {
+    "start": 2912.58,
+    "duration": 0.96,
+    "text": "yeah"
+  },
+  {
+    "start": 2913.54,
+    "duration": 1.2,
+    "text": "and and"
+  },
+  {
+    "start": 2914.74,
+    "duration": 1.52,
+    "text": "What are the business outcomes?"
+  },
+  {
+    "start": 2916.26,
+    "duration": 5.68,
+    "text": "Like, you know, what what does an engaged team get you that a more mercenary style team doesn't get you?"
+  },
+  {
+    "start": 2922.34,
+    "duration": 4.4,
+    "text": "Yeah, I mean I think what i've seen it's like it drives we had over 100 attainment"
+  },
+  {
+    "start": 2927.46,
+    "duration": 2.64,
+    "text": "For for the five for the four and a half years. I was there"
+  },
+  {
+    "start": 2930.18,
+    "duration": 4.48,
+    "text": "We missed like why like why like what I'm trying to get you to make the argument to"
+  },
+  {
+    "start": 2935.3,
+    "duration": 6.64,
+    "text": "The skeptics like you know, what what's like what's the thing that translates like engagement to outcomes in your mind?"
+  },
+  {
+    "start": 2942.26,
+    "duration": 6.16,
+    "text": "Yeah, I think it's people just people care so much more than when it's a transactional thing"
+  },
+  {
+    "start": 2948.66,
+    "duration": 3.68,
+    "text": "When you get treated like a number you sort of treat the job as as a job"
+  },
+  {
+    "start": 2952.9,
+    "duration": 2.0,
+    "text": "Versus when you're bought in"
+  },
+  {
+    "start": 2954.98,
+    "duration": 5.94,
+    "text": "And you think you're you're you you feel like an owner in the business, which is a big part of driving engagement"
+  },
+  {
+    "start": 2961.38,
+    "duration": 1.52,
+    "text": "You feel accountable"
+  },
+  {
+    "start": 2962.9,
+    "duration": 4.88,
+    "text": "um to the business and you're not doing it because your manager's asking you to you're doing it because you care"
+  },
+  {
+    "start": 2968.02,
+    "duration": 2.64,
+    "text": "Because you think you have a voice because you think you can really"
+  },
+  {
+    "start": 2971.22,
+    "duration": 2.8,
+    "text": "This is this is this is your company and that's what"
+  },
+  {
+    "start": 2974.66,
+    "duration": 4.48,
+    "text": "When you care when you invest in your people the people invest back in the business"
+  },
+  {
+    "start": 2979.62,
+    "duration": 3.6,
+    "text": "It's like such a simple concept and so many companies get it wrong"
+  },
+  {
+    "start": 2983.78,
+    "duration": 2.48,
+    "text": "Where it's just you give trust and you get trust"
+  },
+  {
+    "start": 2987.06,
+    "duration": 3.04,
+    "text": "You give care and you get care back. And so I think a lot of it is"
+  },
+  {
+    "start": 2990.58,
+    "duration": 2.96,
+    "text": "Hiring people and you know, we were at the height of the talent war"
+  },
+  {
+    "start": 2993.54,
+    "duration": 4.88,
+    "text": "We had less than one percent voluntary attrition over four and a half years, which wow"
+  },
+  {
+    "start": 2999.22,
+    "duration": 2.0,
+    "text": "Which is like a business case"
+  },
+  {
+    "start": 3001.38,
+    "duration": 3.38,
+    "text": "Which was a testament to like we have these amazing high performers"
+  },
+  {
+    "start": 3005.22,
+    "duration": 3.28,
+    "text": "That could go get any job make a lot more money money somewhere else"
+  },
+  {
+    "start": 3009.06,
+    "duration": 3.68,
+    "text": "And they were getting poached all the time, but they chose to stay at lattice"
+  },
+  {
+    "start": 3013.14,
+    "duration": 2.64,
+    "text": "Partly because they felt like they were part of this team partly"
+  }
+]

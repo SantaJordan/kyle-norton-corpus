@@ -1,0 +1,7312 @@
+[
+  {
+    "start": 0.0,
+    "duration": 3.12,
+    "text": "Jason Lemkin, welcome to the podcast."
+  },
+  {
+    "start": 3.12,
+    "duration": 1.48,
+    "text": "Appreciate you joining."
+  },
+  {
+    "start": 4.6,
+    "duration": 2.0,
+    "text": "I am so excited to be here."
+  },
+  {
+    "start": 6.6,
+    "duration": 1.0,
+    "text": "It will be great."
+  },
+  {
+    "start": 7.6,
+    "duration": 3.56,
+    "text": "We're going to talk about some stuff that maybe hasn't been talked about before."
+  },
+  {
+    "start": 11.16,
+    "duration": 7.24,
+    "text": "That is definitely the focus."
+  },
+  {
+    "start": 18.4,
+    "duration": 4.44,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline."
+  },
+  {
+    "start": 22.84,
+    "duration": 4.48,
+    "text": "I'm your host, Kyle Norton, CRO at Owner.com."
+  },
+  {
+    "start": 27.32,
+    "duration": 6.2,
+    "text": "Every Wednesday, we dive deep into the strategies and tactics being used to drive success by"
+  },
+  {
+    "start": 33.52,
+    "duration": 2.6,
+    "text": "the best revenue leaders in the world."
+  },
+  {
+    "start": 36.12,
+    "duration": 4.48,
+    "text": "So join me as I sit down with revenue operators to discuss actionable frameworks that you"
+  },
+  {
+    "start": 40.6,
+    "duration": 6.08,
+    "text": "can implement in your business today with no fluff, no sales pitches, and no platitudes."
+  },
+  {
+    "start": 46.68,
+    "duration": 6.92,
+    "text": "Today's guest is none other than Jason Lemkin, who was the founder and CEO of EchoSign, which"
+  },
+  {
+    "start": 53.6,
+    "duration": 1.0,
+    "text": "sold to Adobe."
+  },
+  {
+    "start": 54.84,
+    "duration": 5.96,
+    "text": "He then founded Sastr, which is arguably the greatest community for founders out there"
+  },
+  {
+    "start": 60.8,
+    "duration": 6.0,
+    "text": "and is a prolific investor through Sastr Fund with five of his first investments all going"
+  },
+  {
+    "start": 66.8,
+    "duration": 2.64,
+    "text": "on to become Unicorns and Decker Corns."
+  },
+  {
+    "start": 69.44,
+    "duration": 3.32,
+    "text": "So it's an honor to have him on."
+  },
+  {
+    "start": 72.76,
+    "duration": 4.92,
+    "text": "And we're going to be talking about what revenue leaders need to know about understanding and"
+  },
+  {
+    "start": 77.68,
+    "duration": 1.56,
+    "text": "managing their board."
+  },
+  {
+    "start": 79.24,
+    "duration": 3.98,
+    "text": "And so if you like what you hear, make sure to follow the Revenue Leadership Podcast by"
+  },
+  {
+    "start": 83.22,
+    "duration": 2.12,
+    "text": "clicking the link in the show notes."
+  },
+  {
+    "start": 85.34,
+    "duration": 3.12,
+    "text": "Hope you enjoy."
+  },
+  {
+    "start": 88.46,
+    "duration": 7.96,
+    "text": "But first, a word from our sponsors."
+  },
+  {
+    "start": 96.42,
+    "duration": 3.32,
+    "text": "This episode is brought to you by Momentum.io."
+  },
+  {
+    "start": 99.74,
+    "duration": 4.12,
+    "text": "Momentum is a powerful tool for turning sales and customer conversations into go-to-market"
+  },
+  {
+    "start": 103.86,
+    "duration": 1.4,
+    "text": "data."
+  },
+  {
+    "start": 105.26,
+    "duration": 5.84,
+    "text": "Using Gen AI, it extracts, analyzes, and automates customer intelligence across your org."
+  },
+  {
+    "start": 111.1,
+    "duration": 3.16,
+    "text": "The best part, it's not a new platform for your team to adopt."
+  },
+  {
+    "start": 114.26,
+    "duration": 6.24,
+    "text": "It integrates seamlessly with your existing stack and writes data back to Salesforce directly."
+  },
+  {
+    "start": 120.5,
+    "duration": 5.28,
+    "text": "Some of the most innovative companies out there, like Zscaler, Demandbase, Ramp, 1Password,"
+  },
+  {
+    "start": 125.78,
+    "duration": 6.72,
+    "text": "and even my company, Owner.com, use Momentum every single day to capture forecast and churn"
+  },
+  {
+    "start": 132.5,
+    "duration": 5.92,
+    "text": "risk, autofill Salesforce fields, share product signals, and track sentiment."
+  },
+  {
+    "start": 138.42,
+    "duration": 4.88,
+    "text": "So check it out with a free trial at Momentum.io."
+  },
+  {
+    "start": 143.3,
+    "duration": 6.72,
+    "text": "So most folks will know who you are, but for any of the uninitiated, just give us a 60-second"
+  },
+  {
+    "start": 150.02,
+    "duration": 1.0,
+    "text": "who you are."
+  },
+  {
+    "start": 151.02,
+    "duration": 1.0,
+    "text": "Sure."
+  },
+  {
+    "start": 152.02,
+    "duration": 6.72,
+    "text": "I'm a SaaS founder myself, founded one of the early e-signature leaders called EchoSign"
+  },
+  {
+    "start": 158.74,
+    "duration": 5.68,
+    "text": "that was acquired for Adobe for nine figures way back in 2011."
+  },
+  {
+    "start": 164.98,
+    "duration": 4.52,
+    "text": "I was the first of my generation, the David Saxes and the Rene Leserts from Bill and Aaron"
+  },
+  {
+    "start": 169.5,
+    "duration": 1.76,
+    "text": "Levy's, to have an exit."
+  },
+  {
+    "start": 171.26,
+    "duration": 3.2,
+    "text": "So I just started sharing my learnings on a little blog called SaaSter that's taken"
+  },
+  {
+    "start": 174.46,
+    "duration": 1.0,
+    "text": "off."
+  },
+  {
+    "start": 175.46,
+    "duration": 1.0,
+    "text": "It's a big deal."
+  },
+  {
+    "start": 176.46,
+    "duration": 1.84,
+    "text": "We've done 10 years of events with tens of thousands of folks."
+  },
+  {
+    "start": 178.3,
+    "duration": 5.28,
+    "text": "I've invested in five or six true billion-dollar companies through SaaSter Fund, including"
+  },
+  {
+    "start": 183.58,
+    "duration": 3.48,
+    "text": "Owner that Kyle has done an incredible job at."
+  },
+  {
+    "start": 187.06,
+    "duration": 3.56,
+    "text": "So I've invested about $200 million over the last 10 years."
+  },
+  {
+    "start": 190.62,
+    "duration": 4.2,
+    "text": "And mostly I'm just trying to run this community to help other SaaS and cloud executives do"
+  },
+  {
+    "start": 194.82,
+    "duration": 4.36,
+    "text": "better so that what seemed crazy in the early days was that we could share these playbooks"
+  },
+  {
+    "start": 199.18,
+    "duration": 3.28,
+    "text": "and they would work at other startups, but it turns out it's true."
+  },
+  {
+    "start": 202.46,
+    "duration": 4.0,
+    "text": "And so it's well understood today, it was radical 10 years ago, but that's kind of the"
+  },
+  {
+    "start": 206.46,
+    "duration": 5.2,
+    "text": "mission to help share how to make it just that much easier to push the boulder up the"
+  },
+  {
+    "start": 211.66,
+    "duration": 1.0,
+    "text": "hill."
+  },
+  {
+    "start": 212.66,
+    "duration": 1.0,
+    "text": "That's SaaSter."
+  },
+  {
+    "start": 213.66,
+    "duration": 1.0,
+    "text": "That's awesome."
+  },
+  {
+    "start": 214.66,
+    "duration": 5.76,
+    "text": "And SaaSter was one of the most important knowledge bases for me when I was first breaking into"
+  },
+  {
+    "start": 221.22,
+    "duration": 2.16,
+    "text": "tech and learning things myself."
+  },
+  {
+    "start": 223.38,
+    "duration": 8.16,
+    "text": "I think I stumbled across your name on Quora, which I'm sure is a familiar story for many."
+  },
+  {
+    "start": 231.54,
+    "duration": 4.0,
+    "text": "And so it's been a big part of me figuring things out."
+  },
+  {
+    "start": 235.54,
+    "duration": 5.48,
+    "text": "I remember so clearly reading Impossible to Inevitable and just having a book full of"
+  },
+  {
+    "start": 241.02,
+    "duration": 1.0,
+    "text": "notes."
+  },
+  {
+    "start": 242.02,
+    "duration": 4.58,
+    "text": "And so it's exciting to have now partnered with you at Owner."
+  },
+  {
+    "start": 246.6,
+    "duration": 6.8,
+    "text": "So how many boards are you on right now and how much time are you spending in operational"
+  },
+  {
+    "start": 253.4,
+    "duration": 2.4,
+    "text": "details with your portfolio?"
+  },
+  {
+    "start": 255.8,
+    "duration": 2.88,
+    "text": "Yeah, I'm not on that many boards."
+  },
+  {
+    "start": 258.68,
+    "duration": 3.88,
+    "text": "I think I'm on five boards."
+  },
+  {
+    "start": 262.56,
+    "duration": 5.12,
+    "text": "And I'm probably on two more where I'm definitely not on the board, but might actually be the"
+  },
+  {
+    "start": 267.68,
+    "duration": 2.84,
+    "text": "most active investor."
+  },
+  {
+    "start": 270.52,
+    "duration": 3.52,
+    "text": "Those are situations where there's really no one helping the company too much, but the"
+  },
+  {
+    "start": 274.04,
+    "duration": 1.0,
+    "text": "company's doing well."
+  },
+  {
+    "start": 275.04,
+    "duration": 6.16,
+    "text": "So I'd say five for real legal board seats and two that I have a similar role."
+  },
+  {
+    "start": 281.2,
+    "duration": 3.08,
+    "text": "I don't enjoy being on boards."
+  },
+  {
+    "start": 284.28,
+    "duration": 3.84,
+    "text": "I did try to avoid it when I started investing."
+  },
+  {
+    "start": 288.12,
+    "duration": 4.68,
+    "text": "But ultimately, I came to the conclusion that if you're one of the largest investors in"
+  },
+  {
+    "start": 292.8,
+    "duration": 2.56,
+    "text": "a startup, you've got to do it."
+  },
+  {
+    "start": 295.36,
+    "duration": 3.58,
+    "text": "You've got to step up and take this role."
+  },
+  {
+    "start": 298.94,
+    "duration": 1.7,
+    "text": "So I try to do as few as possible."
+  },
+  {
+    "start": 300.64,
+    "duration": 4.92,
+    "text": "If there's someone else that can do the role, I generally will defer to them for both selfish"
+  },
+  {
+    "start": 305.56,
+    "duration": 1.32,
+    "text": "and unselfish reasons."
+  },
+  {
+    "start": 306.88,
+    "duration": 3.88,
+    "text": "Maybe that's TMI, but yeah, I'd say only about five boards."
+  },
+  {
+    "start": 310.76,
+    "duration": 3.4,
+    "text": "A lot of VCs that are in big funds, this is a big difference for the audience."
+  },
+  {
+    "start": 314.16,
+    "duration": 7.12,
+    "text": "If you're at a VC at a huge fund, a great fund, they will spend upwards of 50% of their"
+  },
+  {
+    "start": 321.28,
+    "duration": 1.52,
+    "text": "time on boards."
+  },
+  {
+    "start": 322.8,
+    "duration": 3.28,
+    "text": "And one of the most important things for them is being on boards."
+  },
+  {
+    "start": 326.08,
+    "duration": 3.56,
+    "text": "The classic one is you look on their LinkedIn and you'll see their last 20 jobs were board"
+  },
+  {
+    "start": 329.64,
+    "duration": 5.64,
+    "text": "member owner, board member Shopify, board member, then you know that that's their job."
+  },
+  {
+    "start": 335.28,
+    "duration": 5.36,
+    "text": "And a traditional VC that isn't that involved operationally or isn't doing other things,"
+  },
+  {
+    "start": 340.64,
+    "duration": 3.32,
+    "text": "the maximum a VC possibly could do is 20."
+  },
+  {
+    "start": 343.96,
+    "duration": 2.28,
+    "text": "There just aren't enough hours in the year."
+  },
+  {
+    "start": 346.24,
+    "duration": 5.64,
+    "text": "And as you approach 20, you become a full-time board member."
+  },
+  {
+    "start": 351.88,
+    "duration": 6.36,
+    "text": "And I would imagine that you get pulled into this because you are uniquely still dialed"
+  },
+  {
+    "start": 358.24,
+    "duration": 1.0,
+    "text": "in."
+  },
+  {
+    "start": 359.24,
+    "duration": 4.76,
+    "text": "You've been out of the operator game for 11 years, a little bit more."
+  },
+  {
+    "start": 364.0,
+    "duration": 1.0,
+    "text": "Yes."
+  },
+  {
+    "start": 365.0,
+    "duration": 1.24,
+    "text": "Yes, that is true."
+  },
+  {
+    "start": 366.24,
+    "duration": 6.32,
+    "text": "And yet, anybody who follows you on Twitter or LinkedIn and looks at your breakdowns of"
+  },
+  {
+    "start": 372.56,
+    "duration": 7.4,
+    "text": "businesses, public and private, you seem to have more operational depth than just about"
+  },
+  {
+    "start": 379.96,
+    "duration": 2.8,
+    "text": "anybody, including the people who were most recently operators."
+  },
+  {
+    "start": 382.76,
+    "duration": 1.68,
+    "text": "How do you stay so dialed in?"
+  },
+  {
+    "start": 384.44,
+    "duration": 3.84,
+    "text": "How do you keep that operator edge after all these years?"
+  },
+  {
+    "start": 388.32,
+    "duration": 1.0,
+    "text": "It is a good question."
+  },
+  {
+    "start": 389.32,
+    "duration": 5.12,
+    "text": "I do think this idea of decay of your fluency is real."
+  },
+  {
+    "start": 394.44,
+    "duration": 10.84,
+    "text": "And I certainly think the playbook of a decade ago pretty much died during March 2020."
+  },
+  {
+    "start": 405.28,
+    "duration": 4.88,
+    "text": "It died when things exploded in March 2020, and then it died when things in some cases"
+  },
+  {
+    "start": 410.16,
+    "duration": 1.0,
+    "text": "deflated."
+  },
+  {
+    "start": 411.16,
+    "duration": 3.12,
+    "text": "So I think if you're literally talking to someone that has been out of the game since"
+  },
+  {
+    "start": 414.28,
+    "duration": 6.2,
+    "text": "pre-2020, and frankly, that's a lot of the early SaaS content, I think a lot of it is"
+  },
+  {
+    "start": 420.48,
+    "duration": 2.44,
+    "text": "pretty dated."
+  },
+  {
+    "start": 422.92,
+    "duration": 2.12,
+    "text": "How have I kept up?"
+  },
+  {
+    "start": 425.04,
+    "duration": 1.0,
+    "text": "Really two ways."
+  },
+  {
+    "start": 426.04,
+    "duration": 5.24,
+    "text": "One is it has helped to be pretty involved with a handful of pretty successful SaaS companies"
+  },
+  {
+    "start": 431.28,
+    "duration": 2.36,
+    "text": "that have still struggled along the way."
+  },
+  {
+    "start": 433.64,
+    "duration": 1.68,
+    "text": "If it's perfect, you learn nothing."
+  },
+  {
+    "start": 435.32,
+    "duration": 3.28,
+    "text": "And if you run the thing right into the ground, you learn nothing."
+  },
+  {
+    "start": 438.6,
+    "duration": 2.92,
+    "text": "But to watch, like you said, you're going to have the CRF sales loft on."
+  },
+  {
+    "start": 441.52,
+    "duration": 4.0,
+    "text": "I invested in sales loft pre-revenue to watch them dump 8 million in revenue and go to zero"
+  },
+  {
+    "start": 445.52,
+    "duration": 2.0,
+    "text": "and rebuild the company from scratch."
+  },
+  {
+    "start": 447.52,
+    "duration": 2.08,
+    "text": "Those are great, great learning experiences."
+  },
+  {
+    "start": 449.6,
+    "duration": 4.64,
+    "text": "To watch owner go through like three different life cycles since you start does it."
+  },
+  {
+    "start": 454.24,
+    "duration": 2.68,
+    "text": "So I've been through, I'm much more closer."
+  },
+  {
+    "start": 456.92,
+    "duration": 3.64,
+    "text": "Most investors actually don't even understand how sales or marketing works."
+  },
+  {
+    "start": 460.56,
+    "duration": 3.16,
+    "text": "So I usually, and I'm curious."
+  },
+  {
+    "start": 463.72,
+    "duration": 1.24,
+    "text": "So that's a piece of it."
+  },
+  {
+    "start": 464.96,
+    "duration": 6.4,
+    "text": "A side benefit is, while not intentional, we have closed, I don't know, a hundred and"
+  },
+  {
+    "start": 471.36,
+    "duration": 5.52,
+    "text": "something million revenue of sponsor sales at SaaS for over 10 years, maybe close to"
+  },
+  {
+    "start": 476.88,
+    "duration": 3.08,
+    "text": "a hundred million plus tickets, but tickets is more."
+  },
+  {
+    "start": 479.96,
+    "duration": 3.68,
+    "text": "Selling tickets keeps me a little bit current on email marketing and demand gen because"
+  },
+  {
+    "start": 483.64,
+    "duration": 5.36,
+    "text": "we do have to sell five or six million tickets a year so that I don't have to fund it all."
+  },
+  {
+    "start": 489.0,
+    "duration": 3.96,
+    "text": "And then I don't know how I feel about selling to sponsors, but we need 100 to 200 of them"
+  },
+  {
+    "start": 492.96,
+    "duration": 4.56,
+    "text": "a year and it doesn't keep me fresh in the latest tools."
+  },
+  {
+    "start": 497.52,
+    "duration": 2.44,
+    "text": "You're really good at the cutting edge tools."
+  },
+  {
+    "start": 499.96,
+    "duration": 5.04,
+    "text": "But it really keeps me fresh in terms of how are buyers thinking about things, how"
+  },
+  {
+    "start": 505.0,
+    "duration": 2.8,
+    "text": "are marketers thinking about things in particular, but also COs and founders."
+  },
+  {
+    "start": 507.8,
+    "duration": 4.76,
+    "text": "So literally being forced to sell a hundred million of sponsorships for 10 years, it hasn't"
+  },
+  {
+    "start": 512.56,
+    "duration": 3.44,
+    "text": "kept me SaaS fresh, that's investing, but it has kept me sales fresh."
+  },
+  {
+    "start": 516.0,
+    "duration": 4.72,
+    "text": "Like I'm living, every single day we have a scrum with our sales team, five days a week."
+  },
+  {
+    "start": 520.72,
+    "duration": 5.36,
+    "text": "So I'm with our little, and our sales team is four people and it is different, but I've"
+  },
+  {
+    "start": 526.08,
+    "duration": 3.76,
+    "text": "spent the last eight years having a daily sales meeting."
+  },
+  {
+    "start": 529.84,
+    "duration": 1.0,
+    "text": "It does help."
+  },
+  {
+    "start": 530.84,
+    "duration": 2.72,
+    "text": "It's not perfect, but it keeps you somewhat current, right?"
+  },
+  {
+    "start": 533.56,
+    "duration": 2.28,
+    "text": "And you're a buyer, which you've written a lot about."
+  },
+  {
+    "start": 535.84,
+    "duration": 2.16,
+    "text": "You are buying enough tools for SaaS."
+  },
+  {
+    "start": 538.0,
+    "duration": 1.0,
+    "text": "Enough tools."
+  },
+  {
+    "start": 539.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 540.0,
+    "duration": 5.88,
+    "text": "And honestly, to answer your question, I think being an investor in a bunch of SaaS companies"
+  },
+  {
+    "start": 545.88,
+    "duration": 3.36,
+    "text": "that have done well, but also struggled, selling a hundred million dollars sponsorships and"
+  },
+  {
+    "start": 549.24,
+    "duration": 4.24,
+    "text": "being a buyer, I would say it's just barely enough to keep me current."
+  },
+  {
+    "start": 553.48,
+    "duration": 3.92,
+    "text": "And if I wasn't curious, like if I wasn't had a curious mind, I don't think I could"
+  },
+  {
+    "start": 557.4,
+    "duration": 1.0,
+    "text": "be current."
+  },
+  {
+    "start": 558.72,
+    "duration": 6.04,
+    "text": "I think you decay in about, I think your knowledge of, you know, I think you're lucky if you're"
+  },
+  {
+    "start": 564.76,
+    "duration": 4.44,
+    "text": "like cutting edge knowledge of sales last two to three years, right?"
+  },
+  {
+    "start": 569.2,
+    "duration": 3.36,
+    "text": "And maybe your knowledge of the market lasts a little longer, but then it, then it just"
+  },
+  {
+    "start": 572.56,
+    "duration": 1.0,
+    "text": "falls apart."
+  },
+  {
+    "start": 573.56,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 574.56,
+    "duration": 2.64,
+    "text": "Even the restaurant industry, if you worked at toast 10 years ago, I don't think I'd hire"
+  },
+  {
+    "start": 577.2,
+    "duration": 1.0,
+    "text": "that person at owner."
+  },
+  {
+    "start": 578.2,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 579.2,
+    "duration": 2.24,
+    "text": "Two years ago, like the problem is it's a different market and it's too big, but at"
+  },
+  {
+    "start": 581.44,
+    "duration": 2.48,
+    "text": "least they know that two years ago they know what's happening."
+  },
+  {
+    "start": 583.92,
+    "duration": 2.36,
+    "text": "But four or five years ago, it was just a different world."
+  },
+  {
+    "start": 586.28,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 587.28,
+    "duration": 1.0,
+    "text": "Yeah, totally."
+  },
+  {
+    "start": 589.16,
+    "duration": 2.32,
+    "text": "Okay, well let's, we're going to hop right into our two major topics."
+  },
+  {
+    "start": 591.48,
+    "duration": 8.08,
+    "text": "So also I will say, I think that, um, having quote operators on your board has pros and"
+  },
+  {
+    "start": 599.56,
+    "duration": 1.0,
+    "text": "cons."
+  },
+  {
+    "start": 600.56,
+    "duration": 1.0,
+    "text": "Hmm."
+  },
+  {
+    "start": 601.56,
+    "duration": 2.24,
+    "text": "A lot of cons."
+  },
+  {
+    "start": 603.8,
+    "duration": 3.76,
+    "text": "Um, everyone can't help comparing it to their last company."
+  },
+  {
+    "start": 607.56,
+    "duration": 3.98,
+    "text": "If you, if you have a CEO on your board, next CEO, they think it was like their last company."
+  },
+  {
+    "start": 611.54,
+    "duration": 4.34,
+    "text": "And if you have a successful VC that has only a couple of successes, they always think it's"
+  },
+  {
+    "start": 615.88,
+    "duration": 2.8,
+    "text": "like it's all, it's always like their last company."
+  },
+  {
+    "start": 618.68,
+    "duration": 3.44,
+    "text": "I remember I was on, I was an investor in a company and one of the investors in Slack"
+  },
+  {
+    "start": 622.12,
+    "duration": 1.0,
+    "text": "was on the board."
+  },
+  {
+    "start": 623.12,
+    "duration": 5.16,
+    "text": "This company was very enterprise when Slack was all self-serve and he kept talking about"
+  },
+  {
+    "start": 628.28,
+    "duration": 3.96,
+    "text": "how it was just like Slack at every board meeting and yelling at the CEO, why aren't"
+  },
+  {
+    "start": 632.24,
+    "duration": 1.0,
+    "text": "you more like Slack?"
+  },
+  {
+    "start": 633.24,
+    "duration": 1.48,
+    "text": "Why aren't you doing what Stuart's doing?"
+  },
+  {
+    "start": 634.72,
+    "duration": 5.08,
+    "text": "And I kept trying to tell this very famous VC, it's just, it would be great if this company"
+  },
+  {
+    "start": 639.8,
+    "duration": 5.68,
+    "text": "was like Slack, but we're selling like three to 400 K enterprise deals with 11 stakeholders,"
+  },
+  {
+    "start": 645.48,
+    "duration": 3.36,
+    "text": "self-serve deals before Slack even had a sales team."
+  },
+  {
+    "start": 648.84,
+    "duration": 2.24,
+    "text": "And I just, you just, so that's bad."
+  },
+  {
+    "start": 651.08,
+    "duration": 2.44,
+    "text": "And then founders, you know, I'm, I'm very careful now."
+  },
+  {
+    "start": 653.52,
+    "duration": 4.08,
+    "text": "I certainly bring a lot of the lessons that I'm learning, but I don't, I don't bring my"
+  },
+  {
+    "start": 657.6,
+    "duration": 2.52,
+    "text": "too many of my old CEO lessons that you got to be careful."
+  },
+  {
+    "start": 660.12,
+    "duration": 2.08,
+    "text": "And so you are kind of inheriting."
+  },
+  {
+    "start": 662.2,
+    "duration": 4.2,
+    "text": "If you're doing SMB and you have a CEO on your board, COVC, that was an enterprise,"
+  },
+  {
+    "start": 666.4,
+    "duration": 2.04,
+    "text": "you're going to get a weird bit of advice, right?"
+  },
+  {
+    "start": 668.44,
+    "duration": 4.16,
+    "text": "Um, if, and then also there's sort of a deal size and then there's like different burn"
+  },
+  {
+    "start": 672.6,
+    "duration": 1.0,
+    "text": "profiles, right?"
+  },
+  {
+    "start": 673.6,
+    "duration": 1.84,
+    "text": "So you've got Reed Hoffman on your board."
+  },
+  {
+    "start": 675.44,
+    "duration": 2.88,
+    "text": "He's Mr. Blitz scaling, right?"
+  },
+  {
+    "start": 678.32,
+    "duration": 4.6,
+    "text": "If you're a VC that has, for example, their whole career been a CVC, they may be all about"
+  },
+  {
+    "start": 682.92,
+    "duration": 1.48,
+    "text": "capital efficiency, right?"
+  },
+  {
+    "start": 684.4,
+    "duration": 5.28,
+    "text": "And so you're going to get conflicting advice based on the size, based on capital efficiency."
+  },
+  {
+    "start": 689.68,
+    "duration": 5.76,
+    "text": "And so I think that initially founders prefer having operators on the board because it feels"
+  },
+  {
+    "start": 695.44,
+    "duration": 1.0,
+    "text": "like them."
+  },
+  {
+    "start": 696.44,
+    "duration": 1.0,
+    "text": "Um, it's more comfortable."
+  },
+  {
+    "start": 697.44,
+    "duration": 4.0,
+    "text": "Um, but I'm actually not sure it's, it's a, it's a positive over like a financial VC,"
+  },
+  {
+    "start": 701.44,
+    "duration": 1.0,
+    "text": "right?"
+  },
+  {
+    "start": 702.44,
+    "duration": 1.0,
+    "text": "So I'm not sure it's better."
+  },
+  {
+    "start": 703.44,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 704.44,
+    "duration": 1.0,
+    "text": "That's interesting."
+  },
+  {
+    "start": 705.44,
+    "duration": 4.6,
+    "text": "And so the two topics that we want to explore today from the perspective of revenue leaders"
+  },
+  {
+    "start": 710.04,
+    "duration": 3.48,
+    "text": "is very much related to this point."
+  },
+  {
+    "start": 713.52,
+    "duration": 5.4,
+    "text": "One is how do we, uh, understand and navigate board dynamics?"
+  },
+  {
+    "start": 718.92,
+    "duration": 4.84,
+    "text": "And we're also going to kick off with a conversation around how should a revenue leader pick the"
+  },
+  {
+    "start": 723.76,
+    "duration": 4.08,
+    "text": "right fit and make sure that there's alignment with the founder that they're joining?"
+  },
+  {
+    "start": 727.84,
+    "duration": 4.52,
+    "text": "Because, um, you've written a lot about this."
+  },
+  {
+    "start": 732.36,
+    "duration": 5.88,
+    "text": "It's very difficult to find fit in alignment between stage and profile segment."
+  },
+  {
+    "start": 738.24,
+    "duration": 6.0,
+    "text": "And so we'll, we'll, let's move, we'll, we'll move around the schedule a little bit."
+  },
+  {
+    "start": 744.24,
+    "duration": 5.76,
+    "text": "Um, so you get all sorts of different advice depending on the profile."
+  },
+  {
+    "start": 750.0,
+    "duration": 3.8,
+    "text": "As a revenue leader, how should we be taking in this insight?"
+  },
+  {
+    "start": 753.8,
+    "duration": 6.12,
+    "text": "How directly do you think, uh, uh, ahead of sales, ahead of revenue should be reacting"
+  },
+  {
+    "start": 759.92,
+    "duration": 4.94,
+    "text": "to that type of advice from their board?"
+  },
+  {
+    "start": 764.86,
+    "duration": 1.94,
+    "text": "From a board once they've taken a role."
+  },
+  {
+    "start": 766.8,
+    "duration": 3.52,
+    "text": "So I'm, yeah, we'll, we'll, we'll start with topic two, board management."
+  },
+  {
+    "start": 770.32,
+    "duration": 3.88,
+    "text": "So well, first of all, listen, most, again, I think there's two types of board members,"
+  },
+  {
+    "start": 774.2,
+    "duration": 4.32,
+    "text": "folks that have been CEOs and folks that have not been CEOs and founders."
+  },
+  {
+    "start": 778.52,
+    "duration": 5.24,
+    "text": "And I think, especially for a CRO, you need, you need to really read the audience, right?"
+  },
+  {
+    "start": 783.76,
+    "duration": 7.52,
+    "text": "Um, the reality is, uh, a VC, a board member that has never been a CEO is always attracted"
+  },
+  {
+    "start": 791.28,
+    "duration": 3.96,
+    "text": "to logo, um, and a deep baritone voice and speaking with confidence."
+  },
+  {
+    "start": 795.24,
+    "duration": 6.12,
+    "text": "If you came out of wherever Shopify, LinkedIn, uh, toast, um, wherever, let's pick our leader,"
+  },
+  {
+    "start": 801.36,
+    "duration": 2.92,
+    "text": "especially maybe a leader that was like 10 years ago, Salesforce, like it's great, but"
+  },
+  {
+    "start": 804.28,
+    "duration": 1.84,
+    "text": "Salesforce is at 30 billion in revenue."
+  },
+  {
+    "start": 806.12,
+    "duration": 4.84,
+    "text": "They're always up to a, up to a point, they're going to be impressed with that, how pretty"
+  },
+  {
+    "start": 810.96,
+    "duration": 4.16,
+    "text": "your pipeline charts are and your funnel looks, they're going to be impressed with all that"
+  },
+  {
+    "start": 815.12,
+    "duration": 1.0,
+    "text": "stuff."
+  },
+  {
+    "start": 816.12,
+    "duration": 4.8,
+    "text": "Um, I think, um, the more they're an operator, the more they just want to know what your"
+  },
+  {
+    "start": 820.92,
+    "duration": 2.76,
+    "text": "commits are to flip it around."
+  },
+  {
+    "start": 823.68,
+    "duration": 1.0,
+    "text": "What are your commits?"
+  },
+  {
+    "start": 824.68,
+    "duration": 4.92,
+    "text": "Just, and I see, and this is why I can, I can smell this in 60 seconds when a VP of"
+  },
+  {
+    "start": 829.6,
+    "duration": 3.0,
+    "text": "sales comes in and their first slide, isn't their commits."
+  },
+  {
+    "start": 832.6,
+    "duration": 3.08,
+    "text": "I know this just, they're not doing well."
+  },
+  {
+    "start": 835.68,
+    "duration": 1.32,
+    "text": "All they want to do is you're a startup."
+  },
+  {
+    "start": 837.0,
+    "duration": 1.96,
+    "text": "You don't have two years, right here."
+  },
+  {
+    "start": 838.96,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 839.96,
+    "duration": 1.0,
+    "text": "They start off."
+  },
+  {
+    "start": 840.96,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 841.96,
+    "duration": 1.0,
+    "text": "How is the quarter?"
+  },
+  {
+    "start": 842.96,
+    "duration": 1.0,
+    "text": "You know, what are you giving?"
+  },
+  {
+    "start": 843.96,
+    "duration": 1.0,
+    "text": "You give yourself an honest grade."
+  },
+  {
+    "start": 844.96,
+    "duration": 2.24,
+    "text": "That's what a great startup head of sales does."
+  },
+  {
+    "start": 847.2,
+    "duration": 1.0,
+    "text": "Give you an honest grade."
+  },
+  {
+    "start": 848.2,
+    "duration": 1.32,
+    "text": "How's it looking for the next quarter?"
+  },
+  {
+    "start": 849.52,
+    "duration": 1.16,
+    "text": "And here's my honest commits."
+  },
+  {
+    "start": 850.68,
+    "duration": 1.0,
+    "text": "They're hard."
+  },
+  {
+    "start": 851.68,
+    "duration": 1.0,
+    "text": "I got an 80% chance of bringing in service."
+  },
+  {
+    "start": 852.68,
+    "duration": 1.88,
+    "text": "Now I got a 50% chance here."
+  },
+  {
+    "start": 854.56,
+    "duration": 2.44,
+    "text": "Um, the mediocre ones don't give themselves a grade."
+  },
+  {
+    "start": 857.0,
+    "duration": 4.52,
+    "text": "They, they blame others and they have a bunch of random pipeline that makes no sense, but"
+  },
+  {
+    "start": 861.52,
+    "duration": 1.84,
+    "text": "looks really good because there's a lot of logos in it."
+  },
+  {
+    "start": 863.36,
+    "duration": 3.52,
+    "text": "Just tell me that, you know, commits are, commits are obvious."
+  },
+  {
+    "start": 866.88,
+    "duration": 6.28,
+    "text": "I'm not sure that when I started in SAS, that just this basic concept was as well known,"
+  },
+  {
+    "start": 873.16,
+    "duration": 1.0,
+    "text": "right?"
+  },
+  {
+    "start": 874.16,
+    "duration": 3.04,
+    "text": "To have a true commit in the funnel for sales, but it is the way all the best sales leaders"
+  },
+  {
+    "start": 877.2,
+    "duration": 1.0,
+    "text": "present."
+  },
+  {
+    "start": 878.2,
+    "duration": 1.0,
+    "text": "What's your commit?"
+  },
+  {
+    "start": 879.2,
+    "duration": 1.0,
+    "text": "What's your confidence?"
+  },
+  {
+    "start": 880.2,
+    "duration": 1.0,
+    "text": "What's your commit?"
+  },
+  {
+    "start": 881.2,
+    "duration": 3.08,
+    "text": "Uh, and don't run from it and don't run from bad news."
+  },
+  {
+    "start": 884.28,
+    "duration": 1.76,
+    "text": "And the mediocre ones run from bad news."
+  },
+  {
+    "start": 886.04,
+    "duration": 2.12,
+    "text": "Don't run from bad news when you present to a board."
+  },
+  {
+    "start": 888.16,
+    "duration": 4.64,
+    "text": "The one thing to remember, this is a lot, what a lot of first timers, 90% get wrong"
+  },
+  {
+    "start": 893.24,
+    "duration": 6.92,
+    "text": "is, is, um, what a board wants is honesty, optimism, honesty plus optimism, not pessimism,"
+  },
+  {
+    "start": 900.16,
+    "duration": 1.0,
+    "text": "not a Debbie Downer."
+  },
+  {
+    "start": 901.16,
+    "duration": 4.8,
+    "text": "Um, and they want it, they want commitment, they want honest numbers, but they know that"
+  },
+  {
+    "start": 905.96,
+    "duration": 2.52,
+    "text": "not every week is going to be great."
+  },
+  {
+    "start": 908.48,
+    "duration": 4.68,
+    "text": "Like they are wired, professional investors and board members are wired for a certain"
+  },
+  {
+    "start": 913.16,
+    "duration": 1.48,
+    "text": "amount of bad news."
+  },
+  {
+    "start": 914.64,
+    "duration": 1.96,
+    "text": "Too much bad news is too much, right?"
+  },
+  {
+    "start": 916.6,
+    "duration": 2.56,
+    "text": "You lose confidence as you would in someone on your team, right?"
+  },
+  {
+    "start": 919.16,
+    "duration": 2.4,
+    "text": "Someone on your team missed, missed every month for a year."
+  },
+  {
+    "start": 921.56,
+    "duration": 2.48,
+    "text": "You'd lose a little bit of confidence no matter how much you liked them, but one month"
+  },
+  {
+    "start": 924.04,
+    "duration": 1.0,
+    "text": "is not the end of the world."
+  },
+  {
+    "start": 925.04,
+    "duration": 1.16,
+    "text": "VCs know this too, right?"
+  },
+  {
+    "start": 926.2,
+    "duration": 1.36,
+    "text": "Board members know this too."
+  },
+  {
+    "start": 927.56,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 928.56,
+    "duration": 4.56,
+    "text": "Um, and the other thing that just kills a lot of first time VCs, even second, even third"
+  },
+  {
+    "start": 933.12,
+    "duration": 3.8,
+    "text": "or fourth time, the one that really undermines, destroys confidence in the board, and this"
+  },
+  {
+    "start": 936.92,
+    "duration": 4.52,
+    "text": "would be true for everyone, but especially at the board level, um, is unexpected bad"
+  },
+  {
+    "start": 941.44,
+    "duration": 7.72,
+    "text": "news that destroys, that's 10 times more a confidence destroyer than anything else."
+  },
+  {
+    "start": 949.16,
+    "duration": 2.32,
+    "text": "If you say, listen, the last quarter was great."
+  },
+  {
+    "start": 951.48,
+    "duration": 1.0,
+    "text": "The plan was 1 million."
+  },
+  {
+    "start": 952.48,
+    "duration": 2.48,
+    "text": "We did one too, but this quarter is going to be hard and here's why."
+  },
+  {
+    "start": 954.96,
+    "duration": 1.64,
+    "text": "30% of it's me, right?"
+  },
+  {
+    "start": 956.6,
+    "duration": 1.0,
+    "text": "I screwed up."
+  },
+  {
+    "start": 957.6,
+    "duration": 1.0,
+    "text": "I made a couple of bad hires."
+  },
+  {
+    "start": 958.6,
+    "duration": 1.0,
+    "text": "30% of it's seasonality."
+  },
+  {
+    "start": 959.6,
+    "duration": 2.28,
+    "text": "30% of it's competition."
+  },
+  {
+    "start": 961.88,
+    "duration": 1.0,
+    "text": "It's tough."
+  },
+  {
+    "start": 962.88,
+    "duration": 2.04,
+    "text": "And so we're going to only do 800K this quarter."
+  },
+  {
+    "start": 964.92,
+    "duration": 1.0,
+    "text": "It's down."
+  },
+  {
+    "start": 965.92,
+    "duration": 1.0,
+    "text": "That's a hard miss."
+  },
+  {
+    "start": 966.92,
+    "duration": 1.0,
+    "text": "It's not a soft miss."
+  },
+  {
+    "start": 967.92,
+    "duration": 1.0,
+    "text": "It's not like growth is slowed."
+  },
+  {
+    "start": 968.92,
+    "duration": 1.0,
+    "text": "It's down."
+  },
+  {
+    "start": 969.92,
+    "duration": 1.92,
+    "text": "And then what the quarter ends up being 850 or 900."
+  },
+  {
+    "start": 971.84,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 972.84,
+    "duration": 1.6,
+    "text": "Well, I've gotten, I've gotten a great heads up, right?"
+  },
+  {
+    "start": 974.44,
+    "duration": 2.68,
+    "text": "And everyone's like, okay, Kyle, let's talk about next quarter."
+  },
+  {
+    "start": 977.12,
+    "duration": 1.0,
+    "text": "Like it's behind us."
+  },
+  {
+    "start": 978.12,
+    "duration": 1.0,
+    "text": "Who gives a shit?"
+  },
+  {
+    "start": 979.44,
+    "duration": 8.08,
+    "text": "But when it's a bomb, when it's a bomb and I just, it's just, you've got to learn this"
+  },
+  {
+    "start": 987.52,
+    "duration": 5.52,
+    "text": "as a revenue leader to telegraph on bad news with a positive filter."
+  },
+  {
+    "start": 993.04,
+    "duration": 3.52,
+    "text": "Don't be a Debbie Downer, but telegraph it as early as humanly possible."
+  },
+  {
+    "start": 996.56,
+    "duration": 4.32,
+    "text": "But in a way that, that shows why if you believe the business has velocity, why it does like"
+  },
+  {
+    "start": 1000.88,
+    "duration": 3.68,
+    "text": "do it the right way, but no surprises, no surprises."
+  },
+  {
+    "start": 1004.56,
+    "duration": 5.6,
+    "text": "And I loved a long time ago at Sastra, Olivia from Datadog, the CEO came in the early days"
+  },
+  {
+    "start": 1010.16,
+    "duration": 1.0,
+    "text": "of Datadog."
+  },
+  {
+    "start": 1011.16,
+    "duration": 3.24,
+    "text": "He came to our first Sastra Europe and he said something which sounds trite, but honestly,"
+  },
+  {
+    "start": 1014.4,
+    "duration": 5.52,
+    "text": "this is the best advice I can give to any, any revenue leader, also founders to run toward"
+  },
+  {
+    "start": 1019.92,
+    "duration": 1.72,
+    "text": "bad news."
+  },
+  {
+    "start": 1021.64,
+    "duration": 4.36,
+    "text": "I know it sounds like an ism, write it on your palm and indelible ink and look at it"
+  },
+  {
+    "start": 1026.0,
+    "duration": 5.4,
+    "text": "before every team meeting, every board meeting, run toward bad news, run toward it."
+  },
+  {
+    "start": 1031.4,
+    "duration": 1.16,
+    "text": "This is what the best people do."
+  },
+  {
+    "start": 1032.56,
+    "duration": 2.24,
+    "text": "They run toward bad news."
+  },
+  {
+    "start": 1034.8,
+    "duration": 2.08,
+    "text": "Now a lot of founders run from bad news."
+  },
+  {
+    "start": 1036.88,
+    "duration": 2.04,
+    "text": "It's bad enough, right?"
+  },
+  {
+    "start": 1038.92,
+    "duration": 2.96,
+    "text": "The classic way is when the investor updates start coming later and later and then they"
+  },
+  {
+    "start": 1041.88,
+    "duration": 1.0,
+    "text": "don't come anymore."
+  },
+  {
+    "start": 1042.88,
+    "duration": 1.52,
+    "text": "That's running from bad news."
+  },
+  {
+    "start": 1044.4,
+    "duration": 3.84,
+    "text": "But CROs are even worse at it because one, they delude themselves they can make it up"
+  },
+  {
+    "start": 1048.24,
+    "duration": 3.76,
+    "text": "next quarter at the end of the year and they commit to crazy backloaded growth numbers"
+  },
+  {
+    "start": 1052.0,
+    "duration": 1.0,
+    "text": "that are impossible."
+  },
+  {
+    "start": 1053.0,
+    "duration": 4.16,
+    "text": "Like that's a delusional, that's a top five mistake folks make to the board in general"
+  },
+  {
+    "start": 1057.16,
+    "duration": 4.16,
+    "text": "is committing to a crazy plan to make up for a miss."
+  },
+  {
+    "start": 1061.32,
+    "duration": 3.4,
+    "text": "And two, they almost get paralyzed."
+  },
+  {
+    "start": 1064.72,
+    "duration": 6.64,
+    "text": "They almost get paralyzed with maybe some excessive amount of intimidation and they"
+  },
+  {
+    "start": 1071.36,
+    "duration": 2.88,
+    "text": "just start making it up and they don't run toward bad news."
+  },
+  {
+    "start": 1074.24,
+    "duration": 1.56,
+    "text": "The best ones run toward bad news."
+  },
+  {
+    "start": 1075.8,
+    "duration": 1.92,
+    "text": "They run toward it, right?"
+  },
+  {
+    "start": 1077.72,
+    "duration": 4.68,
+    "text": "I think this was one of the, I put a bunch of messages out to folks to see what they"
+  },
+  {
+    "start": 1082.4,
+    "duration": 3.72,
+    "text": "would want to know from a board member, an investor."
+  },
+  {
+    "start": 1086.12,
+    "duration": 8.48,
+    "text": "The two top things were this topic, how do you manage the board's confidence in me as"
+  },
+  {
+    "start": 1094.6,
+    "duration": 1.0,
+    "text": "a revenue leader?"
+  },
+  {
+    "start": 1095.6,
+    "duration": 4.68,
+    "text": "Because sometimes things aren't going to go great."
+  },
+  {
+    "start": 1100.28,
+    "duration": 3.8,
+    "text": "And I think this is great advice for people."
+  },
+  {
+    "start": 1104.08,
+    "duration": 2.52,
+    "text": "It sounds like honesty and optimism."
+  },
+  {
+    "start": 1106.6,
+    "duration": 2.56,
+    "text": "Would you have a plan to that?"
+  },
+  {
+    "start": 1109.16,
+    "duration": 2.32,
+    "text": "Yeah, always have a plan."
+  },
+  {
+    "start": 1111.48,
+    "duration": 8.0,
+    "text": "And listen, if you need a framework to present to a board, I think everything can be distilled"
+  },
+  {
+    "start": 1119.48,
+    "duration": 4.64,
+    "text": "to one slide and your one slide is, what was your commit for the quarter?"
+  },
+  {
+    "start": 1124.12,
+    "duration": 1.0,
+    "text": "How did it go?"
+  },
+  {
+    "start": 1125.12,
+    "duration": 1.0,
+    "text": "Be honest."
+  },
+  {
+    "start": 1126.12,
+    "duration": 1.0,
+    "text": "Don't hide it."
+  },
+  {
+    "start": 1127.12,
+    "duration": 1.32,
+    "text": "If you came up short, you came up short."
+  },
+  {
+    "start": 1128.44,
+    "duration": 1.34,
+    "text": "What went well, three bullets."
+  },
+  {
+    "start": 1129.78,
+    "duration": 1.94,
+    "text": "What didn't, three bullets."
+  },
+  {
+    "start": 1131.72,
+    "duration": 2.24,
+    "text": "Commit actual, what went well, what didn't."
+  },
+  {
+    "start": 1133.96,
+    "duration": 4.28,
+    "text": "Well, this slide, especially if I see it ahead of time and I can read it, you're already"
+  },
+  {
+    "start": 1138.24,
+    "duration": 3.36,
+    "text": "ahead of 90% of CROs and VPs of sales."
+  },
+  {
+    "start": 1141.6,
+    "duration": 1.0,
+    "text": "What did I commit to?"
+  },
+  {
+    "start": 1142.6,
+    "duration": 1.88,
+    "text": "How did it actually go?"
+  },
+  {
+    "start": 1144.48,
+    "duration": 4.8,
+    "text": "My real goals for the quarter and three things that went well, three things that went less"
+  },
+  {
+    "start": 1149.28,
+    "duration": 1.0,
+    "text": "well."
+  },
+  {
+    "start": 1150.28,
+    "duration": 1.0,
+    "text": "I do a GBU, good, bad, and ugly."
+  },
+  {
+    "start": 1151.28,
+    "duration": 1.0,
+    "text": "So I also have ugly."
+  },
+  {
+    "start": 1152.28,
+    "duration": 3.1,
+    "text": "I like to split it into GBU, but you can just do good and bad if you want."
+  },
+  {
+    "start": 1155.38,
+    "duration": 5.46,
+    "text": "But it's so honest that rather than everything's great, I know we set a million and it was"
+  },
+  {
+    "start": 1160.84,
+    "duration": 2.24,
+    "text": "400,000, but everything was great, Kyle."
+  },
+  {
+    "start": 1163.08,
+    "duration": 1.52,
+    "text": "Everything's great."
+  },
+  {
+    "start": 1164.6,
+    "duration": 1.44,
+    "text": "Everything's great."
+  },
+  {
+    "start": 1166.04,
+    "duration": 1.16,
+    "text": "Everything's great."
+  },
+  {
+    "start": 1167.2,
+    "duration": 3.28,
+    "text": "The first startup I ever worked at, it was the first time I'd ever worked with a professional"
+  },
+  {
+    "start": 1170.48,
+    "duration": 1.0,
+    "text": "sales leader."
+  },
+  {
+    "start": 1171.48,
+    "duration": 5.84,
+    "text": "He looked apart, tall, this deep sea diver in offshore wrecks deep at the bottom and"
+  },
+  {
+    "start": 1177.32,
+    "duration": 1.48,
+    "text": "every day I'd say to Michael, how's it going?"
+  },
+  {
+    "start": 1178.8,
+    "duration": 1.84,
+    "text": "He'd be like, never better, never better."
+  },
+  {
+    "start": 1180.64,
+    "duration": 3.92,
+    "text": "In the entire year he was there, he closed zero, the VP of sales, but never better every"
+  },
+  {
+    "start": 1184.56,
+    "duration": 1.0,
+    "text": "day."
+  },
+  {
+    "start": 1185.56,
+    "duration": 1.0,
+    "text": "Never better."
+  },
+  {
+    "start": 1186.56,
+    "duration": 1.0,
+    "text": "Never better."
+  },
+  {
+    "start": 1187.56,
+    "duration": 3.52,
+    "text": "And that is where you lose confidence from the board."
+  },
+  {
+    "start": 1191.08,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1192.08,
+    "duration": 4.84,
+    "text": "And listen, related to it, listen, if you want advice, way too many VPs of sales and"
+  },
+  {
+    "start": 1196.92,
+    "duration": 2.84,
+    "text": "not just first time, second time, they think they need to sell up."
+  },
+  {
+    "start": 1199.76,
+    "duration": 1.68,
+    "text": "They think they need to manipulate the board."
+  },
+  {
+    "start": 1201.44,
+    "duration": 4.04,
+    "text": "They think they need to look a certain way and talk a certain way."
+  },
+  {
+    "start": 1205.48,
+    "duration": 4.52,
+    "text": "No, maybe, maybe at the IPO stage, maybe, okay, maybe no."
+  },
+  {
+    "start": 1210.0,
+    "duration": 5.0,
+    "text": "If you're a startup or scale up, be you, like start with the dashboard I talked about."
+  },
+  {
+    "start": 1215.0,
+    "duration": 1.0,
+    "text": "What was the commit?"
+  },
+  {
+    "start": 1216.0,
+    "duration": 1.0,
+    "text": "How did it go?"
+  },
+  {
+    "start": 1217.0,
+    "duration": 1.0,
+    "text": "Three good things."
+  },
+  {
+    "start": 1218.0,
+    "duration": 1.0,
+    "text": "Three bad things."
+  },
+  {
+    "start": 1219.0,
+    "duration": 1.36,
+    "text": "Every time just present it that way."
+  },
+  {
+    "start": 1220.36,
+    "duration": 3.76,
+    "text": "With a little bit of a passion, but not emotion or blame."
+  },
+  {
+    "start": 1224.12,
+    "duration": 3.6,
+    "text": "And then have the second, whatever your dashboard is, I like commits, I like this, but have"
+  },
+  {
+    "start": 1227.72,
+    "duration": 2.4,
+    "text": "it be your thing."
+  },
+  {
+    "start": 1230.12,
+    "duration": 4.84,
+    "text": "Here's the cheat code, don't spend, talk to a lot of COs these days and they're often"
+  },
+  {
+    "start": 1234.96,
+    "duration": 3.56,
+    "text": "canceling board meetings or moving them because it takes too long to prepare, it shouldn't."
+  },
+  {
+    "start": 1238.52,
+    "duration": 3.16,
+    "text": "Your second slide, Kyle, should be whatever your favorite dashboard is."
+  },
+  {
+    "start": 1241.68,
+    "duration": 1.36,
+    "text": "How do you like to work with your team?"
+  },
+  {
+    "start": 1243.04,
+    "duration": 1.0,
+    "text": "It's brilliant."
+  },
+  {
+    "start": 1244.04,
+    "duration": 1.0,
+    "text": "That way I can see how you think."
+  },
+  {
+    "start": 1245.04,
+    "duration": 2.96,
+    "text": "Is it a screenshot from HubSpot or Salesforce?"
+  },
+  {
+    "start": 1248.0,
+    "duration": 1.0,
+    "text": "Great."
+  },
+  {
+    "start": 1249.0,
+    "duration": 1.0,
+    "text": "Do you have your own spreadsheet?"
+  },
+  {
+    "start": 1250.0,
+    "duration": 1.82,
+    "text": "Do you have a weird system and notion?"
+  },
+  {
+    "start": 1251.82,
+    "duration": 3.28,
+    "text": "Whatever it is, if you take a screenshot of your dashboard, that shouldn't take more"
+  },
+  {
+    "start": 1255.1,
+    "duration": 1.0,
+    "text": "than five minutes."
+  },
+  {
+    "start": 1256.1,
+    "duration": 1.0,
+    "text": "Should it with a few notes?"
+  },
+  {
+    "start": 1257.1,
+    "duration": 1.0,
+    "text": "That should be it."
+  },
+  {
+    "start": 1258.1,
+    "duration": 1.0,
+    "text": "That's so great."
+  },
+  {
+    "start": 1259.1,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1260.1,
+    "duration": 1.0,
+    "text": "This is how he thinks."
+  },
+  {
+    "start": 1261.1,
+    "duration": 1.0,
+    "text": "This is how he thinks."
+  },
+  {
+    "start": 1262.1,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 1263.1,
+    "duration": 1.0,
+    "text": "Don't sell up."
+  },
+  {
+    "start": 1264.1,
+    "duration": 3.04,
+    "text": "Don't schmooze."
+  },
+  {
+    "start": 1267.14,
+    "duration": 3.4,
+    "text": "All your board wants you to do is grow as quickly as you can and be successful."
+  },
+  {
+    "start": 1270.54,
+    "duration": 1.0,
+    "text": "You are aligned."
+  },
+  {
+    "start": 1271.54,
+    "duration": 1.0,
+    "text": "It's not a game."
+  },
+  {
+    "start": 1272.54,
+    "duration": 5.56,
+    "text": "And even if it is a game, they're going to see the emperor has no clothes if you claim"
+  },
+  {
+    "start": 1278.1,
+    "duration": 1.0,
+    "text": "things that you're not."
+  },
+  {
+    "start": 1279.1,
+    "duration": 1.0,
+    "text": "Be you."
+  },
+  {
+    "start": 1280.9,
+    "duration": 4.96,
+    "text": "There are CROs today that are very nerdy and math-oriented and they're almost to a fault."
+  },
+  {
+    "start": 1285.86,
+    "duration": 4.48,
+    "text": "There are CROs that are more on the enterprise side that are even today are ultra-relationship"
+  },
+  {
+    "start": 1290.34,
+    "duration": 1.0,
+    "text": "driven."
+  },
+  {
+    "start": 1291.34,
+    "duration": 2.6,
+    "text": "They're constantly hanging out with their prospects in person."
+  },
+  {
+    "start": 1293.94,
+    "duration": 1.0,
+    "text": "You be you."
+  },
+  {
+    "start": 1294.94,
+    "duration": 1.0,
+    "text": "There are different..."
+  },
+  {
+    "start": 1295.94,
+    "duration": 2.76,
+    "text": "Sales still has different paths to success."
+  },
+  {
+    "start": 1298.7,
+    "duration": 1.0,
+    "text": "Don't act."
+  },
+  {
+    "start": 1299.7,
+    "duration": 1.48,
+    "text": "Well, act a little bit."
+  },
+  {
+    "start": 1301.18,
+    "duration": 2.52,
+    "text": "We're all acting a little bit."
+  },
+  {
+    "start": 1303.7,
+    "duration": 1.48,
+    "text": "But don't act more than 10%."
+  },
+  {
+    "start": 1305.18,
+    "duration": 1.0,
+    "text": "Be you."
+  },
+  {
+    "start": 1306.18,
+    "duration": 2.68,
+    "text": "And that will inspire the confidence."
+  },
+  {
+    "start": 1308.9,
+    "duration": 4.84,
+    "text": "If you give too much bullshit, here trying to act too much will undermine it, right?"
+  },
+  {
+    "start": 1313.74,
+    "duration": 3.44,
+    "text": "And then the other thing you can't do it about is too much fear."
+  },
+  {
+    "start": 1317.18,
+    "duration": 1.52,
+    "text": "That's the end of it."
+  },
+  {
+    "start": 1318.7,
+    "duration": 1.0,
+    "text": "That's the end of any head of sales."
+  },
+  {
+    "start": 1319.7,
+    "duration": 1.0,
+    "text": "Too much fear."
+  },
+  {
+    "start": 1320.7,
+    "duration": 2.24,
+    "text": "What do you mean too much fear?"
+  },
+  {
+    "start": 1322.94,
+    "duration": 3.0,
+    "text": "Look, startups are hard, right?"
+  },
+  {
+    "start": 1325.94,
+    "duration": 1.56,
+    "text": "And even when they're easy, they're hard."
+  },
+  {
+    "start": 1327.5,
+    "duration": 6.08,
+    "text": "Because even when they're easy, the bar goes up, right?"
+  },
+  {
+    "start": 1333.58,
+    "duration": 5.08,
+    "text": "And in some ways, the hardest job of all is a head of sales because it's tough to be an"
+  },
+  {
+    "start": 1338.66,
+    "duration": 4.96,
+    "text": "AE, but your quota might be the same for five years, but your quota goes up every year,"
+  },
+  {
+    "start": 1343.62,
+    "duration": 3.12,
+    "text": "every quarter as a VP of sales."
+  },
+  {
+    "start": 1346.74,
+    "duration": 3.92,
+    "text": "If you don't recruit better and better people, your job gets harder and harder each quarter."
+  },
+  {
+    "start": 1350.66,
+    "duration": 1.4,
+    "text": "So it's hard."
+  },
+  {
+    "start": 1352.06,
+    "duration": 4.76,
+    "text": "And everyone knows it's hard and everyone's trying to watch, okay, can Kyle make it to"
+  },
+  {
+    "start": 1356.82,
+    "duration": 1.8,
+    "text": "the next level?"
+  },
+  {
+    "start": 1358.62,
+    "duration": 1.0,
+    "text": "We just want to know."
+  },
+  {
+    "start": 1359.62,
+    "duration": 1.0,
+    "text": "There's no judging."
+  },
+  {
+    "start": 1360.62,
+    "duration": 1.0,
+    "text": "Everyone wants..."
+  },
+  {
+    "start": 1361.62,
+    "duration": 4.56,
+    "text": "A lot of the early stuff, a lot of angry VPs of sales on LinkedIn think everyone wants"
+  },
+  {
+    "start": 1366.18,
+    "duration": 1.48,
+    "text": "to fire them, all these CEOs."
+  },
+  {
+    "start": 1367.66,
+    "duration": 1.92,
+    "text": "Nobody wants to fire anybody."
+  },
+  {
+    "start": 1369.58,
+    "duration": 4.32,
+    "text": "I can tell you at Owner, all people want is Kyle to get us to a billion dollars in revenue."
+  },
+  {
+    "start": 1373.9,
+    "duration": 1.84,
+    "text": "No one wants anything else."
+  },
+  {
+    "start": 1375.74,
+    "duration": 1.56,
+    "text": "Why would you want anything else?"
+  },
+  {
+    "start": 1377.3,
+    "duration": 1.0,
+    "text": "Kyle's done a good job."
+  },
+  {
+    "start": 1378.3,
+    "duration": 2.24,
+    "text": "Why would you want anything else?"
+  },
+  {
+    "start": 1380.54,
+    "duration": 1.48,
+    "text": "Why would you?"
+  },
+  {
+    "start": 1382.02,
+    "duration": 2.4,
+    "text": "People read these irrational things into it."
+  },
+  {
+    "start": 1384.42,
+    "duration": 4.64,
+    "text": "But what you are looking for is when it gets harder and harder, like, okay, let's say Kyle"
+  },
+  {
+    "start": 1389.06,
+    "duration": 1.0,
+    "text": "joined..."
+  },
+  {
+    "start": 1390.06,
+    "duration": 1.0,
+    "text": "Let's say you joined Owner at a million."
+  },
+  {
+    "start": 1391.06,
+    "duration": 1.0,
+    "text": "I don't know when you joined, okay?"
+  },
+  {
+    "start": 1392.06,
+    "duration": 1.52,
+    "text": "And we're at 20-something today."
+  },
+  {
+    "start": 1393.58,
+    "duration": 4.88,
+    "text": "And so, yeah, Kyle was very confident going from one to three and then three to nine."
+  },
+  {
+    "start": 1398.46,
+    "duration": 5.8,
+    "text": "But sometimes you see that fear and you start hearing, well, I don't know, going from 20"
+  },
+  {
+    "start": 1404.26,
+    "duration": 2.6,
+    "text": "to 30, that's a really big number."
+  },
+  {
+    "start": 1406.86,
+    "duration": 3.12,
+    "text": "And in fact, in SaaS, a lot of times you're closing more each year than all the other"
+  },
+  {
+    "start": 1409.98,
+    "duration": 1.0,
+    "text": "years combined."
+  },
+  {
+    "start": 1410.98,
+    "duration": 5.28,
+    "text": "You have to do as much work in sales this year as every year combined."
+  },
+  {
+    "start": 1416.26,
+    "duration": 5.08,
+    "text": "And so if fear eats at you too much, you just can't do it, right?"
+  },
+  {
+    "start": 1421.34,
+    "duration": 1.2,
+    "text": "So we are looking for fear."
+  },
+  {
+    "start": 1422.54,
+    "duration": 1.0,
+    "text": "We are looking for fear."
+  },
+  {
+    "start": 1423.54,
+    "duration": 4.4,
+    "text": "I think the fear piece is rampant."
+  },
+  {
+    "start": 1427.94,
+    "duration": 5.08,
+    "text": "One of the questions I got the most was, well, revenue leaders are always on the chopping"
+  },
+  {
+    "start": 1433.02,
+    "duration": 1.0,
+    "text": "block."
+  },
+  {
+    "start": 1434.02,
+    "duration": 1.64,
+    "text": "When things go wrong, it's..."
+  },
+  {
+    "start": 1435.66,
+    "duration": 1.16,
+    "text": "It's not true, Kyle."
+  },
+  {
+    "start": 1436.82,
+    "duration": 1.96,
+    "text": "It's just not true, but keep going."
+  },
+  {
+    "start": 1438.78,
+    "duration": 1.0,
+    "text": "This is..."
+  },
+  {
+    "start": 1439.78,
+    "duration": 3.92,
+    "text": "I think it's one of the biggest disservices on LinkedIn and social media is this idea"
+  },
+  {
+    "start": 1443.7,
+    "duration": 1.68,
+    "text": "that revenue leaders are on the chopping block."
+  },
+  {
+    "start": 1445.38,
+    "duration": 1.84,
+    "text": "It is not true."
+  },
+  {
+    "start": 1447.22,
+    "duration": 3.64,
+    "text": "So explain this from the board person's perspective because I love this."
+  },
+  {
+    "start": 1450.86,
+    "duration": 2.44,
+    "text": "I love this point that you're making."
+  },
+  {
+    "start": 1453.3,
+    "duration": 1.0,
+    "text": "Let's step back for a minute."
+  },
+  {
+    "start": 1454.3,
+    "duration": 1.0,
+    "text": "I know I..."
+  },
+  {
+    "start": 1455.3,
+    "duration": 1.64,
+    "text": "Listen, don't get me wrong."
+  },
+  {
+    "start": 1456.94,
+    "duration": 5.4,
+    "text": "Most of the best, especially first-time sales, not all, and I'll give you some stories, but"
+  },
+  {
+    "start": 1462.34,
+    "duration": 3.56,
+    "text": "many of the best did get chopped, okay?"
+  },
+  {
+    "start": 1465.9,
+    "duration": 4.36,
+    "text": "But often, first of all, often they got chopped after they got topped and they got huffy and"
+  },
+  {
+    "start": 1470.26,
+    "duration": 5.52,
+    "text": "they quit when a CRO or an SVB of sales was brought on top of them."
+  },
+  {
+    "start": 1475.78,
+    "duration": 3.92,
+    "text": "Many of the best ones I know who think they got chopped didn't get chopped."
+  },
+  {
+    "start": 1479.7,
+    "duration": 1.04,
+    "text": "They talk about they got chopped."
+  },
+  {
+    "start": 1480.82,
+    "duration": 2.12,
+    "text": "They got topped and that's a different topic."
+  },
+  {
+    "start": 1482.94,
+    "duration": 3.2,
+    "text": "They got topped and then disgruntled and then eventually had to be moved out."
+  },
+  {
+    "start": 1486.14,
+    "duration": 2.52,
+    "text": "I think half..."
+  },
+  {
+    "start": 1488.66,
+    "duration": 4.48,
+    "text": "The great stretch VPs of sales, the great ones, it's their first time as a VP of sales."
+  },
+  {
+    "start": 1493.14,
+    "duration": 2.4,
+    "text": "They're such passionate folks, these first-timers."
+  },
+  {
+    "start": 1495.54,
+    "duration": 1.16,
+    "text": "They're not machines, right?"
+  },
+  {
+    "start": 1496.7,
+    "duration": 2.08,
+    "text": "They're not mercenaries that it's tough."
+  },
+  {
+    "start": 1498.78,
+    "duration": 1.94,
+    "text": "They do quit half the time when they get topped."
+  },
+  {
+    "start": 1500.72,
+    "duration": 1.26,
+    "text": "It's hard, right?"
+  },
+  {
+    "start": 1501.98,
+    "duration": 3.52,
+    "text": "And maybe half the time they quit and another 25% of the time they almost quit."
+  },
+  {
+    "start": 1505.5,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1506.5,
+    "duration": 1.0,
+    "text": "Right?"
+  },
+  {
+    "start": 1507.5,
+    "duration": 1.0,
+    "text": "They almost quit."
+  },
+  {
+    "start": 1508.5,
+    "duration": 1.0,
+    "text": "But that's not the same thing as getting fired."
+  },
+  {
+    "start": 1509.5,
+    "duration": 1.0,
+    "text": "Is it?"
+  },
+  {
+    "start": 1511.26,
+    "duration": 1.32,
+    "text": "No."
+  },
+  {
+    "start": 1512.58,
+    "duration": 6.64,
+    "text": "I think a lot of this comes from giving people titles and saying you're the head of sales"
+  },
+  {
+    "start": 1519.22,
+    "duration": 5.88,
+    "text": "and that person gets it in their mind that they are the top of the chain forever versus"
+  },
+  {
+    "start": 1525.1,
+    "duration": 3.28,
+    "text": "having an open conversation about, hey, we're going to see..."
+  },
+  {
+    "start": 1528.38,
+    "duration": 3.32,
+    "text": "The founder having an open conversation and saying, hey, we're going to see how far you"
+  },
+  {
+    "start": 1531.7,
+    "duration": 1.14,
+    "text": "can take this."
+  },
+  {
+    "start": 1532.84,
+    "duration": 6.9,
+    "text": "But this business is five today and is going to be 20 in 24 months and you might be able"
+  },
+  {
+    "start": 1539.74,
+    "duration": 3.76,
+    "text": "to keep up if you're a super duper learner."
+  },
+  {
+    "start": 1543.5,
+    "duration": 2.68,
+    "text": "But if not, it's still an incredible victory."
+  },
+  {
+    "start": 1546.18,
+    "duration": 2.84,
+    "text": "And then we're going to bring in somebody that you can learn from."
+  },
+  {
+    "start": 1549.02,
+    "duration": 1.36,
+    "text": "I think that's the right conversation."
+  },
+  {
+    "start": 1550.38,
+    "duration": 2.08,
+    "text": "I think what CEOs don't do that they should do."
+  },
+  {
+    "start": 1552.46,
+    "duration": 4.58,
+    "text": "I wrote this post, not that long ago in Saster, but I should have rewritten it like 11 times."
+  },
+  {
+    "start": 1557.04,
+    "duration": 4.7,
+    "text": "If you're going to have that conversation with your stretch VP of sales, then you have"
+  },
+  {
+    "start": 1561.74,
+    "duration": 5.0,
+    "text": "to decide if you want to say something at the end, which is, listen, I don't know where"
+  },
+  {
+    "start": 1566.74,
+    "duration": 1.0,
+    "text": "it's going to go."
+  },
+  {
+    "start": 1567.74,
+    "duration": 2.28,
+    "text": "I don't want you to go all the way or I don't."
+  },
+  {
+    "start": 1570.02,
+    "duration": 5.28,
+    "text": "If you can't, we may need to bring in a CRO or someone at the next stage."
+  },
+  {
+    "start": 1575.3,
+    "duration": 3.8,
+    "text": "But no matter what happens, you have a job here forever."
+  },
+  {
+    "start": 1579.1,
+    "duration": 5.64,
+    "text": "I know that when you say that to people at the time, it doesn't really help."
+  },
+  {
+    "start": 1584.74,
+    "duration": 4.0,
+    "text": "If there is a sting, it doesn't take the sting out."
+  },
+  {
+    "start": 1588.74,
+    "duration": 2.48,
+    "text": "I think this is a really important thing to say nevertheless."
+  },
+  {
+    "start": 1591.22,
+    "duration": 2.76,
+    "text": "It's like, listen, you have done such a great job, Kyle."
+  },
+  {
+    "start": 1593.98,
+    "duration": 2.96,
+    "text": "I mean, I'm making this conversation up, but let's say I was the CEO of Owner."
+  },
+  {
+    "start": 1596.94,
+    "duration": 1.0,
+    "text": "We had this conversation."
+  },
+  {
+    "start": 1597.94,
+    "duration": 1.84,
+    "text": "You're a 10."
+  },
+  {
+    "start": 1599.78,
+    "duration": 1.0,
+    "text": "You are a 10."
+  },
+  {
+    "start": 1600.78,
+    "duration": 1.0,
+    "text": "I'm being objective for the listeners."
+  },
+  {
+    "start": 1601.78,
+    "duration": 1.0,
+    "text": "You're a 10."
+  },
+  {
+    "start": 1602.78,
+    "duration": 3.04,
+    "text": "And I don't know that I would have that conversation because you're SMB, which we could chat about"
+  },
+  {
+    "start": 1605.82,
+    "duration": 2.12,
+    "text": "because I think folks in SMB can scale longer."
+  },
+  {
+    "start": 1607.94,
+    "duration": 1.6,
+    "text": "But let's say we did have that conversation, Kyle."
+  },
+  {
+    "start": 1609.54,
+    "duration": 3.72,
+    "text": "You've done great, but I don't know if you're the right guy to be our CRO at 200 million,"
+  },
+  {
+    "start": 1613.26,
+    "duration": 3.36,
+    "text": "but whether you are or aren't, I want you to be one of our senior leaders on our revenue"
+  },
+  {
+    "start": 1616.62,
+    "duration": 2.3,
+    "text": "team, period."
+  },
+  {
+    "start": 1618.92,
+    "duration": 3.94,
+    "text": "That might not make you feel better, but it's the right thing to say if you mean it."
+  },
+  {
+    "start": 1623.86,
+    "duration": 5.24,
+    "text": "This LinkedIn mania of, I'm going to get fired, I'm telling you, Kyle, if you can trust me,"
+  },
+  {
+    "start": 1629.1,
+    "duration": 1.0,
+    "text": "you're not getting fired."
+  },
+  {
+    "start": 1630.1,
+    "duration": 1.0,
+    "text": "You may quit."
+  },
+  {
+    "start": 1631.1,
+    "duration": 2.0,
+    "text": "You may go on to another company."
+  },
+  {
+    "start": 1633.1,
+    "duration": 1.32,
+    "text": "You will not be fired on my watch."
+  },
+  {
+    "start": 1634.42,
+    "duration": 2.2,
+    "text": "You've earned a spot here."
+  },
+  {
+    "start": 1636.62,
+    "duration": 3.2,
+    "text": "For example, the third investment I did is a company called Algolia, which is a search"
+  },
+  {
+    "start": 1639.82,
+    "duration": 3.16,
+    "text": "as a service API that hopefully will IPO in the not distant future doing a couple hundred"
+  },
+  {
+    "start": 1642.98,
+    "duration": 1.0,
+    "text": "million."
+  },
+  {
+    "start": 1643.98,
+    "duration": 3.48,
+    "text": "The first head of sales, Gaten, he just left two months ago."
+  },
+  {
+    "start": 1647.46,
+    "duration": 1.0,
+    "text": "He joined in 2014."
+  },
+  {
+    "start": 1649.34,
+    "duration": 4.44,
+    "text": "His role changed, head of sales, CRO, chief business officer, chief strategy officer."
+  },
+  {
+    "start": 1653.78,
+    "duration": 6.04,
+    "text": "He hasn't run sales since it was the post-founder sales level, but he always had a senior role."
+  },
+  {
+    "start": 1659.82,
+    "duration": 1.0,
+    "text": "That's what you want."
+  },
+  {
+    "start": 1660.82,
+    "duration": 5.04,
+    "text": "The last thing, Adam and Dean asked my opinion, but if I were running owner, no matter what,"
+  },
+  {
+    "start": 1665.86,
+    "duration": 1.44,
+    "text": "I don't want you leaving."
+  },
+  {
+    "start": 1667.3,
+    "duration": 3.44,
+    "text": "You know too much about how this company works."
+  },
+  {
+    "start": 1670.74,
+    "duration": 2.08,
+    "text": "I want to find you a role."
+  },
+  {
+    "start": 1672.82,
+    "duration": 1.64,
+    "text": "I hope it's CRO."
+  },
+  {
+    "start": 1674.46,
+    "duration": 4.6,
+    "text": "If later it's chief strategy officer, chief business officer, or maybe you're GM of our"
+  },
+  {
+    "start": 1679.06,
+    "duration": 5.84,
+    "text": "S&B unit or something, Jameson, our old team, our old sales team at EchoSign, just left"
+  },
+  {
+    "start": 1684.9,
+    "duration": 2.6,
+    "text": "as SVV sales at Gong after I think eight years."
+  },
+  {
+    "start": 1687.5,
+    "duration": 1.56,
+    "text": "He was the first sales hire."
+  },
+  {
+    "start": 1689.06,
+    "duration": 3.6,
+    "text": "I think there were two or three CROs hired above him that maybe one or two might have"
+  },
+  {
+    "start": 1692.66,
+    "duration": 4.0,
+    "text": "come and gone and his role evolved, but he made it eight years all the way through SVV"
+  },
+  {
+    "start": 1696.66,
+    "duration": 1.0,
+    "text": "sales."
+  },
+  {
+    "start": 1697.66,
+    "duration": 3.44,
+    "text": "They kept him running this classic mid-market motion all the way through a couple hundred"
+  },
+  {
+    "start": 1701.1,
+    "duration": 2.36,
+    "text": "million in revenue."
+  },
+  {
+    "start": 1703.46,
+    "duration": 3.64,
+    "text": "Massive victory for him, massive victory for the company."
+  },
+  {
+    "start": 1707.1,
+    "duration": 2.92,
+    "text": "So realize it's not that simple as getting fired."
+  },
+  {
+    "start": 1710.02,
+    "duration": 3.2,
+    "text": "If you decide, does your CO believe in you?"
+  },
+  {
+    "start": 1713.22,
+    "duration": 4.24,
+    "text": "Have this conversation and if you're a CO, tell someone because there is this paranoia"
+  },
+  {
+    "start": 1717.46,
+    "duration": 1.0,
+    "text": "in sales that I'm going to get fired."
+  },
+  {
+    "start": 1718.46,
+    "duration": 1.0,
+    "text": "It is a paranoia."
+  },
+  {
+    "start": 1719.46,
+    "duration": 4.24,
+    "text": "I'm not saying it's going to work that day, but you've got to tell people you love them"
+  },
+  {
+    "start": 1723.7,
+    "duration": 1.0,
+    "text": "in life."
+  },
+  {
+    "start": 1724.7,
+    "duration": 2.4,
+    "text": "If you love your CRO, you've got to tell her or him you love them."
+  },
+  {
+    "start": 1727.1,
+    "duration": 2.68,
+    "text": "You've got to tell them no matter what, you have a senior role here."
+  },
+  {
+    "start": 1729.78,
+    "duration": 3.12,
+    "text": "I don't know what the senior role will be at 100 million and 200 million and a billion."
+  },
+  {
+    "start": 1733.34,
+    "duration": 2.2,
+    "text": "I don't know for sure what your senior role will be at a billionaire, but if you want"
+  },
+  {
+    "start": 1735.54,
+    "duration": 2.52,
+    "text": "to stay, you are part of the inner circle."
+  },
+  {
+    "start": 1738.06,
+    "duration": 3.0,
+    "text": "That's a great message."
+  },
+  {
+    "start": 1741.06,
+    "duration": 4.96,
+    "text": "And hopefully this can help put to bed some of the fear that is definitely rampant in"
+  },
+  {
+    "start": 1746.02,
+    "duration": 7.0,
+    "text": "these roles and will prevent people from ego quitting."
+  },
+  {
+    "start": 1753.02,
+    "duration": 3.48,
+    "text": "It's accelerated the ego quitting."
+  },
+  {
+    "start": 1756.5,
+    "duration": 4.64,
+    "text": "It doesn't help and I think people are just eating themselves up in their own heads and"
+  },
+  {
+    "start": 1761.14,
+    "duration": 1.0,
+    "text": "their own minds."
+  },
+  {
+    "start": 1762.38,
+    "duration": 6.84,
+    "text": "CMOs are different, but for CROs, the average CRO makes it 14 months or 17 months, whatever"
+  },
+  {
+    "start": 1769.22,
+    "duration": 1.0,
+    "text": "your number."
+  },
+  {
+    "start": 1770.22,
+    "duration": 3.0,
+    "text": "This is where averages are misleading."
+  },
+  {
+    "start": 1773.22,
+    "duration": 6.76,
+    "text": "The other thing that is misleading is that somehow today, because of layoffs or whatever,"
+  },
+  {
+    "start": 1779.98,
+    "duration": 2.0,
+    "text": "it's so easy to find great people."
+  },
+  {
+    "start": 1781.98,
+    "duration": 1.0,
+    "text": "No frigging way."
+  },
+  {
+    "start": 1782.98,
+    "duration": 3.2,
+    "text": "It's impossible to find great people."
+  },
+  {
+    "start": 1786.18,
+    "duration": 1.0,
+    "text": "You can't."
+  },
+  {
+    "start": 1787.18,
+    "duration": 1.0,
+    "text": "It's harder than ever."
+  },
+  {
+    "start": 1788.18,
+    "duration": 1.32,
+    "text": "Most people don't want to work."
+  },
+  {
+    "start": 1789.5,
+    "duration": 1.24,
+    "text": "Most people want to be strategists."
+  },
+  {
+    "start": 1790.74,
+    "duration": 2.0,
+    "text": "A lot of people are angry and burnt out."
+  },
+  {
+    "start": 1792.74,
+    "duration": 7.0,
+    "text": "It is easier than ever to just get 1,000, you can get 1,000 AI applications in an hour"
+  },
+  {
+    "start": 1799.74,
+    "duration": 1.0,
+    "text": "if you want."
+  },
+  {
+    "start": 1800.74,
+    "duration": 3.84,
+    "text": "Finding someone that wants the job, it's still only 1%."
+  },
+  {
+    "start": 1804.58,
+    "duration": 7.92,
+    "text": "So if you're one of the handful of leaders in a startup that truly cares about the mission,"
+  },
+  {
+    "start": 1812.5,
+    "duration": 4.72,
+    "text": "that cares about the company, which is rarer than ever, the best founders never want you"
+  },
+  {
+    "start": 1817.22,
+    "duration": 1.0,
+    "text": "to go up to a point."
+  },
+  {
+    "start": 1818.22,
+    "duration": 3.72,
+    "text": "Unless you become a problem, they never want you to go."
+  },
+  {
+    "start": 1821.94,
+    "duration": 1.0,
+    "text": "They never want you to go."
+  },
+  {
+    "start": 1822.94,
+    "duration": 3.44,
+    "text": "So these numbers are misleading."
+  },
+  {
+    "start": 1826.38,
+    "duration": 5.76,
+    "text": "A great CO knows, hey, shoot, I fire Kyle or Sam or Brendon, I fire them, I better fucking"
+  },
+  {
+    "start": 1832.14,
+    "duration": 2.68,
+    "text": "have someone better than Kyle right next door."
+  },
+  {
+    "start": 1834.82,
+    "duration": 4.12,
+    "text": "How many of them have someone better?"
+  },
+  {
+    "start": 1838.94,
+    "duration": 5.06,
+    "text": "So yeah, it does happen, COs, you miss the number, you miss the plan and they fire the"
+  },
+  {
+    "start": 1844.0,
+    "duration": 1.0,
+    "text": "revenue team."
+  },
+  {
+    "start": 1845.8,
+    "duration": 4.92,
+    "text": "I've written this, I find firing the entire revenue team because you miss the number rarely"
+  },
+  {
+    "start": 1850.72,
+    "duration": 1.0,
+    "text": "an effective strategy."
+  },
+  {
+    "start": 1851.72,
+    "duration": 1.0,
+    "text": "Rarely."
+  },
+  {
+    "start": 1852.72,
+    "duration": 6.2,
+    "text": "In fact, for a mediocre CO, it often leads to a death spiral of a startup."
+  },
+  {
+    "start": 1858.92,
+    "duration": 4.32,
+    "text": "It's a start of a death spiral when a mediocre CO fires the whole revenue team because they"
+  },
+  {
+    "start": 1863.24,
+    "duration": 2.28,
+    "text": "never replace them."
+  },
+  {
+    "start": 1865.52,
+    "duration": 1.0,
+    "text": "There's just nobody."
+  },
+  {
+    "start": 1866.52,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1867.52,
+    "duration": 6.36,
+    "text": "And so from the board's perspective, when you see struggling results, because I think"
+  },
+  {
+    "start": 1873.88,
+    "duration": 5.16,
+    "text": "the tension is always how much is the product doesn't have as much fit as we thought versus"
+  },
+  {
+    "start": 1879.04,
+    "duration": 3.88,
+    "text": "this revenue leader doesn't have it, how do you untangle that?"
+  },
+  {
+    "start": 1882.92,
+    "duration": 6.4,
+    "text": "Never say this as a CRO, never, ever, ever in public blame the product."
+  },
+  {
+    "start": 1889.32,
+    "duration": 5.52,
+    "text": "That's when you're going to lose your job."
+  },
+  {
+    "start": 1894.84,
+    "duration": 4.08,
+    "text": "That's a sign of a loser CRO or VP of sales, a loser one."
+  },
+  {
+    "start": 1898.92,
+    "duration": 4.08,
+    "text": "Because anyone that's been around knows that every product has weaknesses."
+  },
+  {
+    "start": 1903.12,
+    "duration": 1.12,
+    "text": "Everyone has competition."
+  },
+  {
+    "start": 1904.24,
+    "duration": 1.48,
+    "text": "Everyone has gaps."
+  },
+  {
+    "start": 1905.72,
+    "duration": 1.6,
+    "text": "Sales is hard."
+  },
+  {
+    "start": 1907.32,
+    "duration": 2.12,
+    "text": "And what's the simplest excuse?"
+  },
+  {
+    "start": 1909.44,
+    "duration": 1.24,
+    "text": "What's the simplest excuse in sales?"
+  },
+  {
+    "start": 1910.68,
+    "duration": 2.0,
+    "text": "What's the easiest one to come up with?"
+  },
+  {
+    "start": 1912.68,
+    "duration": 1.0,
+    "text": "People don't want the product."
+  },
+  {
+    "start": 1913.68,
+    "duration": 1.0,
+    "text": "Product sucks."
+  },
+  {
+    "start": 1914.68,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1915.68,
+    "duration": 4.76,
+    "text": "If you had this feature, we could have closed Exxon or whatever, but we don't."
+  },
+  {
+    "start": 1920.44,
+    "duration": 3.72,
+    "text": "It's a sign of a loser CRO or VP of sales is blaming the product."
+  },
+  {
+    "start": 1924.16,
+    "duration": 1.8,
+    "text": "Doesn't mean there isn't truth to it."
+  },
+  {
+    "start": 1925.96,
+    "duration": 4.2,
+    "text": "It doesn't mean in quiet moments, you should have discussions with the management team"
+  },
+  {
+    "start": 1930.16,
+    "duration": 1.68,
+    "text": "about what you want."
+  },
+  {
+    "start": 1931.84,
+    "duration": 3.28,
+    "text": "If you really believe the product sucks, you should leave."
+  },
+  {
+    "start": 1935.12,
+    "duration": 3.42,
+    "text": "If it's really below a certain line, you should leave."
+  },
+  {
+    "start": 1938.54,
+    "duration": 3.18,
+    "text": "But whatever you do, do not blame the product."
+  },
+  {
+    "start": 1941.72,
+    "duration": 4.56,
+    "text": "Nothing makes a CRO ... Listen, lying about the numbers is pretty bad, missing the quarter"
+  },
+  {
+    "start": 1946.28,
+    "duration": 5.88,
+    "text": "is pretty bad, but just railing into the product, it's like ... Not only is it like railing"
+  },
+  {
+    "start": 1952.16,
+    "duration": 5.6,
+    "text": "into your children or your aunt or your parents, it's just ... I know that I would immediately"
+  },
+  {
+    "start": 1957.76,
+    "duration": 5.28,
+    "text": "pull the CRO aside after the board meeting and say, listen, it's not going to work."
+  },
+  {
+    "start": 1963.04,
+    "duration": 2.0,
+    "text": "Because if they've lost confidence, you're ..."
+  },
+  {
+    "start": 1965.04,
+    "duration": 1.4,
+    "text": "It's a version of fear."
+  },
+  {
+    "start": 1966.44,
+    "duration": 2.04,
+    "text": "It's a version of fear is blaming the product."
+  },
+  {
+    "start": 1968.48,
+    "duration": 1.0,
+    "text": "Because it's true."
+  },
+  {
+    "start": 1969.48,
+    "duration": 4.2,
+    "text": "It's the ease, but it's the easiest excuse."
+  },
+  {
+    "start": 1973.68,
+    "duration": 5.2,
+    "text": "There are situations where the product doesn't have or has fallen out of fit and ..."
+  },
+  {
+    "start": 1978.88,
+    "duration": 1.84,
+    "text": "For sure."
+  },
+  {
+    "start": 1980.72,
+    "duration": 2.6,
+    "text": "That's part of the startup journey though, is there's always competition."
+  },
+  {
+    "start": 1983.32,
+    "duration": 1.4,
+    "text": "You can't win."
+  },
+  {
+    "start": 1985.44,
+    "duration": 4.52,
+    "text": "Part of being a great revenue leader is understanding your relative strengths and getting really"
+  },
+  {
+    "start": 1989.96,
+    "duration": 2.36,
+    "text": "good at your ... Where do we win?"
+  },
+  {
+    "start": 1992.32,
+    "duration": 2.96,
+    "text": "Let's lean in really deeply where we win."
+  },
+  {
+    "start": 1995.28,
+    "duration": 3.24,
+    "text": "Then the great ones say, okay, where do we lose but not always lose?"
+  },
+  {
+    "start": 1998.52,
+    "duration": 1.12,
+    "text": "Let's find some FUD."
+  },
+  {
+    "start": 1999.64,
+    "duration": 1.52,
+    "text": "Let's find some counter FUD."
+  },
+  {
+    "start": 2001.16,
+    "duration": 4.68,
+    "text": "Let's find a script that, yeah, okay, listen, we're actually not that competitive in this"
+  },
+  {
+    "start": 2005.84,
+    "duration": 4.44,
+    "text": "segment of the market, but our product is easier to use."
+  },
+  {
+    "start": 2010.28,
+    "duration": 2.76,
+    "text": "Let's just frigging go to that."
+  },
+  {
+    "start": 2013.04,
+    "duration": 4.64,
+    "text": "As great as it's competitive is, yeah, I know they have 80% market share, and look, people"
+  },
+  {
+    "start": 2017.68,
+    "duration": 2.64,
+    "text": "do love them, but it takes three months to onboard them."
+  },
+  {
+    "start": 2020.32,
+    "duration": 2.04,
+    "text": "We can get you going today."
+  },
+  {
+    "start": 2022.36,
+    "duration": 6.72,
+    "text": "You're going to win some deals with that lead, but it's so easy to turn around and say, we"
+  },
+  {
+    "start": 2029.08,
+    "duration": 1.0,
+    "text": "can't win."
+  },
+  {
+    "start": 2030.08,
+    "duration": 1.0,
+    "text": "Our product's not good enough."
+  },
+  {
+    "start": 2031.08,
+    "duration": 4.2,
+    "text": "The best revenue leaders productize, not only do they productize where they have a competitive"
+  },
+  {
+    "start": 2035.28,
+    "duration": 3.68,
+    "text": "strength, then they productize where they lose a lot of deals but still win some, and"
+  },
+  {
+    "start": 2038.96,
+    "duration": 2.92,
+    "text": "then maximize the revenue they can get out of them."
+  },
+  {
+    "start": 2041.88,
+    "duration": 5.6,
+    "text": "The mediocre ones lose all of the second tier and just say it's product market fit."
+  },
+  {
+    "start": 2047.48,
+    "duration": 2.36,
+    "text": "That's great insight."
+  },
+  {
+    "start": 2049.84,
+    "duration": 4.4,
+    "text": "I think the fear is like a sports team that's struggling."
+  },
+  {
+    "start": 2054.24,
+    "duration": 5.24,
+    "text": "The GM lets the coach go, and the VPs of sales tend to feel like the coach, and maybe they"
+  },
+  {
+    "start": 2059.48,
+    "duration": 4.64,
+    "text": "don't have the fit or the plan made no sense, and they're the scapegoat."
+  },
+  {
+    "start": 2064.12,
+    "duration": 3.12,
+    "text": "What's your commentary on that as a board member?"
+  },
+  {
+    "start": 2067.24,
+    "duration": 4.36,
+    "text": "Sorry, restate the question."
+  },
+  {
+    "start": 2072.32,
+    "duration": 5.2,
+    "text": "I think that's where a lot of the fear comes from."
+  },
+  {
+    "start": 2077.52,
+    "duration": 4.12,
+    "text": "It's like, well, we're not growing fast enough because my VP of sales isn't good enough,"
+  },
+  {
+    "start": 2081.64,
+    "duration": 3.52,
+    "text": "so we're going to replace him or her."
+  },
+  {
+    "start": 2085.16,
+    "duration": 4.4,
+    "text": "It might be a product fit issue or the plan."
+  },
+  {
+    "start": 2089.56,
+    "duration": 4.52,
+    "text": "Of course, there can be truth here."
+  },
+  {
+    "start": 2094.08,
+    "duration": 5.04,
+    "text": "All but the great CEOs sometimes are looking for people to blame too."
+  },
+  {
+    "start": 2099.12,
+    "duration": 4.64,
+    "text": "All but great CEOs sometimes will blame the CRO, the VP of sales."
+  },
+  {
+    "start": 2103.76,
+    "duration": 1.0,
+    "text": "They will."
+  },
+  {
+    "start": 2104.76,
+    "duration": 1.0,
+    "text": "It will happen."
+  },
+  {
+    "start": 2105.76,
+    "duration": 2.04,
+    "text": "I haven't seen the great ones."
+  },
+  {
+    "start": 2107.8,
+    "duration": 1.68,
+    "text": "I know people are going to challenge me on this."
+  },
+  {
+    "start": 2109.48,
+    "duration": 1.24,
+    "text": "I haven't seen the great ones do it."
+  },
+  {
+    "start": 2110.72,
+    "duration": 4.8,
+    "text": "In fact, the great ones sometimes overprotect their revenue leader."
+  },
+  {
+    "start": 2115.52,
+    "duration": 2.32,
+    "text": "They protect them too much."
+  },
+  {
+    "start": 2117.84,
+    "duration": 2.52,
+    "text": "Okay, interesting."
+  },
+  {
+    "start": 2120.36,
+    "duration": 1.0,
+    "text": "Stick with Kyle."
+  },
+  {
+    "start": 2121.36,
+    "duration": 1.0,
+    "text": "I know he's right."
+  },
+  {
+    "start": 2122.36,
+    "duration": 1.36,
+    "text": "I know the first couple of months have been rough."
+  },
+  {
+    "start": 2123.72,
+    "duration": 1.0,
+    "text": "He knows what he's doing."
+  },
+  {
+    "start": 2124.72,
+    "duration": 1.04,
+    "text": "He's doing the right things."
+  },
+  {
+    "start": 2125.76,
+    "duration": 1.0,
+    "text": "Back off."
+  },
+  {
+    "start": 2126.76,
+    "duration": 1.0,
+    "text": "Back off, Lemkin."
+  },
+  {
+    "start": 2127.76,
+    "duration": 1.0,
+    "text": "That makes sense."
+  },
+  {
+    "start": 2128.76,
+    "duration": 1.0,
+    "text": "It makes sense."
+  },
+  {
+    "start": 2129.76,
+    "duration": 1.0,
+    "text": "It makes sense."
+  },
+  {
+    "start": 2130.76,
+    "duration": 6.24,
+    "text": "I don't know if startups are truly fun, but they're very involving."
+  },
+  {
+    "start": 2137.0,
+    "duration": 3.24,
+    "text": "There is a fun element in it and it's a team sport, man."
+  },
+  {
+    "start": 2140.24,
+    "duration": 1.68,
+    "text": "You got to protect your team, don't you?"
+  },
+  {
+    "start": 2141.92,
+    "duration": 1.8,
+    "text": "You got to protect your team as the CEO."
+  },
+  {
+    "start": 2143.72,
+    "duration": 4.44,
+    "text": "If you start throwing your team under the bus, you can do that, but the good CEOs know"
+  },
+  {
+    "start": 2148.16,
+    "duration": 4.36,
+    "text": "that it's extremely costly."
+  },
+  {
+    "start": 2152.52,
+    "duration": 4.4,
+    "text": "This mythology that all these CEOs go to their board, here's the other thing."
+  },
+  {
+    "start": 2156.92,
+    "duration": 1.38,
+    "text": "Let's tie this together, Kyle."
+  },
+  {
+    "start": 2158.3,
+    "duration": 4.84,
+    "text": "Your board is important for a variety of reasons."
+  },
+  {
+    "start": 2163.14,
+    "duration": 3.92,
+    "text": "They are not important in the way a typical VPSL CRO thinks."
+  },
+  {
+    "start": 2167.06,
+    "duration": 1.36,
+    "text": "They're not important in that way."
+  },
+  {
+    "start": 2168.42,
+    "duration": 2.0,
+    "text": "They don't run the company."
+  },
+  {
+    "start": 2170.42,
+    "duration": 2.12,
+    "text": "They don't make the decisions."
+  },
+  {
+    "start": 2172.54,
+    "duration": 5.4,
+    "text": "In fact, in the old days, I think when Sequoia invested in Cisco, I think they threw out"
+  },
+  {
+    "start": 2177.94,
+    "duration": 2.96,
+    "text": "the first CEO and brought in another CEO."
+  },
+  {
+    "start": 2180.9,
+    "duration": 2.28,
+    "text": "When Kleiner went into Google, they brought in Eric Schmidt."
+  },
+  {
+    "start": 2183.18,
+    "duration": 1.52,
+    "text": "We don't see that anymore, do we?"
+  },
+  {
+    "start": 2184.7,
+    "duration": 1.0,
+    "text": "Rarely."
+  },
+  {
+    "start": 2185.7,
+    "duration": 1.0,
+    "text": "No, you can't."
+  },
+  {
+    "start": 2186.7,
+    "duration": 1.0,
+    "text": "You lose brand."
+  },
+  {
+    "start": 2188.1,
+    "duration": 6.0,
+    "text": "Not only can you not do it for control reasons, it's not even part of, except for some P funds"
+  },
+  {
+    "start": 2194.1,
+    "duration": 2.04,
+    "text": "and crossover, it's not even part of venture DNA anymore."
+  },
+  {
+    "start": 2196.14,
+    "duration": 2.04,
+    "text": "You know what happens if an owner doesn't work out today?"
+  },
+  {
+    "start": 2198.18,
+    "duration": 2.48,
+    "text": "You know what happens if an owner didn't work out 10 years ago?"
+  },
+  {
+    "start": 2200.66,
+    "duration": 1.8,
+    "text": "Someone lost their job in venture."
+  },
+  {
+    "start": 2202.46,
+    "duration": 2.24,
+    "text": "You know what happens if an owner doesn't work out today?"
+  },
+  {
+    "start": 2204.7,
+    "duration": 2.56,
+    "text": "You move on."
+  },
+  {
+    "start": 2207.26,
+    "duration": 7.04,
+    "text": "So if more than $10 million has gone into the company, take the board very seriously"
+  },
+  {
+    "start": 2214.3,
+    "duration": 1.4,
+    "text": "because that's real money, dude."
+  },
+  {
+    "start": 2215.7,
+    "duration": 1.2,
+    "text": "It's real money."
+  },
+  {
+    "start": 2216.9,
+    "duration": 5.0,
+    "text": "But they're not really, forget about the, yes, legally, they're the boss of the CEO,"
+  },
+  {
+    "start": 2221.9,
+    "duration": 1.16,
+    "text": "but that's about it."
+  },
+  {
+    "start": 2223.06,
+    "duration": 1.0,
+    "text": "Treat them with respect."
+  },
+  {
+    "start": 2224.06,
+    "duration": 2.0,
+    "text": "Treat them as stewards of capital."
+  },
+  {
+    "start": 2226.06,
+    "duration": 5.44,
+    "text": "Treat them that way, but they're not making these grandiose decisions on whether you stay"
+  },
+  {
+    "start": 2231.5,
+    "duration": 1.0,
+    "text": "or go."
+  },
+  {
+    "start": 2232.5,
+    "duration": 1.0,
+    "text": "But they will talk about you."
+  },
+  {
+    "start": 2233.5,
+    "duration": 6.28,
+    "text": "Like, going to the point, when the closed session starts, the first thing that is discussed"
+  },
+  {
+    "start": 2239.78,
+    "duration": 1.8,
+    "text": "is the management team."
+  },
+  {
+    "start": 2241.58,
+    "duration": 2.52,
+    "text": "There's no point in talking about the numbers because everyone's already pre-talked about"
+  },
+  {
+    "start": 2244.1,
+    "duration": 1.0,
+    "text": "the numbers."
+  },
+  {
+    "start": 2245.1,
+    "duration": 1.0,
+    "text": "They've seen the deck."
+  },
+  {
+    "start": 2246.3,
+    "duration": 1.0,
+    "text": "They know the numbers, right?"
+  },
+  {
+    "start": 2247.3,
+    "duration": 2.52,
+    "text": "If there's something weird with the numbers, it'll be the first thing that's discussed."
+  },
+  {
+    "start": 2249.82,
+    "duration": 3.16,
+    "text": "But actually, when the closed session happens, we don't talk about the numbers."
+  },
+  {
+    "start": 2252.98,
+    "duration": 2.28,
+    "text": "We talk about the management team."
+  },
+  {
+    "start": 2255.26,
+    "duration": 1.32,
+    "text": "That's all we talk about is the management team."
+  },
+  {
+    "start": 2256.58,
+    "duration": 1.0,
+    "text": "It's half of it."
+  },
+  {
+    "start": 2257.58,
+    "duration": 1.0,
+    "text": "And then other stuff."
+  },
+  {
+    "start": 2258.58,
+    "duration": 1.0,
+    "text": "The management team."
+  },
+  {
+    "start": 2259.58,
+    "duration": 1.0,
+    "text": "How's it going?"
+  },
+  {
+    "start": 2260.58,
+    "duration": 9.44,
+    "text": "But first, a word from our sponsors."
+  },
+  {
+    "start": 2270.02,
+    "duration": 4.36,
+    "text": "Are you coming to GTM 2024 in Austin, Texas?"
+  },
+  {
+    "start": 2274.38,
+    "duration": 3.68,
+    "text": "It's going to happen October 14th to 16th."
+  },
+  {
+    "start": 2278.06,
+    "duration": 4.96,
+    "text": "I'm Kim Scott, and I wrote Radical Candor and Radical Respect."
+  },
+  {
+    "start": 2283.02,
+    "duration": 6.76,
+    "text": "At GTM 2024, I'm going to be diving into how you can solicit feedback."
+  },
+  {
+    "start": 2289.78,
+    "duration": 2.84,
+    "text": "It'll give you the opportunity to read minds."
+  },
+  {
+    "start": 2292.62,
+    "duration": 5.72,
+    "text": "How you can give both praise and criticism, and how you can gauge how what you are saying"
+  },
+  {
+    "start": 2298.34,
+    "duration": 4.92,
+    "text": "is landing and make corrections so that you can have better conversations."
+  },
+  {
+    "start": 2303.26,
+    "duration": 7.12,
+    "text": "Whether you're looking to improve your relationships at work or improve your results at work, this"
+  },
+  {
+    "start": 2310.38,
+    "duration": 4.96,
+    "text": "session will equip you with the strategies to excel in 2025."
+  },
+  {
+    "start": 2315.34,
+    "duration": 1.0,
+    "text": "So don't wait."
+  },
+  {
+    "start": 2316.34,
+    "duration": 1.84,
+    "text": "Get your ticket before they sell out."
+  },
+  {
+    "start": 2318.18,
+    "duration": 5.68,
+    "text": "You can get it at joinpavilion.com slash GTM 2024."
+  },
+  {
+    "start": 2323.86,
+    "duration": 2.24,
+    "text": "See you in Austin."
+  },
+  {
+    "start": 2326.1,
+    "duration": 2.2,
+    "text": "What are the big questions that you're asking there?"
+  },
+  {
+    "start": 2328.3,
+    "duration": 2.16,
+    "text": "What are the things that you want to understand?"
+  },
+  {
+    "start": 2330.66,
+    "duration": 6.72,
+    "text": "Actually, the board generally feels like they have seen enough rodeos and they're often"
+  },
+  {
+    "start": 2337.38,
+    "duration": 7.88,
+    "text": "wrong because every company is different, but they've seen enough that they know what"
+  },
+  {
+    "start": 2345.26,
+    "duration": 4.2,
+    "text": "the flags are on the management team."
+  },
+  {
+    "start": 2349.46,
+    "duration": 5.28,
+    "text": "Kyle did a great job, but Adam Dean, let me just tell you, he looks spooked today."
+  },
+  {
+    "start": 2354.74,
+    "duration": 1.0,
+    "text": "That's okay."
+  },
+  {
+    "start": 2355.74,
+    "duration": 3.96,
+    "text": "We love him, but let's imagine it's the third board meeting in a row."
+  },
+  {
+    "start": 2359.78,
+    "duration": 2.0,
+    "text": "Kyle looks spooked."
+  },
+  {
+    "start": 2361.78,
+    "duration": 1.52,
+    "text": "I'm worried."
+  },
+  {
+    "start": 2363.3,
+    "duration": 3.0,
+    "text": "That's what I would say."
+  },
+  {
+    "start": 2366.3,
+    "duration": 3.12,
+    "text": "For example, the one thing I did say, for example, I think when the company was, when"
+  },
+  {
+    "start": 2369.42,
+    "duration": 3.0,
+    "text": "owner's coming up on 10 million, I think the first thing I said in whatever closed session"
+  },
+  {
+    "start": 2372.42,
+    "duration": 2.6,
+    "text": "is, yeah, well, Kyle's really coming into his own."
+  },
+  {
+    "start": 2375.02,
+    "duration": 4.84,
+    "text": "This is really like, when he joined, I thought it might be a little early for him, but you"
+  },
+  {
+    "start": 2379.86,
+    "duration": 1.0,
+    "text": "were right."
+  },
+  {
+    "start": 2380.86,
+    "duration": 4.16,
+    "text": "He has the skill set, he knows how to do the outbound, he knows how to do the onboarding,"
+  },
+  {
+    "start": 2385.02,
+    "duration": 3.32,
+    "text": "he knows how to work with the size customers, he knows how to deploy these pieces."
+  },
+  {
+    "start": 2388.34,
+    "duration": 2.92,
+    "text": "He's got the toolkit as you approach 10 million."
+  },
+  {
+    "start": 2391.26,
+    "duration": 5.08,
+    "text": "I think I said that in something like this, it's elegant and inspiring to see that toolkit"
+  },
+  {
+    "start": 2396.34,
+    "duration": 4.08,
+    "text": "actually working for someone that, I forget where he came from, but you were at Shopify."
+  },
+  {
+    "start": 2400.42,
+    "duration": 2.52,
+    "text": "It is a big company, right?"
+  },
+  {
+    "start": 2402.94,
+    "duration": 3.12,
+    "text": "I really liked you when I interviewed you, but I'm like, there's a chance you're too"
+  },
+  {
+    "start": 2406.06,
+    "duration": 2.04,
+    "text": "early for him is what I said to Adam when he interviewed you."
+  },
+  {
+    "start": 2408.1,
+    "duration": 1.0,
+    "text": "I didn't know."
+  },
+  {
+    "start": 2409.1,
+    "duration": 1.0,
+    "text": "You said that to me too."
+  },
+  {
+    "start": 2410.1,
+    "duration": 1.0,
+    "text": "You were honest about it."
+  },
+  {
+    "start": 2411.1,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2412.1,
+    "duration": 2.6,
+    "text": "But I literally said, whenever we came, maybe it was eight or 10 million or whatever, but"
+  },
+  {
+    "start": 2414.7,
+    "duration": 2.48,
+    "text": "when the closed session got, that's the first thing I said, I said, Kyle's really coming"
+  },
+  {
+    "start": 2417.18,
+    "duration": 1.0,
+    "text": "into his own."
+  },
+  {
+    "start": 2418.18,
+    "duration": 3.72,
+    "text": "And that's what you talk about because at some point, you know, all that matters is"
+  },
+  {
+    "start": 2421.9,
+    "duration": 1.0,
+    "text": "the team."
+  },
+  {
+    "start": 2422.9,
+    "duration": 2.48,
+    "text": "Once you have product market fit, it's actually all that matters before product market fit."
+  },
+  {
+    "start": 2425.38,
+    "duration": 1.0,
+    "text": "It's just the founders, right?"
+  },
+  {
+    "start": 2426.38,
+    "duration": 3.92,
+    "text": "And then you have product market fit and you can talk about, even competition doesn't matter"
+  },
+  {
+    "start": 2430.3,
+    "duration": 3.28,
+    "text": "because the best teams will out accelerate the competition and the mediocre teams will"
+  },
+  {
+    "start": 2433.58,
+    "duration": 1.0,
+    "text": "fall behind."
+  },
+  {
+    "start": 2434.58,
+    "duration": 1.0,
+    "text": "You don't even have to talk about competition."
+  },
+  {
+    "start": 2435.58,
+    "duration": 2.0,
+    "text": "You don't even have to have market dynamics."
+  },
+  {
+    "start": 2437.58,
+    "duration": 3.32,
+    "text": "Nothing really matters after product market fit than the team, right?"
+  },
+  {
+    "start": 2440.9,
+    "duration": 2.32,
+    "text": "You'll either accelerate product market fit or decelerate."
+  },
+  {
+    "start": 2443.22,
+    "duration": 6.72,
+    "text": "And so that's, and whether the board can add value recruiting, they generally can't."
+  },
+  {
+    "start": 2449.94,
+    "duration": 6.08,
+    "text": "But I do think 90% of board members know if a executive is performing above or below the"
+  },
+  {
+    "start": 2456.02,
+    "duration": 1.0,
+    "text": "line."
+  },
+  {
+    "start": 2457.02,
+    "duration": 1.0,
+    "text": "And that's what you talk about."
+  },
+  {
+    "start": 2458.02,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2459.02,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2460.02,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2461.02,
+    "duration": 1.0,
+    "text": "And most, a lot of times founders are pretty blind to issues."
+  },
+  {
+    "start": 2462.02,
+    "duration": 3.8,
+    "text": "If they're first time founders, they're often in love with logos or other things they've"
+  },
+  {
+    "start": 2465.82,
+    "duration": 2.16,
+    "text": "been oversold."
+  },
+  {
+    "start": 2467.98,
+    "duration": 5.6,
+    "text": "And then second time founders can just be too attached to folks either that they worked"
+  },
+  {
+    "start": 2473.58,
+    "duration": 2.32,
+    "text": "before or that have very late stage skills."
+  },
+  {
+    "start": 2475.9,
+    "duration": 3.98,
+    "text": "And so I do think board members can, the number one thing they write feedback on is how the"
+  },
+  {
+    "start": 2479.88,
+    "duration": 1.0,
+    "text": "management team is doing."
+  },
+  {
+    "start": 2480.88,
+    "duration": 1.0,
+    "text": "So you are criticized."
+  },
+  {
+    "start": 2481.88,
+    "duration": 4.22,
+    "text": "Bear in mind, CROs and CIOs, the people listening, you are, you are judged behind closed doors"
+  },
+  {
+    "start": 2486.1,
+    "duration": 1.0,
+    "text": "by the board."
+  },
+  {
+    "start": 2487.1,
+    "duration": 2.04,
+    "text": "But it's not necessarily a bad thing."
+  },
+  {
+    "start": 2489.14,
+    "duration": 2.24,
+    "text": "They do know we've seen 20 Kyles."
+  },
+  {
+    "start": 2491.38,
+    "duration": 1.28,
+    "text": "We've seen 30 Kyles."
+  },
+  {
+    "start": 2492.66,
+    "duration": 3.68,
+    "text": "There is some, there is some, you can start to pattern match after 20 or 30 Kyles."
+  },
+  {
+    "start": 2496.34,
+    "duration": 1.0,
+    "text": "Maybe not one."
+  },
+  {
+    "start": 2497.7,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2498.7,
+    "duration": 1.0,
+    "text": "And you want it to work out."
+  },
+  {
+    "start": 2499.7,
+    "duration": 1.0,
+    "text": "I think that's the thing."
+  },
+  {
+    "start": 2500.7,
+    "duration": 4.04,
+    "text": "Well, that's the thing that the angry, the angry LinkedIn Aussie and Twitter audience"
+  },
+  {
+    "start": 2504.74,
+    "duration": 1.0,
+    "text": "don't care."
+  },
+  {
+    "start": 2505.74,
+    "duration": 1.0,
+    "text": "Of course you want it to work out."
+  },
+  {
+    "start": 2506.74,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2507.74,
+    "duration": 1.0,
+    "text": "Of course."
+  },
+  {
+    "start": 2508.74,
+    "duration": 3.2,
+    "text": "Now there's a, at the margin and I, I'm pretty guilty of this."
+  },
+  {
+    "start": 2511.94,
+    "duration": 1.76,
+    "text": "I'm pretty bad at this."
+  },
+  {
+    "start": 2513.7,
+    "duration": 5.84,
+    "text": "When, when a CEO hires someone that I know is a disaster, I do have a little bit of I"
+  },
+  {
+    "start": 2519.54,
+    "duration": 1.0,
+    "text": "told you so ism."
+  },
+  {
+    "start": 2520.54,
+    "duration": 1.0,
+    "text": "Not because I want to win."
+  },
+  {
+    "start": 2521.54,
+    "duration": 1.68,
+    "text": "I don't give a shit about it."
+  },
+  {
+    "start": 2523.22,
+    "duration": 2.56,
+    "text": "But I want, sometimes I got to say mercy."
+  },
+  {
+    "start": 2525.78,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2526.78,
+    "duration": 1.84,
+    "text": "Listen, Kyle, whatever you do, don't hire this director under you."
+  },
+  {
+    "start": 2528.62,
+    "duration": 1.0,
+    "text": "I've worked with him before."
+  },
+  {
+    "start": 2529.62,
+    "duration": 1.0,
+    "text": "He's terrible."
+  },
+  {
+    "start": 2530.62,
+    "duration": 1.0,
+    "text": "He's unethical."
+  },
+  {
+    "start": 2531.62,
+    "duration": 1.0,
+    "text": "He's terrible."
+  },
+  {
+    "start": 2532.62,
+    "duration": 1.0,
+    "text": "And you make the decision anyway."
+  },
+  {
+    "start": 2533.62,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2534.62,
+    "duration": 3.76,
+    "text": "Then I, I'm going to provide you fairly pointed feedback because when you realize I'm right,"
+  },
+  {
+    "start": 2538.38,
+    "duration": 1.72,
+    "text": "I want you to make the decision faster."
+  },
+  {
+    "start": 2540.1,
+    "duration": 1.0,
+    "text": "That's all I'm trying to do."
+  },
+  {
+    "start": 2541.1,
+    "duration": 5.0,
+    "text": "I want you to make the decision faster because if you can decide that was a mishire earlier,"
+  },
+  {
+    "start": 2546.1,
+    "duration": 3.6,
+    "text": "that's not only better, that's so much better for the company to move on quickly than later."
+  },
+  {
+    "start": 2549.7,
+    "duration": 2.48,
+    "text": "And it's actually better, even though the candidate doesn't think it on LinkedIn, it's better"
+  },
+  {
+    "start": 2552.18,
+    "duration": 1.0,
+    "text": "for the candidate."
+  },
+  {
+    "start": 2553.18,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2554.18,
+    "duration": 6.0,
+    "text": "And you've said, you've said, uh, hiring is not the most important thing for startups."
+  },
+  {
+    "start": 2560.18,
+    "duration": 1.0,
+    "text": "It's mishires."
+  },
+  {
+    "start": 2561.18,
+    "duration": 5.52,
+    "text": "Well, hiring is more important, but second, but if, but helping folks identify a mishire"
+  },
+  {
+    "start": 2566.7,
+    "duration": 1.84,
+    "text": "is a, is a high value add."
+  },
+  {
+    "start": 2568.54,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2569.54,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2570.54,
+    "duration": 1.0,
+    "text": "Cause you're lucky."
+  },
+  {
+    "start": 2571.54,
+    "duration": 1.0,
+    "text": "You're lucky."
+  },
+  {
+    "start": 2572.54,
+    "duration": 1.0,
+    "text": "You know, you're lucky."
+  },
+  {
+    "start": 2573.54,
+    "duration": 3.0,
+    "text": "If I was just rewatching an old Sastras session with, with Dev, who's the CEO of Mongo, who's"
+  },
+  {
+    "start": 2576.54,
+    "duration": 3.68,
+    "text": "a classic operator, multiple companies and a partner batteries."
+  },
+  {
+    "start": 2580.22,
+    "duration": 3.28,
+    "text": "Like if I'm lucky, I get 60% right."
+  },
+  {
+    "start": 2583.5,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2584.5,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2585.5,
+    "duration": 1.0,
+    "text": "This is Dev."
+  },
+  {
+    "start": 2586.5,
+    "duration": 1.92,
+    "text": "If he's lucky, he gets 60% right."
+  },
+  {
+    "start": 2588.42,
+    "duration": 2.36,
+    "text": "So maybe 50% is a good goal for the rest of us."
+  },
+  {
+    "start": 2590.78,
+    "duration": 2.0,
+    "text": "So I actually think you can do a lot better as a founder."
+  },
+  {
+    "start": 2592.78,
+    "duration": 5.02,
+    "text": "I think you can approach 80 or 90% if you get enough help from, from advisors and mentors"
+  },
+  {
+    "start": 2597.8,
+    "duration": 1.0,
+    "text": "and others."
+  },
+  {
+    "start": 2598.8,
+    "duration": 3.38,
+    "text": "This is why I'm kind of annoying about it because I know I'm usually right on this stuff,"
+  },
+  {
+    "start": 2602.18,
+    "duration": 3.72,
+    "text": "but then if the decision's wrong, I want to keep, I want, I do want to be a nudge so that"
+  },
+  {
+    "start": 2605.9,
+    "duration": 2.08,
+    "text": "you just decide a quarter earlier."
+  },
+  {
+    "start": 2607.98,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2608.98,
+    "duration": 1.0,
+    "text": "It's massively impactful."
+  },
+  {
+    "start": 2609.98,
+    "duration": 1.0,
+    "text": "Massively impactful."
+  },
+  {
+    "start": 2610.98,
+    "duration": 4.64,
+    "text": "I mean, I do think VCs can, can be a strong talent attractor."
+  },
+  {
+    "start": 2615.62,
+    "duration": 4.72,
+    "text": "I know for me, having read your stuff for years and years and years, the fact that I"
+  },
+  {
+    "start": 2620.34,
+    "duration": 2.8,
+    "text": "would get to be involved with you was, it was a big thing and."
+  },
+  {
+    "start": 2623.14,
+    "duration": 3.92,
+    "text": "It may be, it may be over indexed on by revenue leaders, but it is a talent attractor, right?"
+  },
+  {
+    "start": 2627.06,
+    "duration": 1.52,
+    "text": "It is a talent attractor for sure."
+  },
+  {
+    "start": 2628.58,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2629.58,
+    "duration": 5.44,
+    "text": "Well, I think there are some really great reframes, even for me personally, our first"
+  },
+  {
+    "start": 2635.02,
+    "duration": 1.0,
+    "text": "board meeting."
+  },
+  {
+    "start": 2636.02,
+    "duration": 4.92,
+    "text": "So this is a story that I like to tell, but never really told you."
+  },
+  {
+    "start": 2640.94,
+    "duration": 4.68,
+    "text": "In my first full month at Owner, the results were worse than the month when I started."
+  },
+  {
+    "start": 2645.62,
+    "duration": 2.48,
+    "text": "I was cleaning up a bunch of, you know, bad deals."
+  },
+  {
+    "start": 2648.1,
+    "duration": 2.24,
+    "text": "I had to let two of the four reps go."
+  },
+  {
+    "start": 2650.34,
+    "duration": 5.2,
+    "text": "It was a, it was a, you know, we were just trying to, to upgrade and move to our next"
+  },
+  {
+    "start": 2655.54,
+    "duration": 1.68,
+    "text": "level of sophistication."
+  },
+  {
+    "start": 2657.22,
+    "duration": 4.0,
+    "text": "My second month was worse than my first month and then we had a board meeting and we had"
+  },
+  {
+    "start": 2661.22,
+    "duration": 3.36,
+    "text": "seen a bunch of leading indicators now all tracking the right way."
+  },
+  {
+    "start": 2664.58,
+    "duration": 4.96,
+    "text": "The deal quality was up, the call, the size, the pipeline velocity was increasing."
+  },
+  {
+    "start": 2669.54,
+    "duration": 5.12,
+    "text": "I felt good with the direction we were going and presented it in the board meeting and"
+  },
+  {
+    "start": 2674.66,
+    "duration": 4.2,
+    "text": "your feedback was, ah, those are, you know, interesting metrics, but it's not revenue."
+  },
+  {
+    "start": 2678.86,
+    "duration": 1.84,
+    "text": "So, so let me know when it's revenue."
+  },
+  {
+    "start": 2680.7,
+    "duration": 7.96,
+    "text": "And for me, having been a long, long time reader, I sulked away from that meeting feeling"
+  },
+  {
+    "start": 2688.66,
+    "duration": 6.6,
+    "text": "terrified because I had read your article, your post, if your VP sales hasn't done anything"
+  },
+  {
+    "start": 2695.26,
+    "duration": 2.72,
+    "text": "in 90 days, they probably will never."
+  },
+  {
+    "start": 2697.98,
+    "duration": 6.12,
+    "text": "And I think, ah, that is a sense that is felt with many revenue leaders."
+  },
+  {
+    "start": 2704.1,
+    "duration": 5.08,
+    "text": "And then since, you know, the numbers started to go the right way and, and we, ah, you know,"
+  },
+  {
+    "start": 2709.18,
+    "duration": 3.4,
+    "text": "that, that confidence was found."
+  },
+  {
+    "start": 2712.58,
+    "duration": 5.58,
+    "text": "But I think this is a great message for folks to, to understand what's happening behind"
+  },
+  {
+    "start": 2718.16,
+    "duration": 4.4,
+    "text": "closed doors and understanding the board wants it to work out and that they want it"
+  },
+  {
+    "start": 2722.56,
+    "duration": 1.0,
+    "text": "to work out."
+  },
+  {
+    "start": 2723.56,
+    "duration": 3.76,
+    "text": "And listen, and listen, just to be helpful to folks, that's, that's good feedback for"
+  },
+  {
+    "start": 2727.32,
+    "duration": 1.0,
+    "text": "me."
+  },
+  {
+    "start": 2728.32,
+    "duration": 4.92,
+    "text": "It's as, as time has gone on, I'm not sure this is a pop, it may be a negative attribute"
+  },
+  {
+    "start": 2733.24,
+    "duration": 1.0,
+    "text": "for me."
+  },
+  {
+    "start": 2734.24,
+    "duration": 2.52,
+    "text": "I am much more direct than I used to be."
+  },
+  {
+    "start": 2736.76,
+    "duration": 3.72,
+    "text": "I used to just sit there for month after month after month and just watch."
+  },
+  {
+    "start": 2740.48,
+    "duration": 5.4,
+    "text": "I'd make one, I used to make one comment, um, I'd be like, Kyle, I might've been back"
+  },
+  {
+    "start": 2745.88,
+    "duration": 1.0,
+    "text": "in the day."
+  },
+  {
+    "start": 2746.88,
+    "duration": 2.72,
+    "text": "I might've been like 10 years ago or years ago, I might've been like, Kyle, that is great."
+  },
+  {
+    "start": 2749.6,
+    "duration": 1.36,
+    "text": "I'm so excited for you."
+  },
+  {
+    "start": 2750.96,
+    "duration": 2.92,
+    "text": "Um, pipeline isn't revenue, but everything looks great."
+  },
+  {
+    "start": 2753.88,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2754.88,
+    "duration": 1.0,
+    "text": "Like that's what I would have said."
+  },
+  {
+    "start": 2755.88,
+    "duration": 1.0,
+    "text": "And I would have watched."
+  },
+  {
+    "start": 2756.88,
+    "duration": 5.16,
+    "text": "Now I'm like, it's not, it's, it's, it's out of respect, but I don't, I just provide the"
+  },
+  {
+    "start": 2762.04,
+    "duration": 1.6,
+    "text": "feedback and you don't, and now I don't care."
+  },
+  {
+    "start": 2763.64,
+    "duration": 1.0,
+    "text": "Don't listen."
+  },
+  {
+    "start": 2764.64,
+    "duration": 1.0,
+    "text": "If you don't, I'm just one guy."
+  },
+  {
+    "start": 2765.64,
+    "duration": 4.08,
+    "text": "You don't have to listen to me, but I'm much more direct and you should be wary that yeah,"
+  },
+  {
+    "start": 2769.72,
+    "duration": 5.48,
+    "text": "when you work, part of it's just me and maybe, maybe I should try to reset a little bit there."
+  },
+  {
+    "start": 2775.2,
+    "duration": 3.48,
+    "text": "Um, I feel like I've run out of time to do it, right?"
+  },
+  {
+    "start": 2778.68,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2779.68,
+    "duration": 1.0,
+    "text": "You value it."
+  },
+  {
+    "start": 2780.68,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2781.68,
+    "duration": 1.4,
+    "text": "I value being direct because then I know where people stand."
+  },
+  {
+    "start": 2783.08,
+    "duration": 2.44,
+    "text": "I would much rather operate from that."
+  },
+  {
+    "start": 2785.52,
+    "duration": 3.68,
+    "text": "You do, but you also said it was a bit, a bit of a shock to hear it at the same time."
+  },
+  {
+    "start": 2789.2,
+    "duration": 1.0,
+    "text": "It was the best."
+  },
+  {
+    "start": 2790.2,
+    "duration": 5.24,
+    "text": "Here's the thing, Kyle, only five or 10% of folks can take tough feedback, especially"
+  },
+  {
+    "start": 2795.44,
+    "duration": 1.52,
+    "text": "in today's world."
+  },
+  {
+    "start": 2796.96,
+    "duration": 4.8,
+    "text": "Um, but, um, maybe the meta takeaway for folks is just realize this is a good, it's a good"
+  },
+  {
+    "start": 2801.76,
+    "duration": 1.0,
+    "text": "story."
+  },
+  {
+    "start": 2802.76,
+    "duration": 1.44,
+    "text": "Realize for a variety of reasons."
+  },
+  {
+    "start": 2804.2,
+    "duration": 4.32,
+    "text": "When you interact with a board or investors, you may get a type of direct feedback you're"
+  },
+  {
+    "start": 2808.52,
+    "duration": 2.36,
+    "text": "not used to for a variety of reasons."
+  },
+  {
+    "start": 2810.88,
+    "duration": 3.04,
+    "text": "Some folks just become surly at a certain point in their career and venture."
+  },
+  {
+    "start": 2813.92,
+    "duration": 1.68,
+    "text": "I mean, literally I was on Twitter yesterday."
+  },
+  {
+    "start": 2815.6,
+    "duration": 4.72,
+    "text": "I wrote this tweet that got over 500,000 views and this famous VC just wrote that literally"
+  },
+  {
+    "start": 2820.32,
+    "duration": 3.8,
+    "text": "must be worth over a billion dollars and we could figure it out on, he just wrote the"
+  },
+  {
+    "start": 2824.12,
+    "duration": 2.24,
+    "text": "snarkiest tweet, the snarkiest tweet."
+  },
+  {
+    "start": 2826.36,
+    "duration": 1.6,
+    "text": "And it's not that he's really smart."
+  },
+  {
+    "start": 2827.96,
+    "duration": 2.2,
+    "text": "It's not like there was some truth in his snark, right?"
+  },
+  {
+    "start": 2830.36,
+    "duration": 1.68,
+    "text": "I'm like, why?"
+  },
+  {
+    "start": 2832.04,
+    "duration": 3.32,
+    "text": "Just go off and buy a sports team or like enjoy your Ferrari collection."
+  },
+  {
+    "start": 2835.36,
+    "duration": 3.24,
+    "text": "Why sit on Twitter and be snarky to me just trying to help people."
+  },
+  {
+    "start": 2838.6,
+    "duration": 4.88,
+    "text": "So I realized you may get some of that and, and try to just find the truth in it."
+  },
+  {
+    "start": 2843.48,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2844.48,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2845.48,
+    "duration": 1.0,
+    "text": "And don't even argue."
+  },
+  {
+    "start": 2846.48,
+    "duration": 1.0,
+    "text": "There's not even any point arguing."
+  },
+  {
+    "start": 2847.48,
+    "duration": 1.0,
+    "text": "Just hear the truth in it, right?"
+  },
+  {
+    "start": 2848.48,
+    "duration": 2.8,
+    "text": "There may be some truth in it and if there's not truth in it, just talk with the CEO and"
+  },
+  {
+    "start": 2851.28,
+    "duration": 4.36,
+    "text": "just get aligned on the same page and just then just come back and present a picture"
+  },
+  {
+    "start": 2855.64,
+    "duration": 2.48,
+    "text": "at the next board meeting or in a followup email."
+  },
+  {
+    "start": 2858.12,
+    "duration": 1.0,
+    "text": "Followup emails are great."
+  },
+  {
+    "start": 2859.12,
+    "duration": 3.76,
+    "text": "Everyone does them and just present the picture you want to present."
+  },
+  {
+    "start": 2862.88,
+    "duration": 1.0,
+    "text": "Makes sense."
+  },
+  {
+    "start": 2863.88,
+    "duration": 1.0,
+    "text": "No one does it."
+  },
+  {
+    "start": 2864.88,
+    "duration": 1.6,
+    "text": "Everyone says, oh, everyone got the board meeting."
+  },
+  {
+    "start": 2866.48,
+    "duration": 3.36,
+    "text": "Kyle would be like, not Kyle literally, but Kyle probably would be like, great point Lemkin."
+  },
+  {
+    "start": 2869.84,
+    "duration": 1.36,
+    "text": "I'll send, great point Jason."
+  },
+  {
+    "start": 2871.2,
+    "duration": 3.28,
+    "text": "I'll send you a followup email on, on how we segment churn."
+  },
+  {
+    "start": 2874.48,
+    "duration": 2.6,
+    "text": "You know how often I get that followup email?"
+  },
+  {
+    "start": 2877.08,
+    "duration": 1.0,
+    "text": "Like nuns."
+  },
+  {
+    "start": 2878.08,
+    "duration": 1.0,
+    "text": "Nuns."
+  },
+  {
+    "start": 2879.08,
+    "duration": 1.0,
+    "text": "Interesting."
+  },
+  {
+    "start": 2880.08,
+    "duration": 6.08,
+    "text": "And you're, so you're okay with a revenue leader then doing direct communication and"
+  },
+  {
+    "start": 2886.16,
+    "duration": 1.24,
+    "text": "feedback with you."
+  },
+  {
+    "start": 2887.68,
+    "duration": 2.68,
+    "text": "Like what's, what's the level of direct interaction you're comfortable with?"
+  },
+  {
+    "start": 2890.36,
+    "duration": 1.28,
+    "text": "Because I think a lot of."
+  },
+  {
+    "start": 2891.64,
+    "duration": 1.0,
+    "text": "I don't think so."
+  },
+  {
+    "start": 2892.64,
+    "duration": 1.0,
+    "text": "I think you should be very careful."
+  },
+  {
+    "start": 2893.64,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 2894.64,
+    "duration": 3.92,
+    "text": "There's a different point, I think, and this is, um, every once in a while I get a question"
+  },
+  {
+    "start": 2898.56,
+    "duration": 4.28,
+    "text": "on LinkedIn or even on the old days on Quora, my CEO is running the company to the ground."
+  },
+  {
+    "start": 2902.84,
+    "duration": 1.48,
+    "text": "Should I go talk to the board?"
+  },
+  {
+    "start": 2904.32,
+    "duration": 4.48,
+    "text": "No, you should quit."
+  },
+  {
+    "start": 2908.8,
+    "duration": 2.16,
+    "text": "You should quit."
+  },
+  {
+    "start": 2910.96,
+    "duration": 4.96,
+    "text": "This is not, the CEO is the bet."
+  },
+  {
+    "start": 2915.92,
+    "duration": 2.2,
+    "text": "50% of the bet when investors make it's 50% of the bet."
+  },
+  {
+    "start": 2918.12,
+    "duration": 1.0,
+    "text": "It's not a hundred."
+  },
+  {
+    "start": 2919.12,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2920.12,
+    "duration": 2.08,
+    "text": "I mean, it's for some folks inception level betting really early."
+  },
+  {
+    "start": 2922.2,
+    "duration": 1.0,
+    "text": "It's a hundred."
+  },
+  {
+    "start": 2923.2,
+    "duration": 3.2,
+    "text": "Even though, even when it's inception, there's still a seat, there's still more than one"
+  },
+  {
+    "start": 2926.4,
+    "duration": 1.0,
+    "text": "founder usually."
+  },
+  {
+    "start": 2927.4,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2928.4,
+    "duration": 4.96,
+    "text": "So it's usually multiple people, but, um, you're betting on the CEO and, and as difficult"
+  },
+  {
+    "start": 2933.36,
+    "duration": 3.08,
+    "text": "as it is to change out CROs, it's 10 times harder to swap out CEOs."
+  },
+  {
+    "start": 2936.44,
+    "duration": 1.0,
+    "text": "It's so risky."
+  },
+  {
+    "start": 2937.44,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2938.44,
+    "duration": 2.28,
+    "text": "In my, in my personal career, I've never seen it work."
+  },
+  {
+    "start": 2941.48,
+    "duration": 1.52,
+    "text": "I've never seen swapping the CEO work."
+  },
+  {
+    "start": 2943.0,
+    "duration": 2.28,
+    "text": "So most VCs are just going to zero it out."
+  },
+  {
+    "start": 2945.28,
+    "duration": 1.0,
+    "text": "It's kind of given."
+  },
+  {
+    "start": 2946.28,
+    "duration": 4.18,
+    "text": "Now, listen, there are companies that are highly orchestrated snowflake going through"
+  },
+  {
+    "start": 2950.46,
+    "duration": 2.66,
+    "text": "multiple CEOs because I was incubated at a VC firm."
+  },
+  {
+    "start": 2953.12,
+    "duration": 2.0,
+    "text": "It was actually started at a VC firm."
+  },
+  {
+    "start": 2955.12,
+    "duration": 6.8,
+    "text": "But how often do you see even a, a, a CEO change that isn't a resident, an intentional"
+  },
+  {
+    "start": 2961.92,
+    "duration": 1.0,
+    "text": "resignation?"
+  },
+  {
+    "start": 2962.92,
+    "duration": 1.92,
+    "text": "It's just so rare these days."
+  },
+  {
+    "start": 2964.84,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2965.84,
+    "duration": 6.32,
+    "text": "So be careful about for, for any management team, be careful about even inadvertently"
+  },
+  {
+    "start": 2972.16,
+    "duration": 6.36,
+    "text": "going over the CEO's head, especially if you have concerns, suck it up and move on."
+  },
+  {
+    "start": 2978.52,
+    "duration": 3.0,
+    "text": "If it wasn't a fit, you know what, it's on, it's on both of you."
+  },
+  {
+    "start": 2981.52,
+    "duration": 4.12,
+    "text": "We could talk about, but if you don't trust your CEO, if, if your CEO is a bad person"
+  },
+  {
+    "start": 2985.64,
+    "duration": 3.68,
+    "text": "or any company on the ground, that's on you for not having good, uh, especially CRO has"
+  },
+  {
+    "start": 2989.32,
+    "duration": 1.92,
+    "text": "to be, have to have a good eye for talent."
+  },
+  {
+    "start": 2991.24,
+    "duration": 1.0,
+    "text": "Don't think."
+  },
+  {
+    "start": 2992.24,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2993.24,
+    "duration": 4.2,
+    "text": "It's embarrassing if a CRO can't figure out if the CEO is ethical or trustworthy or believable"
+  },
+  {
+    "start": 2997.44,
+    "duration": 1.0,
+    "text": "because that's your job."
+  },
+  {
+    "start": 2998.44,
+    "duration": 2.28,
+    "text": "You're supposed to hunt, sniff this stuff out, right?"
+  },
+  {
+    "start": 3000.72,
+    "duration": 2.08,
+    "text": "So if you screwed it up, just say, thank you."
+  },
+  {
+    "start": 3002.8,
+    "duration": 5.48,
+    "text": "Give 30 days notice, not three hours and just leave on good terms and go get another job."
+  },
+  {
+    "start": 3008.28,
+    "duration": 4.06,
+    "text": "Don't don't ever go over there's no, there's nothing in it for anybody and it won't work"
+  },
+  {
+    "start": 3012.34,
+    "duration": 1.0,
+    "text": "out for you."
+  },
+  {
+    "start": 3013.34,
+    "duration": 3.88,
+    "text": "If you go around someone's head and talk to me, that's different of how to communicate"
+  },
+  {
+    "start": 3017.22,
+    "duration": 1.0,
+    "text": "with a board."
+  },
+  {
+    "start": 3018.22,
+    "duration": 4.56,
+    "text": "But if you went around Adam's head or Dean's head or someone, I would immediately, I might"
+  },
+  {
+    "start": 3022.78,
+    "duration": 2.6,
+    "text": "cut you a little bit of slack, but mostly I will lose confidence."
+  },
+  {
+    "start": 3025.38,
+    "duration": 2.24,
+    "text": "It's just not because I'm betting on the management team."
+  },
+  {
+    "start": 3027.62,
+    "duration": 1.72,
+    "text": "I can't run the company."
+  },
+  {
+    "start": 3029.34,
+    "duration": 1.96,
+    "text": "I just can't do it."
+  },
+  {
+    "start": 3031.3,
+    "duration": 1.6,
+    "text": "That's also a great insight for folks."
+  },
+  {
+    "start": 3032.9,
+    "duration": 4.68,
+    "text": "I think that's a level of clarity that is, uh, is helpful for, for people."
+  },
+  {
+    "start": 3037.58,
+    "duration": 2.48,
+    "text": "There's so many LinkedIn posts as my CO was an idiot."
+  },
+  {
+    "start": 3040.06,
+    "duration": 1.0,
+    "text": "My CO was a moron."
+  },
+  {
+    "start": 3041.06,
+    "duration": 5.8,
+    "text": "My, they're really then, Oh, first of all, are you not to blame for like maybe, but you"
+  },
+  {
+    "start": 3046.86,
+    "duration": 1.14,
+    "text": "didn't figure that out."
+  },
+  {
+    "start": 3048.0,
+    "duration": 1.62,
+    "text": "That's on you."
+  },
+  {
+    "start": 3049.62,
+    "duration": 2.48,
+    "text": "Then to just leave life is, life is not short."
+  },
+  {
+    "start": 3052.1,
+    "duration": 3.92,
+    "text": "But here's the thing is if you're committed, if you really want it in this world, whatever"
+  },
+  {
+    "start": 3056.02,
+    "duration": 4.32,
+    "text": "level you're at from CEO to zero down, you get another chance in this world."
+  },
+  {
+    "start": 3060.34,
+    "duration": 2.56,
+    "text": "It turns out there's no karma."
+  },
+  {
+    "start": 3062.9,
+    "duration": 4.08,
+    "text": "If there's, if people treat you badly, if they stole your stock, if they lied, there's"
+  },
+  {
+    "start": 3066.98,
+    "duration": 1.0,
+    "text": "no karma."
+  },
+  {
+    "start": 3067.98,
+    "duration": 1.6,
+    "text": "They will probably go on to be successful."
+  },
+  {
+    "start": 3069.58,
+    "duration": 4.92,
+    "text": "There is no karma, but it is, there are only, there's only so much talent in this world."
+  },
+  {
+    "start": 3074.5,
+    "duration": 1.0,
+    "text": "There's only so many ideas."
+  },
+  {
+    "start": 3075.5,
+    "duration": 1.84,
+    "text": "And if you, if you're good, you will get another chance."
+  },
+  {
+    "start": 3077.34,
+    "duration": 1.0,
+    "text": "You will always get another chance."
+  },
+  {
+    "start": 3078.34,
+    "duration": 2.0,
+    "text": "So just go find your other chance."
+  },
+  {
+    "start": 3080.34,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3081.34,
+    "duration": 1.0,
+    "text": "An abundance mentality."
+  },
+  {
+    "start": 3082.34,
+    "duration": 1.0,
+    "text": "It's true."
+  },
+  {
+    "start": 3083.34,
+    "duration": 1.0,
+    "text": "How are you doing on time?"
+  },
+  {
+    "start": 3084.34,
+    "duration": 4.52,
+    "text": "If for some reason, listen, even for you, if for some reason owner doesn't work out"
+  },
+  {
+    "start": 3088.86,
+    "duration": 4.2,
+    "text": "and it better, I want you to stay forever between me and the other board members, we"
+  },
+  {
+    "start": 3093.06,
+    "duration": 3.08,
+    "text": "could give you 50 opportunities in a week, right?"
+  },
+  {
+    "start": 3096.14,
+    "duration": 1.0,
+    "text": "So invest in that."
+  },
+  {
+    "start": 3097.14,
+    "duration": 1.0,
+    "text": "Right?"
+  },
+  {
+    "start": 3098.14,
+    "duration": 4.68,
+    "text": "Don't, don't, don't go own this angry, angry, Debbie Downer, angry pit of LinkedIn."
+  },
+  {
+    "start": 3102.82,
+    "duration": 1.28,
+    "text": "It gets you nowhere."
+  },
+  {
+    "start": 3104.1,
+    "duration": 3.64,
+    "text": "I have personally railed against the Debbie Downer LinkedIn."
+  },
+  {
+    "start": 3107.74,
+    "duration": 1.8,
+    "text": "I'm in such, such agreement."
+  },
+  {
+    "start": 3109.74,
+    "duration": 4.36,
+    "text": "I mean, humans, obviously we're hardwired for a negativity bias."
+  },
+  {
+    "start": 3114.1,
+    "duration": 4.56,
+    "text": "That's what is wrong with so many of our algorithm driven platforms."
+  },
+  {
+    "start": 3118.66,
+    "duration": 5.72,
+    "text": "And so I'm, I'm very much in agreement, like trying to find the good instead of the bad"
+  },
+  {
+    "start": 3124.38,
+    "duration": 4.4,
+    "text": "is just such a, such a better way to operate as a person."
+  },
+  {
+    "start": 3128.78,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3129.78,
+    "duration": 5.16,
+    "text": "But, but, but, but realize, but just to finish this thing, you are being talked about every"
+  },
+  {
+    "start": 3134.94,
+    "duration": 4.32,
+    "text": "board meeting you're being talked about behind closed doors and you are judged."
+  },
+  {
+    "start": 3139.98,
+    "duration": 1.72,
+    "text": "Everyone wants you to succeed."
+  },
+  {
+    "start": 3141.7,
+    "duration": 1.0,
+    "text": "That's what LinkedIn gets wrong."
+  },
+  {
+    "start": 3142.7,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 3143.7,
+    "duration": 2.28,
+    "text": "Everyone wants you, everyone wants you to go to the distance, but you were judged before"
+  },
+  {
+    "start": 3145.98,
+    "duration": 3.48,
+    "text": "you started when everyone interviewed you and then you're judged after each board meeting"
+  },
+  {
+    "start": 3149.46,
+    "duration": 2.4,
+    "text": "and the CRO is the most judged of all."
+  },
+  {
+    "start": 3151.86,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3152.86,
+    "duration": 1.0,
+    "text": "It just is."
+  },
+  {
+    "start": 3153.86,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3154.86,
+    "duration": 8.44,
+    "text": "And, and your investors are not the bad guys who, uh, you know, invested too much money"
+  },
+  {
+    "start": 3163.3,
+    "duration": 4.08,
+    "text": "intentionally and forced this company to take this path."
+  },
+  {
+    "start": 3167.38,
+    "duration": 6.04,
+    "text": "There's so much blaming in the market of, of, oh, the CEO is a bad person because they"
+  },
+  {
+    "start": 3173.42,
+    "duration": 1.0,
+    "text": "had to do a layoff."
+  },
+  {
+    "start": 3174.42,
+    "duration": 5.6,
+    "text": "Now the CEO, the, the macro conditions changed faster than ever in the history of banking"
+  },
+  {
+    "start": 3180.02,
+    "duration": 4.82,
+    "text": "policy in the U S. So a CEO is just reacting to the game on the field and that doesn't"
+  },
+  {
+    "start": 3184.84,
+    "duration": 2.78,
+    "text": "make them a bad, bad meanie."
+  },
+  {
+    "start": 3187.62,
+    "duration": 2.04,
+    "text": "No, there's elements of truth in it, right?"
+  },
+  {
+    "start": 3189.66,
+    "duration": 1.04,
+    "text": "There's always hints of truth."
+  },
+  {
+    "start": 3190.7,
+    "duration": 4.24,
+    "text": "Like maybe the VC has overfunded you, maybe the CEO shouldn't have, but, but, but mostly"
+  },
+  {
+    "start": 3194.94,
+    "duration": 4.6,
+    "text": "it was, it was done for not the wrong reasons, right?"
+  },
+  {
+    "start": 3199.54,
+    "duration": 1.76,
+    "text": "And then almost, and then no one cares."
+  },
+  {
+    "start": 3201.3,
+    "duration": 2.24,
+    "text": "It wasn't done out of malice."
+  },
+  {
+    "start": 3203.54,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3204.54,
+    "duration": 1.0,
+    "text": "No one cares."
+  },
+  {
+    "start": 3205.54,
+    "duration": 3.08,
+    "text": "Um, I want to do a couple quick fires."
+  },
+  {
+    "start": 3208.62,
+    "duration": 1.0,
+    "text": "How are you doing on time?"
+  },
+  {
+    "start": 3209.62,
+    "duration": 1.88,
+    "text": "It's, it's, uh, I got as much time as you want."
+  },
+  {
+    "start": 3211.5,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 3212.5,
+    "duration": 1.0,
+    "text": "All right."
+  },
+  {
+    "start": 3213.5,
+    "duration": 5.04,
+    "text": "Um, I want to ask one question about how to identify alignment ahead of time and then"
+  },
+  {
+    "start": 3218.54,
+    "duration": 1.08,
+    "text": "we'll get into quick fire."
+  },
+  {
+    "start": 3219.62,
+    "duration": 7.52,
+    "text": "So, um, you are selecting the CEO and I think your, your advice on you've picked that person."
+  },
+  {
+    "start": 3227.14,
+    "duration": 2.08,
+    "text": "Don't go over their head is, is great."
+  },
+  {
+    "start": 3229.22,
+    "duration": 6.8,
+    "text": "Uh, so what are the biggest mistakes that revenue leaders make when choosing an opportunity,"
+  },
+  {
+    "start": 3236.02,
+    "duration": 5.0,
+    "text": "choosing a founder to partner with and how could they better make those decisions?"
+  },
+  {
+    "start": 3241.02,
+    "duration": 1.32,
+    "text": "You know, it's such a good question."
+  },
+  {
+    "start": 3242.34,
+    "duration": 4.24,
+    "text": "I was literally chatting yesterday with a CRO I've known for many years since, since"
+  },
+  {
+    "start": 3246.58,
+    "duration": 4.94,
+    "text": "he was, and I sent him just like, if you stay in the game, I sent him two great opportunities"
+  },
+  {
+    "start": 3251.52,
+    "duration": 1.18,
+    "text": "over the last six months."
+  },
+  {
+    "start": 3252.7,
+    "duration": 1.0,
+    "text": "Great."
+  },
+  {
+    "start": 3253.7,
+    "duration": 1.16,
+    "text": "Not perfect, but great owner."
+  },
+  {
+    "start": 3254.86,
+    "duration": 1.0,
+    "text": "Great opportunities."
+  },
+  {
+    "start": 3255.86,
+    "duration": 1.0,
+    "text": "He passed on both of them."
+  },
+  {
+    "start": 3256.86,
+    "duration": 3.12,
+    "text": "In fact, he wasn't even willing to meet the CEO yesterday."
+  },
+  {
+    "start": 3259.98,
+    "duration": 3.32,
+    "text": "He sent me a deal, which, and I can tell you this company and he asked me what I thought"
+  },
+  {
+    "start": 3263.3,
+    "duration": 1.0,
+    "text": "about it."
+  },
+  {
+    "start": 3264.3,
+    "duration": 1.0,
+    "text": "It's good."
+  },
+  {
+    "start": 3265.3,
+    "duration": 4.44,
+    "text": "Like it's a good one, but it is not as good as the other two."
+  },
+  {
+    "start": 3269.74,
+    "duration": 1.38,
+    "text": "It's like 30% worse."
+  },
+  {
+    "start": 3271.12,
+    "duration": 1.74,
+    "text": "It's still like, this is a good job."
+  },
+  {
+    "start": 3272.86,
+    "duration": 3.16,
+    "text": "Like it's a great, it's a great, but I didn't send him the junk."
+  },
+  {
+    "start": 3276.02,
+    "duration": 2.0,
+    "text": "I sent him really good opportunities."
+  },
+  {
+    "start": 3278.02,
+    "duration": 1.4,
+    "text": "He wouldn't even meet with them."
+  },
+  {
+    "start": 3279.42,
+    "duration": 2.16,
+    "text": "He found, he found the objections."
+  },
+  {
+    "start": 3281.58,
+    "duration": 2.24,
+    "text": "This one isn't really what I like to do."
+  },
+  {
+    "start": 3283.82,
+    "duration": 2.08,
+    "text": "The other one was to enterprise or to SMB."
+  },
+  {
+    "start": 3285.9,
+    "duration": 1.0,
+    "text": "I can't remember the first one."
+  },
+  {
+    "start": 3286.9,
+    "duration": 1.88,
+    "text": "He's just, he's not passionate about the space."
+  },
+  {
+    "start": 3288.78,
+    "duration": 2.28,
+    "text": "I mean, who's passionate about any of this crap?"
+  },
+  {
+    "start": 3291.06,
+    "duration": 3.84,
+    "text": "I mean, I think I was passionate about selling signatures or about selling sponsorships to"
+  },
+  {
+    "start": 3294.9,
+    "duration": 2.2,
+    "text": "events or like restaurant menus."
+  },
+  {
+    "start": 3297.1,
+    "duration": 2.8,
+    "text": "I mean, the passion is the journey and building something great."
+  },
+  {
+    "start": 3299.9,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3300.9,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3301.9,
+    "duration": 2.52,
+    "text": "So my point is this guy who had all of my benefits and all my wisdom is still going"
+  },
+  {
+    "start": 3304.42,
+    "duration": 1.0,
+    "text": "to take this one."
+  },
+  {
+    "start": 3305.42,
+    "duration": 1.28,
+    "text": "That's worse than the other two."
+  },
+  {
+    "start": 3306.7,
+    "duration": 1.28,
+    "text": "This is someone who's been around the block."
+  },
+  {
+    "start": 3307.98,
+    "duration": 6.4,
+    "text": "I see this again and again and again and again and again is just so many CRS and VBS sales."
+  },
+  {
+    "start": 3314.38,
+    "duration": 1.84,
+    "text": "They're shooting from the hip there."
+  },
+  {
+    "start": 3316.22,
+    "duration": 4.28,
+    "text": "They're misusing their lens and experiences and trying to judge things the wrong way."
+  },
+  {
+    "start": 3320.5,
+    "duration": 1.0,
+    "text": "It's hard."
+  },
+  {
+    "start": 3321.5,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3322.5,
+    "duration": 6.88,
+    "text": "So I don't have all the answers, but I can tell you like this, as soon as assume, unless"
+  },
+  {
+    "start": 3329.38,
+    "duration": 2.88,
+    "text": "you've been really around the block and you know exactly what you're looking for and you're"
+  },
+  {
+    "start": 3332.26,
+    "duration": 5.72,
+    "text": "sure this is the next whatever because it's all the boxes are checked, right?"
+  },
+  {
+    "start": 3337.98,
+    "duration": 1.0,
+    "text": "Do it."
+  },
+  {
+    "start": 3338.98,
+    "duration": 3.44,
+    "text": "But at the very end, and I might have done this with you during the interview process,"
+  },
+  {
+    "start": 3342.42,
+    "duration": 2.68,
+    "text": "find a way to slow it down to get more information."
+  },
+  {
+    "start": 3345.1,
+    "duration": 3.52,
+    "text": "So for example, this company from the other day with the CRO I love, they gave them all"
+  },
+  {
+    "start": 3348.62,
+    "duration": 1.0,
+    "text": "the financials."
+  },
+  {
+    "start": 3349.62,
+    "duration": 3.48,
+    "text": "They didn't quite give them all the financials."
+  },
+  {
+    "start": 3353.1,
+    "duration": 1.52,
+    "text": "Why do you think they didn't give them all the financials?"
+  },
+  {
+    "start": 3354.62,
+    "duration": 1.48,
+    "text": "They were sort of giving them the financials."
+  },
+  {
+    "start": 3356.1,
+    "duration": 1.0,
+    "text": "There's something there."
+  },
+  {
+    "start": 3357.1,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3358.1,
+    "duration": 1.0,
+    "text": "I mean, come on."
+  },
+  {
+    "start": 3359.1,
+    "duration": 1.0,
+    "text": "Like I couldn't."
+  },
+  {
+    "start": 3360.1,
+    "duration": 1.0,
+    "text": "It's like, what do you think of this company?"
+  },
+  {
+    "start": 3361.1,
+    "duration": 4.04,
+    "text": "So I can kind of tell you what the top line revenue growth is and I can tell you what"
+  },
+  {
+    "start": 3365.14,
+    "duration": 6.16,
+    "text": "it's burning, but I can't actually tell you how this complicated business really works"
+  },
+  {
+    "start": 3371.3,
+    "duration": 6.64,
+    "text": "and the fact it's not clear, this is something you should just learn in your process, right?"
+  },
+  {
+    "start": 3377.94,
+    "duration": 5.52,
+    "text": "And it's just very hard for, there's such an asymmetric amount of information, right?"
+  },
+  {
+    "start": 3383.46,
+    "duration": 4.64,
+    "text": "So what I personally try to do, which is only somewhat helpful to your audience, I don't"
+  },
+  {
+    "start": 3388.1,
+    "duration": 3.28,
+    "text": "know if I did this with you, but I do this with almost every executive."
+  },
+  {
+    "start": 3391.38,
+    "duration": 5.8,
+    "text": "I like to be one of the last interviews and I ask him, Kyle, how many interviews have"
+  },
+  {
+    "start": 3397.18,
+    "duration": 1.0,
+    "text": "you done?"
+  },
+  {
+    "start": 3398.18,
+    "duration": 1.0,
+    "text": "10."
+  },
+  {
+    "start": 3399.18,
+    "duration": 1.0,
+    "text": "Oh my God."
+  },
+  {
+    "start": 3400.18,
+    "duration": 1.0,
+    "text": "And four without him and six with Dean."
+  },
+  {
+    "start": 3401.18,
+    "duration": 1.0,
+    "text": "I'm like, okay."
+  },
+  {
+    "start": 3402.18,
+    "duration": 1.0,
+    "text": "Tell me what you've learned so far."
+  },
+  {
+    "start": 3403.18,
+    "duration": 1.4,
+    "text": "And that sounds like a fishing question."
+  },
+  {
+    "start": 3404.58,
+    "duration": 3.2,
+    "text": "It's actually not a fishing question because I want to learn what you didn't learn that"
+  },
+  {
+    "start": 3407.78,
+    "duration": 1.0,
+    "text": "matters."
+  },
+  {
+    "start": 3408.78,
+    "duration": 8.88,
+    "text": "And then I tell the prospect, everything I know that they didn't figure out."
+  },
+  {
+    "start": 3417.66,
+    "duration": 3.04,
+    "text": "It's usually a lot."
+  },
+  {
+    "start": 3420.7,
+    "duration": 3.8,
+    "text": "I'm usually shocked that by 10 interviews in, they don't know a couple of fundamental"
+  },
+  {
+    "start": 3424.5,
+    "duration": 2.52,
+    "text": "things about the company, a couple of fundamental risks."
+  },
+  {
+    "start": 3427.02,
+    "duration": 4.68,
+    "text": "I feel like that's my job and once in a while, the CEO will get mad at me for this, once"
+  },
+  {
+    "start": 3431.7,
+    "duration": 1.0,
+    "text": "in a while."
+  },
+  {
+    "start": 3432.7,
+    "duration": 4.24,
+    "text": "I love Adam, but he did get mad at me in the very early days when I did this with OneCamp,"
+  },
+  {
+    "start": 3436.94,
+    "duration": 2.92,
+    "text": "very early days after I interviewed."
+  },
+  {
+    "start": 3439.86,
+    "duration": 4.56,
+    "text": "And there was a candidate, this is before you started, and he really wanted a really"
+  },
+  {
+    "start": 3444.42,
+    "duration": 3.12,
+    "text": "extensive training program at the company."
+  },
+  {
+    "start": 3447.62,
+    "duration": 3.0,
+    "text": "And I asked him, do you know what the training program like an owner with eight people or"
+  },
+  {
+    "start": 3450.62,
+    "duration": 1.0,
+    "text": "six people?"
+  },
+  {
+    "start": 3451.62,
+    "duration": 1.0,
+    "text": "He's like, I don't know."
+  },
+  {
+    "start": 3452.62,
+    "duration": 1.0,
+    "text": "I'm hoping it's really extensive."
+  },
+  {
+    "start": 3453.62,
+    "duration": 3.0,
+    "text": "I'm like, you know, there's no training program."
+  },
+  {
+    "start": 3456.62,
+    "duration": 4.16,
+    "text": "Adam got pretty mad at me."
+  },
+  {
+    "start": 3460.78,
+    "duration": 3.36,
+    "text": "But I think I, hopefully he would say I saved him from a mishire, right?"
+  },
+  {
+    "start": 3464.14,
+    "duration": 4.76,
+    "text": "Because he didn't know there wasn't a training program, right?"
+  },
+  {
+    "start": 3468.9,
+    "duration": 1.88,
+    "text": "A lot of times there's just so many things."
+  },
+  {
+    "start": 3470.78,
+    "duration": 5.04,
+    "text": "And so the fact that I can do this with so many candidates after 10 interviews, I don't"
+  },
+  {
+    "start": 3475.82,
+    "duration": 1.0,
+    "text": "know the answer."
+  },
+  {
+    "start": 3476.82,
+    "duration": 1.0,
+    "text": "I don't know."
+  },
+  {
+    "start": 3477.82,
+    "duration": 1.0,
+    "text": "Talk to a mentor or two."
+  },
+  {
+    "start": 3478.82,
+    "duration": 1.0,
+    "text": "Ask for the last."
+  },
+  {
+    "start": 3479.82,
+    "duration": 4.84,
+    "text": "So many folks don't have the last board pack or the last, or if they, or the, the CL feels"
+  },
+  {
+    "start": 3484.66,
+    "duration": 4.28,
+    "text": "like after 10 meetings, they won't share the board pack with you like under NDA or like"
+  },
+  {
+    "start": 3488.94,
+    "duration": 2.72,
+    "text": "in a doc send, then at least share the company meeting pack."
+  },
+  {
+    "start": 3491.66,
+    "duration": 3.36,
+    "text": "If they do that share, you're shocked that people don't need so many zeros don't even"
+  },
+  {
+    "start": 3495.02,
+    "duration": 2.8,
+    "text": "know what the data that was in the last board meeting."
+  },
+  {
+    "start": 3497.82,
+    "duration": 3.8,
+    "text": "Why would you join a startup if you can't get access to last board meeting when you're"
+  },
+  {
+    "start": 3501.62,
+    "duration": 3.72,
+    "text": "going to be reliable for it in 60 days, right?"
+  },
+  {
+    "start": 3505.34,
+    "duration": 3.96,
+    "text": "So try, just find a way to get, and, but, but you don't have to be pushing the first"
+  },
+  {
+    "start": 3509.3,
+    "duration": 1.0,
+    "text": "meeting."
+  },
+  {
+    "start": 3510.3,
+    "duration": 2.88,
+    "text": "Like use your, your life experience and your spider sense."
+  },
+  {
+    "start": 3513.18,
+    "duration": 3.8,
+    "text": "And then, and then this is the exercise I try to do."
+  },
+  {
+    "start": 3516.98,
+    "duration": 5.28,
+    "text": "I try to almost, and I tell CEOs to do this, give Kyle an offer letter, sign it and tell"
+  },
+  {
+    "start": 3522.26,
+    "duration": 2.12,
+    "text": "him not to, to countersign it yet."
+  },
+  {
+    "start": 3524.38,
+    "duration": 2.76,
+    "text": "Then sit down and say, Kyle, what do you want?"
+  },
+  {
+    "start": 3527.14,
+    "duration": 1.0,
+    "text": "Here's your offer letter."
+  },
+  {
+    "start": 3528.14,
+    "duration": 1.0,
+    "text": "Does it look okay?"
+  },
+  {
+    "start": 3529.14,
+    "duration": 1.64,
+    "text": "Is this what we agreed to in comp and title and everything?"
+  },
+  {
+    "start": 3530.78,
+    "duration": 1.0,
+    "text": "Are you cool with it?"
+  },
+  {
+    "start": 3531.78,
+    "duration": 1.0,
+    "text": "Yes."
+  },
+  {
+    "start": 3532.78,
+    "duration": 1.0,
+    "text": "Jason or Adam, I'm cool with it."
+  },
+  {
+    "start": 3533.78,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 3535.22,
+    "duration": 1.0,
+    "text": "I'm cool with that."
+  },
+  {
+    "start": 3536.22,
+    "duration": 3.0,
+    "text": "Tell me what you need to know to truly believe this is the right opportunity."
+  },
+  {
+    "start": 3539.22,
+    "duration": 4.2,
+    "text": "Not enough folks do that on either side, but find a way to do it before the end."
+  },
+  {
+    "start": 3543.42,
+    "duration": 3.64,
+    "text": "CEOs are get, especially the really driven ones get, once they, once they find that candidate,"
+  },
+  {
+    "start": 3547.06,
+    "duration": 1.16,
+    "text": "they become heat seeking missiles."
+  },
+  {
+    "start": 3548.22,
+    "duration": 1.0,
+    "text": "Like the Adams are great."
+  },
+  {
+    "start": 3549.22,
+    "duration": 1.28,
+    "text": "Like he's a heat seeking missile, right?"
+  },
+  {
+    "start": 3550.5,
+    "duration": 1.0,
+    "text": "Yeah, for sure."
+  },
+  {
+    "start": 3551.5,
+    "duration": 2.96,
+    "text": "And so I know it's find a way to like participate in that process."
+  },
+  {
+    "start": 3554.46,
+    "duration": 2.72,
+    "text": "But if you don't know fundamental things, it's okay to ask."
+  },
+  {
+    "start": 3557.18,
+    "duration": 1.0,
+    "text": "Not enough CROs."
+  },
+  {
+    "start": 3558.18,
+    "duration": 5.0,
+    "text": "CROs you think are the most pushy outgoing people, but also sales leaders have trained"
+  },
+  {
+    "start": 3563.18,
+    "duration": 2.52,
+    "text": "their whole lives to find that line in any deal, right?"
+  },
+  {
+    "start": 3565.7,
+    "duration": 1.0,
+    "text": "To not cross the line."
+  },
+  {
+    "start": 3566.7,
+    "duration": 2.0,
+    "text": "You cross the line, you blow the deal, don't you?"
+  },
+  {
+    "start": 3568.7,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 3569.7,
+    "duration": 1.0,
+    "text": "You cross the line, you blow the deal."
+  },
+  {
+    "start": 3570.7,
+    "duration": 4.08,
+    "text": "And I think maybe that's why they're not as good on the diligence process and recruiting"
+  },
+  {
+    "start": 3574.78,
+    "duration": 3.72,
+    "text": "as they could be because they're very sensitive to crossing the line."
+  },
+  {
+    "start": 3578.5,
+    "duration": 3.16,
+    "text": "And sales people are in general optimists."
+  },
+  {
+    "start": 3581.66,
+    "duration": 4.5,
+    "text": "You can't do this profession unless you think that the next thing can close."
+  },
+  {
+    "start": 3586.16,
+    "duration": 5.06,
+    "text": "And so I think we as a community get happy years."
+  },
+  {
+    "start": 3592.22,
+    "duration": 2.6,
+    "text": "Just try to get the last board pack or company pack."
+  },
+  {
+    "start": 3594.82,
+    "duration": 1.28,
+    "text": "Just try to get all the data."
+  },
+  {
+    "start": 3596.1,
+    "duration": 1.64,
+    "text": "Try to get as much."
+  },
+  {
+    "start": 3597.74,
+    "duration": 3.6,
+    "text": "At the very end, if you have to wait till your offer letter and say no more games, I'm"
+  },
+  {
+    "start": 3601.34,
+    "duration": 1.0,
+    "text": "not going to play any games."
+  },
+  {
+    "start": 3602.34,
+    "duration": 1.36,
+    "text": "I don't need any side letters or anything."
+  },
+  {
+    "start": 3603.7,
+    "duration": 5.24,
+    "text": "I just want to know as much today as I'm going to know in 30 days."
+  },
+  {
+    "start": 3608.94,
+    "duration": 3.32,
+    "text": "And a different version is the one that's not quite the same, but the best diligence"
+  },
+  {
+    "start": 3612.26,
+    "duration": 3.68,
+    "text": "question I ever got from a VC as a founder years ago, my first start, I got the best"
+  },
+  {
+    "start": 3615.94,
+    "duration": 2.28,
+    "text": "question ever from any VC."
+  },
+  {
+    "start": 3618.22,
+    "duration": 1.0,
+    "text": "Best question ever."
+  },
+  {
+    "start": 3619.22,
+    "duration": 1.0,
+    "text": "Sat me down."
+  },
+  {
+    "start": 3620.22,
+    "duration": 1.0,
+    "text": "He had given me a term sheet."
+  },
+  {
+    "start": 3621.22,
+    "duration": 1.0,
+    "text": "I hadn't signed it yet."
+  },
+  {
+    "start": 3622.22,
+    "duration": 1.0,
+    "text": "We hadn't signed it."
+  },
+  {
+    "start": 3623.22,
+    "duration": 1.0,
+    "text": "It was just draft."
+  },
+  {
+    "start": 3624.22,
+    "duration": 1.0,
+    "text": "We had breakfast at a diner on the weekend."
+  },
+  {
+    "start": 3625.22,
+    "duration": 2.44,
+    "text": "And he said, Jason, tell me what I'm going to learn at my first board meeting that I"
+  },
+  {
+    "start": 3627.66,
+    "duration": 1.0,
+    "text": "don't know today."
+  },
+  {
+    "start": 3628.66,
+    "duration": 3.48,
+    "text": "That is good."
+  },
+  {
+    "start": 3632.14,
+    "duration": 2.16,
+    "text": "It is good."
+  },
+  {
+    "start": 3634.3,
+    "duration": 3.84,
+    "text": "You need to find that out as a CRO or an executive too."
+  },
+  {
+    "start": 3638.14,
+    "duration": 3.74,
+    "text": "Before you sign your offer letter, be as educated as you will be 30 days into the job."
+  },
+  {
+    "start": 3641.88,
+    "duration": 1.54,
+    "text": "It's a fair ask of the CEO."
+  },
+  {
+    "start": 3643.42,
+    "duration": 3.0,
+    "text": "Even if they're cautious, even if they're worried, whatever."
+  },
+  {
+    "start": 3646.42,
+    "duration": 1.0,
+    "text": "People get too paranoid."
+  },
+  {
+    "start": 3647.42,
+    "duration": 2.88,
+    "text": "People think so much stuff is confidential, which you can just find on Google."
+  },
+  {
+    "start": 3650.3,
+    "duration": 1.0,
+    "text": "So be it."
+  },
+  {
+    "start": 3651.3,
+    "duration": 1.0,
+    "text": "Don't cross the line."
+  },
+  {
+    "start": 3652.3,
+    "duration": 3.96,
+    "text": "But once you get the offer letter, just sit down and say, I just want to know what's there."
+  },
+  {
+    "start": 3656.26,
+    "duration": 3.76,
+    "text": "And if this is going to be someone that's going to have your back for years going to"
+  },
+  {
+    "start": 3660.02,
+    "duration": 2.16,
+    "text": "the start of this competition, if they're going to have your back for years, they'll"
+  },
+  {
+    "start": 3662.18,
+    "duration": 1.0,
+    "text": "share it all with you."
+  },
+  {
+    "start": 3663.18,
+    "duration": 3.52,
+    "text": "If they're not going to have your back, they won't share it with you."
+  },
+  {
+    "start": 3666.7,
+    "duration": 1.0,
+    "text": "That's great."
+  },
+  {
+    "start": 3667.7,
+    "duration": 1.0,
+    "text": "Okay."
+  },
+  {
+    "start": 3668.7,
+    "duration": 1.0,
+    "text": "Rapid fire."
+  },
+  {
+    "start": 3669.7,
+    "duration": 1.16,
+    "text": "And then I'll let you go."
+  },
+  {
+    "start": 3670.86,
+    "duration": 4.44,
+    "text": "What is the best piece of advice you would give to a CRO starting at a new company?"
+  },
+  {
+    "start": 3675.3,
+    "duration": 1.32,
+    "text": "They're getting their bearings."
+  },
+  {
+    "start": 3676.62,
+    "duration": 1.64,
+    "text": "They want a fast start."
+  },
+  {
+    "start": 3678.26,
+    "duration": 3.44,
+    "text": "What's the best piece of advice for them?"
+  },
+  {
+    "start": 3681.7,
+    "duration": 2.52,
+    "text": "We got to start with two hires already in your back pocket that are great."
+  },
+  {
+    "start": 3684.22,
+    "duration": 4.8,
+    "text": "Otherwise, you're not ready for the job."
+  },
+  {
+    "start": 3689.02,
+    "duration": 1.0,
+    "text": "Not enough time."
+  },
+  {
+    "start": 3690.02,
+    "duration": 3.24,
+    "text": "It's not enough time to go find two people, hire a bunch of recruiters, and interview"
+  },
+  {
+    "start": 3693.26,
+    "duration": 2.44,
+    "text": "a bunch of random people you've never worked with."
+  },
+  {
+    "start": 3695.7,
+    "duration": 2.68,
+    "text": "Maybe it wasn't true of you, but I got to tell you, I've never worked with a great sales"
+  },
+  {
+    "start": 3698.38,
+    "duration": 4.36,
+    "text": "leader that wasn't constantly recruiting a group of folks under them."
+  },
+  {
+    "start": 3702.74,
+    "duration": 4.76,
+    "text": "And they want to go to the next job with a small team at least to start."
+  },
+  {
+    "start": 3707.5,
+    "duration": 3.08,
+    "text": "If you do not have two people, you're not ready."
+  },
+  {
+    "start": 3710.58,
+    "duration": 3.72,
+    "text": "Maybe the great IC, maybe you can join as a director somewhere and inherit a team."
+  },
+  {
+    "start": 3714.3,
+    "duration": 2.28,
+    "text": "You're not ready to be a head of sales."
+  },
+  {
+    "start": 3716.58,
+    "duration": 3.76,
+    "text": "Makes sense."
+  },
+  {
+    "start": 3720.34,
+    "duration": 5.64,
+    "text": "What do you wish you knew as a leader that you've only come to understand much, much"
+  },
+  {
+    "start": 3725.98,
+    "duration": 1.0,
+    "text": "later?"
+  },
+  {
+    "start": 3726.98,
+    "duration": 10.2,
+    "text": "What advice can you give yourself 10 years ago on the leadership front?"
+  },
+  {
+    "start": 3737.18,
+    "duration": 1.0,
+    "text": "I was lucky."
+  },
+  {
+    "start": 3738.18,
+    "duration": 5.24,
+    "text": "My first two management teams, the core teams were so good that I didn't know what mediocre"
+  },
+  {
+    "start": 3743.42,
+    "duration": 1.52,
+    "text": "looked like or merely very good."
+  },
+  {
+    "start": 3744.94,
+    "duration": 2.04,
+    "text": "I didn't get spoiled."
+  },
+  {
+    "start": 3746.98,
+    "duration": 2.04,
+    "text": "I got confused."
+  },
+  {
+    "start": 3749.02,
+    "duration": 3.32,
+    "text": "It took me a while to really see what everybody knows that's been in the game a long time,"
+  },
+  {
+    "start": 3752.34,
+    "duration": 4.04,
+    "text": "which is even hiring a B plus or an A minus minus."
+  },
+  {
+    "start": 3756.38,
+    "duration": 2.88,
+    "text": "It's just push on."
+  },
+  {
+    "start": 3759.26,
+    "duration": 1.0,
+    "text": "Don't make the hire."
+  },
+  {
+    "start": 3760.26,
+    "duration": 2.84,
+    "text": "As painful as it is, don't make the hire."
+  },
+  {
+    "start": 3763.1,
+    "duration": 3.24,
+    "text": "And it is painful sometimes to have that head count open."
+  },
+  {
+    "start": 3766.34,
+    "duration": 4.44,
+    "text": "Painful to have it open, but you know what's more painful is literally digging the hole"
+  },
+  {
+    "start": 3770.78,
+    "duration": 2.88,
+    "text": "out in six months."
+  },
+  {
+    "start": 3773.66,
+    "duration": 2.92,
+    "text": "It's so painful."
+  },
+  {
+    "start": 3776.58,
+    "duration": 3.44,
+    "text": "The hole is always deeper than you think."
+  },
+  {
+    "start": 3780.02,
+    "duration": 4.88,
+    "text": "Everything is true that B's hire C's and C's hire Q's and Q's hire Z's."
+  },
+  {
+    "start": 3784.9,
+    "duration": 5.92,
+    "text": "Everything is true and we all get tired and we all lower the bar."
+  },
+  {
+    "start": 3790.82,
+    "duration": 2.96,
+    "text": "It was a bad idea pre-2020."
+  },
+  {
+    "start": 3793.78,
+    "duration": 4.84,
+    "text": "It's a worse idea today when the market is flooded with..."
+  },
+  {
+    "start": 3798.62,
+    "duration": 1.0,
+    "text": "We were just..."
+  },
+  {
+    "start": 3799.62,
+    "duration": 4.52,
+    "text": "Amelia that runs Sasser and I, I just had talked to this great CRO, sort of CRO, CMO,"
+  },
+  {
+    "start": 3804.14,
+    "duration": 3.24,
+    "text": "weird hybrid, but she'd done very SMB where you can kind of overlap to."
+  },
+  {
+    "start": 3807.38,
+    "duration": 4.12,
+    "text": "Very intelligent, new Sasser, loved it."
+  },
+  {
+    "start": 3811.5,
+    "duration": 2.76,
+    "text": "It was kind of a good phase in her life where maybe she wanted to do something different"
+  },
+  {
+    "start": 3814.26,
+    "duration": 1.0,
+    "text": "and could work on this community."
+  },
+  {
+    "start": 3815.26,
+    "duration": 6.28,
+    "text": "In the end, she's like, yeah, but actually I only want to work 14 hours a week."
+  },
+  {
+    "start": 3821.54,
+    "duration": 6.02,
+    "text": "So I'm not exactly sure where I went to the story, but you just don't lower the bar."
+  },
+  {
+    "start": 3827.56,
+    "duration": 3.74,
+    "text": "What I mean by that is there's so many ways to lower the bar today."
+  },
+  {
+    "start": 3831.3,
+    "duration": 3.08,
+    "text": "Just have the gap on your team."
+  },
+  {
+    "start": 3834.38,
+    "duration": 1.0,
+    "text": "That's the number one thing."
+  },
+  {
+    "start": 3835.38,
+    "duration": 1.48,
+    "text": "Have the gap on your team."
+  },
+  {
+    "start": 3836.86,
+    "duration": 4.28,
+    "text": "But the great leaders still find a way to fill it, but realize there may be a multi-month"
+  },
+  {
+    "start": 3841.14,
+    "duration": 4.56,
+    "text": "gap, which is brutally painful that you have to do yourself."
+  },
+  {
+    "start": 3845.7,
+    "duration": 1.12,
+    "text": "The Band-Aid never..."
+  },
+  {
+    "start": 3846.82,
+    "duration": 4.44,
+    "text": "There is no Band-Aid in leadership."
+  },
+  {
+    "start": 3851.26,
+    "duration": 1.0,
+    "text": "That's the lesson."
+  },
+  {
+    "start": 3852.26,
+    "duration": 1.28,
+    "text": "There's no Band-Aid in leadership."
+  },
+  {
+    "start": 3853.54,
+    "duration": 7.36,
+    "text": "And it can be personally tormenting to have that spot open and get to the end of a process"
+  },
+  {
+    "start": 3860.9,
+    "duration": 2.36,
+    "text": "and not have that individual."
+  },
+  {
+    "start": 3863.26,
+    "duration": 3.44,
+    "text": "I had to go through this six months ago."
+  },
+  {
+    "start": 3866.7,
+    "duration": 5.54,
+    "text": "We went through the whole entire process, didn't have a pick, and we started from scratch"
+  },
+  {
+    "start": 3872.24,
+    "duration": 3.76,
+    "text": "again and found somebody incredible."
+  },
+  {
+    "start": 3876.0,
+    "duration": 3.78,
+    "text": "This was the exact person that we were looking for from the start."
+  },
+  {
+    "start": 3879.78,
+    "duration": 5.04,
+    "text": "It took me a full extra 90 days and wasn't fun."
+  },
+  {
+    "start": 3884.82,
+    "duration": 4.84,
+    "text": "And if you're not a great recruiter, it could be an extra 180 days or an extra 270 days."
+  },
+  {
+    "start": 3889.66,
+    "duration": 1.92,
+    "text": "It's brutal."
+  },
+  {
+    "start": 3891.58,
+    "duration": 1.92,
+    "text": "But a Band-Aid is worse."
+  },
+  {
+    "start": 3893.5,
+    "duration": 1.68,
+    "text": "There are almost no effective..."
+  },
+  {
+    "start": 3896.06,
+    "duration": 7.52,
+    "text": "I do believe there are a time and a place for some fractional assets, but not as Band-Aids."
+  },
+  {
+    "start": 3903.58,
+    "duration": 1.8,
+    "text": "As augments, it works."
+  },
+  {
+    "start": 3905.38,
+    "duration": 5.8,
+    "text": "As little bits and pieces, little hints, little flakes, there's a role for a fractional."
+  },
+  {
+    "start": 3911.18,
+    "duration": 4.84,
+    "text": "But as Band-Aids, they all want to be Band-Aids, but it doesn't work."
+  },
+  {
+    "start": 3916.02,
+    "duration": 1.0,
+    "text": "They won't own it."
+  },
+  {
+    "start": 3917.02,
+    "duration": 1.72,
+    "text": "Band-Aids don't own it."
+  },
+  {
+    "start": 3918.74,
+    "duration": 5.28,
+    "text": "What's the hardest lesson you've had to learn?"
+  },
+  {
+    "start": 3924.02,
+    "duration": 5.24,
+    "text": "In the whole career?"
+  },
+  {
+    "start": 3929.26,
+    "duration": 15.12,
+    "text": "I think the hardest lesson to learn is that almost no one cares, but when you find someone"
+  },
+  {
+    "start": 3944.38,
+    "duration": 5.4,
+    "text": "that actually cares about you in tech and whatever, just try to work with them forever"
+  },
+  {
+    "start": 3949.78,
+    "duration": 4.16,
+    "text": "if you can."
+  },
+  {
+    "start": 3953.94,
+    "duration": 1.8,
+    "text": "People are not out to get you through this conversation."
+  },
+  {
+    "start": 3955.74,
+    "duration": 1.6,
+    "text": "They're not out to fire you."
+  },
+  {
+    "start": 3957.34,
+    "duration": 3.4,
+    "text": "But really, nobody really cares, right?"
+  },
+  {
+    "start": 3960.74,
+    "duration": 1.0,
+    "text": "They don't care."
+  },
+  {
+    "start": 3961.74,
+    "duration": 1.0,
+    "text": "There's no karma."
+  },
+  {
+    "start": 3962.74,
+    "duration": 1.0,
+    "text": "There's no nothing."
+  },
+  {
+    "start": 3963.74,
+    "duration": 4.6,
+    "text": "People that have treated me poorly over my career, for the most part, have done extremely"
+  },
+  {
+    "start": 3968.34,
+    "duration": 2.64,
+    "text": "well."
+  },
+  {
+    "start": 3970.98,
+    "duration": 5.76,
+    "text": "Also people that have stolen millions of dollars from me, that have done very unethical things,"
+  },
+  {
+    "start": 3976.74,
+    "duration": 3.88,
+    "text": "that have signed documents they weren't allowed to sign, that have done so many things I really"
+  },
+  {
+    "start": 3980.62,
+    "duration": 1.48,
+    "text": "don't want to talk about."
+  },
+  {
+    "start": 3982.1,
+    "duration": 1.0,
+    "text": "They have had no karma."
+  },
+  {
+    "start": 3983.1,
+    "duration": 2.36,
+    "text": "They've just gone on to be more and more successful."
+  },
+  {
+    "start": 3985.46,
+    "duration": 2.96,
+    "text": "No karma."
+  },
+  {
+    "start": 3988.42,
+    "duration": 4.52,
+    "text": "It's tough because the whole startup thing is built on trust, right?"
+  },
+  {
+    "start": 3992.94,
+    "duration": 1.08,
+    "text": "You can't have enough information."
+  },
+  {
+    "start": 3994.02,
+    "duration": 1.0,
+    "text": "The teams are too small."
+  },
+  {
+    "start": 3995.02,
+    "duration": 1.2,
+    "text": "You have to have trust."
+  },
+  {
+    "start": 3996.22,
+    "duration": 3.88,
+    "text": "The longer you go on, the more amazing experiences you have, but also the longer you go on, the"
+  },
+  {
+    "start": 4000.1,
+    "duration": 2.36,
+    "text": "more people breach that trust, right?"
+  },
+  {
+    "start": 4002.46,
+    "duration": 1.0,
+    "text": "Or they just don't care."
+  },
+  {
+    "start": 4003.46,
+    "duration": 3.68,
+    "text": "You think they breach the trust, but the truth is they just don't care."
+  },
+  {
+    "start": 4007.14,
+    "duration": 4.16,
+    "text": "So there's probably fewer people that you can really count on in the distance, but if"
+  },
+  {
+    "start": 4011.3,
+    "duration": 6.56,
+    "text": "you can, there's something to be said for keeping the team together."
+  },
+  {
+    "start": 4017.86,
+    "duration": 2.52,
+    "text": "Sometimes they got to leave the coop, right?"
+  },
+  {
+    "start": 4020.38,
+    "duration": 4.32,
+    "text": "Sometimes they do have to go, but if I had to boil it all down, try to keep the best"
+  },
+  {
+    "start": 4024.7,
+    "duration": 2.44,
+    "text": "people at least four to five years."
+  },
+  {
+    "start": 4027.14,
+    "duration": 1.0,
+    "text": "Promote them."
+  },
+  {
+    "start": 4028.14,
+    "duration": 1.0,
+    "text": "Give them the title."
+  },
+  {
+    "start": 4029.18,
+    "duration": 1.0,
+    "text": "Give them the whatever."
+  },
+  {
+    "start": 4030.18,
+    "duration": 1.4,
+    "text": "Don't let them go before four."
+  },
+  {
+    "start": 4031.58,
+    "duration": 1.0,
+    "text": "Sometimes the best people have to leave before four."
+  },
+  {
+    "start": 4032.58,
+    "duration": 1.92,
+    "text": "Don't let them go for four to five years."
+  },
+  {
+    "start": 4034.5,
+    "duration": 3.04,
+    "text": "I mean, I remember our best director of engineering in the old days, I had to grab in the parking"
+  },
+  {
+    "start": 4037.54,
+    "duration": 2.96,
+    "text": "lot when he was going to leave and take another job by his neck and dragged him back in the"
+  },
+  {
+    "start": 4040.5,
+    "duration": 1.44,
+    "text": "office and said, well, what will it take to keep you?"
+  },
+  {
+    "start": 4041.94,
+    "duration": 3.36,
+    "text": "I don't know if that would work today, but don't let them go."
+  },
+  {
+    "start": 4045.3,
+    "duration": 4.44,
+    "text": "Don't let them go until they have to go because it's their time, right?"
+  },
+  {
+    "start": 4049.74,
+    "duration": 1.0,
+    "text": "And then keep them close."
+  },
+  {
+    "start": 4050.74,
+    "duration": 5.36,
+    "text": "I mean, you've kept so many of your Echo Sign tribe close, who've all gone on to-"
+  },
+  {
+    "start": 4056.1,
+    "duration": 1.0,
+    "text": "As much as you can."
+  },
+  {
+    "start": 4057.1,
+    "duration": 1.0,
+    "text": "Keep them close, yeah."
+  },
+  {
+    "start": 4058.1,
+    "duration": 4.48,
+    "text": "And that's the lesson that I can think of."
+  },
+  {
+    "start": 4062.58,
+    "duration": 2.44,
+    "text": "And there's no karma, but keep the few folks."
+  },
+  {
+    "start": 4065.02,
+    "duration": 2.28,
+    "text": "But it is a system of trust."
+  },
+  {
+    "start": 4067.3,
+    "duration": 3.88,
+    "text": "And so the ones that you can trust that are also good, try to work with them for 20 years"
+  },
+  {
+    "start": 4071.18,
+    "duration": 1.0,
+    "text": "if you can."
+  },
+  {
+    "start": 4072.18,
+    "duration": 1.0,
+    "text": "That's awesome."
+  },
+  {
+    "start": 4073.18,
+    "duration": 1.0,
+    "text": "All right."
+  },
+  {
+    "start": 4074.18,
+    "duration": 1.0,
+    "text": "Well, we'll wrap there."
+  },
+  {
+    "start": 4075.18,
+    "duration": 1.32,
+    "text": "So many great takeaways."
+  },
+  {
+    "start": 4076.5,
+    "duration": 6.8,
+    "text": "I certainly hope people walk away from this episode with a new understanding and view"
+  },
+  {
+    "start": 4083.3,
+    "duration": 8.36,
+    "text": "of their board as cheering for them, wanting them to be legitimately successful, and understanding"
+  },
+  {
+    "start": 4091.66,
+    "duration": 3.32,
+    "text": "the dynamics behind closed doors."
+  },
+  {
+    "start": 4094.98,
+    "duration": 2.16,
+    "text": "I think that will be a great message for folks."
+  },
+  {
+    "start": 4097.14,
+    "duration": 1.44,
+    "text": "How can people find you?"
+  },
+  {
+    "start": 4098.58,
+    "duration": 1.2,
+    "text": "They want to learn more."
+  },
+  {
+    "start": 4099.78,
+    "duration": 2.0,
+    "text": "Where should they go?"
+  },
+  {
+    "start": 4101.78,
+    "duration": 5.92,
+    "text": "Just go to sastr, S-A-A-S-T-R dot com, or whatever works for you."
+  },
+  {
+    "start": 4107.7,
+    "duration": 1.0,
+    "text": "You can just Google it."
+  },
+  {
+    "start": 4108.7,
+    "duration": 1.0,
+    "text": "Whatever works."
+  },
+  {
+    "start": 4109.7,
+    "duration": 1.0,
+    "text": "Whatever medium works."
+  },
+  {
+    "start": 4110.82,
+    "duration": 5.8,
+    "text": "The YouTubes, the Instas, TikTok's not that good, events, LinkedIn, yeah, whatever, wherever"
+  },
+  {
+    "start": 4116.62,
+    "duration": 4.72,
+    "text": "you consume content, podcasts, just search for that weird name, Sastr."
+  },
+  {
+    "start": 4121.34,
+    "duration": 1.08,
+    "text": "And the book is still good."
+  },
+  {
+    "start": 4122.42,
+    "duration": 3.48,
+    "text": "The book, after these years, still hangs up to scrutiny."
+  },
+  {
+    "start": 4125.9,
+    "duration": 3.2,
+    "text": "I still recommend it frequently."
+  },
+  {
+    "start": 4129.1,
+    "duration": 4.04,
+    "text": "It's in my top leadership reading list that I give to folks."
+  },
+  {
+    "start": 4133.14,
+    "duration": 3.84,
+    "text": "Sales Acceleration Formula, Impossible to Inevitable, a couple of leadership basics."
+  },
+  {
+    "start": 4136.98,
+    "duration": 4.36,
+    "text": "So I'd also encourage people to read it, because it's a good one."
+  },
+  {
+    "start": 4141.34,
+    "duration": 1.16,
+    "text": "Maybe it deserves a third edition."
+  },
+  {
+    "start": 4142.5,
+    "duration": 1.0,
+    "text": "That's a good push."
+  },
+  {
+    "start": 4143.5,
+    "duration": 1.0,
+    "text": "It holds."
+  },
+  {
+    "start": 4144.5,
+    "duration": 1.0,
+    "text": "It stands the test of time."
+  },
+  {
+    "start": 4145.5,
+    "duration": 1.0,
+    "text": "All right."
+  },
+  {
+    "start": 4146.5,
+    "duration": 1.0,
+    "text": "Well, Jason, thanks for the time."
+  },
+  {
+    "start": 4147.5,
+    "duration": 1.0,
+    "text": "This was awesome."
+  },
+  {
+    "start": 4148.5,
+    "duration": 1.0,
+    "text": "Thanks, Kyle."
+  },
+  {
+    "start": 4149.5,
+    "duration": 1.0,
+    "text": "This was great."
+  },
+  {
+    "start": 4150.5,
+    "duration": 1.0,
+    "text": "Really appreciate it."
+  },
+  {
+    "start": 4151.5,
+    "duration": 5.84,
+    "text": "Thank you for listening to the Revenue Leadership Podcast."
+  },
+  {
+    "start": 4157.34,
+    "duration": 4.76,
+    "text": "If you enjoyed it, don't forget to subscribe, and you can find a link in the show notes."
+  },
+  {
+    "start": 4162.1,
+    "duration": 4.84,
+    "text": "And be sure to leave a five-star review, share it with your network, and please join me next"
+  },
+  {
+    "start": 4166.94,
+    "duration": 2.08,
+    "text": "Wednesday for another great conversation."
+  }
+]

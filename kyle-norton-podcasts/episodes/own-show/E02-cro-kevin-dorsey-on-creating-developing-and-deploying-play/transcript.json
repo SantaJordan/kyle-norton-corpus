@@ -1,0 +1,3547 @@
+[
+  {
+    "start": 0.0,
+    "duration": 4.08,
+    "text": "Mr. Kevin Dorsey, welcome to the show. Appreciate you taking the time, my man."
+  },
+  {
+    "start": 4.08,
+    "duration": 4.8,
+    "text": "Let's go. I will always make time for Kyle Nord. There is not a time that I would not."
+  },
+  {
+    "start": 8.88,
+    "duration": 3.04,
+    "text": "So I'm pumped to be here, man. This is going to be good. This is going to be good."
+  },
+  {
+    "start": 11.92,
+    "duration": 6.0,
+    "text": "Yeah, I'm excited. And we've got a topic that I don't see spoken about or covered all that much"
+  },
+  {
+    "start": 19.36,
+    "duration": 4.56,
+    "text": "in Internet land. And so we're going to dive in and I think have a great time."
+  },
+  {
+    "start": 23.92,
+    "duration": 10.64,
+    "text": "Hello and welcome to the Revenue Leadership Podcast. I'm your host, Kyle Norton, CRO at"
+  },
+  {
+    "start": 34.56,
+    "duration": 6.32,
+    "text": "Owner.com. And every Wednesday, I dive deep into the strategies and tactics that drive success"
+  },
+  {
+    "start": 40.88,
+    "duration": 6.0,
+    "text": "for the very best revenue leaders in the world. So join me as I sit down with revenue operators"
+  },
+  {
+    "start": 46.88,
+    "duration": 5.44,
+    "text": "to discuss actionable frameworks that you can implement in your role today with no fluff,"
+  },
+  {
+    "start": 52.32,
+    "duration": 6.16,
+    "text": "no platitudes and no sales pitches. Today's guest is none other than Kevin Dorsey,"
+  },
+  {
+    "start": 59.2,
+    "duration": 7.84,
+    "text": "affectionately known as KD. And KD is currently the CRO at Finally, which is a hyper growth"
+  },
+  {
+    "start": 67.04,
+    "duration": 6.88,
+    "text": "series startup that is the easiest way for small businesses to manage their finance and accounting."
+  },
+  {
+    "start": 74.64,
+    "duration": 7.68,
+    "text": "And before finally, KD was the SVP Sales and Partnerships at Bench, VP Inside Sales at"
+  },
+  {
+    "start": 82.32,
+    "duration": 6.24,
+    "text": "Patient Pop, Head of Sales Development and Enablement at Service Titan. Just an epic run"
+  },
+  {
+    "start": 88.56,
+    "duration": 5.6,
+    "text": "of really impressive companies. And KD has left an indelible mark on all of them."
+  },
+  {
+    "start": 94.72,
+    "duration": 7.84,
+    "text": "And KD also launched recently the Sales Leadership Accelerator, which in my opinion,"
+  },
+  {
+    "start": 102.56,
+    "duration": 8.24,
+    "text": "is the best platform and community for sales managers to learn the craft. KD gives it all"
+  },
+  {
+    "start": 110.8,
+    "duration": 6.32,
+    "text": "away. I've had access for a while and can vouch that these are some of the best templates that"
+  },
+  {
+    "start": 117.12,
+    "duration": 5.12,
+    "text": "you can swipe and deploy in your business right now. And we're going to go into a bunch of what"
+  },
+  {
+    "start": 122.24,
+    "duration": 7.04,
+    "text": "he's built. So in today's episode, we go really deep on playbooks and frameworks. And so we don't"
+  },
+  {
+    "start": 129.28,
+    "duration": 4.96,
+    "text": "just skim the surface, talk about why playbooks are important. We go really deep into the specifics"
+  },
+  {
+    "start": 134.24,
+    "duration": 7.12,
+    "text": "around how do you build a playbook? What should you build? And most importantly, how do you"
+  },
+  {
+    "start": 141.36,
+    "duration": 5.52,
+    "text": "implement this stuff? How do you get people to adopt it? This episode is a must listen if you"
+  },
+  {
+    "start": 146.88,
+    "duration": 5.84,
+    "text": "want to drive predictable, repeatable, high performance in your go to market teams. I"
+  },
+  {
+    "start": 152.72,
+    "duration": 4.72,
+    "text": "learned a ton. I think this is going to be an awesome lesson for everybody. So please enjoy."
+  },
+  {
+    "start": 160.48,
+    "duration": 1.84,
+    "text": "But first, a word from our sponsors."
+  },
+  {
+    "start": 168.4,
+    "duration": 5.52,
+    "text": "This episode is brought to you by Momentum.io. Momentum is a powerful tool for turning sales"
+  },
+  {
+    "start": 173.92,
+    "duration": 5.84,
+    "text": "and customer conversations into go to market data. Using Gen AI, it extracts, analyzes,"
+  },
+  {
+    "start": 179.76,
+    "duration": 5.52,
+    "text": "and automates customer intelligence across your org. The best part, it's not a new platform for"
+  },
+  {
+    "start": 185.28,
+    "duration": 5.28,
+    "text": "your team to adopt. It integrates seamlessly with your existing stack and writes data back to"
+  },
+  {
+    "start": 190.56,
+    "duration": 5.68,
+    "text": "Salesforce directly. Some of the most innovative companies out there like Zscaler, Demandbase,"
+  },
+  {
+    "start": 196.24,
+    "duration": 8.0,
+    "text": "Ramp, 1Password, and even my company, Owner.com, use Momentum every single day to capture forecast"
+  },
+  {
+    "start": 204.24,
+    "duration": 5.6,
+    "text": "and churn risk, autofill, Salesforce fields, share product signals, and track sentiment."
+  },
+  {
+    "start": 210.48,
+    "duration": 8.32,
+    "text": "So check it out with a free trial at Momentum.io. The topic of the day is creating, developing,"
+  },
+  {
+    "start": 218.8,
+    "duration": 5.12,
+    "text": "and deploying playbooks, something which you're well known for. And so before we jump in,"
+  },
+  {
+    "start": 223.92,
+    "duration": 6.88,
+    "text": "give folks your 60 second bio. Oh, man. All right. Kevin Dorsey. Everybody calls me KD"
+  },
+  {
+    "start": 230.8,
+    "duration": 7.76,
+    "text": "at this point. I am blessed to be a husband, a father, a brother, a son, a friend, and I'm a"
+  },
+  {
+    "start": 238.56,
+    "duration": 4.56,
+    "text": "leader of salespeople. That's what I do. I've been building startup sales teams for the last 13,"
+  },
+  {
+    "start": 243.12,
+    "duration": 4.72,
+    "text": "14 years now. I've got a couple of unicorns under the belt. And they were unicorns when I was"
+  },
+  {
+    "start": 247.84,
+    "duration": 4.72,
+    "text": "actually there in building, not just after the fact. I got all up in there and I'm working on"
+  },
+  {
+    "start": 252.56,
+    "duration": 5.28,
+    "text": "my third right now. And I love this. I'm blessed to be a leader, man. I get to work with people"
+  },
+  {
+    "start": 257.84,
+    "duration": 4.56,
+    "text": "and ideally positively impact people and then share the insights with people on the internet,"
+  },
+  {
+    "start": 262.4,
+    "duration": 9.12,
+    "text": "man. So that's me. Very cool. And you have been quietly working on something in the background"
+  },
+  {
+    "start": 271.52,
+    "duration": 5.68,
+    "text": "yet to be announced, which this pod will drop shortly after that comes out. So tell people"
+  },
+  {
+    "start": 277.92,
+    "duration": 6.0,
+    "text": "what you're up to right now. What's next for KD? Yeah. So two main things are happening right now,"
+  },
+  {
+    "start": 283.92,
+    "duration": 4.96,
+    "text": "or I'll say they're next but now. I just haven't announced everything. So one is launching the"
+  },
+  {
+    "start": 288.88,
+    "duration": 4.96,
+    "text": "sales leadership accelerator online, the full community, the course, the program, all the"
+  },
+  {
+    "start": 293.84,
+    "duration": 5.12,
+    "text": "shit that I have either learned or gotten wrong over the years. Launching that officially, all"
+  },
+  {
+    "start": 298.96,
+    "duration": 5.36,
+    "text": "the modules, all the templates, the community, everything there. So that's one big next now thing."
+  },
+  {
+    "start": 304.32,
+    "duration": 6.64,
+    "text": "And the second is I'm the CRO now of a company called Finely, which in a lot of ways, even the"
+  },
+  {
+    "start": 310.96,
+    "duration": 4.96,
+    "text": "name is very serendipitous to me in terms of like finally, like finally a place I feel at home,"
+  },
+  {
+    "start": 315.92,
+    "duration": 4.8,
+    "text": "finally a place that I feel like it can be like that last big final run. So I'm the CRO here at"
+  },
+  {
+    "start": 320.72,
+    "duration": 6.08,
+    "text": "Finely and it's SMB and it's really bringing all the tools that SMB owners need into one place."
+  },
+  {
+    "start": 326.8,
+    "duration": 5.84,
+    "text": "So we do bookkeeping, we do banking, we do payroll, we have a corporate card, expense"
+  },
+  {
+    "start": 332.64,
+    "duration": 5.52,
+    "text": "management all in one. And so it just allows business owners to run their business and grow"
+  },
+  {
+    "start": 338.16,
+    "duration": 6.24,
+    "text": "their business in just one place versus 17 different tools. So love the space, love the team"
+  },
+  {
+    "start": 344.4,
+    "duration": 4.64,
+    "text": "already growing, already breaking some records in my first, you know, like 90 days here. So it's"
+  },
+  {
+    "start": 349.04,
+    "duration": 5.52,
+    "text": "always fun to be like, oh yeah, this shit works. It works like weird, weird how that goes. So no,"
+  },
+  {
+    "start": 354.56,
+    "duration": 5.68,
+    "text": "that's really, really good. I'm really enjoying it. That's exciting. And so I was a small business"
+  },
+  {
+    "start": 360.24,
+    "duration": 5.44,
+    "text": "owner for a number of years. I serve small business owners today at Owner. So the problem that you"
+  },
+  {
+    "start": 365.68,
+    "duration": 6.48,
+    "text": "talk about is extremely resonant to me as I was the partner that was dealing with QuickBooks and"
+  },
+  {
+    "start": 372.16,
+    "duration": 5.44,
+    "text": "reconciling the bank accounts and all that stuff. So bringing it all into one, you know,"
+  },
+  {
+    "start": 377.6,
+    "duration": 5.44,
+    "text": "like I love SMB, man. I've done the enterprise. I've done all that. I love SMB. I love helping"
+  },
+  {
+    "start": 383.04,
+    "duration": 4.32,
+    "text": "business owners, man. Like I also, I ran small businesses in LA. I ran three personal training"
+  },
+  {
+    "start": 387.36,
+    "duration": 5.2,
+    "text": "studios. Like, so I just have that like in my heart type type setup. So I love it, man."
+  },
+  {
+    "start": 392.56,
+    "duration": 4.56,
+    "text": "Loving it here. Loving the team. Really some big announcements like come in there that I can't"
+  },
+  {
+    "start": 397.12,
+    "duration": 3.92,
+    "text": "share on here yet, but like there's some good shit popping that I'm pumped for."
+  },
+  {
+    "start": 401.68,
+    "duration": 4.72,
+    "text": "That's awesome. I'm excited. What is it about SMB that you like so much? So the mission and"
+  },
+  {
+    "start": 406.4,
+    "duration": 6.64,
+    "text": "serving entrepreneurs, but what about the segment gives you the most excitement?"
+  },
+  {
+    "start": 413.04,
+    "duration": 4.72,
+    "text": "So definitely like just the mission behind it. Like I do, I believe small business owners are"
+  },
+  {
+    "start": 417.76,
+    "duration": 4.56,
+    "text": "the reason this country is what it is. It's like all these big companies at one point were small"
+  },
+  {
+    "start": 422.4,
+    "duration": 4.48,
+    "text": "businesses. And I think people forget that, right? They hire people, they employ people,"
+  },
+  {
+    "start": 426.88,
+    "duration": 6.16,
+    "text": "they put their savings on the line, right? Like small business owners and entrepreneurs are the"
+  },
+  {
+    "start": 433.04,
+    "duration": 5.28,
+    "text": "only people that work 80 hours for themselves to avoid working 40 hours for someone else."
+  },
+  {
+    "start": 438.88,
+    "duration": 3.6,
+    "text": "You know, it's like, they work their ass off to run these things and they don't have a lot"
+  },
+  {
+    "start": 442.48,
+    "duration": 6.88,
+    "text": "of the support they need. But also I love the speed of the deal. I love the speed to impact."
+  },
+  {
+    "start": 449.36,
+    "duration": 6.72,
+    "text": "I love how fast I can learn things. I love all of that large space to play in. And oftentimes"
+  },
+  {
+    "start": 456.08,
+    "duration": 5.68,
+    "text": "they're just forgotten about. Like I don't sell sass to sass. I have avoided that space my entire"
+  },
+  {
+    "start": 461.76,
+    "duration": 6.0,
+    "text": "career. I don't sell sass to sass. I've avoided it because one, I felt like it was overblown."
+  },
+  {
+    "start": 467.76,
+    "duration": 4.8,
+    "text": "Two, I was like a little bit of a Ponzi scheme. Wait, you're not profitable and you're selling"
+  },
+  {
+    "start": 472.56,
+    "duration": 6.16,
+    "text": "to me who's not profitable and my growth requires you to grow. That always scared me."
+  },
+  {
+    "start": 479.6,
+    "duration": 6.32,
+    "text": "That just didn't feel right. So I love the unsexy space, home services, medical, accounting,"
+  },
+  {
+    "start": 485.92,
+    "duration": 5.12,
+    "text": "education. Like I stay in the unsexy spaces because I also think there's more time to learn"
+  },
+  {
+    "start": 491.04,
+    "duration": 5.44,
+    "text": "things and to apply things that don't get overblown too fast. Very cool. I have never"
+  },
+  {
+    "start": 496.48,
+    "duration": 4.4,
+    "text": "heard that quote. I absolutely love it and I'm going to borrow it. Working 80 hours a week."
+  },
+  {
+    "start": 501.68,
+    "duration": 4.16,
+    "text": "The small business owners have to work 80 hours for themselves to avoid working 40 hours for"
+  },
+  {
+    "start": 505.84,
+    "duration": 3.6,
+    "text": "somebody else. You got to be crazy to run a small business and that's why I love it."
+  },
+  {
+    "start": 510.08,
+    "duration": 3.44,
+    "text": "Yeah. Extremely resonant with selling to mom and pop restaurant owners."
+  },
+  {
+    "start": 514.4,
+    "duration": 5.84,
+    "text": "Well, cool. And I think the other part of SMB that I love and I know will resonate with you"
+  },
+  {
+    "start": 520.24,
+    "duration": 6.56,
+    "text": "is the opportunity to have access to a ton of data to iterate, to improve, to build, deploy,"
+  },
+  {
+    "start": 527.44,
+    "duration": 7.04,
+    "text": "and see those fast cycles, which allows you to have a very systems engineering mindset,"
+  },
+  {
+    "start": 534.48,
+    "duration": 1.76,
+    "text": "which we're going to spend a bunch of time on today."
+  },
+  {
+    "start": 537.84,
+    "duration": 9.04,
+    "text": "Cool. So you've built your reputation on building and sharing incredible frameworks. And so"
+  },
+  {
+    "start": 546.88,
+    "duration": 7.2,
+    "text": "folks that have taken your courses through Pavilion or your own stuff that you're releasing now,"
+  },
+  {
+    "start": 554.48,
+    "duration": 5.92,
+    "text": "most people listening to this will be familiar with the wiggle and Bipsy and a bunch of stuff"
+  },
+  {
+    "start": 560.4,
+    "duration": 4.96,
+    "text": "that you've built. And so we're not going to get into any of the specifics. You've got tons of"
+  },
+  {
+    "start": 565.36,
+    "duration": 4.4,
+    "text": "awesome content out there, which I'll point people to, but we're going to talk about what"
+  },
+  {
+    "start": 569.76,
+    "duration": 4.48,
+    "text": "happens behind these incredible frameworks. How have you built them? How do you deploy it?"
+  },
+  {
+    "start": 575.2,
+    "duration": 10.0,
+    "text": "How do you know what to spend time architecting versus not? And so there's two topics for today."
+  },
+  {
+    "start": 585.2,
+    "duration": 5.36,
+    "text": "One is we'll do a primer on about playbooks to just give people a frame of reference,"
+  },
+  {
+    "start": 590.56,
+    "duration": 3.12,
+    "text": "and we'll spend the bulk of our time talking about how to build and deploy."
+  },
+  {
+    "start": 594.4,
+    "duration": 6.8,
+    "text": "So first topic has ground us. What is a playbook? The word gets thrown around so much. So in your"
+  },
+  {
+    "start": 601.2,
+    "duration": 4.72,
+    "text": "mind, what is a playbook? Well, it is funny because in the intro, you're like, this isn't"
+  },
+  {
+    "start": 605.92,
+    "duration": 4.96,
+    "text": "something people talk about a lot. And it's actually, I smiled a little bit there. It's like,"
+  },
+  {
+    "start": 610.88,
+    "duration": 4.64,
+    "text": "actually, I feel like people talk about it a lot. People don't do it well a lot, right?"
+  },
+  {
+    "start": 615.52,
+    "duration": 4.4,
+    "text": "There are whole consulting agencies that all they do is build sales playbooks,"
+  },
+  {
+    "start": 620.72,
+    "duration": 3.52,
+    "text": "and then nothing ever happens with them. So I feel like this actually gets talked about a lot."
+  },
+  {
+    "start": 624.24,
+    "duration": 5.2,
+    "text": "People just don't do it, right? And so when I think about a playbook, what I'm talking about"
+  },
+  {
+    "start": 629.44,
+    "duration": 7.92,
+    "text": "is a documented set of best practices. A documented set of best practices is what I view"
+  },
+  {
+    "start": 637.36,
+    "duration": 6.08,
+    "text": "a playbook on. And I think even that would help a lot of people shift what a playbook is if they"
+  },
+  {
+    "start": 643.44,
+    "duration": 4.0,
+    "text": "thought about it that way. Whereas a lot of people like to say, oh, the playbook, here's all the"
+  },
+  {
+    "start": 647.44,
+    "duration": 6.88,
+    "text": "things that we do. Here's who, it's like, no, these are best practices, things that need to be"
+  },
+  {
+    "start": 654.32,
+    "duration": 6.08,
+    "text": "done. So that's how I define a playbook, a documented set of best practices."
+  },
+  {
+    "start": 661.68,
+    "duration": 8.0,
+    "text": "And so what's in there? What do you have in a playbook? How expansive is it? Does the entire"
+  },
+  {
+    "start": 669.68,
+    "duration": 4.8,
+    "text": "business have a playbook? Is it scripting? What types of things are you playbooking?"
+  },
+  {
+    "start": 674.48,
+    "duration": 6.48,
+    "text": "Yeah. So in my playbooks, I cover the five P's. So the five P's of the playbook are people,"
+  },
+  {
+    "start": 680.96,
+    "duration": 9.68,
+    "text": "and we'll break all these down, like people, prospect, problem, process, and product. Those"
+  },
+  {
+    "start": 690.64,
+    "duration": 6.0,
+    "text": "are the five things that go into my playbook. People, prospect, problem, process, and product."
+  },
+  {
+    "start": 697.2,
+    "duration": 5.28,
+    "text": "That's my framework for the playbook. And then I go through, and all those, funnily enough,"
+  },
+  {
+    "start": 702.48,
+    "duration": 6.64,
+    "text": "it's in order for a reason. So when you think about people, so the people section of the playbook"
+  },
+  {
+    "start": 709.12,
+    "duration": 5.92,
+    "text": "is about your people. So this is where my standards of excellence go. This is where my"
+  },
+  {
+    "start": 715.04,
+    "duration": 6.08,
+    "text": "virtues and values go. This is where the expectations of the role go. This is where"
+  },
+  {
+    "start": 721.12,
+    "duration": 6.4,
+    "text": "goal setting goes, quotas, promotion paths. That first section is about your people. When they"
+  },
+  {
+    "start": 727.52,
+    "duration": 3.84,
+    "text": "open up that playbook, the first thing they should be reading about is, what does it mean to be a"
+  },
+  {
+    "start": 731.36,
+    "duration": 6.32,
+    "text": "part of this org? What do we stand for? What are our values? What we believe? What are our virtues?"
+  },
+  {
+    "start": 737.68,
+    "duration": 4.8,
+    "text": "How we behave. That's one of the first exercises I'm doing with my own company here now is our"
+  },
+  {
+    "start": 742.48,
+    "duration": 7.12,
+    "text": "virtues. Celebrate the process. Take care of the person and salesperson. Seek perpetual growth. Own"
+  },
+  {
+    "start": 749.6,
+    "duration": 6.32,
+    "text": "your shit. ECM. Every conversation matters. Help YTP. Help yourself, team, and prospect. Celebrate"
+  },
+  {
+    "start": 755.92,
+    "duration": 5.6,
+    "text": "the process. That's how we behave. So that people section is like, this is what it is."
+  },
+  {
+    "start": 761.52,
+    "duration": 4.4,
+    "text": "People sign this, by the way. My virtues, you read them, they're defined, and you sign it."
+  },
+  {
+    "start": 766.88,
+    "duration": 5.12,
+    "text": "We agree to uphold these virtues and hold leadership accountable to them as well."
+  },
+  {
+    "start": 773.28,
+    "duration": 4.72,
+    "text": "My org there, that's the people section. That's where we have our goals. This is how to get"
+  },
+  {
+    "start": 778.0,
+    "duration": 6.56,
+    "text": "promoted. This is a promotion path. How to be terminated. It's everything people. That first"
+  },
+  {
+    "start": 784.56,
+    "duration": 5.92,
+    "text": "section is about your people. Is your hiring framework in there?"
+  },
+  {
+    "start": 791.36,
+    "duration": 7.52,
+    "text": "The hiring framework isn't in the playbook, but the virtues are how we hire. I have a hiring"
+  },
+  {
+    "start": 798.88,
+    "duration": 5.12,
+    "text": "playbook. I have a checklist and what we go through there, but this is like the sales"
+  },
+  {
+    "start": 804.0,
+    "duration": 5.12,
+    "text": "playbook. It's just about the org and the people. The sales playbook is five Ps,"
+  },
+  {
+    "start": 809.12,
+    "duration": 6.32,
+    "text": "and then you can have different playbooks for how your managers are managing their team or the"
+  },
+  {
+    "start": 815.44,
+    "duration": 6.32,
+    "text": "hiring. Correct. So back to the definition, a documented set of best practices. I have playbooks"
+  },
+  {
+    "start": 821.76,
+    "duration": 6.88,
+    "text": "for everything. Hiring playbook, management playbook, onboarding playbook. I have playbooks"
+  },
+  {
+    "start": 828.64,
+    "duration": 6.56,
+    "text": "for all of those things, but it doesn't fit how people think about what a playbook is. It's a set"
+  },
+  {
+    "start": 835.2,
+    "duration": 3.28,
+    "text": "of best practices. That's where the wiggle came from, by the way. I know we're going to talk about"
+  },
+  {
+    "start": 838.48,
+    "duration": 6.72,
+    "text": "the wiggle, but the playbook is the documented set of the wiggle, aka what good looks like."
+  },
+  {
+    "start": 845.2,
+    "duration": 4.08,
+    "text": "That's what the playbook is. Anyone that played a sport, that's what the plays are."
+  },
+  {
+    "start": 850.16,
+    "duration": 5.44,
+    "text": "What you're supposed to do where and what good looks like. So that's what a playbook is to me."
+  },
+  {
+    "start": 856.16,
+    "duration": 6.88,
+    "text": "Okay, cool. So this is sales playbook. I think for this conversation, let's talk about it"
+  },
+  {
+    "start": 863.04,
+    "duration": 5.04,
+    "text": "even more broadly because the audience for this podcast is CROs and aspiring"
+  },
+  {
+    "start": 868.08,
+    "duration": 7.04,
+    "text": "revenue leaders. So you've got your sales playbook, and so prospect is about the people"
+  },
+  {
+    "start": 875.12,
+    "duration": 6.48,
+    "text": "you're prospecting into. Give me problem process product super quick."
+  },
+  {
+    "start": 881.6,
+    "duration": 6.48,
+    "text": "Yeah. So problem, right? What are the actual problems you solve for the prospect? So the"
+  },
+  {
+    "start": 888.08,
+    "duration": 4.48,
+    "text": "prospect section is the titles, the day-to-day. That's where the buyer's matrix goes, right?"
+  },
+  {
+    "start": 892.56,
+    "duration": 4.48,
+    "text": "One of my favorite exercises from Jill Conrad, the buyer's matrix. Everyone in my org goes"
+  },
+  {
+    "start": 897.04,
+    "duration": 5.6,
+    "text": "through this exercise of by persona and title, what do they care about? How are they judged?"
+  },
+  {
+    "start": 902.64,
+    "duration": 5.28,
+    "text": "What does success look like? Who do they report to? It's really understanding the prospect."
+  },
+  {
+    "start": 907.92,
+    "duration": 4.72,
+    "text": "And then the second part is then the problem. How well does the team actually know the problems you"
+  },
+  {
+    "start": 912.64,
+    "duration": 5.68,
+    "text": "solve? So these are the key problems for each persona. Here are the impacts of those problems."
+  },
+  {
+    "start": 918.32,
+    "duration": 4.48,
+    "text": "Here's how those problems have been solved before. Here's why those problems exist now,"
+  },
+  {
+    "start": 922.8,
+    "duration": 5.12,
+    "text": "right? So the problem section is how well can you define the problems you solve for each one"
+  },
+  {
+    "start": 927.92,
+    "duration": 4.96,
+    "text": "of the personas, right? Because the prospect, that's like the industry level as well. What"
+  },
+  {
+    "start": 932.88,
+    "duration": 3.92,
+    "text": "are the trends? What are the key terms? Who are the main players, right? That's the prospect."
+  },
+  {
+    "start": 936.8,
+    "duration": 5.2,
+    "text": "Problems, that's the problems you solve. Processes, and this is like what our days"
+  },
+  {
+    "start": 942.0,
+    "duration": 5.52,
+    "text": "today look like. So what is the sales process? Our stages, our exit entry criteria, our"
+  },
+  {
+    "start": 947.52,
+    "duration": 5.28,
+    "text": "qualification process. This is where scripting goes in. This is where call score cards go in."
+  },
+  {
+    "start": 953.44,
+    "duration": 4.96,
+    "text": "This is where our one-on-one documentation goes in, issue diagnosis checklists. That's where"
+  },
+  {
+    "start": 958.4,
+    "duration": 5.44,
+    "text": "like, here's how we do our job, right? My goal with a playbook is if you do it, you're good at"
+  },
+  {
+    "start": 963.84,
+    "duration": 5.68,
+    "text": "your job. The playbook doesn't make you great, but the playbook should make you good. If you do"
+  },
+  {
+    "start": 969.52,
+    "duration": 6.4,
+    "text": "what's in the playbook, you should be good at your job. Greatness comes from going above and beyond"
+  },
+  {
+    "start": 975.92,
+    "duration": 4.48,
+    "text": "on that playbook, but if you follow what's in there, you should be good at your job, right?"
+  },
+  {
+    "start": 980.4,
+    "duration": 4.96,
+    "text": "And so that process is in there, right? And again, this is where I'm looking. We'll get into how to"
+  },
+  {
+    "start": 985.36,
+    "duration": 4.88,
+    "text": "build it, but it's like, how well documented can I make that process? Here's what good looks like"
+  },
+  {
+    "start": 990.24,
+    "duration": 4.24,
+    "text": "for each one of these steps or each one of these things day-to-day. In some of my orgs, I've"
+  },
+  {
+    "start": 994.48,
+    "duration": 7.6,
+    "text": "literally had like last day of the month process. I love that. Here's the wiggle for the last day"
+  },
+  {
+    "start": 1002.08,
+    "duration": 5.44,
+    "text": "of the month. You pull a report on all of your clothes lost. You pull a report on any of your"
+  },
+  {
+    "start": 1007.52,
+    "duration": 4.32,
+    "text": "referrals. You pull a report on X. They get a video at the beginning of the day, like we're"
+  },
+  {
+    "start": 1011.84,
+    "duration": 5.04,
+    "text": "going to define what the last day of the month needs to look like for our org, right? So that's"
+  },
+  {
+    "start": 1016.88,
+    "duration": 5.84,
+    "text": "the process section. And then we get to the product section. There's a reason why product"
+  },
+  {
+    "start": 1022.72,
+    "duration": 6.64,
+    "text": "is last in this, is because now I can connect product to all those other Ps, whereas too often"
+  },
+  {
+    "start": 1029.36,
+    "duration": 5.04,
+    "text": "playbooks start with the product and they forget everything else. Whereas now,"
+  },
+  {
+    "start": 1034.4,
+    "duration": 5.12,
+    "text": "how does the product specifically solve those problems? How does the product specifically"
+  },
+  {
+    "start": 1039.52,
+    "duration": 4.8,
+    "text": "align with these prospects, right? And their personas, right? So then the product is at the"
+  },
+  {
+    "start": 1044.32,
+    "duration": 4.16,
+    "text": "end, but it's not a product training. It's actually how it does the things we say it's"
+  },
+  {
+    "start": 1048.48,
+    "duration": 5.28,
+    "text": "supposed to do, not just what it does. So those are the five Ps. Awesome."
+  },
+  {
+    "start": 1054.72,
+    "duration": 5.04,
+    "text": "This may seem obvious, but why are playbooks important? Why should leaders invest heavily"
+  },
+  {
+    "start": 1059.76,
+    "duration": 8.0,
+    "text": "in this? Because it takes a ton of time. How do you scale without one? How do you coach"
+  },
+  {
+    "start": 1067.76,
+    "duration": 5.92,
+    "text": "without one? Can you imagine? I love it because sales gets itself in trouble because we sometimes"
+  },
+  {
+    "start": 1073.68,
+    "duration": 5.28,
+    "text": "use too many sports analogies. We use all these sports analogies, but then you're like,"
+  },
+  {
+    "start": 1079.28,
+    "duration": 3.68,
+    "text": "all right, could you imagine talking to a football coach that didn't have a playbook?"
+  },
+  {
+    "start": 1084.88,
+    "duration": 0.64,
+    "text": "Yeah."
+  },
+  {
+    "start": 1085.52,
+    "duration": 3.04,
+    "text": "Could you imagine talking to a basketball coach? We're like, yeah, we don't run plays."
+  },
+  {
+    "start": 1091.6,
+    "duration": 3.2,
+    "text": "But then we get sales leaders all the time. It's like, oh yeah, we don't have a playbook."
+  },
+  {
+    "start": 1094.8,
+    "duration": 6.32,
+    "text": "Or they do, and it's collecting digital dust somewhere because nobody ever reads it, right?"
+  },
+  {
+    "start": 1101.76,
+    "duration": 3.2,
+    "text": "So funny enough, now that my team's back in office, it's about to happen again."
+  },
+  {
+    "start": 1104.96,
+    "duration": 4.0,
+    "text": "You could actually ping people at stagnation and at patient pop. When you joined,"
+  },
+  {
+    "start": 1108.96,
+    "duration": 8.56,
+    "text": "you actually got a physical copy of the playbook and it was bright red. It was this ugly ass"
+  },
+  {
+    "start": 1117.52,
+    "duration": 5.28,
+    "text": "binder and it was bright red. And you took that. When you were a new hire, you took it everywhere."
+  },
+  {
+    "start": 1123.52,
+    "duration": 2.48,
+    "text": "So we actually said, if I found your playbook, there was a fine."
+  },
+  {
+    "start": 1126.56,
+    "duration": 4.48,
+    "text": "Like if I found your playbook, there was a fine. Because if I found it means you didn't have it."
+  },
+  {
+    "start": 1131.28,
+    "duration": 5.68,
+    "text": "You carried that playbook with you meeting to meeting, session to session. That was your"
+  },
+  {
+    "start": 1136.96,
+    "duration": 3.6,
+    "text": "playbook, right? They do that in the pros. They do that in the military with a lot of"
+  },
+  {
+    "start": 1140.56,
+    "duration": 5.68,
+    "text": "things as well. But it was a physical copy as well. But most people just never use it, right?"
+  },
+  {
+    "start": 1146.24,
+    "duration": 4.8,
+    "text": "So if you're a sales leader without a playbook, what it means at its core is you actually don't"
+  },
+  {
+    "start": 1151.04,
+    "duration": 6.8,
+    "text": "have a defined set of best practices, which means you can't scale greatness. You'll just scale suck"
+  },
+  {
+    "start": 1157.84,
+    "duration": 7.52,
+    "text": "and that's a problem. Or success will be random. I find this is the other thing. You'll have"
+  },
+  {
+    "start": 1166.08,
+    "duration": 4.8,
+    "text": "such a wide variance of performance in your organization because people are reliant on"
+  },
+  {
+    "start": 1170.88,
+    "duration": 4.8,
+    "text": "figuring things out on their own, which can happen. You can throw certain people into any sales org,"
+  },
+  {
+    "start": 1175.68,
+    "duration": 5.6,
+    "text": "no matter what, they're going to be successful. And so oftentimes I argue that you should judge"
+  },
+  {
+    "start": 1181.28,
+    "duration": 6.16,
+    "text": "a sales leader not by their best performers or really by their worst, but it's that middle"
+  },
+  {
+    "start": 1187.44,
+    "duration": 4.72,
+    "text": "section. How great are they? Because those are the people that are operating by your playbook"
+  },
+  {
+    "start": 1192.16,
+    "duration": 4.72,
+    "text": "and executing and really driven by your coaching. And we'll get into this into the building, right?"
+  },
+  {
+    "start": 1197.44,
+    "duration": 3.68,
+    "text": "This will probably set us up a little bit. But I was talking with a company, this was about three,"
+  },
+  {
+    "start": 1201.12,
+    "duration": 4.24,
+    "text": "four, five, six months ago now, where they said, yeah, our top three reps,"
+  },
+  {
+    "start": 1205.36,
+    "duration": 2.56,
+    "text": "they don't follow the playbook at all. What should we do about that?"
+  },
+  {
+    "start": 1211.76,
+    "duration": 4.56,
+    "text": "Anyone who's ever worked with me knows exactly what I did next, right? It's called the KD"
+  },
+  {
+    "start": 1216.32,
+    "duration": 3.04,
+    "text": "slowdown or the KD pause. We're all like, I'll make you say it again slowly."
+  },
+  {
+    "start": 1220.48,
+    "duration": 3.68,
+    "text": "I'll be like, all right, I want you to say that to me one more time, but really slow."
+  },
+  {
+    "start": 1225.2,
+    "duration": 5.92,
+    "text": "Our top three performers don't follow the playbook at all."
+  },
+  {
+    "start": 1233.76,
+    "duration": 5.04,
+    "text": "What does that make you think maybe is actually the problem, right? You caught it to me,"
+  },
+  {
+    "start": 1238.8,
+    "duration": 5.52,
+    "text": "the playbook's the problem. If they're not the problem, your top three, that's the playbook you"
+  },
+  {
+    "start": 1244.32,
+    "duration": 5.04,
+    "text": "need to be following. That's the playbook you need to be defining, and you're looking at it"
+  },
+  {
+    "start": 1249.36,
+    "duration": 9.44,
+    "text": "completely the wrong way. I often tell this to folks newer on my team is like, start with the"
+  },
+  {
+    "start": 1258.8,
+    "duration": 4.64,
+    "text": "playbook, but then beat my playbook. If you can beat the playbook in terms of your conversion"
+  },
+  {
+    "start": 1263.44,
+    "duration": 6.24,
+    "text": "rates or the approach, the efficiency by which you're tackling the job that is outside of it,"
+  },
+  {
+    "start": 1269.68,
+    "duration": 3.04,
+    "text": "then let me know and let's update the playbook because I want everybody doing it."
+  },
+  {
+    "start": 1273.36,
+    "duration": 4.48,
+    "text": "The quote that we start our new hires off with is imitate first, innovate second."
+  },
+  {
+    "start": 1279.44,
+    "duration": 11.04,
+    "text": "Imitate first. Do this. Imitate first. Innovate second. I lead the first session for onboarding"
+  },
+  {
+    "start": 1290.48,
+    "duration": 7.76,
+    "text": "always. It's three hours long. It's the first session. It's with me. Three hours. Once a month,"
+  },
+  {
+    "start": 1298.24,
+    "duration": 4.72,
+    "text": "I run that first session. We're covering the playbook. We're covering expectations. We're"
+  },
+  {
+    "start": 1302.96,
+    "duration": 3.52,
+    "text": "covering how to succeed. We're covering the virtues and the values. This is one of the"
+  },
+  {
+    "start": 1306.48,
+    "duration": 6.88,
+    "text": "things I talk about is y'all, I have gotten more things wrong in this than you've even tried yet."
+  },
+  {
+    "start": 1314.56,
+    "duration": 7.84,
+    "text": "I need you to trust my mistakes. I think about this every day, every day for the last 13,"
+  },
+  {
+    "start": 1322.4,
+    "duration": 8.8,
+    "text": "15 years of my life. Imitate first. Do what I'm asking you to do first. Then innovate. How silly"
+  },
+  {
+    "start": 1331.2,
+    "duration": 4.08,
+    "text": "would it be to come into an org that is running, that is operating, that is succeeding and go,"
+  },
+  {
+    "start": 1335.28,
+    "duration": 5.04,
+    "text": "I'm going to do something differently immediately. That's a silly way to approach it."
+  },
+  {
+    "start": 1340.32,
+    "duration": 7.84,
+    "text": "Imitate first. Be good. Then be great. Most of the reason I chose to do this podcast is"
+  },
+  {
+    "start": 1348.16,
+    "duration": 5.12,
+    "text": "now I get to drill people I respect with questions for an hour every single week."
+  },
+  {
+    "start": 1354.32,
+    "duration": 6.32,
+    "text": "This is why. Hearing you say that you spend three hours with every new hire cohort,"
+  },
+  {
+    "start": 1361.2,
+    "duration": 5.12,
+    "text": "I'm like, I knew I was going to have something to want to make me up my game. That's awesome."
+  },
+  {
+    "start": 1368.08,
+    "duration": 5.52,
+    "text": "Amazing. Speaking to you just personally as a friend or something, how that sets the tone,"
+  },
+  {
+    "start": 1374.0,
+    "duration": 5.92,
+    "text": "is unreal. It's like, look, let's call it all out here. We're going to get you hyped, but also"
+  },
+  {
+    "start": 1381.04,
+    "duration": 5.76,
+    "text": "here are the expectations. Here's how you get promoted. Here's what these virtues are. You"
+  },
+  {
+    "start": 1386.8,
+    "duration": 5.36,
+    "text": "can hold me to these. If you see shit happening out there that doesn't match these, I want to know"
+  },
+  {
+    "start": 1392.16,
+    "duration": 5.44,
+    "text": "about these things. I am going to push you. I am going to challenge you. But here's also what"
+  },
+  {
+    "start": 1397.6,
+    "duration": 5.76,
+    "text": "success looks like on the other side. It sets the whole tone. Then they know they've heard it from"
+  },
+  {
+    "start": 1403.44,
+    "duration": 6.08,
+    "text": "you. They've heard it from you, not from a manager, not from the onboarding, not from HR."
+  },
+  {
+    "start": 1409.52,
+    "duration": 4.48,
+    "text": "They've heard it from you, which then also makes some of the early performance conversations"
+  },
+  {
+    "start": 1414.0,
+    "duration": 6.32,
+    "text": "actually very easy. I just sit down with you and go, pal, remember this when we talked about this?"
+  },
+  {
+    "start": 1420.88,
+    "duration": 2.8,
+    "text": "Yeah. You've got people signing it."
+  },
+  {
+    "start": 1423.68,
+    "duration": 5.04,
+    "text": "100%. This is your signature. We're back on the same page here."
+  },
+  {
+    "start": 1429.68,
+    "duration": 5.84,
+    "text": "We're in the process of overhauling our new hire process, and this is going to go into it for sure."
+  },
+  {
+    "start": 1440.96,
+    "duration": 4.4,
+    "text": "One of the pieces of feedback I get a lot when I talk to folks about this is it can feel just"
+  },
+  {
+    "start": 1445.36,
+    "duration": 5.2,
+    "text": "overwhelming. I have no idea where to start. People hear you talk about there's five Ps,"
+  },
+  {
+    "start": 1450.56,
+    "duration": 5.44,
+    "text": "and there's a hiring framework, and there's a playbook for this and that. It can just feel"
+  },
+  {
+    "start": 1456.0,
+    "duration": 7.2,
+    "text": "overwhelming and paralyzing for folks. Let's give some advice to early sales leaders."
+  },
+  {
+    "start": 1464.56,
+    "duration": 4.24,
+    "text": "Where should they start? How should I get going? I want to codify my approach."
+  },
+  {
+    "start": 1469.36,
+    "duration": 1.36,
+    "text": "What are the first things to build?"
+  },
+  {
+    "start": 1470.72,
+    "duration": 4.48,
+    "text": "Yeah. The first things you start on the people section, the first thing you build are the"
+  },
+  {
+    "start": 1475.2,
+    "duration": 5.2,
+    "text": "virtues and expectations. First, here are the behaviors we expect of the org, and what they"
+  },
+  {
+    "start": 1480.4,
+    "duration": 6.32,
+    "text": "mean is the expectation of the role. This actually doesn't take that long. It's just"
+  },
+  {
+    "start": 1486.72,
+    "duration": 3.12,
+    "text": "blocking the time to do it. You start with the people. That's the most important part of the"
+  },
+  {
+    "start": 1489.84,
+    "duration": 3.92,
+    "text": "people. You can build everything else out, but that's the most important. Virtues, expectations"
+  },
+  {
+    "start": 1493.76,
+    "duration": 7.2,
+    "text": "of the role. Then you get to prospect, buyer's matrix. Go Google it, y'all. Buyer's matrix,"
+  },
+  {
+    "start": 1500.96,
+    "duration": 6.4,
+    "text": "Jill Conrath. Go Google it. Free download. Put it in your playbook. Buyer's matrix."
+  },
+  {
+    "start": 1507.36,
+    "duration": 1.6,
+    "text": "Jill Conrath, OG goat."
+  },
+  {
+    "start": 1512.64,
+    "duration": 1.6,
+    "text": "She doesn't come up as much anymore, but-"
+  },
+  {
+    "start": 1516.96,
+    "duration": 6.56,
+    "text": "She should. Buyer's matrix, I will forever go through. Buyer's matrix, go through it. I'm going"
+  },
+  {
+    "start": 1523.52,
+    "duration": 4.72,
+    "text": "to give a bonus tip at the end of all this. Then you get to the problem. The problem, this is from"
+  },
+  {
+    "start": 1528.24,
+    "duration": 4.88,
+    "text": "Keenan. If you're trying to do this, it's just the P-I-C problem. Here's the problems. Here's"
+  },
+  {
+    "start": 1533.12,
+    "duration": 4.96,
+    "text": "the implications of those problems. You write those out. Y'all, if you're listening to this,"
+  },
+  {
+    "start": 1538.08,
+    "duration": 5.2,
+    "text": "you probably should be nodding because you already know this stuff. The playbook is in your head."
+  },
+  {
+    "start": 1543.28,
+    "duration": 8.24,
+    "text": "The problem is in your head. Then you get to process, call scorecards, scripting. But if you"
+  },
+  {
+    "start": 1551.52,
+    "duration": 5.04,
+    "text": "don't have scripting, at least call scorecards. Here's a disco scorecard, demo scorecard,"
+  },
+  {
+    "start": 1557.76,
+    "duration": 5.2,
+    "text": "pricing scorecard. Again, you already know what your scorecard is because it's in your"
+  },
+  {
+    "start": 1562.96,
+    "duration": 5.36,
+    "text": "head. When you sit down with a rep, there's 10 to 15 things you're listening for on a disco call."
+  },
+  {
+    "start": 1568.32,
+    "duration": 5.28,
+    "text": "Get them out of your head, put it on paper. Then you get to the product, and the product is"
+  },
+  {
+    "start": 1573.6,
+    "duration": 7.04,
+    "text": "basically feature. I've grown up here a little bit, so now it's CTD, but it used to be STFW."
+  },
+  {
+    "start": 1583.28,
+    "duration": 7.36,
+    "text": "Here's the feature, STFW. Here's the feature. Here's the feature. Now it's connected dots"
+  },
+  {
+    "start": 1590.64,
+    "duration": 6.88,
+    "text": "because I'm growing up, maybe, kind of trying. So that right there, y'all, that playbook would"
+  },
+  {
+    "start": 1597.52,
+    "duration": 6.0,
+    "text": "be better than 90% of the playbooks out there. It gets you started that you can build from,"
+  },
+  {
+    "start": 1603.52,
+    "duration": 5.68,
+    "text": "but then here's the beauty. You don't build it yourself. You have a team."
+  },
+  {
+    "start": 1609.84,
+    "duration": 5.52,
+    "text": "Guess who helps build my playbooks? Managers, reps, enablement, everybody."
+  },
+  {
+    "start": 1615.36,
+    "duration": 5.28,
+    "text": "Managers, reps, everyone helps me build the playbooks. This is not me going into some ivory"
+  },
+  {
+    "start": 1620.64,
+    "duration": 7.84,
+    "text": "tower and walking down like Moses with the tablets. Like, hey, I've got reps out here."
+  },
+  {
+    "start": 1629.12,
+    "duration": 4.4,
+    "text": "This all happened when I had a team of only like eight, and I was like, how do I build this?"
+  },
+  {
+    "start": 1633.52,
+    "duration": 7.04,
+    "text": "All right, Kyle, you've got buyer's matrix for office manager. Brian, you've got buyer's matrix"
+  },
+  {
+    "start": 1640.56,
+    "duration": 6.48,
+    "text": "for controller. Jenny, you've got buyer's matrix. You just assign them out and it's going to get"
+  },
+  {
+    "start": 1647.04,
+    "duration": 5.44,
+    "text": "done 80% of the way. We sit in our room one hour. Actually, I mean, this is a recording,"
+  },
+  {
+    "start": 1652.48,
+    "duration": 4.48,
+    "text": "I can show it to you. So on my calendar every week right now, there's an hour block with my"
+  },
+  {
+    "start": 1656.96,
+    "duration": 6.16,
+    "text": "three main revenue leaders called the weekly wiggle. It's called the weekly wiggle. It's an"
+  },
+  {
+    "start": 1663.12,
+    "duration": 8.4,
+    "text": "hour. We get together to build, not to discuss, not to chat. Okay, we are working on the call"
+  },
+  {
+    "start": 1671.52,
+    "duration": 5.28,
+    "text": "scorecard today for an hour. You know how long it takes to build a call scorecard, Kyle?"
+  },
+  {
+    "start": 1677.36,
+    "duration": 1.28,
+    "text": "Less than an hour, that's for sure."
+  },
+  {
+    "start": 1680.32,
+    "duration": 7.68,
+    "text": "Done. Done, right? So to give some context here, y'all, as of this recording, I have been in seat"
+  },
+  {
+    "start": 1688.08,
+    "duration": 5.68,
+    "text": "for 90 days. As of this recording, I've been in seat for 90 days. Guess what's already done?"
+  },
+  {
+    "start": 1695.36,
+    "duration": 0.72,
+    "text": "The five Bs."
+  },
+  {
+    "start": 1697.28,
+    "duration": 7.6,
+    "text": "Virtues of values, done. Goal setting, done. Buyer's matrix, done. Call scorecards for each"
+  },
+  {
+    "start": 1704.88,
+    "duration": 6.88,
+    "text": "one of our main calls and our different sessions, done. We're right now working through the product"
+  },
+  {
+    "start": 1711.84,
+    "duration": 5.28,
+    "text": "STFW feature by feature and we've already done the problem set. It's already done."
+  },
+  {
+    "start": 1717.68,
+    "duration": 4.8,
+    "text": "And for further context, in these first 90 days, we have already increased close rates by over 38%."
+  },
+  {
+    "start": 1722.48,
+    "duration": 6.8,
+    "text": "Our ACV has gone up by 17% already in these first 90 days. We've broken two revenue records and our"
+  },
+  {
+    "start": 1729.28,
+    "duration": 5.04,
+    "text": "lead to clients already almost doubled. Hell yeah, man."
+  },
+  {
+    "start": 1734.32,
+    "duration": 4.24,
+    "text": "Like this shit works, y'all. You just have to go and do it and it doesn't actually take that much"
+  },
+  {
+    "start": 1738.56,
+    "duration": 4.48,
+    "text": "time. It really doesn't. You just have to block it to do it, but I'm leveraging my team. And what"
+  },
+  {
+    "start": 1743.04,
+    "duration": 4.64,
+    "text": "do you think that's done with my relationship with the team? When I pull nine or 10 of them in and"
+  },
+  {
+    "start": 1747.68,
+    "duration": 5.68,
+    "text": "say, hey, I could use some help with this. So I'll keep going down this path. So I actually learned"
+  },
+  {
+    "start": 1753.36,
+    "duration": 6.0,
+    "text": "this recently from Patrick David. I was at one of his seminars and he said, a leader should never do"
+  },
+  {
+    "start": 1759.36,
+    "duration": 11.28,
+    "text": "anything alone. I was like, whoa. He's like, if you're ever doing something alone, you're missing."
+  },
+  {
+    "start": 1770.64,
+    "duration": 5.92,
+    "text": "So what I created is I said to the team, I was like, here's the main things I'm working on."
+  },
+  {
+    "start": 1776.56,
+    "duration": 5.92,
+    "text": "If anyone here is interested in these things, let me know. And I created these, it's called"
+  },
+  {
+    "start": 1782.48,
+    "duration": 4.56,
+    "text": "Never Alone Slack Channel. So Never Alone Marketing Optimization, Never Alone Scripting, Never Alone"
+  },
+  {
+    "start": 1787.04,
+    "duration": 4.24,
+    "text": "Onboarding, Never Alone. And I've got people in there that I can say, hey, I'm working on this. Could"
+  },
+  {
+    "start": 1791.28,
+    "duration": 5.6,
+    "text": "you help me out? And it builds the relationship, right? So leaders, you shouldn't be building this"
+  },
+  {
+    "start": 1796.88,
+    "duration": 5.76,
+    "text": "by yourself. Go to the team. And if you don't know what the plays need to be, go shadow your best."
+  },
+  {
+    "start": 1803.28,
+    "duration": 5.44,
+    "text": "Go shadow your best. The playbook should be built off of the best practice, not just the practice"
+  },
+  {
+    "start": 1808.72,
+    "duration": 3.84,
+    "text": "practice. Like what's the best practice? And do you even know what the best practice is?"
+  },
+  {
+    "start": 1813.2,
+    "duration": 8.88,
+    "text": "Yeah. How much of a framework are you giving them to sort of fill in the blanks?"
+  },
+  {
+    "start": 1822.88,
+    "duration": 6.4,
+    "text": "Ooh. Okay. Well, actually, this is a two-parter because I'm going to go to the end on the other"
+  },
+  {
+    "start": 1829.28,
+    "duration": 5.2,
+    "text": "side. One of the biggest shifts I've made with onboarding playbooks is they are fill in the blank."
+  },
+  {
+    "start": 1835.44,
+    "duration": 7.12,
+    "text": "Literally. Literally fill in the blank. So the number one problem for the office manager is,"
+  },
+  {
+    "start": 1844.32,
+    "duration": 6.24,
+    "text": "and it's blank, they have to fill it in as they go. So this is a shift I made at my last"
+  },
+  {
+    "start": 1850.56,
+    "duration": 4.16,
+    "text": "one that I'm now doing here because that's going to increase retention. If I just give it to you"
+  },
+  {
+    "start": 1854.72,
+    "duration": 4.32,
+    "text": "and I tell you, right, you just read it. Oh, the number one problem for the restaurant owner is"
+  },
+  {
+    "start": 1859.04,
+    "duration": 4.0,
+    "text": "blank versus the number one problem with the restaurant owner is, and then they have to"
+  },
+  {
+    "start": 1863.04,
+    "duration": 6.24,
+    "text": "fill it in as you're teaching it to them. It increases retention. So I build the playbook"
+  },
+  {
+    "start": 1869.28,
+    "duration": 4.72,
+    "text": "first. And then for my new hires, I blank things out. So as we're teaching it to them,"
+  },
+  {
+    "start": 1874.56,
+    "duration": 4.8,
+    "text": "they can fill it in. Right? So that's the actual literal fill in the blank type setup."
+  },
+  {
+    "start": 1879.36,
+    "duration": 8.16,
+    "text": "But on the flip side for frameworks, right? My goal with frameworks is again, it should make you"
+  },
+  {
+    "start": 1887.52,
+    "duration": 7.28,
+    "text": "good. Like if you follow this, you'll be good at your job. And that is pretty specific. Like"
+  },
+  {
+    "start": 1894.8,
+    "duration": 6.08,
+    "text": "there are certain things college, you know, make a good disco call, you know. So I'm going to"
+  },
+  {
+    "start": 1900.88,
+    "duration": 6.4,
+    "text": "document that. And that is- The question is really like, you want to engage the team"
+  },
+  {
+    "start": 1907.28,
+    "duration": 5.28,
+    "text": "and the process of engaging, you know, you tell a rep, I need your help to build this part of the"
+  },
+  {
+    "start": 1912.56,
+    "duration": 3.84,
+    "text": "playbook. If you give them a lot of white space, they're going to be going sort of all over."
+  },
+  {
+    "start": 1916.4,
+    "duration": 6.8,
+    "text": "So are you saying, this is my rough, this is the- Oh yeah. I show them an example. Like here's"
+  },
+  {
+    "start": 1923.2,
+    "duration": 3.52,
+    "text": "one of the ones I've built. Can you go help me build this out here? Right? So it's all-"
+  },
+  {
+    "start": 1926.72,
+    "duration": 4.96,
+    "text": "You're asking them to fill in the, yeah. Right. Here's what I need for a PIC chart,"
+  },
+  {
+    "start": 1931.68,
+    "duration": 5.92,
+    "text": "right? Prom, what that prom causes, what are the implications of that problem? Here's one that I"
+  },
+  {
+    "start": 1937.6,
+    "duration": 6.72,
+    "text": "did for invoicing. Could you do this for receipt collection? Right? Like it's just always an"
+  },
+  {
+    "start": 1944.32,
+    "duration": 4.8,
+    "text": "example they can follow, but then yeah, then they go and do it. But first a word from our sponsors."
+  },
+  {
+    "start": 1956.0,
+    "duration": 7.2,
+    "text": "Are you coming to GTM 2024 in Austin, Texas? It's going to happen October 14th to 16th."
+  },
+  {
+    "start": 1964.08,
+    "duration": 7.6,
+    "text": "I'm Kim Scott and I wrote Radical Candor and Radical Respect. At GTM 2024, I'm going to be"
+  },
+  {
+    "start": 1971.68,
+    "duration": 6.88,
+    "text": "diving into how you can solicit feedback. It'll give you the opportunity to read minds,"
+  },
+  {
+    "start": 1978.56,
+    "duration": 5.92,
+    "text": "how you can give both praise and criticism, and how you can gauge how what you are saying"
+  },
+  {
+    "start": 1984.48,
+    "duration": 6.24,
+    "text": "is landing and make corrections so that you can have better conversations. Whether you're looking"
+  },
+  {
+    "start": 1990.72,
+    "duration": 6.96,
+    "text": "to improve your relationships at work or improve your results at work, this session will equip you"
+  },
+  {
+    "start": 1997.68,
+    "duration": 6.56,
+    "text": "with the strategies to excel in 2025. So don't wait, get your ticket before they sell out. You"
+  },
+  {
+    "start": 2004.24,
+    "duration": 8.96,
+    "text": "can get it at joinpavilion.com slash GTM 2024. See you in Austin. On the fill in the blanks part of"
+  },
+  {
+    "start": 2013.2,
+    "duration": 6.88,
+    "text": "onboarding, if you're familiar with Bloom's Taxonomy, I'll send you this. It's exactly what"
+  },
+  {
+    "start": 2020.08,
+    "duration": 4.8,
+    "text": "you're talking about. There's certain activities that are going to generate more retention, recall,"
+  },
+  {
+    "start": 2024.88,
+    "duration": 5.28,
+    "text": "and skill development. It's a pyramid just like Maslow's Hierarchy. At the bottom is remember."
+  },
+  {
+    "start": 2031.04,
+    "duration": 4.8,
+    "text": "Give somebody information and ask them to remember. Then it's understand, apply,"
+  },
+  {
+    "start": 2036.88,
+    "duration": 7.28,
+    "text": "create as the top, analyze, create as at the very top. The more you can architect"
+  },
+  {
+    "start": 2045.36,
+    "duration": 5.76,
+    "text": "any skill development exercises to the top of that hierarchy. Here's a framework,"
+  },
+  {
+    "start": 2051.12,
+    "duration": 3.28,
+    "text": "create a new call script. I'm going to basically throw out those call scripts,"
+  },
+  {
+    "start": 2054.4,
+    "duration": 5.76,
+    "text": "but getting somebody to take the principles. I've got a set of cold calling principles,"
+  },
+  {
+    "start": 2060.16,
+    "duration": 4.88,
+    "text": "pattern interrupt, credibility, relevance, intrigue, offer of value. It's like go write"
+  },
+  {
+    "start": 2065.04,
+    "duration": 4.08,
+    "text": "your own call script. I don't want them to use that call script. It's not going to be very good."
+  },
+  {
+    "start": 2069.12,
+    "duration": 5.36,
+    "text": "But the process of creation bakes in. Now I understand, okay, I need a pattern interrupt"
+  },
+  {
+    "start": 2074.48,
+    "duration": 5.68,
+    "text": "to go from system one to system two. The Bloom's Taxonomy thing is really interesting to get your"
+  },
+  {
+    "start": 2080.8,
+    "duration": 6.24,
+    "text": "managers to understand because the hard thing is we've gone through an education system that's all"
+  },
+  {
+    "start": 2087.04,
+    "duration": 5.68,
+    "text": "just remember. Remember and regurgitate, which is the worst form of learning, but it's the thing"
+  },
+  {
+    "start": 2092.72,
+    "duration": 8.4,
+    "text": "that feels natural to us. I'll flip you a couple of things that are in my management development"
+  },
+  {
+    "start": 2101.12,
+    "duration": 10.32,
+    "text": "book. We're going to skip that. Let's get into building and deploying. I want to be mindful of"
+  },
+  {
+    "start": 2111.44,
+    "duration": 10.48,
+    "text": "time here. You've talked about the components of a sales playbook, but there's problems that just"
+  },
+  {
+    "start": 2121.92,
+    "duration": 5.04,
+    "text": "come up in your business. We have a conversion rate issue here. We've got a problem with"
+  },
+  {
+    "start": 2127.6,
+    "duration": 9.36,
+    "text": "employee retention or mishiring. How are you allocating your effort around what playbooks to"
+  },
+  {
+    "start": 2136.96,
+    "duration": 7.52,
+    "text": "build, what problems you're focusing on? Do you have a prioritization framework? Because time is"
+  },
+  {
+    "start": 2144.48,
+    "duration": 6.0,
+    "text": "very limited. We're in the resource allocation business. How do you think about deciding between"
+  },
+  {
+    "start": 2150.48,
+    "duration": 9.28,
+    "text": "what things to work on? I'll say within Selene, I'm looking at what is the impact of it."
+  },
+  {
+    "start": 2164.96,
+    "duration": 5.12,
+    "text": "What is the impact of this problem that I'm trying to solve? The phrase that gets used"
+  },
+  {
+    "start": 2170.08,
+    "duration": 7.6,
+    "text": "often here is volume or volume. Is it a high volume problem meaning it's loud"
+  },
+  {
+    "start": 2178.24,
+    "duration": 6.48,
+    "text": "or is it a high volume problem meaning there's a lot of it? Volume or volume. Too often,"
+  },
+  {
+    "start": 2184.72,
+    "duration": 6.24,
+    "text": "revenue leaders are focusing on loud problems. They're loud, but it's actually only happening"
+  },
+  {
+    "start": 2191.84,
+    "duration": 5.76,
+    "text": "3% of the time, 8% of the time. I'm trying to focus on the high volume problems meaning that"
+  },
+  {
+    "start": 2197.6,
+    "duration": 6.48,
+    "text": "there's a lot. It's happening a lot. That's my first gamut. If I'm looking at where to solve,"
+  },
+  {
+    "start": 2204.96,
+    "duration": 4.88,
+    "text": "it's like, is this a loud problem or is this a high volume problem? There's a lot of it."
+  },
+  {
+    "start": 2210.72,
+    "duration": 4.16,
+    "text": "From there, this is where all the metrics come in. It's like, what metric is it attached to?"
+  },
+  {
+    "start": 2216.4,
+    "duration": 6.72,
+    "text": "What metric is this impacting? I'm maniacal in terms of prioritization. It's like, yeah,"
+  },
+  {
+    "start": 2223.12,
+    "duration": 6.24,
+    "text": "whatever. Show rate might be busted, but what's worse are closed. I'm going to let show rate burn"
+  },
+  {
+    "start": 2229.36,
+    "duration": 4.08,
+    "text": "a little bit. I was just talking to one of my directors. I was like, dude, so much about"
+  },
+  {
+    "start": 2233.44,
+    "duration": 8.56,
+    "text": "leadership is controlled burns. All right, the barn is on fire, but if it's controlled,"
+  },
+  {
+    "start": 2242.0,
+    "duration": 5.92,
+    "text": "I got to go save the house. I got to go save the house first. It always comes back to a metric for"
+  },
+  {
+    "start": 2247.92,
+    "duration": 4.8,
+    "text": "me. It's which metric am I trying to impact to help prioritize where I'm putting resources to"
+  },
+  {
+    "start": 2252.72,
+    "duration": 4.72,
+    "text": "solve the problem? That applies to the playbook too. It's like, okay, what's busted? If I look"
+  },
+  {
+    "start": 2257.44,
+    "duration": 4.4,
+    "text": "at all the metrics, what's the worst one right now? That's where I'm going to start diagnosing"
+  },
+  {
+    "start": 2261.84,
+    "duration": 4.48,
+    "text": "plays. That's where I'm going to start figuring out what needs to be done to solve it. I filter"
+  },
+  {
+    "start": 2266.32,
+    "duration": 3.84,
+    "text": "it through volume and volume, then I connect it to a metric and I go from there."
+  },
+  {
+    "start": 2270.88,
+    "duration": 8.48,
+    "text": "Cool. Then what are you using for inputs? Say it's a playbook you've never had to design before."
+  },
+  {
+    "start": 2280.08,
+    "duration": 4.08,
+    "text": "It's not a sales playbook that you have an existing framework, but say you've inherited"
+  },
+  {
+    "start": 2284.16,
+    "duration": 6.24,
+    "text": "a post-sales team for the first time and you need to go build new sets of things for that team"
+  },
+  {
+    "start": 2290.4,
+    "duration": 7.52,
+    "text": "that you don't have reference points for. How are you balancing between anecdote and data?"
+  },
+  {
+    "start": 2297.92,
+    "duration": 8.0,
+    "text": "Are you participating in calls? Are you relying on the team? What is your fact-finding look like to"
+  },
+  {
+    "start": 2305.92,
+    "duration": 7.12,
+    "text": "start? Use the right word there. It's like I go get my reference points, but I observe."
+  },
+  {
+    "start": 2313.04,
+    "duration": 7.68,
+    "text": "I don't ask. I observe. I don't ask people what they do. I watch what they do because"
+  },
+  {
+    "start": 2320.72,
+    "duration": 3.68,
+    "text": "this happens all the time. You sit down with the top performers. What do you do?"
+  },
+  {
+    "start": 2325.36,
+    "duration": 7.36,
+    "text": "They're like, oh, this is what I do. They don't know. They oftentimes have no idea what it is"
+  },
+  {
+    "start": 2332.72,
+    "duration": 7.28,
+    "text": "they do differently than anybody else. If I was inheriting post-sales, quite literally,"
+  },
+  {
+    "start": 2340.0,
+    "duration": 7.76,
+    "text": "my first step is who's my best person? My first step is who is my best person? Who is the best"
+  },
+  {
+    "start": 2347.76,
+    "duration": 4.8,
+    "text": "post-sale? I'm looking at that both in terms of, say, outcome, but also metrics. It's like,"
+  },
+  {
+    "start": 2352.56,
+    "duration": 5.2,
+    "text": "there's the revenue, but sales leaders, please hear me. Just because someone has the highest"
+  },
+  {
+    "start": 2357.76,
+    "duration": 6.56,
+    "text": "revenue doesn't actually necessarily mean they're your best rep. The metrics are going to help you"
+  },
+  {
+    "start": 2364.32,
+    "duration": 6.4,
+    "text": "actually know who the best rep is. Let's say someone's closing a million a month, but their"
+  },
+  {
+    "start": 2370.72,
+    "duration": 5.84,
+    "text": "close rate's 14%. Someone else is closing 750K a month, but their close rate's 35%."
+  },
+  {
+    "start": 2377.84,
+    "duration": 8.0,
+    "text": "Who's a better rep to build a playbook around? I'm picking that 35% more than I am a 14% to"
+  },
+  {
+    "start": 2385.84,
+    "duration": 6.8,
+    "text": "build the playbook. Back to this, I'm observing. I'm going to watch step by step what it is they"
+  },
+  {
+    "start": 2392.64,
+    "duration": 4.56,
+    "text": "do to find the patterns. I don't know how to talk about it, but this is where Bipsy comes in."
+  },
+  {
+    "start": 2398.16,
+    "duration": 7.68,
+    "text": "It's where Bipsy is. Behaviors, issue diagnosis, process, skill, and you. What are the behaviors"
+  },
+  {
+    "start": 2405.84,
+    "duration": 3.92,
+    "text": "of that top performer? What do they do that's in their control? What are the skills of that"
+  },
+  {
+    "start": 2409.76,
+    "duration": 5.04,
+    "text": "top performer? What is it they do well? What is their process? How do they work through these"
+  },
+  {
+    "start": 2414.8,
+    "duration": 5.12,
+    "text": "things? That's where I'm going to get my reference point. Again, you can learn very quickly,"
+  },
+  {
+    "start": 2419.92,
+    "duration": 5.68,
+    "text": "very quickly on these things, especially in remote. I can have you record your screen. I can"
+  },
+  {
+    "start": 2425.6,
+    "duration": 6.08,
+    "text": "get screen recording played on 2X and watch and document what's occurring there. Then I'm good"
+  },
+  {
+    "start": 2431.68,
+    "duration": 7.28,
+    "text": "to go. There's a concept in psychology called stated versus revealed preference. People will"
+  },
+  {
+    "start": 2438.96,
+    "duration": 8.32,
+    "text": "state that they don't want to eat sweet foods and bad things, but if you observe them, then"
+  },
+  {
+    "start": 2447.28,
+    "duration": 6.88,
+    "text": "it's a totally different set of things occurring. I love your point on observe,"
+  },
+  {
+    "start": 2454.16,
+    "duration": 3.12,
+    "text": "don't ask. I think there's some helpfulness in asking always."
+  },
+  {
+    "start": 2457.28,
+    "duration": 6.88,
+    "text": "To be clear, I'm going to ask, hey, how do you go through this? But I always combine it out"
+  },
+  {
+    "start": 2464.16,
+    "duration": 5.76,
+    "text": "with observation, always, because I can learn through that faster because I can see what's"
+  },
+  {
+    "start": 2469.92,
+    "duration": 7.2,
+    "text": "actually being done. Again, playbook, a documented set of best practices. A practice is something"
+  },
+  {
+    "start": 2477.12,
+    "duration": 8.48,
+    "text": "that is done, not just said. I need to see it done that way. Whether this is controversial or"
+  },
+  {
+    "start": 2485.6,
+    "duration": 6.72,
+    "text": "not, there are times that I go in to do the thing. I'll make some calls. I'll run some deals,"
+  },
+  {
+    "start": 2493.28,
+    "duration": 4.88,
+    "text": "but it's actually rare that that's how I'm going to learn the fastest because that's just me"
+  },
+  {
+    "start": 2498.16,
+    "duration": 5.52,
+    "text": "proving I can do it. It doesn't actually mean I'm learning the best practice because best practice"
+  },
+  {
+    "start": 2503.68,
+    "duration": 8.0,
+    "text": "also doesn't mean I can do it. It means can the majority do it? This is also where playbooks go"
+  },
+  {
+    "start": 2511.68,
+    "duration": 6.48,
+    "text": "wrong sometimes. They're built on this like, well, here's how I would sell. There's stuff you can do,"
+  },
+  {
+    "start": 2518.16,
+    "duration": 5.92,
+    "text": "Kyle, that your average AE cannot do. There's stuff that I can pull off that an average AE"
+  },
+  {
+    "start": 2524.08,
+    "duration": 6.56,
+    "text": "cannot. That does not mean it's the best practice. That's what goes above the playbook. That's where"
+  },
+  {
+    "start": 2530.64,
+    "duration": 5.76,
+    "text": "we get beyond it. But in there, it's like, what can the majority do and do well? That's what it is."
+  },
+  {
+    "start": 2537.6,
+    "duration": 6.72,
+    "text": "And do well by a certain point. There's always this ticking clock. We have to get people ramped"
+  },
+  {
+    "start": 2545.44,
+    "duration": 6.0,
+    "text": "fast. And so I'm trying to teach them the master version of some skill versus the\u2014"
+  },
+  {
+    "start": 2552.56,
+    "duration": 4.8,
+    "text": "It's just silly. It's just silly. I'm already revamping our onboarding here. I was like,"
+  },
+  {
+    "start": 2557.84,
+    "duration": 3.92,
+    "text": "get them on the phones in four days. I know this always fires people up. I'm like, why though?"
+  },
+  {
+    "start": 2562.96,
+    "duration": 4.8,
+    "text": "Why? Why are you getting them on the phone in four days? Well, I get there at bats in."
+  },
+  {
+    "start": 2568.64,
+    "duration": 4.64,
+    "text": "No, that's the game. You're putting them into the game when they're not ready."
+  },
+  {
+    "start": 2573.84,
+    "duration": 3.84,
+    "text": "Why, one, would we burn those leads or deals? But two, what that does to them"
+  },
+  {
+    "start": 2577.68,
+    "duration": 4.16,
+    "text": "mentally, that's getting them on the phones fast. It's not getting them ready fast."
+  },
+  {
+    "start": 2582.56,
+    "duration": 2.96,
+    "text": "The playbook also, if you think about it, those are the answers to the test."
+  },
+  {
+    "start": 2586.48,
+    "duration": 4.48,
+    "text": "They know what good looks like. They know what they're trying to get to, to your point. So that"
+  },
+  {
+    "start": 2590.96,
+    "duration": 4.64,
+    "text": "also speeds up ramp because they know what they're trying to achieve. Here are some examples of good"
+  },
+  {
+    "start": 2595.6,
+    "duration": 4.72,
+    "text": "calls. I wish I was in my home office right now. I could bring up a couple playbooks that I have"
+  },
+  {
+    "start": 2600.32,
+    "duration": 5.04,
+    "text": "in the office. I could show you. We even had specific role play scenarios in the playbook of"
+  },
+  {
+    "start": 2605.36,
+    "duration": 4.48,
+    "text": "here's the scenario. Here's what you're going to practice. Here's what you're trying to achieve."
+  },
+  {
+    "start": 2610.24,
+    "duration": 8.56,
+    "text": "All that in the playbook. Yeah. Yeah. We're piloting and deploying this new tool."
+  },
+  {
+    "start": 2618.8,
+    "duration": 7.76,
+    "text": "It's like an AI role play. It's an AI role play tool, but it's built off of all of our stuff."
+  },
+  {
+    "start": 2626.56,
+    "duration": 5.28,
+    "text": "Yeah, it's it's really all you can put in the chat because I'm using one too right now."
+  },
+  {
+    "start": 2632.8,
+    "duration": 6.16,
+    "text": "It's called ramp systems. Okay. I'm using hyper. Hyper. See, I looked at hyper bound and I"
+  },
+  {
+    "start": 2639.44,
+    "duration": 6.8,
+    "text": "was, I didn't know how custom I could get it to my environment, but I've given ramp calls,"
+  },
+  {
+    "start": 2646.88,
+    "duration": 8.32,
+    "text": "playbooks, scorecarding, a bunch of stuff and it was like sort of scary accurate. And so we're"
+  },
+  {
+    "start": 2655.2,
+    "duration": 6.88,
+    "text": "now trying to, this, this idea of practice field playing field, uh, getting, giving reps"
+  },
+  {
+    "start": 2662.08,
+    "duration": 5.04,
+    "text": "an opportunity to just do way more practice reps. I have this, this concept of called isolation"
+  },
+  {
+    "start": 2667.12,
+    "duration": 6.56,
+    "text": "drilling and a lot of it's from talent code. So, uh, progressive resistance, the 60, 80% learning"
+  },
+  {
+    "start": 2673.68,
+    "duration": 6.48,
+    "text": "zone. Like I, I want to be pretty prescriptive about how, um, mock calls and practice is done,"
+  },
+  {
+    "start": 2680.16,
+    "duration": 6.4,
+    "text": "but reps don't want to do it. Managers, I'm managers don't like doing role play either. I'm,"
+  },
+  {
+    "start": 2686.56,
+    "duration": 6.8,
+    "text": "I'm willing to bet that is the case for 90% of people. And so by using a tool to give people,"
+  },
+  {
+    "start": 2693.36,
+    "duration": 6.0,
+    "text": "Hey, like I need you to do an hour of handling knee jerks and over the course of a couple of days,"
+  },
+  {
+    "start": 2700.0,
+    "duration": 5.2,
+    "text": "I need you to do an hour of dealing with late call objections or asking for the business."
+  },
+  {
+    "start": 2705.2,
+    "duration": 5.2,
+    "text": "And so I think there's a lot of opportunity to extend. We are in the like four, four days,"
+  },
+  {
+    "start": 2710.4,
+    "duration": 8.0,
+    "text": "get people on the phones, uh, camp right now. But, um, that's a lot because of the speed our"
+  },
+  {
+    "start": 2718.4,
+    "duration": 4.8,
+    "text": "business is moving at, but I don't actually think it's the, the right thing from an outcomes"
+  },
+  {
+    "start": 2723.2,
+    "duration": 8.72,
+    "text": "perspective. And so hopefully with, uh, tooling in place, I can extend that, give people more"
+  },
+  {
+    "start": 2731.92,
+    "duration": 4.56,
+    "text": "practice and training and have them more prepared. Yeah. Yeah. We're doing the same"
+  },
+  {
+    "start": 2736.48,
+    "duration": 5.12,
+    "text": "thing with hyper bound. My team practices every single day now, every day, entire team, every day"
+  },
+  {
+    "start": 2741.6,
+    "duration": 4.32,
+    "text": "they are in there. They're my new reps. I mean, they will literally be practicing for three to"
+  },
+  {
+    "start": 2745.92,
+    "duration": 4.88,
+    "text": "four hours a day. And that's how I build my onboarding by the way, right. Is my, when I look"
+  },
+  {
+    "start": 2750.8,
+    "duration": 4.96,
+    "text": "at onboard, I'm like, how fast can I get you ready? How fast can I get you on? Right. So you're"
+  },
+  {
+    "start": 2755.76,
+    "duration": 4.32,
+    "text": "practicing for three to four hours a day, even when you have people, right. Because the beauty"
+  },
+  {
+    "start": 2760.08,
+    "duration": 5.36,
+    "text": "is if you have a team in place, right? Like that's literally, they would spend 30 minutes"
+  },
+  {
+    "start": 2765.44,
+    "duration": 3.52,
+    "text": "with a rep or a manager, the last three to four hours of each and every day,"
+  },
+  {
+    "start": 2769.84,
+    "duration": 3.2,
+    "text": "practicing the intro. They just spent 30 minutes with you, practicing the intro."
+  },
+  {
+    "start": 2773.68,
+    "duration": 3.12,
+    "text": "Then they're going to go with someone else and practice the intro. And then it goes to someone"
+  },
+  {
+    "start": 2776.8,
+    "duration": 4.32,
+    "text": "else to practice the intro. But there, by the time they're on the phones, they are ready. Like"
+  },
+  {
+    "start": 2781.12,
+    "duration": 3.28,
+    "text": "I have this weird idea that if you can't do it in practice, I know you can't do it in the game."
+  },
+  {
+    "start": 2785.2,
+    "duration": 4.08,
+    "text": "Right. It's like, why would I put someone in the game when I know they can't do the thing?"
+  },
+  {
+    "start": 2790.16,
+    "duration": 3.52,
+    "text": "Man, I'm controversial, right? This is why they pay me the big bucks. It's like,"
+  },
+  {
+    "start": 2793.68,
+    "duration": 3.04,
+    "text": "why would I do it in the game when they can't do it in practice? But"
+  },
+  {
+    "start": 2796.72,
+    "duration": 3.28,
+    "text": "the tooling now makes it so much easier. I love it. I absolutely love it."
+  },
+  {
+    "start": 2800.0,
+    "duration": 4.16,
+    "text": "Yeah. We'll have to swap notes on these tools. I looked at a few."
+  },
+  {
+    "start": 2806.32,
+    "duration": 3.36,
+    "text": "So do you have a hard stop at the top of the hour, by the way?"
+  },
+  {
+    "start": 2809.84,
+    "duration": 1.28,
+    "text": "I can go a little bit over."
+  },
+  {
+    "start": 2812.0,
+    "duration": 7.04,
+    "text": "Okay. Let's talk about operationalizing a playbook. I think this is the thing that potentially leaders"
+  },
+  {
+    "start": 2819.04,
+    "duration": 6.64,
+    "text": "have the hardest challenge with. I've built a playbook and now nobody's using it. And we've"
+  },
+  {
+    "start": 2825.68,
+    "duration": 3.44,
+    "text": "talked about one of the problems, which is like, maybe the playbook's not all that good."
+  },
+  {
+    "start": 2829.92,
+    "duration": 5.92,
+    "text": "And for me, that's about trust building. You have to build enough trust that people can bring you"
+  },
+  {
+    "start": 2835.92,
+    "duration": 4.4,
+    "text": "problems like, hey, this part of the playbook's no good. And that's like a psychological safety"
+  },
+  {
+    "start": 2840.32,
+    "duration": 7.6,
+    "text": "thing. So let's just say that the playbook is good for this question. How do you operationalize it?"
+  },
+  {
+    "start": 2847.92,
+    "duration": 6.48,
+    "text": "So I've built something new. Let's say we're changing BDR scripting, which I'm imagining"
+  },
+  {
+    "start": 2854.4,
+    "duration": 6.16,
+    "text": "you've done recently. How do you think about deploying this, getting adherence, measuring,"
+  },
+  {
+    "start": 2860.56,
+    "duration": 1.76,
+    "text": "what's your process there for that?"
+  },
+  {
+    "start": 2862.32,
+    "duration": 4.64,
+    "text": "So it's a few places. So one, funny enough, first and foremost, it's through practice."
+  },
+  {
+    "start": 2868.48,
+    "duration": 5.84,
+    "text": "Leaders, hear me out here. A playbook is meant to be practiced, not read. You don't read a playbook."
+  },
+  {
+    "start": 2875.28,
+    "duration": 5.44,
+    "text": "You don't go to football practice and read it. You practice the plays. So this is the first place"
+  },
+  {
+    "start": 2880.72,
+    "duration": 5.28,
+    "text": "that most orgs miss is they're not practicing the plays. They wrote it down and it's there,"
+  },
+  {
+    "start": 2886.0,
+    "duration": 4.4,
+    "text": "but they're not practicing it. So you have to be able to read it. You have to be able to practice"
+  },
+  {
+    "start": 2891.36,
+    "duration": 13.68,
+    "text": "it until they can do it. Give a frame of reference. So you're deploying a new BDR script"
+  },
+  {
+    "start": 2905.84,
+    "duration": 6.0,
+    "text": "on Monday. What's the volume of practice that you're likely having them do to get that?"
+  },
+  {
+    "start": 2912.96,
+    "duration": 2.4,
+    "text": "If it's scripting, 30 minutes a day."
+  },
+  {
+    "start": 2921.28,
+    "duration": 2.96,
+    "text": "Okay. So playbooks need to be practiced. That's one part of deployment."
+  },
+  {
+    "start": 2925.6,
+    "duration": 4.08,
+    "text": "Second is they need to be referenced, meaning send your people to the playbook."
+  },
+  {
+    "start": 2930.8,
+    "duration": 4.16,
+    "text": "Send them to the playbook. If you're getting asked questions about things that you know are"
+  },
+  {
+    "start": 2934.96,
+    "duration": 6.64,
+    "text": "in the playbook, send them to the playbook. Too often as leaders, what do we do? We just"
+  },
+  {
+    "start": 2942.16,
+    "duration": 5.76,
+    "text": "answer it. Hey, Kyle, I keep getting this not interested objection. What should I do?"
+  },
+  {
+    "start": 2948.4,
+    "duration": 5.2,
+    "text": "We put our super coach cap on and we say, oh, let me teach you. Hey, actually jump into the"
+  },
+  {
+    "start": 2953.6,
+    "duration": 3.44,
+    "text": "playbook real quick. I think it's like page 13. Give that a read and then we can talk about it."
+  },
+  {
+    "start": 2958.56,
+    "duration": 5.04,
+    "text": "So you reference them to the playbook. That's the next step is you need to be bringing it up"
+  },
+  {
+    "start": 2964.32,
+    "duration": 5.6,
+    "text": "often. Third, we use the playbook in our trainings and coaching sessions."
+  },
+  {
+    "start": 2969.92,
+    "duration": 3.2,
+    "text": "Where are the scorecards? They're in the playbook. Where are the persona guides?"
+  },
+  {
+    "start": 2973.12,
+    "duration": 5.52,
+    "text": "They're in the playbook. It's there. So we actually bring them into the sessions that we are"
+  },
+  {
+    "start": 2979.36,
+    "duration": 4.72,
+    "text": "running. But the truth of the last one I'll say in terms of deployment to get it to stick is"
+  },
+  {
+    "start": 2984.08,
+    "duration": 7.04,
+    "text": "the updating of it. If you are bringing it back up and updating it with new information,"
+  },
+  {
+    "start": 2991.76,
+    "duration": 6.64,
+    "text": "that also keeps the team engaged with it. Whereas this is the new plays that we're supposed to be"
+  },
+  {
+    "start": 2998.96,
+    "duration": 5.36,
+    "text": "running. So consistently updating it also keeps the engagement and deployment high because they're"
+  },
+  {
+    "start": 3004.32,
+    "duration": 5.68,
+    "text": "seeing it more often. In my one-on-one docs, there's a link to the playbook right there in"
+  },
+  {
+    "start": 3010.0,
+    "duration": 4.48,
+    "text": "the one-on-one doc. And there's a link to the playbook right in there. People can go and"
+  },
+  {
+    "start": 3014.48,
+    "duration": 3.68,
+    "text": "reference it. So those are the biggest things I would say. You practice it. You reference it."
+  },
+  {
+    "start": 3018.16,
+    "duration": 5.84,
+    "text": "You send people to it. You bring it up often and use it in places and then you keep updating it"
+  },
+  {
+    "start": 3024.0,
+    "duration": 5.84,
+    "text": "because that keeps it top of mind. Whereas too often a playbook... I joined finally and I was"
+  },
+  {
+    "start": 3029.84,
+    "duration": 4.64,
+    "text": "like, send me the sales playbook and they sent it to me. And I pull up that version history and I"
+  },
+  {
+    "start": 3034.48,
+    "duration": 6.08,
+    "text": "know exactly when the last time that thing was updated, which means I know exactly the last time"
+  },
+  {
+    "start": 3040.56,
+    "duration": 7.2,
+    "text": "anybody even looked at that thing. Got to bring it up more often. And how frequently are you"
+  },
+  {
+    "start": 3047.76,
+    "duration": 3.28,
+    "text": "updating things, would you say? Whenever I learn something new."
+  },
+  {
+    "start": 3054.72,
+    "duration": 6.24,
+    "text": "If I learned something new, I'm updating the playbook and then I'm sharing that information"
+  },
+  {
+    "start": 3060.96,
+    "duration": 8.08,
+    "text": "with the team. So this is something where we do the quarterly wiggle. So every quarter,"
+  },
+  {
+    "start": 3069.04,
+    "duration": 3.76,
+    "text": "it's called studying greatness is the name of the exercise. So every quarter,"
+  },
+  {
+    "start": 3072.8,
+    "duration": 7.28,
+    "text": "I assign to my managers either a metric or a process. So Kyle, you've got ACV. Jenny,"
+  },
+  {
+    "start": 3080.08,
+    "duration": 7.28,
+    "text": "you've got close rate. And it's that person's job to identify who has the highest of that metric or"
+  },
+  {
+    "start": 3087.36,
+    "duration": 6.64,
+    "text": "who performs at the best and to study them. What can we learn about their process? What's the"
+  },
+  {
+    "start": 3094.0,
+    "duration": 8.24,
+    "text": "BIPC for Kyle on close rate? Why do we believe he's closing at 34% when everyone else is at 19%?"
+  },
+  {
+    "start": 3102.96,
+    "duration": 4.48,
+    "text": "So every quarter, there's an intentional exercise with my leadership team of,"
+  },
+  {
+    "start": 3107.44,
+    "duration": 6.8,
+    "text": "can we understand greatness? And almost every time we learn something new that that person is doing"
+  },
+  {
+    "start": 3114.24,
+    "duration": 5.04,
+    "text": "that goes into the playbook and now full circle back, they were updating the playbook based off"
+  },
+  {
+    "start": 3119.28,
+    "duration": 6.48,
+    "text": "best practices from the team, which also gets buy-in. Hey, y'all, we're changing how we're"
+  },
+  {
+    "start": 3125.76,
+    "duration": 5.68,
+    "text": "doing pricing because Julia has a higher ACV than everybody else. And we figured out why"
+  },
+  {
+    "start": 3132.16,
+    "duration": 5.84,
+    "text": "she presents pricing like this. This is how I want us to work on this. Now, playbook is updated,"
+  },
+  {
+    "start": 3138.0,
+    "duration": 5.92,
+    "text": "scorecard is updated, practices run over the next three to four weeks to get it down. Cycle continues."
+  },
+  {
+    "start": 3144.64,
+    "duration": 7.44,
+    "text": "Hmm. And so you've got an operating cadence for playbook development. So you've got a quarterly"
+  },
+  {
+    "start": 3152.08,
+    "duration": 5.04,
+    "text": "wiggle. So that's every manager is going to go study one sort of skill or outcome."
+  },
+  {
+    "start": 3157.76,
+    "duration": 6.16,
+    "text": "Yep. Are there any other operating rhythms that you have in place for playbook development,"
+  },
+  {
+    "start": 3163.92,
+    "duration": 5.12,
+    "text": "updating, monitoring? So the development, that's the weekly wiggle that I'm doing right now"
+  },
+  {
+    "start": 3169.76,
+    "duration": 4.72,
+    "text": "with my managers is we're getting together every, the weekly wiggle, that one hour to build, right?"
+  },
+  {
+    "start": 3174.48,
+    "duration": 4.96,
+    "text": "Here's what we're focused on. Actually, there's a doc. I mean, I don't know if this is a, are we"
+  },
+  {
+    "start": 3179.44,
+    "duration": 4.72,
+    "text": "doing any video on this or video? All right. I can, I can pull this up here real quick."
+  },
+  {
+    "start": 3185.36,
+    "duration": 1.92,
+    "text": "I'll share this real quick so people can see."
+  },
+  {
+    "start": 3190.32,
+    "duration": 8.48,
+    "text": "Where did it go? There we go. So one of the first docs that I built for my leadership team is"
+  },
+  {
+    "start": 3198.8,
+    "duration": 4.4,
+    "text": "project code name, the wiggle. What do we need to establish the wiggle for? Lead handling,"
+  },
+  {
+    "start": 3203.2,
+    "duration": 4.72,
+    "text": "need targeting, cold storage, social stuff. These are all the things that we have to establish the"
+  },
+  {
+    "start": 3207.92,
+    "duration": 5.12,
+    "text": "wiggle for. What are the steps of that? The diagnosis. Okay. Who's the best at this? Can"
+  },
+  {
+    "start": 3213.04,
+    "duration": 4.4,
+    "text": "we define once it's been diagnosed, we have to document it, demonstrate it. So we're literally"
+  },
+  {
+    "start": 3217.44,
+    "duration": 7.76,
+    "text": "week by week picking the wiggle, working on it for an hour, right? So like, this is like that"
+  },
+  {
+    "start": 3225.2,
+    "duration": 3.84,
+    "text": "process that we're going through, but it's blocked on the calendar. We get together."
+  },
+  {
+    "start": 3229.6,
+    "duration": 6.08,
+    "text": "We know what one we're working on. Cause also I think you have three different teams. So the wiggle"
+  },
+  {
+    "start": 3235.68,
+    "duration": 5.28,
+    "text": "for disco for this team is different than the wiggle for disco on this team. And I need that"
+  },
+  {
+    "start": 3240.96,
+    "duration": 4.24,
+    "text": "separated, right? But we're coming together to work on it at the same time, just to make sure it"
+  },
+  {
+    "start": 3245.2,
+    "duration": 6.16,
+    "text": "gets done because too often people think this takes way longer than it does, right? You know,"
+  },
+  {
+    "start": 3251.36,
+    "duration": 4.0,
+    "text": "this stuff, right? Anyone watching, like, you know what, what good looks like for this"
+  },
+  {
+    "start": 3255.36,
+    "duration": 6.24,
+    "text": "and get it out of your head, put it on paper. Yeah. And that process is that in your new course,"
+  },
+  {
+    "start": 3262.96,
+    "duration": 4.08,
+    "text": "the how to build, like how to build a sales playbook is in there. Yep. How to scale greatness."
+  },
+  {
+    "start": 3267.04,
+    "duration": 10.24,
+    "text": "It's in there. Cool. Nice. Um, I am a strong supporter of the KD content. Uh, there's so much,"
+  },
+  {
+    "start": 3277.28,
+    "duration": 4.72,
+    "text": "there's so much bad stuff out there right now. I'll go on the record as putting my name behind"
+  },
+  {
+    "start": 3282.0,
+    "duration": 6.88,
+    "text": "your stuff. Uh, one of my reps, one of my managers did, I don't know what of your courses, but,"
+  },
+  {
+    "start": 3288.88,
+    "duration": 6.08,
+    "text": "uh, a lot of that's where I borrowed your, um, end of week miracle or whatever you call it."
+  },
+  {
+    "start": 3294.96,
+    "duration": 5.52,
+    "text": "Yep. Yeah. We, we, so we have our own version of that now, but, but that was a really valuable"
+  },
+  {
+    "start": 3300.48,
+    "duration": 4.16,
+    "text": "course for him. I looked at a bunch of content, right? I mean, I, I read a bunch of urine,"
+  },
+  {
+    "start": 3304.64,
+    "duration": 5.6,
+    "text": "Jake Dunlop stuff, which I liked. So, uh, there is a world of crap content out there,"
+  },
+  {
+    "start": 3310.24,
+    "duration": 5.68,
+    "text": "but folks should definitely, if you're a newer VP of sales, even experienced VPs of sales,"
+  },
+  {
+    "start": 3315.92,
+    "duration": 5.04,
+    "text": "like you can accelerate yourself fast with borrowing some of these concepts."
+  },
+  {
+    "start": 3321.68,
+    "duration": 5.92,
+    "text": "Hell yeah. Okay. Last, last question, measurement. So how do you measure whether or not a playbook"
+  },
+  {
+    "start": 3327.6,
+    "duration": 5.28,
+    "text": "is actually being adhered to? Um, so it depends on like what part of the playbook, right? But"
+  },
+  {
+    "start": 3332.88,
+    "duration": 4.48,
+    "text": "like, let's say like scripting while measuring that in the call recordings and the transcripts,"
+  },
+  {
+    "start": 3337.36,
+    "duration": 3.44,
+    "text": "like I know whether or not that's occurring. That's what I call it."
+  },
+  {
+    "start": 3340.8,
+    "duration": 6.0,
+    "text": "Manual by the managers and are they like filling a, doing a checklist? Are they scorecarding?"
+  },
+  {
+    "start": 3346.8,
+    "duration": 3.6,
+    "text": "Like what's, what's the. Yeah. So that, I mean, that shows up in their one-on-ones,"
+  },
+  {
+    "start": 3350.4,
+    "duration": 4.56,
+    "text": "right? So in the one-on-one process, which is also documented of like, here's how we run a"
+  },
+  {
+    "start": 3354.96,
+    "duration": 4.08,
+    "text": "one-on-one. We have our one-on-one doc that's updated, like in there is like, okay, here's"
+  },
+  {
+    "start": 3359.04,
+    "duration": 3.92,
+    "text": "what we're working on with the reps. So the manager one-on-one doc for me is, you know,"
+  },
+  {
+    "start": 3362.96,
+    "duration": 4.4,
+    "text": "there's team performance, but where we spend most of our time is rep by rep. What's the number one"
+  },
+  {
+    "start": 3367.36,
+    "duration": 5.6,
+    "text": "metric. What's the issue diagnosis. What's the coaching plan for it. That's where we spend most"
+  },
+  {
+    "start": 3372.96,
+    "duration": 5.28,
+    "text": "of our time in the manager one-on-ones. And so that's where I'm learning what is happening or"
+  },
+  {
+    "start": 3378.24,
+    "duration": 4.08,
+    "text": "what is not happening. And then the managers obviously run their one-on-ones with their reps,"
+  },
+  {
+    "start": 3382.32,
+    "duration": 4.0,
+    "text": "same idea. It's the number one metric we're focused on. What's our process to improve it,"
+  },
+  {
+    "start": 3386.32,
+    "duration": 4.32,
+    "text": "where we focus coaching wise. So that's my first measurement is within the one-on-one"
+  },
+  {
+    "start": 3391.2,
+    "duration": 7.44,
+    "text": "process, but more often than not, the easiest measurement is, is the metric where I want it to"
+  },
+  {
+    "start": 3398.64,
+    "duration": 8.08,
+    "text": "be. The metric is where I want it to be. Then I can have a strong assumption that the play is being"
+  },
+  {
+    "start": 3406.72,
+    "duration": 5.6,
+    "text": "run. If someone is below, right. If someone, let's say like one of my reps right now,"
+  },
+  {
+    "start": 3412.32,
+    "duration": 6.72,
+    "text": "I have a show rate of like 47%. What do I already know, Kyle? Like I can guarantee"
+  },
+  {
+    "start": 3420.32,
+    "duration": 6.08,
+    "text": "they're not running the plays they're supposed to run when it comes to show rate. And that's also,"
+  },
+  {
+    "start": 3426.4,
+    "duration": 4.24,
+    "text": "you know, this is in the playbook, but I don't know if we call it a playbook. That's where the"
+  },
+  {
+    "start": 3430.64,
+    "duration": 6.24,
+    "text": "issue diagnosis checklist comes in. So I have an issue diagnosis checklist for every key metric in"
+  },
+  {
+    "start": 3436.88,
+    "duration": 7.76,
+    "text": "my org. So if someone has a low show rate, this is what you look for. How far are they booking the"
+  },
+  {
+    "start": 3444.64,
+    "duration": 3.44,
+    "text": "meeting? Are they getting the calendar invite accepted? Do the calendar reminders have a"
+  },
+  {
+    "start": 3448.08,
+    "duration": 4.96,
+    "text": "problem-based language in them? Who are they booking with? Did they establish a problem on"
+  },
+  {
+    "start": 3453.04,
+    "duration": 4.88,
+    "text": "the cold call? Did they sell the AE? Did they sell the meeting? There's like three other things."
+  },
+  {
+    "start": 3458.96,
+    "duration": 4.64,
+    "text": "What do you think the odds are someone's doing all of that and they're not having a good show rate?"
+  },
+  {
+    "start": 3463.6,
+    "duration": 1.92,
+    "text": "Slim's at absolutely zero."
+  },
+  {
+    "start": 3465.52,
+    "duration": 4.4,
+    "text": "Absolutely zero, unless they're completely cheating the system somehow, right? If they're"
+  },
+  {
+    "start": 3469.92,
+    "duration": 4.72,
+    "text": "just booking fake meetings, well then show rate is going to be down. Like you've become un-gameable."
+  },
+  {
+    "start": 3474.64,
+    "duration": 5.68,
+    "text": "So that's the checklist, right? So number one metric, issue diagnosis, coaching plan. And again,"
+  },
+  {
+    "start": 3480.32,
+    "duration": 3.6,
+    "text": "that's fast. I can very quickly figure out like, oh shoot, they're booking them out two weeks from"
+  },
+  {
+    "start": 3483.92,
+    "duration": 8.08,
+    "text": "now. Cool. Well, that's awesome. All right. We're coming up on time. So I want to get into a quick"
+  },
+  {
+    "start": 3492.0,
+    "duration": 8.8,
+    "text": "fire. What do you wish you knew as a new leader that you only came to understand sort of many"
+  },
+  {
+    "start": 3500.8,
+    "duration": 4.88,
+    "text": "years into it? If you could go back and give yourself one piece of advice as like a new"
+  },
+  {
+    "start": 3505.68,
+    "duration": 6.4,
+    "text": "people leader, a new second line leader. One piece of advice?"
+  },
+  {
+    "start": 3512.8,
+    "duration": 3.04,
+    "text": "One and one only."
+  },
+  {
+    "start": 3519.2,
+    "duration": 3.52,
+    "text": "All right. Can I do two fast or just one? Okay, fine."
+  },
+  {
+    "start": 3523.36,
+    "duration": 5.28,
+    "text": "All right, two fast. Because one's tactical, one's theoretical. The theoretical thing I would"
+  },
+  {
+    "start": 3528.64,
+    "duration": 7.28,
+    "text": "have said to my younger self is you don't turn people into you. Like you can't turn them into"
+  },
+  {
+    "start": 3535.92,
+    "duration": 4.16,
+    "text": "you, right? Your job is to make them better. And early on in my leadership life, I was trying to"
+  },
+  {
+    "start": 3540.08,
+    "duration": 6.24,
+    "text": "make everybody like me, work like me, sell like me. That's not what true leadership is. Your goal"
+  },
+  {
+    "start": 3546.32,
+    "duration": 4.0,
+    "text": "is not to make people like you, your goal is to make them better. That's on the theological"
+  },
+  {
+    "start": 3551.04,
+    "duration": 8.48,
+    "text": "side of this. Tactical side is document the wiggle. So much of the wiggle lives in our head"
+  },
+  {
+    "start": 3560.24,
+    "duration": 4.72,
+    "text": "and we wonder why we can't scale or why we're the bottleneck or why we have to get involved in"
+  },
+  {
+    "start": 3564.96,
+    "duration": 3.84,
+    "text": "everything. It's because the wiggle's in between our ears. We never documented it."
+  },
+  {
+    "start": 3569.92,
+    "duration": 5.84,
+    "text": "And I think I learned documentation earlier than most. I wish I had learned it way earlier of like,"
+  },
+  {
+    "start": 3575.76,
+    "duration": 3.6,
+    "text": "this is what good looks like, document it. This is what good looks like, document it. And then"
+  },
+  {
+    "start": 3579.36,
+    "duration": 4.16,
+    "text": "update the documents. That would be my number two. So one, don't try to make people you."
+  },
+  {
+    "start": 3583.52,
+    "duration": 4.0,
+    "text": "Two, document the wiggle. That would have changed my leadership life immensely."
+  },
+  {
+    "start": 3588.4,
+    "duration": 4.48,
+    "text": "Very cool. Not in the rapid fire, but how much time"
+  },
+  {
+    "start": 3592.88,
+    "duration": 4.64,
+    "text": "a week do you think leaders should be spending on documenting the wiggle and playbooking?"
+  },
+  {
+    "start": 3599.2,
+    "duration": 4.08,
+    "text": "I mean, it depends on if you have it or not. Like once it's built, it's actually not a lot of"
+  },
+  {
+    "start": 3604.0,
+    "duration": 2.48,
+    "text": "time, right? If you're..."
+  },
+  {
+    "start": 3606.48,
+    "duration": 1.92,
+    "text": "So say they don't have much, because I think that's..."
+  },
+  {
+    "start": 3608.4,
+    "duration": 4.96,
+    "text": "They don't have much. I will throw a question back to the audience first, which is,"
+  },
+  {
+    "start": 3614.16,
+    "duration": 4.0,
+    "text": "how valuable do you think it would be to have your best practices documented for your org?"
+  },
+  {
+    "start": 3619.36,
+    "duration": 5.04,
+    "text": "And the moment you answer that question, it should tell you how much time it's worth to do."
+  },
+  {
+    "start": 3624.4,
+    "duration": 3.92,
+    "text": "So my recommendation, I think you and I have talked about this in the back. I love something"
+  },
+  {
+    "start": 3628.32,
+    "duration": 4.08,
+    "text": "called a dark week. Sales leaders, this is going to give you nightmares, but it's going to change"
+  },
+  {
+    "start": 3632.4,
+    "duration": 7.68,
+    "text": "your life. So a dark week is a week off of work to work on work. So you're not in meetings, you're"
+  },
+  {
+    "start": 3640.08,
+    "duration": 4.48,
+    "text": "not in the office, you're not in Slack, you're not in emails. It's like you're on vacation,"
+  },
+  {
+    "start": 3644.56,
+    "duration": 7.2,
+    "text": "but it's an entire week dedicated to working on your org. I leave a dark week more energized than"
+  },
+  {
+    "start": 3651.76,
+    "duration": 8.08,
+    "text": "any vacation I ever take anything, because you get shit done, right? If you did a one dark week,"
+  },
+  {
+    "start": 3659.84,
+    "duration": 5.28,
+    "text": "you'd have all this done. One dark week, you'd have literally all of it done. That's when I build"
+  },
+  {
+    "start": 3665.12,
+    "duration": 4.96,
+    "text": "out scorecards. That's when I do observation and studying of things, going through transcripts,"
+  },
+  {
+    "start": 3670.08,
+    "duration": 4.08,
+    "text": "documenting. But if you can't, and also you're like, well, I can't take a dark week, then that's"
+  },
+  {
+    "start": 3674.16,
+    "duration": 3.44,
+    "text": "exactly why you should. Because if you think you've been gone for a week, it's going to break"
+  },
+  {
+    "start": 3677.6,
+    "duration": 4.8,
+    "text": "your org, your org is not set up the right way. That should actually be your signal. You're the"
+  },
+  {
+    "start": 3682.4,
+    "duration": 6.08,
+    "text": "bottleneck. That if you aren't there, shit falls apart. That means you don't have your best"
+  },
+  {
+    "start": 3688.48,
+    "duration": 4.8,
+    "text": "practices in place and you don't have a leadership system in place to run it. So dark week, you just"
+  },
+  {
+    "start": 3693.28,
+    "duration": 4.96,
+    "text": "knock it out. But if not, at least three hours a week, three hours a week, 90 minute sessions"
+  },
+  {
+    "start": 3698.24,
+    "duration": 3.28,
+    "text": "per week until this is all done. It'll take you about a month and a half at most."
+  },
+  {
+    "start": 3702.32,
+    "duration": 8.24,
+    "text": "Cool. Nice. What's the most common advice you give to your new leaders or mentees?"
+  },
+  {
+    "start": 3712.08,
+    "duration": 5.2,
+    "text": "The most common advice is funny. The one you're just repeating yourself constantly on."
+  },
+  {
+    "start": 3717.28,
+    "duration": 2.88,
+    "text": "I am not you. You are not me. We are not them. They are not us."
+  },
+  {
+    "start": 3722.48,
+    "duration": 4.4,
+    "text": "I am not you. You are not me. We are not them. They are not us. And it's a constant reminder"
+  },
+  {
+    "start": 3726.88,
+    "duration": 6.72,
+    "text": "of we cannot just lead the way that we like to be led. And we cannot expect them to think the"
+  },
+  {
+    "start": 3733.6,
+    "duration": 4.88,
+    "text": "way that we think or to operate the way that we operate. I am not you. You are not me. We are not"
+  },
+  {
+    "start": 3738.48,
+    "duration": 4.16,
+    "text": "them. They are not us. That's my number one, always. Because too often, it's like, oh, they're"
+  },
+  {
+    "start": 3743.36,
+    "duration": 5.36,
+    "text": "not doing this. They're not doing that. It's like, okay, but they are not us. It does not matter how"
+  },
+  {
+    "start": 3748.72,
+    "duration": 3.76,
+    "text": "you sold or how we did things. That's why you're a CRO. You're better and you're different. There's"
+  },
+  {
+    "start": 3752.48,
+    "duration": 4.24,
+    "text": "nothing wrong with that, but you're better and you're different. The rest need a certain type"
+  },
+  {
+    "start": 3756.72,
+    "duration": 4.32,
+    "text": "of calms to come through. That's probably my most common, far and away the most common."
+  },
+  {
+    "start": 3761.04,
+    "duration": 4.72,
+    "text": "Second would be like, what's the cause? Do you know what's the cause? The result,"
+  },
+  {
+    "start": 3766.4,
+    "duration": 4.64,
+    "text": "both good or bad. Do you know what's the cause? Bad result? You can't just tell me the result's"
+  },
+  {
+    "start": 3771.04,
+    "duration": 2.96,
+    "text": "bad. What's causing it? Or do you know what's causing the good result, which is actually where"
+  },
+  {
+    "start": 3774.0,
+    "duration": 4.8,
+    "text": "most sales leaders miss. They don't know what causes the good. So we have a phrase, if you"
+  },
+  {
+    "start": 3778.8,
+    "duration": 5.68,
+    "text": "can't explain it, you can't claim it. If you can't explain why your team did well, you can't claim"
+  },
+  {
+    "start": 3784.48,
+    "duration": 8.64,
+    "text": "that success. You need to be able to explain. My management team likes to tease me. They'll"
+  },
+  {
+    "start": 3793.12,
+    "duration": 4.88,
+    "text": "quote me and say, what drove this? Because I'm constantly saying, somebody brings me something,"
+  },
+  {
+    "start": 3798.0,
+    "duration": 5.04,
+    "text": "oh, this awesome thing happened this week. And they know I'm going to respond, what drove this?"
+  },
+  {
+    "start": 3803.6,
+    "duration": 2.96,
+    "text": "Because I'm always obsessed with trying to figure out what's under."
+  },
+  {
+    "start": 3806.56,
+    "duration": 4.72,
+    "text": "Okay. Last two questions. What's the hardest lesson you've had to learn?"
+  },
+  {
+    "start": 3814.64,
+    "duration": 8.4,
+    "text": "Releasing control. As a seller, you control your destiny. You control your output. You control"
+  },
+  {
+    "start": 3823.04,
+    "duration": 5.52,
+    "text": "oftentimes how much you produce. As a leader, as much as you think you're in control, you actually"
+  },
+  {
+    "start": 3828.56,
+    "duration": 6.24,
+    "text": "have less control. You can't control things as a leader. You can put systems and process in place,"
+  },
+  {
+    "start": 3834.8,
+    "duration": 6.72,
+    "text": "but releasing control, one of the biggest lessons, for sure. It just doesn't always work out."
+  },
+  {
+    "start": 3843.52,
+    "duration": 4.72,
+    "text": "Sometimes it's just not a good fit. Sometimes it's just not the right place for you. That's a hard"
+  },
+  {
+    "start": 3848.24,
+    "duration": 5.84,
+    "text": "lesson because our egos get in the way. Our heads get in the way of being like, oh, I'll figure this"
+  },
+  {
+    "start": 3854.08,
+    "duration": 4.56,
+    "text": "out. Sometimes it's just not a good fit and being okay. It's just not a good fit."
+  },
+  {
+    "start": 3859.2,
+    "duration": 6.88,
+    "text": "Yeah. I was listening to a podcast with this author, Brian Klass, who wrote a new book,"
+  },
+  {
+    "start": 3866.08,
+    "duration": 6.4,
+    "text": "which I just picked up but I haven't read, called Fluke. This quote stuck with me. He's like,"
+  },
+  {
+    "start": 3872.48,
+    "duration": 6.56,
+    "text": "you control nothing, but you influence everything. I think it's such a good reminder."
+  },
+  {
+    "start": 3879.04,
+    "duration": 4.96,
+    "text": "It's like you don't control how people behave, but you have an insane amount of influence."
+  },
+  {
+    "start": 3886.72,
+    "duration": 6.32,
+    "text": "It's an important shift as a leader because you have so much more direct influence as a rep on a"
+  },
+  {
+    "start": 3893.04,
+    "duration": 3.52,
+    "text": "ton, even though there's a lot outside your control. Is your patch good? Did you get the"
+  },
+  {
+    "start": 3896.56,
+    "duration": 6.72,
+    "text": "right bluebird deals? It happens, right? Selling is so much easier than leadership."
+  },
+  {
+    "start": 3903.28,
+    "duration": 2.96,
+    "text": "So much easier. There's probably not a week that goes by. I'm like, man, I should just go back."
+  },
+  {
+    "start": 3907.68,
+    "duration": 5.2,
+    "text": "That shit was fun. It was easy. This is what we do, man. We're builders. We're scalers. We're"
+  },
+  {
+    "start": 3912.88,
+    "duration": 4.96,
+    "text": "coaches. We're leaders. It's just who we are. But no, selling is easier. It just was."
+  },
+  {
+    "start": 3918.48,
+    "duration": 3.76,
+    "text": "Yeah. What's the best thing you've read in the last 12 months?"
+  },
+  {
+    "start": 3927.28,
+    "duration": 9.52,
+    "text": "I actually really did enjoy Friction Project. I thought that was a really good read. That one was"
+  },
+  {
+    "start": 3936.8,
+    "duration": 6.0,
+    "text": "fun. I came back to the almanac of novel Ravakan again this year. It's been a couple of years"
+  },
+  {
+    "start": 3942.8,
+    "duration": 4.4,
+    "text": "since I read it. It's still one of my most highlighted books. That one was really, really"
+  },
+  {
+    "start": 3947.2,
+    "duration": 7.76,
+    "text": "good. I really liked Friction Project. It was a good reference point of the whole concept of the"
+  },
+  {
+    "start": 3954.96,
+    "duration": 4.96,
+    "text": "book is, where can you decrease friction where you want more of something to happen? Where can"
+  },
+  {
+    "start": 3959.92,
+    "duration": 5.44,
+    "text": "you increase friction in places that you want something less to happen? Then I'd be able to"
+  },
+  {
+    "start": 3965.36,
+    "duration": 5.76,
+    "text": "look at your org and your processes to go like, okay, where can I make things easier?"
+  },
+  {
+    "start": 3971.12,
+    "duration": 4.56,
+    "text": "Because I want more of it. Where can I make something harder to prevent it? So Friction"
+  },
+  {
+    "start": 3975.68,
+    "duration": 4.8,
+    "text": "Project is a really good recent read and an almanac of novel Ravakan. It's just phenomenal."
+  },
+  {
+    "start": 3980.56,
+    "duration": 6.32,
+    "text": "Very cool. There's an awesome book called Nudge, which is by Richard Thaler,"
+  },
+  {
+    "start": 3986.88,
+    "duration": 4.72,
+    "text": "one of the early behavioral economics guys. Very similar thing. How do you add friction?"
+  },
+  {
+    "start": 3992.32,
+    "duration": 9.36,
+    "text": "There's another talk that I frequently share by Lauren Nordgren. He's a researcher and he talks"
+  },
+  {
+    "start": 4001.68,
+    "duration": 4.16,
+    "text": "about the difference between fuel and friction. He's like, we're obsessed with fuel and giving"
+  },
+  {
+    "start": 4005.84,
+    "duration": 3.84,
+    "text": "things fuel to make them go better, but really we need to think about removing friction."
+  },
+  {
+    "start": 4010.56,
+    "duration": 2.72,
+    "text": "So lots of the same concepts. I'm going to have to grab this one."
+  },
+  {
+    "start": 4014.24,
+    "duration": 5.28,
+    "text": "Because he talks about in the Friction Project, too, of just how often adders are rewarded,"
+  },
+  {
+    "start": 4019.52,
+    "duration": 5.52,
+    "text": "choppers are not, and our default is to add something. So if something's not going well,"
+  },
+  {
+    "start": 4025.04,
+    "duration": 5.76,
+    "text": "our default is to add to it. Okay, let's do more of it. Let's add more people. Let's add"
+  },
+  {
+    "start": 4030.8,
+    "duration": 5.92,
+    "text": "more meetings. Let's add more steps. Let's add more. It's the eliminators that actually,"
+  },
+  {
+    "start": 4036.72,
+    "duration": 4.56,
+    "text": "and I'm not saying eliminating people, calm down everybody, but it's our defaults to add"
+  },
+  {
+    "start": 4041.28,
+    "duration": 8.56,
+    "text": "when oftentimes subtraction is a better process to go through. So it's a great read. Biology was"
+  },
+  {
+    "start": 4049.84,
+    "duration": 6.24,
+    "text": "another good one, B-U-I-ology. That was also a really good book on how we make buying decisions."
+  },
+  {
+    "start": 4056.8,
+    "duration": 6.24,
+    "text": "Nice. Cool. So where can people find more from you? I'm sure that lots of people are going to"
+  },
+  {
+    "start": 4063.04,
+    "duration": 5.6,
+    "text": "be wanting more. So where should we stop? So definitely LinkedIn, you can find me there."
+  },
+  {
+    "start": 4068.64,
+    "duration": 5.28,
+    "text": "And then salesleadershipaccelerator.com. That's where I'm putting all this stuff and all the"
+  },
+  {
+    "start": 4073.92,
+    "duration": 5.68,
+    "text": "content, all the programs, all the courses. Definitely go there, salesleadershipaccelerator.com."
+  },
+  {
+    "start": 4080.24,
+    "duration": 4.88,
+    "text": "That's it, my man. That's awesome. Well, appreciate the time. I have a whole raft of notes and I'm"
+  },
+  {
+    "start": 4085.12,
+    "duration": 5.2,
+    "text": "feeling like I got to step up my game now. So this was a great conversation. I'm excited for"
+  },
+  {
+    "start": 4090.32,
+    "duration": 3.44,
+    "text": "people to listen to it. I think it's going to be a really valuable one. So appreciate your time."
+  },
+  {
+    "start": 4093.76,
+    "duration": 2.56,
+    "text": "Hell yeah, my man. Thank you for having me. Of course."
+  },
+  {
+    "start": 4102.32,
+    "duration": 3.6,
+    "text": "Thank you for listening to the Revenue Leadership Podcast. If you enjoyed it,"
+  },
+  {
+    "start": 4105.92,
+    "duration": 5.12,
+    "text": "don't forget to subscribe and you can find a link in the show notes. And be sure to leave"
+  },
+  {
+    "start": 4111.04,
+    "duration": 4.96,
+    "text": "a five-star review, share it with your network, and please join me next Wednesday for another"
+  },
+  {
+    "start": 4116.0,
+    "duration": 3.04,
+    "text": "great conversation."
+  }
+]

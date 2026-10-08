@@ -1,0 +1,4392 @@
+[
+  {
+    "start": 0.0,
+    "duration": 6.32,
+    "text": "Ian Tickle is the CRO at Freshworks. Today, he manages a nearly billion dollar ARR business,"
+  },
+  {
+    "start": 6.32,
+    "duration": 4.96,
+    "text": "but he's also been through multiple successful exits, including to Adobe and Oracle. In today's"
+  },
+  {
+    "start": 11.28,
+    "duration": 4.96,
+    "text": "episode, Ian walks through how and why he collapsed a split go-to-market org chart,"
+  },
+  {
+    "start": 16.24,
+    "duration": 3.92,
+    "text": "bringing global sales and customer success under a single roof."
+  },
+  {
+    "start": 20.16,
+    "duration": 3.28,
+    "text": "Customers don't care about my org structure. They care about dealing with Freshworks and"
+  },
+  {
+    "start": 23.44,
+    "duration": 3.52,
+    "text": "is Freshworks going to look after them. That touch point is very much on my watch."
+  },
+  {
+    "start": 26.96,
+    "duration": 4.08,
+    "text": "Also on the docket, how rapidly scaling enterprise software companies can end up"
+  },
+  {
+    "start": 31.04,
+    "duration": 4.72,
+    "text": "suffocating under their own bureaucracy, how poorly managed AI can quickly become a liability,"
+  },
+  {
+    "start": 35.76,
+    "duration": 4.08,
+    "text": "and how to get ahead of both dangers. If your systems aren't talking to each other,"
+  },
+  {
+    "start": 39.84,
+    "duration": 6.08,
+    "text": "if they're not connected, then what you tend to find is AI is actually doing like a s***."
+  },
+  {
+    "start": 45.92,
+    "duration": 3.76,
+    "text": "Your systems and org structure are the foundations that enable team performance."
+  },
+  {
+    "start": 49.68,
+    "duration": 4.16,
+    "text": "So if you want to learn how a 30-year SaaS operator thinks about these critical topics,"
+  },
+  {
+    "start": 53.84,
+    "duration": 5.2,
+    "text": "this is the episode for you. All this and a lot more on the Revenue Leadership Podcast."
+  },
+  {
+    "start": 59.04,
+    "duration": 5.68,
+    "text": "Today's guest is Ian Tickle, the Chief Revenue Officer at Freshworks. And Ian is a"
+  },
+  {
+    "start": 64.72,
+    "duration": 6.4,
+    "text": "30-year SaaS operator. He took Omniture through the Adobe acquisition, right now through the"
+  },
+  {
+    "start": 71.12,
+    "duration": 5.36,
+    "text": "Oracle acquisition, and built Domo's EMEA business from scratch and ran it through the IPO"
+  },
+  {
+    "start": 76.48,
+    "duration": 5.36,
+    "text": "before becoming their global CRO. Then he joined Freshworks in 2024 to run"
+  },
+  {
+    "start": 81.84,
+    "duration": 6.88,
+    "text": "the European market. And 20 months later, he's now CRO of a nearly billion-dollar ARR business"
+  },
+  {
+    "start": 88.72,
+    "duration": 4.96,
+    "text": "with sales, CS, tech support, and customer experience all unified under him."
+  },
+  {
+    "start": 94.24,
+    "duration": 5.44,
+    "text": "And so today, we're going to talk about what that unified revenue org actually looks like from the"
+  },
+  {
+    "start": 99.68,
+    "duration": 4.8,
+    "text": "inside, some of the trade-offs between having these teams reporting separately versus this"
+  },
+  {
+    "start": 104.48,
+    "duration": 6.48,
+    "text": "unified structure. And then we're going to hit a pretty interesting idea that I don't hear explored"
+  },
+  {
+    "start": 110.96,
+    "duration": 8.64,
+    "text": "very much, which is how do you build simplicity into an enterprise organization as it grows?"
+  },
+  {
+    "start": 119.6,
+    "duration": 6.72,
+    "text": "Because complexity isn't necessarily maturity, even though that is sort of the natural end state"
+  },
+  {
+    "start": 126.32,
+    "duration": 6.56,
+    "text": "that many of us find ourselves in. And so we're going to talk about fighting that pressure"
+  },
+  {
+    "start": 132.88,
+    "duration": 5.04,
+    "text": "and unpacking a bunch of cool ideas. So looking forward to it, Ian, thank you very much for joining."
+  },
+  {
+    "start": 138.48,
+    "duration": 2.4,
+    "text": "Great, Karl. Thanks very much. Glad we could get the time together."
+  },
+  {
+    "start": 141.44,
+    "duration": 3.68,
+    "text": "Yeah. So what did I miss in your bio that's really important for folks?"
+  },
+  {
+    "start": 146.64,
+    "duration": 4.72,
+    "text": "Well, I guess we could go back to the early days when I first started at business. I actually"
+  },
+  {
+    "start": 152.48,
+    "duration": 4.96,
+    "text": "left school with very few qualifications. So I didn't go to college. I didn't go to university."
+  },
+  {
+    "start": 157.44,
+    "duration": 7.12,
+    "text": "So I finished school and my first job was actually working with NatWest Bank and putting"
+  },
+  {
+    "start": 164.56,
+    "duration": 4.72,
+    "text": "checks into a check sorting machine and really starting to do those shift works where the checks"
+  },
+  {
+    "start": 169.28,
+    "duration": 6.8,
+    "text": "would come in. I'd sort them in the machines and that was my life. And I loved it. It was great fun."
+  },
+  {
+    "start": 176.08,
+    "duration": 4.88,
+    "text": "And then I had actually a bit of a serious illness. So I couldn't actually lift the heavy checks."
+  },
+  {
+    "start": 181.92,
+    "duration": 4.8,
+    "text": "So the bank, who were brilliant at training, phenomenal at training, put me onto an assessment"
+  },
+  {
+    "start": 186.72,
+    "duration": 4.8,
+    "text": "center. And the assessment center broke me down into a couple of areas. It was either"
+  },
+  {
+    "start": 191.52,
+    "duration": 4.16,
+    "text": "very programmatic and you move into more of the side of the business where you're doing the"
+  },
+  {
+    "start": 195.68,
+    "duration": 5.12,
+    "text": "back-end programming on the hardware that they were using, or more creative side and they put"
+  },
+  {
+    "start": 200.8,
+    "duration": 4.48,
+    "text": "you more into the business. And for dramatic effect, because I can't actually remember,"
+  },
+  {
+    "start": 205.28,
+    "duration": 5.12,
+    "text": "but I kind of got most of the programmatic ones wrong and most of the creative ones right."
+  },
+  {
+    "start": 210.4,
+    "duration": 4.48,
+    "text": "And I remember saying to the bank, oh, so I'm not stupid then. I'm like, no, no, no. You just"
+  },
+  {
+    "start": 214.88,
+    "duration": 4.88,
+    "text": "think this way. And it just completely released me and really helped the way I think and the way"
+  },
+  {
+    "start": 219.76,
+    "duration": 5.92,
+    "text": "I look at things. And I realized that I'm much more observant than a detailed reader and study"
+  },
+  {
+    "start": 225.68,
+    "duration": 4.64,
+    "text": "and things like that. And from there, I went into looking at business processes,"
+  },
+  {
+    "start": 230.32,
+    "duration": 4.48,
+    "text": "business challenges, started evaluating software solutions for business problems."
+  },
+  {
+    "start": 235.44,
+    "duration": 5.28,
+    "text": "Loved that. Got on really well with one of the software vendors who was talking to us about a"
+  },
+  {
+    "start": 240.72,
+    "duration": 4.4,
+    "text": "particular solution that they had and ended up leaving the bank and going to work for the software"
+  },
+  {
+    "start": 245.12,
+    "duration": 5.6,
+    "text": "provider and work there in tech support. So I started tech support, threw into pre-sales,"
+  },
+  {
+    "start": 250.72,
+    "duration": 4.88,
+    "text": "then into partner, partner sales, into sales, sales management, and then worked my way up there"
+  },
+  {
+    "start": 255.6,
+    "duration": 4.16,
+    "text": "into general management and ultimately, I guess, chief revenue officer roles."
+  },
+  {
+    "start": 259.76,
+    "duration": 3.68,
+    "text": "That's a very interesting and winding path to get to where we are today."
+  },
+  {
+    "start": 264.32,
+    "duration": 4.16,
+    "text": "Yeah, I enjoyed it though. It was one of the things I think I realized as we look at"
+  },
+  {
+    "start": 269.76,
+    "duration": 4.72,
+    "text": "some of the areas that I really like to focus on is that creative element. So looking at"
+  },
+  {
+    "start": 274.96,
+    "duration": 3.52,
+    "text": "stepping back and looking at the business problem. And I think the bank was really strong"
+  },
+  {
+    "start": 279.12,
+    "duration": 3.76,
+    "text": "in that business analysis world where I actually had to go and be the consumer."
+  },
+  {
+    "start": 282.88,
+    "duration": 5.12,
+    "text": "I was a person that people were selling to. So I moved forward with the understanding business"
+  },
+  {
+    "start": 288.0,
+    "duration": 5.12,
+    "text": "problems, understanding the value. I learned what people like from software vendors, the stuff people"
+  },
+  {
+    "start": 293.12,
+    "duration": 4.64,
+    "text": "don't like from software vendors. And I think that stood me in really good stead as I worked my way"
+  },
+  {
+    "start": 297.76,
+    "duration": 5.52,
+    "text": "through the different phases of my career because it gave me the grounding and the basis of when we"
+  },
+  {
+    "start": 303.28,
+    "duration": 4.96,
+    "text": "do a big deal review, I still in my head have, I know what I liked and what I didn't like,"
+  },
+  {
+    "start": 308.24,
+    "duration": 4.48,
+    "text": "but also what a business case looks like. And it's not all about just the core ROI,"
+  },
+  {
+    "start": 312.72,
+    "duration": 2.64,
+    "text": "it's the cost of change, the cost of service and all those elements."
+  },
+  {
+    "start": 315.92,
+    "duration": 3.12,
+    "text": "So it really gave me a good basis for my career, to be honest with you."
+  },
+  {
+    "start": 319.68,
+    "duration": 8.0,
+    "text": "Very cool. So I want to hop into the first sort of big topic. You've stepped into the CRO role"
+  },
+  {
+    "start": 327.68,
+    "duration": 8.16,
+    "text": "at Freshworks. You've collapsed a formerly split go-to-market structure before sales"
+  },
+  {
+    "start": 335.84,
+    "duration": 6.24,
+    "text": "was split from the customer growth, customer success orgs into this one organization."
+  },
+  {
+    "start": 343.36,
+    "duration": 4.16,
+    "text": "I'm curious, just walk us through the logic for Freshworks. And then I want to zoom out and talk"
+  },
+  {
+    "start": 347.52,
+    "duration": 3.68,
+    "text": "about some of the core principles that people can use to evaluate that in their own business."
+  },
+  {
+    "start": 351.2,
+    "duration": 5.92,
+    "text": "So what was the rationale for you guys and what were the outcomes you were hoping to get?"
+  },
+  {
+    "start": 357.68,
+    "duration": 4.08,
+    "text": "There's a couple of areas that we really wanted to focus on as we looked at the business."
+  },
+  {
+    "start": 361.76,
+    "duration": 4.72,
+    "text": "So we had a relatively, well, we actually do have a relatively broad portfolio"
+  },
+  {
+    "start": 367.12,
+    "duration": 5.92,
+    "text": "of customers. So we have a PLG motion for our SMB business. We have a very strong commercial"
+  },
+  {
+    "start": 373.04,
+    "duration": 5.52,
+    "text": "business, mid-market and enterprise. And across those, we had different teams really focusing"
+  },
+  {
+    "start": 378.56,
+    "duration": 5.44,
+    "text": "on the different size of customer. So we had an organization that focused on the 0 to 500"
+  },
+  {
+    "start": 384.0,
+    "duration": 7.36,
+    "text": "employees and 500 employees and above. And as you grow organically, you'll find that these teams"
+  },
+  {
+    "start": 391.36,
+    "duration": 5.36,
+    "text": "and these environments just naturally expand. And as you expand, one of the things you start to see"
+  },
+  {
+    "start": 396.72,
+    "duration": 6.56,
+    "text": "as you become a larger and larger organization is you see great process, you see great policies,"
+  },
+  {
+    "start": 403.28,
+    "duration": 3.84,
+    "text": "but also you see those other areas where you suddenly realize that there's teams being built"
+  },
+  {
+    "start": 407.12,
+    "duration": 4.8,
+    "text": "to do things that maybe you should be doing from a central focus. And it's all with the best intent"
+  },
+  {
+    "start": 411.92,
+    "duration": 4.88,
+    "text": "and it's all with the desire to really drive business and make sure that we are effective to"
+  },
+  {
+    "start": 416.8,
+    "duration": 5.92,
+    "text": "the customers, we support them, we look after them. But it also comes with complexity because it means"
+  },
+  {
+    "start": 422.72,
+    "duration": 4.96,
+    "text": "sometimes people aren't necessarily fully aligned with the same objectives and goals that we're"
+  },
+  {
+    "start": 427.68,
+    "duration": 5.84,
+    "text": "trying to set as a corporate entity. So when we looked at the how do we optimize and how do we"
+  },
+  {
+    "start": 433.52,
+    "duration": 6.16,
+    "text": "become more effective, there's a couple of things that really settled for us. One was we were running"
+  },
+  {
+    "start": 439.68,
+    "duration": 4.64,
+    "text": "some form of duplication, not in a sales organization, but in supporting teams and"
+  },
+  {
+    "start": 444.32,
+    "duration": 5.04,
+    "text": "supporting systems. And as you know, as you become a larger organization, those supporting teams are"
+  },
+  {
+    "start": 449.36,
+    "duration": 5.36,
+    "text": "fundamental to what we do. But also it's incredibly important to make sure you control that cost"
+  },
+  {
+    "start": 454.72,
+    "duration": 4.72,
+    "text": "element as well. But fundamentally, make sure you get the right message down to the teams the way"
+  },
+  {
+    "start": 459.44,
+    "duration": 4.24,
+    "text": "that you need. And more layers that you put in, the harder it is to get that message down."
+  },
+  {
+    "start": 463.68,
+    "duration": 5.04,
+    "text": "So that was the first one. It just made sense that we could optimize our systems and teams"
+  },
+  {
+    "start": 468.72,
+    "duration": 4.4,
+    "text": "and become more effective in the go-to-market, become more efficient, not only in the selling,"
+  },
+  {
+    "start": 473.12,
+    "duration": 4.4,
+    "text": "but also you'll hear I'm very passionate about the cost of service and how do we become as"
+  },
+  {
+    "start": 477.52,
+    "duration": 6.48,
+    "text": "effective as we can be to serve the customers as well. The other one, it creates all sorts of time"
+  },
+  {
+    "start": 484.0,
+    "duration": 4.8,
+    "text": "issues. You can only imagine the parent-child discussions. You can imagine the conversations"
+  },
+  {
+    "start": 488.8,
+    "duration": 4.8,
+    "text": "between reps and managers on who owned the parent, who owned the child. And this child was in a"
+  },
+  {
+    "start": 493.6,
+    "duration": 4.08,
+    "text": "different region from that parent who's just a holding company based out the Netherlands."
+  },
+  {
+    "start": 497.68,
+    "duration": 5.12,
+    "text": "So there was a degree of just tension that we created inside our organization as well."
+  },
+  {
+    "start": 502.8,
+    "duration": 3.92,
+    "text": "Whereas if we collapse that, we can manage that in a much more effective way."
+  },
+  {
+    "start": 506.72,
+    "duration": 4.64,
+    "text": "So there's a degree of, look, you can see that this isn't optimal. It wasn't slowing us down,"
+  },
+  {
+    "start": 511.36,
+    "duration": 5.04,
+    "text": "but it wasn't optimal. And as you look at where we are as a business, it is about making sure we're"
+  },
+  {
+    "start": 516.4,
+    "duration": 4.32,
+    "text": "cash efficient with what we do, making sure we're increasing our efficiency of the people that we're"
+  },
+  {
+    "start": 520.72,
+    "duration": 4.4,
+    "text": "working with, but also making sure that we're effectively engaging with the customers and"
+  },
+  {
+    "start": 525.12,
+    "duration": 4.72,
+    "text": "delivering that full customer experience. And that's really where Freshworks, I think,"
+  },
+  {
+    "start": 529.84,
+    "duration": 6.48,
+    "text": "and the role that I have particularly is, look, if I sell a deal, I've got the BD team who helped"
+  },
+  {
+    "start": 536.32,
+    "duration": 6.56,
+    "text": "with marketing to create that opportunity. I've got a great pre-sales team and value engineering"
+  },
+  {
+    "start": 542.88,
+    "duration": 4.8,
+    "text": "team who know how to talk about the value and what we're talking about. Very strong AEs and"
+  },
+  {
+    "start": 547.68,
+    "duration": 5.28,
+    "text": "account managers. Customer success focus on adoption, but also technical support who have"
+  },
+  {
+    "start": 552.96,
+    "duration": 3.52,
+    "text": "to focus if something isn't working or people need help on how to do something."
+  },
+  {
+    "start": 557.2,
+    "duration": 4.64,
+    "text": "So the reason that's important as we put it all together is because I've got to do good deals,"
+  },
+  {
+    "start": 562.4,
+    "duration": 4.72,
+    "text": "right? I've got to do a deal that's not just good for the sales team for 12 months because it makes"
+  },
+  {
+    "start": 567.12,
+    "duration": 4.56,
+    "text": "them great. We hit the target. But I've also got to make sure I look after everybody else in my"
+  },
+  {
+    "start": 571.68,
+    "duration": 5.6,
+    "text": "organisation so that we're not putting extra workload or burden on the post-sales team in"
+  },
+  {
+    "start": 577.28,
+    "duration": 4.48,
+    "text": "the customer success side or in the tech support side as well. So it's very important for me for"
+  },
+  {
+    "start": 581.76,
+    "duration": 4.88,
+    "text": "that entire customer experience because customers don't care about my org structure. They care about"
+  },
+  {
+    "start": 586.64,
+    "duration": 4.08,
+    "text": "dealing with Freshworks and is Freshworks going to look after them? And it's very easy for us to"
+  },
+  {
+    "start": 590.72,
+    "duration": 4.08,
+    "text": "become very insular about, well, that's somebody else's reason. That's somebody else's team. You"
+  },
+  {
+    "start": 594.8,
+    "duration": 4.64,
+    "text": "need to go there. And for me, ultimately, it all comes back to me, right? Outside of the product"
+  },
+  {
+    "start": 599.44,
+    "duration": 7.12,
+    "text": "development and the engineering side, that touch point is very much on my watch. And I like the"
+  },
+  {
+    "start": 606.56,
+    "duration": 4.48,
+    "text": "fact that that drives the behaviour within my organisation where everybody's pulling together."
+  },
+  {
+    "start": 611.76,
+    "duration": 6.0,
+    "text": "Yeah. We talked about this a lot of Shopify, like not shipping the org chart and not making the"
+  },
+  {
+    "start": 617.76,
+    "duration": 5.68,
+    "text": "customer feel the organisational decisions that you've made. And we went through, I went through"
+  },
+  {
+    "start": 623.44,
+    "duration": 8.16,
+    "text": "a bunch of versions of the revenue org there. We re-org'd a few different times. And you could"
+  },
+  {
+    "start": 631.6,
+    "duration": 4.16,
+    "text": "definitely tell when you're shipping the org chart. It's, oh, I can't talk to you about that"
+  },
+  {
+    "start": 635.76,
+    "duration": 4.64,
+    "text": "product. I'll bring somebody in. And then you pass it on. And that's another call that can be a broken"
+  },
+  {
+    "start": 640.4,
+    "duration": 5.84,
+    "text": "experience. What was it that you, what were the symptoms that you noticed that told you you needed"
+  },
+  {
+    "start": 646.24,
+    "duration": 7.12,
+    "text": "to rationalise? And what are the symptoms that people should watch for generally that indicate"
+  },
+  {
+    "start": 653.36,
+    "duration": 5.36,
+    "text": "to them that they may be shipping the org chart or there may be some organisational"
+  },
+  {
+    "start": 659.76,
+    "duration": 4.4,
+    "text": "rationalisation that's needed? Yeah, it's a great question. And there's a couple of elements to"
+  },
+  {
+    "start": 664.16,
+    "duration": 4.48,
+    "text": "that. The first one is, and everybody talks about this a lot, but it's super essential."
+  },
+  {
+    "start": 668.64,
+    "duration": 4.0,
+    "text": "Just talk and listen to the customer. You actually listen to the customer because the"
+  },
+  {
+    "start": 672.64,
+    "duration": 5.04,
+    "text": "customer will tell you, right? We're very proud of our customer base and they're very passionate and"
+  },
+  {
+    "start": 677.68,
+    "duration": 4.96,
+    "text": "they're very clear with Freshworks and what they like about this. But they'll also give us great"
+  },
+  {
+    "start": 682.64,
+    "duration": 4.56,
+    "text": "feedback in our client advisory boards and making sure that we have those interactions. But it's"
+  },
+  {
+    "start": 687.2,
+    "duration": 3.92,
+    "text": "also spending time with them and listening to them because they'll tell you about the complexity of"
+  },
+  {
+    "start": 691.12,
+    "duration": 6.4,
+    "text": "dealing with you as an organisation as well. Especially if they generally have that relationship"
+  },
+  {
+    "start": 697.52,
+    "duration": 5.12,
+    "text": "which is, we've got to make sure this is together. They'll give you the areas that they need help."
+  },
+  {
+    "start": 702.64,
+    "duration": 3.36,
+    "text": "So the customers will tell you. The question is, are you listening to the signals? And then are"
+  },
+  {
+    "start": 706.0,
+    "duration": 4.24,
+    "text": "you doing something about the signals? Are you putting somebody to be accountable for those"
+  },
+  {
+    "start": 710.24,
+    "duration": 6.08,
+    "text": "signals? And I think what the areas that we really focus on at Freshworks is, who are the team who"
+  },
+  {
+    "start": 716.32,
+    "duration": 4.16,
+    "text": "wake up caring about this? Who's the individual who's responsible for this? And how do we drive"
+  },
+  {
+    "start": 720.48,
+    "duration": 4.48,
+    "text": "that together? The second one is, you can see it in the frictions you just work your way through"
+  },
+  {
+    "start": 724.96,
+    "duration": 4.16,
+    "text": "the systems or if you start to look at the efficiencies within your own teams as well."
+  },
+  {
+    "start": 729.68,
+    "duration": 6.24,
+    "text": "So if you start to have a look at internal clashes maybe on TAM or ICP. But that's not just"
+  },
+  {
+    "start": 735.92,
+    "duration": 3.92,
+    "text": "impacting us, that's impacting the customer as well. Because we may be the ones who are trying"
+  },
+  {
+    "start": 739.84,
+    "duration": 3.68,
+    "text": "to fix it for ourselves, it's my account or it's your account. But ultimately the customer is the"
+  },
+  {
+    "start": 743.52,
+    "duration": 4.72,
+    "text": "one who's waiting the response or the engagement from us as an organisation. They shouldn't have"
+  },
+  {
+    "start": 748.24,
+    "duration": 5.84,
+    "text": "to wait for those areas. The final one would be, our partner ecosystem is super important and"
+  },
+  {
+    "start": 754.08,
+    "duration": 4.24,
+    "text": "we have to make it easy for the partners to deal with us as well. Many times you create this"
+  },
+  {
+    "start": 758.32,
+    "duration": 4.88,
+    "text": "environment where you're very insular about what's good for us. And ironically this is where we'll"
+  },
+  {
+    "start": 763.2,
+    "duration": 5.04,
+    "text": "talk about AI later, I'm very passionate about this as well. It's great for us to become more"
+  },
+  {
+    "start": 768.24,
+    "duration": 4.88,
+    "text": "efficient with our systems. It's great that we're using AI to help and drive that. But what about"
+  },
+  {
+    "start": 773.12,
+    "duration": 6.0,
+    "text": "our ecosystem? Is it helping them? Who are a big part of our additional distribution and our support"
+  },
+  {
+    "start": 779.12,
+    "duration": 5.28,
+    "text": "team? Is it working for everybody in the same way? So there's many signals that you can get."
+  },
+  {
+    "start": 784.4,
+    "duration": 4.32,
+    "text": "And then you can look at the metrics. If you look at just general sale cycles, deal reviews,"
+  },
+  {
+    "start": 788.72,
+    "duration": 5.12,
+    "text": "you can see where we've got friction internally as well. And the goal is not to just hear it,"
+  },
+  {
+    "start": 793.84,
+    "duration": 6.24,
+    "text": "but to listen and then do something about it. And so on the partner ecosystem, is that again"
+  },
+  {
+    "start": 800.08,
+    "duration": 5.36,
+    "text": "just like talking and listening to the partners? It's talking and listening, but it's also about"
+  },
+  {
+    "start": 805.44,
+    "duration": 4.4,
+    "text": "they need programmatic ways to engage with you as well. So one of the areas that we're pushing"
+  },
+  {
+    "start": 810.4,
+    "duration": 4.32,
+    "text": "very hard, because we're not perfect to this by the way at all, and I don't think any organization"
+  },
+  {
+    "start": 814.72,
+    "duration": 5.68,
+    "text": "has really completely cracked the single entity, which is like a partner and a vendor together."
+  },
+  {
+    "start": 820.4,
+    "duration": 4.64,
+    "text": "But one of the areas we're focused on very hard is how do we make sure that they're enabled? How"
+  },
+  {
+    "start": 825.04,
+    "duration": 3.92,
+    "text": "do we make sure that they've got the latest information? Look, it's a really competitive"
+  },
+  {
+    "start": 828.96,
+    "duration": 5.04,
+    "text": "world out there. And as a vendor, it's great because you tend to get all the information"
+  },
+  {
+    "start": 834.0,
+    "duration": 5.2,
+    "text": "you require about the competitive market space and how we can talk about what we do and the value"
+  },
+  {
+    "start": 839.2,
+    "duration": 4.48,
+    "text": "that we bring. But you've got to make sure that your partner ecosystem have that side as well."
+  },
+  {
+    "start": 843.68,
+    "duration": 3.84,
+    "text": "And when we look at our partners, one of the things that we're very proud of is,"
+  },
+  {
+    "start": 847.52,
+    "duration": 5.36,
+    "text": "A, they can do really great pre-sales, post-sales on their own. They can do the implementations."
+  },
+  {
+    "start": 852.88,
+    "duration": 4.88,
+    "text": "So they help our distribution. But they also bring that subject matter expertise that I don't yet"
+  },
+  {
+    "start": 857.76,
+    "duration": 5.2,
+    "text": "have. So for example, I don't have a verticalized team at this point outside of North America. We"
+  },
+  {
+    "start": 862.96,
+    "duration": 5.04,
+    "text": "got a couple of sled manufacturing. Why? Well, we don't have verticalized products."
+  },
+  {
+    "start": 868.0,
+    "duration": 3.12,
+    "text": "Now, that doesn't mean to say, though, that we don't have verticalized messaging and we"
+  },
+  {
+    "start": 871.12,
+    "duration": 3.52,
+    "text": "understand the use case. We understand the persona. We understand the language that we"
+  },
+  {
+    "start": 874.64,
+    "duration": 6.24,
+    "text": "need to talk to people to. But some of these areas, we have partners who specify specifically in that."
+  },
+  {
+    "start": 880.88,
+    "duration": 5.52,
+    "text": "And it brings that extra credibility and trust to a prospective client or an existing client"
+  },
+  {
+    "start": 886.4,
+    "duration": 3.28,
+    "text": "that we have that ecosystem where we can say, hey, why are you going to talk to these guys?"
+  },
+  {
+    "start": 889.68,
+    "duration": 3.84,
+    "text": "Because they specialize in ESM for finance teams, for example."
+  },
+  {
+    "start": 893.52,
+    "duration": 4.0,
+    "text": "And so maybe just zoom out. What were the exact changes you made at Freshworks?"
+  },
+  {
+    "start": 899.28,
+    "duration": 6.16,
+    "text": "What was the org design before and what does it look like now? And how's that all played out?"
+  },
+  {
+    "start": 905.44,
+    "duration": 4.8,
+    "text": "Yeah. So we basically had this sub-500 employees that was run"
+  },
+  {
+    "start": 910.24,
+    "duration": 5.76,
+    "text": "centrally out of our Chennai, Bangalore and Hyderabad offices. And then we had"
+  },
+  {
+    "start": 916.0,
+    "duration": 5.12,
+    "text": "500 that was more of a field-orientated organization. And within there as well,"
+  },
+  {
+    "start": 921.12,
+    "duration": 4.72,
+    "text": "we have different segments of different customer bands as well. So we could address the market."
+  },
+  {
+    "start": 926.64,
+    "duration": 5.52,
+    "text": "Within there, we also had a tech support department as well that was sitting inside"
+  },
+  {
+    "start": 932.16,
+    "duration": 4.48,
+    "text": "one of the sales organizations, but not the other. It was a dynamic."
+  },
+  {
+    "start": 936.64,
+    "duration": 5.52,
+    "text": "And then customer success that sort of straddled both, but we didn't really have the clarity of"
+  },
+  {
+    "start": 942.16,
+    "duration": 5.04,
+    "text": "the reporting line that we wanted. So we wanted to make sure that we put the classic testing"
+  },
+  {
+    "start": 947.2,
+    "duration": 4.8,
+    "text": "together, which we did. Tech support serving both organizations from a central location."
+  },
+  {
+    "start": 952.0,
+    "duration": 4.0,
+    "text": "And I've got a great, great team running the tech support side. And then from the sales"
+  },
+  {
+    "start": 956.0,
+    "duration": 5.36,
+    "text": "organization, we actually put the two orgs together so that we could focus on the consistent"
+  },
+  {
+    "start": 961.36,
+    "duration": 5.44,
+    "text": "message that we wanted across any revenue band. Because again, that's my segmentation."
+  },
+  {
+    "start": 966.8,
+    "duration": 4.24,
+    "text": "The customer shouldn't have to impact about my segmentation. It shouldn't have anything to do"
+  },
+  {
+    "start": 971.04,
+    "duration": 5.12,
+    "text": "with how they engage with us at all. So we then looked at how do we rebuild the sales organization"
+  },
+  {
+    "start": 976.16,
+    "duration": 6.16,
+    "text": "across both those organizations and the teams, and then built out the go-to-market model so we"
+  },
+  {
+    "start": 982.32,
+    "duration": 5.12,
+    "text": "can make it as effective as we could be from a pre-sales environment, business development,"
+  },
+  {
+    "start": 987.44,
+    "duration": 5.04,
+    "text": "and then through the sales and account management as well. And we're on the journey. I think there's"
+  },
+  {
+    "start": 992.48,
+    "duration": 4.96,
+    "text": "other things that we can continue to look at to optimize it, make sure we can support everybody"
+  },
+  {
+    "start": 997.44,
+    "duration": 5.12,
+    "text": "as well as we can do. But the goal was really to take that duplication out, find the shadow orgs,"
+  },
+  {
+    "start": 1002.56,
+    "duration": 4.16,
+    "text": "put them into a central reporting zone so we could all benefit from... There's these pockets"
+  },
+  {
+    "start": 1006.72,
+    "duration": 4.48,
+    "text": "of brilliance all over the business that we were... If only we could get that and we could"
+  },
+  {
+    "start": 1011.2,
+    "duration": 4.72,
+    "text": "put that across all the organization, all of the go-to-market team, that would be phenomenal as"
+  },
+  {
+    "start": 1015.92,
+    "duration": 3.68,
+    "text": "well. So without going into names, that's how we put the team together, to be honest with you."
+  },
+  {
+    "start": 1020.16,
+    "duration": 5.76,
+    "text": "So when you say you brought the sales team together, that means there's now one leader for"
+  },
+  {
+    "start": 1027.44,
+    "duration": 5.84,
+    "text": "sub-500 and above 500, or the distinction between those two reps has now gone away."
+  },
+  {
+    "start": 1035.36,
+    "duration": 1.6,
+    "text": "What does the design of the team look like?"
+  },
+  {
+    "start": 1036.96,
+    "duration": 3.6,
+    "text": "Yeah. So if we go down another layer, so what we've actually just been through at the moment"
+  },
+  {
+    "start": 1040.56,
+    "duration": 6.8,
+    "text": "is we looked at our core EX business, our employee experience, and our customer experience business."
+  },
+  {
+    "start": 1047.36,
+    "duration": 4.0,
+    "text": "Customer experience business was the traditional market space that we started."
+  },
+  {
+    "start": 1051.36,
+    "duration": 4.48,
+    "text": "And we've actually created two separate sales organizations within there as well."
+  },
+  {
+    "start": 1055.84,
+    "duration": 5.2,
+    "text": "So we have a CX-orientated organization and we have an employee experience, which is our ITSM,"
+  },
+  {
+    "start": 1061.04,
+    "duration": 6.96,
+    "text": "asset management, incident management solution. And the reason for that was a couple. One was"
+  },
+  {
+    "start": 1069.6,
+    "duration": 3.76,
+    "text": "they're unique in the sense they bring everybody together because basically you're trying to serve"
+  },
+  {
+    "start": 1073.36,
+    "duration": 4.24,
+    "text": "somebody who's got a question or needs support or needs help, but they're very different entities"
+  },
+  {
+    "start": 1077.6,
+    "duration": 3.28,
+    "text": "in the sense of one could be a business to business, one could be a business to consumer."
+  },
+  {
+    "start": 1081.52,
+    "duration": 5.76,
+    "text": "And what we wanted to do was really focus not only the product execution and the growth, but also"
+  },
+  {
+    "start": 1087.28,
+    "duration": 5.6,
+    "text": "the marketing that we put out there also from a go-to-market and the focus we could put in,"
+  },
+  {
+    "start": 1092.88,
+    "duration": 5.28,
+    "text": "how do we actually drive not only building those individual businesses, but making sure we were"
+  },
+  {
+    "start": 1098.16,
+    "duration": 4.24,
+    "text": "talking the way that the customer required us to talk to. And that's worked out incredibly well"
+  },
+  {
+    "start": 1102.4,
+    "duration": 5.76,
+    "text": "for us. It's a relatively new change for us, but I've got two teams focused on that. And I've got"
+  },
+  {
+    "start": 1108.16,
+    "duration": 6.0,
+    "text": "in the CX business, there's a single leader who's running that across the entire ecosystem. And then"
+  },
+  {
+    "start": 1114.16,
+    "duration": 4.48,
+    "text": "in my employee experience side, I've got two leaders, one for North America and LATAM and"
+  },
+  {
+    "start": 1118.64,
+    "duration": 8.08,
+    "text": "one running international. And then I've got customer success roles into actually my revenue"
+  },
+  {
+    "start": 1126.72,
+    "duration": 6.0,
+    "text": "leaders. And then I have technical support that's run by the new leaders for EX and CX."
+  },
+  {
+    "start": 1132.72,
+    "duration": 4.0,
+    "text": "Yes, that's right. Yeah. Yeah. Because I want the leaders to care about the customer deals"
+  },
+  {
+    "start": 1136.72,
+    "duration": 3.04,
+    "text": "that they're doing as well. I know they do and they're good and they're passionate,"
+  },
+  {
+    "start": 1139.76,
+    "duration": 4.0,
+    "text": "but it also makes sense for me to make sure that I've got the right lens on."
+  },
+  {
+    "start": 1143.76,
+    "duration": 4.32,
+    "text": "When I'm doing the forecast call, for example, the person I'm doing the forecast call with,"
+  },
+  {
+    "start": 1148.08,
+    "duration": 5.76,
+    "text": "they care about the customer retention. They care about the expansion. They care about the"
+  },
+  {
+    "start": 1153.84,
+    "duration": 4.8,
+    "text": "new business because I also only care about one bottom right-hand corner number, which is, okay,"
+  },
+  {
+    "start": 1158.64,
+    "duration": 6.48,
+    "text": "what's the net new ARR? And to have a team that's focused on that as a mindset means that I'm very"
+  },
+  {
+    "start": 1165.12,
+    "duration": 5.92,
+    "text": "confident that my teams are working all in unison to what the corporate goals are, which is let's"
+  },
+  {
+    "start": 1171.04,
+    "duration": 7.28,
+    "text": "make sure we grow the fundamental revenue base of the company. And so now you'll have a CX org"
+  },
+  {
+    "start": 1178.32,
+    "duration": 6.4,
+    "text": "that has both the in-market sales teams and the Chennai, like sort of India-based teams all"
+  },
+  {
+    "start": 1185.6,
+    "duration": 4.96,
+    "text": "underneath that one roof. Is that the case? Yes. Yes. We predominantly have the EX team by"
+  },
+  {
+    "start": 1190.56,
+    "duration": 5.12,
+    "text": "legacy. We have more field-orientated people. At the CX team, we probably have more based out of"
+  },
+  {
+    "start": 1195.68,
+    "duration": 4.88,
+    "text": "our headquarters in Chennai. But yes, there's definitely... We need to be where the customer"
+  },
+  {
+    "start": 1200.56,
+    "duration": 3.36,
+    "text": "is and we need to have those ecosystems and partners to help with that execution as well."
+  },
+  {
+    "start": 1204.48,
+    "duration": 5.76,
+    "text": "And so what was the deliberation process to figure out what the right org chart is? Do you have"
+  },
+  {
+    "start": 1211.28,
+    "duration": 5.92,
+    "text": "committees and analysts working on it? Was it obvious to you and you just sort of had"
+  },
+  {
+    "start": 1217.2,
+    "duration": 4.56,
+    "text": "to sketch it out with a few people? I'd love to understand the process you went through"
+  },
+  {
+    "start": 1221.76,
+    "duration": 5.68,
+    "text": "to deliberate what the right shape of the org was and then maybe how you got it sold internally"
+  },
+  {
+    "start": 1227.44,
+    "duration": 7.6,
+    "text": "because these redesigns require a lot of organizational energy and mindshare,"
+  },
+  {
+    "start": 1235.04,
+    "duration": 3.04,
+    "text": "so you got to get people aligned. I'd love to hear some of that story."
+  },
+  {
+    "start": 1238.08,
+    "duration": 2.96,
+    "text": "Yeah. Well, to be honest with you, first of all, I'd love to take credit and say,"
+  },
+  {
+    "start": 1241.04,
+    "duration": 6.0,
+    "text": "I woke up one morning and I had this epiphany and I had re-org in my head and then I went to"
+  },
+  {
+    "start": 1247.04,
+    "duration": 5.04,
+    "text": "Dennis, the CEO, and said, hey, this looks like a cool idea. Could we do it? Not quite how that"
+  },
+  {
+    "start": 1252.08,
+    "duration": 4.8,
+    "text": "plays out, although I may say that in the future that it was one of my greatest moments. But the"
+  },
+  {
+    "start": 1256.88,
+    "duration": 6.32,
+    "text": "reality was Dennis is a great CEO who spends a lot of time understanding what we're doing,"
+  },
+  {
+    "start": 1263.2,
+    "duration": 4.32,
+    "text": "where we're going, but also some of the challenges that we face as a business and the opportunities."
+  },
+  {
+    "start": 1268.24,
+    "duration": 5.04,
+    "text": "As we were going through the design for fiscal year 26, which is the year that we're in at this"
+  },
+  {
+    "start": 1273.28,
+    "duration": 3.68,
+    "text": "moment, we were looking at all the standard things you'd expect us to, right? Well,"
+  },
+  {
+    "start": 1276.96,
+    "duration": 4.88,
+    "text": "what's our cost basis? What are we doing really well? Where do we really want to lean into?"
+  },
+  {
+    "start": 1281.84,
+    "duration": 3.76,
+    "text": "What are the areas that we think we could be a bit more efficient in? Where do we think we"
+  },
+  {
+    "start": 1285.6,
+    "duration": 5.52,
+    "text": "could build out the organisation that enable us to execute in lines with the growth priorities"
+  },
+  {
+    "start": 1291.12,
+    "duration": 5.44,
+    "text": "that we have and the cost model that we have? We're like most organisations. You can have great"
+  },
+  {
+    "start": 1296.56,
+    "duration": 4.08,
+    "text": "ideas, but you've got to be able to do it in an efficient way. My cost envelope is still my cost"
+  },
+  {
+    "start": 1300.64,
+    "duration": 4.96,
+    "text": "envelope, so I had to work through that. So you've got that as the basis, right? I work with my CFO"
+  },
+  {
+    "start": 1305.6,
+    "duration": 6.08,
+    "text": "and the CFO has a very clear view on what we can spend and how we can spend it. Then we work as a"
+  },
+  {
+    "start": 1311.68,
+    "duration": 4.16,
+    "text": "management team and we do. We brainstorm and we talk about it and we challenge each other and we"
+  },
+  {
+    "start": 1315.84,
+    "duration": 6.32,
+    "text": "test the models. Then we get some sanity checking carried out on that as well. Then as you go"
+  },
+  {
+    "start": 1322.16,
+    "duration": 5.28,
+    "text": "through that process, it doesn't feel like it's a massively large decision because everybody's"
+  },
+  {
+    "start": 1327.44,
+    "duration": 8.0,
+    "text": "aligned on why and the value and the reasons for it. The complex, challenging opportunity part"
+  },
+  {
+    "start": 1335.44,
+    "duration": 6.0,
+    "text": "is then pushing that and making that work through the process to make sure the math works for us."
+  },
+  {
+    "start": 1341.44,
+    "duration": 3.44,
+    "text": "Then working with the teams and making sure everybody understands what we're achieving,"
+  },
+  {
+    "start": 1344.88,
+    "duration": 4.72,
+    "text": "why we're achieving it. Because as you know, one of the hardest things for organisations,"
+  },
+  {
+    "start": 1349.6,
+    "duration": 8.24,
+    "text": "no matter what size you are, is change. Field organisations, typically change is not great"
+  },
+  {
+    "start": 1357.84,
+    "duration": 4.72,
+    "text": "because it defocuses from the core goals that we've got them on. But it's about really one of"
+  },
+  {
+    "start": 1362.56,
+    "duration": 5.28,
+    "text": "the core principles that I have, which is clarity, strategy and vision. It's laying into the"
+  },
+  {
+    "start": 1367.84,
+    "duration": 5.36,
+    "text": "organisation where we're going, why we're going and why we'd like them to come on this journey"
+  },
+  {
+    "start": 1373.2,
+    "duration": 6.0,
+    "text": "with us. I think if we take that time and talk to them the way that the company does, which is"
+  },
+  {
+    "start": 1379.2,
+    "duration": 4.16,
+    "text": "here's where we are, here's where we think we've got a great opportunity, people will very quickly"
+  },
+  {
+    "start": 1383.36,
+    "duration": 4.24,
+    "text": "come on board and help you be part of that process as well. So the hard part, frankly,"
+  },
+  {
+    "start": 1387.6,
+    "duration": 5.28,
+    "text": "is for the ops guys, as you probably know. The lift on the ops team, territories, quotas,"
+  },
+  {
+    "start": 1392.88,
+    "duration": 6.4,
+    "text": "comp plans, TAM, ICP, that's a really heavy lift. But we've got a great group of people who"
+  },
+  {
+    "start": 1399.28,
+    "duration": 5.28,
+    "text": "fundamentally are very, very strong at that. So my life was made a lot easier by the fact that"
+  },
+  {
+    "start": 1404.56,
+    "duration": 4.88,
+    "text": "we had this team of people supporting artists behind us who really, really helped drive that"
+  },
+  {
+    "start": 1409.44,
+    "duration": 7.6,
+    "text": "across. Yeah, their time to shine. We talk about unsung heroes, right? And there's many across all"
+  },
+  {
+    "start": 1417.12,
+    "duration": 6.56,
+    "text": "sorts of business. But particularly if you tie into some of the things we're doing with AI,"
+  },
+  {
+    "start": 1423.68,
+    "duration": 4.72,
+    "text": "like AI is phenomenal. As long as you've got the systems in place, you've got the knowledge and"
+  },
+  {
+    "start": 1428.4,
+    "duration": 4.08,
+    "text": "you've got the management to be able to optimise with AI. If your systems aren't talking to each"
+  },
+  {
+    "start": 1432.48,
+    "duration": 5.36,
+    "text": "other, if they're not connected, then what you tend to find is AI is actually doing like a shadow"
+  },
+  {
+    "start": 1437.84,
+    "duration": 5.28,
+    "text": "RevOps org. And you can find that that's an issue because then you lose control over the clarity of"
+  },
+  {
+    "start": 1443.12,
+    "duration": 4.4,
+    "text": "what you're trying to do, but also reporting and information. But the team we've got are"
+  },
+  {
+    "start": 1447.52,
+    "duration": 4.16,
+    "text": "phenomenal. So they really made that journey easier for us. How long did this whole thing take?"
+  },
+  {
+    "start": 1452.64,
+    "duration": 9.12,
+    "text": "Once you're in planning, you realise we need to rationalise to make our vision work within the"
+  },
+  {
+    "start": 1461.76,
+    "duration": 6.16,
+    "text": "cost envelope. How long was that process of this org redesign and figuring out who goes where and"
+  },
+  {
+    "start": 1468.8,
+    "duration": 2.96,
+    "text": "before you were able to give it to ops to implement?"
+  },
+  {
+    "start": 1472.48,
+    "duration": 4.48,
+    "text": "Yes, it's a really interesting question. I guess we were probably design process"
+  },
+  {
+    "start": 1477.84,
+    "duration": 4.32,
+    "text": "eight to 12 weeks because we needed to go through it and make sure we check the math."
+  },
+  {
+    "start": 1482.72,
+    "duration": 3.12,
+    "text": "Then you do the sanity checking, which is really just going through,"
+  },
+  {
+    "start": 1488.0,
+    "duration": 4.16,
+    "text": "here's the upside, but what could we break as well? Because you have to be realistic. You have"
+  },
+  {
+    "start": 1492.16,
+    "duration": 4.16,
+    "text": "to be very open that you can't just be rose tinted glasses. You have to look at, well,"
+  },
+  {
+    "start": 1496.32,
+    "duration": 5.12,
+    "text": "what potentially could be the downsides? Again, a finance team maps that very, very quickly. So"
+  },
+  {
+    "start": 1501.44,
+    "duration": 3.84,
+    "text": "strong advocates there from my side. And then you actually-"
+  },
+  {
+    "start": 1505.28,
+    "duration": 5.36,
+    "text": "And you're mapping like, what if this affects win rates or what if this distracts from pipe gen?"
+  },
+  {
+    "start": 1510.64,
+    "duration": 0.0,
+    "text": ""
+  },
+  {
+    "start": 1510.64,
+    "duration": 0.56,
+    "text": "Okay."
+  },
+  {
+    "start": 1511.2,
+    "duration": 10.08,
+    "text": "Yeah. So for example, if you think about, you move, say, just to pick a number, 30% of accounts,"
+  },
+  {
+    "start": 1522.24,
+    "duration": 5.44,
+    "text": "that's 30% of reps you need to change. And that's quotas, comp plans in territories. But also"
+  },
+  {
+    "start": 1528.32,
+    "duration": 3.6,
+    "text": "we have to make sure that we have the backend. So we've got that supported as well."
+  },
+  {
+    "start": 1531.92,
+    "duration": 3.84,
+    "text": "So depending on how, if it's 80%, that's a phenomenal amount of work. If it's 10,"
+  },
+  {
+    "start": 1535.76,
+    "duration": 3.52,
+    "text": "it's not a great deal, but still you need to do the math to check to make sure that"
+  },
+  {
+    "start": 1539.28,
+    "duration": 2.56,
+    "text": "you're not creating problems for yourself further down the line as well."
+  },
+  {
+    "start": 1543.44,
+    "duration": 3.36,
+    "text": "You're in back-to-back meetings all day. You're trying to stay present,"
+  },
+  {
+    "start": 1546.8,
+    "duration": 2.96,
+    "text": "but you're also worried you'll forget the decision, the action item,"
+  },
+  {
+    "start": 1549.76,
+    "duration": 4.48,
+    "text": "the important next step. And that's where Granola comes in. Granola is an AI-powered"
+  },
+  {
+    "start": 1554.24,
+    "duration": 4.72,
+    "text": "notepad for meetings. You jot down rough notes like you always do. And in the background,"
+  },
+  {
+    "start": 1558.96,
+    "duration": 3.92,
+    "text": "Granola transcribes and turns them into clear, useful notes when the meeting ends."
+  },
+  {
+    "start": 1563.44,
+    "duration": 4.56,
+    "text": "No bots joining your calls, no distractions, just a clean notepad that helps you focus."
+  },
+  {
+    "start": 1568.72,
+    "duration": 6.72,
+    "text": "Use code TheRevenue for three months of Granola for free. So you can head on over to granola.ai"
+  },
+  {
+    "start": 1575.6,
+    "duration": 6.72,
+    "text": "slash TheRevenue to learn more. Again, that is TheRevenue for three months of Granola for free."
+  },
+  {
+    "start": 1582.32,
+    "duration": 8.48,
+    "text": "Check it out at granola.ai slash TheRevenue. Because as everybody knows, customer attrition"
+  },
+  {
+    "start": 1591.76,
+    "duration": 3.76,
+    "text": "is very difficult to recover from, and we don't want it. And we want the customer to have a great"
+  },
+  {
+    "start": 1595.52,
+    "duration": 6.4,
+    "text": "experience, but also internal attrition as well. I was watching a couple of your previous episodes"
+  },
+  {
+    "start": 1601.92,
+    "duration": 5.28,
+    "text": "and we were talking about how hard recruitment is. Recruitment is hard, right? Recruitment is"
+  },
+  {
+    "start": 1607.2,
+    "duration": 7.04,
+    "text": "hard if you're a growing company, if you're a transforming company, if you're a big multinational"
+  },
+  {
+    "start": 1614.24,
+    "duration": 4.48,
+    "text": "vendor. Recruitment to find a particular skill set that you're interested in is hard."
+  },
+  {
+    "start": 1618.72,
+    "duration": 3.68,
+    "text": "So the worst thing we could do is make changes and the team go, hey, guess what?"
+  },
+  {
+    "start": 1622.4,
+    "duration": 4.8,
+    "text": "Tapping out. Not for me. Not interested. Because the loss of productivity is phenomenal. So we have"
+  },
+  {
+    "start": 1627.2,
+    "duration": 4.08,
+    "text": "to just make sure we do all those checks to make sure we're fine. So I guess in total,"
+  },
+  {
+    "start": 1631.28,
+    "duration": 5.2,
+    "text": "I reckon we're probably a five to six month project, but actually the actual deployment"
+  },
+  {
+    "start": 1636.48,
+    "duration": 3.76,
+    "text": "of the project is relatively quick because we've done all of the homework and the background that"
+  },
+  {
+    "start": 1640.24,
+    "duration": 6.24,
+    "text": "we need to do to be able to execute. So a check. A couple of weeks of noise, maybe."
+  },
+  {
+    "start": 1647.28,
+    "duration": 9.68,
+    "text": "I want to go back a topic. And so you've now nested CS and tech support under those"
+  },
+  {
+    "start": 1656.96,
+    "duration": 4.88,
+    "text": "revenue leaders? No, tech support sits as a standalone business still. Customer success"
+  },
+  {
+    "start": 1661.84,
+    "duration": 5.92,
+    "text": "rolls into the revenue leaders. Okay. And so the counter argument is always, well,"
+  },
+  {
+    "start": 1667.76,
+    "duration": 4.56,
+    "text": "like revenue leaders won't pay enough attention to CS. They're always going to be more focused"
+  },
+  {
+    "start": 1672.32,
+    "duration": 6.0,
+    "text": "on the new business number. It's easier to move. It's typically where those individuals come from."
+  },
+  {
+    "start": 1678.32,
+    "duration": 6.4,
+    "text": "So it's more familiar. Is your general stance that the revenue leader should own"
+  },
+  {
+    "start": 1684.72,
+    "duration": 6.88,
+    "text": "CS and the retention number? Is it particular to a type of business or environment or a type"
+  },
+  {
+    "start": 1691.6,
+    "duration": 5.04,
+    "text": "of leader? And then I'd love to unpack the leadership parts, but should this be the default"
+  },
+  {
+    "start": 1696.64,
+    "duration": 5.36,
+    "text": "stance? No, is the answer to that. And I think it's all about several things. One is about stage"
+  },
+  {
+    "start": 1702.0,
+    "duration": 6.24,
+    "text": "commensurate. What's appropriate for where you are? Then it's about the product and the solution"
+  },
+  {
+    "start": 1708.24,
+    "duration": 6.0,
+    "text": "that you're offering. Does it require ongoing customer success? And we can talk about the"
+  },
+  {
+    "start": 1714.24,
+    "duration": 6.72,
+    "text": "role of customer success. The other part I'd have a look at is if you have an organisation"
+  },
+  {
+    "start": 1720.96,
+    "duration": 4.96,
+    "text": "such as ours, where I generally am passionate about that net retained, that's my remit,"
+  },
+  {
+    "start": 1725.92,
+    "duration": 4.64,
+    "text": "that's what I have to deliver. Then it's no good me just doing a whole load of new business that"
+  },
+  {
+    "start": 1730.56,
+    "duration": 4.64,
+    "text": "churns out. That has no benefit to me as an organisation whatsoever. That has no benefit"
+  },
+  {
+    "start": 1735.2,
+    "duration": 5.44,
+    "text": "to the customer either. Nobody wants to go through an evaluation to then be a vendor for 12 months."
+  },
+  {
+    "start": 1740.64,
+    "duration": 4.48,
+    "text": "It's painful. It's not just the purchase, but the cost to implement and cost of change."
+  },
+  {
+    "start": 1745.84,
+    "duration": 4.56,
+    "text": "So expansion is also a very big part of our business. We generally like to believe we"
+  },
+  {
+    "start": 1750.4,
+    "duration": 4.24,
+    "text": "offer value to customers and they want to expand their commitment to us and we work with them."
+  },
+  {
+    "start": 1754.64,
+    "duration": 5.2,
+    "text": "So I have to have an ongoing relationship anyway, because there's something that I really hold"
+  },
+  {
+    "start": 1759.84,
+    "duration": 5.04,
+    "text": "dear to our hearts. We need to look after these customers. So if I'm going to work on the new"
+  },
+  {
+    "start": 1764.88,
+    "duration": 5.04,
+    "text": "business and the expansion, then by default, it's all about the retention as well. So the"
+  },
+  {
+    "start": 1769.92,
+    "duration": 4.32,
+    "text": "question that we could ask though was, well, what's the future of account management,"
+  },
+  {
+    "start": 1774.24,
+    "duration": 4.8,
+    "text": "client success, CSAM, right? Which is the combination of the two. And we don't have"
+  },
+  {
+    "start": 1779.04,
+    "duration": 3.52,
+    "text": "an answer for that at the moment. I'm very happy with my account management and customer success"
+  },
+  {
+    "start": 1782.56,
+    "duration": 5.76,
+    "text": "team. We are trialling in a few of the long tails about a CSAM. Could we be more effective with it?"
+  },
+  {
+    "start": 1788.32,
+    "duration": 4.08,
+    "text": "Can we use technology to understand it? But ultimately, when I go into a forecast call,"
+  },
+  {
+    "start": 1792.4,
+    "duration": 3.68,
+    "text": "I have the three leaders who forecast the core part of the business for me,"
+  },
+  {
+    "start": 1796.08,
+    "duration": 6.24,
+    "text": "and they care about the same thing as me. And that is about our customers. And as part of caring"
+  },
+  {
+    "start": 1802.32,
+    "duration": 3.92,
+    "text": "about the customers, I have the new business, the expansion, and the retention part that we"
+  },
+  {
+    "start": 1806.24,
+    "duration": 6.32,
+    "text": "focus on with that as well. Now, if I was a smaller product and maybe not necessarily a product,"
+  },
+  {
+    "start": 1812.56,
+    "duration": 6.0,
+    "text": "but where there wasn't the changing environment, like if you look at what AI is doing to customer"
+  },
+  {
+    "start": 1818.56,
+    "duration": 3.84,
+    "text": "experience and employee experience, it's constantly changing. So there's a lot of, hey,"
+  },
+  {
+    "start": 1822.96,
+    "duration": 4.64,
+    "text": "how do I do this? Could I do that? There's also a lot where our customer success team will go and"
+  },
+  {
+    "start": 1827.6,
+    "duration": 3.04,
+    "text": "say, hey, Kyle, we were a customer yesterday. They were talking about something that's really"
+  },
+  {
+    "start": 1830.64,
+    "duration": 4.64,
+    "text": "interesting. I think you'd be interested in this as well. And share that knowledge about where the"
+  },
+  {
+    "start": 1835.28,
+    "duration": 6.32,
+    "text": "market's going. And I like that sitting under the same umbrella. If the product was... I give"
+  },
+  {
+    "start": 1841.6,
+    "duration": 4.64,
+    "text": "things up like Zoom, and I don't really know the Zoom business. So apologies for anybody who's from"
+  },
+  {
+    "start": 1846.24,
+    "duration": 6.08,
+    "text": "Zoom. But my Zoom kind of boots up and it works. And the most I'll do is work out if I'm putting"
+  },
+  {
+    "start": 1852.32,
+    "duration": 5.12,
+    "text": "the blur on, I'm not putting the blur on. So there's a lot of work there. I want my customer"
+  },
+  {
+    "start": 1857.44,
+    "duration": 4.0,
+    "text": "success from Zoom to be somebody who's talking to me about my strategic direction and how we can"
+  },
+  {
+    "start": 1861.44,
+    "duration": 3.44,
+    "text": "integrate it and how it can be more effective in those things. But there's not a lot of product"
+  },
+  {
+    "start": 1864.88,
+    "duration": 5.2,
+    "text": "stuff that takes place. Now, when we're looking at something like IT asset management, where there's"
+  },
+  {
+    "start": 1870.08,
+    "duration": 6.32,
+    "text": "all new devices coming on board, there's all new developments coming very quickly, customers"
+  },
+  {
+    "start": 1876.4,
+    "duration": 4.4,
+    "text": "sometimes require help and guidance on, well, look, we're looking to move into this area. Have"
+  },
+  {
+    "start": 1880.8,
+    "duration": 4.64,
+    "text": "you got experience in that? And I like that environment where we can be that, not thought"
+  },
+  {
+    "start": 1885.44,
+    "duration": 4.24,
+    "text": "leader for them, but a good partner in talking about where we are and what we're doing. And that"
+  },
+  {
+    "start": 1889.68,
+    "duration": 5.84,
+    "text": "should flow for me across any touchpoint with my customers, which is we're not a salesperson or an"
+  },
+  {
+    "start": 1895.52,
+    "duration": 4.96,
+    "text": "account manager or a customer success. We're there about how do we have our mutual journey together."
+  },
+  {
+    "start": 1901.44,
+    "duration": 9.04,
+    "text": "And so if I'm trying to back out the heuristics here, so one key input would be,"
+  },
+  {
+    "start": 1911.52,
+    "duration": 8.32,
+    "text": "is there a lot of expansion revenue? Does the growth of the company require meaningful NRR"
+  },
+  {
+    "start": 1919.84,
+    "duration": 5.44,
+    "text": "growth? And you mentioned stage, what's appropriate for the stage. Do you feel like"
+  },
+  {
+    "start": 1925.28,
+    "duration": 3.28,
+    "text": "later stage is better unified or early stage is better unified?"
+  },
+  {
+    "start": 1928.64,
+    "duration": 6.16,
+    "text": "No, I think there's a combination of multiple factors. So where we are and what we're doing"
+  },
+  {
+    "start": 1934.8,
+    "duration": 4.64,
+    "text": "at the moment, the org structure is designed to be able to execute on our net retained revenue"
+  },
+  {
+    "start": 1939.44,
+    "duration": 4.08,
+    "text": "growth, which is what we have to do as a business. That's what we report to the market. And we have"
+  },
+  {
+    "start": 1943.52,
+    "duration": 5.92,
+    "text": "to do that in a cash efficient way. So they're the things that we have to do. The goal then is"
+  },
+  {
+    "start": 1949.44,
+    "duration": 5.6,
+    "text": "to work out how do we do that in the most effective way. So for us, this was the route that I decided"
+  },
+  {
+    "start": 1955.04,
+    "duration": 4.4,
+    "text": "to take because it gives me that touch point to the customer and the ownership from the revenue"
+  },
+  {
+    "start": 1959.44,
+    "duration": 6.08,
+    "text": "leader. In previous organizations, customer success sat outside of the revenue leadership."
+  },
+  {
+    "start": 1965.52,
+    "duration": 6.16,
+    "text": "It might be because I've got multiple products that I'm trying to serve across multiple areas."
+  },
+  {
+    "start": 1972.24,
+    "duration": 3.92,
+    "text": "In previous companies, I've had a single product where actually it made sense for me to run the"
+  },
+  {
+    "start": 1976.16,
+    "duration": 5.44,
+    "text": "customer success journey outside of that because it's much more of a new business motion as well,"
+  },
+  {
+    "start": 1981.6,
+    "duration": 5.04,
+    "text": "rather than the new business and expansion. So with the previous organizations, it's looking at"
+  },
+  {
+    "start": 1986.64,
+    "duration": 4.24,
+    "text": "what am I specifically trying to achieve? What are the goals I want to achieve? What does the customer"
+  },
+  {
+    "start": 1990.88,
+    "duration": 4.72,
+    "text": "want from us as well? Because that's super important. And for us, this is where we are"
+  },
+  {
+    "start": 1995.6,
+    "duration": 6.48,
+    "text": "for this moment in time. Okay. And so if you were talking to another CRO from a similar stage"
+  },
+  {
+    "start": 2002.08,
+    "duration": 7.28,
+    "text": "business, are there like three questions you would tell them to ask whether or not CS and sales and"
+  },
+  {
+    "start": 2009.36,
+    "duration": 7.44,
+    "text": "other functions should be under one central leader in business units or built in service lines"
+  },
+  {
+    "start": 2016.8,
+    "duration": 6.32,
+    "text": "in a more matrixed fashion? What would those key questions be for other people that are trying to"
+  },
+  {
+    "start": 2023.12,
+    "duration": 4.64,
+    "text": "think through this themselves? I think for me, they'd be, let's think about it. So the first"
+  },
+  {
+    "start": 2027.76,
+    "duration": 5.6,
+    "text": "thing would be, the question first is about when I'm interviewing, are you passionate about revenue"
+  },
+  {
+    "start": 2033.36,
+    "duration": 5.2,
+    "text": "as opposed to sales? Because it gives me the early indicator straight on, right? If for example,"
+  },
+  {
+    "start": 2039.36,
+    "duration": 5.52,
+    "text": "I was interviewing last year for a senior leader role that we had, and immediately the leader was"
+  },
+  {
+    "start": 2044.88,
+    "duration": 5.36,
+    "text": "talking to me about how they care about revenue and how they care about the journey. For me,"
+  },
+  {
+    "start": 2051.12,
+    "duration": 3.44,
+    "text": "that's phenomenal because it means that I've got somebody who's already all encompassing"
+  },
+  {
+    "start": 2055.44,
+    "duration": 3.92,
+    "text": "understanding the life journey of somebody sitting inside the organization."
+  },
+  {
+    "start": 2060.48,
+    "duration": 6.8,
+    "text": "From a CRO perspective, the question would be CRO definition to clarify, right? I need to"
+  },
+  {
+    "start": 2067.28,
+    "duration": 3.6,
+    "text": "understand, is it actually you're a sales leader or you're a revenue leader? Because"
+  },
+  {
+    "start": 2070.88,
+    "duration": 3.76,
+    "text": "titles aren't always clear about what we're doing there and what we're executing across."
+  },
+  {
+    "start": 2074.64,
+    "duration": 4.4,
+    "text": "So my first question to them would be about, talk me through your understanding of revenue,"
+  },
+  {
+    "start": 2079.04,
+    "duration": 5.52,
+    "text": "talk me through billing, talk me through ARR, right? Talk me through ACV, just understand the"
+  },
+  {
+    "start": 2084.56,
+    "duration": 4.32,
+    "text": "core metrics that we're looking at. From a structural perspective, I'd be very interested"
+  },
+  {
+    "start": 2088.88,
+    "duration": 4.8,
+    "text": "in depending on their career stages, what have they built out before? What have they transformed?"
+  },
+  {
+    "start": 2093.68,
+    "duration": 3.84,
+    "text": "Did they look at transformation or did they continue to drive the business?"
+  },
+  {
+    "start": 2097.52,
+    "duration": 4.24,
+    "text": "Did they have any goals or aspirations to run a client success team?"
+  },
+  {
+    "start": 2102.32,
+    "duration": 4.16,
+    "text": "So for me, I'd be looking at those key elements. The questions you would ask about that would be,"
+  },
+  {
+    "start": 2107.36,
+    "duration": 4.64,
+    "text": "talk me through your goals on revenue, talk me through the way you see the life cycle,"
+  },
+  {
+    "start": 2112.0,
+    "duration": 3.76,
+    "text": "talk me through what happens if you do a deal and the customer's not happy."
+  },
+  {
+    "start": 2117.2,
+    "duration": 2.96,
+    "text": "The answer is, well, I give you the customer success and they go and look after it. Well,"
+  },
+  {
+    "start": 2120.16,
+    "duration": 2.88,
+    "text": "that's not what I personally want to hear for where we are at the moment."
+  },
+  {
+    "start": 2123.04,
+    "duration": 3.84,
+    "text": "Doesn't mean to say it's wrong. It just means to say for where we are and what we're doing,"
+  },
+  {
+    "start": 2126.88,
+    "duration": 5.92,
+    "text": "it's a different organization set up for us. I want to shift gears a touch. So"
+  },
+  {
+    "start": 2134.96,
+    "duration": 4.88,
+    "text": "revenue leaders tend to come from sales. And so what are the structures you put in place to get"
+  },
+  {
+    "start": 2139.84,
+    "duration": 8.48,
+    "text": "them to pay enough attention to the retention and the CS orgs when the board, the CEO, you as a CRO,"
+  },
+  {
+    "start": 2148.32,
+    "duration": 5.12,
+    "text": "probably all do what we all do, which is gravitate to that sales number as the one that"
+  },
+  {
+    "start": 2154.64,
+    "duration": 7.36,
+    "text": "really, really drives the business. And so what do you put in place in terms of your leadership"
+  },
+  {
+    "start": 2162.0,
+    "duration": 5.92,
+    "text": "approach or systems to make sure that the post-sales orgs get enough focus and attention"
+  },
+  {
+    "start": 2167.92,
+    "duration": 4.4,
+    "text": "and resources? Yeah, for sure. I think the resourcing is a big element to it, but"
+  },
+  {
+    "start": 2173.28,
+    "duration": 7.2,
+    "text": "governance to be honest with you. So I like to inspect what I expect, right? I mean, I have a"
+  },
+  {
+    "start": 2181.28,
+    "duration": 4.56,
+    "text": "set of core principles that we look at with regards to forecasting. How do we do forecasting?"
+  },
+  {
+    "start": 2185.84,
+    "duration": 4.8,
+    "text": "So we don't just forecast new business, we forecast the whole revenue. I work very closely"
+  },
+  {
+    "start": 2190.64,
+    "duration": 4.24,
+    "text": "with FP&A. FP&A are one of my biggest business partners because they're the ones who are"
+  },
+  {
+    "start": 2194.88,
+    "duration": 4.72,
+    "text": "fundamentally looking at the revenue for the organization, how it's pacing and how it's"
+  },
+  {
+    "start": 2199.6,
+    "duration": 6.08,
+    "text": "trending. So when I'm looking at sales leaders, one of the things that I think I've been pretty"
+  },
+  {
+    "start": 2205.68,
+    "duration": 7.36,
+    "text": "good at recruiting is probably somebody who's more a traditional go-to-market, in a sense,"
+  },
+  {
+    "start": 2213.04,
+    "duration": 9.04,
+    "text": "more of a VP of a mere or a VP of white portfolio. So yes, I've got some sales directors who are"
+  },
+  {
+    "start": 2222.08,
+    "duration": 4.88,
+    "text": "brilliant and they crush it and I'm very pleased with them. But to move to where I'd like you to"
+  },
+  {
+    "start": 2226.96,
+    "duration": 5.44,
+    "text": "be a leader of a region, I do want you to have a bit of a broadened portfolio and you've got a"
+  },
+  {
+    "start": 2232.4,
+    "duration": 4.8,
+    "text": "couple of roles under your belt where you can show that it's not just about the core sales number."
+  },
+  {
+    "start": 2237.2,
+    "duration": 3.84,
+    "text": "Now that doesn't mean to say that sales managers can't get there because you just have to show an"
+  },
+  {
+    "start": 2241.04,
+    "duration": 4.8,
+    "text": "interest and understand the life cycle of the customer. But as we bring people in, we talk"
+  },
+  {
+    "start": 2245.84,
+    "duration": 5.36,
+    "text": "consistently as a business about revenue, right? It is about making sure that very clear about what"
+  },
+  {
+    "start": 2251.2,
+    "duration": 4.96,
+    "text": "we're talking about, very clear about what we're achieving and the expectations of people. So when"
+  },
+  {
+    "start": 2256.16,
+    "duration": 5.36,
+    "text": "you do a forecast call, for example, I care about the net RR. I care about the net RR for month one,"
+  },
+  {
+    "start": 2261.52,
+    "duration": 4.72,
+    "text": "for month two and month three, and that adds up to the quarter, right? It's super important. And if"
+  },
+  {
+    "start": 2266.24,
+    "duration": 5.76,
+    "text": "you drive that cadence through all of your teams, then everybody by default has to care about it"
+  },
+  {
+    "start": 2272.0,
+    "duration": 3.76,
+    "text": "because they understand how it contributes. I think a big part here, Karl, would be first"
+  },
+  {
+    "start": 2275.76,
+    "duration": 6.32,
+    "text": "line managers, right? If you can crack first line managers who may have just a expansion number or"
+  },
+  {
+    "start": 2282.08,
+    "duration": 5.68,
+    "text": "a new business, but they understand the ecosystem of the retention side as well,"
+  },
+  {
+    "start": 2287.76,
+    "duration": 4.56,
+    "text": "then you create that behavior in the teams and reps and everybody who's coming up as well."
+  },
+  {
+    "start": 2292.96,
+    "duration": 5.2,
+    "text": "So that GM model, I guess, is probably where I'm not being as articulate as I could be. You've got"
+  },
+  {
+    "start": 2298.16,
+    "duration": 5.36,
+    "text": "that GM mindset, general manager. So that's the thing that really excites me about the leaders"
+  },
+  {
+    "start": 2303.52,
+    "duration": 6.4,
+    "text": "that we've got. And I actually think that's a lot more common in Europe. Those roles, I mean,"
+  },
+  {
+    "start": 2309.92,
+    "duration": 4.56,
+    "text": "that's typically the first role for an American company that's going over there."
+  },
+  {
+    "start": 2314.48,
+    "duration": 5.6,
+    "text": "So you have so many of these people that have had to be the GM because you don't want to have a"
+  },
+  {
+    "start": 2320.08,
+    "duration": 7.44,
+    "text": "sales leader, a CS leader, a marketing leader day one with big senior salaries. And so I find there"
+  },
+  {
+    "start": 2328.96,
+    "duration": 6.4,
+    "text": "are a lot more folks that come out of Europe that are GM oriented that fit this model. In the US"
+  },
+  {
+    "start": 2335.36,
+    "duration": 6.96,
+    "text": "and North America tends to be a lot more predefined. And you could go through a 10,"
+  },
+  {
+    "start": 2342.32,
+    "duration": 6.24,
+    "text": "15, 20-year career as a sales leader and then get planted into a senior revenue role where you now"
+  },
+  {
+    "start": 2348.56,
+    "duration": 9.28,
+    "text": "have CS and you're figuring it out from scratch. That I think is more common than a GM type person"
+  },
+  {
+    "start": 2357.84,
+    "duration": 3.92,
+    "text": "going into it. So the markets, I think, play into this too."
+  },
+  {
+    "start": 2362.16,
+    "duration": 6.48,
+    "text": "I think you're very observant on it and I totally agree because having worked for predominantly"
+  },
+  {
+    "start": 2368.64,
+    "duration": 6.56,
+    "text": "US organizations and ranging from doing very small startups and building them up or doing"
+  },
+  {
+    "start": 2375.2,
+    "duration": 4.96,
+    "text": "transformation or looking at how do we do a turnaround of something, that GM role gives"
+  },
+  {
+    "start": 2380.16,
+    "duration": 6.48,
+    "text": "me that flexibility. I mean, in previous careers, I've actually had FP&A and marketing reporting to"
+  },
+  {
+    "start": 2386.64,
+    "duration": 6.48,
+    "text": "me as well and facilities. Yeah, which would make my FP&A and marketing team laugh to even hear"
+  },
+  {
+    "start": 2393.12,
+    "duration": 7.2,
+    "text": "that. But the point is it gives me that rounded view. Now, if you look at the US market though"
+  },
+  {
+    "start": 2400.32,
+    "duration": 3.92,
+    "text": "and the traditional, it doesn't mean to say that you can't have the interest because"
+  },
+  {
+    "start": 2406.08,
+    "duration": 3.6,
+    "text": "this kind of comes back to my time at Oracle. Oracle was really interesting because"
+  },
+  {
+    "start": 2410.72,
+    "duration": 4.0,
+    "text": "before when you're a GM, you can sort of make a decision and you can decide. Obviously,"
+  },
+  {
+    "start": 2414.72,
+    "duration": 3.92,
+    "text": "you've got to get it approved and things like that. But I could look at what I wanted to do"
+  },
+  {
+    "start": 2418.64,
+    "duration": 3.6,
+    "text": "and go, actually, I'm going to do this or I would like to do that. And irrespective of the team,"
+  },
+  {
+    "start": 2422.24,
+    "duration": 5.84,
+    "text": "I could work with them to do that. When you join Oracle, you realize there's an ecosystem of people"
+  },
+  {
+    "start": 2428.08,
+    "duration": 4.72,
+    "text": "like you who all want similar things, maybe all have the same clients as well. So what you have"
+  },
+  {
+    "start": 2432.8,
+    "duration": 7.68,
+    "text": "to learn then is about this multi-matrix management because these people are all great and like I say,"
+  },
+  {
+    "start": 2440.48,
+    "duration": 3.76,
+    "text": "I really enjoy my time at Oracle. But they have their goals and their objectives. They might not"
+  },
+  {
+    "start": 2444.24,
+    "duration": 3.76,
+    "text": "even be in the same business unit. One could be in hardware, one could be in middleware,"
+  },
+  {
+    "start": 2448.0,
+    "duration": 5.52,
+    "text": "one could be in software like apps. So then what you realize is reporting lines can become"
+  },
+  {
+    "start": 2454.48,
+    "duration": 5.6,
+    "text": "a distraction. But also, if you can talk about, well, how do I influence other people inside the"
+  },
+  {
+    "start": 2460.08,
+    "duration": 4.4,
+    "text": "organization and how do I understand what their goals and their objectives are, then all of a"
+  },
+  {
+    "start": 2464.48,
+    "duration": 4.96,
+    "text": "sudden the reporting line becomes less of an issue. So I guess if I got some advice, my advice would"
+  },
+  {
+    "start": 2469.44,
+    "duration": 5.84,
+    "text": "be it doesn't matter what your direct reporting line is, just care about it. Just care about it,"
+  },
+  {
+    "start": 2475.28,
+    "duration": 5.12,
+    "text": "just learn about it, just understand it. Now go talk to tech support and understand what problems"
+  },
+  {
+    "start": 2480.4,
+    "duration": 4.96,
+    "text": "are coming through on the systems. What are the latest trends we're seeing in customer success?"
+  },
+  {
+    "start": 2485.36,
+    "duration": 7.68,
+    "text": "If they report to you or not, that's about internal organizational design like workforce"
+  },
+  {
+    "start": 2493.04,
+    "duration": 5.28,
+    "text": "management. But there's nothing stopping anybody across any role just being intrigued and curious"
+  },
+  {
+    "start": 2498.32,
+    "duration": 4.4,
+    "text": "about what other people are doing. And it's that curiosity, which is the bit I would look for,"
+  },
+  {
+    "start": 2502.72,
+    "duration": 4.72,
+    "text": "is that have you been curious about how other organizations inside your team are working?"
+  },
+  {
+    "start": 2507.44,
+    "duration": 5.28,
+    "text": "And I think you'll find increasingly more and more people are. So I do agree it's discrete models,"
+  },
+  {
+    "start": 2513.28,
+    "duration": 4.8,
+    "text": "but again, I guess the comment there is reporting lines are something that are there to be"
+  },
+  {
+    "start": 2519.12,
+    "duration": 4.08,
+    "text": "looked at, but also not to stop you expanding your own knowledge and your own mindset as well."
+  },
+  {
+    "start": 2523.76,
+    "duration": 6.48,
+    "text": "And so as you've gone through this process, you referenced you were at Oracle, you were at Adobe,"
+  },
+  {
+    "start": 2530.24,
+    "duration": 4.96,
+    "text": "both companies, very matrix, tons of acquisitions. People would say about Oracle,"
+  },
+  {
+    "start": 2535.2,
+    "duration": 5.52,
+    "text": "you have to do more selling internally than externally to encapsulate what that environment's"
+  },
+  {
+    "start": 2540.72,
+    "duration": 8.64,
+    "text": "like. I'm wondering as you looked at this process and you're trying to avoid the monstrous complexity"
+  },
+  {
+    "start": 2549.36,
+    "duration": 4.48,
+    "text": "of some of those orgs, and we'll transition into this complexity idea,"
+  },
+  {
+    "start": 2553.84,
+    "duration": 4.96,
+    "text": "how did you try to build simplicity into this process from the start?"
+  },
+  {
+    "start": 2559.84,
+    "duration": 4.72,
+    "text": "Yeah, it's one of those areas where if I look at my time at previous organizations,"
+  },
+  {
+    "start": 2564.56,
+    "duration": 6.64,
+    "text": "complexity can come in many forms. I was looking at this the other day about"
+  },
+  {
+    "start": 2571.2,
+    "duration": 4.32,
+    "text": "spanner control and reporting layers. How many reporting layers is there between"
+  },
+  {
+    "start": 2576.32,
+    "duration": 3.76,
+    "text": "individual contributor, like an IC1, so somebody's brand new into the business,"
+  },
+  {
+    "start": 2580.08,
+    "duration": 3.92,
+    "text": "and Dennis, who's the CEO? Because that's really important because it's"
+  },
+  {
+    "start": 2584.0,
+    "duration": 4.16,
+    "text": "how long does it take Dennis to get his message down through the organization and where he needs"
+  },
+  {
+    "start": 2588.16,
+    "duration": 5.12,
+    "text": "it to be? How big is spanner control? How many people does an individual manager have reporting"
+  },
+  {
+    "start": 2593.28,
+    "duration": 4.32,
+    "text": "to them? Because if it's over a certain amount, it's very hard to make sure that everybody has"
+  },
+  {
+    "start": 2597.6,
+    "duration": 4.32,
+    "text": "the consistent message as well. So when we're doing our workforce management, we were very"
+  },
+  {
+    "start": 2601.92,
+    "duration": 4.32,
+    "text": "clear, and our HR partners were getting amazing at this, was giving us all of the data and"
+  },
+  {
+    "start": 2606.24,
+    "duration": 5.12,
+    "text": "information that we required to look at, okay, well, what is our spanner control? What are the"
+  },
+  {
+    "start": 2611.36,
+    "duration": 4.96,
+    "text": "levels that we have? And where do we have the outliers where maybe we could look at how we can"
+  },
+  {
+    "start": 2616.32,
+    "duration": 4.88,
+    "text": "build a more efficient team? Where have we got groups of individuals who's managers in a different"
+  },
+  {
+    "start": 2621.2,
+    "duration": 4.24,
+    "text": "location where we're creating complexity for ourselves? Is there a way that we could have,"
+  },
+  {
+    "start": 2625.44,
+    "duration": 5.28,
+    "text": "like these IC1s and IC2s who are keen, eager, and want to learn, how do we make sure that they've"
+  },
+  {
+    "start": 2630.72,
+    "duration": 5.12,
+    "text": "got a team around them to drive that? So workforce management is number one on it."
+  },
+  {
+    "start": 2635.84,
+    "duration": 5.68,
+    "text": "The second one would be really being very clear on the level of reporting that you require and"
+  },
+  {
+    "start": 2641.52,
+    "duration": 4.48,
+    "text": "not making it too onerous so that you're ending up reporting on reporting. I'm sure we've all"
+  },
+  {
+    "start": 2646.0,
+    "duration": 4.96,
+    "text": "beaten it, right? Where you're doing a pre-meeting about a pre-meeting for a pre-read for a meeting,"
+  },
+  {
+    "start": 2650.96,
+    "duration": 4.96,
+    "text": "right? And you're like, hold on, we've just spent so long on this. So how do you reduce noise?"
+  },
+  {
+    "start": 2655.92,
+    "duration": 4.16,
+    "text": "So how do we make sure that we make the most efficient time that we have together and drive"
+  },
+  {
+    "start": 2660.08,
+    "duration": 5.28,
+    "text": "that traction through the business as well? But for me, the big one in the simplicity will be,"
+  },
+  {
+    "start": 2665.36,
+    "duration": 4.72,
+    "text": "it just complicates everything. And I'll give you an example. I won't name the company."
+  },
+  {
+    "start": 2670.64,
+    "duration": 4.72,
+    "text": "Working for a company, got acquired. We were one of the very early SaaS companies."
+  },
+  {
+    "start": 2675.36,
+    "duration": 4.64,
+    "text": "And we would get an order. It would go through our systems and it'd be provisioned within about"
+  },
+  {
+    "start": 2680.0,
+    "duration": 3.92,
+    "text": "seven or eight minutes of us checking the order and making sure everything's okay."
+  },
+  {
+    "start": 2683.92,
+    "duration": 3.44,
+    "text": "Got acquired by one of the companies, and that became a three-week process."
+  },
+  {
+    "start": 2688.0,
+    "duration": 5.36,
+    "text": "And the project was, well, we got to make sure that everything's okay. We've got to make sure"
+  },
+  {
+    "start": 2693.36,
+    "duration": 4.32,
+    "text": "that everything's ticked and they go through like four or five different layers of people."
+  },
+  {
+    "start": 2697.68,
+    "duration": 4.64,
+    "text": "Now, my point was, we were doing that as the startup company. We were doing all the due"
+  },
+  {
+    "start": 2702.32,
+    "duration": 4.64,
+    "text": "diligence that we needed to do. We weren't doing bad deals, but it's a case of where you then go"
+  },
+  {
+    "start": 2706.96,
+    "duration": 4.64,
+    "text": "into an environment where that's the way that is designed and that's the way that it looks at."
+  },
+  {
+    "start": 2712.16,
+    "duration": 5.84,
+    "text": "And one of the things that's great about Freshworks is we have some of those legacy"
+  },
+  {
+    "start": 2718.0,
+    "duration": 5.2,
+    "text": "processes just through the organic growth that we had. But we are literally going through and"
+  },
+  {
+    "start": 2723.2,
+    "duration": 2.96,
+    "text": "saying, right, okay, how do we become more efficient? How do we make this system talk"
+  },
+  {
+    "start": 2726.16,
+    "duration": 4.96,
+    "text": "to that system? Why doesn't this system talk to that system? And you'll find a lot of it will be"
+  },
+  {
+    "start": 2731.12,
+    "duration": 4.4,
+    "text": "systems just not talking to each other as well as people think. Or there'll be a lot of manual"
+  },
+  {
+    "start": 2735.52,
+    "duration": 4.24,
+    "text": "work to get the systems to look like they're talking. And when you've got the systems look"
+  },
+  {
+    "start": 2739.76,
+    "duration": 5.2,
+    "text": "like they're talking, then you tend to have discrepancies, right, because you don't get the"
+  },
+  {
+    "start": 2744.96,
+    "duration": 5.44,
+    "text": "single source. So we're working very hard on that system side as well. It's a hard lift though."
+  },
+  {
+    "start": 2750.96,
+    "duration": 5.76,
+    "text": "Like it's a hard lift. I was listening to your call with Jason, right, about the AI agents and"
+  },
+  {
+    "start": 2756.72,
+    "duration": 4.08,
+    "text": "how you're building those out. And one of the things you spoke about, which is how do you"
+  },
+  {
+    "start": 2760.8,
+    "duration": 3.44,
+    "text": "manage all these AI agents that you're creating? Like how do you go and recruit some of these"
+  },
+  {
+    "start": 2764.56,
+    "duration": 5.84,
+    "text": "AI agents? You imagine how if every department creates its own AI agent to fix a problem that"
+  },
+  {
+    "start": 2770.4,
+    "duration": 4.8,
+    "text": "they've got, we're out fixing the core systems. That's a lot. And then where is the governance,"
+  },
+  {
+    "start": 2775.2,
+    "duration": 3.2,
+    "text": "the discipline, and the control? One last question before we tie up this"
+  },
+  {
+    "start": 2779.36,
+    "duration": 6.64,
+    "text": "unified org topic. What was the biggest learning? So you've gone through this process probably a"
+  },
+  {
+    "start": 2786.0,
+    "duration": 6.0,
+    "text": "bunch of times in your career, seen reorgs go well and not as well. What were some of the biggest"
+  },
+  {
+    "start": 2792.0,
+    "duration": 7.12,
+    "text": "takeaways from this process that maybe surprised you or you're taking to the next one?"
+  },
+  {
+    "start": 2799.76,
+    "duration": 5.84,
+    "text": "I can't be involved in everything, like number one. I think it's probably the thing I've"
+  },
+  {
+    "start": 2807.28,
+    "duration": 6.56,
+    "text": "struggled with most in my career is that I like to know what's going on and I like to have a say."
+  },
+  {
+    "start": 2814.4,
+    "duration": 8.08,
+    "text": "And my team are great at pandering to those needs that I have now and then and then going to get"
+  },
+  {
+    "start": 2822.48,
+    "duration": 5.44,
+    "text": "the stuff done. But that was number one, which is I spent a time getting the leadership in place"
+  },
+  {
+    "start": 2827.92,
+    "duration": 5.28,
+    "text": "that I required and I fully trust them to make the decisions. And I think that people talk about"
+  },
+  {
+    "start": 2833.2,
+    "duration": 3.52,
+    "text": "empowerment, talking about empowerment, but actually empowering people are two completely"
+  },
+  {
+    "start": 2836.72,
+    "duration": 3.76,
+    "text": "separate things, right? Because you have to have that impact. So the first would be"
+  },
+  {
+    "start": 2841.04,
+    "duration": 8.4,
+    "text": "like just allowing people to do what they need to do. The second one would be that the clarity"
+  },
+  {
+    "start": 2849.44,
+    "duration": 6.0,
+    "text": "of the vision is super important. This market's in an intriguing place at this point in time."
+  },
+  {
+    "start": 2856.16,
+    "duration": 5.92,
+    "text": "And you and I have been through maybe a few cycles, a few ups and downs in the industry as"
+  },
+  {
+    "start": 2862.08,
+    "duration": 5.76,
+    "text": "times go by, that there's a lot of people inside many organizations where it's their first journey"
+  },
+  {
+    "start": 2867.84,
+    "duration": 5.68,
+    "text": "on it. And for the benefit we can talk about AI, it's scaring people as well, right? There's a lot"
+  },
+  {
+    "start": 2873.52,
+    "duration": 5.28,
+    "text": "of people who are worried about the future and what it entails for them. So I think being clear"
+  },
+  {
+    "start": 2878.8,
+    "duration": 6.96,
+    "text": "with people about the org design and the journey that we're on and that continuing to deliver,"
+  },
+  {
+    "start": 2885.76,
+    "duration": 4.88,
+    "text": "why we will do that change, because that's ultimately the business that I'm in. It's like"
+  },
+  {
+    "start": 2890.64,
+    "duration": 4.24,
+    "text": "I have to deliver my forecast, but being consistent is the core thing for my job,"
+  },
+  {
+    "start": 2894.88,
+    "duration": 4.32,
+    "text": "right? The number one skill set of a CRO has been consistent. You've got to do what you say"
+  },
+  {
+    "start": 2899.2,
+    "duration": 4.0,
+    "text": "you're going to do and you've got to do it consistently. So that journey vision I think"
+  },
+  {
+    "start": 2903.2,
+    "duration": 6.56,
+    "text": "is really important for me on that side as well. The other thing is just be excited by it, right?"
+  },
+  {
+    "start": 2909.76,
+    "duration": 4.48,
+    "text": "I mean, I was talking to Dennis and I was saying on my CV, I think somewhere I put that I like big"
+  },
+  {
+    "start": 2914.24,
+    "duration": 4.4,
+    "text": "problems and I like big challenges and I like waking up trying to work out how to fix something."
+  },
+  {
+    "start": 2919.6,
+    "duration": 7.84,
+    "text": "I generally thrive on that part. I enjoy looking at the complexity. If you can look at change as"
+  },
+  {
+    "start": 2927.44,
+    "duration": 4.88,
+    "text": "something that's for the good and something that enables us to be more effective, and you can take"
+  },
+  {
+    "start": 2932.32,
+    "duration": 4.88,
+    "text": "people on the journey with that as well, you suddenly have a group of individuals who are"
+  },
+  {
+    "start": 2937.2,
+    "duration": 5.6,
+    "text": "in the trenches with you and we're working our way through it. We should never underestimate"
+  },
+  {
+    "start": 2942.8,
+    "duration": 5.6,
+    "text": "how much overcommunication can be our friend in these times where we're moving segments and"
+  },
+  {
+    "start": 2948.4,
+    "duration": 6.56,
+    "text": "teams and things like that. Okay. I want to get into this topic around simplicity as operating"
+  },
+  {
+    "start": 2954.96,
+    "duration": 8.32,
+    "text": "discipline and sort of the setup for this is your philosophy in our intake form is that like"
+  },
+  {
+    "start": 2963.28,
+    "duration": 4.48,
+    "text": "organizations tend to become more complex over time and it's sort of our job to simplify."
+  },
+  {
+    "start": 2968.48,
+    "duration": 5.36,
+    "text": "Maybe just lay out your belief there first and then I would love to talk about how you actually"
+  },
+  {
+    "start": 2973.84,
+    "duration": 8.0,
+    "text": "do it. If we talk about simplicity, it's really how do we enable the team to be as efficient as"
+  },
+  {
+    "start": 2981.84,
+    "duration": 6.8,
+    "text": "they can be and remove the complexity? It makes sense, right? I think part of why I look at that"
+  },
+  {
+    "start": 2988.64,
+    "duration": 4.48,
+    "text": "is you mentioned it earlier on about sometimes in the large organizations, how it can be difficult"
+  },
+  {
+    "start": 2993.12,
+    "duration": 4.4,
+    "text": "to actually get stuff done, right? And you talk about self-prevention officers and things like"
+  },
+  {
+    "start": 2997.52,
+    "duration": 9.76,
+    "text": "that, which is things, but if I talk to my teams and I listen to them, the frustration that they"
+  },
+  {
+    "start": 3007.28,
+    "duration": 4.88,
+    "text": "would have with us and in other roles, it's not unique to us, right? Which is how can you make"
+  },
+  {
+    "start": 3012.16,
+    "duration": 5.12,
+    "text": "it easier for me to do my job, right? How can you remove some of the barriers that slow me down?"
+  },
+  {
+    "start": 3017.36,
+    "duration": 6.72,
+    "text": "And that could be about territory allocation. It could be service orders come through,"
+  },
+  {
+    "start": 3024.08,
+    "duration": 4.4,
+    "text": "how do you get it booked through the systems? It could be, I'm trying to work out who to"
+  },
+  {
+    "start": 3028.48,
+    "duration": 4.96,
+    "text": "target as my next account, what tools and opportunities do I use? Because it's really"
+  },
+  {
+    "start": 3033.44,
+    "duration": 4.56,
+    "text": "important for me that people feel that we're providing them all the capabilities that they"
+  },
+  {
+    "start": 3038.0,
+    "duration": 4.72,
+    "text": "require to be able to just go do their job. If you have to take a rep out for an hour a day to"
+  },
+  {
+    "start": 3042.72,
+    "duration": 4.56,
+    "text": "go and do admin work or to do some form of checking, it's just not a productive use of the"
+  },
+  {
+    "start": 3047.28,
+    "duration": 4.72,
+    "text": "time. But if you forget the productivity, it's just not enjoyable. They don't want to go through"
+  },
+  {
+    "start": 3052.0,
+    "duration": 4.32,
+    "text": "that burden. So for me, if you look at just the core sales role, it's like, well, how do we make"
+  },
+  {
+    "start": 3056.32,
+    "duration": 4.64,
+    "text": "sure that they can be as efficient as they can be with the time that they've got? If you look at the"
+  },
+  {
+    "start": 3060.96,
+    "duration": 5.52,
+    "text": "back office, it really is about, if we go back to that matrix management, I have a great set of"
+  },
+  {
+    "start": 3066.48,
+    "duration": 4.88,
+    "text": "business partners who I can explain some of the challenges that I have in systems or process or"
+  },
+  {
+    "start": 3071.36,
+    "duration": 5.04,
+    "text": "anything like that. And they'll work with me to try and resolve those challenges as well."
+  },
+  {
+    "start": 3076.96,
+    "duration": 4.8,
+    "text": "So if you think about, again, workforce planning, so you think about workforce planning,"
+  },
+  {
+    "start": 3081.76,
+    "duration": 8.08,
+    "text": "you've typically got NetSuite, Adaptive, Workday and a recruiting tool. So we just spoke about"
+  },
+  {
+    "start": 3089.84,
+    "duration": 4.24,
+    "text": "recruiting, how difficult is recruiting? I need to make sure that all those are synced up so that"
+  },
+  {
+    "start": 3094.08,
+    "duration": 4.0,
+    "text": "my recruiters aren't spending time working out what's in headcount, what isn't in headcount."
+  },
+  {
+    "start": 3098.08,
+    "duration": 4.48,
+    "text": "I need to make sure that I've got the latest headcount of joiners, leavers. I need to make"
+  },
+  {
+    "start": 3102.56,
+    "duration": 4.0,
+    "text": "sure that I know the open heads that I've got, and I need to know about the capacity planning."
+  },
+  {
+    "start": 3107.12,
+    "duration": 4.32,
+    "text": "Now, if that's going to take me a long time to go and find, all my managers need to go and look"
+  },
+  {
+    "start": 3111.44,
+    "duration": 4.0,
+    "text": "at four or five different spreadsheets and correlate them together. That's just not effective"
+  },
+  {
+    "start": 3115.44,
+    "duration": 5.36,
+    "text": "use. That's where the complexity starts to come in. But that's stuff that we can fix. And we're"
+  },
+  {
+    "start": 3120.8,
+    "duration": 3.76,
+    "text": "very good at this. But they're the areas where you can look at how can I become more efficient as"
+  },
+  {
+    "start": 3124.56,
+    "duration": 5.6,
+    "text": "well. The other part, and I think we aren't quite there yet for this, is our org design. The org"
+  },
+  {
+    "start": 3130.16,
+    "duration": 4.0,
+    "text": "design, after having these two separate orgs, it was difficult to work out, was that your account?"
+  },
+  {
+    "start": 3134.16,
+    "duration": 4.96,
+    "text": "Is it my account? Are we upselling? Are you upselling? So bringing that together gave us"
+  },
+  {
+    "start": 3139.12,
+    "duration": 5.76,
+    "text": "that more simplistic view of this is where we are focused on from a different team segmentation."
+  },
+  {
+    "start": 3144.88,
+    "duration": 4.72,
+    "text": "And then the final bit behind the scenes would just be about how do you build that link with"
+  },
+  {
+    "start": 3149.6,
+    "duration": 6.56,
+    "text": "marketing and build that relationship so that we can see a clean flow of the universe of interests"
+  },
+  {
+    "start": 3156.16,
+    "duration": 4.16,
+    "text": "all the way through to, did we win it? If we didn't win it, why didn't we win it? And if we"
+  },
+  {
+    "start": 3160.32,
+    "duration": 4.32,
+    "text": "can learn from that process as well. And again, that's the case of how do you make that so it's"
+  },
+  {
+    "start": 3164.64,
+    "duration": 4.24,
+    "text": "not a group of meetings every single week about the same subject where nobody makes any changes"
+  },
+  {
+    "start": 3168.88,
+    "duration": 6.0,
+    "text": "to what we're trying to achieve. Why do you think this naturally happens as companies grow? It just"
+  },
+  {
+    "start": 3174.88,
+    "duration": 7.12,
+    "text": "seems to be the end state that you get slow. What's the driving root cause that people should"
+  },
+  {
+    "start": 3182.0,
+    "duration": 7.92,
+    "text": "be trying to fix? So in my experience, when I joined one of the larger organizations, it took"
+  },
+  {
+    "start": 3189.92,
+    "duration": 4.4,
+    "text": "me a really long time to work out the difference between somebody's job spec and their job role and"
+  },
+  {
+    "start": 3194.32,
+    "duration": 6.4,
+    "text": "what they actually did. Because you have three people who are focused on the RevOps sales"
+  },
+  {
+    "start": 3200.72,
+    "duration": 4.16,
+    "text": "enablement and they're in three different teams. Okay, well, which one is actually the person who's"
+  },
+  {
+    "start": 3204.88,
+    "duration": 5.36,
+    "text": "going to be responsible for the work that I need to do? So I think it's the clarity over job role,"
+  },
+  {
+    "start": 3210.24,
+    "duration": 5.76,
+    "text": "job specification that is super, super important for us so that we know who is that individual"
+  },
+  {
+    "start": 3216.0,
+    "duration": 4.4,
+    "text": "who's responsible for this particular task and that particular action. And that's probably more"
+  },
+  {
+    "start": 3220.4,
+    "duration": 4.0,
+    "text": "of an issue or challenge when you get into the larger organizations when you do have"
+  },
+  {
+    "start": 3224.4,
+    "duration": 5.12,
+    "text": "overlaying. If you think about in a small organization, you typically have a circle of"
+  },
+  {
+    "start": 3229.52,
+    "duration": 5.12,
+    "text": "people who want to do the job, right? Everybody's just a startup, they're great, we're leaning in,"
+  },
+  {
+    "start": 3234.64,
+    "duration": 4.48,
+    "text": "we're doing stuff. And then maybe you get another product or you get a different arm that you want"
+  },
+  {
+    "start": 3239.12,
+    "duration": 5.2,
+    "text": "to look at and you get two circles, right? So you've got these two circles that are now slightly"
+  },
+  {
+    "start": 3244.32,
+    "duration": 4.88,
+    "text": "similar and joined but different. Then you get the Venn diagram, which is the gray in the middle,"
+  },
+  {
+    "start": 3249.2,
+    "duration": 4.08,
+    "text": "which is where you start to lose the accountability of, well, I color, I thought that was on your"
+  },
+  {
+    "start": 3253.28,
+    "duration": 5.84,
+    "text": "unit. No, no, that's for you to do. They're the areas where if you think about a multinational"
+  },
+  {
+    "start": 3259.12,
+    "duration": 6.08,
+    "text": "walk, when you've got three circles, five circles, 10 circles, 15, 20, 30, 50, you can see where the"
+  },
+  {
+    "start": 3265.2,
+    "duration": 4.56,
+    "text": "gray can start to become a big part of the confusion about responsibility and accountability."
+  },
+  {
+    "start": 3270.48,
+    "duration": 4.56,
+    "text": "So accountability is the thing that's really important. Who is the person who's responsible"
+  },
+  {
+    "start": 3275.04,
+    "duration": 5.52,
+    "text": "for doing this job? And also, can I hold them to account for it? Now, to hold them to account for"
+  },
+  {
+    "start": 3280.56,
+    "duration": 3.76,
+    "text": "it, I need to make sure that there's nothing in the way stopping them from doing their job and"
+  },
+  {
+    "start": 3284.32,
+    "duration": 4.48,
+    "text": "they're giving them all the tools that they need. And that's for two reasons. If I make sure"
+  },
+  {
+    "start": 3288.8,
+    "duration": 4.64,
+    "text": "they've got all the tools they need and they are trained up and they are able to execute,"
+  },
+  {
+    "start": 3293.44,
+    "duration": 4.72,
+    "text": "first of all, then they can be deliverable. They can go and do what they need to do. Secondly,"
+  },
+  {
+    "start": 3298.16,
+    "duration": 5.36,
+    "text": "I can hold them to account for it. So my job in many ways, Carl, is saying to my organization,"
+  },
+  {
+    "start": 3303.52,
+    "duration": 5.04,
+    "text": "tell me what's stopping you from running faster. What's the bits that's slowing you down? How can"
+  },
+  {
+    "start": 3308.56,
+    "duration": 5.44,
+    "text": "I help you become more effective? And again, you get plenty of feedback and areas of opportunity"
+  },
+  {
+    "start": 3314.0,
+    "duration": 4.72,
+    "text": "to go and move forward with that. I've got sort of two ideas that I'm curious to get your feedback"
+  },
+  {
+    "start": 3318.72,
+    "duration": 10.16,
+    "text": "on. It feels like the duplication and some of this stuff comes from everybody has their own"
+  },
+  {
+    "start": 3328.88,
+    "duration": 5.6,
+    "text": "objectives and we rely on another team to do a thing. We're not getting what we need from there."
+  },
+  {
+    "start": 3334.48,
+    "duration": 6.32,
+    "text": "And then we build some version of that within our own org because we don't feel like we are going"
+  },
+  {
+    "start": 3340.8,
+    "duration": 5.52,
+    "text": "to be able to get to our number. And I've seen this play out. I've done this myself. I'm like,"
+  },
+  {
+    "start": 3346.32,
+    "duration": 5.12,
+    "text": "okay, I know this team is supposed to do this thing, but they're not really doing it very well"
+  },
+  {
+    "start": 3351.44,
+    "duration": 5.36,
+    "text": "and I need it to happen now. I can't wait for them. I don't have confidence in the competence"
+  },
+  {
+    "start": 3356.8,
+    "duration": 6.08,
+    "text": "of this other team or person. So I'm going to build a shadow version of that to get that"
+  },
+  {
+    "start": 3362.88,
+    "duration": 7.84,
+    "text": "job done for myself. I feel like that's one thing. And then the root cause problem there is"
+  },
+  {
+    "start": 3371.68,
+    "duration": 5.68,
+    "text": "not everybody holding the same performance standard or having the right clarity of"
+  },
+  {
+    "start": 3377.36,
+    "duration": 5.68,
+    "text": "conversation of like, I need to do this. You're responsible for these things. I'm not getting it."
+  },
+  {
+    "start": 3384.24,
+    "duration": 7.2,
+    "text": "Go fix it. So that feels like maybe one root cause. And as the organization grows and there's"
+  },
+  {
+    "start": 3391.44,
+    "duration": 4.24,
+    "text": "more business units, more regions that the proliferation happens. And the other thing"
+  },
+  {
+    "start": 3395.68,
+    "duration": 6.72,
+    "text": "comes from Elon where in a bureaucracy, in a government, much like in a company,"
+  },
+  {
+    "start": 3403.04,
+    "duration": 4.8,
+    "text": "we have all these mechanisms to add things, to add budget, to add headcount, to approve new things,"
+  },
+  {
+    "start": 3407.84,
+    "duration": 6.16,
+    "text": "but there's no business process to say, all right, every 90 days, we're going to sit down"
+  },
+  {
+    "start": 3414.0,
+    "duration": 4.4,
+    "text": "and delete some stuff, delete business process, delete roles, delete tools and systems."
+  },
+  {
+    "start": 3419.2,
+    "duration": 7.68,
+    "text": "And so you just get this bloat because we have adding tools and no subtracting tools."
+  },
+  {
+    "start": 3426.88,
+    "duration": 3.52,
+    "text": "What's your reaction to that? Yeah, because it's not ill intent either."
+  },
+  {
+    "start": 3430.4,
+    "duration": 6.88,
+    "text": "Right. No, it's all very normal and sometimes locally maximizing decisions."
+  },
+  {
+    "start": 3437.92,
+    "duration": 5.68,
+    "text": "Yeah. Yeah. It's usually people with best intent who have a timeline that needs to execute"
+  },
+  {
+    "start": 3443.6,
+    "duration": 5.44,
+    "text": "something and haven't been able to do that. And I think where it becomes a little bit more"
+  },
+  {
+    "start": 3449.04,
+    "duration": 4.24,
+    "text": "formal is when you do get the shadow walk that gets created. You find somebody, all of a sudden,"
+  },
+  {
+    "start": 3453.28,
+    "duration": 5.36,
+    "text": "somebody's got five people who's doing a sales program and it's not inside the revenue enable"
+  },
+  {
+    "start": 3458.64,
+    "duration": 4.48,
+    "text": "or something like that. And I think, again, when you find that there's a couple of areas that"
+  },
+  {
+    "start": 3463.12,
+    "duration": 4.96,
+    "text": "we have a look at. So we do every month we review our core system, right? We sit down and we go"
+  },
+  {
+    "start": 3468.08,
+    "duration": 4.72,
+    "text": "through the core systems and we look at, okay, who's talking together from a team perspective"
+  },
+  {
+    "start": 3472.8,
+    "duration": 4.08,
+    "text": "and who's talking together from a system perspective. And that open, honest, courteous"
+  },
+  {
+    "start": 3476.88,
+    "duration": 4.48,
+    "text": "and respectful conversation doesn't mean say it can't be lively, right? About where we are,"
+  },
+  {
+    "start": 3481.36,
+    "duration": 4.48,
+    "text": "what are we doing? But because I think we've got such a clear vision about the opportunity"
+  },
+  {
+    "start": 3485.84,
+    "duration": 5.36,
+    "text": "in front of us at Freshworks and we see how we can become more efficient, but also how we can"
+  },
+  {
+    "start": 3491.2,
+    "duration": 6.8,
+    "text": "help drive the customer to be more effective as well. We have that common goal. Where it gets"
+  },
+  {
+    "start": 3498.0,
+    "duration": 4.16,
+    "text": "challenging is when you probably get this as well, right? Where you get the email and you say,"
+  },
+  {
+    "start": 3502.88,
+    "duration": 4.72,
+    "text": "who do I talk to about this? I'll speak to the CRM team. Well, who's that? I don't know who's"
+  },
+  {
+    "start": 3507.6,
+    "duration": 6.32,
+    "text": "called CRM. Who's the individual in the CRM team that I can talk to, to actually understand where"
+  },
+  {
+    "start": 3513.92,
+    "duration": 5.84,
+    "text": "we are and what we're doing? And I think the key for that, Kyle, is about building an environment"
+  },
+  {
+    "start": 3519.76,
+    "duration": 6.16,
+    "text": "where people don't become defensive because they know you're not attacking, right? Because if you"
+  },
+  {
+    "start": 3525.92,
+    "duration": 5.68,
+    "text": "think about it, a lot of times, if my role is to find all the ways that stopping you from being"
+  },
+  {
+    "start": 3531.6,
+    "duration": 3.44,
+    "text": "effective as you can be, usually that means something's not quite working the way we need"
+  },
+  {
+    "start": 3535.04,
+    "duration": 6.32,
+    "text": "it to work. Usually it means it's got to change. So one of the things that we kind of talk about"
+  },
+  {
+    "start": 3542.24,
+    "duration": 4.8,
+    "text": "that I think I'm pretty good at is building relationships and partners with everybody"
+  },
+  {
+    "start": 3547.04,
+    "duration": 5.28,
+    "text": "who's important to me and the business so that I can explain, hey, look, this one's really"
+  },
+  {
+    "start": 3552.32,
+    "duration": 4.24,
+    "text": "important. It sounds like a small issue, but it's really impacting the way that the team are going"
+  },
+  {
+    "start": 3556.56,
+    "duration": 4.8,
+    "text": "to market. Or this one's actually, it's pretty big, but I can live with it for the time being"
+  },
+  {
+    "start": 3561.36,
+    "duration": 5.04,
+    "text": "because it's not something. And building that trust and relationships with your business partners."
+  },
+  {
+    "start": 3566.4,
+    "duration": 6.56,
+    "text": "And I would say, again, this is where I would say thanks to Oracle where understanding about"
+  },
+  {
+    "start": 3572.96,
+    "duration": 8.08,
+    "text": "influence as opposed to reporting line is so key critical. And a big part of my job is making sure"
+  },
+  {
+    "start": 3581.04,
+    "duration": 3.92,
+    "text": "I understand the other parts of the business, what their priorities are and what they're going."
+  },
+  {
+    "start": 3584.96,
+    "duration": 4.96,
+    "text": "So when I've got my issue and I'm throwing my toys out the pram and it's not working,"
+  },
+  {
+    "start": 3589.92,
+    "duration": 5.12,
+    "text": "we've got to fix it. I've got the context of what everybody else is doing as well. So I can"
+  },
+  {
+    "start": 3595.04,
+    "duration": 4.4,
+    "text": "automatically prioritize it into, actually, I know Tyler's got this thing that he's got to get done."
+  },
+  {
+    "start": 3600.72,
+    "duration": 3.76,
+    "text": "But as soon as that's done, can we crack on with this one and building that relationship?"
+  },
+  {
+    "start": 3605.12,
+    "duration": 4.24,
+    "text": "Not everything can be a fire. And I think if everything's a fire, then what happens is you"
+  },
+  {
+    "start": 3609.36,
+    "duration": 8.0,
+    "text": "get this mass of priorities that is really difficult to then prioritize because everything's"
+  },
+  {
+    "start": 3617.36,
+    "duration": 5.28,
+    "text": "important. If you've got a fire, everything's important. Whereas as an organization, we try"
+  },
+  {
+    "start": 3622.64,
+    "duration": 3.76,
+    "text": "very, very hard to just make sure we've got to focus on the key things that we need to do"
+  },
+  {
+    "start": 3626.4,
+    "duration": 3.52,
+    "text": "because then that drives execution. When it drives execution, you get on to the next one"
+  },
+  {
+    "start": 3629.92,
+    "duration": 4.24,
+    "text": "and you can start going again. So tell me about this monthly meeting. You have a monthly ritual"
+  },
+  {
+    "start": 3634.16,
+    "duration": 4.88,
+    "text": "to evaluate things and delete. What does that look like? How's it structured?"
+  },
+  {
+    "start": 3639.04,
+    "duration": 6.4,
+    "text": "Yeah. It's no more than the leadership team getting together and say we've got eight projects"
+  },
+  {
+    "start": 3645.44,
+    "duration": 5.28,
+    "text": "on the go. And the eight projects, we report back once a month about where we are. We give the status"
+  },
+  {
+    "start": 3650.72,
+    "duration": 4.72,
+    "text": "update. And these are the bigger projects. Obviously, every week we have our standard meetings."
+  },
+  {
+    "start": 3655.44,
+    "duration": 5.36,
+    "text": "But these are the ones which are probably the longer term changes that we need to do inside"
+  },
+  {
+    "start": 3660.8,
+    "duration": 6.4,
+    "text": "the business or the systems. And we have a day C model and we know who's the driver,"
+  },
+  {
+    "start": 3667.2,
+    "duration": 5.44,
+    "text": "who's the person who's responsible for it. And we go through the normal process. You get the pre-read"
+  },
+  {
+    "start": 3672.64,
+    "duration": 4.88,
+    "text": "24, 48 hours before. And you're expected to go into the meeting, not watching the presentation,"
+  },
+  {
+    "start": 3677.52,
+    "duration": 4.64,
+    "text": "but talking about, well, what do we need to do as the next steps? And it's a strong governance and"
+  },
+  {
+    "start": 3682.16,
+    "duration": 5.44,
+    "text": "discipline that we run to that. And it works incredibly well, right? Because everybody then"
+  },
+  {
+    "start": 3687.6,
+    "duration": 5.52,
+    "text": "knows where we are. So it gives me clarity about where the rest of the business is and some of the"
+  },
+  {
+    "start": 3693.12,
+    "duration": 5.36,
+    "text": "areas that we need to work. But also some of this is interesting in the sense of, if you think about"
+  },
+  {
+    "start": 3698.48,
+    "duration": 8.56,
+    "text": "motivation for the teams, a lot of times teams want to know that somebody's heard what their"
+  },
+  {
+    "start": 3707.04,
+    "duration": 5.92,
+    "text": "issue is and somebody's fixing it. Right. People on the whole tend to, did you hear me? Yeah,"
+  },
+  {
+    "start": 3712.96,
+    "duration": 2.56,
+    "text": "I've got it right. Okay. And what are you doing about it? And we're doing this. Okay, great. As"
+  },
+  {
+    "start": 3715.52,
+    "duration": 4.56,
+    "text": "long as you've got it, that's fine. And then as long as you deliver within the sensible timeframe,"
+  },
+  {
+    "start": 3720.08,
+    "duration": 5.52,
+    "text": "that ownership and that responsibility and that accountability, which is why we have the"
+  },
+  {
+    "start": 3725.6,
+    "duration": 5.12,
+    "text": "DAISY model. We have individuals who are responsible for the different changes we need to make or the"
+  },
+  {
+    "start": 3730.72,
+    "duration": 3.76,
+    "text": "different areas that we're looking at. Really helpful. How else are you thinking about"
+  },
+  {
+    "start": 3734.48,
+    "duration": 5.12,
+    "text": "creating simplicity for the organization? One of the other things you mentioned is clarity and vision."
+  },
+  {
+    "start": 3740.48,
+    "duration": 6.0,
+    "text": "How do you operationalize it? And what else are you doing to create simplicity for"
+  },
+  {
+    "start": 3746.48,
+    "duration": 4.48,
+    "text": "your organization? So from the clarity and vision side, I love it in all hands."
+  },
+  {
+    "start": 3751.92,
+    "duration": 8.24,
+    "text": "I've got a monthly cadence and one month I do the entire organization and inside my team. And then"
+  },
+  {
+    "start": 3760.16,
+    "duration": 4.56,
+    "text": "the next one I do managers. The manager wants it to be a little bit more direct, right? Where it's"
+  },
+  {
+    "start": 3764.72,
+    "duration": 4.32,
+    "text": "a little bit, hey team, look, this is the areas that I'm focused on. I could be a little bit more"
+  },
+  {
+    "start": 3769.12,
+    "duration": 4.96,
+    "text": "open with regards to some of the areas that I've been asked to look at as well. And some of the"
+  },
+  {
+    "start": 3774.08,
+    "duration": 6.56,
+    "text": "areas that maybe we need to lean into and give them the opportunity to ask questions. I am happy"
+  },
+  {
+    "start": 3780.64,
+    "duration": 5.84,
+    "text": "for anybody to ask me any question. I hold the right to not answer or I can't answer or I have"
+  },
+  {
+    "start": 3786.48,
+    "duration": 6.4,
+    "text": "to go away and find something else. But I find that those sessions where I'm as transparent as"
+  },
+  {
+    "start": 3792.88,
+    "duration": 4.32,
+    "text": "I can be as a public company and the work that we're doing, right? There's certain things I can"
+  },
+  {
+    "start": 3797.2,
+    "duration": 4.8,
+    "text": "say and certain things I can't say. But on the whole, I'm very clear about where we are, what"
+  },
+  {
+    "start": 3802.0,
+    "duration": 4.24,
+    "text": "we're doing and for that particular month or for that quarter, what I like people to focus on."
+  },
+  {
+    "start": 3806.8,
+    "duration": 6.0,
+    "text": "So it might be, for example, we made an acquisition of a company called FireHydrant."
+  },
+  {
+    "start": 3812.8,
+    "duration": 4.8,
+    "text": "Brilliant product. It's integrated into the fresh service solution now. Incident management,"
+  },
+  {
+    "start": 3817.6,
+    "duration": 4.72,
+    "text": "does some amazing stuff. One of the priorities are everybody in the org needs to be trained."
+  },
+  {
+    "start": 3822.32,
+    "duration": 4.0,
+    "text": "Everybody has to be enabled. Everybody has to make sure that they've got the subject matter"
+  },
+  {
+    "start": 3826.32,
+    "duration": 5.04,
+    "text": "expertise. They can talk coherently about it. With the best will in the world, that's not the"
+  },
+  {
+    "start": 3831.36,
+    "duration": 4.32,
+    "text": "easiest thing to get a group of people to do in the timeline that I may like it. But I can set"
+  },
+  {
+    "start": 3835.68,
+    "duration": 4.56,
+    "text": "that as a priority and I can set that as an objective. And I can talk about where we are on"
+  },
+  {
+    "start": 3840.24,
+    "duration": 3.84,
+    "text": "the different elements of the core metrics that we focus, which would be the different products,"
+  },
+  {
+    "start": 3844.08,
+    "duration": 5.92,
+    "text": "the different offerings that we have and the particular goals that we're trying to achieve"
+  },
+  {
+    "start": 3850.08,
+    "duration": 4.72,
+    "text": "with each of those, be it awareness or moving into upsell or new business."
+  },
+  {
+    "start": 3856.16,
+    "duration": 10.88,
+    "text": "Okay. So clarity, sharing transparently, generating focus through this all-hands"
+  },
+  {
+    "start": 3867.04,
+    "duration": 6.4,
+    "text": "cadence. Anything else that you've built into the organization that you find helps simplify?"
+  },
+  {
+    "start": 3874.4,
+    "duration": 6.8,
+    "text": "So we're just going through our next round of employee survey. And I read every single"
+  },
+  {
+    "start": 3881.2,
+    "duration": 3.84,
+    "text": "piece of feedback that I get in the employee survey. I look at the marks and the marks are"
+  },
+  {
+    "start": 3885.04,
+    "duration": 4.88,
+    "text": "interesting for me. And I can get a good lens pretty quickly as to where we are and what we're"
+  },
+  {
+    "start": 3889.92,
+    "duration": 6.4,
+    "text": "doing. But the employee survey is a great opportunity for us to see where people are"
+  },
+  {
+    "start": 3896.32,
+    "duration": 4.32,
+    "text": "that maybe I don't get to talk to day in, day out. And you've probably seen this with your own org"
+  },
+  {
+    "start": 3900.72,
+    "duration": 3.2,
+    "text": "as you've grown. Like, you know, the first five reps intimately, you know, the first 20 reps"
+  },
+  {
+    "start": 3903.92,
+    "duration": 3.76,
+    "text": "intimately. Then I think you said, you know, you're getting up towards a hundred reps. That's"
+  },
+  {
+    "start": 3907.68,
+    "duration": 4.88,
+    "text": "really hard. It's really hard, right? Because there's stuff that you need to do as well."
+  },
+  {
+    "start": 3912.56,
+    "duration": 6.16,
+    "text": "So that feedback mechanism is super important. The other thing is we do spend time with our"
+  },
+  {
+    "start": 3918.72,
+    "duration": 4.16,
+    "text": "leadership team as well. We go outside with the leadership team and we talk about the things that"
+  },
+  {
+    "start": 3922.88,
+    "duration": 4.0,
+    "text": "work, the things that didn't and what we're going to do about it and what I need to do to help"
+  },
+  {
+    "start": 3926.96,
+    "duration": 5.2,
+    "text": "organizations be more effective and efficient in what they do as well. So a lot of it is going"
+  },
+  {
+    "start": 3932.16,
+    "duration": 4.88,
+    "text": "through that process. The other part is making sure that we just continue to deliver on our"
+  },
+  {
+    "start": 3937.04,
+    "duration": 6.24,
+    "text": "promises. Like if people, if we say we're going to do something, we really, really want to do it"
+  },
+  {
+    "start": 3943.28,
+    "duration": 3.68,
+    "text": "because that means that we can say to people, we've got it, we understand it and we're working"
+  },
+  {
+    "start": 3946.96,
+    "duration": 5.2,
+    "text": "on it and we'll get it resolved for you as well. The final bit I would say is we should never"
+  },
+  {
+    "start": 3952.16,
+    "duration": 8.4,
+    "text": "underestimate that span of control and reporting layers. That really is, as you grow, it's easy to"
+  },
+  {
+    "start": 3960.56,
+    "duration": 7.76,
+    "text": "create, say for example, you've got a sales director and you've got a VP and all of a sudden"
+  },
+  {
+    "start": 3968.32,
+    "duration": 5.68,
+    "text": "you're like, well, now I need a regional sales director and then I need a regional VP and you"
+  },
+  {
+    "start": 3974.0,
+    "duration": 4.72,
+    "text": "can put layers in because it may be for career progression, it may be because you've got the"
+  },
+  {
+    "start": 3978.72,
+    "duration": 5.6,
+    "text": "headcount to warrant it and to justify it. But every layer you put in, you have to think about"
+  },
+  {
+    "start": 3984.32,
+    "duration": 4.96,
+    "text": "it as, is it Makusha Russian Dolls? You know those Russian dolls where you've got like the big,"
+  },
+  {
+    "start": 3989.28,
+    "duration": 4.8,
+    "text": "whiny... The nesting dolls. Yeah, exactly. So here's my view on information dissemination."
+  },
+  {
+    "start": 3994.8,
+    "duration": 5.92,
+    "text": "If you think about it, Dennis is the biggest doll. Apologies Dennis, I didn't mean to come out quite"
+  },
+  {
+    "start": 4000.72,
+    "duration": 3.76,
+    "text": "that way. Like he's got the most corporate responsibility but he's got the clarity of"
+  },
+  {
+    "start": 4004.48,
+    "duration": 6.88,
+    "text": "vision that he wants to do. As you work your way down the leadership team, by default you're"
+  },
+  {
+    "start": 4011.36,
+    "duration": 4.16,
+    "text": "slightly diluting the message all the way down as you take the smaller doll out, the smaller doll"
+  },
+  {
+    "start": 4015.52,
+    "duration": 6.24,
+    "text": "out, the smaller doll out. You've got to be very conscious about if you have 15 of those, that's a"
+  },
+  {
+    "start": 4021.76,
+    "duration": 4.4,
+    "text": "really diluted message by the time you get down to the individual contributor and it's very hard"
+  },
+  {
+    "start": 4026.16,
+    "duration": 5.12,
+    "text": "to influence as well. Whereas if you can minimize that so that you're reducing the amount of layers"
+  },
+  {
+    "start": 4031.28,
+    "duration": 3.52,
+    "text": "you need to go down to get your information down, you've got a much higher propensity of"
+  },
+  {
+    "start": 4034.8,
+    "duration": 3.6,
+    "text": "getting the content and the view and the strategies of the people that you want to have."
+  },
+  {
+    "start": 4039.28,
+    "duration": 5.6,
+    "text": "Yeah, that does make a lot of sense. I want to ask one more question before we go to the"
+  },
+  {
+    "start": 4044.88,
+    "duration": 8.32,
+    "text": "quickfire. So oftentimes you see, again, going back to like best intentions, people wanting to"
+  },
+  {
+    "start": 4053.2,
+    "duration": 7.12,
+    "text": "add more layers of process and reporting and basically bureaucracy because it feels like"
+  },
+  {
+    "start": 4060.32,
+    "duration": 4.72,
+    "text": "rigor. It feels rigorous to have another meeting to review the metrics and another"
+  },
+  {
+    "start": 4065.04,
+    "duration": 4.64,
+    "text": "meeting to drive accountability and another document written to do a thing."
+  },
+  {
+    "start": 4070.4,
+    "duration": 5.04,
+    "text": "But oftentimes that just accumulates and it's a massive drag and then you spend more time"
+  },
+  {
+    "start": 4075.44,
+    "duration": 4.56,
+    "text": "talking about the business than actually like building the business. How do you find the line"
+  },
+  {
+    "start": 4080.0,
+    "duration": 4.8,
+    "text": "between rigor and bureaucracy? What does that look like for you?"
+  },
+  {
+    "start": 4084.8,
+    "duration": 4.48,
+    "text": "Yeah, and I think I want to actually layer onto that as well. What you tend to find is you end"
+  },
+  {
+    "start": 4089.28,
+    "duration": 4.64,
+    "text": "up arguing about the data, right, because it's going to be different from somebody else's report."
+  },
+  {
+    "start": 4093.92,
+    "duration": 6.0,
+    "text": "The single source of truth is hard when you've got people exporting it and doing different things"
+  },
+  {
+    "start": 4099.92,
+    "duration": 4.72,
+    "text": "with it and having looked at it. And then you tend to find in the meeting is either the person with"
+  },
+  {
+    "start": 4104.64,
+    "duration": 4.48,
+    "text": "the loudest voice or the most seniority tends to be the person who has the most impact on the"
+  },
+  {
+    "start": 4109.12,
+    "duration": 4.72,
+    "text": "meeting, whereas the reality is it should be the data. So data accuracy is super important and"
+  },
+  {
+    "start": 4113.84,
+    "duration": 4.88,
+    "text": "that's why we talk about putting all these systems together. So from my perspective,"
+  },
+  {
+    "start": 4119.76,
+    "duration": 5.68,
+    "text": "there's certain metrics that I truly care about and that I will look at. I would say I think the"
+  },
+  {
+    "start": 4125.44,
+    "duration": 5.6,
+    "text": "world has changed with things like Gemini and Claude where you can get so much more proactive"
+  },
+  {
+    "start": 4131.04,
+    "duration": 6.88,
+    "text": "nature coming to you. So for example, I have a Claude co-work that every day tells me the state"
+  },
+  {
+    "start": 4137.92,
+    "duration": 5.28,
+    "text": "of my pipeline and it tells me basically is it within a tolerance that I'm happy with for the"
+  },
+  {
+    "start": 4143.2,
+    "duration": 5.6,
+    "text": "amount of business that we need to close. If Claude goes, hey, guess what, we're on track,"
+  },
+  {
+    "start": 4148.8,
+    "duration": 6.64,
+    "text": "I don't need to go and have a look at it. So I think increasingly where we'll find our roles"
+  },
+  {
+    "start": 4155.44,
+    "duration": 3.84,
+    "text": "is actually more around how do you find a way to do exception-based reporting as opposed to"
+  },
+  {
+    "start": 4159.28,
+    "duration": 6.32,
+    "text": "the data set. Like tell me when something's not where I want it to be. I don't need to sit in a,"
+  },
+  {
+    "start": 4165.6,
+    "duration": 5.52,
+    "text": "I love my marketeers to bet and they love me, I hope, but we don't need to sit there and say,"
+  },
+  {
+    "start": 4171.12,
+    "duration": 4.64,
+    "text": "hey, great, pipeline's moving in the right direction. Okay, great, fantastic. Unless we're"
+  },
+  {
+    "start": 4175.76,
+    "duration": 4.08,
+    "text": "looking at how do we optimize, what do we need to change, or we tried something, it didn't work,"
+  },
+  {
+    "start": 4179.84,
+    "duration": 4.0,
+    "text": "great, let's learn from that, what do we need to do? So I think you will see more and more"
+  },
+  {
+    "start": 4183.84,
+    "duration": 5.76,
+    "text": "exception-based reporting will become the way forward because you'll get sound bites of"
+  },
+  {
+    "start": 4189.6,
+    "duration": 4.64,
+    "text": "information so much during the day from all of the tools and solutions that you've got."
+  },
+  {
+    "start": 4195.04,
+    "duration": 4.64,
+    "text": "By the time you come to make a decision, you'll actually feel pretty good because you've taken"
+  },
+  {
+    "start": 4199.68,
+    "duration": 5.36,
+    "text": "all these drip feeds of context and you may think I'm making an instinctive decision,"
+  },
+  {
+    "start": 4205.04,
+    "duration": 3.68,
+    "text": "but the reality is you've probably actually consumed quite a lot of content throughout"
+  },
+  {
+    "start": 4208.72,
+    "duration": 4.56,
+    "text": "the week or whatever it happens to be to actually be able to decide and execute across that."
+  },
+  {
+    "start": 4213.28,
+    "duration": 4.96,
+    "text": "The worst thing is if we sit here and say, hey, yeah, pipeline's down, so last month we"
+  },
+  {
+    "start": 4218.24,
+    "duration": 3.76,
+    "text": "didn't create the opportunities that we needed. It's like, what do you mean last month?"
+  },
+  {
+    "start": 4224.24,
+    "duration": 4.08,
+    "text": "It's too late to change last month. I can't afford four weeks of not generating what I needed to"
+  },
+  {
+    "start": 4228.32,
+    "duration": 6.0,
+    "text": "generate. So how about if it trends down after 48 hours or 72 hours or whatever, can we get it on"
+  },
+  {
+    "start": 4234.32,
+    "duration": 4.4,
+    "text": "there quicker? And I think this is one of the great opportunities with combined tools, single"
+  },
+  {
+    "start": 4238.72,
+    "duration": 5.76,
+    "text": "source, but also with the AI opportunity in front of us. It can give me so much more insight without"
+  },
+  {
+    "start": 4244.48,
+    "duration": 3.84,
+    "text": "me having to run the report the way that I traditionally used to have to do it."
+  },
+  {
+    "start": 4248.32,
+    "duration": 8.0,
+    "text": "So single source of truth, proactive and self-led exception-based reporting,"
+  },
+  {
+    "start": 4256.88,
+    "duration": 6.64,
+    "text": "anything else that prevents the accumulation of bureaucracy, the accumulation of meetings and"
+  },
+  {
+    "start": 4263.52,
+    "duration": 8.48,
+    "text": "check-ins that you found most productive? Yeah, role protection. We know that there's,"
+  },
+  {
+    "start": 4272.0,
+    "duration": 5.04,
+    "text": "especially in organizations as you get larger, people are there to do a particular job."
+  },
+  {
+    "start": 4277.04,
+    "duration": 4.56,
+    "text": "And the question is, is that the most effective use of their time? And reporting tends to be a"
+  },
+  {
+    "start": 4281.6,
+    "duration": 3.92,
+    "text": "pretty time-intensive environment. If you look at the people who generate the reports, they're"
+  },
+  {
+    "start": 4285.52,
+    "duration": 4.32,
+    "text": "really smart cookies. They know what's going on. So it's a case of, well, if we could automate"
+  },
+  {
+    "start": 4289.84,
+    "duration": 6.4,
+    "text": "the reporting and I can put your mind to maybe a program I want to run or do some analysis on our"
+  },
+  {
+    "start": 4296.24,
+    "duration": 7.28,
+    "text": "ICP or the TAM or something like that. And that's where I think we can see that it's back to the"
+  },
+  {
+    "start": 4303.52,
+    "duration": 6.56,
+    "text": "tools and technologies are enabling us to become more efficient, without a doubt, if you're doing"
+  },
+  {
+    "start": 4310.08,
+    "duration": 4.64,
+    "text": "something with that efficiency. Otherwise you're not doing anything, right? So one of the things"
+  },
+  {
+    "start": 4314.72,
+    "duration": 5.36,
+    "text": "that I really look at is, in this environment, it's great that we are becoming more efficient as"
+  },
+  {
+    "start": 4320.08,
+    "duration": 4.0,
+    "text": "an organization, not just with AI, just with tools across the board. But what are you doing"
+  },
+  {
+    "start": 4324.08,
+    "duration": 4.24,
+    "text": "with that efficiency to make value out of it? I won't say it's like a net-net, it washes out"
+  },
+  {
+    "start": 4328.32,
+    "duration": 3.52,
+    "text": "at the back end. We're just being quicker, but we're not necessarily being more efficient or"
+  },
+  {
+    "start": 4331.84,
+    "duration": 6.16,
+    "text": "effective. So how do we use tools and processes, not to just make my job easier or quicker,"
+  },
+  {
+    "start": 4338.0,
+    "duration": 3.84,
+    "text": "but enables me to then go and do something else where I could be even more efficient or even more"
+  },
+  {
+    "start": 4341.84,
+    "duration": 3.52,
+    "text": "effective for the organization as well. Let's move to Quickfire so I can get you out of here"
+  },
+  {
+    "start": 4345.36,
+    "duration": 5.44,
+    "text": "on time. Yes, let's go. In your mind, what separates a good CRO from a truly great one?"
+  },
+  {
+    "start": 4353.44,
+    "duration": 4.4,
+    "text": "Sustainable consistency. What do you mean by that?"
+  },
+  {
+    "start": 4358.64,
+    "duration": 5.84,
+    "text": "My role is to be able to provide to the organization I'm working for a consistent"
+  },
+  {
+    "start": 4364.48,
+    "duration": 4.24,
+    "text": "execution so the rest of the business can plan around what we're doing and what we're"
+  },
+  {
+    "start": 4368.72,
+    "duration": 7.04,
+    "text": "trying to execute across, but also so that I do what I say I'm going to do. And we would all love"
+  },
+  {
+    "start": 4375.76,
+    "duration": 3.6,
+    "text": "to say it's great, we're going to be over quota, everything's going to be fantastic. Sometimes it's"
+  },
+  {
+    "start": 4379.36,
+    "duration": 3.92,
+    "text": "not right, sometimes it's not. And that clarity of it's not, and then seeking help and guidance"
+  },
+  {
+    "start": 4383.28,
+    "duration": 4.56,
+    "text": "when you need that. But on the whole, it's about just consistently delivering what you say you're"
+  },
+  {
+    "start": 4387.84,
+    "duration": 6.32,
+    "text": "going to deliver so that you don't hockey stick or you don't have this up and down curve of,"
+  },
+  {
+    "start": 4394.16,
+    "duration": 3.6,
+    "text": "well, you did last quarter, but what happened this quarter? Why is that so important? A,"
+  },
+  {
+    "start": 4397.76,
+    "duration": 3.92,
+    "text": "because businesses care about it. But if you look at the market at the moment,"
+  },
+  {
+    "start": 4402.24,
+    "duration": 8.08,
+    "text": "consistency is critical, right? And as we go through this changing market, we keep delivering"
+  },
+  {
+    "start": 4410.32,
+    "duration": 4.56,
+    "text": "and we keep delivering and we're confident that the market will recognize everything that we're"
+  },
+  {
+    "start": 4414.88,
+    "duration": 4.08,
+    "text": "doing and we're happy to do that. But there's no point in me hitting and missing, hitting and"
+  },
+  {
+    "start": 4418.96,
+    "duration": 5.44,
+    "text": "missing. That doesn't get us anywhere. What's the most common advice you give to new leaders,"
+  },
+  {
+    "start": 4424.72,
+    "duration": 4.16,
+    "text": "first-time CROs, first-time senior revenue leaders? What advice do you give them?"
+  },
+  {
+    "start": 4429.52,
+    "duration": 3.68,
+    "text": "Prioritize and learn to say no. Prioritize is interesting because sometimes"
+  },
+  {
+    "start": 4434.0,
+    "duration": 3.6,
+    "text": "you have to prioritize, but you got to do a few different pieces of the puzzle before you can"
+  },
+  {
+    "start": 4437.6,
+    "duration": 4.56,
+    "text": "hit the priority, if that makes sense. Especially when you're building out org design, there's some"
+  },
+  {
+    "start": 4442.16,
+    "duration": 4.08,
+    "text": "stuff I wanted to do here and I knew I needed to do probably six, nine months work of something else"
+  },
+  {
+    "start": 4446.24,
+    "duration": 4.56,
+    "text": "before I could do what I wanted to do. It still was the priority, but I had some subtasks that"
+  },
+  {
+    "start": 4450.8,
+    "duration": 4.08,
+    "text": "I needed to do. So priority doesn't mean so you're jumping on it today, it means in your head,"
+  },
+  {
+    "start": 4454.88,
+    "duration": 5.36,
+    "text": "you're clear about what you want to do. The other part is, people aren't shy of ideas."
+  },
+  {
+    "start": 4460.96,
+    "duration": 3.52,
+    "text": "There's lots of ideas and you have to listen, you have to consume, you have to understand,"
+  },
+  {
+    "start": 4464.48,
+    "duration": 3.52,
+    "text": "you have to learn from them, but also you have to be very clear as what you will do and what"
+  },
+  {
+    "start": 4468.0,
+    "duration": 4.4,
+    "text": "you won't do. And sometimes what you won't do is even more important than stuff that you will do."
+  },
+  {
+    "start": 4473.76,
+    "duration": 3.36,
+    "text": "Very good advice. What's the hardest lesson you've had to learn in your career?"
+  },
+  {
+    "start": 4477.92,
+    "duration": 8.0,
+    "text": "Oh, it'll be not being involved in everything. I'm still working on that one. I'm just naturally"
+  },
+  {
+    "start": 4485.92,
+    "duration": 5.28,
+    "text": "curious and interested and excited, right? And that's what I tell my team. And it's true,"
+  },
+  {
+    "start": 4491.2,
+    "duration": 6.16,
+    "text": "I just generally enjoy what I do. I really love the building part, but it means that I have to"
+  },
+  {
+    "start": 4497.36,
+    "duration": 6.56,
+    "text": "learn how to step away sometimes as well. You and me both. What's the best thing you"
+  },
+  {
+    "start": 4503.92,
+    "duration": 4.0,
+    "text": "read recently, last 12 months or something that's on your mind?"
+  },
+  {
+    "start": 4507.92,
+    "duration": 5.28,
+    "text": "So I don't want to lose the audience here. I don't really read that much, to be honest with you."
+  },
+  {
+    "start": 4515.12,
+    "duration": 5.36,
+    "text": "It's almost a legacy of my upbringing and school time and things like that."
+  },
+  {
+    "start": 4521.12,
+    "duration": 8.24,
+    "text": "I'm incredibly observant. So I, for one, love podcasts. I love YouTube. If there's something"
+  },
+  {
+    "start": 4529.36,
+    "duration": 6.24,
+    "text": "to watch, I could watch you and Jason, for example, I can really listen to it. I can replay"
+  },
+  {
+    "start": 4535.6,
+    "duration": 7.68,
+    "text": "it. And I tend to find if I'm listening, my mind doesn't wander. And if I'm reading, my mind wanders"
+  },
+  {
+    "start": 4543.28,
+    "duration": 4.96,
+    "text": "and I could probably train myself. I'm sure we might have some guidance for me about how to do"
+  },
+  {
+    "start": 4548.24,
+    "duration": 4.56,
+    "text": "that. But I find that even if I'm kind of like more of a social native and I'm younger than I"
+  },
+  {
+    "start": 4552.8,
+    "duration": 7.36,
+    "text": "really look and I just enjoy audio and video, but I definitely pick up the personality more"
+  },
+  {
+    "start": 4560.16,
+    "duration": 7.36,
+    "text": "and I really enjoy that. Reading a book is not really my ideal environment, to be honest with"
+  },
+  {
+    "start": 4567.52,
+    "duration": 6.64,
+    "text": "you. Yeah. And it's much easier to fit in an audiobook or a podcast on the go when you've"
+  },
+  {
+    "start": 4574.16,
+    "duration": 4.96,
+    "text": "got a million things happening. Yeah. Especially on a plane. A lot of time on planes. So I tend"
+  },
+  {
+    "start": 4579.12,
+    "duration": 4.0,
+    "text": "to find with a plane, I can lock into a video or an audio more than I can read it."
+  },
+  {
+    "start": 4583.76,
+    "duration": 5.76,
+    "text": "Yeah. Well, Ian, this was awesome. I'm so glad we got to go deep on these topics and we can make"
+  },
+  {
+    "start": 4589.52,
+    "duration": 6.8,
+    "text": "this happen. So I really appreciate the time. I learned a ton. And yeah, I think the audience"
+  },
+  {
+    "start": 4596.32,
+    "duration": 2.8,
+    "text": "is going to really like this one. Love you. I appreciate the opportunity"
+  },
+  {
+    "start": 4599.12,
+    "duration": 6.96,
+    "text": "and look forward to talking again soon. Thank you for listening to the Revenue Leadership"
+  },
+  {
+    "start": 4606.08,
+    "duration": 4.72,
+    "text": "Podcast. If you enjoyed it, don't forget to subscribe and you can find a link in the show"
+  },
+  {
+    "start": 4610.8,
+    "duration": 5.44,
+    "text": "notes and be sure to leave a five star review, share it with your network and please join me"
+  },
+  {
+    "start": 4616.24,
+    "duration": 4.64,
+    "text": "next Wednesday for another great conversation."
+  }
+]

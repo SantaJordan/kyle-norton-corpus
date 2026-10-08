@@ -1,0 +1,1457 @@
+[
+  {
+    "start": 0.0,
+    "duration": 15.36,
+    "text": "Welcome, everyone, to the Go-To-Market 10x podcast. Today we have Kyle Norton on, which"
+  },
+  {
+    "start": 15.36,
+    "duration": 7.88,
+    "text": "I'm so excited for. Kyle is the genius of startup sales scaling and also was telling"
+  },
+  {
+    "start": 23.24,
+    "duration": 4.56,
+    "text": "me about his personal CRM, which sounds like he really has everything together. So we can"
+  },
+  {
+    "start": 27.8,
+    "duration": 5.68,
+    "text": "dive into that as well. But before we dive into the questions for Kyle, I'll give a quick"
+  },
+  {
+    "start": 33.48,
+    "duration": 4.68,
+    "text": "introduction to him and then would love to hear from you and then anything I miss on"
+  },
+  {
+    "start": 38.16,
+    "duration": 5.44,
+    "text": "my background, and then we can go into all the fun topics of scaling sales, optimizing"
+  },
+  {
+    "start": 43.6,
+    "duration": 7.36,
+    "text": "inbound, your point of view in AI and sales and more. So thank you, Kyle, for being here."
+  },
+  {
+    "start": 50.96,
+    "duration": 7.36,
+    "text": "Quick background on Kyle. He's the CRO owner, where he leads a go-to-market team who help"
+  },
+  {
+    "start": 58.32,
+    "duration": 5.32,
+    "text": "independent restaurants grow their direct online takeout and delivery channels. He has"
+  },
+  {
+    "start": 63.64,
+    "duration": 7.84,
+    "text": "14 plus years of B2B SaaS sales experience. He's an LP and advisor and investor to a bunch"
+  },
+  {
+    "start": 71.48,
+    "duration": 5.24,
+    "text": "of different SaaS funds and startups. And he's super passionate about the SaaS ecosystem"
+  },
+  {
+    "start": 76.72,
+    "duration": 4.12,
+    "text": "and empowering entrepreneurs and innovators. So very excited to have you here, Kyle."
+  },
+  {
+    "start": 80.84,
+    "duration": 2.8,
+    "text": "Yeah, thanks for the invite. This should be fun."
+  },
+  {
+    "start": 83.64,
+    "duration": 4.76,
+    "text": "Yeah. What did I miss on your intro? Give us your quick background."
+  },
+  {
+    "start": 88.4,
+    "duration": 5.04,
+    "text": "You got it, I think. I've been in sales my whole life, leadership almost that entire"
+  },
+  {
+    "start": 93.44,
+    "duration": 7.6,
+    "text": "career, 10 years in tech and being an owner like almost three years now. So I started"
+  },
+  {
+    "start": 101.04,
+    "duration": 4.72,
+    "text": "here when we were two and a half million. We're well into the 30s now. So it's been"
+  },
+  {
+    "start": 105.76,
+    "duration": 4.96,
+    "text": "a fun ride. And now I just need to do it, double it again and again and again, and"
+  },
+  {
+    "start": 110.72,
+    "duration": 1.68,
+    "text": "then one more time and then we can exit."
+  },
+  {
+    "start": 112.4,
+    "duration": 3.32,
+    "text": "There you go. No big deal."
+  },
+  {
+    "start": 115.72,
+    "duration": 1.0,
+    "text": "We're almost there."
+  },
+  {
+    "start": 116.72,
+    "duration": 4.32,
+    "text": "Almost there. That's actually the first place I want to start. So you joined two and a half"
+  },
+  {
+    "start": 121.04,
+    "duration": 6.4,
+    "text": "ARR, scaled to 21 million in 22 months. Now it sounds like you're in the 30s. What are"
+  },
+  {
+    "start": 127.44,
+    "duration": 5.6,
+    "text": "some critical decisions that you made in those early days that helped you scale so quickly?"
+  },
+  {
+    "start": 133.04,
+    "duration": 6.76,
+    "text": "And maybe what advice would you give yourself if you were looking back on yourself then?"
+  },
+  {
+    "start": 139.8,
+    "duration": 6.56,
+    "text": "So I'm going to try to avoid most of the stuff I talk a lot about, like invest early in RevOps"
+  },
+  {
+    "start": 146.36,
+    "duration": 7.68,
+    "text": "and enablement and all the data stuff. You can go watch my Safster talks and I'll try"
+  },
+  {
+    "start": 154.04,
+    "duration": 9.32,
+    "text": "to give a new view here. And so I think one of the themes that I'm really being in, because"
+  },
+  {
+    "start": 163.36,
+    "duration": 5.28,
+    "text": "the companies I advise and people in some of the portfolios I'm involved in, GTM Fund"
+  },
+  {
+    "start": 168.64,
+    "duration": 5.88,
+    "text": "and Stage 2, I think one of the really critical questions to ask that we had clarity on really"
+  },
+  {
+    "start": 174.52,
+    "duration": 7.28,
+    "text": "early at Owner is like, what game are you playing? Are you playing a venture-backed,"
+  },
+  {
+    "start": 181.8,
+    "duration": 5.64,
+    "text": "we want to raise multiple rounds and try to go big and win in a big market? Are you"
+  },
+  {
+    "start": 187.44,
+    "duration": 5.96,
+    "text": "playing that game? Because the sets of decisions that I made early on in Owner's history were"
+  },
+  {
+    "start": 193.4,
+    "duration": 7.84,
+    "text": "very much optimized for that. And some of my advice is not relevant if you're playing"
+  },
+  {
+    "start": 201.24,
+    "duration": 4.16,
+    "text": "a very different game. People are calling it like boot scaling now. So you're going"
+  },
+  {
+    "start": 205.4,
+    "duration": 6.68,
+    "text": "to try to bootstrap to five, 10 million bucks, raise one really big round, take liquidity,"
+  },
+  {
+    "start": 212.08,
+    "duration": 4.88,
+    "text": "and then that's going to be like your only round, but you hold on to so much equity that"
+  },
+  {
+    "start": 216.96,
+    "duration": 4.0,
+    "text": "it's like a great outcome for the founder. Or are you going to go one and done? Are you"
+  },
+  {
+    "start": 220.96,
+    "duration": 6.16,
+    "text": "going to try to raise one early round of financing at like a seed and then try to get to profitability,"
+  },
+  {
+    "start": 227.12,
+    "duration": 8.44,
+    "text": "never raise again? Okay, that's interesting. In a smaller market where the growth-oriented"
+  },
+  {
+    "start": 235.56,
+    "duration": 5.6,
+    "text": "game doesn't make as much sense just because there's not as much room to run, I think this"
+  },
+  {
+    "start": 241.16,
+    "duration": 7.92,
+    "text": "is one of the most confused conversations that I see online and I have with founders"
+  },
+  {
+    "start": 249.08,
+    "duration": 6.96,
+    "text": "is they really struggle with all of this advice. When should I hire my first VP of sales? When"
+  },
+  {
+    "start": 256.04,
+    "duration": 5.16,
+    "text": "should I add a new channel? Should I think about a second product now? And a lot of those"
+  },
+  {
+    "start": 261.2,
+    "duration": 9.84,
+    "text": "questions come back to this core understanding of what game are you trying to play?"
+  },
+  {
+    "start": 271.04,
+    "duration": 5.36,
+    "text": "And so to make it more tangible, owner, we play in a really big market that's extremely"
+  },
+  {
+    "start": 276.4,
+    "duration": 6.96,
+    "text": "competitive and there's a bunch of adjacencies. And so fundamentally, we are playing a more"
+  },
+  {
+    "start": 283.36,
+    "duration": 4.56,
+    "text": "traditional, venture-backed. I don't want to say growth at all costs because that's"
+  },
+  {
+    "start": 287.92,
+    "duration": 5.04,
+    "text": "certainly not what anybody's doing. I think that was only a point in time. Growth at all"
+  },
+  {
+    "start": 292.96,
+    "duration": 4.8,
+    "text": "costs was only basically like a three-year window where people really lost their minds,"
+  },
+  {
+    "start": 297.76,
+    "duration": 4.44,
+    "text": "but playing a winner-takes-all mindset to our market."
+  },
+  {
+    "start": 302.2,
+    "duration": 9.16,
+    "text": "And so that meant even when we were only 4 million ARR, I had brought in a revenue ops"
+  },
+  {
+    "start": 311.44,
+    "duration": 7.28,
+    "text": "leader that I'd worked with previously on contracts and scaled to get him then full-time."
+  },
+  {
+    "start": 319.36,
+    "duration": 6.72,
+    "text": "I brought in enablement quite early. We made really big data and infrastructure investments"
+  },
+  {
+    "start": 326.08,
+    "duration": 5.36,
+    "text": "that only made sense because I knew we were going to try to go from five to,"
+  },
+  {
+    "start": 332.64,
+    "duration": 4.8,
+    "text": "I mean, we're like 60 people in sales today after two and a bit, like almost three years."
+  },
+  {
+    "start": 337.6,
+    "duration": 0.56,
+    "text": "Fast."
+  },
+  {
+    "start": 339.6,
+    "duration": 6.16,
+    "text": "Yeah. And that is with every month, our unit economics getting better and better."
+  },
+  {
+    "start": 345.76,
+    "duration": 6.96,
+    "text": "LTVCAC is improving. The cost per deal, cost per lead is all coming down. So we're not playing a"
+  },
+  {
+    "start": 352.72,
+    "duration": 6.0,
+    "text": "silly game, but the sets of decisions I made very early in owner was like, we are trying to win this"
+  },
+  {
+    "start": 358.72,
+    "duration": 5.76,
+    "text": "market. It's a big market and it will likely consolidate around a couple of really big"
+  },
+  {
+    "start": 364.48,
+    "duration": 4.48,
+    "text": "players. And so we're going to play that game. And so I think that's like one of the best pieces"
+  },
+  {
+    "start": 368.96,
+    "duration": 5.68,
+    "text": "of advice that I find myself repeating now to founders and sales leaders that sort of as a level"
+  },
+  {
+    "start": 374.64,
+    "duration": 6.56,
+    "text": "set. It's very good first principle thinking that a lot of people skip. They skip that step in that"
+  },
+  {
+    "start": 381.2,
+    "duration": 5.44,
+    "text": "level of thinking before running into kind of like, what is the play here? You sort of"
+  },
+  {
+    "start": 387.6,
+    "duration": 3.76,
+    "text": "answered this, but not directly. Is there anything you would go back and do differently?"
+  },
+  {
+    "start": 392.0,
+    "duration": 4.32,
+    "text": "Oh, there's lots of incremental, lots of incremental things that we would certainly"
+  },
+  {
+    "start": 396.32,
+    "duration": 5.76,
+    "text": "do differently. Like I would get even more aggressive. That's easy to say with hindsight"
+  },
+  {
+    "start": 402.08,
+    "duration": 7.84,
+    "text": "because at that time, 2023, like we didn't know, you didn't know in 2023, if like you were going to"
+  },
+  {
+    "start": 409.92,
+    "duration": 5.92,
+    "text": "be able to raise money for years and years, like the markets were completely frozen. Silicon Valley"
+  },
+  {
+    "start": 416.56,
+    "duration": 7.84,
+    "text": "bank was imploding. And so we played it slightly more conservative than now that with the, with"
+  },
+  {
+    "start": 425.12,
+    "duration": 5.6,
+    "text": "hindsight at my disposal, I would have gotten even more aggressive, built some of these teams"
+  },
+  {
+    "start": 430.72,
+    "duration": 6.88,
+    "text": "and grown even faster, particularly investments in demand gen. We hired a demand gen leader"
+  },
+  {
+    "start": 437.6,
+    "duration": 7.68,
+    "text": "almost two years ago now, and really scaled into inbound. And so I think there's a lot of"
+  },
+  {
+    "start": 445.28,
+    "duration": 4.24,
+    "text": "incremental things that we would have done differently. If I hadn't gotten into inbound,"
+  },
+  {
+    "start": 450.72,
+    "duration": 2.4,
+    "text": "I would have probably just gotten even more aggressive"
+  },
+  {
+    "start": 455.68,
+    "duration": 6.0,
+    "text": "and made decisions even faster than I made them. I think like, oh, go ahead."
+  },
+  {
+    "start": 464.08,
+    "duration": 7.84,
+    "text": "I think there's some things that I had convicted on that I let play out, that I should have,"
+  },
+  {
+    "start": 472.08,
+    "duration": 4.4,
+    "text": "authoritatively, just being like, I feel like I know what the decision here is. Like, let's just"
+  },
+  {
+    "start": 476.48,
+    "duration": 5.6,
+    "text": "go. How can you have done that? Like, that is something when I ask people, what would they have"
+  },
+  {
+    "start": 482.08,
+    "duration": 4.8,
+    "text": "done differently? There's those two things come up a lot, right? It's like, one, I should have"
+  },
+  {
+    "start": 486.88,
+    "duration": 6.8,
+    "text": "been more aggressive in hiring and hitting go, which I, you're either one way or the other,"
+  },
+  {
+    "start": 493.68,
+    "duration": 3.6,
+    "text": "you're either regretting going too fast or regretting going too slow. I'm not sure I met"
+  },
+  {
+    "start": 497.28,
+    "duration": 5.36,
+    "text": "anyone that's like, we did it perfectly. And then the second is making decisions faster,"
+  },
+  {
+    "start": 503.76,
+    "duration": 4.4,
+    "text": "or it's making decisions too quickly and causing whiplash for the team. So how do you"
+  },
+  {
+    "start": 508.88,
+    "duration": 3.6,
+    "text": "balance this? Because I haven't met anyone that's done this perfectly yet."
+  },
+  {
+    "start": 514.24,
+    "duration": 6.4,
+    "text": "Yeah. I mean, so much of it is hindsight bias. You say this about the decisions that went well,"
+  },
+  {
+    "start": 520.64,
+    "duration": 7.76,
+    "text": "but the decisions that you had to unwind, the opposite would be true. So I interviewed"
+  },
+  {
+    "start": 528.4,
+    "duration": 5.68,
+    "text": "Ashley Grech, who's the Thero at Thero and former head of Global Post Square."
+  },
+  {
+    "start": 535.12,
+    "duration": 6.56,
+    "text": "And she gave me a really great framework that has really stuck with me. I do some of these episodes"
+  },
+  {
+    "start": 541.68,
+    "duration": 4.8,
+    "text": "and there's just one thing that now I find myself referencing on a weekly basis, and this is one of"
+  },
+  {
+    "start": 546.48,
+    "duration": 8.48,
+    "text": "them. You talked about gut data gut. And so we've been doing this, people like us, we've now been"
+  },
+  {
+    "start": 554.96,
+    "duration": 7.12,
+    "text": "doing this for a long time and we have a lot of pattern recognition. And you don't want to blindly"
+  },
+  {
+    "start": 562.08,
+    "duration": 5.04,
+    "text": "apply your playbook and what worked in the last thing, you're just going to do it again."
+  },
+  {
+    "start": 568.48,
+    "duration": 6.0,
+    "text": "But I think having this understanding that gut is going to sandwich data in a bunch of your"
+  },
+  {
+    "start": 574.56,
+    "duration": 4.8,
+    "text": "decisions, I think gives us more clarity to be like, okay, we're going to gather whatever data"
+  },
+  {
+    "start": 579.36,
+    "duration": 6.0,
+    "text": "we can, because especially in the early days, it's pretty limited. I did not have much of"
+  },
+  {
+    "start": 585.36,
+    "duration": 8.4,
+    "text": "what I really wanted to make some of these calls. But in hindsight, most of the decisions where we"
+  },
+  {
+    "start": 595.04,
+    "duration": 6.08,
+    "text": "delayed it a month, we wanted to see more play out, those could have been things that we decided"
+  },
+  {
+    "start": 601.12,
+    "duration": 6.56,
+    "text": "on faster and just went with. And you always have the opportunity to unwind. You don't want"
+  },
+  {
+    "start": 607.68,
+    "duration": 5.84,
+    "text": "to give routine whiplash, that is the danger. But I think a little bit of whiplash is probably"
+  },
+  {
+    "start": 613.52,
+    "duration": 6.48,
+    "text": "better than going too slow. Especially in startups. I think about it as, is this a reversible or"
+  },
+  {
+    "start": 620.0,
+    "duration": 5.2,
+    "text": "irreversible decision? If it's an irreversible decision, slow down. If it's reversible, something"
+  },
+  {
+    "start": 625.2,
+    "duration": 6.72,
+    "text": "that we say internally is ship and iterate. Just figure out what is the decision or the test I can"
+  },
+  {
+    "start": 631.92,
+    "duration": 4.24,
+    "text": "make that's really small that I can at least start to get to learn from and then keep iterating from"
+  },
+  {
+    "start": 636.16,
+    "duration": 6.24,
+    "text": "there. Yeah, that's the Bezos one-way, two-way door thing. We say the same thing a lot. I think"
+  },
+  {
+    "start": 642.96,
+    "duration": 11.28,
+    "text": "the push is on two-way doors, go even faster. Go as fast as you can while being able to"
+  },
+  {
+    "start": 654.24,
+    "duration": 5.68,
+    "text": "communicate it properly. This is actually one of the other things that I would"
+  },
+  {
+    "start": 659.92,
+    "duration": 5.36,
+    "text": "probably do earlier is bring more focus to how we're communicating across the team."
+  },
+  {
+    "start": 666.4,
+    "duration": 6.0,
+    "text": "We do these enablement surveys every six months to get feedback"
+  },
+  {
+    "start": 672.4,
+    "duration": 6.48,
+    "text": "from the reps. And the one, two or three surveys ago, the big feedback was, hey, we're"
+  },
+  {
+    "start": 678.88,
+    "duration": 8.32,
+    "text": "changing all of this stuff and we can't keep up. And it's just chaotic. And can we"
+  },
+  {
+    "start": 687.2,
+    "duration": 4.88,
+    "text": "communicate things better? So we spent a bunch of time, we built this graphic light model for"
+  },
+  {
+    "start": 692.08,
+    "duration": 5.76,
+    "text": "change management, which again, is in my faster annual talk from last year. And there's templates"
+  },
+  {
+    "start": 697.84,
+    "duration": 10.0,
+    "text": "on my sub stack with all this. But we built this model to deploy change more thoughtfully."
+  },
+  {
+    "start": 708.64,
+    "duration": 5.92,
+    "text": "Having better documentation and consolidating where things are fared and not letting people"
+  },
+  {
+    "start": 714.56,
+    "duration": 10.88,
+    "text": "put things until they've written the required steps from that graphic light model. I think"
+  },
+  {
+    "start": 725.44,
+    "duration": 5.04,
+    "text": "that would have let us go faster. That's one of those counterintuitive things, flow is smooth"
+  },
+  {
+    "start": 730.48,
+    "duration": 6.24,
+    "text": "and smooth is fast. And to go a little bit slower and be forced to do documentation would help us"
+  },
+  {
+    "start": 736.72,
+    "duration": 6.24,
+    "text": "go faster because the change would land better. That's another one that certainly, I would go do"
+  },
+  {
+    "start": 742.96,
+    "duration": 6.16,
+    "text": "that again. Yeah, I really appreciate that perspective. It's very reflective. It's something"
+  },
+  {
+    "start": 749.12,
+    "duration": 7.12,
+    "text": "that I see a lot of great leaders kind of go back and forth with and how do you balance speed and"
+  },
+  {
+    "start": 756.24,
+    "duration": 4.56,
+    "text": "being able to make quick decisions, but also the right decisions. Switching gears a little,"
+  },
+  {
+    "start": 761.76,
+    "duration": 6.96,
+    "text": "something that you noticed in the early days was that your inbound was not as high as you wanted"
+  },
+  {
+    "start": 768.72,
+    "duration": 6.16,
+    "text": "it to be, or maybe not even as high as quality. What did you do to fix that? Why was it important"
+  },
+  {
+    "start": 774.88,
+    "duration": 7.68,
+    "text": "to fix? How did you do it? In my first few months, well, even before I had started because"
+  },
+  {
+    "start": 783.52,
+    "duration": 5.76,
+    "text": "Owner is a GTM fund portfolio company as well. I was part of the team that got us into the deal"
+  },
+  {
+    "start": 789.36,
+    "duration": 5.44,
+    "text": "and then stayed in touch with Adam and was going to transition into doing some advisory. And then"
+  },
+  {
+    "start": 794.8,
+    "duration": 6.08,
+    "text": "he talked me into joining full-time. Even though at the time, it couldn't have been worse. I always"
+  },
+  {
+    "start": 800.88,
+    "duration": 6.56,
+    "text": "joke about this. I just had my second kid and it was atrocious timing. But when something is like"
+  },
+  {
+    "start": 807.44,
+    "duration": 6.64,
+    "text": "that has that upside, you got to go. And so I had known going in that there was an early turn"
+  },
+  {
+    "start": 814.08,
+    "duration": 6.48,
+    "text": "problem. And so rather than coming in and just being like, I'm a sales guy, let's sell more deals."
+  },
+  {
+    "start": 823.36,
+    "duration": 5.36,
+    "text": "Having now done this a few times, I was mature enough to be like, okay, before I start trying"
+  },
+  {
+    "start": 828.72,
+    "duration": 8.0,
+    "text": "to scale a bunch of headcount and volume, let's just address the quality issue. In your first"
+  },
+  {
+    "start": 836.72,
+    "duration": 5.28,
+    "text": "couple of months, you usually have a little bit of leeway before you're really under the gun."
+  },
+  {
+    "start": 842.72,
+    "duration": 4.08,
+    "text": "And so I spent a bunch of time just looking at deal quality. Why were deals churning? What was"
+  },
+  {
+    "start": 846.8,
+    "duration": 4.8,
+    "text": "causing that to happen? Were these really high-fit customers? Was it the expectations"
+  },
+  {
+    "start": 852.24,
+    "duration": 5.76,
+    "text": "that the reps were setting in? It was all of it, basically. We were not very discriminating"
+  },
+  {
+    "start": 858.0,
+    "duration": 4.8,
+    "text": "on who we were signing up. The expectations weren't good. The handoff was mediocre."
+  },
+  {
+    "start": 863.36,
+    "duration": 5.68,
+    "text": "And so I spent the first... Well, we've been working on this since I started. Every month,"
+  },
+  {
+    "start": 869.04,
+    "duration": 4.32,
+    "text": "we're working on these topics. But very much so in the first 60 days,"
+  },
+  {
+    "start": 873.36,
+    "duration": 3.68,
+    "text": "that's what I obsessed over. It's just getting the basics in place"
+  },
+  {
+    "start": 878.72,
+    "duration": 6.72,
+    "text": "so that our customers were better set up for success. And so my first full month at Owner"
+  },
+  {
+    "start": 885.44,
+    "duration": 4.8,
+    "text": "was worse than the previous month. And my second full month was worse than that month,"
+  },
+  {
+    "start": 890.24,
+    "duration": 6.96,
+    "text": "which is not really what you want as a revenue leader. But I had conviction that it was silly"
+  },
+  {
+    "start": 897.2,
+    "duration": 7.6,
+    "text": "to just spend a bunch of money and scale on this rickety foundation. And out of the CEO,"
+  },
+  {
+    "start": 904.8,
+    "duration": 5.92,
+    "text": "Adam had confidence in me to do it and knew that this is the direction we did."
+  },
+  {
+    "start": 910.72,
+    "duration": 5.84,
+    "text": "This was important strategically. And so I just cleaned all of this stuff up in the early days."
+  },
+  {
+    "start": 916.56,
+    "duration": 4.56,
+    "text": "And then we said, okay, now let's hit the gas. Let's send a little more on demand, Jim. Let's"
+  },
+  {
+    "start": 921.12,
+    "duration": 6.08,
+    "text": "think about scaling the teams. And sure enough, then the first month that was an uptick was still"
+  },
+  {
+    "start": 928.0,
+    "duration": 10.48,
+    "text": "only 80% of the close one number the month before I started. But now the estimated revenue from"
+  },
+  {
+    "start": 938.48,
+    "duration": 6.24,
+    "text": "those customers was now more. So it's fewer deals, but more estimated revenue because part of our"
+  },
+  {
+    "start": 944.72,
+    "duration": 7.76,
+    "text": "revenue is transaction-based. And we knew that those deals had a much, much higher LTB because"
+  },
+  {
+    "start": 952.48,
+    "duration": 4.4,
+    "text": "they were starting to activate at a higher rate. And then we could start to press the gas a little"
+  },
+  {
+    "start": 956.88,
+    "duration": 9.92,
+    "text": "bit on growth. And so that was the first couple of months. And this is harder advice to give more"
+  },
+  {
+    "start": 967.36,
+    "duration": 8.64,
+    "text": "generally because I think our business is SMB. We sign month-to-month contracts. And so it's quite"
+  },
+  {
+    "start": 976.0,
+    "duration": 6.8,
+    "text": "like a mom-and-pop challenge. So I don't want people to over-rotate on this. But I will say"
+  },
+  {
+    "start": 982.8,
+    "duration": 5.52,
+    "text": "the advice to the founders and sales leaders, especially in the early days, is think more"
+  },
+  {
+    "start": 988.32,
+    "duration": 6.64,
+    "text": "about customer quality and deal quality and expectations than you do today. Because ultimately,"
+  },
+  {
+    "start": 995.04,
+    "duration": 3.12,
+    "text": "everybody goes through this. I'm sure you guys will be in the same way. At some point, you're"
+  },
+  {
+    "start": 998.16,
+    "duration": 5.76,
+    "text": "like, oh, man, if our churn was better, we'd be growing way faster. And then you rotate a bunch"
+  },
+  {
+    "start": 1003.92,
+    "duration": 5.28,
+    "text": "of resources to see us. And so you can better set yourself up for success if you think about that"
+  },
+  {
+    "start": 1009.2,
+    "duration": 5.04,
+    "text": "from the beginning rather than waiting for the discovery. And like at $5 million ARR, be like,"
+  },
+  {
+    "start": 1014.24,
+    "duration": 6.96,
+    "text": "man, our churns sort of suck. Beyond just thinking about it, what does that tactically mean? Is that"
+  },
+  {
+    "start": 1021.2,
+    "duration": 5.6,
+    "text": "tightening up your ICP? Is that investing in sales early? Is that tighter partnership"
+  },
+  {
+    "start": 1026.8,
+    "duration": 3.04,
+    "text": "with product? What does that look like of thinking about it early?"
+  },
+  {
+    "start": 1031.52,
+    "duration": 8.88,
+    "text": "So I think the two major blocks are get really clear on your actual ICP. And that's not"
+  },
+  {
+    "start": 1041.76,
+    "duration": 6.24,
+    "text": "accounting firms under 100 employees. That's not really an ICP. That's thousands and thousands"
+  },
+  {
+    "start": 1048.0,
+    "duration": 7.28,
+    "text": "of customers. It's accounting firms under 100 employees who are in the US who service"
+  },
+  {
+    "start": 1057.36,
+    "duration": 5.44,
+    "text": "product-oriented businesses who have x, y, and z challenges that are using QuickBooks today"
+  },
+  {
+    "start": 1062.8,
+    "duration": 8.48,
+    "text": "and not NetSuite. You really have to get way more dialed in on the ICP than you are today."
+  },
+  {
+    "start": 1071.84,
+    "duration": 6.64,
+    "text": "And that's hard because booking meetings is hard. Building pipeline is hard in the early days."
+  },
+  {
+    "start": 1079.04,
+    "duration": 7.44,
+    "text": "But it will save you a lot of pain and heartache later. So get really narrow on your ICP."
+  },
+  {
+    "start": 1088.64,
+    "duration": 5.36,
+    "text": "Don't chase the deals that are outside of it but seem interesting because they probably won't"
+  },
+  {
+    "start": 1094.0,
+    "duration": 4.72,
+    "text": "close at a high enough rate. And even if they close at a high enough rate, they'll churn."
+  },
+  {
+    "start": 1098.72,
+    "duration": 3.44,
+    "text": "There'll be a problem. They'll ask the product to build a bunch of stuff that's not great."
+  },
+  {
+    "start": 1102.16,
+    "duration": 6.32,
+    "text": "So be super clear on your ICP. And then be clear about your point of view. So this is the other"
+  },
+  {
+    "start": 1108.48,
+    "duration": 7.36,
+    "text": "thing that... So I spoke at an accelerator last week and we had like 80 slides and we got through"
+  },
+  {
+    "start": 1115.84,
+    "duration": 4.32,
+    "text": "30 of them because we just spent the whole time talking about positioning and this topic of"
+  },
+  {
+    "start": 1120.16,
+    "duration": 6.08,
+    "text": "getting really clear on who you're trying to service. So be honest with yourselves and honest"
+  },
+  {
+    "start": 1126.24,
+    "duration": 8.0,
+    "text": "with the customer around who you're a great fit for and who you're not and bake that into your"
+  },
+  {
+    "start": 1134.24,
+    "duration": 7.04,
+    "text": "top tracks, your positioning early. And so I call this point of view positioning. My methodology is"
+  },
+  {
+    "start": 1141.28,
+    "duration": 3.52,
+    "text": "radically transparent selling. And so the way that I try to construct"
+  },
+  {
+    "start": 1148.0,
+    "duration": 7.12,
+    "text": "demo messaging, website content is all around this point of view. So it is our belief and"
+  },
+  {
+    "start": 1155.12,
+    "duration": 6.48,
+    "text": "customers that choose owner choose us because. And so for us, it's because we're an opinionated"
+  },
+  {
+    "start": 1161.6,
+    "duration": 8.16,
+    "text": "product. And so the point of view and our belief is restaurant owners would be better off giving"
+  },
+  {
+    "start": 1169.76,
+    "duration": 9.76,
+    "text": "up a bunch of choice and flexibility in order to opt into a proven system of success. And so when"
+  },
+  {
+    "start": 1179.52,
+    "duration": 6.0,
+    "text": "we share this with our restaurant owners or our restaurant owner prospects, we say, hey, look,"
+  },
+  {
+    "start": 1185.52,
+    "duration": 7.52,
+    "text": "if you have all of these like brand ideas and you got a custom font made with from a designer"
+  },
+  {
+    "start": 1193.04,
+    "duration": 3.6,
+    "text": "and you want your website to have all these bells and whistles, like that's actually not us."
+  },
+  {
+    "start": 1197.2,
+    "duration": 5.12,
+    "text": "There's better solutions. Or if you're a sit down and like fine dining restaurant and you want"
+  },
+  {
+    "start": 1202.32,
+    "duration": 3.84,
+    "text": "like your brand to speak through your website in like a really fancy way, like go use BentoBox."
+  },
+  {
+    "start": 1206.16,
+    "duration": 4.16,
+    "text": "They're a great solution for that. They're way more expensive because you have to manage it all."
+  },
+  {
+    "start": 1210.32,
+    "duration": 7.2,
+    "text": "And and you need a professional to like do it for you. But if you're a mom and pop take that"
+  },
+  {
+    "start": 1217.52,
+    "duration": 5.68,
+    "text": "delivery restaurant and you're OK to give up flexibility in order to opt into a proven system,"
+  },
+  {
+    "start": 1224.0,
+    "duration": 3.76,
+    "text": "because we can because we have this consistency across our customer base,"
+  },
+  {
+    "start": 1229.12,
+    "duration": 5.68,
+    "text": "we can do a B tests on samples of customers and then roll out exactly what's been successful"
+  },
+  {
+    "start": 1234.8,
+    "duration": 4.24,
+    "text": "across every single customer. So your performance is always better."
+  },
+  {
+    "start": 1239.04,
+    "duration": 4.88,
+    "text": "If you can't hire a digital marketing consultant and build something better than owner has built,"
+  },
+  {
+    "start": 1243.92,
+    "duration": 5.2,
+    "text": "we have arguably the best restaurant marketers, the best digital marketing strategist in all of"
+  },
+  {
+    "start": 1249.12,
+    "duration": 5.68,
+    "text": "restaurant tech working for us and an army of them. You can't beat them. Yeah, like unequivocally,"
+  },
+  {
+    "start": 1254.8,
+    "duration": 4.08,
+    "text": "every one of these, every one of these other platforms, the customer moves to owner,"
+  },
+  {
+    "start": 1258.88,
+    "duration": 4.56,
+    "text": "their SEO picks up, their growth ticks up, conversion rates, everything gets better because"
+  },
+  {
+    "start": 1263.44,
+    "duration": 4.8,
+    "text": "they're opting. And so I explain this as a tangible example, but that's our point of view."
+  },
+  {
+    "start": 1268.24,
+    "duration": 6.32,
+    "text": "And a customer can say, actually, like my wife's a digital marketer and we've got her firm working"
+  },
+  {
+    "start": 1274.56,
+    "duration": 4.0,
+    "text": "on it and we want a platform where we can make all these choices because we think that one of"
+  },
+  {
+    "start": 1278.56,
+    "duration": 4.4,
+    "text": "the most important things about running a restaurant is your brand identity and blah, blah, blah. Cool."
+  },
+  {
+    "start": 1282.96,
+    "duration": 5.44,
+    "text": "That's one view on how to run a restaurant. It is not our view. Best of luck to them. But"
+  },
+  {
+    "start": 1289.36,
+    "duration": 8.96,
+    "text": "they can, we can part ways within 15 minutes on a first call and save ourselves all the time and"
+  },
+  {
+    "start": 1298.32,
+    "duration": 6.16,
+    "text": "energy. And so going back to your question on how do you prevent churn, just bake in what you're"
+  },
+  {
+    "start": 1304.48,
+    "duration": 6.08,
+    "text": "great at. Like what is your 10X feature? Who are you for? What is your core belief about what the"
+  },
+  {
+    "start": 1310.56,
+    "duration": 6.4,
+    "text": "market has gotten wrong? And then lead with that. And then the right fit customers will opt in,"
+  },
+  {
+    "start": 1316.96,
+    "duration": 6.0,
+    "text": "the wrong fit customers will opt out. And especially in the early days, this is important"
+  },
+  {
+    "start": 1322.96,
+    "duration": 4.0,
+    "text": "because your product's just going to be worse than basically everything else in the market"
+  },
+  {
+    "start": 1326.96,
+    "duration": 5.28,
+    "text": "when you're a stage startup. But there'll be one thing that's better, one 10X feature,"
+  },
+  {
+    "start": 1332.24,
+    "duration": 5.6,
+    "text": "which Jason Lemkin often talks about. And there's some novel insights, some reason you started this"
+  },
+  {
+    "start": 1337.84,
+    "duration": 6.24,
+    "text": "company that is different than the norm. And so you just need to find people who also think that"
+  },
+  {
+    "start": 1344.08,
+    "duration": 3.84,
+    "text": "that's really important. And if you can do those two things, everything gets better."
+  },
+  {
+    "start": 1347.92,
+    "duration": 6.24,
+    "text": "It's so important. The ICP, figuring out what's 10X better, all incredible advice. Something that"
+  },
+  {
+    "start": 1354.72,
+    "duration": 6.16,
+    "text": "we think about is you set your ICP, you go outbound to that ICP, you're very clear on"
+  },
+  {
+    "start": 1360.88,
+    "duration": 5.36,
+    "text": "what is ICP, what's not ICP, what's the 10X value that makes this so much more"
+  },
+  {
+    "start": 1367.2,
+    "duration": 3.28,
+    "text": "impactful for this one type of company. Something that we've..."
+  },
+  {
+    "start": 1370.48,
+    "duration": 2.08,
+    "text": "More importantly, the point of view."
+  },
+  {
+    "start": 1372.56,
+    "duration": 0.88,
+    "text": "And the point of view."
+  },
+  {
+    "start": 1374.4,
+    "duration": 6.88,
+    "text": "What do you believe about this market that has led you to need to build your own product"
+  },
+  {
+    "start": 1381.28,
+    "duration": 5.6,
+    "text": "because everybody else has missed it, which then leads to the 10X feature and the unique value."
+  },
+  {
+    "start": 1386.88,
+    "duration": 4.96,
+    "text": "But if you can start with the point of view, your unique perspective, the unique perspective"
+  },
+  {
+    "start": 1391.84,
+    "duration": 5.28,
+    "text": "that your customers share about this market, then I... One of the other things here is"
+  },
+  {
+    "start": 1397.84,
+    "duration": 4.88,
+    "text": "now I'm not saying my product is better because of this. I'm saying our point of view is different"
+  },
+  {
+    "start": 1402.72,
+    "duration": 5.44,
+    "text": "because of this. And because people don't want to be told your product's better. Nobody believes"
+  },
+  {
+    "start": 1408.16,
+    "duration": 6.0,
+    "text": "that. There is no such thing as a best product in a market. There's only better fit products"
+  },
+  {
+    "start": 1414.16,
+    "duration": 5.36,
+    "text": "for a particular circumstance. And so this will lead to a much more high trust selling engagement"
+  },
+  {
+    "start": 1420.08,
+    "duration": 5.12,
+    "text": "if you can be... If you can lead with this point of view as opposed to like,"
+  },
+  {
+    "start": 1425.2,
+    "duration": 1.44,
+    "text": "this is where our product is good."
+  },
+  {
+    "start": 1427.6,
+    "duration": 6.32,
+    "text": "And that's very helpful for running sales cycle, doing outbound. Something that we see is sometimes"
+  },
+  {
+    "start": 1433.92,
+    "duration": 5.52,
+    "text": "we'll get in... We have this problem ourselves where we were trying to solve everyone's needs."
+  },
+  {
+    "start": 1439.44,
+    "duration": 4.88,
+    "text": "And we saw that we would get pulled SMB, but then upmarket enterprise. And it's really hard to do"
+  },
+  {
+    "start": 1444.32,
+    "duration": 4.24,
+    "text": "both at the same time. So we said, we're going to be more mid-market enterprise. And what that"
+  },
+  {
+    "start": 1448.56,
+    "duration": 3.6,
+    "text": "meant was we'd still get a lot of inbound from SMB, but we would have to politely say,"
+  },
+  {
+    "start": 1452.24,
+    "duration": 6.08,
+    "text": "you know, we can't serve you right now. And what we're concerned about is what is the brand"
+  },
+  {
+    "start": 1458.32,
+    "duration": 5.68,
+    "text": "reputation there? And what is the impact of saying no to non-ICP fit customers? Because it's non-ICP"
+  },
+  {
+    "start": 1464.0,
+    "duration": 4.4,
+    "text": "right now, but it could be in the near future. So how do you manage that when you're getting"
+  },
+  {
+    "start": 1468.4,
+    "duration": 7.2,
+    "text": "this inbound and you're like, nope, can't serve you? We explain why pretty honestly."
+  },
+  {
+    "start": 1476.24,
+    "duration": 3.92,
+    "text": "And so for us, we're a premium price product in our category. So we'll say,"
+  },
+  {
+    "start": 1480.16,
+    "duration": 8.16,
+    "text": "hey... And we have this machine learning scoring algorithm that runs that will tell us how big or"
+  },
+  {
+    "start": 1488.32,
+    "duration": 5.84,
+    "text": "small this customer is. And if they're small, we'll say, hey, we charge 500 bucks a month."
+  },
+  {
+    "start": 1494.16,
+    "duration": 6.8,
+    "text": "And we've done some analysis on your site and reviews and traffic. And we don't think we're"
+  },
+  {
+    "start": 1500.96,
+    "duration": 5.04,
+    "text": "going to be able to generate enough gross payments volume, enough revenue for you to"
+  },
+  {
+    "start": 1506.0,
+    "duration": 7.84,
+    "text": "really justify it. We think you're better off using like a more value-based solution."
+  },
+  {
+    "start": 1513.84,
+    "duration": 4.24,
+    "text": "And we'll actually give them the name of that tool. It's like, hey, this is actually a better"
+  },
+  {
+    "start": 1518.08,
+    "duration": 4.96,
+    "text": "fit for you today. Because we honestly know this. We know that if this customer doesn't do enough"
+  },
+  {
+    "start": 1523.04,
+    "duration": 5.92,
+    "text": "GPV, then they will turn at an unsustainable rate because the value exchange is there."
+  },
+  {
+    "start": 1528.96,
+    "duration": 7.68,
+    "text": "We charge them 500. They're only getting 1500 in orders from us. They have a hard time with that"
+  },
+  {
+    "start": 1536.64,
+    "duration": 7.04,
+    "text": "math. And so we basically just say, save yourself the time and headaches because you probably won't"
+  },
+  {
+    "start": 1543.68,
+    "duration": 5.68,
+    "text": "get enough value fast enough. And then you'll want to do something else because it feels like"
+  },
+  {
+    "start": 1549.36,
+    "duration": 4.64,
+    "text": "you're spending too much money and you've just used a bunch of time and energy and money on"
+  },
+  {
+    "start": 1554.0,
+    "duration": 6.88,
+    "text": "something that doesn't work. And customers, it's funny. You tell them politely that you're"
+  },
+  {
+    "start": 1560.88,
+    "duration": 3.92,
+    "text": "not the right fit and that makes them excellent. Yeah, they want to work with you even more."
+  },
+  {
+    "start": 1565.52,
+    "duration": 4.0,
+    "text": "And so we're actually trying to figure out, okay, in these scenarios, what could we do?"
+  },
+  {
+    "start": 1572.8,
+    "duration": 4.8,
+    "text": "But yeah, I think that's what we try to do. But we don't have an awesome answer."
+  },
+  {
+    "start": 1578.16,
+    "duration": 4.24,
+    "text": "It's the hilarious, we see the same thing when we send that,"
+  },
+  {
+    "start": 1582.4,
+    "duration": 4.16,
+    "text": "hey, like the disqualified email, we'll get pings and pings and pings until"
+  },
+  {
+    "start": 1587.2,
+    "duration": 4.96,
+    "text": "they find a way to get in front of us. This is an incredible lesson in sales."
+  },
+  {
+    "start": 1592.96,
+    "duration": 8.08,
+    "text": "Why is that? And how do you emulate that in your sales process? And so what has happened here is,"
+  },
+  {
+    "start": 1602.32,
+    "duration": 3.04,
+    "text": "what happens in sales is when you're pushing and pushing, pushing, you trigger this thing"
+  },
+  {
+    "start": 1605.36,
+    "duration": 7.04,
+    "text": "called reactance. And reactance is basically people's need for self-determination and autonomy"
+  },
+  {
+    "start": 1612.4,
+    "duration": 4.32,
+    "text": "and free choice. And when they feel like that's being taken away because something is being pushed"
+  },
+  {
+    "start": 1616.72,
+    "duration": 7.12,
+    "text": "on them, they pull back. But when you resist that urge, when you resist the urge and you're more"
+  },
+  {
+    "start": 1623.84,
+    "duration": 8.08,
+    "text": "of an impartial buying Sherpa, we call it, we tell our teams, act like a Sherpa. You're a guide."
+  },
+  {
+    "start": 1631.92,
+    "duration": 4.56,
+    "text": "You're not their boss, but you're like a guide who's going through a journey that"
+  },
+  {
+    "start": 1636.48,
+    "duration": 6.48,
+    "text": "you know better than them, but you don't boss them around. And when you act like this, then"
+  },
+  {
+    "start": 1644.16,
+    "duration": 4.64,
+    "text": "miraculously, people want to engage with you much more. And so the cue for the salespeople"
+  },
+  {
+    "start": 1648.8,
+    "duration": 5.84,
+    "text": "and the leaders on the call is to think about how you present your solution in a way that is just"
+  },
+  {
+    "start": 1654.64,
+    "duration": 10.8,
+    "text": "like less, less arrogant of yourself than you are today. This is where we're good. This is where"
+  },
+  {
+    "start": 1665.44,
+    "duration": 4.16,
+    "text": "you're bad. If you believe this is the way you want to do business, we're a great choice. If"
+  },
+  {
+    "start": 1669.6,
+    "duration": 4.96,
+    "text": "you want to do business like this, we're probably not a great choice. And you let the customer opt"
+  },
+  {
+    "start": 1674.56,
+    "duration": 9.36,
+    "text": "in. I heard a great saying that I keep butchering, but when you say it, it's sold. When they say it,"
+  },
+  {
+    "start": 1683.92,
+    "duration": 6.24,
+    "text": "it's gold. And so any opinion that you give that is like, we're the best because of this,"
+  },
+  {
+    "start": 1690.16,
+    "duration": 4.72,
+    "text": "this and this, that's going to feel like selling. But if you can extract that out of people"
+  },
+  {
+    "start": 1696.08,
+    "duration": 4.48,
+    "text": "or have a customer say that, it's going to seem a lot more credible."
+  },
+  {
+    "start": 1701.28,
+    "duration": 4.4,
+    "text": "Yeah, incredible. Well, Kyle, we're somehow already at time and we barely even got through"
+  },
+  {
+    "start": 1705.68,
+    "duration": 5.12,
+    "text": "our list of questions. I forgot my crap questions. But because this was just an"
+  },
+  {
+    "start": 1710.8,
+    "duration": 5.68,
+    "text": "awesome discussion, you are incredible. So much tactical, good advice, real good experience,"
+  },
+  {
+    "start": 1716.48,
+    "duration": 4.48,
+    "text": "scaling, learning lessons, iterating from them. So really appreciate you being here with us."
+  },
+  {
+    "start": 1721.92,
+    "duration": 2.16,
+    "text": "Yeah, thanks for having me. And this was fun."
+  },
+  {
+    "start": 1724.08,
+    "duration": 3.76,
+    "text": "Thanks. And where can people find you if they want to learn more or connect with you?"
+  },
+  {
+    "start": 1729.52,
+    "duration": 4.24,
+    "text": "Just hit me on LinkedIn. Most of my stuff is there. You'll find a link to the podcast,"
+  },
+  {
+    "start": 1733.76,
+    "duration": 5.04,
+    "text": "to the sub stack and all that. There's a bunch of this stuff. Go to the sub stack and go to the"
+  },
+  {
+    "start": 1738.8,
+    "duration": 5.76,
+    "text": "older articles. There's a lot of very tactical templates and strategies and stuff there."
+  },
+  {
+    "start": 1745.12,
+    "duration": 0.96,
+    "text": "Thank you so much, Kyle."
+  },
+  {
+    "start": 1747.12,
+    "duration": 0.72,
+    "text": "Okay, bye."
+  }
+]

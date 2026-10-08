@@ -1,0 +1,5692 @@
+[
+  {
+    "start": 0.0,
+    "duration": 6.16,
+    "text": "Ghazi Massoud is the CRO at Repl.it, where they've grown revenue from $2 to over $150 million in less than a year."
+  },
+  {
+    "start": 6.16,
+    "duration": 5.08,
+    "text": "And now they're tracking to a billion-dollar run rate by the end of 2026, all in the service of one mission."
+  },
+  {
+    "start": 11.24,
+    "duration": 2.0,
+    "text": "We're democratizing software creation."
+  },
+  {
+    "start": 13.24,
+    "duration": 6.2,
+    "text": "And the next billion software creators are people who sit outside of the engineering and development organizations."
+  },
+  {
+    "start": 19.44,
+    "duration": 5.72,
+    "text": "In today's conversation, Ghazi draws on his experience as a vibe coder, but also as a multi-decade revenue leader,"
+  },
+  {
+    "start": 25.16,
+    "duration": 2.84,
+    "text": "as we talk about the best ways to think about build versus buy."
+  },
+  {
+    "start": 28.0,
+    "duration": 3.56,
+    "text": "The big behemoth question is, hey, are we building our own CRM? No, we're not."
+  },
+  {
+    "start": 31.56,
+    "duration": 5.4,
+    "text": "But then everything we're doing on top of that, they're all built on Repl.it apps."
+  },
+  {
+    "start": 36.96,
+    "duration": 4.6,
+    "text": "Plus, we talk about the challenges and solutions around talent selection, change management,"
+  },
+  {
+    "start": 41.56,
+    "duration": 3.24,
+    "text": "and how to structure a team when you're growing at a truly insane pace."
+  },
+  {
+    "start": 44.8,
+    "duration": 5.72,
+    "text": "There's a lot of firsts happening in this business because the business has grown so fast, so quickly."
+  },
+  {
+    "start": 50.52,
+    "duration": 3.44,
+    "text": "Welcome to the Revenue Leadership Podcast."
+  },
+  {
+    "start": 53.96,
+    "duration": 3.84,
+    "text": "A quick PSA, there's a change coming to the Revenue Leadership Podcast."
+  },
+  {
+    "start": 57.8,
+    "duration": 2.8,
+    "text": "I've moved my show to a new YouTube account."
+  },
+  {
+    "start": 60.6,
+    "duration": 4.52,
+    "text": "So if you enjoy the show, I recommend you go subscribe so you don't miss any upcoming episodes"
+  },
+  {
+    "start": 65.12,
+    "duration": 2.72,
+    "text": "and a bunch of other content that will be on there."
+  },
+  {
+    "start": 67.84,
+    "duration": 6.08,
+    "text": "And you can find the new channel at youtube.com slash at Kyle-Norton."
+  },
+  {
+    "start": 73.92,
+    "duration": 3.64,
+    "text": "The channel name is Kyle Norton, the Revenue Leadership Podcast."
+  },
+  {
+    "start": 77.56,
+    "duration": 4.96,
+    "text": "And that's where we're going to be posting all the future episodes, clips, and a bunch of new stuff as well."
+  },
+  {
+    "start": 82.52,
+    "duration": 5.8,
+    "text": "And if you're wondering, the audio podcast will still be in all of the same places that it's always been"
+  },
+  {
+    "start": 88.32,
+    "duration": 3.68,
+    "text": "on Spotify, Apple Podcasts, Snips, and so on."
+  },
+  {
+    "start": 92.0,
+    "duration": 3.16,
+    "text": "So if you listen in audio-only form, no need to do anything."
+  },
+  {
+    "start": 95.16,
+    "duration": 3.48,
+    "text": "But if you watch on YouTube, now you know where to find future episodes."
+  },
+  {
+    "start": 98.64,
+    "duration": 7.56,
+    "text": "And while I'm at it, I would love if everybody could support the show by liking, subscribing, reviewing,"
+  },
+  {
+    "start": 106.2,
+    "duration": 4.36,
+    "text": "leaving a comment on whatever platform they listen on."
+  },
+  {
+    "start": 110.56,
+    "duration": 2.12,
+    "text": "It helps new viewers find the podcast."
+  },
+  {
+    "start": 112.68,
+    "duration": 1.28,
+    "text": "It's really helpful for us."
+  },
+  {
+    "start": 113.96,
+    "duration": 1.68,
+    "text": "And I always forget to mention it."
+  },
+  {
+    "start": 115.64,
+    "duration": 7.84,
+    "text": "If you love the pod or even like it a little bit, do us a solid and go review it, comment, share it with a friend."
+  },
+  {
+    "start": 123.48,
+    "duration": 2.52,
+    "text": "And that would be most appreciated."
+  },
+  {
+    "start": 126.0,
+    "duration": 2.68,
+    "text": "And now let's get back to the show."
+  },
+  {
+    "start": 128.68,
+    "duration": 3.76,
+    "text": "Today's guest is Ghazi Massoud, who is the CRO at Repl.it."
+  },
+  {
+    "start": 132.44,
+    "duration": 5.8,
+    "text": "And Ghazi has spent the last decade building enterprise sales motions on top of PLG companies"
+  },
+  {
+    "start": 138.28,
+    "duration": 5.48,
+    "text": "through hyper-growth at Auth0, he was the CRO at Retool, and now at Repl.it,"
+  },
+  {
+    "start": 143.76,
+    "duration": 5.6,
+    "text": "where revenue has gone from $2 million to over $150 million in less than a year."
+  },
+  {
+    "start": 149.36,
+    "duration": 6.2,
+    "text": "And Repl.it's now tracking to a billion-dollar run rate by the end of 2026, which is truly insane."
+  },
+  {
+    "start": 155.56,
+    "duration": 4.52,
+    "text": "And Ghazi and the team are hiring 200-plus people over the next 12 months"
+  },
+  {
+    "start": 160.08,
+    "duration": 3.44,
+    "text": "and rebuilding GTM from scratch in this AI era."
+  },
+  {
+    "start": 163.56,
+    "duration": 4.88,
+    "text": "We're going to dig into what it's like to build an AI-native revenue org."
+  },
+  {
+    "start": 168.44,
+    "duration": 5.8,
+    "text": "Repl.it, for those of you who don't know, is a vibe coding and agentic building platform"
+  },
+  {
+    "start": 174.24,
+    "duration": 1.56,
+    "text": "where you can basically build anything."
+  },
+  {
+    "start": 175.8,
+    "duration": 3.76,
+    "text": "It was actually the first vibe coding experience I had ever used"
+  },
+  {
+    "start": 179.56,
+    "duration": 4.92,
+    "text": "because I had done that 100 days of code course in like 2022."
+  },
+  {
+    "start": 184.48,
+    "duration": 3.12,
+    "text": "And so you could build anything, and we're going to talk about what that means"
+  },
+  {
+    "start": 187.6,
+    "duration": 4.04,
+    "text": "and what architecture looks like and why some of that answer involves"
+  },
+  {
+    "start": 191.64,
+    "duration": 3.8,
+    "text": "scrapping the traditional CSM and how the org chart looks like."
+  },
+  {
+    "start": 195.44,
+    "duration": 2.04,
+    "text": "So I'm really excited about this one."
+  },
+  {
+    "start": 197.48,
+    "duration": 2.12,
+    "text": "This is going to be a ton of fun, and thanks for joining."
+  },
+  {
+    "start": 199.6,
+    "duration": 1.04,
+    "text": "Yeah, amazing."
+  },
+  {
+    "start": 200.64,
+    "duration": 3.48,
+    "text": "What am I missing in your background that's worth noting?"
+  },
+  {
+    "start": 204.12,
+    "duration": 3.64,
+    "text": "And maybe just give people like the snapshot of what Repl.it is."
+  },
+  {
+    "start": 207.76,
+    "duration": 2.16,
+    "text": "The background is pretty spot on."
+  },
+  {
+    "start": 209.92,
+    "duration": 2.84,
+    "text": "I've been at this for a long time."
+  },
+  {
+    "start": 212.76,
+    "duration": 3.64,
+    "text": "I've been a go-to-market operator for going on three decades now."
+  },
+  {
+    "start": 216.44,
+    "duration": 2.48,
+    "text": "The first part of my career was like big companies."
+  },
+  {
+    "start": 218.92,
+    "duration": 3.16,
+    "text": "I did my stint at Avaya, Microsoft, Oracle."
+  },
+  {
+    "start": 222.08,
+    "duration": 2.16,
+    "text": "And then after Oracle, I've been in venture-backed startups,"
+  },
+  {
+    "start": 224.24,
+    "duration": 2.96,
+    "text": "which some of the ones that you actually talked about."
+  },
+  {
+    "start": 227.2,
+    "duration": 3.76,
+    "text": "So I've been at this go-to-market game, and I've seen different iterations"
+  },
+  {
+    "start": 230.96,
+    "duration": 4.72,
+    "text": "of the on-prem to cloud boom, the dot-com boom, the financial meltdown."
+  },
+  {
+    "start": 235.68,
+    "duration": 2.84,
+    "text": "So I've seen this and being front and center."
+  },
+  {
+    "start": 238.52,
+    "duration": 6.28,
+    "text": "Then AI revolutionizing the entire landscape is like super, super exciting."
+  },
+  {
+    "start": 244.88,
+    "duration": 3.0,
+    "text": "And Repl.it is just a fantastic place to be."
+  },
+  {
+    "start": 247.88,
+    "duration": 4.0,
+    "text": "And for me personally, I think from a career standpoint,"
+  },
+  {
+    "start": 251.88,
+    "duration": 4.44,
+    "text": "it is a perfect natural evolution of my career as an operator,"
+  },
+  {
+    "start": 256.32,
+    "duration": 2.8,
+    "text": "of kind of being in this AI world of where I've been."
+  },
+  {
+    "start": 259.12,
+    "duration": 3.24,
+    "text": "For a lot of people, what they don't know is the very first company"
+  },
+  {
+    "start": 262.36,
+    "duration": 5.12,
+    "text": "that I went to after Oracle, the big corporate America company that I left,"
+  },
+  {
+    "start": 267.48,
+    "duration": 4.44,
+    "text": "was a company called K2 Software, which was in the low-code, no-code space."
+  },
+  {
+    "start": 271.92,
+    "duration": 2.72,
+    "text": "This is where low-code, no-code first came out."
+  },
+  {
+    "start": 274.64,
+    "duration": 3.48,
+    "text": "And the art of the promise was empower knowledge workers to go build."
+  },
+  {
+    "start": 278.12,
+    "duration": 5.08,
+    "text": "So I've seen the evolution of low-code, no-code to now what is AI."
+  },
+  {
+    "start": 283.2,
+    "duration": 2.6,
+    "text": "So it's just a perfect trajectory for me personally,"
+  },
+  {
+    "start": 285.8,
+    "duration": 2.12,
+    "text": "and super excited to be here."
+  },
+  {
+    "start": 287.92,
+    "duration": 3.0,
+    "text": "Repl.it is low-code, no-code on super steroids, so."
+  },
+  {
+    "start": 290.92,
+    "duration": 0.72,
+    "text": "That's right."
+  },
+  {
+    "start": 291.64,
+    "duration": 0.56,
+    "text": "That's right."
+  },
+  {
+    "start": 292.2,
+    "duration": 0.68,
+    "text": "Yeah, that's one of the things."
+  },
+  {
+    "start": 292.88,
+    "duration": 1.64,
+    "text": "You can just explain the business for folks."
+  },
+  {
+    "start": 294.52,
+    "duration": 0.72,
+    "text": "Yeah, yeah."
+  },
+  {
+    "start": 295.24,
+    "duration": 2.84,
+    "text": "I mean, that's the last company I was at, Retool."
+  },
+  {
+    "start": 298.08,
+    "duration": 3.08,
+    "text": "One of the reasons I left is we could not pivot to AI fast enough, right?"
+  },
+  {
+    "start": 301.16,
+    "duration": 3.04,
+    "text": "And yes, so with AI coming onto the scene,"
+  },
+  {
+    "start": 304.2,
+    "duration": 2.72,
+    "text": "the relevancy of low-code, no-code is no longer relevant, right?"
+  },
+  {
+    "start": 306.92,
+    "duration": 2.48,
+    "text": "You can't really, low-code, no-code is, I actually"
+  },
+  {
+    "start": 309.4,
+    "duration": 3.76,
+    "text": "did a podcast on this a few months ago, where I actually basically went on"
+  },
+  {
+    "start": 313.16,
+    "duration": 1.52,
+    "text": "and said low-code, no-code is dead."
+  },
+  {
+    "start": 314.68,
+    "duration": 1.12,
+    "text": "Low-code, no-code is dead."
+  },
+  {
+    "start": 315.8,
+    "duration": 3.12,
+    "text": "And if you haven't pivoted to AI, you no longer have a business, right?"
+  },
+  {
+    "start": 318.92,
+    "duration": 3.36,
+    "text": "So yeah, so Repl.it, what our mission is,"
+  },
+  {
+    "start": 322.28,
+    "duration": 2.08,
+    "text": "we're democratizing software creation."
+  },
+  {
+    "start": 324.36,
+    "duration": 3.04,
+    "text": "And we feel the next billion software creators"
+  },
+  {
+    "start": 327.4,
+    "duration": 3.6,
+    "text": "are people who sit outside of the engineering and development"
+  },
+  {
+    "start": 331.0,
+    "duration": 1.12,
+    "text": "organizations."
+  },
+  {
+    "start": 332.12,
+    "duration": 3.2,
+    "text": "And we want to empower anyone to go build,"
+  },
+  {
+    "start": 335.32,
+    "duration": 2.48,
+    "text": "irrespective of their technical background."
+  },
+  {
+    "start": 337.8,
+    "duration": 2.4,
+    "text": "In the previous world, if you had an idea,"
+  },
+  {
+    "start": 340.2,
+    "duration": 2.92,
+    "text": "you would have to go take your idea to the development and engineering teams"
+  },
+  {
+    "start": 343.12,
+    "duration": 0.6,
+    "text": "to go build."
+  },
+  {
+    "start": 343.72,
+    "duration": 1.8,
+    "text": "We want to remove that bottleneck."
+  },
+  {
+    "start": 345.52,
+    "duration": 5.2,
+    "text": "And we want to basically empower the average person sitting"
+  },
+  {
+    "start": 350.72,
+    "duration": 4.64,
+    "text": "in the business organizations to go build and create software."
+  },
+  {
+    "start": 355.36,
+    "duration": 2.0,
+    "text": "So that's kind of what we're all about."
+  },
+  {
+    "start": 357.36,
+    "duration": 4.56,
+    "text": "24 months ago, the mission was the same."
+  },
+  {
+    "start": 361.92,
+    "duration": 3.16,
+    "text": "And people would have sort of rolled their eyes at that"
+  },
+  {
+    "start": 365.08,
+    "duration": 6.12,
+    "text": "and being like, yeah, OK, you can vibe code cool throwaway software."
+  },
+  {
+    "start": 371.2,
+    "duration": 5.84,
+    "text": "And what is the real enterprise fit for something like that?"
+  },
+  {
+    "start": 377.04,
+    "duration": 2.72,
+    "text": "And now you fast forward 24 months."
+  },
+  {
+    "start": 379.76,
+    "duration": 2.76,
+    "text": "And a lot of the experiences I engage with day to day"
+  },
+  {
+    "start": 382.52,
+    "duration": 2.72,
+    "text": "now are things that we've internally built,"
+  },
+  {
+    "start": 385.64,
+    "duration": 2.96,
+    "text": "which is sort of a crazy experience."
+  },
+  {
+    "start": 388.6,
+    "duration": 4.0,
+    "text": "People don't send a dashboard or a spreadsheet anymore."
+  },
+  {
+    "start": 392.6,
+    "duration": 3.44,
+    "text": "Any spreadsheet is now an interactive web app."
+  },
+  {
+    "start": 396.04,
+    "duration": 4.44,
+    "text": "And it's just like, well, why wouldn't I"
+  },
+  {
+    "start": 400.48,
+    "duration": 3.76,
+    "text": "put this into an experience people can engage with that's more visual?"
+  },
+  {
+    "start": 404.24,
+    "duration": 1.6,
+    "text": "It takes two seconds."
+  },
+  {
+    "start": 405.84,
+    "duration": 1.92,
+    "text": "And that's the default already."
+  },
+  {
+    "start": 407.76,
+    "duration": 2.24,
+    "text": "I am the perfect use case for that."
+  },
+  {
+    "start": 410.0,
+    "duration": 4.36,
+    "text": "So in previous worlds as a CRO, you've got a big support team."
+  },
+  {
+    "start": 414.36,
+    "duration": 1.2,
+    "text": "We've got a big enablement team."
+  },
+  {
+    "start": 415.56,
+    "duration": 4.32,
+    "text": "They're building content and X for you, for your presentations and whatnot."
+  },
+  {
+    "start": 419.88,
+    "duration": 2.04,
+    "text": "I'm putting my own decks."
+  },
+  {
+    "start": 421.92,
+    "duration": 4.52,
+    "text": "I'm literally because I have ideas in my head and I can literally put my ideas."
+  },
+  {
+    "start": 426.44,
+    "duration": 1.64,
+    "text": "I'm like, hey, I want a 10 slide deck."
+  },
+  {
+    "start": 428.08,
+    "duration": 1.28,
+    "text": "I want to go tell this story."
+  },
+  {
+    "start": 429.36,
+    "duration": 1.64,
+    "text": "This is kind of what I wanted to do."
+  },
+  {
+    "start": 431.0,
+    "duration": 2.8,
+    "text": "I literally do it from my phone when I'm sitting in my bed,"
+  },
+  {
+    "start": 433.8,
+    "duration": 1.52,
+    "text": "when I know I have to go give something."
+  },
+  {
+    "start": 435.32,
+    "duration": 7.0,
+    "text": "And then literally I've got a ninety five percent ready stuff that I just take"
+  },
+  {
+    "start": 442.32,
+    "duration": 2.16,
+    "text": "the last five percent and I kind of just make it my own."
+  },
+  {
+    "start": 444.48,
+    "duration": 3.04,
+    "text": "It's been working just great for me."
+  },
+  {
+    "start": 447.52,
+    "duration": 4.32,
+    "text": "In fact, I used it when I did our first annual kickoff at the beginning of this"
+  },
+  {
+    "start": 451.84,
+    "duration": 3.76,
+    "text": "year, you know, we have a small team, I don't have the enablement resources"
+  },
+  {
+    "start": 455.6,
+    "duration": 3.08,
+    "text": "or the people on the team that I had at my previous companies."
+  },
+  {
+    "start": 458.68,
+    "duration": 0.92,
+    "text": "So I had to just go do it."
+  },
+  {
+    "start": 459.6,
+    "duration": 0.8,
+    "text": "And I just did it."
+  },
+  {
+    "start": 460.4,
+    "duration": 2.0,
+    "text": "And very, very satisfied with the results."
+  },
+  {
+    "start": 462.4,
+    "duration": 1.64,
+    "text": "And it's something I use all the time."
+  },
+  {
+    "start": 464.04,
+    "duration": 2.08,
+    "text": "So all my all my decks right now and my"
+  },
+  {
+    "start": 466.12,
+    "duration": 3.4,
+    "text": "presentation decks are built in rublet are built in."
+  },
+  {
+    "start": 469.52,
+    "duration": 0.76,
+    "text": "I do that right now."
+  },
+  {
+    "start": 470.28,
+    "duration": 1.52,
+    "text": "I don't even use Google slides."
+  },
+  {
+    "start": 471.8,
+    "duration": 2.4,
+    "text": "I can export to Google slides and PowerPoint."
+  },
+  {
+    "start": 474.2,
+    "duration": 7.12,
+    "text": "But the actual building is in rublet from a like a zero tooling stuff that you"
+  },
+  {
+    "start": 481.32,
+    "duration": 4.08,
+    "text": "build and use yourself or automations or apps or workflows."
+  },
+  {
+    "start": 485.4,
+    "duration": 2.4,
+    "text": "What are the principles to do that really well?"
+  },
+  {
+    "start": 487.8,
+    "duration": 5.52,
+    "text": "Feedback I hear so much is like, yeah, like I can try and it gets like 90"
+  },
+  {
+    "start": 493.32,
+    "duration": 2.84,
+    "text": "percent there, but it's not really like quite good enough."
+  },
+  {
+    "start": 496.16,
+    "duration": 3.4,
+    "text": "And I'm like, end up editing it a whole bunch."
+  },
+  {
+    "start": 499.56,
+    "duration": 5.12,
+    "text": "And for me, like I've just sort of organically learned how to do this on my"
+  },
+  {
+    "start": 504.68,
+    "duration": 3.76,
+    "text": "own and I don't have a great answer for the principles of like, OK, this is how"
+  },
+  {
+    "start": 508.44,
+    "duration": 4.08,
+    "text": "to think about the context engineering or or what you should be doing with the"
+  },
+  {
+    "start": 512.52,
+    "duration": 2.08,
+    "text": "specific prompts and the chains."
+  },
+  {
+    "start": 514.6,
+    "duration": 5.08,
+    "text": "But how do you think about advice for CEOs who are like not super technical"
+  },
+  {
+    "start": 519.68,
+    "duration": 4.24,
+    "text": "in terms of how they could be building the most powerful automations and workflows"
+  },
+  {
+    "start": 523.92,
+    "duration": 1.24,
+    "text": "for themselves?"
+  },
+  {
+    "start": 525.16,
+    "duration": 1.32,
+    "text": "And we put it in two buckets."
+  },
+  {
+    "start": 526.48,
+    "duration": 0.48,
+    "text": "Right."
+  },
+  {
+    "start": 527.04,
+    "duration": 7.32,
+    "text": "So one would be a CRO that basically needs the tools to effectively do their job."
+  },
+  {
+    "start": 534.36,
+    "duration": 1.8,
+    "text": "You know, you need a view of your business."
+  },
+  {
+    "start": 536.16,
+    "duration": 1.36,
+    "text": "You need a view of pipeline."
+  },
+  {
+    "start": 537.52,
+    "duration": 1.28,
+    "text": "You need a view of deals."
+  },
+  {
+    "start": 538.8,
+    "duration": 1.64,
+    "text": "You need a view of customer health."
+  },
+  {
+    "start": 540.44,
+    "duration": 2.64,
+    "text": "You kind of need the entire gamut from start to finish."
+  },
+  {
+    "start": 543.08,
+    "duration": 5.32,
+    "text": "So from that standpoint, I can tell you like what we're doing here and how I've"
+  },
+  {
+    "start": 548.4,
+    "duration": 1.0,
+    "text": "kind of morphed into that."
+  },
+  {
+    "start": 549.4,
+    "duration": 3.44,
+    "text": "So the big question is, hey, are we building our own CRM?"
+  },
+  {
+    "start": 552.84,
+    "duration": 0.76,
+    "text": "No, we're not."
+  },
+  {
+    "start": 553.6,
+    "duration": 3.04,
+    "text": "You know, we had top we had HubSpot."
+  },
+  {
+    "start": 556.64,
+    "duration": 2.32,
+    "text": "I'm moving from HubSpot to Salesforce."
+  },
+  {
+    "start": 558.96,
+    "duration": 5.2,
+    "text": "And that wasn't even a question internally in my business or for me, like whether I"
+  },
+  {
+    "start": 564.16,
+    "duration": 1.84,
+    "text": "was going to go buy my own CRM."
+  },
+  {
+    "start": 566.0,
+    "duration": 3.64,
+    "text": "Just on that note, I do have plenty of customers that are buying their own CRM."
+  },
+  {
+    "start": 569.64,
+    "duration": 1.8,
+    "text": "And we can talk about that here in a minute."
+  },
+  {
+    "start": 571.44,
+    "duration": 3.32,
+    "text": "But for us, the decision was to not go build our own CRM."
+  },
+  {
+    "start": 574.76,
+    "duration": 3.8,
+    "text": "So we use Salesforce and we just migrated from HubSpot to Salesforce."
+  },
+  {
+    "start": 578.56,
+    "duration": 1.52,
+    "text": "And that's still going on right now."
+  },
+  {
+    "start": 580.08,
+    "duration": 2.4,
+    "text": "So Salesforce is our system of record."
+  },
+  {
+    "start": 582.48,
+    "duration": 6.68,
+    "text": "But then everything we're doing on top of that, for me to be an effective CRO and"
+  },
+  {
+    "start": 589.16,
+    "duration": 5.04,
+    "text": "get visibility into my business, they're all built on Repl.it apps."
+  },
+  {
+    "start": 594.2,
+    "duration": 3.08,
+    "text": "There are a variety of different iterations."
+  },
+  {
+    "start": 597.28,
+    "duration": 5.0,
+    "text": "We have something that we call a revenue copilot, which is my all in one dashboard"
+  },
+  {
+    "start": 602.28,
+    "duration": 4.32,
+    "text": "that gives me everything from top of funnel to conversion rates, all the way"
+  },
+  {
+    "start": 606.6,
+    "duration": 3.44,
+    "text": "down to deals, sales stages, close one, everything."
+  },
+  {
+    "start": 610.04,
+    "duration": 2.0,
+    "text": "I pull gone calls into that."
+  },
+  {
+    "start": 612.04,
+    "duration": 2.56,
+    "text": "I can click on any customer logo, look on what it is."
+  },
+  {
+    "start": 614.6,
+    "duration": 5.24,
+    "text": "It's just basically what I live with every single day when I wake up in the morning"
+  },
+  {
+    "start": 619.84,
+    "duration": 2.36,
+    "text": "and what I look at, I don't even touch Salesforce."
+  },
+  {
+    "start": 622.2,
+    "duration": 2.32,
+    "text": "I just kind of go into that."
+  },
+  {
+    "start": 624.52,
+    "duration": 5.96,
+    "text": "Then for our teams that actually work with customers, we created basically an"
+  },
+  {
+    "start": 630.48,
+    "duration": 3.0,
+    "text": "application that we have all these funny names for them internally."
+  },
+  {
+    "start": 633.48,
+    "duration": 5.84,
+    "text": "We call it Repl.it book, but it's basically our version of Gainsight and"
+  },
+  {
+    "start": 639.32,
+    "duration": 4.48,
+    "text": "basically a customer health dashboard that basically gives all of our customer"
+  },
+  {
+    "start": 643.8,
+    "duration": 4.96,
+    "text": "advocates and our field engineers complete visibility around every single customer."
+  },
+  {
+    "start": 648.76,
+    "duration": 4.6,
+    "text": "Their utilization, their customer health score, when's the last time they, what"
+  },
+  {
+    "start": 653.36,
+    "duration": 2.56,
+    "text": "the engagement process looked like, are they healthy or not healthy."
+  },
+  {
+    "start": 655.92,
+    "duration": 2.04,
+    "text": "So basically you can think of that."
+  },
+  {
+    "start": 657.96,
+    "duration": 5.56,
+    "text": "And then we have other things like we basically built our own CPQ and quote the"
+  },
+  {
+    "start": 663.52,
+    "duration": 4.4,
+    "text": "cash, all order forms that we send out to our customers."
+  },
+  {
+    "start": 667.92,
+    "duration": 2.44,
+    "text": "It's a Repl.it app that we go do that."
+  },
+  {
+    "start": 670.36,
+    "duration": 3.56,
+    "text": "We're building our own version of forecasting."
+  },
+  {
+    "start": 673.92,
+    "duration": 4.88,
+    "text": "So think of Clary, we're basically, again, on top of Salesforce, we're basically"
+  },
+  {
+    "start": 678.8,
+    "duration": 2.48,
+    "text": "building our own version of that."
+  },
+  {
+    "start": 681.28,
+    "duration": 9.32,
+    "text": "And then our BDR team uses a bunch of research and script writing applications"
+  },
+  {
+    "start": 690.6,
+    "duration": 1.28,
+    "text": "that they actually go do."
+  },
+  {
+    "start": 691.88,
+    "duration": 5.04,
+    "text": "We use Nooks, by the way, but we use specifically for the dialer, but all of"
+  },
+  {
+    "start": 696.92,
+    "duration": 2.28,
+    "text": "the other stuff, we kind of just do on our own."
+  },
+  {
+    "start": 699.32,
+    "duration": 6.32,
+    "text": "So again, there's a, we can have an entire conversation on the AIGTM stack that we"
+  },
+  {
+    "start": 705.64,
+    "duration": 0.24,
+    "text": "have."
+  },
+  {
+    "start": 705.88,
+    "duration": 4.36,
+    "text": "And in fact, there's a session at Sastr that I'm doing where I might actually"
+  },
+  {
+    "start": 710.32,
+    "duration": 3.84,
+    "text": "showcase in dog food, some of the stuff we've built and we're going to do it anyway."
+  },
+  {
+    "start": 714.16,
+    "duration": 3.6,
+    "text": "So I'm going to be, I have a session, I think in the middle of the week to go do"
+  },
+  {
+    "start": 717.76,
+    "duration": 3.56,
+    "text": "that, where I specifically talk about the AIGTM stack."
+  },
+  {
+    "start": 721.64,
+    "duration": 6.88,
+    "text": "And then, so then the other bucket is as a CRO, like things you do kind of every"
+  },
+  {
+    "start": 728.52,
+    "duration": 3.36,
+    "text": "single day and like, what do you, you know, like, what do you use?"
+  },
+  {
+    "start": 731.88,
+    "duration": 5.04,
+    "text": "And that's where, you know, so again, I don't want to sell replit, but the one"
+  },
+  {
+    "start": 736.92,
+    "duration": 2.08,
+    "text": "thing is we sit in the browser, right?"
+  },
+  {
+    "start": 739.0,
+    "duration": 0.96,
+    "text": "We sit in the browser."
+  },
+  {
+    "start": 739.96,
+    "duration": 2.64,
+    "text": "So it's just up in the day of the thing."
+  },
+  {
+    "start": 742.76,
+    "duration": 5.76,
+    "text": "So what, the way I use it is if I have ideas or I need stuff done, I just go"
+  },
+  {
+    "start": 748.52,
+    "duration": 6.08,
+    "text": "prompt it in replit and just build it versus going to like my enablement person."
+  },
+  {
+    "start": 754.8,
+    "duration": 1.0,
+    "text": "Hey, go, I need this."
+  },
+  {
+    "start": 755.8,
+    "duration": 0.48,
+    "text": "I need this."
+  },
+  {
+    "start": 756.44,
+    "duration": 2.08,
+    "text": "I just go prompt it because it's faster for me."
+  },
+  {
+    "start": 758.52,
+    "duration": 2.8,
+    "text": "It's quicker for me and it gets me what I need."
+  },
+  {
+    "start": 762.36,
+    "duration": 3.24,
+    "text": "My own terms in my own way, kind of right away, right?"
+  },
+  {
+    "start": 765.6,
+    "duration": 0.96,
+    "text": "I don't have to sit there and wait."
+  },
+  {
+    "start": 766.56,
+    "duration": 1.72,
+    "text": "I don't have to go explain it to anybody that I want."
+  },
+  {
+    "start": 768.28,
+    "duration": 0.88,
+    "text": "I just go explain it."
+  },
+  {
+    "start": 769.36,
+    "duration": 1.6,
+    "text": "I explained it to replit agent."
+  },
+  {
+    "start": 771.28,
+    "duration": 1.36,
+    "text": "That's actually what we call our product."
+  },
+  {
+    "start": 772.84,
+    "duration": 1.64,
+    "text": "And the agent knows my style."
+  },
+  {
+    "start": 774.56,
+    "duration": 4.08,
+    "text": "It knows my personality and it actually creates what I'm asking it to go do."
+  },
+  {
+    "start": 779.04,
+    "duration": 4.92,
+    "text": "And so for the personal side, like you mentioned agent knows your, your"
+  },
+  {
+    "start": 783.96,
+    "duration": 4.36,
+    "text": "personality and style, is that because you specifically created a context file"
+  },
+  {
+    "start": 788.76,
+    "duration": 4.32,
+    "text": "about your likes and dislikes and business context, or what's, what's the"
+  },
+  {
+    "start": 793.08,
+    "duration": 7.32,
+    "text": "scaffolding behind being able to quickly spin up one time or like personal apps?"
+  },
+  {
+    "start": 800.4,
+    "duration": 1.96,
+    "text": "What, what makes that go well or not?"
+  },
+  {
+    "start": 802.88,
+    "duration": 3.44,
+    "text": "I think it learns and iterates on your previous engagements and what you've"
+  },
+  {
+    "start": 806.32,
+    "duration": 1.8,
+    "text": "done and what you've asked it to do."
+  },
+  {
+    "start": 808.12,
+    "duration": 4.28,
+    "text": "And I think it just gets better and it gets smarter in real life"
+  },
+  {
+    "start": 812.48,
+    "duration": 1.6,
+    "text": "context, kind of actually behind it."
+  },
+  {
+    "start": 814.36,
+    "duration": 5.64,
+    "text": "So yeah, I mean like this, this notion of like a one-shot prompt, I think has"
+  },
+  {
+    "start": 820.0,
+    "duration": 6.68,
+    "text": "gotten a lot better than it would was probably like 12 to 18 months ago."
+  },
+  {
+    "start": 827.04,
+    "duration": 5.04,
+    "text": "And again, the more specific you can be, the better results you're going to get."
+  },
+  {
+    "start": 832.08,
+    "duration": 3.04,
+    "text": "And I've personally noticed that improvement as well."
+  },
+  {
+    "start": 835.36,
+    "duration": 4.52,
+    "text": "How much other context do you have in there to help your personal"
+  },
+  {
+    "start": 839.88,
+    "duration": 2.44,
+    "text": "apps do the right things?"
+  },
+  {
+    "start": 842.32,
+    "duration": 4.6,
+    "text": "Like for me, I've got, you know, a context file that's local and in"
+  },
+  {
+    "start": 846.92,
+    "duration": 5.64,
+    "text": "GitHub so that my open clock can get at it, but it has like all the stuff about"
+  },
+  {
+    "start": 852.56,
+    "duration": 2.6,
+    "text": "our business objectives and how we operate."
+  },
+  {
+    "start": 855.16,
+    "duration": 4.6,
+    "text": "And it's, it's built like a, an understanding of how I decision make"
+  },
+  {
+    "start": 859.76,
+    "duration": 5.88,
+    "text": "and problem solve because I fed it a whole bunch of content and like prompt"
+  },
+  {
+    "start": 865.64,
+    "duration": 3.76,
+    "text": "it to be like, Hey, analyze this stuff, come up with like a, a deep understanding"
+  },
+  {
+    "start": 869.4,
+    "duration": 3.0,
+    "text": "of my approach so you can be the most effective AI chief of staff."
+  },
+  {
+    "start": 872.84,
+    "duration": 1.84,
+    "text": "And have you had to proactively do that?"
+  },
+  {
+    "start": 874.68,
+    "duration": 2.2,
+    "text": "Or is it just about, Hey, use the tools?"
+  },
+  {
+    "start": 876.88,
+    "duration": 0.24,
+    "text": "And"
+  },
+  {
+    "start": 877.16,
+    "duration": 3.56,
+    "text": "no, I haven't, I haven't gotten to that level of sophistication."
+  },
+  {
+    "start": 880.76,
+    "duration": 1.96,
+    "text": "I wish I had that."
+  },
+  {
+    "start": 882.72,
+    "duration": 1.68,
+    "text": "I haven't gotten to that level of sophistication."
+  },
+  {
+    "start": 884.4,
+    "duration": 6.36,
+    "text": "It's me just being specific with agent on what I actually need and hit the agent"
+  },
+  {
+    "start": 890.76,
+    "duration": 3.68,
+    "text": "kind of going back to my previous context of the interaction, learning"
+  },
+  {
+    "start": 894.44,
+    "duration": 2.36,
+    "text": "from it and, and just getting smarter."
+  },
+  {
+    "start": 897.04,
+    "duration": 3.48,
+    "text": "That's a specific like feature of the Repl.it ecosystem."
+  },
+  {
+    "start": 900.52,
+    "duration": 1.84,
+    "text": "Is this like recursive learning then?"
+  },
+  {
+    "start": 902.68,
+    "duration": 0.6,
+    "text": "It's built in."
+  },
+  {
+    "start": 903.32,
+    "duration": 0.2,
+    "text": "Yeah."
+  },
+  {
+    "start": 903.52,
+    "duration": 3.28,
+    "text": "It's a bit, I mean, we're in agent four right now, which is our last"
+  },
+  {
+    "start": 906.8,
+    "duration": 2.12,
+    "text": "iterative, that was our last launch that we actually did."
+  },
+  {
+    "start": 908.92,
+    "duration": 4.08,
+    "text": "And agent four had a bunch of unique things that the market doesn't have"
+  },
+  {
+    "start": 913.0,
+    "duration": 4.36,
+    "text": "where you can actually run multiple parallel tasks at the exact same time."
+  },
+  {
+    "start": 917.68,
+    "duration": 0.72,
+    "text": "You can go do that."
+  },
+  {
+    "start": 918.44,
+    "duration": 1.32,
+    "text": "You can have collaboration."
+  },
+  {
+    "start": 920.0,
+    "duration": 1.88,
+    "text": "There's a lot of different things on it."
+  },
+  {
+    "start": 921.88,
+    "duration": 3.2,
+    "text": "We came up with a canvas, a very robust mobile app thing."
+  },
+  {
+    "start": 925.08,
+    "duration": 3.8,
+    "text": "So, but yeah, it's basically the agents just, just getting smarter."
+  },
+  {
+    "start": 928.92,
+    "duration": 2.8,
+    "text": "And I think with agent five, I think it'll get even better."
+  },
+  {
+    "start": 931.92,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 932.08,
+    "duration": 5.84,
+    "text": "Sometimes I wonder if I've like overcooked with, with my setup, like having open"
+  },
+  {
+    "start": 937.92,
+    "duration": 4.36,
+    "text": "Claw and it's in this like digital ocean droplet and, and like the whole"
+  },
+  {
+    "start": 942.28,
+    "duration": 4.8,
+    "text": "configuration, because I, I now look at the tools that Clawd offers and like"
+  },
+  {
+    "start": 947.08,
+    "duration": 4.52,
+    "text": "Repl.it's always been so such a, like a, a great building platform."
+  },
+  {
+    "start": 951.6,
+    "duration": 4.36,
+    "text": "I'm like, should I have just adopted one of these tools more holistically?"
+  },
+  {
+    "start": 955.96,
+    "duration": 4.28,
+    "text": "And, and so that's sort of the advice I give to people is like, actually my"
+  },
+  {
+    "start": 960.24,
+    "duration": 4.44,
+    "text": "approach is probably, is it probably overbuilt because I wanted it early."
+  },
+  {
+    "start": 964.68,
+    "duration": 2.52,
+    "text": "Like I wanted to get my hands on this stuff as soon as it came in."
+  },
+  {
+    "start": 967.2,
+    "duration": 1.96,
+    "text": "And I find it really interesting."
+  },
+  {
+    "start": 969.16,
+    "duration": 3.0,
+    "text": "It's a great learning experience to try to, to try to figure it out."
+  },
+  {
+    "start": 972.16,
+    "duration": 5.48,
+    "text": "But it feels like I could get most of what I've been able to build, which is"
+  },
+  {
+    "start": 977.64,
+    "duration": 2.6,
+    "text": "taking a bunch of effort, just like in a tool like Repl.it."
+  },
+  {
+    "start": 980.68,
+    "duration": 0.36,
+    "text": "Yeah."
+  },
+  {
+    "start": 981.04,
+    "duration": 0.52,
+    "text": "Try it out."
+  },
+  {
+    "start": 981.56,
+    "duration": 3.92,
+    "text": "I mean, I tell people, just try it out and then, you know, see what it can"
+  },
+  {
+    "start": 985.48,
+    "duration": 0.84,
+    "text": "actually go do for you."
+  },
+  {
+    "start": 986.72,
+    "duration": 3.64,
+    "text": "The, the advice I would give to people is that if you're going into these new, new"
+  },
+  {
+    "start": 990.36,
+    "duration": 4.4,
+    "text": "tools, just make sure you bring as much of your previous context with you."
+  },
+  {
+    "start": 994.76,
+    "duration": 5.32,
+    "text": "And there's prompts that you can run in your, in, in Gemini or Chachapiti or"
+  },
+  {
+    "start": 1000.08,
+    "duration": 3.36,
+    "text": "Claude, just be like, give me everything that you know about me, download"
+  },
+  {
+    "start": 1003.44,
+    "duration": 5.56,
+    "text": "everything into a Markdown file about how I think my preferences, dah, dah, dah."
+  },
+  {
+    "start": 1009.0,
+    "duration": 5.64,
+    "text": "So you can at least start this new experience with a, with a, with a baseline."
+  },
+  {
+    "start": 1015.4,
+    "duration": 5.32,
+    "text": "I want to just zoom out and ask about this experience as a CRO, because, you"
+  },
+  {
+    "start": 1020.72,
+    "duration": 3.48,
+    "text": "know, there's only a small handful of people in the world that have been in a"
+  },
+  {
+    "start": 1024.24,
+    "duration": 2.48,
+    "text": "company growing at this type of speed."
+  },
+  {
+    "start": 1026.72,
+    "duration": 4.04,
+    "text": "Like companies have never grown at this rate ever before in history."
+  },
+  {
+    "start": 1031.96,
+    "duration": 5.76,
+    "text": "And now there's a handful of, of sort of anthropics opening eyes replits that are,"
+  },
+  {
+    "start": 1037.76,
+    "duration": 5.04,
+    "text": "that are growing at like 50 X year over year, like 10 X year over year at, at"
+  },
+  {
+    "start": 1042.84,
+    "duration": 3.12,
+    "text": "like multi hundred million dollar run rates, which is just mind boggling."
+  },
+  {
+    "start": 1046.28,
+    "duration": 5.12,
+    "text": "Like, what is it like just as a CRO trying to do your job day to day with those, with"
+  },
+  {
+    "start": 1051.44,
+    "duration": 4.28,
+    "text": "those like dizzying numbers and trying to hire 200 reps at a time?"
+  },
+  {
+    "start": 1055.72,
+    "duration": 1.52,
+    "text": "Like what, what, like, what is it like?"
+  },
+  {
+    "start": 1057.44,
+    "duration": 4.84,
+    "text": "It's pretty nuts, you know, context switching of talking to a customer on a"
+  },
+  {
+    "start": 1062.28,
+    "duration": 4.16,
+    "text": "deal and then being in an interview and then looking for executives to get them"
+  },
+  {
+    "start": 1066.44,
+    "duration": 0.12,
+    "text": "right."
+  },
+  {
+    "start": 1066.76,
+    "duration": 4.96,
+    "text": "I mean, it's your context switching so much every single day, every single hour."
+  },
+  {
+    "start": 1071.76,
+    "duration": 0.32,
+    "text": "Right."
+  },
+  {
+    "start": 1072.08,
+    "duration": 4.32,
+    "text": "If you look at my calendar, it's like a hodgepodge of, you know, so I, just given"
+  },
+  {
+    "start": 1076.4,
+    "duration": 5.8,
+    "text": "that we're building a small team, I had this process in place right when I started"
+  },
+  {
+    "start": 1082.2,
+    "duration": 4.76,
+    "text": "is I do all first screen of candidates right now, just because I don't, I don't"
+  },
+  {
+    "start": 1086.96,
+    "duration": 1.12,
+    "text": "have a leadership bench, right?"
+  },
+  {
+    "start": 1088.08,
+    "duration": 2.6,
+    "text": "Like I, like my Oregon ritual was 300 people."
+  },
+  {
+    "start": 1090.96,
+    "duration": 2.92,
+    "text": "I don't, I'm not at 300 people right now where I've got like first line, second"
+  },
+  {
+    "start": 1093.88,
+    "duration": 0.2,
+    "text": "line."
+  },
+  {
+    "start": 1094.32,
+    "duration": 4.48,
+    "text": "So I did all first interview screens just with every single candidate."
+  },
+  {
+    "start": 1098.8,
+    "duration": 3.24,
+    "text": "And basically if they kind of pass my interview screen, then I would actually"
+  },
+  {
+    "start": 1102.04,
+    "duration": 3.88,
+    "text": "get them off to the panel and the team from a day to day perspective and a"
+  },
+  {
+    "start": 1105.92,
+    "duration": 1.32,
+    "text": "hyper growth company like this."
+  },
+  {
+    "start": 1107.96,
+    "duration": 4.16,
+    "text": "As a CRO, you know, you're wearing multiple hats and I'm like rolling up the"
+  },
+  {
+    "start": 1112.12,
+    "duration": 1.36,
+    "text": "sleeves and I'm at the ground level."
+  },
+  {
+    "start": 1113.76,
+    "duration": 5.24,
+    "text": "So I'm not a chair CRO that's looking at spreadsheets and doing orders."
+  },
+  {
+    "start": 1119.0,
+    "duration": 1.04,
+    "text": "I'm actually doing the work, right?"
+  },
+  {
+    "start": 1120.04,
+    "duration": 2.92,
+    "text": "I'm actually doing the work and I'm actually just getting my hands dirty and"
+  },
+  {
+    "start": 1122.96,
+    "duration": 1.4,
+    "text": "it's actually like super, super fun."
+  },
+  {
+    "start": 1124.6,
+    "duration": 0.72,
+    "text": "We're building, right?"
+  },
+  {
+    "start": 1125.32,
+    "duration": 2.76,
+    "text": "So we're building up, we're bringing on our first VP of sales here in a few"
+  },
+  {
+    "start": 1128.08,
+    "duration": 3.84,
+    "text": "weeks here in the US, you know, I'm opening up our London presence for the"
+  },
+  {
+    "start": 1131.92,
+    "duration": 4.8,
+    "text": "very first time and I'm bringing on a head of EU GTM, right?"
+  },
+  {
+    "start": 1136.72,
+    "duration": 5.28,
+    "text": "So we're building it and it's going to get better, but right now in this hyper"
+  },
+  {
+    "start": 1142.0,
+    "duration": 3.24,
+    "text": "growth scale, I have to be involved and I have to kind of have the pulse on the"
+  },
+  {
+    "start": 1145.24,
+    "duration": 2.44,
+    "text": "business to kind of get it to a point where I feel good about it."
+  },
+  {
+    "start": 1148.08,
+    "duration": 6.28,
+    "text": "So yeah, it's been, you know, we're basically building a B2B GTM company"
+  },
+  {
+    "start": 1154.4,
+    "duration": 4.68,
+    "text": "within this massive company and it's, it's phenomenal, you know, like everything"
+  },
+  {
+    "start": 1159.08,
+    "duration": 3.04,
+    "text": "we're doing for the very first time, you know, rolling out territories, very"
+  },
+  {
+    "start": 1162.12,
+    "duration": 3.92,
+    "text": "first time, rolling out comp plants, very first time, rolling out forecasting"
+  },
+  {
+    "start": 1166.04,
+    "duration": 3.64,
+    "text": "cadence, very first time, rolling out, you know, the post sales motion."
+  },
+  {
+    "start": 1170.04,
+    "duration": 4.08,
+    "text": "So there's a lot of firsts happening in this business because the business"
+  },
+  {
+    "start": 1174.12,
+    "duration": 2.16,
+    "text": "has grown so fast, so quickly."
+  },
+  {
+    "start": 1176.6,
+    "duration": 5.08,
+    "text": "There hasn't been kind of this classic GTM playbook or structure that"
+  },
+  {
+    "start": 1181.68,
+    "duration": 1.8,
+    "text": "we all come from as revenue."
+  },
+  {
+    "start": 1184.24,
+    "duration": 5.76,
+    "text": "And I'm kind of incorporating that in this AI first world and in, in this"
+  },
+  {
+    "start": 1190.0,
+    "duration": 1.84,
+    "text": "AI fourth way here at Replicant."
+  },
+  {
+    "start": 1192.32,
+    "duration": 3.84,
+    "text": "And what do you bring over that is, you know, like similar to the previous"
+  },
+  {
+    "start": 1196.16,
+    "duration": 2.0,
+    "text": "playbook and what's totally different now?"
+  },
+  {
+    "start": 1198.6,
+    "duration": 0.36,
+    "text": "Yeah."
+  },
+  {
+    "start": 1199.0,
+    "duration": 4.12,
+    "text": "I mean, similar to the previous playbook is like, we need salespeople."
+  },
+  {
+    "start": 1203.68,
+    "duration": 2.72,
+    "text": "We're not going to go automate salespeople, right?"
+  },
+  {
+    "start": 1206.72,
+    "duration": 5.12,
+    "text": "I think what's different is the profile of the salespeople I'm bringing on board."
+  },
+  {
+    "start": 1212.6,
+    "duration": 5.08,
+    "text": "Like in my previous 30 year career is different, you know, previous 30 years"
+  },
+  {
+    "start": 1217.68,
+    "duration": 5.6,
+    "text": "is like, Hey, go get the top 1% seller that has, you know, blasted quota."
+  },
+  {
+    "start": 1223.84,
+    "duration": 3.52,
+    "text": "Comes from Oracle Salesforce has that pedigree, just get them in"
+  },
+  {
+    "start": 1227.36,
+    "duration": 1.12,
+    "text": "because they're just a killer."
+  },
+  {
+    "start": 1228.52,
+    "duration": 0.36,
+    "text": "Right."
+  },
+  {
+    "start": 1229.16,
+    "duration": 2.96,
+    "text": "I'm not optimizing for that right now."
+  },
+  {
+    "start": 1232.44,
+    "duration": 6.36,
+    "text": "I'm optimizing for more people who are passionate about AI that"
+  },
+  {
+    "start": 1238.8,
+    "duration": 1.92,
+    "text": "are passionate around our mission."
+  },
+  {
+    "start": 1241.48,
+    "duration": 3.48,
+    "text": "And that really, really believe in what we're doing."
+  },
+  {
+    "start": 1245.48,
+    "duration": 7.08,
+    "text": "And I've taken a chance on a bunch of people that are here right now that"
+  },
+  {
+    "start": 1252.56,
+    "duration": 4.28,
+    "text": "come from non-traditional backgrounds that have never sold before, but"
+  },
+  {
+    "start": 1257.04,
+    "duration": 5.76,
+    "text": "have expressed a very deep understanding of who we are and what we do."
+  },
+  {
+    "start": 1263.12,
+    "duration": 4.12,
+    "text": "No, I'm not saying technical, but just the, they're really passionate about it."
+  },
+  {
+    "start": 1267.6,
+    "duration": 4.04,
+    "text": "And I'm, and they're in sales rules for the very first time in their career and"
+  },
+  {
+    "start": 1271.64,
+    "duration": 4.4,
+    "text": "they're doing exceptionally well, they're doing exceptionally well, and I feel I can"
+  },
+  {
+    "start": 1276.04,
+    "duration": 2.04,
+    "text": "train them on the sales elements and part of it out."
+  },
+  {
+    "start": 1278.08,
+    "duration": 2.68,
+    "text": "So that's the different, that's the, that's a different part of it."
+  },
+  {
+    "start": 1281.0,
+    "duration": 4.24,
+    "text": "We, we invest in technical resources because even though Repl.it is easy to"
+  },
+  {
+    "start": 1285.24,
+    "duration": 3.72,
+    "text": "go out and show, like, you know, we're not one of those companies where if you're a"
+  },
+  {
+    "start": 1288.96,
+    "duration": 4.56,
+    "text": "rep on a, on a deal, you don't need to bring an SE with you to do a demo of the"
+  },
+  {
+    "start": 1293.52,
+    "duration": 1.04,
+    "text": "product, right?"
+  },
+  {
+    "start": 1295.04,
+    "duration": 4.88,
+    "text": "We expect the AE to take the conversation almost to a hundred percent, oftentimes"
+  },
+  {
+    "start": 1299.92,
+    "duration": 2.0,
+    "text": "to like 80, 90% completely on their own."
+  },
+  {
+    "start": 1302.72,
+    "duration": 3.36,
+    "text": "And then when, once the customer starts digging into, you know, like data"
+  },
+  {
+    "start": 1306.08,
+    "duration": 5.44,
+    "text": "residency, security, deployment configurations that may be out of the"
+  },
+  {
+    "start": 1311.76,
+    "duration": 4.52,
+    "text": "depth of a classic AE, you know, we would bring in our field engineering organization."
+  },
+  {
+    "start": 1316.56,
+    "duration": 6.12,
+    "text": "So I still have a technical organization, but unlike previous SAS companies I've"
+  },
+  {
+    "start": 1322.68,
+    "duration": 3.72,
+    "text": "been at, you've been at where AE would get on a discovery call and they would"
+  },
+  {
+    "start": 1326.4,
+    "duration": 3.96,
+    "text": "have their SE when they were on a discovery call, like even if the SE said"
+  },
+  {
+    "start": 1330.36,
+    "duration": 5.72,
+    "text": "nothing, right, or the AE said nothing, that's not our model that we're building"
+  },
+  {
+    "start": 1336.08,
+    "duration": 0.16,
+    "text": "here."
+  },
+  {
+    "start": 1336.6,
+    "duration": 4.48,
+    "text": "Um, the AE's to actually be product experts, uh, and actually take the"
+  },
+  {
+    "start": 1341.08,
+    "duration": 3.2,
+    "text": "conversation pretty far because the product is just so easy to show."
+  },
+  {
+    "start": 1344.88,
+    "duration": 5.64,
+    "text": "And are you taking these non-traditional folks into AE roles like straight?"
+  },
+  {
+    "start": 1350.84,
+    "duration": 0.44,
+    "text": "Okay."
+  },
+  {
+    "start": 1351.48,
+    "duration": 0.32,
+    "text": "Wow."
+  },
+  {
+    "start": 1352.04,
+    "duration": 0.48,
+    "text": "Yeah, yeah, yeah."
+  },
+  {
+    "start": 1352.52,
+    "duration": 3.12,
+    "text": "I mean, I did a podcast on this with Chris at Vibe Scaling."
+  },
+  {
+    "start": 1355.68,
+    "duration": 1.2,
+    "text": "Um, he asked me about this."
+  },
+  {
+    "start": 1357.2,
+    "duration": 3.56,
+    "text": "Um, and just a couple of anecdotes for folks that haven't, or didn't listen to"
+  },
+  {
+    "start": 1360.76,
+    "duration": 0.28,
+    "text": "that."
+  },
+  {
+    "start": 1361.28,
+    "duration": 4.72,
+    "text": "Um, so when I got here, our, our number one seller in the company and the person"
+  },
+  {
+    "start": 1366.0,
+    "duration": 4.16,
+    "text": "was already here was, came from the military, was in the U S Marine Corps,"
+  },
+  {
+    "start": 1370.28,
+    "duration": 3.92,
+    "text": "never sold a day in his life, absolutely killed it."
+  },
+  {
+    "start": 1374.52,
+    "duration": 3.12,
+    "text": "Um, and, and now he has a much more passion for the technical side."
+  },
+  {
+    "start": 1377.64,
+    "duration": 4.52,
+    "text": "So he's actually changed into a technical role, but he was initially doing sales."
+  },
+  {
+    "start": 1382.52,
+    "duration": 4.56,
+    "text": "And then our, one of our top commercial sellers for our down-market business,"
+  },
+  {
+    "start": 1387.6,
+    "duration": 4.6,
+    "text": "who's still here in that role was a school teacher, never sold, doing"
+  },
+  {
+    "start": 1392.28,
+    "duration": 0.8,
+    "text": "exceptionally well."
+  },
+  {
+    "start": 1393.36,
+    "duration": 2.12,
+    "text": "Um, in fact, I just did a pipeline review this morning."
+  },
+  {
+    "start": 1396.16,
+    "duration": 5.0,
+    "text": "He has one of the largest pipelines and, uh, forecastable deals for the"
+  },
+  {
+    "start": 1401.16,
+    "duration": 2.68,
+    "text": "quarter, uh, doing exceptionally well."
+  },
+  {
+    "start": 1403.84,
+    "duration": 4.92,
+    "text": "So yeah, a lot of these non-traditional folks are, are in sales roles for the"
+  },
+  {
+    "start": 1408.76,
+    "duration": 0.56,
+    "text": "very first time."
+  },
+  {
+    "start": 1409.52,
+    "duration": 4.56,
+    "text": "And again, I want to make sure people, that's not our entire org, by the way."
+  },
+  {
+    "start": 1414.44,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 1415.16,
+    "duration": 0.28,
+    "text": "Right."
+  },
+  {
+    "start": 1415.44,
+    "duration": 4.0,
+    "text": "I do have people who come from enterprise sales who've done enterprise sales"
+  },
+  {
+    "start": 1419.44,
+    "duration": 3.32,
+    "text": "before that have been like in the top 10% as sales people."
+  },
+  {
+    "start": 1422.92,
+    "duration": 3.76,
+    "text": "We definitely have those as well, but we're balancing it out."
+  },
+  {
+    "start": 1426.76,
+    "duration": 1.72,
+    "text": "We're not just optimizing for one or the other."
+  },
+  {
+    "start": 1428.76,
+    "duration": 5.76,
+    "text": "And so mission centricity and sort of a pull to the, to the product as a part of"
+  },
+  {
+    "start": 1434.52,
+    "duration": 3.52,
+    "text": "it, what else did you see in those people that, and what else are you looking for?"
+  },
+  {
+    "start": 1438.4,
+    "duration": 1.12,
+    "text": "That's most important for you."
+  },
+  {
+    "start": 1439.56,
+    "duration": 4.64,
+    "text": "The biggest thing I'm seeing and now just being in the trenches and, you know,"
+  },
+  {
+    "start": 1444.2,
+    "duration": 5.76,
+    "text": "listening on calls with them and being in meetings with them, the way they"
+  },
+  {
+    "start": 1449.96,
+    "duration": 7.68,
+    "text": "explain the art of the possible, the customer really bought into our vision"
+  },
+  {
+    "start": 1457.64,
+    "duration": 2.12,
+    "text": "around what the art of the possible could be."
+  },
+  {
+    "start": 1460.2,
+    "duration": 4.76,
+    "text": "And, you know, it's like this light bulb moment is like they've elevated"
+  },
+  {
+    "start": 1464.96,
+    "duration": 2.4,
+    "text": "to trusted advisor immediately."
+  },
+  {
+    "start": 1468.12,
+    "duration": 3.92,
+    "text": "Like they are not viewed as a sales person in front of the customer's eyes."
+  },
+  {
+    "start": 1472.32,
+    "duration": 0.32,
+    "text": "Yeah."
+  },
+  {
+    "start": 1472.92,
+    "duration": 0.96,
+    "text": "They're advocate."
+  },
+  {
+    "start": 1474.2,
+    "duration": 1.88,
+    "text": "They're like their AI advocate."
+  },
+  {
+    "start": 1476.16,
+    "duration": 2.64,
+    "text": "They're like their AI trainer."
+  },
+  {
+    "start": 1478.84,
+    "duration": 0.36,
+    "text": "They're there."
+  },
+  {
+    "start": 1479.2,
+    "duration": 0.76,
+    "text": "You know what I mean?"
+  },
+  {
+    "start": 1479.96,
+    "duration": 2.96,
+    "text": "That's the status the, these folks have elevated up to."
+  },
+  {
+    "start": 1483.36,
+    "duration": 4.16,
+    "text": "And that's kind of what I look for is, you know, can someone, when I do these 15"
+  },
+  {
+    "start": 1487.52,
+    "duration": 4.16,
+    "text": "minute screens, you know, the question I ask is, Hey, you know, how would you"
+  },
+  {
+    "start": 1491.68,
+    "duration": 3.88,
+    "text": "explain Repl.it in like the first 15 seconds to someone who doesn't really"
+  },
+  {
+    "start": 1495.56,
+    "duration": 1.28,
+    "text": "know who we are and what we go do?"
+  },
+  {
+    "start": 1497.32,
+    "duration": 3.56,
+    "text": "How would you establish that level of trust and kind of explain kind of our"
+  },
+  {
+    "start": 1500.88,
+    "duration": 3.52,
+    "text": "mission and usually you can kind of tell the people that are, you know, our little"
+  },
+  {
+    "start": 1504.4,
+    "duration": 3.76,
+    "text": "product people that are just passionate about it because they've, you know, prior"
+  },
+  {
+    "start": 1508.16,
+    "duration": 6.44,
+    "text": "to coming to interview with me, they've built like a bunch of apps for their,"
+  },
+  {
+    "start": 1515.08,
+    "duration": 6.12,
+    "text": "you know, kids, little league team to their hobby apps, to personal website."
+  },
+  {
+    "start": 1521.32,
+    "duration": 4.56,
+    "text": "So they know the flexibility of the platform and the ones that are just"
+  },
+  {
+    "start": 1525.88,
+    "duration": 2.4,
+    "text": "passionate about it can just rattle that off like that."
+  },
+  {
+    "start": 1528.28,
+    "duration": 2.24,
+    "text": "And you immediately know, Oh my God, putting them in front of a"
+  },
+  {
+    "start": 1530.52,
+    "duration": 2.92,
+    "text": "customer, that's going to be like amazing."
+  },
+  {
+    "start": 1533.76,
+    "duration": 1.52,
+    "text": "What's the shape of the team today?"
+  },
+  {
+    "start": 1535.28,
+    "duration": 6.44,
+    "text": "So, so you've got this like insane PLG business that that's going exponential."
+  },
+  {
+    "start": 1541.76,
+    "duration": 2.52,
+    "text": "And so how big is the sales org today?"
+  },
+  {
+    "start": 1544.56,
+    "duration": 1.04,
+    "text": "Where are you guys focused?"
+  },
+  {
+    "start": 1545.6,
+    "duration": 1.52,
+    "text": "Like what, what is the structure?"
+  },
+  {
+    "start": 1547.32,
+    "duration": 2.6,
+    "text": "Yeah, we're building it like, so GTM all up."
+  },
+  {
+    "start": 1549.96,
+    "duration": 4.84,
+    "text": "Um, I just got the, we're hovering right around 60 ish right now of all up."
+  },
+  {
+    "start": 1554.8,
+    "duration": 2.32,
+    "text": "So we're, we've added a lot of people since I've been here"
+  },
+  {
+    "start": 1557.12,
+    "duration": 1.32,
+    "text": "and we have a lot more to go do."
+  },
+  {
+    "start": 1558.88,
+    "duration": 4.52,
+    "text": "Um, but yeah, the makeup just to run it down for you, we're very, very high level."
+  },
+  {
+    "start": 1563.4,
+    "duration": 4.2,
+    "text": "So when I first got here, I'm in a, in a PLG business, 90% of"
+  },
+  {
+    "start": 1567.6,
+    "duration": 3.56,
+    "text": "our pipeline was all inbound, all inbound people basically hitting"
+  },
+  {
+    "start": 1571.16,
+    "duration": 1.0,
+    "text": "our website, wanting a demo."
+  },
+  {
+    "start": 1573.08,
+    "duration": 3.88,
+    "text": "And so we had inbound SDRs that will actually go do that."
+  },
+  {
+    "start": 1577.28,
+    "duration": 2.88,
+    "text": "But I'm actually building a intentional outbound SDR team."
+  },
+  {
+    "start": 1580.76,
+    "duration": 4.92,
+    "text": "Oh, we actually, uh, opened up an office in Salt Lake city and we're basically"
+  },
+  {
+    "start": 1585.68,
+    "duration": 6.04,
+    "text": "building a outbound motion and an outbound BDR organization to supplement the inbound."
+  },
+  {
+    "start": 1591.92,
+    "duration": 2.52,
+    "text": "And then eventually, um, I want to automate inbound."
+  },
+  {
+    "start": 1594.72,
+    "duration": 3.92,
+    "text": "So inbound will be like fully automated probably by the end of Q2, where we"
+  },
+  {
+    "start": 1598.64,
+    "duration": 4.52,
+    "text": "actually won't have humans, uh, triaging inbound, um, inbound will be a full,"
+  },
+  {
+    "start": 1603.2,
+    "duration": 4.44,
+    "text": "fully an agent, um, that gets it, you know, books, the meeting, et cetera."
+  },
+  {
+    "start": 1607.84,
+    "duration": 1.8,
+    "text": "And then we'll just have like an outbound motion."
+  },
+  {
+    "start": 1609.64,
+    "duration": 2.64,
+    "text": "We'll still have to get inbound pipeline, but inbound pipeline"
+  },
+  {
+    "start": 1612.48,
+    "duration": 1.8,
+    "text": "will not be managed by a human."
+  },
+  {
+    "start": 1614.28,
+    "duration": 1.08,
+    "text": "It'll be managed by an agent."
+  },
+  {
+    "start": 1615.64,
+    "duration": 1.76,
+    "text": "So anyways, that's on the front end."
+  },
+  {
+    "start": 1617.76,
+    "duration": 3.8,
+    "text": "And then on the field side, we basically have, we segment our business"
+  },
+  {
+    "start": 1621.56,
+    "duration": 1.44,
+    "text": "between commercial and enterprise."
+  },
+  {
+    "start": 1623.36,
+    "duration": 2.72,
+    "text": "Um, and commercial for us is less than 2000 employees."
+  },
+  {
+    "start": 1627.0,
+    "duration": 1.92,
+    "text": "Enterprise is greater than 2000 employees."
+  },
+  {
+    "start": 1628.92,
+    "duration": 3.32,
+    "text": "And we basically have account executives for each one of those segments."
+  },
+  {
+    "start": 1632.64,
+    "duration": 4.0,
+    "text": "And then I don't have, and I'm not building customer success here."
+  },
+  {
+    "start": 1637.24,
+    "duration": 4.4,
+    "text": "I have a role internally that we call account managers, which is a pretty"
+  },
+  {
+    "start": 1641.64,
+    "duration": 6.52,
+    "text": "common term that many revenue leaders, but they go to market and introduce"
+  },
+  {
+    "start": 1648.16,
+    "duration": 2.52,
+    "text": "themselves as Repl.it customer advocates."
+  },
+  {
+    "start": 1651.08,
+    "duration": 4.76,
+    "text": "So we have a role, what we call Repl.it customer advocates that basically"
+  },
+  {
+    "start": 1655.84,
+    "duration": 5.28,
+    "text": "come online when the AE closes the deal to help with the customer on, to"
+  },
+  {
+    "start": 1661.12,
+    "duration": 5.4,
+    "text": "onboard the customer, and then continuously plant seeds to go out and"
+  },
+  {
+    "start": 1666.56,
+    "duration": 4.36,
+    "text": "retain and drive future use cases of Repl.it within that account."
+  },
+  {
+    "start": 1671.76,
+    "duration": 3.56,
+    "text": "And then the last role we have is what we call our field engineering organization."
+  },
+  {
+    "start": 1676.32,
+    "duration": 4.84,
+    "text": "Think of them as like a forward deployed engineering team, if you will,"
+  },
+  {
+    "start": 1681.2,
+    "duration": 1.96,
+    "text": "that spans both pre and post sales."
+  },
+  {
+    "start": 1683.6,
+    "duration": 4.0,
+    "text": "Um, the bulk of their time post sales, but they're also available"
+  },
+  {
+    "start": 1687.6,
+    "duration": 1.52,
+    "text": "as pre-sales technical resources."
+  },
+  {
+    "start": 1689.64,
+    "duration": 2.6,
+    "text": "So that's the makeup of our GTM team."
+  },
+  {
+    "start": 1692.24,
+    "duration": 2.76,
+    "text": "And then I've got RevOps and enablement as well."
+  },
+  {
+    "start": 1695.0,
+    "duration": 2.6,
+    "text": "Given how many people we have to go hire, we, we take"
+  },
+  {
+    "start": 1697.6,
+    "duration": 1.88,
+    "text": "enablement very seriously here."
+  },
+  {
+    "start": 1699.92,
+    "duration": 3.08,
+    "text": "Uh, you know, like we don't just hire and throw people at the"
+  },
+  {
+    "start": 1703.0,
+    "duration": 2.0,
+    "text": "phones or give them their books."
+  },
+  {
+    "start": 1705.2,
+    "duration": 5.32,
+    "text": "They, they all come to Foster City, um, which is where we're based in California."
+  },
+  {
+    "start": 1710.56,
+    "duration": 1.52,
+    "text": "Um, they do the company onboarding."
+  },
+  {
+    "start": 1712.36,
+    "duration": 4.36,
+    "text": "And then, um, the woman Yo-Yo who I've got here, who runs my enablement team,"
+  },
+  {
+    "start": 1716.72,
+    "duration": 5.52,
+    "text": "she's got like a robust GTM onboarding program, depending on your role."
+  },
+  {
+    "start": 1722.24,
+    "duration": 2.64,
+    "text": "So if you're a BDR, you go through a BDR track."
+  },
+  {
+    "start": 1724.88,
+    "duration": 3.04,
+    "text": "If you're a, you know, AE, you go through your AE track."
+  },
+  {
+    "start": 1727.92,
+    "duration": 2.8,
+    "text": "If you're a customer advocate, you go through your customer advocate track."
+  },
+  {
+    "start": 1731.0,
+    "duration": 2.48,
+    "text": "If you're a field engineer, you go through your field engineering track."
+  },
+  {
+    "start": 1733.96,
+    "duration": 4.04,
+    "text": "Um, so we do spend a good amount of time of making sure all the people we hire"
+  },
+  {
+    "start": 1738.0,
+    "duration": 2.36,
+    "text": "are properly enabled and set up for success."
+  },
+  {
+    "start": 1740.68,
+    "duration": 2.44,
+    "text": "The ARR per employee must be just bonkers."
+  },
+  {
+    "start": 1743.48,
+    "duration": 5.44,
+    "text": "It says only 461 employees on LinkedIn, which is usually off by some, some of it."
+  },
+  {
+    "start": 1749.2,
+    "duration": 1.96,
+    "text": "But it is bonkers."
+  },
+  {
+    "start": 1751.16,
+    "duration": 3.56,
+    "text": "I mean, the, the one thing that it's hard, right?"
+  },
+  {
+    "start": 1754.72,
+    "duration": 2.12,
+    "text": "Because we had to put a quotas for the very first time."
+  },
+  {
+    "start": 1756.88,
+    "duration": 2.24,
+    "text": "Nobody was on quotas up until January of this year."
+  },
+  {
+    "start": 1759.56,
+    "duration": 2.56,
+    "text": "When I first got here, everybody was on full OTEs."
+  },
+  {
+    "start": 1762.36,
+    "duration": 4.52,
+    "text": "So we changed that, put everybody on quotas and it was kind of hard to put a"
+  },
+  {
+    "start": 1766.88,
+    "duration": 3.32,
+    "text": "line in the sand as to what quotas to go use."
+  },
+  {
+    "start": 1770.32,
+    "duration": 4.24,
+    "text": "So that's why I did half-year plans, um, because I knew things would be moving so"
+  },
+  {
+    "start": 1774.56,
+    "duration": 4.96,
+    "text": "fast and clearly with, you know, we're sitting here on May 1st with Q1 behind us."
+  },
+  {
+    "start": 1779.68,
+    "duration": 5.28,
+    "text": "Everyone is smashing their quota, um, in the TLDR and my team knows this."
+  },
+  {
+    "start": 1784.96,
+    "duration": 3.44,
+    "text": "I can talk about it is, you know, in, in the second half, we are going to raise"
+  },
+  {
+    "start": 1788.4,
+    "duration": 3.32,
+    "text": "quotas up and get them normalized to what it is right now."
+  },
+  {
+    "start": 1791.84,
+    "duration": 3.92,
+    "text": "Um, just know that we actually have some baseline and some, uh, data against it."
+  },
+  {
+    "start": 1795.96,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 1796.64,
+    "duration": 1.24,
+    "text": "It's a law of startup physics."
+  },
+  {
+    "start": 1797.88,
+    "duration": 1.24,
+    "text": "Quotas only go up."
+  },
+  {
+    "start": 1799.4,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 1799.88,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 1800.12,
+    "duration": 1.36,
+    "text": "It's like, it's like gravity."
+  },
+  {
+    "start": 1801.48,
+    "duration": 2.2,
+    "text": "And if quotas start going down, then that's when you got to work."
+  },
+  {
+    "start": 1803.68,
+    "duration": 0.36,
+    "text": "That's right."
+  },
+  {
+    "start": 1804.24,
+    "duration": 0.4,
+    "text": "That's right."
+  },
+  {
+    "start": 1804.64,
+    "duration": 2.28,
+    "text": "I mean, we, I still want to create a winning culture, right?"
+  },
+  {
+    "start": 1806.92,
+    "duration": 1.32,
+    "text": "I still want the winning culture."
+  },
+  {
+    "start": 1808.24,
+    "duration": 1.4,
+    "text": "I want people making a ton of money."
+  },
+  {
+    "start": 1809.64,
+    "duration": 3.28,
+    "text": "So we're still going to build it with that mindset."
+  },
+  {
+    "start": 1813.28,
+    "duration": 4.52,
+    "text": "Uh, but we have to be judicious to our board and finance and the rest of the"
+  },
+  {
+    "start": 1817.8,
+    "duration": 3.52,
+    "text": "team and do the right thing and take what I said, so momentum is a powerful"
+  },
+  {
+    "start": 1821.32,
+    "duration": 3.2,
+    "text": "tool for turning sales and customer conversations into go-to-market"
+  },
+  {
+    "start": 1824.52,
+    "duration": 2.08,
+    "text": "intelligence using Gen AI."
+  },
+  {
+    "start": 1826.6,
+    "duration": 4.44,
+    "text": "It extracts, analyzes, and automates customer intelligence across your GTM org."
+  },
+  {
+    "start": 1831.64,
+    "duration": 3.32,
+    "text": "The best part, it's not a new platform for your team to adopt."
+  },
+  {
+    "start": 1835.12,
+    "duration": 3.52,
+    "text": "It integrates seamlessly with your existing stack, or it can straight up"
+  },
+  {
+    "start": 1838.64,
+    "duration": 2.08,
+    "text": "replace your conversational intelligence tool."
+  },
+  {
+    "start": 1841.32,
+    "duration": 3.12,
+    "text": "At Owner, we ripped out Gong and went all in on momentum."
+  },
+  {
+    "start": 1844.68,
+    "duration": 3.8,
+    "text": "It writes back to our Salesforce directly, captures forecast and churn risk,"
+  },
+  {
+    "start": 1848.52,
+    "duration": 3.52,
+    "text": "autofill CRM fields, shares product signals, and tracks sentiment."
+  },
+  {
+    "start": 1852.64,
+    "duration": 4.52,
+    "text": "Companies like Cursor, Zscaler, Ramp, and 11Labs use it every day."
+  },
+  {
+    "start": 1857.48,
+    "duration": 2.6,
+    "text": "Check it out with a free trial at momentum.io."
+  },
+  {
+    "start": 1860.72,
+    "duration": 3.12,
+    "text": "When you grow at that rate, what's the first thing that breaks?"
+  },
+  {
+    "start": 1863.92,
+    "duration": 3.36,
+    "text": "Like what, what are the things that are just like, can't keep up and you"
+  },
+  {
+    "start": 1867.28,
+    "duration": 1.52,
+    "text": "feel like you're duct taping together?"
+  },
+  {
+    "start": 1868.92,
+    "duration": 2.24,
+    "text": "The RevOps side."
+  },
+  {
+    "start": 1871.32,
+    "duration": 4.84,
+    "text": "We are doing so much change management, right?"
+  },
+  {
+    "start": 1876.76,
+    "duration": 8.96,
+    "text": "Territories, comp plans, quotas, systems, hygiene, you know, court,"
+  },
+  {
+    "start": 1885.76,
+    "duration": 1.84,
+    "text": "you know, the way we structure deals."
+  },
+  {
+    "start": 1887.6,
+    "duration": 3.2,
+    "text": "We also went from seat-based pricing to usage-based pricing."
+  },
+  {
+    "start": 1891.12,
+    "duration": 2.6,
+    "text": "So there's so much there right now."
+  },
+  {
+    "start": 1893.76,
+    "duration": 3.72,
+    "text": "And with new people coming in, the legacy folks and, you"
+  },
+  {
+    "start": 1897.48,
+    "duration": 1.24,
+    "text": "know, ownership of accounts."
+  },
+  {
+    "start": 1899.0,
+    "duration": 6.4,
+    "text": "That is, uh, right now our biggest thing we need to streamline and get better at."
+  },
+  {
+    "start": 1905.72,
+    "duration": 5.8,
+    "text": "It's working, but that there's, you know, that is where I need to be spending our"
+  },
+  {
+    "start": 1911.52,
+    "duration": 3.32,
+    "text": "time and where the team is kind of spending their time just to kind of make sure that"
+  },
+  {
+    "start": 1914.84,
+    "duration": 4.12,
+    "text": "process, and right now it's the migration from Hotspot to Salesforce, which as you"
+  },
+  {
+    "start": 1918.96,
+    "duration": 4.44,
+    "text": "can imagine, when you move from a system like that to Salesforce, it's rocky with."
+  },
+  {
+    "start": 1923.88,
+    "duration": 4.68,
+    "text": "You know, the, the duplication of deals, the account ownership, the"
+  },
+  {
+    "start": 1928.56,
+    "duration": 1.4,
+    "text": "lead routing, all of that stuff."
+  },
+  {
+    "start": 1929.96,
+    "duration": 3.72,
+    "text": "So that's the biggest thing that we're spending time on."
+  },
+  {
+    "start": 1934.08,
+    "duration": 4.84,
+    "text": "We have no issues on deal velocity, closing deals."
+  },
+  {
+    "start": 1938.92,
+    "duration": 2.76,
+    "text": "Like I don't have a close plan issue."
+  },
+  {
+    "start": 1941.96,
+    "duration": 4.04,
+    "text": "I don't have an issue of like a, Oh my God, this deal has been sitting stagnant"
+  },
+  {
+    "start": 1946.0,
+    "duration": 2.04,
+    "text": "for, you know, two months."
+  },
+  {
+    "start": 1948.04,
+    "duration": 0.68,
+    "text": "What the hell are you doing?"
+  },
+  {
+    "start": 1948.76,
+    "duration": 4.0,
+    "text": "I don't have that issue that many revenue leaders have had in the past."
+  },
+  {
+    "start": 1952.76,
+    "duration": 1.0,
+    "text": "I don't have to deal with that."
+  },
+  {
+    "start": 1954.16,
+    "duration": 5.04,
+    "text": "Um, I need to go deal with making sure I hire fast enough, making sure I enable"
+  },
+  {
+    "start": 1959.2,
+    "duration": 5.84,
+    "text": "these people to be good at their jobs and making sure that the, the actual"
+  },
+  {
+    "start": 1965.04,
+    "duration": 4.0,
+    "text": "foundation and the systems are kind of working in the right way to make sure"
+  },
+  {
+    "start": 1969.08,
+    "duration": 1.2,
+    "text": "that we're not basically there."
+  },
+  {
+    "start": 1970.88,
+    "duration": 1.28,
+    "text": "I have the same opinion."
+  },
+  {
+    "start": 1972.16,
+    "duration": 2.96,
+    "text": "Like we're, we're not going to go vibe code Salesforce."
+  },
+  {
+    "start": 1975.12,
+    "duration": 4.6,
+    "text": "If there's, if you're being choiceful about buy versus build, it seems like."
+  },
+  {
+    "start": 1980.2,
+    "duration": 7.92,
+    "text": "Those core systems of record that manage governance and ecosystem and, uh,"
+  },
+  {
+    "start": 1988.2,
+    "duration": 3.92,
+    "text": "security, those are things that are, that are best bought."
+  },
+  {
+    "start": 1992.12,
+    "duration": 3.44,
+    "text": "And I think the announcements that Salesforce has made around this like"
+  },
+  {
+    "start": 1995.56,
+    "duration": 4.36,
+    "text": "headless architecture, or I don't know if they're calling it headless or Salesforce"
+  },
+  {
+    "start": 1999.92,
+    "duration": 3.84,
+    "text": "360, whatever, whatever they're saying, seems, it seems like the direction"
+  },
+  {
+    "start": 2003.76,
+    "duration": 1.08,
+    "text": "you guys are going in as well."
+  },
+  {
+    "start": 2004.84,
+    "duration": 3.92,
+    "text": "So like, what do you think is the role of CRM in this whole thing?"
+  },
+  {
+    "start": 2009.2,
+    "duration": 6.36,
+    "text": "I mean, you still need a place to house your customer information, right?"
+  },
+  {
+    "start": 2015.56,
+    "duration": 6.0,
+    "text": "So that doesn't change whether you use Salesforce or some of the other tools"
+  },
+  {
+    "start": 2021.56,
+    "duration": 2.72,
+    "text": "out there, that's kind of up to every organization."
+  },
+  {
+    "start": 2024.28,
+    "duration": 5.84,
+    "text": "So I think you still need that, but then making it your own, interacting with it"
+  },
+  {
+    "start": 2030.2,
+    "duration": 4.44,
+    "text": "in a way that's kind of useful for you and your business in a day to day, that's"
+  },
+  {
+    "start": 2034.64,
+    "duration": 5.04,
+    "text": "where I think it's changed from how it used to be, right, where you would just"
+  },
+  {
+    "start": 2039.68,
+    "duration": 4.6,
+    "text": "go get a tool for whatever you needed on top of that, like you, they were even"
+  },
+  {
+    "start": 2044.4,
+    "duration": 4.52,
+    "text": "like RevOps tools that were there that would deal with annual planning and"
+  },
+  {
+    "start": 2048.92,
+    "duration": 3.48,
+    "text": "forecasting, I tried some of them out and never ended up using them, you know,"
+  },
+  {
+    "start": 2052.56,
+    "duration": 2.36,
+    "text": "then you have like forecasting tools, custom model tools."
+  },
+  {
+    "start": 2055.04,
+    "duration": 4.04,
+    "text": "So I think that's the world that's evolving right now is you need the"
+  },
+  {
+    "start": 2059.08,
+    "duration": 4.36,
+    "text": "systems of record for sure, depending on whatever it is for your business, but"
+  },
+  {
+    "start": 2063.44,
+    "duration": 3.48,
+    "text": "then making it your own and the flexibility to extend that and the"
+  },
+  {
+    "start": 2066.92,
+    "duration": 5.72,
+    "text": "extensibility of it, that's where like solution like ours can really help kind"
+  },
+  {
+    "start": 2072.64,
+    "duration": 4.68,
+    "text": "of play that game because we're fast, we're quick, we're pennies on the dollar"
+  },
+  {
+    "start": 2077.76,
+    "duration": 5.88,
+    "text": "in what you would actually do, like, you know, I think our RepliBook example that"
+  },
+  {
+    "start": 2083.64,
+    "duration": 4.96,
+    "text": "I mentioned to you, and again, tune into Sastar where I'll probably be giving a"
+  },
+  {
+    "start": 2088.6,
+    "duration": 3.92,
+    "text": "demo of that, I think it took our, well, our field engineer is the one who built"
+  },
+  {
+    "start": 2092.52,
+    "duration": 6.84,
+    "text": "that, I think it took him less than a day, less than a day to probably put that"
+  },
+  {
+    "start": 2099.36,
+    "duration": 3.72,
+    "text": "together, a framework, and we continue iterating and doing that, you know,"
+  },
+  {
+    "start": 2103.08,
+    "duration": 1.68,
+    "text": "modifying it as we continue growing."
+  },
+  {
+    "start": 2105.08,
+    "duration": 2.72,
+    "text": "So I think that's where it is right now."
+  },
+  {
+    "start": 2107.8,
+    "duration": 4.72,
+    "text": "But, you know, the other, just on this topic, I do have several customer"
+  },
+  {
+    "start": 2112.52,
+    "duration": 6.76,
+    "text": "examples, right, specifically SMB customers, where I've seen SMB customers,"
+  },
+  {
+    "start": 2119.28,
+    "duration": 5.48,
+    "text": "like smaller startups and like small organizations, VibeCoach, some pretty"
+  },
+  {
+    "start": 2124.76,
+    "duration": 4.36,
+    "text": "cool stuff, I've seen them, actually VibeCoach CRM applications, I've seen"
+  },
+  {
+    "start": 2129.12,
+    "duration": 5.04,
+    "text": "them VibeCode, like another HCM type solution, they've actually done employee"
+  },
+  {
+    "start": 2134.16,
+    "duration": 3.24,
+    "text": "onboarding, VibeCoded, so I've seen that as well."
+  },
+  {
+    "start": 2137.76,
+    "duration": 4.32,
+    "text": "And, you know, upmarket, obviously, I don't see that, like a GPMC is not going"
+  },
+  {
+    "start": 2142.08,
+    "duration": 5.2,
+    "text": "to go get rid of their ERP, their salesforce instance, but I've seen the"
+  },
+  {
+    "start": 2147.28,
+    "duration": 2.12,
+    "text": "extensibility even happening upmarket."
+  },
+  {
+    "start": 2149.68,
+    "duration": 3.8,
+    "text": "What is that mental model for you about like, what are the things, you know, for"
+  },
+  {
+    "start": 2153.48,
+    "duration": 4.48,
+    "text": "a company of meaningful size, like 50, 100, multiple hundred millions in ARR,"
+  },
+  {
+    "start": 2158.48,
+    "duration": 3.56,
+    "text": "what should people think about not building themselves?"
+  },
+  {
+    "start": 2162.08,
+    "duration": 1.92,
+    "text": "And like, what, what is the decision?"
+  },
+  {
+    "start": 2164.28,
+    "duration": 0.52,
+    "text": "Yeah."
+  },
+  {
+    "start": 2164.8,
+    "duration": 5.2,
+    "text": "I mean, if you're, if you're a big enterprise organization like that, you're"
+  },
+  {
+    "start": 2170.0,
+    "duration": 4.6,
+    "text": "not building your own CRM, you know, you're not building your own ERP, you're"
+  },
+  {
+    "start": 2174.6,
+    "duration": 2.92,
+    "text": "not building, and so like, why though?"
+  },
+  {
+    "start": 2177.52,
+    "duration": 5.12,
+    "text": "Is it, is it because like, it's, it, is it, is it because the governance or"
+  },
+  {
+    "start": 2182.64,
+    "duration": 5.2,
+    "text": "security, is it like the stability, like what would be the, what would be, I"
+  },
+  {
+    "start": 2187.84,
+    "duration": 4.84,
+    "text": "would say, I would say in an organization that's as large as that, you have so"
+  },
+  {
+    "start": 2192.68,
+    "duration": 9.44,
+    "text": "many touch points with billing, finance, accounting, true ups, delinquencies, you"
+  },
+  {
+    "start": 2202.12,
+    "duration": 6.64,
+    "text": "know, the whole integration to your back office, to front office is pretty dialed"
+  },
+  {
+    "start": 2208.76,
+    "duration": 3.44,
+    "text": "in and if you, you know, like it's just, it's just really, really tight."
+  },
+  {
+    "start": 2212.52,
+    "duration": 4.88,
+    "text": "And to go do that in a vibe coded fashion and connect all the, could you do it?"
+  },
+  {
+    "start": 2217.4,
+    "duration": 0.88,
+    "text": "Yes."
+  },
+  {
+    "start": 2218.52,
+    "duration": 3.52,
+    "text": "Would you want to go invest the time in doing that and re, you know, basically"
+  },
+  {
+    "start": 2222.04,
+    "duration": 4.44,
+    "text": "get, getting rid of your plumbing and getting a vibe coding solution to"
+  },
+  {
+    "start": 2226.48,
+    "duration": 1.68,
+    "text": "re-institute a whole new plumbing."
+  },
+  {
+    "start": 2228.52,
+    "duration": 5.12,
+    "text": "I think that is a huge uplift for any organization, any enterprise"
+  },
+  {
+    "start": 2233.64,
+    "duration": 4.2,
+    "text": "organization, right, that has been around for decades and decades to go do that."
+  },
+  {
+    "start": 2238.16,
+    "duration": 4.48,
+    "text": "So like integrations and, and sort of like the centrality of the tool."
+  },
+  {
+    "start": 2243.16,
+    "duration": 1.52,
+    "text": "I think that's a good heuristic."
+  },
+  {
+    "start": 2245.24,
+    "duration": 2.48,
+    "text": "Governance and security, I would think is another good heuristic."
+  },
+  {
+    "start": 2247.72,
+    "duration": 5.2,
+    "text": "Like if part of that platform's value is security, stability, governance,"
+  },
+  {
+    "start": 2253.12,
+    "duration": 3.32,
+    "text": "like buy versus build is probably smart."
+  },
+  {
+    "start": 2257.36,
+    "duration": 1.24,
+    "text": "Any other like key heuristics?"
+  },
+  {
+    "start": 2258.6,
+    "duration": 3.48,
+    "text": "Cause what I'm, what I'm trying to, I get asked this question so much and"
+  },
+  {
+    "start": 2262.08,
+    "duration": 3.96,
+    "text": "I'm trying to think of the model and actually I might, I'm planning to"
+  },
+  {
+    "start": 2266.04,
+    "duration": 1.52,
+    "text": "talk about this at Sastr as well."
+  },
+  {
+    "start": 2267.56,
+    "duration": 3.72,
+    "text": "And I'll, I'll drop my like Sastr link in the show notes."
+  },
+  {
+    "start": 2271.28,
+    "duration": 2.08,
+    "text": "Cause I'm going to come see yours and everybody should come"
+  },
+  {
+    "start": 2273.36,
+    "duration": 2.04,
+    "text": "see your, your demo too."
+  },
+  {
+    "start": 2276.0,
+    "duration": 4.2,
+    "text": "It's like, at what point down the stack, like should we vibe code sales loft?"
+  },
+  {
+    "start": 2280.44,
+    "duration": 3.4,
+    "text": "Like it's a, it's something that we've talked about a whole bunch."
+  },
+  {
+    "start": 2284.32,
+    "duration": 3.88,
+    "text": "You know, I don't think we would vibe code a calling tool."
+  },
+  {
+    "start": 2288.28,
+    "duration": 3.92,
+    "text": "Like you could vibe code your own thing and just API into Twilio."
+  },
+  {
+    "start": 2292.52,
+    "duration": 3.36,
+    "text": "But like, what's sort of the point if that goes down at like"
+  },
+  {
+    "start": 2296.0,
+    "duration": 1.68,
+    "text": "your whole team is offline."
+  },
+  {
+    "start": 2297.96,
+    "duration": 3.28,
+    "text": "And so the, like, I'm trying to come up with a heuristic of like how far down"
+  },
+  {
+    "start": 2301.24,
+    "duration": 2.88,
+    "text": "the stack and like, what is the trade-off question?"
+  },
+  {
+    "start": 2304.12,
+    "duration": 4.0,
+    "text": "Like if this, then that of like where you stop building, like we're"
+  },
+  {
+    "start": 2308.12,
+    "duration": 2.92,
+    "text": "going to, we're building our LMS, like where we've rebuilt a"
+  },
+  {
+    "start": 2311.04,
+    "duration": 1.24,
+    "text": "learning management system."
+  },
+  {
+    "start": 2312.6,
+    "duration": 3.6,
+    "text": "We've, we've built like a recognition and a contest system."
+  },
+  {
+    "start": 2316.56,
+    "duration": 2.16,
+    "text": "And because they're not that connected, they're not that"
+  },
+  {
+    "start": 2318.72,
+    "duration": 1.4,
+    "text": "central and important stability."
+  },
+  {
+    "start": 2320.12,
+    "duration": 3.0,
+    "text": "If it goes down for a couple hours, like you're not totally losing"
+  },
+  {
+    "start": 2323.12,
+    "duration": 2.4,
+    "text": "your mind of your contest tool."
+  },
+  {
+    "start": 2325.52,
+    "duration": 3.04,
+    "text": "But any other heuristics that you think are helpful?"
+  },
+  {
+    "start": 2328.92,
+    "duration": 4.24,
+    "text": "I think you have to have a discussion as a organization and as a group to"
+  },
+  {
+    "start": 2333.16,
+    "duration": 1.68,
+    "text": "actually look at the feasibility, right."
+  },
+  {
+    "start": 2334.84,
+    "duration": 1.64,
+    "text": "And you have to have some common sense behind it."
+  },
+  {
+    "start": 2337.16,
+    "duration": 3.48,
+    "text": "The way I think about it is just have some common sense of like stuff, you"
+  },
+  {
+    "start": 2340.64,
+    "duration": 1.28,
+    "text": "know, that you're going to go do."
+  },
+  {
+    "start": 2341.92,
+    "duration": 2.84,
+    "text": "Like, we're not going to go build an outbound dialer."
+  },
+  {
+    "start": 2345.0,
+    "duration": 3.08,
+    "text": "Like, I'm not going to go build a dialer, right?"
+  },
+  {
+    "start": 2348.08,
+    "duration": 3.6,
+    "text": "Like there's other things that are like more important for me to go do."
+  },
+  {
+    "start": 2351.68,
+    "duration": 0.96,
+    "text": "Could, could, could I?"
+  },
+  {
+    "start": 2353.04,
+    "duration": 0.4,
+    "text": "Sure."
+  },
+  {
+    "start": 2353.44,
+    "duration": 2.48,
+    "text": "I probably could, like, but am I going to go do that?"
+  },
+  {
+    "start": 2355.92,
+    "duration": 1.16,
+    "text": "I'm not going to go do that."
+  },
+  {
+    "start": 2357.08,
+    "duration": 0.36,
+    "text": "Right."
+  },
+  {
+    "start": 2357.72,
+    "duration": 2.32,
+    "text": "So yeah, I think every organization is different."
+  },
+  {
+    "start": 2360.08,
+    "duration": 2.12,
+    "text": "I would just say, just sit down and have an open discussion."
+  },
+  {
+    "start": 2362.52,
+    "duration": 2.36,
+    "text": "I think the cost benefit is the other thing there."
+  },
+  {
+    "start": 2364.88,
+    "duration": 7.96,
+    "text": "Like, like what is the incremental benefit above the quality of the tool"
+  },
+  {
+    "start": 2373.0,
+    "duration": 3.96,
+    "text": "today that you unlock by doing it yourself?"
+  },
+  {
+    "start": 2377.44,
+    "duration": 2.2,
+    "text": "And like, that might be a determining factor as well."
+  },
+  {
+    "start": 2379.64,
+    "duration": 4.36,
+    "text": "Like, you know, vibe coding your own dialer, like how much better"
+  },
+  {
+    "start": 2384.0,
+    "duration": 0.92,
+    "text": "are you going to make a dialer?"
+  },
+  {
+    "start": 2384.96,
+    "duration": 0.8,
+    "text": "Yeah, exactly."
+  },
+  {
+    "start": 2386.04,
+    "duration": 0.44,
+    "text": "Exactly."
+  },
+  {
+    "start": 2386.92,
+    "duration": 0.32,
+    "text": "Exactly."
+  },
+  {
+    "start": 2387.24,
+    "duration": 0.48,
+    "text": "Really?"
+  },
+  {
+    "start": 2387.76,
+    "duration": 1.72,
+    "text": "So that might be the other thing."
+  },
+  {
+    "start": 2389.68,
+    "duration": 0.24,
+    "text": "Yeah."
+  },
+  {
+    "start": 2390.04,
+    "duration": 1.0,
+    "text": "Um, okay."
+  },
+  {
+    "start": 2391.04,
+    "duration": 0.48,
+    "text": "It's interesting."
+  },
+  {
+    "start": 2391.68,
+    "duration": 2.04,
+    "text": "It is interesting that a company like Repl.it is like"
+  },
+  {
+    "start": 2394.32,
+    "duration": 1.56,
+    "text": "replatforming to Salesforce."
+  },
+  {
+    "start": 2395.88,
+    "duration": 4.72,
+    "text": "I think it says a lot and it sort of confirms my prior a little bit."
+  },
+  {
+    "start": 2400.76,
+    "duration": 4.28,
+    "text": "And, and you guys are ahead on this, like headless architecture of saying,"
+  },
+  {
+    "start": 2405.04,
+    "duration": 3.6,
+    "text": "like, all right, you're actually not going to live in the tool that much, but"
+  },
+  {
+    "start": 2408.64,
+    "duration": 3.68,
+    "text": "it is this like hub and connection point where everything like builds off of."
+  },
+  {
+    "start": 2412.36,
+    "duration": 0.48,
+    "text": "Well, yeah."
+  },
+  {
+    "start": 2412.84,
+    "duration": 2.76,
+    "text": "And like it was a Salesforce, I actually, we had a call with Salesforce."
+  },
+  {
+    "start": 2415.64,
+    "duration": 3.32,
+    "text": "Just, uh, this past week where they showed us kind of their stack and we've"
+  },
+  {
+    "start": 2418.96,
+    "duration": 3.8,
+    "text": "kind of showed them our stack of how we're extending Salesforce just"
+  },
+  {
+    "start": 2422.96,
+    "duration": 1.48,
+    "text": "from a visibility standpoint."
+  },
+  {
+    "start": 2424.68,
+    "duration": 3.88,
+    "text": "Um, we even, we just came up with a Slack connector as well with Repl.it."
+  },
+  {
+    "start": 2428.88,
+    "duration": 4.44,
+    "text": "So now within Slack, you can actually spin off a workflow to build an"
+  },
+  {
+    "start": 2433.32,
+    "duration": 2.4,
+    "text": "app all within Slack, you know, directly within Slack."
+  },
+  {
+    "start": 2435.72,
+    "duration": 3.96,
+    "text": "So again, the, so we're all about the extensibility, right?"
+  },
+  {
+    "start": 2439.72,
+    "duration": 4.44,
+    "text": "How can we use a technology like Repl.it to go extend and kind"
+  },
+  {
+    "start": 2444.16,
+    "duration": 1.36,
+    "text": "of just make things your own?"
+  },
+  {
+    "start": 2445.72,
+    "duration": 4.6,
+    "text": "And, and, and do it in a way that serves you, we kind of"
+  },
+  {
+    "start": 2450.32,
+    "duration": 1.4,
+    "text": "show up every single day, right?"
+  },
+  {
+    "start": 2451.72,
+    "duration": 2.28,
+    "text": "I, I, I live in Slack, right?"
+  },
+  {
+    "start": 2454.0,
+    "duration": 3.88,
+    "text": "So if I can go spin off a workflow in Slack versus going to Repl.it"
+  },
+  {
+    "start": 2457.88,
+    "duration": 2.48,
+    "text": "specifically, right, that saves me time, right?"
+  },
+  {
+    "start": 2460.36,
+    "duration": 1.08,
+    "text": "That saves me, right?"
+  },
+  {
+    "start": 2461.44,
+    "duration": 3.24,
+    "text": "So again, use cases are kind of all over the place."
+  },
+  {
+    "start": 2465.24,
+    "duration": 5.6,
+    "text": "Hiring at this pace is extraordinarily difficult and"
+  },
+  {
+    "start": 2470.84,
+    "duration": 1.8,
+    "text": "it's hard to keep, keep a bar."
+  },
+  {
+    "start": 2473.08,
+    "duration": 3.96,
+    "text": "So how are you thinking about, and especially like if you want to hire"
+  },
+  {
+    "start": 2477.04,
+    "duration": 2.72,
+    "text": "200 people at some point, you're not gonna be able to do the screens."
+  },
+  {
+    "start": 2480.28,
+    "duration": 3.76,
+    "text": "And, and so like, how are you thinking about handing off the playbook"
+  },
+  {
+    "start": 2484.04,
+    "duration": 3.0,
+    "text": "just to somebody else who's going to be new to the business?"
+  },
+  {
+    "start": 2487.04,
+    "duration": 2.92,
+    "text": "Like new VPs, new GMs."
+  },
+  {
+    "start": 2490.6,
+    "duration": 3.16,
+    "text": "I at least have a bunch of people that have been with me three years now"
+  },
+  {
+    "start": 2493.76,
+    "duration": 3.32,
+    "text": "as we're, we're probably gonna hire like a hundred people in sales this year."
+  },
+  {
+    "start": 2497.48,
+    "duration": 4.24,
+    "text": "But you know, there's so much, there's so much more institutional knowledge."
+  },
+  {
+    "start": 2501.72,
+    "duration": 4.6,
+    "text": "It's a little different going from like tiny org to what you're trying to do."
+  },
+  {
+    "start": 2506.32,
+    "duration": 4.08,
+    "text": "So how are you thinking about the hiring system first, and then"
+  },
+  {
+    "start": 2510.4,
+    "duration": 1.48,
+    "text": "I'd love to unpack the profile."
+  },
+  {
+    "start": 2512.08,
+    "duration": 0.48,
+    "text": "Yeah."
+  },
+  {
+    "start": 2512.6,
+    "duration": 5.4,
+    "text": "I mean, so the system in itself, we, we actually have a fairly tight hiring"
+  },
+  {
+    "start": 2518.0,
+    "duration": 6.64,
+    "text": "process that I actually designed and I kind of created just to kind of optimize"
+  },
+  {
+    "start": 2524.64,
+    "duration": 3.64,
+    "text": "for speed and making sure we're also not sacrificing on quality and the"
+  },
+  {
+    "start": 2528.28,
+    "duration": 1.08,
+    "text": "people we're actually bringing in."
+  },
+  {
+    "start": 2529.68,
+    "duration": 3.72,
+    "text": "So our hiring process is like very simple right now."
+  },
+  {
+    "start": 2533.44,
+    "duration": 4.08,
+    "text": "Like, as I mentioned, I, I do the first screens and I was doing 30 minute screens."
+  },
+  {
+    "start": 2537.56,
+    "duration": 2.0,
+    "text": "I actually changed from that to 15 minute screens."
+  },
+  {
+    "start": 2539.72,
+    "duration": 4.68,
+    "text": "So I do, I do 15 minute screens because I've got a good read on people and I can"
+  },
+  {
+    "start": 2544.4,
+    "duration": 6.0,
+    "text": "usually tell in the first 15 minutes, whether they're worth another conversation or not."
+  },
+  {
+    "start": 2550.68,
+    "duration": 2.12,
+    "text": "So I do 15 minute screens with everybody."
+  },
+  {
+    "start": 2552.84,
+    "duration": 2.76,
+    "text": "And I'll talk a bit about how I'm going to change that."
+  },
+  {
+    "start": 2555.84,
+    "duration": 3.8,
+    "text": "And then usually if they pass the 15 minute screen, they get invited to a mock"
+  },
+  {
+    "start": 2559.64,
+    "duration": 5.24,
+    "text": "panel and our mock panel is we give them a prompt, a very, very specific"
+  },
+  {
+    "start": 2564.88,
+    "duration": 1.16,
+    "text": "prompt, depending on their role."
+  },
+  {
+    "start": 2566.24,
+    "duration": 2.0,
+    "text": "And then we usually have three people in the panel."
+  },
+  {
+    "start": 2568.52,
+    "duration": 3.44,
+    "text": "Usually it'll be like a rep, a customer advocate or a field engineer."
+  },
+  {
+    "start": 2571.96,
+    "duration": 3.24,
+    "text": "We kind of change it up all the time and the candidate will present"
+  },
+  {
+    "start": 2575.72,
+    "duration": 1.6,
+    "text": "to the panel against their prompt."
+  },
+  {
+    "start": 2577.68,
+    "duration": 3.08,
+    "text": "And coming out of that, we make a hire, no hire decision."
+  },
+  {
+    "start": 2581.32,
+    "duration": 3.44,
+    "text": "I eventually am going to get out of doing the first screen."
+  },
+  {
+    "start": 2584.76,
+    "duration": 4.44,
+    "text": "So I'm like really excited to have my head of sales starting here in a couple of"
+  },
+  {
+    "start": 2589.2,
+    "duration": 4.36,
+    "text": "weeks and they'll kind of carry that torch and my head of Europe who's in"
+  },
+  {
+    "start": 2593.56,
+    "duration": 2.76,
+    "text": "Australia will carry that torch internationally as well."
+  },
+  {
+    "start": 2596.56,
+    "duration": 3.52,
+    "text": "I'll still be there to help close candidates and do whatever it is that I"
+  },
+  {
+    "start": 2600.08,
+    "duration": 1.68,
+    "text": "need to go do to bring people out there."
+  },
+  {
+    "start": 2602.24,
+    "duration": 4.0,
+    "text": "But I don't think we'll change the process in itself because it's"
+  },
+  {
+    "start": 2606.24,
+    "duration": 2.16,
+    "text": "pretty quick and dirty right now."
+  },
+  {
+    "start": 2608.8,
+    "duration": 7.52,
+    "text": "Our biggest thing is making sure we go back to the first principles of like"
+  },
+  {
+    "start": 2616.68,
+    "duration": 2.96,
+    "text": "some of the characteristics that we actually want in the people that are"
+  },
+  {
+    "start": 2619.64,
+    "duration": 5.92,
+    "text": "coming here and that's really what the prompt really helps us validate is, you"
+  },
+  {
+    "start": 2625.56,
+    "duration": 4.8,
+    "text": "know, outside of their customer facing skills, you know, I talked about their"
+  },
+  {
+    "start": 2630.4,
+    "duration": 3.4,
+    "text": "knowledge of the AI ecosystem, their knowledge on replay, their knowledge"
+  },
+  {
+    "start": 2633.8,
+    "duration": 2.92,
+    "text": "on the art of the possible, you know, how they can go articulate that."
+  },
+  {
+    "start": 2636.92,
+    "duration": 1.84,
+    "text": "Obviously if they're technical, we actually give them a"
+  },
+  {
+    "start": 2638.76,
+    "duration": 1.44,
+    "text": "technical exercise to go do."
+  },
+  {
+    "start": 2640.56,
+    "duration": 2.96,
+    "text": "So we just make sure we're good there."
+  },
+  {
+    "start": 2643.52,
+    "duration": 4.6,
+    "text": "And the other thing I'm also given how fast I have to go higher."
+  },
+  {
+    "start": 2648.12,
+    "duration": 4.72,
+    "text": "I made this call right in the beginning is we want an 80% bar."
+  },
+  {
+    "start": 2653.68,
+    "duration": 6.8,
+    "text": "So we're, we are not striving for a hundred percent or like if they don't"
+  },
+  {
+    "start": 2660.48,
+    "duration": 3.72,
+    "text": "meet this a hundred percent bar, we're not, if it's 80% and we think somebody"
+  },
+  {
+    "start": 2664.2,
+    "duration": 3.12,
+    "text": "can kind of meet that 80% bar and we know that with the right level of"
+  },
+  {
+    "start": 2667.32,
+    "duration": 4.52,
+    "text": "enablement, we can kind of get them that last 20%, we're actually optimizing"
+  },
+  {
+    "start": 2671.84,
+    "duration": 2.84,
+    "text": "and pulling the trigger on that person just because we have to go higher super"
+  },
+  {
+    "start": 2674.68,
+    "duration": 4.84,
+    "text": "fast, because if I take like a fine tooth laser focus of like, oh my God, they"
+  },
+  {
+    "start": 2679.52,
+    "duration": 5.12,
+    "text": "must go me, I just never can hire as fast as I need to go higher right now."
+  },
+  {
+    "start": 2685.04,
+    "duration": 1.04,
+    "text": "So that's kind of what we're doing."
+  },
+  {
+    "start": 2686.08,
+    "duration": 3.28,
+    "text": "And then I'm spending, like I mentioned, a lot of time on enable bit, because"
+  },
+  {
+    "start": 2689.36,
+    "duration": 3.36,
+    "text": "I think that's going to be a huge differentiator for us as well."
+  },
+  {
+    "start": 2693.44,
+    "duration": 5.8,
+    "text": "And so that last 20% is either like the product knowledge, the sales craft, and"
+  },
+  {
+    "start": 2699.24,
+    "duration": 3.6,
+    "text": "you feel like you can just like, you can fill those gaps with your system."
+  },
+  {
+    "start": 2702.92,
+    "duration": 0.56,
+    "text": "Exactly."
+  },
+  {
+    "start": 2703.52,
+    "duration": 0.2,
+    "text": "Yeah."
+  },
+  {
+    "start": 2703.72,
+    "duration": 4.2,
+    "text": "It's like someone may be lacking on the, they may be in the prompt."
+  },
+  {
+    "start": 2708.28,
+    "duration": 3.64,
+    "text": "They were really, really good at the art of the possible on the product, but maybe"
+  },
+  {
+    "start": 2711.92,
+    "duration": 2.56,
+    "text": "they didn't do as well on discovery in that prompt."
+  },
+  {
+    "start": 2714.92,
+    "duration": 0.32,
+    "text": "Right."
+  },
+  {
+    "start": 2716.04,
+    "duration": 4.12,
+    "text": "I think I can teach them how to dig and dip deeper and go do discovery, you"
+  },
+  {
+    "start": 2720.16,
+    "duration": 3.92,
+    "text": "know, in a much more diligent way or yes, the sales aspect or whatever it ends up"
+  },
+  {
+    "start": 2724.08,
+    "duration": 0.64,
+    "text": "being right."
+  },
+  {
+    "start": 2724.92,
+    "duration": 2.56,
+    "text": "We want people that can actually show up, get in front of a customer."
+  },
+  {
+    "start": 2728.0,
+    "duration": 3.92,
+    "text": "And we know that we can actually trust them to go out and explain our value"
+  },
+  {
+    "start": 2731.92,
+    "duration": 0.52,
+    "text": "proposition."
+  },
+  {
+    "start": 2732.72,
+    "duration": 1.92,
+    "text": "What's most important for you in that profile."
+  },
+  {
+    "start": 2734.64,
+    "duration": 4.4,
+    "text": "So the, the mission centricity, you want to see that they understand the"
+  },
+  {
+    "start": 2739.04,
+    "duration": 4.04,
+    "text": "ecosystem, the tools, what are the, like the raw traits?"
+  },
+  {
+    "start": 2743.08,
+    "duration": 4.6,
+    "text": "Cause it sounds like you're making like traits based decisions and then teaching"
+  },
+  {
+    "start": 2747.68,
+    "duration": 2.12,
+    "text": "a lot of the craft and specific knowledge."
+  },
+  {
+    "start": 2750.08,
+    "duration": 4.2,
+    "text": "You know, like in the 15 minutes I get with candidates, what I want to be"
+  },
+  {
+    "start": 2754.28,
+    "duration": 7.04,
+    "text": "convinced of is their communication style and skills, how are they in"
+  },
+  {
+    "start": 2761.32,
+    "duration": 0.96,
+    "text": "communicating with me?"
+  },
+  {
+    "start": 2763.36,
+    "duration": 5.96,
+    "text": "Um, I do ask about kind of their aspirations of why sales, if they haven't"
+  },
+  {
+    "start": 2769.32,
+    "duration": 4.12,
+    "text": "been in sales and what, you know, why, why they want to do this role."
+  },
+  {
+    "start": 2773.88,
+    "duration": 4.44,
+    "text": "And then I take the back half of the conversation and I talk about, I go"
+  },
+  {
+    "start": 2778.32,
+    "duration": 2.92,
+    "text": "basically, Hey, if you look at the AI world that we're living in, stack rank"
+  },
+  {
+    "start": 2781.24,
+    "duration": 1.48,
+    "text": "yourself around your knowledge of AI."
+  },
+  {
+    "start": 2783.12,
+    "duration": 3.6,
+    "text": "Between a zero to 10, kind of everything that's going on with the AI world from"
+  },
+  {
+    "start": 2786.72,
+    "duration": 4.16,
+    "text": "inference to LLMs to app creation, like where would you stack rank yourself from,"
+  },
+  {
+    "start": 2790.96,
+    "duration": 3.48,
+    "text": "from your knowledge and then what's your awareness of kind of where replica kind"
+  },
+  {
+    "start": 2794.44,
+    "duration": 3.12,
+    "text": "of fits into that ecosystem, um, how they respond to that."
+  },
+  {
+    "start": 2798.08,
+    "duration": 2.96,
+    "text": "And then based on that, that kind of gives me either confidence or not"
+  },
+  {
+    "start": 2801.04,
+    "duration": 4.84,
+    "text": "confidence that, you know, this person can actually be effective in the role"
+  },
+  {
+    "start": 2805.88,
+    "duration": 0.84,
+    "text": "that we're actually interviewing."
+  },
+  {
+    "start": 2806.96,
+    "duration": 2.44,
+    "text": "What's the most important for you in thing in that 15 minutes?"
+  },
+  {
+    "start": 2809.52,
+    "duration": 4.52,
+    "text": "Look for communication style, because if they can't communicate well with me, how"
+  },
+  {
+    "start": 2814.04,
+    "duration": 3.72,
+    "text": "are they going to communicate well with the customer, you know, the people that"
+  },
+  {
+    "start": 2817.76,
+    "duration": 4.84,
+    "text": "are either nervous or, you know, kind of struggling with that, you can kind"
+  },
+  {
+    "start": 2822.6,
+    "duration": 1.4,
+    "text": "of weed that out pretty quickly."
+  },
+  {
+    "start": 2824.6,
+    "duration": 0.4,
+    "text": "Yeah."
+  },
+  {
+    "start": 2825.08,
+    "duration": 0.64,
+    "text": "Interesting."
+  },
+  {
+    "start": 2826.24,
+    "duration": 5.68,
+    "text": "So what, something I built a few weekends ago was the, uh, like a deep"
+  },
+  {
+    "start": 2831.96,
+    "duration": 3.76,
+    "text": "analysis of our entire XDR hiring process."
+  },
+  {
+    "start": 2835.96,
+    "duration": 4.92,
+    "text": "And so I pulled in all of the scorecards from Ashby, all of the meeting, meeting"
+  },
+  {
+    "start": 2840.88,
+    "duration": 4.84,
+    "text": "recordings from MetaView, all of the enroll performance from our BI tool."
+  },
+  {
+    "start": 2846.04,
+    "duration": 6.16,
+    "text": "And had using Claude had Claude do this big analysis of like, what are the common"
+  },
+  {
+    "start": 2852.2,
+    "duration": 0.52,
+    "text": "traits?"
+  },
+  {
+    "start": 2852.72,
+    "duration": 4.16,
+    "text": "How are like, who's good at identifying talent and who's not, what are the"
+  },
+  {
+    "start": 2856.88,
+    "duration": 1.96,
+    "text": "thing, like, where are we most off?"
+  },
+  {
+    "start": 2859.2,
+    "duration": 4.36,
+    "text": "Because what I'm trying to build as an output, which I haven't as an output, I'm"
+  },
+  {
+    "start": 2863.56,
+    "duration": 5.4,
+    "text": "still like iterating on my level of confidence is a co-pilot tool that can"
+  },
+  {
+    "start": 2868.96,
+    "duration": 5.64,
+    "text": "take in every single interview afterwards and give us, give a synthesis on, on"
+  },
+  {
+    "start": 2874.64,
+    "duration": 3.2,
+    "text": "their, uh, likelihood of success."
+  },
+  {
+    "start": 2878.32,
+    "duration": 3.6,
+    "text": "If nothing else is a, it's been a really interesting gut check."
+  },
+  {
+    "start": 2882.08,
+    "duration": 1.32,
+    "text": "So I'm the finalist."
+  },
+  {
+    "start": 2883.4,
+    "duration": 1.72,
+    "text": "I'm, I'm the bar raiser interview."
+  },
+  {
+    "start": 2885.12,
+    "duration": 4.36,
+    "text": "I'm the last sort of 30 minute interview in, in, uh, all of the market facing"
+  },
+  {
+    "start": 2889.48,
+    "duration": 0.44,
+    "text": "roles."
+  },
+  {
+    "start": 2890.64,
+    "duration": 2.76,
+    "text": "And so, um, I'll do the interview."
+  },
+  {
+    "start": 2893.4,
+    "duration": 4.56,
+    "text": "Then I'll, then I'll just go to the, my terminal tab and be like, Hey, run it on"
+  },
+  {
+    "start": 2898.0,
+    "duration": 1.0,
+    "text": "XYZ person."
+  },
+  {
+    "start": 2899.28,
+    "duration": 5.12,
+    "text": "It yanks in all of the information that gives me this, uh, output and creates a"
+  },
+  {
+    "start": 2904.4,
+    "duration": 0.84,
+    "text": "notion page."
+  },
+  {
+    "start": 2905.64,
+    "duration": 4.64,
+    "text": "And it's really interesting to see like the, the distillation of all of the"
+  },
+  {
+    "start": 2910.28,
+    "duration": 0.32,
+    "text": "interviews."
+  },
+  {
+    "start": 2910.6,
+    "duration": 1.6,
+    "text": "Cause I don't read the other interview notes."
+  },
+  {
+    "start": 2912.2,
+    "duration": 1.52,
+    "text": "I don't watch any of the other calls."
+  },
+  {
+    "start": 2914.0,
+    "duration": 3.44,
+    "text": "But I get this distillation as a second, as a second guess."
+  },
+  {
+    "start": 2918.32,
+    "duration": 5.04,
+    "text": "And so far I've done like maybe five bar raisers and, uh, it's been aligned with"
+  },
+  {
+    "start": 2923.36,
+    "duration": 1.32,
+    "text": "all of the recommendations."
+  },
+  {
+    "start": 2924.68,
+    "duration": 5.28,
+    "text": "But like, as I add more and more data to it, I'm, I'm, and my confidence level"
+  },
+  {
+    "start": 2929.96,
+    "duration": 0.4,
+    "text": "grows."
+  },
+  {
+    "start": 2930.36,
+    "duration": 9.36,
+    "text": "Like I want to see if that score, the AI score is going to beat or, uh, improve"
+  },
+  {
+    "start": 2939.8,
+    "duration": 1.8,
+    "text": "on the human scores."
+  },
+  {
+    "start": 2942.0,
+    "duration": 3.36,
+    "text": "The interesting thing is like I was churning and churning and churning on it"
+  },
+  {
+    "start": 2945.36,
+    "duration": 1.0,
+    "text": "and I was like, Oh, I don't know."
+  },
+  {
+    "start": 2946.36,
+    "duration": 3.08,
+    "text": "Like I just was a little, I was second guessing the analysis."
+  },
+  {
+    "start": 2949.48,
+    "duration": 5.0,
+    "text": "And then I, then I put in, um, that Andrej Karpathy auto, uh, auto research"
+  },
+  {
+    "start": 2954.88,
+    "duration": 0.6,
+    "text": "GitHub repo."
+  },
+  {
+    "start": 2955.48,
+    "duration": 4.04,
+    "text": "I'm like, Hey, like do the, because I have the outputs, output metrics, I have all"
+  },
+  {
+    "start": 2959.52,
+    "duration": 5.36,
+    "text": "the input data on the interviews and I have the output, uh, data on, uh,"
+  },
+  {
+    "start": 2964.92,
+    "duration": 1.28,
+    "text": "performance, enrolled performance."
+  },
+  {
+    "start": 2966.2,
+    "duration": 3.6,
+    "text": "So I was like, Oh, that's a good auto research opportunity."
+  },
+  {
+    "start": 2970.04,
+    "duration": 3.96,
+    "text": "And then it ran for, I don't know, like 45 minutes and it was way better after"
+  },
+  {
+    "start": 2974.0,
+    "duration": 0.32,
+    "text": "then."
+  },
+  {
+    "start": 2974.8,
+    "duration": 0.48,
+    "text": "Yeah."
+  },
+  {
+    "start": 2975.48,
+    "duration": 0.96,
+    "text": "I'd love to see that."
+  },
+  {
+    "start": 2976.52,
+    "duration": 0.72,
+    "text": "I love to see that."
+  },
+  {
+    "start": 2977.24,
+    "duration": 0.96,
+    "text": "That's, that's, that's pretty cool."
+  },
+  {
+    "start": 2978.4,
+    "duration": 2.92,
+    "text": "That I think is like one of the really interesting last frontiers."
+  },
+  {
+    "start": 2981.64,
+    "duration": 5.48,
+    "text": "I've, I've met some, uh, founders that are building in this category, but it was"
+  },
+  {
+    "start": 2987.12,
+    "duration": 4.48,
+    "text": "always like a little thin and a little like AI slop feeling."
+  },
+  {
+    "start": 2992.48,
+    "duration": 5.08,
+    "text": "You can't get confidence without like a massively deep understanding of, of like"
+  },
+  {
+    "start": 2997.92,
+    "duration": 2.28,
+    "text": "the enroll performance and this scoring."
+  },
+  {
+    "start": 3000.64,
+    "duration": 5.28,
+    "text": "And, uh, so we, I ended up building and I think it's, I mean, I think it's usable"
+  },
+  {
+    "start": 3005.92,
+    "duration": 5.96,
+    "text": "data now, but I needed to, I need to see how these scores translate to enroll"
+  },
+  {
+    "start": 3011.88,
+    "duration": 1.48,
+    "text": "performance over the couple of years."
+  },
+  {
+    "start": 3013.44,
+    "duration": 1.16,
+    "text": "Yeah, that's awesome."
+  },
+  {
+    "start": 3015.08,
+    "duration": 1.76,
+    "text": "You don't need to do the 15 minutes."
+  },
+  {
+    "start": 3016.84,
+    "duration": 6.64,
+    "text": "You can just take the whole output and, and have your brain in it, like layered"
+  },
+  {
+    "start": 3023.48,
+    "duration": 1.56,
+    "text": "over the whole interview process."
+  },
+  {
+    "start": 3025.04,
+    "duration": 3.04,
+    "text": "And maybe, maybe other than like helping close candidates, like you"
+  },
+  {
+    "start": 3028.08,
+    "duration": 0.8,
+    "text": "don't need to be in it."
+  },
+  {
+    "start": 3029.0,
+    "duration": 0.36,
+    "text": "Yeah."
+  },
+  {
+    "start": 3029.6,
+    "duration": 0.76,
+    "text": "That'd be pretty cool."
+  },
+  {
+    "start": 3030.68,
+    "duration": 0.56,
+    "text": "That'd be pretty cool."
+  },
+  {
+    "start": 3031.6,
+    "duration": 1.84,
+    "text": "You've been in this business now."
+  },
+  {
+    "start": 3033.52,
+    "duration": 1.28,
+    "text": "When, when did you start at replit?"
+  },
+  {
+    "start": 3035.36,
+    "duration": 4.4,
+    "text": "I started officially in December, but I was actually with the business early"
+  },
+  {
+    "start": 3039.76,
+    "duration": 2.92,
+    "text": "on and like last summer, um, doing some stuff kind of behind the scenes."
+  },
+  {
+    "start": 3042.8,
+    "duration": 3.0,
+    "text": "What have been the biggest surprises and what do you find yourself changing your"
+  },
+  {
+    "start": 3045.8,
+    "duration": 6.64,
+    "text": "mind on as, as you're in this like fully agentic business that, where you can"
+  },
+  {
+    "start": 3052.44,
+    "duration": 1.64,
+    "text": "build anything and do anything?"
+  },
+  {
+    "start": 3054.48,
+    "duration": 7.88,
+    "text": "Surprised it was, I knew the GTM, the B2B GTM org was small, but I was surprised to"
+  },
+  {
+    "start": 3062.36,
+    "duration": 6.08,
+    "text": "see the lack of a lot of common infrastructure that was that, you know,"
+  },
+  {
+    "start": 3068.44,
+    "duration": 1.88,
+    "text": "that I thought was already here, that wasn't here."
+  },
+  {
+    "start": 3070.68,
+    "duration": 0.96,
+    "text": "Um, so that was surprising."
+  },
+  {
+    "start": 3071.72,
+    "duration": 0.68,
+    "text": "Um, that's fine."
+  },
+  {
+    "start": 3072.48,
+    "duration": 2.08,
+    "text": "I mean, it's, you know, we just build and we grow."
+  },
+  {
+    "start": 3074.6,
+    "duration": 3.04,
+    "text": "Um, so, so that was definitely surprising."
+  },
+  {
+    "start": 3077.96,
+    "duration": 6.36,
+    "text": "The other aspect of it is, you know, given how many users replit actually"
+  },
+  {
+    "start": 3084.32,
+    "duration": 6.76,
+    "text": "has, I was surprised that from a headcount perspective, how concentrated"
+  },
+  {
+    "start": 3091.08,
+    "duration": 3.76,
+    "text": "we were in the U S and didn't really have dedicated headcount globally."
+  },
+  {
+    "start": 3095.96,
+    "duration": 2.92,
+    "text": "Across the, the, the company, right."
+  },
+  {
+    "start": 3098.96,
+    "duration": 3.28,
+    "text": "Um, we, we do, but not to the level that I would have thought, you know,"
+  },
+  {
+    "start": 3102.24,
+    "duration": 4.0,
+    "text": "like everything else around the product that I kind of knew coming in."
+  },
+  {
+    "start": 3106.8,
+    "duration": 2.4,
+    "text": "Um, there's this cult following, right?"
+  },
+  {
+    "start": 3109.2,
+    "duration": 5.4,
+    "text": "There's this going of replit where, I mean, I cannot tell you the amount of"
+  },
+  {
+    "start": 3114.6,
+    "duration": 5.2,
+    "text": "times I'm in an airport with like either a replica jacket or a replica."
+  },
+  {
+    "start": 3119.8,
+    "duration": 2.64,
+    "text": "People, random people just go, Oh my God, I love replit."
+  },
+  {
+    "start": 3122.48,
+    "duration": 3.72,
+    "text": "I'm like, you know, like, you know, there's not a lot of brands where you"
+  },
+  {
+    "start": 3126.2,
+    "duration": 1.92,
+    "text": "get that or people see it out there."
+  },
+  {
+    "start": 3128.12,
+    "duration": 5.04,
+    "text": "So that's like super, you know, you just impressive, um, around like how far"
+  },
+  {
+    "start": 3133.16,
+    "duration": 2.84,
+    "text": "we've gone and how far we've kind of built the community."
+  },
+  {
+    "start": 3136.28,
+    "duration": 3.4,
+    "text": "So there's so much conversation like, Oh, like, you know, sales, sales"
+  },
+  {
+    "start": 3139.68,
+    "duration": 4.0,
+    "text": "roles are going to get automated or BDR is dead, yada, yada, you know,"
+  },
+  {
+    "start": 3143.68,
+    "duration": 3.76,
+    "text": "you've talked about automating inbound, but growing your outbound function."
+  },
+  {
+    "start": 3147.92,
+    "duration": 3.0,
+    "text": "How do you think the shape of go-to-market teams are going to change?"
+  },
+  {
+    "start": 3150.92,
+    "duration": 2.36,
+    "text": "Like, and how are you thinking about building yours different?"
+  },
+  {
+    "start": 3154.04,
+    "duration": 3.48,
+    "text": "So I, I, so there are certain roles I do think will change."
+  },
+  {
+    "start": 3157.52,
+    "duration": 5.48,
+    "text": "And by the way, I've tried, like I tried the automated SDR, uh, last"
+  },
+  {
+    "start": 3163.0,
+    "duration": 3.72,
+    "text": "company and, you know, it didn't really work for us."
+  },
+  {
+    "start": 3166.72,
+    "duration": 2.6,
+    "text": "And I've talked to a lot of other peers where it doesn't really work."
+  },
+  {
+    "start": 3169.32,
+    "duration": 4.48,
+    "text": "So I don't think the automation of BDRs completely is going"
+  },
+  {
+    "start": 3173.8,
+    "duration": 2.4,
+    "text": "to go away anytime soon."
+  },
+  {
+    "start": 3176.64,
+    "duration": 3.6,
+    "text": "Um, I think inbound is a different thing because in the thing about the"
+  },
+  {
+    "start": 3180.24,
+    "duration": 2.88,
+    "text": "inbound motion, the inbound motion is taking somebody who's interested in"
+  },
+  {
+    "start": 3183.12,
+    "duration": 2.84,
+    "text": "seeing your product and getting them to go talk to somebody who can"
+  },
+  {
+    "start": 3185.96,
+    "duration": 5.44,
+    "text": "show that the product workflow I do think can be, um, automated in a right"
+  },
+  {
+    "start": 3191.4,
+    "duration": 3.04,
+    "text": "way if you actually ask them right up front questions in a forum and with an agent."
+  },
+  {
+    "start": 3194.44,
+    "duration": 3.0,
+    "text": "So anyways, that that's the model we're working towards."
+  },
+  {
+    "start": 3197.88,
+    "duration": 4.0,
+    "text": "So like quotas and how we comp, I think there's going to be like different"
+  },
+  {
+    "start": 3201.88,
+    "duration": 4.36,
+    "text": "flavors of kind of tweaking that model in the old world, in the new world."
+  },
+  {
+    "start": 3206.72,
+    "duration": 4.76,
+    "text": "And then I'm also dabbling with this experiment, which is going to be coming"
+  },
+  {
+    "start": 3211.48,
+    "duration": 5.28,
+    "text": "online here very soon, is I'm going to give for the very first time our"
+  },
+  {
+    "start": 3216.76,
+    "duration": 6.08,
+    "text": "customers to actually go buy Repl.it Enterprise in a self-service fashion."
+  },
+  {
+    "start": 3225.36,
+    "duration": 3.72,
+    "text": "So, so today, if you go to our website, you can sign up for our free tier,"
+  },
+  {
+    "start": 3229.56,
+    "duration": 3.2,
+    "text": "our core plan, and kind of what we have is our color pro plan."
+  },
+  {
+    "start": 3233.16,
+    "duration": 2.08,
+    "text": "Um, and that's where the majority of our usage is right now."
+  },
+  {
+    "start": 3235.28,
+    "duration": 3.52,
+    "text": "You know, these hobbyists, students, average person who actually wants"
+  },
+  {
+    "start": 3238.8,
+    "duration": 3.0,
+    "text": "Repl.it, they just go sign up for one of our B2C self-service plans."
+  },
+  {
+    "start": 3242.24,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 3242.8,
+    "duration": 3.44,
+    "text": "But I'm going to have, um, we're going to run it as an experiment initially,"
+  },
+  {
+    "start": 3246.44,
+    "duration": 3.88,
+    "text": "but we're actually going to have a flavor, basically not a flavor, basically"
+  },
+  {
+    "start": 3250.32,
+    "duration": 2.68,
+    "text": "our enterprise version available as a self-service option."
+  },
+  {
+    "start": 3253.8,
+    "duration": 6.32,
+    "text": "And what I think that's going to drive on my hypothesis behind that is I think"
+  },
+  {
+    "start": 3260.12,
+    "duration": 6.72,
+    "text": "there's a segment of the B2B enterprise segment that is small enough that can"
+  },
+  {
+    "start": 3266.84,
+    "duration": 3.16,
+    "text": "really just go self-help themselves without talking to somebody else."
+  },
+  {
+    "start": 3270.0,
+    "duration": 0.4,
+    "text": "For sure."
+  },
+  {
+    "start": 3270.56,
+    "duration": 0.16,
+    "text": "Yeah."
+  },
+  {
+    "start": 3270.72,
+    "duration": 0.2,
+    "text": "Right."
+  },
+  {
+    "start": 3270.96,
+    "duration": 3.68,
+    "text": "And, and basically get the, get the features of that they actually go want"
+  },
+  {
+    "start": 3274.64,
+    "duration": 1.92,
+    "text": "and, you know, small ECB, small deals."
+  },
+  {
+    "start": 3276.72,
+    "duration": 4.16,
+    "text": "So the idea would be is like all the small ECBs, like say sub 20K, 25K,"
+  },
+  {
+    "start": 3281.28,
+    "duration": 1.12,
+    "text": "those are all just self-service."
+  },
+  {
+    "start": 3282.4,
+    "duration": 3.56,
+    "text": "Then I've got my sales team kind of working on the higher construct of deals."
+  },
+  {
+    "start": 3285.96,
+    "duration": 5.48,
+    "text": "And what that will probably do is that will change the makeup of my commercial"
+  },
+  {
+    "start": 3291.44,
+    "duration": 3.88,
+    "text": "team, maybe I have less commercial sellers and have more enterprise"
+  },
+  {
+    "start": 3295.32,
+    "duration": 1.68,
+    "text": "sellers as an example, I don't know."
+  },
+  {
+    "start": 3297.32,
+    "duration": 3.12,
+    "text": "So that, that's one experiment that we're kind of going to be running"
+  },
+  {
+    "start": 3300.44,
+    "duration": 2.52,
+    "text": "with and it's going to be coming online here very, very soon."
+  },
+  {
+    "start": 3303.48,
+    "duration": 4.56,
+    "text": "The other way is like the way we're building our RevOps team is totally"
+  },
+  {
+    "start": 3308.04,
+    "duration": 5.48,
+    "text": "different, you know, unlike the old world where, you know, you scale RevOps with"
+  },
+  {
+    "start": 3313.76,
+    "duration": 1.92,
+    "text": "the number of salespeople you have."
+  },
+  {
+    "start": 3316.08,
+    "duration": 1.4,
+    "text": "We're not thinking about it that way."
+  },
+  {
+    "start": 3317.84,
+    "duration": 4.2,
+    "text": "We're going to be opening up a role that is the classic role that everyone"
+  },
+  {
+    "start": 3322.04,
+    "duration": 3.16,
+    "text": "loves to hear about, which is AIGTM engineer."
+  },
+  {
+    "start": 3325.52,
+    "duration": 0.84,
+    "text": "We're going to have one too."
+  },
+  {
+    "start": 3327.12,
+    "duration": 4.04,
+    "text": "Um, that sits within the RevOps team that kind of helps with everything around"
+  },
+  {
+    "start": 3331.16,
+    "duration": 1.88,
+    "text": "automation and what we want to go build."
+  },
+  {
+    "start": 3333.44,
+    "duration": 3.2,
+    "text": "And then, you know, using a lot of the stuff we're already doing, like,"
+  },
+  {
+    "start": 3336.72,
+    "duration": 5.44,
+    "text": "you know, our own CPQ, like, you know, deal desk analysis of things like"
+  },
+  {
+    "start": 3342.16,
+    "duration": 5.32,
+    "text": "that to just run a leaner team in a way that we can go support it."
+  },
+  {
+    "start": 3347.48,
+    "duration": 2.64,
+    "text": "So that's definitely on the horizon."
+  },
+  {
+    "start": 3350.52,
+    "duration": 2.04,
+    "text": "So what sits under RevOps today?"
+  },
+  {
+    "start": 3352.56,
+    "duration": 3.04,
+    "text": "Like, because there's RevOps, there's G-team engineering, there's"
+  },
+  {
+    "start": 3355.6,
+    "duration": 4.08,
+    "text": "like applied AI, which you could say is different, there's data, there's"
+  },
+  {
+    "start": 3359.72,
+    "duration": 6.04,
+    "text": "BizOps, like those are all functions that overlap so much now in so many ways."
+  },
+  {
+    "start": 3365.76,
+    "duration": 1.4,
+    "text": "So how are you thinking about that architecture?"
+  },
+  {
+    "start": 3367.4,
+    "duration": 3.52,
+    "text": "So in our world, um, it's very simple."
+  },
+  {
+    "start": 3370.92,
+    "duration": 5.32,
+    "text": "So within RevOps, we have systems, we have a deal desk, and then we have"
+  },
+  {
+    "start": 3376.24,
+    "duration": 4.64,
+    "text": "kind of what we are calling like a generalist ops role, right?"
+  },
+  {
+    "start": 3380.88,
+    "duration": 8.04,
+    "text": "Where it's that role would serve sales, post-sales partners, right?"
+  },
+  {
+    "start": 3388.92,
+    "duration": 5.12,
+    "text": "And then we are thinking about this layer of like an AI engineer."
+  },
+  {
+    "start": 3394.36,
+    "duration": 0.92,
+    "text": "And that's kind of it."
+  },
+  {
+    "start": 3395.32,
+    "duration": 2.48,
+    "text": "Data doesn't sit in our world."
+  },
+  {
+    "start": 3397.84,
+    "duration": 2.64,
+    "text": "Data actually sits in the product team right now."
+  },
+  {
+    "start": 3401.04,
+    "duration": 4.84,
+    "text": "And then we have a BizOps function that is kind of like a BizOps"
+  },
+  {
+    "start": 3405.88,
+    "duration": 2.04,
+    "text": "GTM liaison that sits in finance."
+  },
+  {
+    "start": 3408.8,
+    "duration": 3.32,
+    "text": "And so when it comes to like lead scoring, so figuring out what leads"
+  },
+  {
+    "start": 3412.12,
+    "duration": 3.96,
+    "text": "to route to what people, is that in the data team or is that in systems?"
+  },
+  {
+    "start": 3416.32,
+    "duration": 2.56,
+    "text": "It's in, it's a hybrid right now."
+  },
+  {
+    "start": 3418.92,
+    "duration": 3.0,
+    "text": "So that's what we're actually working on right now, like lead scoring,"
+  },
+  {
+    "start": 3421.92,
+    "duration": 2.72,
+    "text": "the whole PQL intelligence."
+  },
+  {
+    "start": 3424.92,
+    "duration": 2.16,
+    "text": "So I think that'll touch multiple people, right?"
+  },
+  {
+    "start": 3427.08,
+    "duration": 1.24,
+    "text": "That'll touch data."
+  },
+  {
+    "start": 3428.6,
+    "duration": 4.6,
+    "text": "It'll touch marketing and it'll touch systems as well as our BDR team."
+  },
+  {
+    "start": 3433.64,
+    "duration": 0.28,
+    "text": "Right."
+  },
+  {
+    "start": 3434.0,
+    "duration": 1.72,
+    "text": "So it'll touch a bunch of different people there."
+  },
+  {
+    "start": 3436.0,
+    "duration": 3.52,
+    "text": "And that type of initiative is run out of the data team that's under product?"
+  },
+  {
+    "start": 3439.56,
+    "duration": 2.04,
+    "text": "No, like the whole lead routing thing."
+  },
+  {
+    "start": 3442.28,
+    "duration": 3.52,
+    "text": "We in GTX in collaboration with marketing would kind"
+  },
+  {
+    "start": 3445.8,
+    "duration": 1.56,
+    "text": "of run that initiative out."
+  },
+  {
+    "start": 3447.68,
+    "duration": 4.48,
+    "text": "It's, it's funny how much these, how much overlap there is between these roles."
+  },
+  {
+    "start": 3452.24,
+    "duration": 0.36,
+    "text": "Oh yeah."
+  },
+  {
+    "start": 3452.96,
+    "duration": 1.12,
+    "text": "How fuzzy it gets."
+  },
+  {
+    "start": 3454.08,
+    "duration": 4.28,
+    "text": "Cause especially now that the technical barriers are so low, you know, like"
+  },
+  {
+    "start": 3458.36,
+    "duration": 3.0,
+    "text": "you don't really need it to call in a technical person from some"
+  },
+  {
+    "start": 3461.36,
+    "duration": 1.16,
+    "text": "other team to build something."
+  },
+  {
+    "start": 3462.52,
+    "duration": 3.32,
+    "text": "So like who owns that today is, is a big question."
+  },
+  {
+    "start": 3466.28,
+    "duration": 2.24,
+    "text": "Do you see the core role of a sales rep changing?"
+  },
+  {
+    "start": 3468.6,
+    "duration": 5.6,
+    "text": "Like, do you think that AI will fundamentally change how things are bought?"
+  },
+  {
+    "start": 3474.2,
+    "duration": 4.32,
+    "text": "Like there's a big question around like, will agents just buy from agents?"
+  },
+  {
+    "start": 3478.64,
+    "duration": 1.08,
+    "text": "I don't think so."
+  },
+  {
+    "start": 3480.08,
+    "duration": 1.28,
+    "text": "No, I don't think so."
+  },
+  {
+    "start": 3481.56,
+    "duration": 7.2,
+    "text": "I, again, like the whole customers doing their own research, making their own"
+  },
+  {
+    "start": 3488.76,
+    "duration": 5.36,
+    "text": "decisions and carrying something on their own, like kind of this self-service motion."
+  },
+  {
+    "start": 3494.64,
+    "duration": 3.28,
+    "text": "Yeah, that is here to stay for sure."
+  },
+  {
+    "start": 3497.92,
+    "duration": 0.32,
+    "text": "Right."
+  },
+  {
+    "start": 3498.24,
+    "duration": 2.84,
+    "text": "And there'll definitely be vehicles for that to happen."
+  },
+  {
+    "start": 3501.12,
+    "duration": 1.12,
+    "text": "I do think that."
+  },
+  {
+    "start": 3502.72,
+    "duration": 7.64,
+    "text": "But I think, you know, the consultative conversation, the relationship building,"
+  },
+  {
+    "start": 3511.6,
+    "duration": 8.28,
+    "text": "all of the things it takes like on classic enterprise to negotiate complex deals"
+  },
+  {
+    "start": 3519.92,
+    "duration": 8.48,
+    "text": "with complex regular customers, you know, in FinServ and CPG and healthcare, that's"
+  },
+  {
+    "start": 3528.4,
+    "duration": 2.28,
+    "text": "not going to be automated with an agent."
+  },
+  {
+    "start": 3530.92,
+    "duration": 2.64,
+    "text": "The sales person's job is changing, right?"
+  },
+  {
+    "start": 3533.56,
+    "duration": 4.04,
+    "text": "Like the amount of research and information gap."
+  },
+  {
+    "start": 3537.84,
+    "duration": 1.48,
+    "text": "I mean, that's all automated."
+  },
+  {
+    "start": 3539.32,
+    "duration": 6.48,
+    "text": "So I think they can now spend their time in front of customers where they should be"
+  },
+  {
+    "start": 3546.32,
+    "duration": 4.16,
+    "text": "versus doing the back office crap, you know, the teams we've managed in our"
+  },
+  {
+    "start": 3550.48,
+    "duration": 5.36,
+    "text": "previous lives, like Salesforce hygiene and people spending more than half their"
+  },
+  {
+    "start": 3555.84,
+    "duration": 1.8,
+    "text": "week updating Salesforce."
+  },
+  {
+    "start": 3558.08,
+    "duration": 2.68,
+    "text": "And those days are gone, right?"
+  },
+  {
+    "start": 3560.8,
+    "duration": 1.6,
+    "text": "Those days are gone."
+  },
+  {
+    "start": 3562.56,
+    "duration": 4.76,
+    "text": "Like you can utilize a lot of automation to get and do all of that for you if you do"
+  },
+  {
+    "start": 3567.32,
+    "duration": 0.6,
+    "text": "it properly."
+  },
+  {
+    "start": 3568.4,
+    "duration": 2.2,
+    "text": "It already seems crazy that we did it."
+  },
+  {
+    "start": 3571.12,
+    "duration": 0.2,
+    "text": "Yeah."
+  },
+  {
+    "start": 3572.0,
+    "duration": 5.4,
+    "text": "It's funny how much things change in such a short amount of time."
+  },
+  {
+    "start": 3577.76,
+    "duration": 6.92,
+    "text": "Like it seems insane now to think about how much time people spent building a lead"
+  },
+  {
+    "start": 3584.8,
+    "duration": 6.8,
+    "text": "list to call and updating their next steps and moving stuff around in a dashboard."
+  },
+  {
+    "start": 3592.04,
+    "duration": 3.16,
+    "text": "It's a really crazy concept."
+  },
+  {
+    "start": 3595.92,
+    "duration": 0.32,
+    "text": "Okay."
+  },
+  {
+    "start": 3596.32,
+    "duration": 4.6,
+    "text": "I want to hop into the quickfire before we wrap."
+  },
+  {
+    "start": 3600.96,
+    "duration": 5.16,
+    "text": "So what do you think separates a good CRO from a truly great one?"
+  },
+  {
+    "start": 3606.88,
+    "duration": 1.68,
+    "text": "Customer first mindset, right?"
+  },
+  {
+    "start": 3609.88,
+    "duration": 1.88,
+    "text": "Customer facing, lead by example."
+  },
+  {
+    "start": 3612.28,
+    "duration": 2.96,
+    "text": "Don't ask people to go do something you're not going to go do yourself."
+  },
+  {
+    "start": 3615.56,
+    "duration": 1.84,
+    "text": "As a CRO, you're not just running sales."
+  },
+  {
+    "start": 3618.0,
+    "duration": 3.16,
+    "text": "You're managing the entire life cycle from start all the way to finish of how"
+  },
+  {
+    "start": 3621.16,
+    "duration": 3.72,
+    "text": "people get at the door and how they kind of hear about your company from the very"
+  },
+  {
+    "start": 3624.88,
+    "duration": 3.44,
+    "text": "first gate and then how they kind of get value out of your product."
+  },
+  {
+    "start": 3628.76,
+    "duration": 3.72,
+    "text": "So looking at that entire landscape and just having to be a point on it and being"
+  },
+  {
+    "start": 3632.48,
+    "duration": 1.96,
+    "text": "front and center, I think that that's what makes the difference."
+  },
+  {
+    "start": 3634.92,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 3636.0,
+    "duration": 2.84,
+    "text": "What's the most common advice you give to like newer leaders?"
+  },
+  {
+    "start": 3638.84,
+    "duration": 3.44,
+    "text": "First time CRO, first time VP of sales, big mandate."
+  },
+  {
+    "start": 3642.6,
+    "duration": 1.76,
+    "text": "What's the advice you give to those folks?"
+  },
+  {
+    "start": 3645.64,
+    "duration": 8.16,
+    "text": "So the ability to scale down irrespective of your title and irrespective of your"
+  },
+  {
+    "start": 3653.8,
+    "duration": 5.12,
+    "text": "remit is extremely important, especially when I hire leaders like the two leaders"
+  },
+  {
+    "start": 3658.92,
+    "duration": 4.48,
+    "text": "that I hired, that was a very direct conversation with them is, yes, you're"
+  },
+  {
+    "start": 3663.4,
+    "duration": 2.92,
+    "text": "going to have a big team and you're going to have, you know, layers of"
+  },
+  {
+    "start": 3666.32,
+    "duration": 1.24,
+    "text": "management eventually as well."
+  },
+  {
+    "start": 3667.56,
+    "duration": 2.32,
+    "text": "But when you first come in, you got to get your hands dirty."
+  },
+  {
+    "start": 3670.48,
+    "duration": 3.32,
+    "text": "You got to get your hands dirty and you got to get in the weeds and you need to"
+  },
+  {
+    "start": 3673.8,
+    "duration": 2.36,
+    "text": "kind of understand how things are kind of operating there."
+  },
+  {
+    "start": 3676.72,
+    "duration": 3.32,
+    "text": "So that's the piece of advice I give all the leaders coming into my business right"
+  },
+  {
+    "start": 3680.04,
+    "duration": 5.56,
+    "text": "now, going out and doing deals, you know, getting in the trenches of the reps."
+  },
+  {
+    "start": 3685.88,
+    "duration": 1.64,
+    "text": "That is like table stakes."
+  },
+  {
+    "start": 3687.84,
+    "duration": 6.4,
+    "text": "And we ruled out a lot of candidates in this search that were very credible"
+  },
+  {
+    "start": 3694.4,
+    "duration": 1.04,
+    "text": "executives, right?"
+  },
+  {
+    "start": 3695.44,
+    "duration": 2.28,
+    "text": "Very credible seasoned executives."
+  },
+  {
+    "start": 3698.08,
+    "duration": 3.12,
+    "text": "But I, you know, questioned whether they could scale down."
+  },
+  {
+    "start": 3701.8,
+    "duration": 3.8,
+    "text": "I think that it's way more important in this AI world where things are changing"
+  },
+  {
+    "start": 3705.6,
+    "duration": 6.2,
+    "text": "so fast, like you, you can't rely on, you know, working a couple of deals when"
+  },
+  {
+    "start": 3711.8,
+    "duration": 4.6,
+    "text": "you were a manager 18 months ago to apply today, just cause like everything's"
+  },
+  {
+    "start": 3716.4,
+    "duration": 1.48,
+    "text": "different, everything's different."
+  },
+  {
+    "start": 3718.16,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 3718.6,
+    "duration": 1.04,
+    "text": "Everything is totally different."
+  },
+  {
+    "start": 3719.84,
+    "duration": 4.4,
+    "text": "It's, you know, the way we price, the way customers buy, how they evaluate."
+  },
+  {
+    "start": 3724.4,
+    "duration": 1.52,
+    "text": "I mean, it's totally different."
+  },
+  {
+    "start": 3726.32,
+    "duration": 2.56,
+    "text": "What's the hardest lesson you've had to learn in your career?"
+  },
+  {
+    "start": 3729.48,
+    "duration": 1.32,
+    "text": "God, hardest lesson."
+  },
+  {
+    "start": 3732.08,
+    "duration": 6.52,
+    "text": "You know, the hardest lesson, I mean, I had one company where, um, it was my one"
+  },
+  {
+    "start": 3738.6,
+    "duration": 4.32,
+    "text": "and only from a career perspective, the wrong decision was, you know, vetting"
+  },
+  {
+    "start": 3742.92,
+    "duration": 6.64,
+    "text": "the company, vetting the founder, vetting the CEO, you know, doing it in a diligent"
+  },
+  {
+    "start": 3749.56,
+    "duration": 1.32,
+    "text": "way, right?"
+  },
+  {
+    "start": 3751.04,
+    "duration": 6.36,
+    "text": "I think that, that is, you know, just like how people interview us, we got to go do"
+  },
+  {
+    "start": 3757.64,
+    "duration": 4.2,
+    "text": "interview them and do the back, do the back channels on them because these are"
+  },
+  {
+    "start": 3761.84,
+    "duration": 2.76,
+    "text": "the people you're going to be working with alongside, right?"
+  },
+  {
+    "start": 3764.68,
+    "duration": 5.24,
+    "text": "The, for a very, very long period of time, I had one, like I said, misstep in my 30"
+  },
+  {
+    "start": 3769.92,
+    "duration": 2.76,
+    "text": "years, and I think I can take a single bogey, which is fine."
+  },
+  {
+    "start": 3773.08,
+    "duration": 1.92,
+    "text": "Um, but that was a learning lesson for me."
+  },
+  {
+    "start": 3775.64,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 3776.2,
+    "duration": 4.04,
+    "text": "I'm making sure that I double click just as much as people are double clicking on"
+  },
+  {
+    "start": 3780.24,
+    "duration": 0.28,
+    "text": "me."
+  },
+  {
+    "start": 3781.0,
+    "duration": 3.48,
+    "text": "I'm, I'm double clicking on them before I actually make a decision."
+  },
+  {
+    "start": 3785.12,
+    "duration": 1.96,
+    "text": "You only need to learn that less, less than once."
+  },
+  {
+    "start": 3787.2,
+    "duration": 0.36,
+    "text": "That's right."
+  },
+  {
+    "start": 3787.8,
+    "duration": 0.28,
+    "text": "Yeah."
+  },
+  {
+    "start": 3788.2,
+    "duration": 0.6,
+    "text": "One time only."
+  },
+  {
+    "start": 3789.0,
+    "duration": 0.2,
+    "text": "Yeah."
+  },
+  {
+    "start": 3789.8,
+    "duration": 2.84,
+    "text": "Then you start to, uh, do a different level of diligence."
+  },
+  {
+    "start": 3792.88,
+    "duration": 0.68,
+    "text": "Last question."
+  },
+  {
+    "start": 3793.6,
+    "duration": 3.16,
+    "text": "What's the best thing you've read in the last 12 months?"
+  },
+  {
+    "start": 3797.08,
+    "duration": 1.92,
+    "text": "I'm a avid pilot."
+  },
+  {
+    "start": 3799.12,
+    "duration": 6.16,
+    "text": "Um, in my personal life, I've been flying for 26 years as a hobby and I do a lot of"
+  },
+  {
+    "start": 3805.28,
+    "duration": 3.64,
+    "text": "nonprofit flying these days where I do with Angel Flight West."
+  },
+  {
+    "start": 3809.36,
+    "duration": 7.0,
+    "text": "But the biggest thing I'm reading right now is the hourly cost of operating planes"
+  },
+  {
+    "start": 3816.4,
+    "duration": 7.12,
+    "text": "and whether I'm better off in flying out of my co-op where I share my plane or"
+  },
+  {
+    "start": 3823.52,
+    "duration": 4.36,
+    "text": "whether I'm better off having my own and what the math and the unit economics tell"
+  },
+  {
+    "start": 3827.88,
+    "duration": 0.12,
+    "text": "me."
+  },
+  {
+    "start": 3828.0,
+    "duration": 5.04,
+    "text": "And there's a whole, there's a whole process and a book and a methodology that"
+  },
+  {
+    "start": 3833.32,
+    "duration": 3.52,
+    "text": "allows you to go do that because it's, it's the, they call it the total weighted"
+  },
+  {
+    "start": 3836.84,
+    "duration": 1.52,
+    "text": "hourly cost of flying."
+  },
+  {
+    "start": 3838.8,
+    "duration": 4.88,
+    "text": "Um, and it goes everything from fuel to hanger costs to pilots and whatever."
+  },
+  {
+    "start": 3843.72,
+    "duration": 4.88,
+    "text": "So anyways, I'm reading a bunch of books that are online publications to help me"
+  },
+  {
+    "start": 3849.32,
+    "duration": 1.84,
+    "text": "decipher that in my, uh, program."
+  },
+  {
+    "start": 3851.16,
+    "duration": 0.4,
+    "text": "Very cool."
+  },
+  {
+    "start": 3852.04,
+    "duration": 4.0,
+    "text": "This, that is a very niche, uh, answer and one that I probably won't hear again."
+  },
+  {
+    "start": 3856.4,
+    "duration": 1.32,
+    "text": "So it's, that's good."
+  },
+  {
+    "start": 3858.52,
+    "duration": 1.52,
+    "text": "Gazi, this was a ton of fun."
+  },
+  {
+    "start": 3860.6,
+    "duration": 5.28,
+    "text": "It's really cool to hear about the journey you're on and just like, it's so unique"
+  },
+  {
+    "start": 3865.88,
+    "duration": 0.8,
+    "text": "in so many ways."
+  },
+  {
+    "start": 3866.68,
+    "duration": 4.6,
+    "text": "So it's fun, fun to unpack it and hear some of the very like different approaches"
+  },
+  {
+    "start": 3871.28,
+    "duration": 1.32,
+    "text": "that, that you're taking."
+  },
+  {
+    "start": 3872.68,
+    "duration": 1.52,
+    "text": "And this was a blast and I appreciate you joining."
+  },
+  {
+    "start": 3874.48,
+    "duration": 1.04,
+    "text": "Yeah, no, I appreciate it."
+  },
+  {
+    "start": 3875.52,
+    "duration": 0.8,
+    "text": "Thanks for having me on."
+  },
+  {
+    "start": 3878.12,
+    "duration": 2.68,
+    "text": "Thank you for listening to the revenue leadership podcast."
+  },
+  {
+    "start": 3880.92,
+    "duration": 3.88,
+    "text": "If you enjoyed it, don't forget to subscribe and you can find a link in the show"
+  },
+  {
+    "start": 3884.8,
+    "duration": 4.92,
+    "text": "notes and be sure to leave a five star review, share it with your network and"
+  },
+  {
+    "start": 3889.72,
+    "duration": 3.0,
+    "text": "please join me next Wednesday for another great conversation."
+  }
+]

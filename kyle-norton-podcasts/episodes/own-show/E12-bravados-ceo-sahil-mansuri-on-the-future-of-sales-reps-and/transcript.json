@@ -1,0 +1,4297 @@
+[
+  {
+    "start": 0.0,
+    "duration": 10.48,
+    "text": "Kyle and I were talking about how Kyle is the CMO over at Copy.ai and his perspective as we"
+  },
+  {
+    "start": 10.48,
+    "duration": 5.2,
+    "text": "were discussing was that he's getting on a lot more sales calls than he ever had and as a CMO"
+  },
+  {
+    "start": 15.68,
+    "duration": 5.68,
+    "text": "he was finding that he was talking a lot in the middle of sales calls and like his gong stats"
+  },
+  {
+    "start": 21.36,
+    "duration": 4.56,
+    "text": "were off and his sales team was like, hey dude you're like talking way too much on all these"
+  },
+  {
+    "start": 25.92,
+    "duration": 6.96,
+    "text": "deals and the thing that I said to Kyle was that there's two ways, there's like two main playbooks"
+  },
+  {
+    "start": 32.88,
+    "duration": 7.12,
+    "text": "that exist in how you close a deal. The traditional path is basically the QSR, quick start path,"
+  },
+  {
+    "start": 40.56,
+    "duration": 4.64,
+    "text": "you know your Panera bread, your McDonald's, your assembly line where you're getting a consistent"
+  },
+  {
+    "start": 45.2,
+    "duration": 6.0,
+    "text": "experience no matter which branch you go into, which franchise you walk into. If you order your"
+  },
+  {
+    "start": 51.2,
+    "duration": 4.8,
+    "text": "tomato soup and green salad from Panera in Brooklyn or if you order it from the one in"
+  },
+  {
+    "start": 56.0,
+    "duration": 4.96,
+    "text": "San Francisco or the one in Kansas City, it's going to be the exact same meal every single time"
+  },
+  {
+    "start": 61.6,
+    "duration": 6.24,
+    "text": "and there you're focused on repeatability, scalability, quality control and ultimately"
+  },
+  {
+    "start": 67.84,
+    "duration": 5.76,
+    "text": "delivering kind of the minimum viable experience of what a tomato soup or what a quarter pounder"
+  },
+  {
+    "start": 73.6,
+    "duration": 6.96,
+    "text": "of cheese can look like and you compare that to the Michelin star experience where you can walk"
+  },
+  {
+    "start": 80.56,
+    "duration": 8.96,
+    "text": "into the same restaurant two days apart, see the exact same menu item, tomato soup at the French"
+  },
+  {
+    "start": 89.52,
+    "duration": 6.0,
+    "text": "Laundry and one day it might be a gazpacho and the other day it might be like some French onion"
+  },
+  {
+    "start": 95.52,
+    "duration": 6.56,
+    "text": "combination thing because the chef walks into the market and basically looks at what's the"
+  },
+  {
+    "start": 102.08,
+    "duration": 5.76,
+    "text": "best produce, the best ingredients that day and is curating and creating a custom experience for you"
+  },
+  {
+    "start": 108.8,
+    "duration": 7.36,
+    "text": "and the best salespeople I know are Michelin star chefs, not QSR chefs."
+  },
+  {
+    "start": 121.68,
+    "duration": 5.84,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline. I'm your host, Kyle Norton,"
+  },
+  {
+    "start": 127.52,
+    "duration": 7.44,
+    "text": "CRO at Owner.com and every Wednesday, we dive deep into the strategies and tactics being used"
+  },
+  {
+    "start": 135.04,
+    "duration": 6.16,
+    "text": "to drive success by the best revenue leaders in the world. So join me as I sit down with revenue"
+  },
+  {
+    "start": 141.2,
+    "duration": 4.32,
+    "text": "operators to discuss actionable frameworks that you can implement in your business today"
+  },
+  {
+    "start": 146.08,
+    "duration": 6.56,
+    "text": "with no fluff, no sales pitches and no platitudes. But first, a word from our sponsors."
+  },
+  {
+    "start": 158.64,
+    "duration": 4.0,
+    "text": "This episode of the Revenue Leadership Podcast is brought to you by Superhuman."
+  },
+  {
+    "start": 162.64,
+    "duration": 5.52,
+    "text": "Superhuman for sales is an email app designed specifically to better manage email, to respond,"
+  },
+  {
+    "start": 168.16,
+    "duration": 5.12,
+    "text": "collaborate and close faster. With Superhuman for sales, reps can filter out distractions,"
+  },
+  {
+    "start": 173.28,
+    "duration": 4.16,
+    "text": "bubble up priority emails and unblock deals with collaborative workflows."
+  },
+  {
+    "start": 177.44,
+    "duration": 7.28,
+    "text": "You can learn more at superhuman.com. Today's guest is Sohail Mansuri, who is the founder and"
+  },
+  {
+    "start": 184.72,
+    "duration": 4.4,
+    "text": "CEO of Bravado, which he's been running and operating for the last seven years. He was a"
+  },
+  {
+    "start": 189.12,
+    "duration": 5.04,
+    "text": "longtime high-performing rep, high-performing sales leader before that, so has a lot of"
+  },
+  {
+    "start": 194.16,
+    "duration": 7.68,
+    "text": "credibility in the community. And Bravado is the single largest community of sales reps out there."
+  },
+  {
+    "start": 201.84,
+    "duration": 6.64,
+    "text": "It is the marquee number one resource across tech sellers with over 500,000 members."
+  },
+  {
+    "start": 209.12,
+    "duration": 4.08,
+    "text": "And so we are going to dive into a little bit of the state of the market today. We're going to talk"
+  },
+  {
+    "start": 213.2,
+    "duration": 6.56,
+    "text": "about what revenue leaders need to understand about the sales rep with Sohail as one of the"
+  },
+  {
+    "start": 219.76,
+    "duration": 5.2,
+    "text": "most credible people to speak on behalf of reps everywhere. So appreciate you joining, man. Thanks"
+  },
+  {
+    "start": 224.96,
+    "duration": 6.16,
+    "text": "for coming on. Yeah, man. Thank you so much for having me and great topic. Excited to dive in."
+  },
+  {
+    "start": 231.76,
+    "duration": 6.16,
+    "text": "Nice. So give people a little bit of your background, the short version,"
+  },
+  {
+    "start": 237.92,
+    "duration": 4.32,
+    "text": "so they know where you're coming from. Yeah. I mean, I spent my whole career in sales."
+  },
+  {
+    "start": 242.24,
+    "duration": 6.24,
+    "text": "Kind of what you need to know. I started out on the Obama campaign in 2007 doing phone banking,"
+  },
+  {
+    "start": 248.48,
+    "duration": 6.16,
+    "text": "fundraising, advance, knocking on doors, getting lawn signs up. And we didn't call it sales. We"
+  },
+  {
+    "start": 254.64,
+    "duration": 5.52,
+    "text": "called it getting the vote out. Sure to God, it looked a lot like sales. And I've been doing it"
+  },
+  {
+    "start": 260.16,
+    "duration": 8.24,
+    "text": "now for 17 years across being a rep, being a VP of sales, being CRO, and then founding Bravado"
+  },
+  {
+    "start": 268.4,
+    "duration": 5.76,
+    "text": "seven years ago. And my perspective is that I love sales. I think it's the greatest job in the"
+  },
+  {
+    "start": 274.16,
+    "duration": 4.8,
+    "text": "world. I love to sell. My sales team has to kick me out of sales calls all the time because"
+  },
+  {
+    "start": 278.96,
+    "duration": 6.64,
+    "text": "they're better than me at it, but I really love to do it. And I just have a deep passion for the"
+  },
+  {
+    "start": 285.6,
+    "duration": 8.4,
+    "text": "profession. I love the people that do the job. I enjoy the craftsmanship of sales a lot, the tactics,"
+  },
+  {
+    "start": 294.08,
+    "duration": 5.28,
+    "text": "the strategy, the people management, and the relationships. And so I'm always excited to"
+  },
+  {
+    "start": 299.36,
+    "duration": 4.96,
+    "text": "talk shop because it's my favorite part of my job. Yeah. And you can tell that. I've listened"
+  },
+  {
+    "start": 304.32,
+    "duration": 6.24,
+    "text": "to a bunch of your pods and read a whole bunch of your content the last week. And the enthusiasm and"
+  },
+  {
+    "start": 310.56,
+    "duration": 8.64,
+    "text": "real excitement for the craft definitely jumps out of the headphones. And you still sell a bunch."
+  },
+  {
+    "start": 319.2,
+    "duration": 5.6,
+    "text": "We were talking at that golf event. You still are in deals like pitching, which I absolutely"
+  },
+  {
+    "start": 324.8,
+    "duration": 5.6,
+    "text": "love. And it's something that is missing in a lot of leaders these days. Well, I think ultimately,"
+  },
+  {
+    "start": 330.4,
+    "duration": 7.2,
+    "text": "a business is measured by a small number of variables. Brian Halligan, the founder of HubSpot,"
+  },
+  {
+    "start": 337.6,
+    "duration": 6.72,
+    "text": "was recently quoted in this article he wrote for Sequoia. He shared his 20... Yeah, you read it."
+  },
+  {
+    "start": 344.32,
+    "duration": 3.52,
+    "text": "And one of the things he talks about is that there's only two things he ever worked on,"
+  },
+  {
+    "start": 347.84,
+    "duration": 4.48,
+    "text": "which were product and sales, product and sales. And I'm exactly the same type of CEO."
+  },
+  {
+    "start": 353.12,
+    "duration": 6.72,
+    "text": "I spend roughly 50% of my brainpower and time working on product and thinking about what we"
+  },
+  {
+    "start": 359.84,
+    "duration": 5.12,
+    "text": "need to build to help sales leaders and sales professionals be more successful in their career."
+  },
+  {
+    "start": 364.96,
+    "duration": 7.84,
+    "text": "And then 50% of my time selling those products to the market. And I love doing it."
+  },
+  {
+    "start": 372.8,
+    "duration": 6.96,
+    "text": "Yeah, yeah. So I want to start with a warm-up question that is not relevant to the topic,"
+  },
+  {
+    "start": 379.76,
+    "duration": 3.68,
+    "text": "but I really wanted to ask you. So I listened to your pod with Kyle Coleman, which was great."
+  },
+  {
+    "start": 384.0,
+    "duration": 6.72,
+    "text": "And you gave one of the most interesting analogies I've heard in a while for the craft of sales. You"
+  },
+  {
+    "start": 390.72,
+    "duration": 5.76,
+    "text": "talked about the difference between the Michelin star experience and the quick serve experience."
+  },
+  {
+    "start": 396.48,
+    "duration": 4.72,
+    "text": "And maybe just explain to people what you meant by that and the advice you were trying to give"
+  },
+  {
+    "start": 401.76,
+    "duration": 5.68,
+    "text": "to professional sellers. And then I have a couple questions about unpacking that."
+  },
+  {
+    "start": 408.16,
+    "duration": 12.08,
+    "text": "Sure. So Kyle and I were talking about how Kyle is the CMO over at Copy.ai. And his perspective,"
+  },
+  {
+    "start": 420.24,
+    "duration": 5.44,
+    "text": "as we were discussing, was that he's getting a lot more sales calls than he ever had. And as a CMO,"
+  },
+  {
+    "start": 425.68,
+    "duration": 6.16,
+    "text": "he was finding that he was talking a lot in the middle of sales calls. And his gong stats were off"
+  },
+  {
+    "start": 431.84,
+    "duration": 4.48,
+    "text": "and his sales team was like, hey, dude, you're talking way too much on all these deals."
+  },
+  {
+    "start": 436.88,
+    "duration": 6.88,
+    "text": "And the thing that I said to Kyle was that there's two main playbooks that exist in how"
+  },
+  {
+    "start": 443.76,
+    "duration": 6.24,
+    "text": "you close a deal. The traditional path is basically the QSR, quick serve path,"
+  },
+  {
+    "start": 450.8,
+    "duration": 4.4,
+    "text": "your Panera Bread, your McDonald's, your assembly line, where you're getting a consistent"
+  },
+  {
+    "start": 455.28,
+    "duration": 5.12,
+    "text": "experience no matter which branch you go into, which franchise you walk into."
+  },
+  {
+    "start": 460.4,
+    "duration": 5.28,
+    "text": "If you order your tomato soup and green salad from Panera in Brooklyn, or if you order it from"
+  },
+  {
+    "start": 465.68,
+    "duration": 4.72,
+    "text": "the one in San Francisco or the one in Kansas City, it's going to be the exact same meal every"
+  },
+  {
+    "start": 470.4,
+    "duration": 6.24,
+    "text": "single time. And there you're focused on repeatability, scalability, quality control,"
+  },
+  {
+    "start": 476.64,
+    "duration": 6.4,
+    "text": "and ultimately delivering the minimum viable experience of what a tomato soup or what a"
+  },
+  {
+    "start": 483.04,
+    "duration": 6.8,
+    "text": "quarter pounder of cheese can look like. And you compare that to the Michelin star experience where"
+  },
+  {
+    "start": 489.84,
+    "duration": 8.4,
+    "text": "you can walk into the same restaurant two days apart, see the exact same menu item, tomato soup,"
+  },
+  {
+    "start": 498.88,
+    "duration": 5.76,
+    "text": "at the French Laundry, and one day it might be a gazpacho and the other day it might be like some"
+  },
+  {
+    "start": 504.64,
+    "duration": 7.12,
+    "text": "French onion combination thing because the chef walks into the market and basically looks at"
+  },
+  {
+    "start": 511.76,
+    "duration": 5.12,
+    "text": "what's the best produce, the best ingredients that day, and is curating and creating a custom"
+  },
+  {
+    "start": 516.88,
+    "duration": 9.36,
+    "text": "experience for you. And the best salespeople I know are Michelin star chefs, not QSR chefs."
+  },
+  {
+    "start": 527.52,
+    "duration": 7.12,
+    "text": "They are not following a playbook with every deal because they've elevated beyond that. That's not"
+  },
+  {
+    "start": 534.64,
+    "duration": 5.44,
+    "text": "to say they don't know the playbook. You can't be a chef at the French Laundry if you"
+  },
+  {
+    "start": 540.08,
+    "duration": 5.2,
+    "text": "can't deliver a consistent burger every single day. That's a fundamental. I'm not talking about"
+  },
+  {
+    "start": 545.28,
+    "duration": 4.56,
+    "text": "ignoring the rules because you can't follow them. I'm talking about someone who knows what the rules"
+  },
+  {
+    "start": 549.84,
+    "duration": 5.36,
+    "text": "are, but then is able to add something extra, something special, something unique, which is"
+  },
+  {
+    "start": 555.2,
+    "duration": 8.32,
+    "text": "their own flavor, their own touch. And I think that it's lost in the art of sales, this enterprise"
+  },
+  {
+    "start": 563.52,
+    "duration": 10.24,
+    "text": "rep, this creative rep, who finds extremely unique ways to engage customers, who does things"
+  },
+  {
+    "start": 573.76,
+    "duration": 8.48,
+    "text": "in a non-traditional way because they have such a deep passion, understanding, skill set in sales"
+  },
+  {
+    "start": 582.24,
+    "duration": 4.08,
+    "text": "that they're able to do things that no other rep could do and get away with and still close deals."
+  },
+  {
+    "start": 586.32,
+    "duration": 5.68,
+    "text": "So that's what I was referencing. And they have some superpower like Kyle being the customer and"
+  },
+  {
+    "start": 592.0,
+    "duration": 6.88,
+    "text": "being so deeply entrenched in the product that the typical guidance around talk-listen ratio is"
+  },
+  {
+    "start": 598.88,
+    "duration": 7.04,
+    "text": "not relevant for him because his talking is so much more valuable than an average three or four"
+  },
+  {
+    "start": 605.92,
+    "duration": 10.96,
+    "text": "year tenure AE. And so my question was, how do you scale it? As revenue leaders, I didn't disagree"
+  },
+  {
+    "start": 617.2,
+    "duration": 4.56,
+    "text": "with the point at all. And I thought it was a good distinction that I'm going to borrow."
+  },
+  {
+    "start": 621.76,
+    "duration": 4.4,
+    "text": "But how, as leaders, should we think about scaling? We need to be able to hire"
+  },
+  {
+    "start": 626.96,
+    "duration": 3.76,
+    "text": "certain amounts of reps and ramp them to productivity and you can't hire... There's"
+  },
+  {
+    "start": 630.72,
+    "duration": 5.84,
+    "text": "not enough Michelin star reps out there at all of the different price points that people need"
+  },
+  {
+    "start": 636.56,
+    "duration": 6.56,
+    "text": "to hire at. So how do you think about giving advice to revenue leaders? This is how you"
+  },
+  {
+    "start": 643.68,
+    "duration": 5.44,
+    "text": "train to a QSR playbook. This is where you allow the Michelin star experience to certain"
+  },
+  {
+    "start": 649.12,
+    "duration": 3.52,
+    "text": "sellers. How do you think about scalability? That's the thing I didn't understand."
+  },
+  {
+    "start": 653.44,
+    "duration": 4.96,
+    "text": "It's a great question. And the truth is you don't scale a Michelin star restaurant. There's not 50"
+  },
+  {
+    "start": 658.4,
+    "duration": 4.64,
+    "text": "French laundries all over the country. There's one. There's one French laundry and you got to"
+  },
+  {
+    "start": 663.04,
+    "duration": 3.84,
+    "text": "wait six months in order to get a reservation there and still fight tooth and nail in order"
+  },
+  {
+    "start": 666.88,
+    "duration": 4.88,
+    "text": "to do so. The Michelin star experience doesn't scale. But the Michelin star experience isn't"
+  },
+  {
+    "start": 671.76,
+    "duration": 5.92,
+    "text": "for the same customer that's going to Panera Bread. And so that's ultimately the point of"
+  },
+  {
+    "start": 677.68,
+    "duration": 6.48,
+    "text": "distinction. I think if you're running an SMB mid-market motion, if your ASP is 50k or below,"
+  },
+  {
+    "start": 684.16,
+    "duration": 6.56,
+    "text": "you have to build a QSR experience. You can't build a team that is able to deliver a Michelin"
+  },
+  {
+    "start": 690.72,
+    "duration": 4.08,
+    "text": "star experience because of the velocity of deal, number of deals you need to close,"
+  },
+  {
+    "start": 694.8,
+    "duration": 4.4,
+    "text": "price point at which you're hiring, skill set that you're going to be able to bring people into."
+  },
+  {
+    "start": 699.28,
+    "duration": 5.28,
+    "text": "All of which is not to say, by the way, that you can't be a genius at sales and not have a ton of"
+  },
+  {
+    "start": 704.56,
+    "duration": 4.64,
+    "text": "experience. I know plenty of people who literally like walk in and within six months, 12 months,"
+  },
+  {
+    "start": 709.2,
+    "duration": 6.88,
+    "text": "you realize that they're so special that they deserve this accelerated opportunity that others"
+  },
+  {
+    "start": 716.08,
+    "duration": 8.4,
+    "text": "don't. I certainly don't mean to be gatekeeping. But what I mean to say is that if you are selling"
+  },
+  {
+    "start": 724.48,
+    "duration": 6.88,
+    "text": "a enterprise product, if you have, let's say there's 20,000 potential customers that you can"
+  },
+  {
+    "start": 731.36,
+    "duration": 4.8,
+    "text": "sell to, and then there's like the top 50 of those clients, the top hundred of those clients."
+  },
+  {
+    "start": 737.12,
+    "duration": 4.64,
+    "text": "For those people, I think it's worth it to try to create the Michelin star experience. I think"
+  },
+  {
+    "start": 742.4,
+    "duration": 7.6,
+    "text": "ABM was kind of a nod to doing that in some ways. It was kind of that. It was this idea of like,"
+  },
+  {
+    "start": 750.0,
+    "duration": 4.64,
+    "text": "okay, if there were only 20 deals we could close this quarter, typically again, for a more"
+  },
+  {
+    "start": 754.64,
+    "duration": 7.2,
+    "text": "enterprise or strat type motion, what would they be? And then how do we just go way above and beyond"
+  },
+  {
+    "start": 761.84,
+    "duration": 5.52,
+    "text": "for these 20 logos, these 20 accounts, because they're worth so much to us as a business."
+  },
+  {
+    "start": 767.36,
+    "duration": 7.12,
+    "text": "And I think when the opportunity comes to pitch that client, it's worth it to think outside of"
+  },
+  {
+    "start": 774.48,
+    "duration": 4.8,
+    "text": "your QSR assembly line of what the standard sales process of owner or another company looks like."
+  },
+  {
+    "start": 779.28,
+    "duration": 10.16,
+    "text": "And instead say, okay, well, what do we do that is going to change the perspective of this customer"
+  },
+  {
+    "start": 789.44,
+    "duration": 4.72,
+    "text": "internally and through their business. And that's going to wow them to such a way that they view us"
+  },
+  {
+    "start": 794.16,
+    "duration": 4.16,
+    "text": "as like a partner and a consultant that they have to work with, not as a software vendor that they"
+  },
+  {
+    "start": 798.32,
+    "duration": 9.28,
+    "text": "need to buy. Yeah. Okay. I like that. Or it's graduating people through your QSR experience,"
+  },
+  {
+    "start": 807.6,
+    "duration": 4.96,
+    "text": "teaching them how to julienne an onion and then giving them more latitude to maybe color"
+  },
+  {
+    "start": 812.56,
+    "duration": 9.04,
+    "text": "outside the lines. Katie says like imitate, then innovate, which I like. That's really good. Katie"
+  },
+  {
+    "start": 821.6,
+    "duration": 8.16,
+    "text": "is pithy like that. Very. Again, talk about calories per word. He's pretty good at that."
+  },
+  {
+    "start": 829.76,
+    "duration": 3.52,
+    "text": "I like that. Yeah. We caught up this morning on some stuff and every time I'm like,"
+  },
+  {
+    "start": 834.0,
+    "duration": 5.52,
+    "text": "man, I got a lot smarter the last 30 minutes. So, all right, let's jump into our big topic."
+  },
+  {
+    "start": 839.52,
+    "duration": 4.96,
+    "text": "So there's two things we want to touch on. One is like a state of the market, because I think"
+  },
+  {
+    "start": 845.84,
+    "duration": 4.96,
+    "text": "things are so different today and you are running a business, you're investing in advising,"
+  },
+  {
+    "start": 850.8,
+    "duration": 5.6,
+    "text": "you see all of this amazing sales rep data quota attainment. So I want to first talk about"
+  },
+  {
+    "start": 856.4,
+    "duration": 4.72,
+    "text": "like the macro picture and you can give your opinion from your unique perspective."
+  },
+  {
+    "start": 861.12,
+    "duration": 5.6,
+    "text": "Then I want to dig into the state of the rep. Like what do leaders need to know about"
+  },
+  {
+    "start": 866.72,
+    "duration": 7.6,
+    "text": "the rep today in order to hire and retain awesome talent? So topic one, are we so back?"
+  },
+  {
+    "start": 876.08,
+    "duration": 5.44,
+    "text": "And I would love, I personally see, I'm seeing so many more exciting deals today"
+  },
+  {
+    "start": 881.52,
+    "duration": 3.92,
+    "text": "and companies that are growing really, really fast that the narrative that"
+  },
+  {
+    "start": 886.0,
+    "duration": 4.08,
+    "text": "like we're in some tech recession doesn't seem as relevant. But like what are you seeing on your"
+  },
+  {
+    "start": 890.08,
+    "duration": 6.32,
+    "text": "side? Yeah. So let's start with some data and then I'll give you my perspective because I think"
+  },
+  {
+    "start": 896.4,
+    "duration": 4.08,
+    "text": "it's, you know, rather than just come out and say what I think, I think it's helpful to give you"
+  },
+  {
+    "start": 900.48,
+    "duration": 4.96,
+    "text": "some information or give the audience some information that I'm privy to, which makes"
+  },
+  {
+    "start": 905.44,
+    "duration": 6.48,
+    "text": "making calls like this pretty easy. So on Bravado, there's a product that we have called The Portfolio,"
+  },
+  {
+    "start": 911.92,
+    "duration": 6.64,
+    "text": "which is similar to Strava or Mint.com, but instead of being for fitness and finance,"
+  },
+  {
+    "start": 918.56,
+    "duration": 4.72,
+    "text": "it's for your sales stats. So every month or every quarter you go in and update what percent"
+  },
+  {
+    "start": 923.28,
+    "duration": 4.0,
+    "text": "of quota you just hit, what deals you closed, what was your ranking on the sales team, what percentage"
+  },
+  {
+    "start": 927.28,
+    "duration": 4.8,
+    "text": "of your team hit quota. And the purpose of this is building kind of a digital brag book, a digital"
+  },
+  {
+    "start": 932.08,
+    "duration": 6.16,
+    "text": "repository of your work over time. It allows you to look back and see, hey, you know, last year or two"
+  },
+  {
+    "start": 938.24,
+    "duration": 4.48,
+    "text": "years ago, this was my average deal size, but it's actually gone up or maybe my deal velocities"
+  },
+  {
+    "start": 942.72,
+    "duration": 5.04,
+    "text": "increased. Maybe the logos I closed have gotten bigger. It also gives you benchmarks. So it lets"
+  },
+  {
+    "start": 947.76,
+    "duration": 6.8,
+    "text": "you look at like a very helpful perspective. You know, last year in 23 was that if you hit 71%"
+  },
+  {
+    "start": 954.56,
+    "duration": 7.68,
+    "text": "of quota last year in 2023, you actually were in the top 15% of sales reps in the United States."
+  },
+  {
+    "start": 962.24,
+    "duration": 9.6,
+    "text": "And because the average sales rep hit 42% of quota last year. So 71% was actually a standard"
+  },
+  {
+    "start": 971.84,
+    "duration": 5.44,
+    "text": "deviation or two above what the average salesperson hit last year. And obviously we saw"
+  },
+  {
+    "start": 977.28,
+    "duration": 5.52,
+    "text": "the ramifications of that take place in terms of layoffs and shutting down and a lot of, you know,"
+  },
+  {
+    "start": 982.8,
+    "duration": 6.56,
+    "text": "kind of recessionary activities. And so again, from an individual rep perspective, it's a tool"
+  },
+  {
+    "start": 989.36,
+    "duration": 6.32,
+    "text": "that does that. Now, from a global perspective, that means that we on Bravado get a real time pulse"
+  },
+  {
+    "start": 995.68,
+    "duration": 4.56,
+    "text": "on what's happening with quota attainment, both from an individual rep perspective, as well as"
+  },
+  {
+    "start": 1000.24,
+    "duration": 5.36,
+    "text": "from a team perspective on a monthly and quarterly basis. So I'm going to share some stats with you"
+  },
+  {
+    "start": 1005.6,
+    "duration": 6.72,
+    "text": "to explain the answer to the question of, are we still back? So we've been tracking quota attainment"
+  },
+  {
+    "start": 1012.32,
+    "duration": 7.28,
+    "text": "now at Bravado for 22 quarters, so five and a half years. And the highest quota attainment that"
+  },
+  {
+    "start": 1019.6,
+    "duration": 9.84,
+    "text": "we have ever logged in the history of Bravado was Q1 of 2022. So in Q1 of 2022, it was nearly"
+  },
+  {
+    "start": 1029.44,
+    "duration": 11.04,
+    "text": "60%. So it was like 56% of sales reps hit quota and 61% of sales teams hit quota. Typically,"
+  },
+  {
+    "start": 1040.48,
+    "duration": 3.76,
+    "text": "there's a greater percentage of sales teams that hit quota than sales reps."
+  },
+  {
+    "start": 1046.56,
+    "duration": 4.0,
+    "text": "That's right. But the variance is not massive. You know, it's usually within a few percentage"
+  },
+  {
+    "start": 1050.56,
+    "duration": 8.56,
+    "text": "points. So 56% of sales reps hit quota, 61% of sales teams hit quota. And then from then,"
+  },
+  {
+    "start": 1059.12,
+    "duration": 7.04,
+    "text": "it started going down. And the trough, the bottom was Q3 of 2023. So it was exactly a year ago today."
+  },
+  {
+    "start": 1066.72,
+    "duration": 9.2,
+    "text": "In Q3 of 2023, we saw that only 17% of sales reps hit quota and only 21% of sales teams"
+  },
+  {
+    "start": 1075.92,
+    "duration": 10.24,
+    "text": "hit quota. So again, 17% of reps, 21% of sales teams. Yeah, it was, I mean, again, I'm sure"
+  },
+  {
+    "start": 1086.16,
+    "duration": 5.92,
+    "text": "there's a lot of people who are listening who lived that experience. And I certainly lived"
+  },
+  {
+    "start": 1092.08,
+    "duration": 6.48,
+    "text": "that experience as we at Bravado... 17% good. Yeah. I mean, we at Bravado make our money by"
+  },
+  {
+    "start": 1098.56,
+    "duration": 4.16,
+    "text": "helping companies hire sales reps. And so you could imagine that we also were in the set. We"
+  },
+  {
+    "start": 1102.72,
+    "duration": 8.48,
+    "text": "were not in the 17% or 21%. It was a brutal time to run a business. But that was the trough and"
+  },
+  {
+    "start": 1111.2,
+    "duration": 9.68,
+    "text": "it's been going up since. And we are not yet done with the latest results for Q3 because there's"
+  },
+  {
+    "start": 1120.88,
+    "duration": 4.88,
+    "text": "some companies like ourselves that run on the Salesforce quarter. But I can give you, I pulled"
+  },
+  {
+    "start": 1125.76,
+    "duration": 10.16,
+    "text": "it just today. 41% of sales reps are hitting quota in Q3. So again, it was 17% a year ago,"
+  },
+  {
+    "start": 1135.92,
+    "duration": 8.24,
+    "text": "it's 41% today. And 47% of companies are hitting quota. Again, it was 21%, it's now 47%."
+  },
+  {
+    "start": 1145.12,
+    "duration": 8.0,
+    "text": "So we are not at the high... What was the steady state? So 22 was silly Zerp times,"
+  },
+  {
+    "start": 1153.12,
+    "duration": 5.92,
+    "text": "make believe. What's a normal 2018 quota attainment?"
+  },
+  {
+    "start": 1159.84,
+    "duration": 4.24,
+    "text": "Yeah. So the average quota attainment is exactly where we are today. So this is actually the"
+  },
+  {
+    "start": 1164.08,
+    "duration": 4.72,
+    "text": "answer to your question. The average quota attainment that you would expect to see is"
+  },
+  {
+    "start": 1168.8,
+    "duration": 6.96,
+    "text": "somewhere in the vicinity of 40 to 45% of sales reps hitting quota and somewhere between 45 to"
+  },
+  {
+    "start": 1175.76,
+    "duration": 7.04,
+    "text": "50% of companies hitting. So we are actually smack dab in the middle of what a good environment,"
+  },
+  {
+    "start": 1182.8,
+    "duration": 10.4,
+    "text": "not Zerp era craziness, but what a really solid like 2019, early 2021 when the market was good,"
+  },
+  {
+    "start": 1193.2,
+    "duration": 7.6,
+    "text": "not crazy, but just really good. We are back to that same environment. And we are already"
+  },
+  {
+    "start": 1200.8,
+    "duration": 3.04,
+    "text": "back in this period. So now to answer your question, that was a very long winded way"
+  },
+  {
+    "start": 1203.84,
+    "duration": 2.96,
+    "text": "to get a simple answer. Just before we get there. So"
+  },
+  {
+    "start": 1206.8,
+    "duration": 5.52,
+    "text": "where can people go to subscribe to get this information? Because I'm sure a bunch of people"
+  },
+  {
+    "start": 1212.32,
+    "duration": 4.56,
+    "text": "are like, I should be looking at this every quarter. This is like such good intel."
+  },
+  {
+    "start": 1217.44,
+    "duration": 5.12,
+    "text": "Thank you. Yeah. So we produce something called the Revenue Recap. It's a report that comes out"
+  },
+  {
+    "start": 1222.56,
+    "duration": 5.28,
+    "text": "to Bravado members. We send it out, it's free. And you can just go to bravado.co, create an"
+  },
+  {
+    "start": 1227.84,
+    "duration": 4.32,
+    "text": "account and you'll get all the Revenue Recaps as they're published."
+  },
+  {
+    "start": 1232.16,
+    "duration": 4.24,
+    "text": "Okay. There you go. All right. So now we've got the data, we've plugged the Revenue Recap."
+  },
+  {
+    "start": 1238.4,
+    "duration": 3.84,
+    "text": "And so then let me answer your question directly, which is we are so back."
+  },
+  {
+    "start": 1243.2,
+    "duration": 11.36,
+    "text": "And I think that comes with a really important mindset shift that most sales reps and most"
+  },
+  {
+    "start": 1254.56,
+    "duration": 6.88,
+    "text": "sales leaders haven't fully made yet. When we entered the really tough times of late 22 to"
+  },
+  {
+    "start": 1261.44,
+    "duration": 8.96,
+    "text": "like most of 23, there was this overarching piece of advice. Don't die. That was the piece of advice."
+  },
+  {
+    "start": 1271.04,
+    "duration": 10.72,
+    "text": "At all costs, do not die. And that was advice that was given because you could not count on"
+  },
+  {
+    "start": 1281.76,
+    "duration": 5.52,
+    "text": "a future round of funding. The investment markets were just dry and no one was putting capital into"
+  },
+  {
+    "start": 1287.28,
+    "duration": 4.4,
+    "text": "anything. And so therefore, if you were not profitable or if you did not manage to be"
+  },
+  {
+    "start": 1291.68,
+    "duration": 3.44,
+    "text": "extremely efficient with your spend, you as a business were going to die."
+  },
+  {
+    "start": 1295.76,
+    "duration": 6.32,
+    "text": "And I think people haven't recognized and caught up to the fact that that is not the mindset that"
+  },
+  {
+    "start": 1302.08,
+    "duration": 5.92,
+    "text": "you need to be in today. It is not to say that we should be in the reckless mindset of the Zurb era,"
+  },
+  {
+    "start": 1308.0,
+    "duration": 4.88,
+    "text": "which is to say that we should just turn around and throw money behind every initiative or every"
+  },
+  {
+    "start": 1312.88,
+    "duration": 8.64,
+    "text": "idea with no consequence of no careful measure of focus and resource because you don't have"
+  },
+  {
+    "start": 1321.52,
+    "duration": 4.64,
+    "text": "unlimited resources as we used to back in the day. But it is to say that this idea of"
+  },
+  {
+    "start": 1326.16,
+    "duration": 5.76,
+    "text": "profitable, efficient growth that I see thrown around a lot, I think is extremely misleading"
+  },
+  {
+    "start": 1331.92,
+    "duration": 6.64,
+    "text": "and dangerous for those who are in the, especially in the early stage venture capital game to embrace"
+  },
+  {
+    "start": 1338.56,
+    "duration": 5.52,
+    "text": "because those are not the rules by which VCs will judge a business and investors will judge a"
+  },
+  {
+    "start": 1344.08,
+    "duration": 6.48,
+    "text": "business. And you will end up being this really weird thing that is profitable, but your profit"
+  },
+  {
+    "start": 1350.64,
+    "duration": 5.28,
+    "text": "is very little because you're a small company. There's not enough free cash flow coming off the"
+  },
+  {
+    "start": 1355.92,
+    "duration": 4.8,
+    "text": "business that it's worth investing in. You're not Facebook. You're not spitting out a billion"
+  },
+  {
+    "start": 1360.72,
+    "duration": 5.92,
+    "text": "dollars a month or whatever they're spitting out. And so, it's not enough cash flow that it's"
+  },
+  {
+    "start": 1366.64,
+    "duration": 6.08,
+    "text": "investable, but growth isn't high enough that you can see a path to making a billion-dollar business."
+  },
+  {
+    "start": 1372.72,
+    "duration": 3.04,
+    "text": "And so, you're stuck in the middle. And when you're stuck in the middle,"
+  },
+  {
+    "start": 1375.76,
+    "duration": 3.28,
+    "text": "you're no longer venture fundable. There's no more money ever."
+  },
+  {
+    "start": 1379.04,
+    "duration": 5.36,
+    "text": "That's right. That's right. That's exactly right. And by the way, venture funding, and I think VC"
+  },
+  {
+    "start": 1384.4,
+    "duration": 7.12,
+    "text": "funding gets a weird rap here because there's a lot of people that, especially in the sales"
+  },
+  {
+    "start": 1391.52,
+    "duration": 6.4,
+    "text": "community, I see this a lot, there's a lot of, you know, kind of like, fuck the VC, they screwed"
+  },
+  {
+    "start": 1397.92,
+    "duration": 5.44,
+    "text": "us sort of vibe. And I understand where it comes from because you're like, you know, they pushed"
+  },
+  {
+    "start": 1403.36,
+    "duration": 4.88,
+    "text": "us to grow. And then when we couldn't grow, they were like, well, why did you spend so much money?"
+  },
+  {
+    "start": 1408.24,
+    "duration": 5.44,
+    "text": "And it's this feeling of you're talking out of both sides of your mouth. And I think the reality"
+  },
+  {
+    "start": 1414.56,
+    "duration": 6.08,
+    "text": "is that as a business, if you're an early stage company, you have signed up for a specific deal"
+  },
+  {
+    "start": 1420.64,
+    "duration": 5.2,
+    "text": "that you've made, a specific path you've signed up for, which is to say that you are going to"
+  },
+  {
+    "start": 1425.84,
+    "duration": 5.68,
+    "text": "take what would normally take 20 to 30 years for a company to do, and you're going to try to do in"
+  },
+  {
+    "start": 1431.52,
+    "duration": 4.24,
+    "text": "five to seven. That is what you have signed up to do. And that's what venture capital is."
+  },
+  {
+    "start": 1435.76,
+    "duration": 4.96,
+    "text": "It's taking a business that is making $10 million a year and giving it $50 million,"
+  },
+  {
+    "start": 1440.72,
+    "duration": 4.24,
+    "text": "which makes no sense. Why would you give something that makes $10 million, $50 million?"
+  },
+  {
+    "start": 1444.96,
+    "duration": 5.36,
+    "text": "But you do that because you want $10 million to become $100 million, not in 20 years, but in four."
+  },
+  {
+    "start": 1451.04,
+    "duration": 6.4,
+    "text": "And so you're basically paying for growth, you're putting fuel on the fire, et cetera, et cetera."
+  },
+  {
+    "start": 1457.44,
+    "duration": 4.32,
+    "text": "And there are many other paths to entrepreneurship. There's many other types of companies"
+  },
+  {
+    "start": 1461.76,
+    "duration": 4.56,
+    "text": "out there. But if you choose to work for a VC-backed company, which many of us do,"
+  },
+  {
+    "start": 1466.32,
+    "duration": 5.12,
+    "text": "because it's high paying, it's prestigious, it's the most fun growth, there's a lot of"
+  },
+  {
+    "start": 1471.44,
+    "duration": 6.56,
+    "text": "career advantages, know that you have not signed up to grow profitably and efficiently. You have"
+  },
+  {
+    "start": 1478.0,
+    "duration": 5.6,
+    "text": "signed up to grow beyond the wildest imagination of what a startup could do,"
+  },
+  {
+    "start": 1483.6,
+    "duration": 2.64,
+    "text": "of what a company can do. And that's the only game that you're playing."
+  },
+  {
+    "start": 1487.12,
+    "duration": 5.84,
+    "text": "Which is the only reason that people would put money into something so risky."
+  },
+  {
+    "start": 1494.72,
+    "duration": 8.24,
+    "text": "Capital allocation is all about the risk return trade-off. And so you need the super high end"
+  },
+  {
+    "start": 1502.96,
+    "duration": 6.24,
+    "text": "return profile to give a 24-year-old founder and a bunch of people who've never done this before"
+  },
+  {
+    "start": 1509.2,
+    "duration": 0.56,
+    "text": "$50 million."
+  },
+  {
+    "start": 1510.72,
+    "duration": 7.92,
+    "text": "That's right. Or do something else. Again, if what you want is to grow profitably,"
+  },
+  {
+    "start": 1518.64,
+    "duration": 5.76,
+    "text": "efficiently, slowly, and meticulously, that's a perfectly valid way to build a business."
+  },
+  {
+    "start": 1524.4,
+    "duration": 4.8,
+    "text": "But ain't nobody giving venture capital. You're not going to raise money from Sequoia or Adresin"
+  },
+  {
+    "start": 1529.2,
+    "duration": 6.56,
+    "text": "or Redpoint or whatnot with that pitch. And so if you're going to go give that pitch"
+  },
+  {
+    "start": 1535.76,
+    "duration": 3.04,
+    "text": "to take the VC dollars, then know that that's what you signed up for."
+  },
+  {
+    "start": 1541.36,
+    "duration": 6.32,
+    "text": "You're signing up to bootstrapping. And if you want to grow slow, you have to bootstrap."
+  },
+  {
+    "start": 1548.24,
+    "duration": 3.92,
+    "text": "You can't want to go slow and take venture dollars. Those things are mutually exclusive."
+  },
+  {
+    "start": 1552.16,
+    "duration": 5.68,
+    "text": "And I think that... It's funny. Throughout the whole market downturn, I've been trying"
+  },
+  {
+    "start": 1557.84,
+    "duration": 7.12,
+    "text": "to share this message. I've shared it on a few pods. Yeah. You want to be more conservative"
+  },
+  {
+    "start": 1564.96,
+    "duration": 5.84,
+    "text": "financially in this market. But don't forget what these businesses are about."
+  },
+  {
+    "start": 1570.8,
+    "duration": 6.24,
+    "text": "We are about power law returns. We are about returning an entire fund on one investment."
+  },
+  {
+    "start": 1577.68,
+    "duration": 3.28,
+    "text": "And if you're in the venture game and that's no longer possible,"
+  },
+  {
+    "start": 1582.0,
+    "duration": 7.92,
+    "text": "you sort of got to do something else now. As a founder, you're not going to get the same"
+  },
+  {
+    "start": 1589.92,
+    "duration": 7.2,
+    "text": "employee type as an early employee. Your return profile is completely different."
+  },
+  {
+    "start": 1597.12,
+    "duration": 6.24,
+    "text": "So you have to be asking for a completely different cash versus equity. But that"
+  },
+  {
+    "start": 1603.36,
+    "duration": 3.2,
+    "text": "message didn't materialize. And the answer was really,"
+  },
+  {
+    "start": 1607.12,
+    "duration": 4.72,
+    "text": "hey, a bunch of these companies aren't actually venture-backable companies. They need to go away."
+  },
+  {
+    "start": 1612.4,
+    "duration": 8.4,
+    "text": "They are, no matter what, not viable. Maybe they can do a one and done raise and basically"
+  },
+  {
+    "start": 1620.8,
+    "duration": 5.44,
+    "text": "bootstrap after one venture round and to the much to the chagrin of the venture investors."
+  },
+  {
+    "start": 1626.24,
+    "duration": 7.36,
+    "text": "But we're no longer playing that game. And I think one other comment just on what you said,"
+  },
+  {
+    "start": 1634.32,
+    "duration": 5.44,
+    "text": "it's like people grumbling, oh, venture told us to grow and then venture said, why did we"
+  },
+  {
+    "start": 1639.76,
+    "duration": 6.48,
+    "text": "do that? And I don't actually think that's what it was. I think because I see this a lot with the"
+  },
+  {
+    "start": 1646.24,
+    "duration": 5.68,
+    "text": "rep community and the VP sales community, it's like, oh, you did this bad. You did this thing"
+  },
+  {
+    "start": 1651.92,
+    "duration": 4.64,
+    "text": "to us. You changed your mind. Well, no, I actually think founders and venture capital investors were"
+  },
+  {
+    "start": 1656.56,
+    "duration": 7.68,
+    "text": "just rational actors. We saw the greatest change in interest rates in the history of interest rates,"
+  },
+  {
+    "start": 1664.24,
+    "duration": 6.72,
+    "text": "basically. They changed overnight. And so when the cost of capital changes that drastically over"
+  },
+  {
+    "start": 1670.96,
+    "duration": 6.88,
+    "text": "a short amount of time, you simply have to rethink your decision making. And I don't think venture"
+  },
+  {
+    "start": 1677.84,
+    "duration": 4.72,
+    "text": "said, why did you do that? I think really the message was, we need to do something different"
+  },
+  {
+    "start": 1682.56,
+    "duration": 9.36,
+    "text": "now. But people misinterpreted that as like the venture capital guys and the founder are the bad"
+  },
+  {
+    "start": 1691.92,
+    "duration": 5.92,
+    "text": "dudes. But like, no, we're just making rational decisions based on the macro economic environment."
+  },
+  {
+    "start": 1697.84,
+    "duration": 6.16,
+    "text": "And it's hard. But like this, we're all sort of in the same boat together, which people struggle"
+  },
+  {
+    "start": 1704.0,
+    "duration": 8.56,
+    "text": "with. Yeah. I mean, let me bring, I think that could not be more well stated and let me bring"
+  },
+  {
+    "start": 1712.56,
+    "duration": 8.32,
+    "text": "it down to the VP of sales rep level to explain how we all did the same thing. I remember"
+  },
+  {
+    "start": 1721.92,
+    "duration": 7.6,
+    "text": "because we run a jobs business, so I get to see this in real time. I remember when we launched"
+  },
+  {
+    "start": 1729.52,
+    "duration": 9.12,
+    "text": "our jobs business in the middle of 2021, we were talking to VPs of sales who were making 250 to"
+  },
+  {
+    "start": 1738.64,
+    "duration": 9.68,
+    "text": "300k OTEs at their current companies, getting offers for 400, 500k OTEs. And I remember reps"
+  },
+  {
+    "start": 1748.32,
+    "duration": 8.64,
+    "text": "who were mid-market reps that were making 80k base, 160k OTE, getting offers for 150 to 180"
+  },
+  {
+    "start": 1756.96,
+    "duration": 8.08,
+    "text": "base, 350 to 380 OTE. And I don't remember anyone complaining then."
+  },
+  {
+    "start": 1767.28,
+    "duration": 1.68,
+    "text": "Nobody turned that down."
+  },
+  {
+    "start": 1768.96,
+    "duration": 6.96,
+    "text": "I don't remember anyone being like, well, this is unreasonable. I'm an 80 to 160k rep."
+  },
+  {
+    "start": 1776.32,
+    "duration": 7.84,
+    "text": "I, my ability to carry a quota is $700,000. The biggest deal I've ever closed was 35k."
+  },
+  {
+    "start": 1784.16,
+    "duration": 6.56,
+    "text": "But now all of a sudden I've got this offer in front of me to go sell a $2 million quota"
+  },
+  {
+    "start": 1790.72,
+    "duration": 5.04,
+    "text": "at this company with all these ridiculous expectations that I've never even come close"
+  },
+  {
+    "start": 1795.76,
+    "duration": 5.84,
+    "text": "to achieving in the course of my career. But of course, so I don't want to take this offer."
+  },
+  {
+    "start": 1801.68,
+    "duration": 6.08,
+    "text": "I want a lower base. I want a lower OTE and I want a lower quota. I don't remember once being"
+  },
+  {
+    "start": 1807.76,
+    "duration": 4.64,
+    "text": "told that. What I remember instead was people saying, dude, my, my current company is a"
+  },
+  {
+    "start": 1812.4,
+    "duration": 5.36,
+    "text": "fucking idiot. They, they don't value me. Like this was my value in the market."
+  },
+  {
+    "start": 1817.76,
+    "duration": 6.08,
+    "text": "Like finally I'm getting paid when I deserve. And I remember people having this, like every"
+  },
+  {
+    "start": 1823.84,
+    "duration": 5.36,
+    "text": "six months, 12 months, 18 months, I want to change jobs. I want to get paid more, get paid more,"
+  },
+  {
+    "start": 1829.2,
+    "duration": 6.56,
+    "text": "get paid more. And then as soon as the market cooled and there were layoffs and everyone stopped"
+  },
+  {
+    "start": 1835.76,
+    "duration": 4.32,
+    "text": "changing jobs all of a sudden and try to hold on to the one they had and suddenly loyalty came back."
+  },
+  {
+    "start": 1841.6,
+    "duration": 5.52,
+    "text": "And, and by the way, that is the rational thing to do in a capital market. You know, if,"
+  },
+  {
+    "start": 1847.12,
+    "duration": 6.64,
+    "text": "if, you know, like if you got them, smoke them, you know, like it's just the way it is. Like,"
+  },
+  {
+    "start": 1853.76,
+    "duration": 5.12,
+    "text": "you know, if the market will bear something, then, then that's what, you know, you're,"
+  },
+  {
+    "start": 1858.88,
+    "duration": 6.4,
+    "text": "you're going to get paid. And, and so ultimately we all make the same decision is my point is that"
+  },
+  {
+    "start": 1865.28,
+    "duration": 7.52,
+    "text": "it's not as if I did something irrational or you did something irrational or the SDR who got"
+  },
+  {
+    "start": 1872.8,
+    "duration": 3.92,
+    "text": "recruited and got a hundred K base did something irrational. It's just where the market was."
+  },
+  {
+    "start": 1876.72,
+    "duration": 4.64,
+    "text": "And today the market's somewhere different and we just have to accept the reality that"
+  },
+  {
+    "start": 1881.36,
+    "duration": 2.0,
+    "text": "ultimately the market will bear what it will bear."
+  },
+  {
+    "start": 1889.04,
+    "duration": 5.52,
+    "text": "Yes.ai enables your CEO subject matter experts and other senior leaders to engage prospects"
+  },
+  {
+    "start": 1894.56,
+    "duration": 4.8,
+    "text": "directly, creating meaningful connections and boosting response rates with just one click."
+  },
+  {
+    "start": 1899.36,
+    "duration": 4.64,
+    "text": "Your team can strategically involve senior staff to make your outreach more credible and effective"
+  },
+  {
+    "start": 1904.72,
+    "duration": 5.6,
+    "text": "empower your GTM team to orchestrate your outbound process and say yes to yes.ai."
+  },
+  {
+    "start": 1910.32,
+    "duration": 2.4,
+    "text": "That's Y E S S dot AI."
+  },
+  {
+    "start": 1914.32,
+    "duration": 8.0,
+    "text": "There. Yeah. Hard agree. Yeah. The, we, we were all complicit in it and there was no like good"
+  },
+  {
+    "start": 1922.32,
+    "duration": 5.84,
+    "text": "people and bad people. It was just sort of a thing that happened. And like, I'm a big believer in"
+  },
+  {
+    "start": 1928.16,
+    "duration": 7.6,
+    "text": "extreme ownership. We all just have to accept those things happened. I am actually not worth"
+  },
+  {
+    "start": 1935.76,
+    "duration": 6.08,
+    "text": "$400,000 as a four-year tenured AE. I'm actually worth this and like, but, but"
+  },
+  {
+    "start": 1943.36,
+    "duration": 6.0,
+    "text": "hedonic adaption is, is like very difficult to like deal with. Like we get so stuck on these"
+  },
+  {
+    "start": 1949.36,
+    "duration": 4.88,
+    "text": "things that, that are difficult to lose. And valuations of companies, you know,"
+  },
+  {
+    "start": 1954.24,
+    "duration": 5.12,
+    "text": "is another thing that I think was in the same realm. I remember, you know, Gong raised at"
+  },
+  {
+    "start": 1959.44,
+    "duration": 6.32,
+    "text": "$7 billion outreach raised at $4 billion. And, you know, there was this like, Oh, like all these"
+  },
+  {
+    "start": 1965.76,
+    "duration": 7.04,
+    "text": "like super small, like, like you got to 5 million ARR and you were raising at a $500 million valuation"
+  },
+  {
+    "start": 1972.8,
+    "duration": 6.4,
+    "text": "and, and, and like, no, I'm serious. I know multiple founders who had a 5 million valuation."
+  },
+  {
+    "start": 1979.2,
+    "duration": 7.52,
+    "text": "They got a 100 X multiple on their revenue. And then, you know, today you could be a hundred"
+  },
+  {
+    "start": 1986.72,
+    "duration": 5.84,
+    "text": "million in revenue and still not get a $500 million valuation, you know, and, and people,"
+  },
+  {
+    "start": 1992.56,
+    "duration": 5.76,
+    "text": "people were really easy. We're really quick to embrace when it was five on 500. But today,"
+  },
+  {
+    "start": 1998.32,
+    "duration": 4.64,
+    "text": "if it's a hundred on 500, people are like, well, that's unfair. That's unrealistic. Like people"
+  },
+  {
+    "start": 2002.96,
+    "duration": 4.72,
+    "text": "aren't paying you what I'm worth. And so, you know, when it's almost like, uh, it's in the"
+  },
+  {
+    "start": 2007.68,
+    "duration": 4.96,
+    "text": "same way that I find some people treat religion, which I, which I've always, I always laugh about,"
+  },
+  {
+    "start": 2012.64,
+    "duration": 3.76,
+    "text": "which is like, if something good happens, they say praise to God. If something bad happens,"
+  },
+  {
+    "start": 2016.4,
+    "duration": 3.92,
+    "text": "it's like, Oh, well, God is testing me, you know, in either way, either way, it's like,"
+  },
+  {
+    "start": 2020.32,
+    "duration": 4.64,
+    "text": "in either way, you can find a way to defend the thing that you're trying to believe in."
+  },
+  {
+    "start": 2024.96,
+    "duration": 5.12,
+    "text": "And, and I think that we have to have intellectual honesty. And I think extreme ownership and"
+  },
+  {
+    "start": 2030.08,
+    "duration": 4.24,
+    "text": "intellectual honesty are really critical components for someone who wants to be a"
+  },
+  {
+    "start": 2034.32,
+    "duration": 5.12,
+    "text": "serious business professional and executive, which is to say, yeah, as a VP of sales, as a CRO,"
+  },
+  {
+    "start": 2040.16,
+    "duration": 6.16,
+    "text": "I way overspent on these reps that I, my company did not need that. We're not able to do this job."
+  },
+  {
+    "start": 2046.32,
+    "duration": 5.2,
+    "text": "I way overestimated what our team was able to do because everyone was just buying and money was"
+  },
+  {
+    "start": 2051.52,
+    "duration": 6.24,
+    "text": "flying around and yeah, maybe my own compensation wasn't quite in line with what it should have been."
+  },
+  {
+    "start": 2057.76,
+    "duration": 4.24,
+    "text": "That's okay. Today we're in a different world and we just accept that and we just keep moving on,"
+  },
+  {
+    "start": 2062.0,
+    "duration": 6.48,
+    "text": "you know, one foot in front of the other. Yeah. Yeah. If you want to participate in this game,"
+  },
+  {
+    "start": 2069.04,
+    "duration": 5.92,
+    "text": "in the venture capital backed software game, you have to accept the rules. You can't want to play"
+  },
+  {
+    "start": 2074.96,
+    "duration": 4.72,
+    "text": "this game and then not like the rules that there's volatility and cyclicality. Like that is just"
+  },
+  {
+    "start": 2079.68,
+    "duration": 6.72,
+    "text": "inherent. I often jokingly say about these types of things or with the way people act, like you"
+  },
+  {
+    "start": 2086.4,
+    "duration": 6.08,
+    "text": "can't blame the lion for eating a gazelle. Like that's just like silly. Like, well, how are you"
+  },
+  {
+    "start": 2092.48,
+    "duration": 4.64,
+    "text": "mad at this line? Like, this is just, this is what capitalism is. This is what venture capital is."
+  },
+  {
+    "start": 2097.12,
+    "duration": 4.16,
+    "text": "And if you don't like it, that's totally cool. There's lots of other things to do in the world,"
+  },
+  {
+    "start": 2101.28,
+    "duration": 4.72,
+    "text": "but like you, you have to know what you're signing up for."
+  },
+  {
+    "start": 2106.0,
+    "duration": 6.8,
+    "text": "And we are so, and to end your point on we are so back, you know, you have open AI,"
+  },
+  {
+    "start": 2112.8,
+    "duration": 6.72,
+    "text": "one of the co-founders Ilya left and founded this company called super safe intelligence or SSI."
+  },
+  {
+    "start": 2119.52,
+    "duration": 6.48,
+    "text": "And they raised, you can't make this up a 1 billion with a B billion dollar seed route,"
+  },
+  {
+    "start": 2126.0,
+    "duration": 6.64,
+    "text": "no product, you know, just him and a handful of people. And they raised a $1 billion seed route."
+  },
+  {
+    "start": 2133.2,
+    "duration": 5.04,
+    "text": "And it just goes to show something that I think most people don't, where's the profitable,"
+  },
+  {
+    "start": 2138.24,
+    "duration": 4.88,
+    "text": "efficient growth on that? You know, there's, there's not, it's that venture capitalists are"
+  },
+  {
+    "start": 2143.12,
+    "duration": 5.52,
+    "text": "in the business of doing one thing and just one thing, which is returning capital to their LPs."
+  },
+  {
+    "start": 2148.64,
+    "duration": 4.96,
+    "text": "And they're going to make the bet that they think the most amount of return I can generate for this"
+  },
+  {
+    "start": 2153.6,
+    "duration": 6.8,
+    "text": "dollar compared to any other startup in the world, I can put this dollar in. Why should I give it to"
+  },
+  {
+    "start": 2160.4,
+    "duration": 4.8,
+    "text": "owner? Why should I give it to bravado? Why should I give it to whomever? And if you can't make a"
+  },
+  {
+    "start": 2165.2,
+    "duration": 6.48,
+    "text": "compelling case that $1 to owner or $1 to bravado is going to be worth more than putting that dollar"
+  },
+  {
+    "start": 2171.68,
+    "duration": 5.28,
+    "text": "into anything else in the world, then you're not going to win. It's not that you're trying to"
+  },
+  {
+    "start": 2176.96,
+    "duration": 4.96,
+    "text": "convince them that putting a dollar into bravado or owner or whatever is valuable. That's actually"
+  },
+  {
+    "start": 2181.92,
+    "duration": 6.72,
+    "text": "a fairly straightforward case. You can, it's the case of don't give it to open AI. Don't give it to"
+  },
+  {
+    "start": 2188.64,
+    "duration": 6.4,
+    "text": "anthropic. Don't give it to what this YC startup that's crazy hot. Don't give it to what, give it"
+  },
+  {
+    "start": 2195.04,
+    "duration": 6.56,
+    "text": "to me instead. And to convince someone of that, like you better have something that's really"
+  },
+  {
+    "start": 2201.6,
+    "duration": 6.64,
+    "text": "compelling and growing astronomically fast with a massive vision and a huge TAM. And, and like,"
+  },
+  {
+    "start": 2208.24,
+    "duration": 6.8,
+    "text": "I think most people want the benefits of working in a venture-backed startup, the pay, the status,"
+  },
+  {
+    "start": 2215.04,
+    "duration": 6.56,
+    "text": "the co-workers, the prestige, like all those things come with it, but not pay the price."
+  },
+  {
+    "start": 2222.24,
+    "duration": 5.2,
+    "text": "And I think it's, it's, it's an unrealistic expectation from the market. And then of course,"
+  },
+  {
+    "start": 2227.44,
+    "duration": 4.08,
+    "text": "if it's not for you, which is not for many people, you know, I'm just a junkie for it."
+  },
+  {
+    "start": 2231.52,
+    "duration": 4.56,
+    "text": "Like I'll only ever do this game because this is the game I love to do. I think you might just be"
+  },
+  {
+    "start": 2236.08,
+    "duration": 4.72,
+    "text": "in the same boat, given your career history and background and interest, Kyle. But like for many"
+  },
+  {
+    "start": 2240.8,
+    "duration": 7.84,
+    "text": "people, but for many people, it's not the game and that's fine. That's completely fine. Bootstrap a"
+  },
+  {
+    "start": 2248.64,
+    "duration": 4.64,
+    "text": "business, go raise some debt, grow efficiently, like build a different type of business in a"
+  },
+  {
+    "start": 2253.28,
+    "duration": 5.28,
+    "text": "different way and have realistic, modest ambitions and make a, probably make more money than you and"
+  },
+  {
+    "start": 2258.56,
+    "duration": 5.28,
+    "text": "I will make and probably have a much healthier work-life balance than you and I have and,"
+  },
+  {
+    "start": 2263.84,
+    "duration": 5.44,
+    "text": "and, and much better mental health than you and I have. But then, then that's just the game."
+  },
+  {
+    "start": 2269.28,
+    "duration": 6.24,
+    "text": "But if you want to play this game of being part of a legacy defining, a world changing piece of"
+  },
+  {
+    "start": 2275.52,
+    "duration": 5.44,
+    "text": "technology and, and, and people and product, then, you know, you got to, you got to pay the tax."
+  },
+  {
+    "start": 2282.08,
+    "duration": 3.2,
+    "text": "Yeah. Well said. Just think of all the cortisol you're missing out on."
+  },
+  {
+    "start": 2287.28,
+    "duration": 3.68,
+    "text": "By the way, did you just quote Spaceballs, smoke them if you got them?"
+  },
+  {
+    "start": 2291.36,
+    "duration": 2.32,
+    "text": "I do appreciate that you caught the reference."
+  },
+  {
+    "start": 2293.68,
+    "duration": 5.04,
+    "text": "That is a deep cut that Spaceballs is in my top three favorite movies of all time."
+  },
+  {
+    "start": 2298.72,
+    "duration": 5.68,
+    "text": "So, well, and another thing that you and I share a sickness for, yeah, me too. Anyway, we'll keep"
+  },
+  {
+    "start": 2304.4,
+    "duration": 5.52,
+    "text": "going. All right. So let's transition. So this is like state of the market. I think this is really"
+  },
+  {
+    "start": 2309.92,
+    "duration": 7.6,
+    "text": "valuable data. So let's transition into the state of the rep because you have a such a unique view"
+  },
+  {
+    "start": 2317.76,
+    "duration": 7.2,
+    "text": "into the psyche of the sales rep. And I was in bravado earlier today when we were doing prep."
+  },
+  {
+    "start": 2324.96,
+    "duration": 4.88,
+    "text": "And it's interesting, like one of the, one of the things I screenshotted was like the second post"
+  },
+  {
+    "start": 2329.84,
+    "duration": 4.64,
+    "text": "was, it's bleak out there. How do you keep going? Like, it's been really tough to try to improve my"
+  },
+  {
+    "start": 2334.48,
+    "duration": 3.92,
+    "text": "outlook with so many employers putting a hold on promotions and pay increases, blah, blah, blah,"
+  },
+  {
+    "start": 2338.4,
+    "duration": 7.36,
+    "text": "blah, blah. And so the, the, I think there's a, there's a disconnect here and there."
+  },
+  {
+    "start": 2345.84,
+    "duration": 5.36,
+    "text": "Disconnect hearing your opinion of like, we are indeed. So back or we're back to normal"
+  },
+  {
+    "start": 2351.2,
+    "duration": 4.64,
+    "text": "was still maybe where the rep is. And so let's just maybe give them macro."
+  },
+  {
+    "start": 2356.48,
+    "duration": 4.32,
+    "text": "What's the state of the rep today. And then I've got some specific things, state of the,"
+  },
+  {
+    "start": 2360.8,
+    "duration": 5.04,
+    "text": "of remote versus in person and, and engagements and what we'll get into some specifics, but like,"
+  },
+  {
+    "start": 2365.84,
+    "duration": 4.72,
+    "text": "what's, what's the high level from your, your perspective. Yeah. You and I talked about this"
+  },
+  {
+    "start": 2370.56,
+    "duration": 4.96,
+    "text": "the first time we met and the, the perspective I'll share is unfortunately not super nuanced."
+  },
+  {
+    "start": 2375.52,
+    "duration": 5.04,
+    "text": "It's just, you know, kind of the facts, which is, it just all depends on where you're working."
+  },
+  {
+    "start": 2380.56,
+    "duration": 3.6,
+    "text": "You know, that post that you just talked about, it's bleak out there. People are putting a hold"
+  },
+  {
+    "start": 2384.16,
+    "duration": 6.56,
+    "text": "on promotions and, and pay increases and stuff. I, I, I, I didn't see that specific post, but"
+  },
+  {
+    "start": 2390.72,
+    "duration": 4.72,
+    "text": "I would put every dollar in my pocket against every dollar in your pocket that that post wasn't"
+  },
+  {
+    "start": 2395.44,
+    "duration": 8.0,
+    "text": "written by a rep who works at Improbic or open or Nvidia, you know? And so ultimately,"
+  },
+  {
+    "start": 2404.24,
+    "duration": 4.8,
+    "text": "one of the most important things that you do as a salesperson is you choose which company to work"
+  },
+  {
+    "start": 2409.04,
+    "duration": 5.36,
+    "text": "at. And I think many sales reps chose companies that used to have a pathway to greatness,"
+  },
+  {
+    "start": 2414.4,
+    "duration": 5.04,
+    "text": "but don't anymore. I think I've heard something, someone called this, like they used to be a"
+  },
+  {
+    "start": 2419.44,
+    "duration": 5.28,
+    "text": "unicorn, but now they're just a donkey with a, with a dunce hat on or something like that,"
+  },
+  {
+    "start": 2424.72,
+    "duration": 4.72,
+    "text": "which I, you know, like ultimately, you know, if you worked for one of these darling, you know,"
+  },
+  {
+    "start": 2429.44,
+    "duration": 5.68,
+    "text": "like Hoppin, you remember that company that Hoppin? Yeah. Like that company was like the hottest of"
+  },
+  {
+    "start": 2435.12,
+    "duration": 5.12,
+    "text": "the hot and raised it like billions of dollars. And they ended up getting sold for like $7 million"
+  },
+  {
+    "start": 2440.24,
+    "duration": 4.8,
+    "text": "to ring central for like parts or whatever. Like if you were part of a journey like that,"
+  },
+  {
+    "start": 2445.04,
+    "duration": 4.56,
+    "text": "but, but you haven't hit the end of that journey, you're just like on the treadmill of that journey,"
+  },
+  {
+    "start": 2449.6,
+    "duration": 6.16,
+    "text": "then, then that's where that darkness comes from. So I think right now you have a bifurcation in the"
+  },
+  {
+    "start": 2455.76,
+    "duration": 6.32,
+    "text": "market. You have both early and late stage startups that are either in a position to capitalize on the"
+  },
+  {
+    "start": 2462.08,
+    "duration": 6.72,
+    "text": "AI boom or are kind of second order effect beneficiaries of said AI boom. And if you"
+  },
+  {
+    "start": 2468.8,
+    "duration": 6.56,
+    "text": "work at a company like that, then you are, you know, again, your sales team isn't saying this,"
+  },
+  {
+    "start": 2475.36,
+    "duration": 4.8,
+    "text": "right? Kyle, like your sales team, isn't saying we're not doing promotions. We're not doing pay"
+  },
+  {
+    "start": 2480.16,
+    "duration": 7.04,
+    "text": "increases. We're not growing. Like your sales team is like, holy shit. I am so excited about next"
+  },
+  {
+    "start": 2487.2,
+    "duration": 5.76,
+    "text": "month, next quarter, next year and older, because it's bigger, it's better, it's faster, it's growing."
+  },
+  {
+    "start": 2492.96,
+    "duration": 5.68,
+    "text": "And, and like, you know, ultimately there's a lot of companies that are not winning today."
+  },
+  {
+    "start": 2498.64,
+    "duration": 6.32,
+    "text": "And there's a ton of great salespeople who just need, and sales leaders for that matter,"
+  },
+  {
+    "start": 2504.96,
+    "duration": 3.12,
+    "text": "you know, and obviously Bravado serves sales leaders as well. And I, and I talked to sales"
+  },
+  {
+    "start": 2508.08,
+    "duration": 5.04,
+    "text": "leaders about this. I kind of wish I could just, I wish I could just say the thing that, that's"
+  },
+  {
+    "start": 2513.12,
+    "duration": 5.84,
+    "text": "in their heart. And maybe this, someone listening to this, I hope this helps you, which is it's not"
+  },
+  {
+    "start": 2518.96,
+    "duration": 6.8,
+    "text": "your fault. Your company is just fucked. I just want to say no, but like, I genuinely want it."
+  },
+  {
+    "start": 2525.76,
+    "duration": 6.4,
+    "text": "I want to say that with a tremendous amount of empathy, because that too could have been Bravado"
+  },
+  {
+    "start": 2532.16,
+    "duration": 4.88,
+    "text": "just a year ago. Right? So I don't want to say that in a, in a way in which it comes off as,"
+  },
+  {
+    "start": 2537.04,
+    "duration": 5.52,
+    "text": "as harsh. It's like, it's not your fault. It just didn't work. It's not working out. It's not going"
+  },
+  {
+    "start": 2542.56,
+    "duration": 6.32,
+    "text": "to work out. There is no hope. There's no amount of selling. There's no amount of product."
+  },
+  {
+    "start": 2549.76,
+    "duration": 5.36,
+    "text": "Like you're, you're done. Yeah. This company is done. And the reason why you're done"
+  },
+  {
+    "start": 2555.12,
+    "duration": 5.2,
+    "text": "is because your founders don't believe anymore. Your investors don't believe anymore."
+  },
+  {
+    "start": 2560.32,
+    "duration": 3.92,
+    "text": "Maybe you've gone through sales leadership changes and maybe like, you know, they're"
+  },
+  {
+    "start": 2564.24,
+    "duration": 5.36,
+    "text": "trying to make some desperate spinoff to some PE shop or something, but like the,"
+  },
+  {
+    "start": 2569.6,
+    "duration": 5.44,
+    "text": "the days that you remember, or the days you were pitched when you were recruited into this company"
+  },
+  {
+    "start": 2575.04,
+    "duration": 5.2,
+    "text": "and now you've shown up and now you see your day-to-day vibe of this company."
+  },
+  {
+    "start": 2580.24,
+    "duration": 5.2,
+    "text": "Like it's not your fault. Your company's just fucked and you just need to get out and find a"
+  },
+  {
+    "start": 2585.44,
+    "duration": 9.84,
+    "text": "new job. And I think there's so many founders, CROs, sales leaders, sales reps, SDRs that just"
+  },
+  {
+    "start": 2595.28,
+    "duration": 8.4,
+    "text": "need that. Like, yeah. And I think a lot of it, there's so many parts of human psychology that"
+  },
+  {
+    "start": 2603.68,
+    "duration": 8.64,
+    "text": "play in here, but sunk cost fallacy and like hedonic adaption. Like, Oh, I am a VP of sales."
+  },
+  {
+    "start": 2612.32,
+    "duration": 6.24,
+    "text": "I'm a VP of sales. Well, you're only a VP of sales at like a crap company. And like,"
+  },
+  {
+    "start": 2619.44,
+    "duration": 6.4,
+    "text": "you know, this is equally harsh, but like you, you're not good enough yet."
+  },
+  {
+    "start": 2625.84,
+    "duration": 6.64,
+    "text": "Yet you don't have the profile and like experience in craft yet to be a VP of sales at like a good"
+  },
+  {
+    "start": 2632.48,
+    "duration": 7.44,
+    "text": "company. And so, but like the market at one point supported bad companies surviving in the Zerp days."
+  },
+  {
+    "start": 2639.92,
+    "duration": 5.44,
+    "text": "Lots of bad companies raised money that had nice to have products, but like we're back to normal"
+  },
+  {
+    "start": 2645.36,
+    "duration": 4.72,
+    "text": "now. And I think a lot of it, a lot of the challenge is like, or I'm a mid-market rep."
+  },
+  {
+    "start": 2650.08,
+    "duration": 3.44,
+    "text": "It's like, well, you've only carried a quota for 18 months. Like you're probably not a mid-market"
+  },
+  {
+    "start": 2653.52,
+    "duration": 6.0,
+    "text": "rep. You're still an SMB rep. And, but like you're a mid-market rep at a bad company,"
+  },
+  {
+    "start": 2659.52,
+    "duration": 5.44,
+    "text": "but you can't be at bad companies. Now the market does not, the market is not going to"
+  },
+  {
+    "start": 2665.6,
+    "duration": 5.92,
+    "text": "support bad companies existing and you have to move your feet. And the advice I find myself"
+  },
+  {
+    "start": 2671.52,
+    "duration": 7.36,
+    "text": "giving so much is like, just optimize for the company quality, optimize for product market fit"
+  },
+  {
+    "start": 2678.88,
+    "duration": 6.96,
+    "text": "and the leader. And like, I know it sucks. And like every part of our human psychology"
+  },
+  {
+    "start": 2685.84,
+    "duration": 6.4,
+    "text": "tells us not to take a step back. But if you're an enterprise rep today, go be a mid-market rep"
+  },
+  {
+    "start": 2692.24,
+    "duration": 6.56,
+    "text": "at Vanta. Go be a mid-market rep at one of these companies that is, that has good product market"
+  },
+  {
+    "start": 2698.8,
+    "duration": 7.2,
+    "text": "fit and incredible leadership. And you will be so much better off than clinging on to,"
+  },
+  {
+    "start": 2706.56,
+    "duration": 3.04,
+    "text": "well, I'm an enterprise rep. No, you're an enterprise rep at a crap company."
+  },
+  {
+    "start": 2709.6,
+    "duration": 2.24,
+    "text": "Like that's where you'll get that job."
+  },
+  {
+    "start": 2712.24,
+    "duration": 4.8,
+    "text": "And now let's think about the downstream effect of what you just said. First of all, I mean,"
+  },
+  {
+    "start": 2718.72,
+    "duration": 10.08,
+    "text": "that was absolute gospel. Like every word of that was so true and so exactly where we are in the"
+  },
+  {
+    "start": 2728.8,
+    "duration": 7.28,
+    "text": "cycle. But with now let's add a caveat to that, which is okay. So if the enterprise rep who"
+  },
+  {
+    "start": 2736.08,
+    "duration": 5.6,
+    "text": "shouldn't really be an enterprise rep, but would be at a rockstar mid-market rep at Vanta,"
+  },
+  {
+    "start": 2741.68,
+    "duration": 6.8,
+    "text": "wants that job. If you're a mid-market rep somewhere, you probably need to take a step"
+  },
+  {
+    "start": 2748.48,
+    "duration": 6.32,
+    "text": "down to SMB. And if you're an SMB rep somewhere and a mid-market rep applies for your job,"
+  },
+  {
+    "start": 2754.8,
+    "duration": 5.2,
+    "text": "now you're not competing with the rest of your SMB market. You're also competing with"
+  },
+  {
+    "start": 2760.0,
+    "duration": 5.28,
+    "text": "the mid-market rep from outside. And I talk to sales leaders all the time that are like, yo,"
+  },
+  {
+    "start": 2765.28,
+    "duration": 5.04,
+    "text": "the quality of talent I can bring onto my team today is much higher than the quality of talent"
+  },
+  {
+    "start": 2770.32,
+    "duration": 4.72,
+    "text": "I could have brought on two years ago. So I'm thinking of just making wholesale changes on"
+  },
+  {
+    "start": 2775.04,
+    "duration": 6.72,
+    "text": "my team and basically out with old, in with the new. And so that does create a really tough"
+  },
+  {
+    "start": 2781.76,
+    "duration": 4.88,
+    "text": "psychology for someone to work in where they know that they are imminently replaceable."
+  },
+  {
+    "start": 2786.64,
+    "duration": 4.64,
+    "text": "One of our latest clients that we're working with, I won't say the name of the company because I"
+  },
+  {
+    "start": 2791.28,
+    "duration": 3.92,
+    "text": "don't have permission to share the story, but one of the latest clients we're working with is"
+  },
+  {
+    "start": 2795.2,
+    "duration": 6.08,
+    "text": "paying us in order to help them recruit for mid-market and enterprise reps. But they have"
+  },
+  {
+    "start": 2801.28,
+    "duration": 7.12,
+    "text": "a job posting open and the VP of sales there told me they get between 200 to 300 inbound applicants"
+  },
+  {
+    "start": 2808.4,
+    "duration": 9.36,
+    "text": "per day for this job. And yet they're paying us to help them recruit. And my first question is like,"
+  },
+  {
+    "start": 2817.76,
+    "duration": 6.08,
+    "text": "why do you need to pay us? And he was like, yeah, but the people who are applying are not"
+  },
+  {
+    "start": 2823.84,
+    "duration": 4.64,
+    "text": "the talent that we're looking for. And that leads to the next question, which I think is really"
+  },
+  {
+    "start": 2828.48,
+    "duration": 4.0,
+    "text": "interesting, which is, okay, well, what do you mean? What do you mean this isn't the talent"
+  },
+  {
+    "start": 2832.48,
+    "duration": 6.48,
+    "text": "you're looking for? And he was like, well, once upon a time, I was willing to take a chance on a"
+  },
+  {
+    "start": 2838.96,
+    "duration": 5.28,
+    "text": "hire. Once upon a time, I was willing to say, okay, you maybe don't have exactly the right"
+  },
+  {
+    "start": 2844.24,
+    "duration": 6.08,
+    "text": "qualifications, or maybe you didn't do so well at your last job, but it could have been the company"
+  },
+  {
+    "start": 2850.32,
+    "duration": 12.0,
+    "text": "or the whatever. Now I can't afford to miss on a hire. So I'm going to pay bravado in order to"
+  },
+  {
+    "start": 2862.32,
+    "duration": 7.36,
+    "text": "ensure that the person I bring on is the absolute best hire. Because if I bring in bad sales hires,"
+  },
+  {
+    "start": 2869.76,
+    "duration": 5.04,
+    "text": "my CEO is going to fire me. My ass is on the line because I previously brought in some people that"
+  },
+  {
+    "start": 2874.8,
+    "duration": 3.68,
+    "text": "weren't very good, and our CEO is like, you can't fuck it up this time, and I'm not going to fuck"
+  },
+  {
+    "start": 2878.48,
+    "duration": 5.76,
+    "text": "it up this time. And I think that that pressure and that dynamic, again, trickles down to the rep"
+  },
+  {
+    "start": 2884.24,
+    "duration": 7.92,
+    "text": "who now is facing... If their boss's job security is on the line based on your performance as a"
+  },
+  {
+    "start": 2892.16,
+    "duration": 4.8,
+    "text": "brand new hire, then that person is going to put a tremendous amount of pressure on you."
+  },
+  {
+    "start": 2896.96,
+    "duration": 3.76,
+    "text": "You're going to walk in and feel that pressure and be in a stressful environment."
+  },
+  {
+    "start": 2900.72,
+    "duration": 6.08,
+    "text": "And so it is a tough market. It's actually counterproductive that bringing that anxiety"
+  },
+  {
+    "start": 2906.8,
+    "duration": 5.28,
+    "text": "to your team will make them perform worse, not better. Absolutely. Which is the doom loop."
+  },
+  {
+    "start": 2912.8,
+    "duration": 6.8,
+    "text": "Yeah. Well, that's why I loved your cramps thing. I really love that. I think you bring"
+  },
+  {
+    "start": 2919.6,
+    "duration": 6.08,
+    "text": "such a healthy perspective around what it takes in order to actually build a high-performance"
+  },
+  {
+    "start": 2925.68,
+    "duration": 8.08,
+    "text": "sales team. And I think starting with community and recognition as the first two elements,"
+  },
+  {
+    "start": 2933.76,
+    "duration": 5.68,
+    "text": "I think is so right. So right. You can't get the best out of a sales team that isn't winning."
+  },
+  {
+    "start": 2940.56,
+    "duration": 6.8,
+    "text": "Just the same way that you can't cut your way to product-market fit, you can't do enough cuts that"
+  },
+  {
+    "start": 2947.36,
+    "duration": 4.56,
+    "text": "will ever get you product-market fit. You could only grow into product-market fit. In the same"
+  },
+  {
+    "start": 2951.92,
+    "duration": 5.6,
+    "text": "way, you can never pressure a sales team into being high-performing. You need to create a"
+  },
+  {
+    "start": 2957.52,
+    "duration": 4.48,
+    "text": "winning culture first, and then you'll get the best out of your people. And I think you really"
+  },
+  {
+    "start": 2962.0,
+    "duration": 5.92,
+    "text": "get the deal. Yeah. I think one of the big challenges people have, just in general,"
+  },
+  {
+    "start": 2967.92,
+    "duration": 9.04,
+    "text": "very broad strokes, is the inability to think long-term. So often the mistakes you see in,"
+  },
+  {
+    "start": 2977.92,
+    "duration": 4.88,
+    "text": "especially early VP sales, but many types of VP sales, they just can't have a long enough"
+  },
+  {
+    "start": 2982.8,
+    "duration": 4.72,
+    "text": "time horizon. And this is actually a quote from a friend of mine who I worked with at Shopify,"
+  },
+  {
+    "start": 2988.08,
+    "duration": 4.24,
+    "text": "Lynette Prestorius, who's a super smart operator. And she's like,"
+  },
+  {
+    "start": 2992.32,
+    "duration": 7.44,
+    "text": "kindness is just about having a short time horizon. In the macro, why would you be unkind to"
+  },
+  {
+    "start": 2999.76,
+    "duration": 6.24,
+    "text": "somebody? There's no long-term benefit to that. It's only long-term negativity. You develop that"
+  },
+  {
+    "start": 3006.0,
+    "duration": 6.48,
+    "text": "reputation, that person won't help you. And I think the sales leader mistreating or"
+  },
+  {
+    "start": 3013.68,
+    "duration": 4.64,
+    "text": "managing poorly is just about, if you zoomed out and you asked somebody,"
+  },
+  {
+    "start": 3018.32,
+    "duration": 5.44,
+    "text": "hey, is it better to have a high-stress, high-anxiety, high-pressure environment to get"
+  },
+  {
+    "start": 3023.76,
+    "duration": 5.2,
+    "text": "performance out of people? Or is it better to have people highly engaged and bought into the work"
+  },
+  {
+    "start": 3028.96,
+    "duration": 4.8,
+    "text": "and feeling like they're developing? Most sane people will say, definitely the second."
+  },
+  {
+    "start": 3033.76,
+    "duration": 8.56,
+    "text": "But the second is a much longer payoff time horizon. And you can get action today off of"
+  },
+  {
+    "start": 3042.32,
+    "duration": 7.28,
+    "text": "stress and anxiety and micromanagement. And this is the same for sales leaders failing to plan that"
+  },
+  {
+    "start": 3049.6,
+    "duration": 6.8,
+    "text": "well and failing to spend enough time on CS and spend enough time with the product team and focus"
+  },
+  {
+    "start": 3056.4,
+    "duration": 4.96,
+    "text": "on customer quality. A lot of these things are just choosing short-term versus long-term."
+  },
+  {
+    "start": 3062.0,
+    "duration": 5.92,
+    "text": "We can maybe touch on comp plan, but you and I have the same beliefs on comp plans. Why are"
+  },
+  {
+    "start": 3067.92,
+    "duration": 5.76,
+    "text": "you putting a VP of sales on a 50-50 plan? They need to think six to 18 months in the future."
+  },
+  {
+    "start": 3073.68,
+    "duration": 5.92,
+    "text": "If it's a real VP of sales, somebody who needs to own revenue generation for the company for"
+  },
+  {
+    "start": 3079.6,
+    "duration": 8.8,
+    "text": "multiple years, it's really difficult to do that if living your same lifestyle that you enjoy today"
+  },
+  {
+    "start": 3088.4,
+    "duration": 8.72,
+    "text": "means you have to deliver the quarter. You just don't want people to make the wrong sacrifice."
+  },
+  {
+    "start": 3099.2,
+    "duration": 9.76,
+    "text": "Comp plans are an incredibly powerful tool in order to create incentive alignment. But when"
+  },
+  {
+    "start": 3108.96,
+    "duration": 6.48,
+    "text": "your incentive as the CEO of the company is to create a billion-dollar business in the next five"
+  },
+  {
+    "start": 3115.44,
+    "duration": 8.96,
+    "text": "years and your VP of sales or CRO's comp plan and incentive is to hit this number this quarter"
+  },
+  {
+    "start": 3124.4,
+    "duration": 9.44,
+    "text": "no matter what, then you are unnaturally creating a friction point between them and you. And"
+  },
+  {
+    "start": 3133.84,
+    "duration": 5.68,
+    "text": "ultimately, if you have misaligned incentives, it's impossible for a team to win. And so I just"
+  },
+  {
+    "start": 3139.52,
+    "duration": 7.28,
+    "text": "think it's a simple fix, which is just to say every person in your team, every member of your"
+  },
+  {
+    "start": 3146.8,
+    "duration": 5.12,
+    "text": "leadership team should have an aligned incentive. And that aligned incentive should be making the"
+  },
+  {
+    "start": 3151.92,
+    "duration": 4.0,
+    "text": "best possible decisions today that lead to the most profitable business tomorrow."
+  },
+  {
+    "start": 3157.68,
+    "duration": 5.12,
+    "text": "So going back to the state of the rep, macro question, do you think there's enough"
+  },
+  {
+    "start": 3163.6,
+    "duration": 4.0,
+    "text": "good reps out there for the number of software companies that exist today?"
+  },
+  {
+    "start": 3170.24,
+    "duration": 5.12,
+    "text": "I think that's a really, really interesting question because the definition of a good"
+  },
+  {
+    "start": 3175.36,
+    "duration": 4.08,
+    "text": "rep has changed substantially over the course of the last 12 to 24 months."
+  },
+  {
+    "start": 3180.08,
+    "duration": 6.32,
+    "text": "It used to be that to be a good rep 24 months ago effectively was a job of charm,"
+  },
+  {
+    "start": 3186.4,
+    "duration": 5.52,
+    "text": "personality, charisma, and detail orientation and process following. And I think the new"
+  },
+  {
+    "start": 3192.8,
+    "duration": 5.92,
+    "text": "unsaid thing that needs to be added is technical capability. And I think there's a lot of sales"
+  },
+  {
+    "start": 3198.72,
+    "duration": 5.28,
+    "text": "professionals that are not technical enough to sell in today's environment. And technical here,"
+  },
+  {
+    "start": 3204.0,
+    "duration": 4.08,
+    "text": "by the way, doesn't mean that you write code. That's not what I mean. I mean, fluency with"
+  },
+  {
+    "start": 3208.08,
+    "duration": 4.08,
+    "text": "the latest trends as far as AI is concerned, as far as their industry is concerned,"
+  },
+  {
+    "start": 3212.8,
+    "duration": 6.24,
+    "text": "as far as their ICP is concerned. I would be willing to put a lot of money,"
+  },
+  {
+    "start": 3219.04,
+    "duration": 6.4,
+    "text": "says that if you hired someone who used to run a kitchen at owner.com, they would probably have"
+  },
+  {
+    "start": 3225.76,
+    "duration": 7.04,
+    "text": "an outsized likelihood of being successful because they've been in the shoes of the customer."
+  },
+  {
+    "start": 3232.8,
+    "duration": 6.4,
+    "text": "They have a deep sense of empathy of what the customer is going through. When I hired our VP"
+  },
+  {
+    "start": 3239.2,
+    "duration": 7.12,
+    "text": "of sales at Bravado, I didn't hire someone who had sold a talent product before. I hired someone who"
+  },
+  {
+    "start": 3246.32,
+    "duration": 5.6,
+    "text": "had been under the pressure of hiring a ton of salespeople before because I was like, this woman"
+  },
+  {
+    "start": 3251.92,
+    "duration": 6.16,
+    "text": "knows exactly what it's like on the face of our customer. When they're like, hey, you got to hire"
+  },
+  {
+    "start": 3258.08,
+    "duration": 4.56,
+    "text": "these 10 reps by next quarter. And if you're behind, it's not like your quota goes down."
+  },
+  {
+    "start": 3262.64,
+    "duration": 5.36,
+    "text": "It's just that you got to get more productivity per rep. So your ass is on the line. And if you"
+  },
+  {
+    "start": 3268.0,
+    "duration": 4.96,
+    "text": "felt that pressure, you know exactly how to sell this product to someone else who does as well."
+  },
+  {
+    "start": 3272.96,
+    "duration": 8.72,
+    "text": "And so I think it's a lot of trying to find sales professionals who can bring that level of empathy"
+  },
+  {
+    "start": 3281.68,
+    "duration": 10.32,
+    "text": "and stewardship and consultation to the market. I think there is a shortage of that, in part,"
+  },
+  {
+    "start": 3292.0,
+    "duration": 6.08,
+    "text": "because of how most companies recruit. I think you are a very notable exception to this, Kyle."
+  },
+  {
+    "start": 3298.8,
+    "duration": 3.12,
+    "text": "And I'm not just saying this because I'm on your pod. I think I've said this to you before"
+  },
+  {
+    "start": 3301.92,
+    "duration": 4.72,
+    "text": "we ever scheduled this, which is the way you write job descriptions and post them on LinkedIn is"
+  },
+  {
+    "start": 3306.64,
+    "duration": 4.48,
+    "text": "something that I think everyone should take a page out of. You should link to it in whatever"
+  },
+  {
+    "start": 3311.12,
+    "duration": 6.56,
+    "text": "this podcast thing is, a few of your JDs that you've posted on LinkedIn. Because they are so"
+  },
+  {
+    "start": 3317.68,
+    "duration": 7.76,
+    "text": "explicitly exclusionary to a lot of people who don't want that job. You're like, hey, we do a"
+  },
+  {
+    "start": 3325.44,
+    "duration": 4.56,
+    "text": "shitload of cold calling. These are super fast transactional deals. You're talking to people."
+  },
+  {
+    "start": 3331.04,
+    "duration": 4.0,
+    "text": "There's a lot of people that don't want to do that. They want to sit behind an email. They"
+  },
+  {
+    "start": 3335.04,
+    "duration": 7.52,
+    "text": "want to have long sales processes. They don't want to sell to small restaurant business owners."
+  },
+  {
+    "start": 3343.04,
+    "duration": 3.12,
+    "text": "There's a lot of people that don't want those requirements. They don't want to sit there and"
+  },
+  {
+    "start": 3346.16,
+    "duration": 3.84,
+    "text": "cold call all day in order to generate their pipeline. And if they don't want to do those"
+  },
+  {
+    "start": 3350.0,
+    "duration": 4.96,
+    "text": "things, then they're not going to apply for your job. But there's too many job descriptions that"
+  },
+  {
+    "start": 3354.96,
+    "duration": 5.92,
+    "text": "are out there that don't do a good job of actually self-selecting out the reps that"
+  },
+  {
+    "start": 3360.88,
+    "duration": 6.16,
+    "text": "wouldn't be a good fit for the role as well. And so I think that the requirements of sales"
+  },
+  {
+    "start": 3367.04,
+    "duration": 5.68,
+    "text": "have changed. I think it's harder to sell than it's ever been because outbound systems are fraying"
+  },
+  {
+    "start": 3372.72,
+    "duration": 6.24,
+    "text": "and are reducing in efficacy, unless you either take the old fashioned, get on the phone and call"
+  },
+  {
+    "start": 3378.96,
+    "duration": 4.48,
+    "text": "people approach, or you do the, I'm going to fly around the country, meet people in person,"
+  },
+  {
+    "start": 3383.44,
+    "duration": 4.8,
+    "text": "have a personal brand and a network approach. Or maybe there's something else that you can do that's"
+  },
+  {
+    "start": 3388.24,
+    "duration": 9.04,
+    "text": "outside of that. But what you cannot do is spin up a few licenses of sales after outreach, sit"
+  },
+  {
+    "start": 3397.28,
+    "duration": 6.8,
+    "text": "there with an army of 22, 23 year old spamming people. You just can't do that anymore. And in a"
+  },
+  {
+    "start": 3404.08,
+    "duration": 5.12,
+    "text": "world in which that doesn't work, there are many sales reps that don't have the skill set to"
+  },
+  {
+    "start": 3409.2,
+    "duration": 4.24,
+    "text": "prospect and generate their own pipeline anymore. And if you can't do that, then I think you're"
+  },
+  {
+    "start": 3413.44,
+    "duration": 6.0,
+    "text": "really in trouble. And so I do think there is more of a shortage than people realize of people"
+  },
+  {
+    "start": 3419.44,
+    "duration": 7.2,
+    "text": "who can actually hit quota in 2024, 2025. Yeah. I think that so much of the onus is on"
+  },
+  {
+    "start": 3426.64,
+    "duration": 5.6,
+    "text": "sales leaders as well. You're not going to have reps just ready to sit in the seat and do the job."
+  },
+  {
+    "start": 3433.2,
+    "duration": 5.76,
+    "text": "You need so much more enablement than I think people invest in. When I tell people about the"
+  },
+  {
+    "start": 3438.96,
+    "duration": 5.92,
+    "text": "size of my enablement RevOps teams, they're like, wait, but you've only got 19 AEs. I'm like,"
+  },
+  {
+    "start": 3444.88,
+    "duration": 5.6,
+    "text": "yeah, but how are you going to run a high productivity team without these tools if"
+  },
+  {
+    "start": 3450.48,
+    "duration": 5.04,
+    "text": "you're just sort of sitting people behind their phone and asking them to figure it out?"
+  },
+  {
+    "start": 3457.36,
+    "duration": 7.36,
+    "text": "The RevOps and enablement investment, I think RevOps gets much more of the credit that it has"
+  },
+  {
+    "start": 3464.8,
+    "duration": 4.0,
+    "text": "always deserved today. Enablement is the next one that I think people are going to really"
+  },
+  {
+    "start": 3469.36,
+    "duration": 2.8,
+    "text": "understand as being underinvested in. I talked to a company"
+  },
+  {
+    "start": 3474.16,
+    "duration": 5.28,
+    "text": "two or three weeks ago. They are in our space and they've got 40 and change reps,"
+  },
+  {
+    "start": 3480.0,
+    "duration": 6.48,
+    "text": "one enablement person, one person. And they do the training, they do everything."
+  },
+  {
+    "start": 3486.48,
+    "duration": 4.16,
+    "text": "I was like, yeah, of course your reps don't. There's no consistency in execution. Nobody's"
+  },
+  {
+    "start": 3490.64,
+    "duration": 4.16,
+    "text": "learning, nobody's advancing. Who's building any of this?"
+  },
+  {
+    "start": 3495.68,
+    "duration": 1.84,
+    "text": "What are your ratios if you don't mind sharing?"
+  },
+  {
+    "start": 3498.72,
+    "duration": 1.12,
+    "text": "So I have-"
+  },
+  {
+    "start": 3502.08,
+    "duration": 1.2,
+    "text": "The 19 reps?"
+  },
+  {
+    "start": 3504.0,
+    "duration": 8.72,
+    "text": "Yeah. So we'll start Jan 1 with 23 AEs and four people in enablement full time."
+  },
+  {
+    "start": 3513.28,
+    "duration": 8.0,
+    "text": "And we have two today, two supporting, call it 16 reps. And then in RevOps,"
+  },
+  {
+    "start": 3522.64,
+    "duration": 5.04,
+    "text": "same numbers on the AE side. And we've got a director, two full-time internal folks,"
+  },
+  {
+    "start": 3527.68,
+    "duration": 6.4,
+    "text": "and then a team of contractors doing contract dev. Two of them are almost full time."
+  },
+  {
+    "start": 3534.08,
+    "duration": 7.92,
+    "text": "But my productivity per rep is roughly 3x my competitors. I've interviewed a bunch of leaders"
+  },
+  {
+    "start": 3542.0,
+    "duration": 8.0,
+    "text": "from people in my space or direct competitors and learned a little bit about their emotions."
+  },
+  {
+    "start": 3550.0,
+    "duration": 6.96,
+    "text": "And we're just on a per person basis in a completely different performance category because"
+  },
+  {
+    "start": 3559.2,
+    "duration": 6.24,
+    "text": "you know how to do your job. We spent a lot of time building content for the reps and building"
+  },
+  {
+    "start": 3565.44,
+    "duration": 4.64,
+    "text": "rules of engagement. And people can go watch my Sastr talk. Lem can put it on his Twitter."
+  },
+  {
+    "start": 3570.08,
+    "duration": 5.92,
+    "text": "It'll be on the YouTube, Sastr YouTube soon. But I talk about the systems we have to communicate"
+  },
+  {
+    "start": 3576.0,
+    "duration": 5.68,
+    "text": "changes. When we make a change to business process or playbooks, there's a green,"
+  },
+  {
+    "start": 3581.68,
+    "duration": 6.8,
+    "text": "yellow, red light process. And if it's a red light change to comp, then we need a notion doc plus an"
+  },
+  {
+    "start": 3588.48,
+    "duration": 4.4,
+    "text": "in-person sit down training. And then the managers have to go over it and they're one-on-ones."
+  },
+  {
+    "start": 3592.88,
+    "duration": 7.36,
+    "text": "And then you do Q&A in your individual one-on-ones. And so without that rigor,"
+  },
+  {
+    "start": 3600.24,
+    "duration": 4.8,
+    "text": "I don't think you can keep up with the chaos and the pace that these businesses run."
+  },
+  {
+    "start": 3606.4,
+    "duration": 4.32,
+    "text": "And so it seems heavy handed. You're like, wow, that's a lot of overhead."
+  },
+  {
+    "start": 3611.44,
+    "duration": 4.24,
+    "text": "Well, yeah, but I'm also getting 16 reps that are doing the work of"
+  },
+  {
+    "start": 3616.24,
+    "duration": 3.12,
+    "text": "45 reps other places because our system is good."
+  },
+  {
+    "start": 3620.16,
+    "duration": 6.32,
+    "text": "So let's take everything you just said and bring it back to the question you asked me,"
+  },
+  {
+    "start": 3626.48,
+    "duration": 3.28,
+    "text": "which is what is the state of the sales rep and what's in the mind of the rep?"
+  },
+  {
+    "start": 3630.64,
+    "duration": 9.2,
+    "text": "And the answer is the number of companies that are thinking about sales rep productivity,"
+  },
+  {
+    "start": 3640.48,
+    "duration": 6.64,
+    "text": "capacity, skill set, up leveling, training in the lens that you are. If you were to imagine"
+  },
+  {
+    "start": 3647.12,
+    "duration": 5.68,
+    "text": "a thousand CROs sitting in a room, what percentage do you think are holding the type"
+  },
+  {
+    "start": 3652.8,
+    "duration": 5.92,
+    "text": "of ratios and the type of investment that you're making for a team of 16, 19 people,"
+  },
+  {
+    "start": 3659.52,
+    "duration": 5.2,
+    "text": "a six, eight person team that's fueling that in order to drive productivity of 50?"
+  },
+  {
+    "start": 3666.24,
+    "duration": 3.92,
+    "text": "What percentage of the market do you think looks like that roughly? Just take a guess."
+  },
+  {
+    "start": 3672.72,
+    "duration": 2.64,
+    "text": "I don't know. I don't want to be overly arrogant, but like not."
+  },
+  {
+    "start": 3675.36,
+    "duration": 2.32,
+    "text": "No, just what do you think? What do you think?"
+  },
+  {
+    "start": 3677.68,
+    "duration": 0.72,
+    "text": "Ten percent."
+  },
+  {
+    "start": 3679.68,
+    "duration": 6.16,
+    "text": "I think one percent would be a stretch. Honestly, I really do. I mean, again, we have somewhere in"
+  },
+  {
+    "start": 3685.84,
+    "duration": 6.72,
+    "text": "the vicinity of 90,000 VPs of sales and CROs on Vivado. And the reason why I enjoy your friendship"
+  },
+  {
+    "start": 3692.56,
+    "duration": 6.72,
+    "text": "so much is because, I mean, nobody's doing this. Nobody's doing this. Maybe there's a very tiny"
+  },
+  {
+    "start": 3699.28,
+    "duration": 3.76,
+    "text": "handful of people somewhere scattered around that are doing this. There's a lot of people."
+  },
+  {
+    "start": 3703.04,
+    "duration": 2.0,
+    "text": "He makes me feel like I need to do more."
+  },
+  {
+    "start": 3705.04,
+    "duration": 5.68,
+    "text": "Yeah, that's right. But you know off the top of your head the people that are doing it. I also"
+  },
+  {
+    "start": 3710.72,
+    "duration": 4.48,
+    "text": "know some people that are doing it, but that's not the point. The point is that the average rep"
+  },
+  {
+    "start": 3715.2,
+    "duration": 4.8,
+    "text": "is stuck in a company that has never even thought about doing what you just said. Forget about doing"
+  },
+  {
+    "start": 3720.0,
+    "duration": 6.08,
+    "text": "it. It's never even occurred to them. All they think about are more reps, more deals, more"
+  },
+  {
+    "start": 3726.08,
+    "duration": 7.12,
+    "text": "pressure, higher quota, more sales, more volume, more, more, more, more. Nobody's stopping to"
+  },
+  {
+    "start": 3733.2,
+    "duration": 8.32,
+    "text": "think about the sports science approach of basically a small team of sellers heavily"
+  },
+  {
+    "start": 3741.52,
+    "duration": 4.56,
+    "text": "supported with everything they need around them and making them high performing."
+  },
+  {
+    "start": 3746.08,
+    "duration": 4.8,
+    "text": "Because I'll tell you what, I'll tell you who's really happy when you have 3x the productivity"
+  },
+  {
+    "start": 3750.88,
+    "duration": 5.36,
+    "text": "of the average rep. It's the rep. That's who's really happy. Because at the end of the day,"
+  },
+  {
+    "start": 3756.24,
+    "duration": 5.84,
+    "text": "winning, posing deals, seeing success, and having things and tools around you for you to level up"
+  },
+  {
+    "start": 3762.08,
+    "duration": 5.52,
+    "text": "your career. That's what it's all about. I saw in your prep doc, you asked the question,"
+  },
+  {
+    "start": 3767.6,
+    "duration": 5.2,
+    "text": "what is the difference between a good and a great CRO? I've been thinking about it since I read that"
+  },
+  {
+    "start": 3772.8,
+    "duration": 6.08,
+    "text": "question a couple days ago. One of the things that stuck in my head is we are so eager to build"
+  },
+  {
+    "start": 3778.88,
+    "duration": 6.8,
+    "text": "AI SDRs, AI prospectors, basically automating away entry-level sales jobs."
+  },
+  {
+    "start": 3787.6,
+    "duration": 7.76,
+    "text": "I think the people who are really excited about that are the people perversely who are the worst"
+  },
+  {
+    "start": 3795.36,
+    "duration": 5.04,
+    "text": "at actually training and developing sales teams. Because when I think about AI SDRs,"
+  },
+  {
+    "start": 3800.4,
+    "duration": 4.64,
+    "text": "it makes me really nervous because I'm like, well, how am I supposed to build the future"
+  },
+  {
+    "start": 3805.04,
+    "duration": 4.56,
+    "text": "rockstar sellers if I can't hand them these types of jobs so they can learn on the job?"
+  },
+  {
+    "start": 3809.6,
+    "duration": 6.4,
+    "text": "Am I going to have to hire them as super junior full-cycle reps? Where my mind turns when I hear"
+  },
+  {
+    "start": 3816.56,
+    "duration": 6.24,
+    "text": "automating away entry-level sales jobs is what the future pipeline for sales talent looks like."
+  },
+  {
+    "start": 3822.8,
+    "duration": 4.0,
+    "text": "I think it's something that people aren't spending a lot of time thinking or talking about because"
+  },
+  {
+    "start": 3826.8,
+    "duration": 3.36,
+    "text": "they don't spend a lot of time thinking about developing. They just want to hire someone else"
+  },
+  {
+    "start": 3830.16,
+    "duration": 4.56,
+    "text": "as rockstar. But I'll tell you what, I think your best talent is the talent that you develop"
+  },
+  {
+    "start": 3834.72,
+    "duration": 5.6,
+    "text": "internally. It's not hiring from external and just finding the perfect rep because they worked"
+  },
+  {
+    "start": 3840.32,
+    "duration": 6.16,
+    "text": "at Strike last or Shopify last or whatever. It's finding the person who needs some training and"
+  },
+  {
+    "start": 3846.48,
+    "duration": 4.32,
+    "text": "some coaching but has those raw intangibles and then getting the best out of them. Then they"
+  },
+  {
+    "start": 3850.8,
+    "duration": 4.64,
+    "text": "become the super outlier performer at your company. Yeah, I couldn't agree."
+  },
+  {
+    "start": 3856.0,
+    "duration": 7.2,
+    "text": "Yeah, we did this awards trip a couple months ago. So I was trying to count how many promotions we"
+  },
+  {
+    "start": 3863.2,
+    "duration": 9.2,
+    "text": "made. I think around 50 in the last 18 months between people going SDR, senior, AE, inbound"
+  },
+  {
+    "start": 3872.4,
+    "duration": 9.36,
+    "text": "to outbound, outbound to multi, multi, all the way through. It makes sense. You know my system."
+  },
+  {
+    "start": 3881.76,
+    "duration": 4.08,
+    "text": "You should be better than somebody on the outside and we've definitely found that."
+  },
+  {
+    "start": 3887.28,
+    "duration": 7.92,
+    "text": "I think the other big thing with this AISDR thing, again, it's short term. There's no way"
+  },
+  {
+    "start": 3895.2,
+    "duration": 8.72,
+    "text": "you can spam your entire market sustainably through $50 million ARR. Because Google,"
+  },
+  {
+    "start": 3903.92,
+    "duration": 6.16,
+    "text": "Outlook, all of these email providers are going to have to close the door at some point if every"
+  },
+  {
+    "start": 3910.08,
+    "duration": 5.52,
+    "text": "company is just playing a spam cannon game. And so yeah, in the next six to 12 months,"
+  },
+  {
+    "start": 3915.6,
+    "duration": 5.68,
+    "text": "there's a tremendous opportunity to AI spam your market and the messaging will be better than"
+  },
+  {
+    "start": 3921.28,
+    "duration": 7.84,
+    "text": "it was but still very low open and reply rates. But you can now do enough of it a little bit better"
+  },
+  {
+    "start": 3929.12,
+    "duration": 4.4,
+    "text": "that it will be effective. But then as soon as more companies are doing it, that game is done."
+  },
+  {
+    "start": 3933.52,
+    "duration": 7.84,
+    "text": "And so Stevie Case from Who's the CRO of Vanta gave me this language. She was like,"
+  },
+  {
+    "start": 3941.36,
+    "duration": 5.68,
+    "text": "it's a party trick. It's not durable. And I don't want reps. When she's interviewing reps,"
+  },
+  {
+    "start": 3947.04,
+    "duration": 5.2,
+    "text": "she's like, does this person have a durable advantage or did they have one good year"
+  },
+  {
+    "start": 3952.24,
+    "duration": 5.28,
+    "text": "hitting an exceeding quota because of some party trick? They found some little niche in the market"
+  },
+  {
+    "start": 3957.84,
+    "duration": 8.16,
+    "text": "and I think this AISDR thing is a party trick. What I love most about everything you just said,"
+  },
+  {
+    "start": 3966.0,
+    "duration": 6.64,
+    "text": "and I love Stevie as well. She's brilliant. The thing that I love about what you just said"
+  },
+  {
+    "start": 3973.2,
+    "duration": 8.32,
+    "text": "is this idea of durability. And I think systems level thinking around what would create a durable,"
+  },
+  {
+    "start": 3981.6,
+    "duration": 9.04,
+    "text": "scalable sales process, sales team motion is again, just underinvested in. I'm going to take"
+  },
+  {
+    "start": 3990.64,
+    "duration": 8.96,
+    "text": "away from this conversation, this idea of a context window or time horizon. It really is"
+  },
+  {
+    "start": 3999.6,
+    "duration": 4.88,
+    "text": "clarifying to say that like, hey, this is going to work for a little while and so we're going to"
+  },
+  {
+    "start": 4004.48,
+    "duration": 5.92,
+    "text": "do it. But is it actually the right thing to invest in? And I think AISDR is a great example"
+  },
+  {
+    "start": 4010.4,
+    "duration": 6.16,
+    "text": "of something that you take something that wasn't working that well, which is spamming people with"
+  },
+  {
+    "start": 4016.56,
+    "duration": 8.56,
+    "text": "outreach and sales loft and whatever. And now you're just going to add another layer of, call"
+  },
+  {
+    "start": 4025.12,
+    "duration": 7.36,
+    "text": "it trickery on top of it. But ultimately, you're not really solving the problem, which is there are"
+  },
+  {
+    "start": 4032.48,
+    "duration": 4.96,
+    "text": "real customers out there that need your product and that don't know about it. And what is a"
+  },
+  {
+    "start": 4037.44,
+    "duration": 6.08,
+    "text": "sustainable way for you to introduce it to them in a way in which they are receptive to the message?"
+  },
+  {
+    "start": 4043.52,
+    "duration": 5.44,
+    "text": "It's actually not that hard. If you think about the problem more concretely, it's just like, hey,"
+  },
+  {
+    "start": 4048.96,
+    "duration": 5.84,
+    "text": "there's restaurant owners who would benefit if they were to be on Owner.com and they just haven't"
+  },
+  {
+    "start": 4054.8,
+    "duration": 5.52,
+    "text": "heard of it for some reason. How do I introduce it to them? And if you just start from first"
+  },
+  {
+    "start": 4060.32,
+    "duration": 6.64,
+    "text": "principles, it's a lot simpler than saying, let me buy some 11x artisan, this, that, spin up these"
+  },
+  {
+    "start": 4066.96,
+    "duration": 7.12,
+    "text": "things, domain masking, this, that, whatever. And ultimately, it's just another form of trickery."
+  },
+  {
+    "start": 4076.32,
+    "duration": 6.0,
+    "text": "So let's tie off this state of the sales rep topic. What else do revenue leaders need to know"
+  },
+  {
+    "start": 4082.32,
+    "duration": 7.6,
+    "text": "about the rep today? And I wonder if you have any data on it, in person versus remote,"
+  },
+  {
+    "start": 4089.92,
+    "duration": 6.16,
+    "text": "what are they optimizing for? What do leaders need to know from your insight of the psyche of the rep?"
+  },
+  {
+    "start": 4096.96,
+    "duration": 11.12,
+    "text": "I think that it is undeniable that there is a bifurcation in terms of"
+  },
+  {
+    "start": 4108.96,
+    "duration": 4.56,
+    "text": "some sales professionals and sales leaders really prefer to be in person."
+  },
+  {
+    "start": 4113.52,
+    "duration": 5.84,
+    "text": "They really miss the energy. They really miss the camaraderie and the vibes."
+  },
+  {
+    "start": 4120.08,
+    "duration": 8.32,
+    "text": "But you are significantly limiting the talent pool that you're going to recruit from if you"
+  },
+  {
+    "start": 4128.4,
+    "duration": 6.4,
+    "text": "use an in-person strategy, because it's inconceivable that the best reps are just"
+  },
+  {
+    "start": 4134.8,
+    "duration": 3.92,
+    "text": "all within a 20 mile radius of wherever your office happens to be for your market."
+  },
+  {
+    "start": 4139.52,
+    "duration": 5.44,
+    "text": "I think that remote work is something that is desirable, especially for people who are in later"
+  },
+  {
+    "start": 4144.96,
+    "duration": 3.92,
+    "text": "stages in their career, where they have children and things they need to balance."
+  },
+  {
+    "start": 4150.48,
+    "duration": 6.4,
+    "text": "And ultimately, the data, what it shows is that companies, so Unprovided, one of the things we"
+  },
+  {
+    "start": 4156.88,
+    "duration": 7.04,
+    "text": "track is in-person versus remote quota attainment. And one of the things that we've seen is that"
+  },
+  {
+    "start": 4163.92,
+    "duration": 5.44,
+    "text": "there is absolutely no correlation whatsoever between whether a sales team is in-person or"
+  },
+  {
+    "start": 4169.36,
+    "duration": 6.24,
+    "text": "remote and whether they hit quota or not. No correlation whatsoever. We have tracked the"
+  },
+  {
+    "start": 4175.6,
+    "duration": 5.92,
+    "text": "statistics since 2020 with COVID, because I was curious to see what the changes were."
+  },
+  {
+    "start": 4182.64,
+    "duration": 4.08,
+    "text": "We've been splitting teams. As soon as people started coming back, we would start to pocket"
+  },
+  {
+    "start": 4186.72,
+    "duration": 4.56,
+    "text": "them. There's absolutely no correlation. There are sales teams that are fully remote"
+  },
+  {
+    "start": 4191.28,
+    "duration": 4.08,
+    "text": "that are blowing out quotas. There are sales teams that are fully in-person that are blowing"
+  },
+  {
+    "start": 4195.36,
+    "duration": 6.88,
+    "text": "out quotas. And the inverse is true on both sides. However, there is certainly a correlation"
+  },
+  {
+    "start": 4202.8,
+    "duration": 7.52,
+    "text": "that if you are selling an SMB product, in-person does work better. And if you are selling a"
+  },
+  {
+    "start": 4210.32,
+    "duration": 4.72,
+    "text": "enterprise product, remote does work better. I was just going to ask that question. Yeah."
+  },
+  {
+    "start": 4215.04,
+    "duration": 5.12,
+    "text": "Okay. Well, there you go. So that does correlate. So I think it's more contextual based on your"
+  },
+  {
+    "start": 4220.16,
+    "duration": 4.72,
+    "text": "emotion and the experience level of your reps and such. But overall in the market,"
+  },
+  {
+    "start": 4224.88,
+    "duration": 6.4,
+    "text": "there's no correlation. But if you are selling a sub-20, 30K ACV product where the average rep"
+  },
+  {
+    "start": 4231.84,
+    "duration": 5.04,
+    "text": "that you're bringing on has a sub-10 year of less than three, four years, and they therefore require"
+  },
+  {
+    "start": 4236.88,
+    "duration": 6.96,
+    "text": "a little bit more training and probably enjoy the perks of an office a bit more, they do benefit"
+  },
+  {
+    "start": 4243.84,
+    "duration": 5.36,
+    "text": "from that oversight and that camaraderie. And then if you're selling $10 million to $50 million"
+  },
+  {
+    "start": 4250.08,
+    "duration": 6.0,
+    "text": "enterprise software, cybersecurity deals, whatever, then trying to create an in-person"
+  },
+  {
+    "start": 4256.08,
+    "duration": 6.32,
+    "text": "culture for that sales team, it correlates to lower performance."
+  },
+  {
+    "start": 4263.36,
+    "duration": 6.16,
+    "text": "And you'll introduce such a selection bias because if you're a 35-year-old, 40-year-old"
+  },
+  {
+    "start": 4269.52,
+    "duration": 5.52,
+    "text": "enterprise rep and you're really good and you have a bunch of different offers,"
+  },
+  {
+    "start": 4275.04,
+    "duration": 4.72,
+    "text": "you've probably got kids or you like to travel or you've got other stuff going on and"
+  },
+  {
+    "start": 4280.56,
+    "duration": 4.96,
+    "text": "you're just going to cross companies off the list that are like, hey, you've got to be in an office."
+  },
+  {
+    "start": 4285.52,
+    "duration": 0.5,
+    "text": "Yeah."
+  },
+  {
+    "start": 4287.76,
+    "duration": 4.24,
+    "text": "I would like to be in an office a little bit here and there, but I got a two and a half and a four"
+  },
+  {
+    "start": 4292.0,
+    "duration": 4.4,
+    "text": "and a half year old. It would be hard to be like, hey, you've got to be in an office every single"
+  },
+  {
+    "start": 4296.4,
+    "duration": 6.32,
+    "text": "day, be in traffic 45 minutes both ways. It's a tough sell."
+  },
+  {
+    "start": 4303.28,
+    "duration": 5.36,
+    "text": "It's a tough sell. And the other thing that I find is that this, by the way,"
+  },
+  {
+    "start": 4311.28,
+    "duration": 4.0,
+    "text": "you know what? Fine. I wasn't planning on sharing this publicly, but I think it's"
+  },
+  {
+    "start": 4316.32,
+    "duration": 7.76,
+    "text": "just for you, Kyle. There is a definite correlation between one of the fun things"
+  },
+  {
+    "start": 4324.08,
+    "duration": 5.6,
+    "text": "that we did as a little internal project at Bermano. There's a strong correlation between"
+  },
+  {
+    "start": 4329.68,
+    "duration": 4.72,
+    "text": "rep performance and whether they have kids under the age of five, which is to say that,"
+  },
+  {
+    "start": 4335.12,
+    "duration": 5.52,
+    "text": "yeah, because it turns out that as soon as you have a kid, you're like, shit, I really got to"
+  },
+  {
+    "start": 4340.64,
+    "duration": 4.72,
+    "text": "make my point. I really got to- Wait, so they make, they attain better?"
+  },
+  {
+    "start": 4346.08,
+    "duration": 8.24,
+    "text": "Rep performance increases of people who have kids under the age of five. And our thesis at Bermano"
+  },
+  {
+    "start": 4354.32,
+    "duration": 9.04,
+    "text": "is that the reason for that is because kids are expensive. But also, it's like you have a deeper"
+  },
+  {
+    "start": 4363.36,
+    "duration": 4.4,
+    "text": "purpose with every second. You're like, I'm not going to waste my time with shitty leads. I'm"
+  },
+  {
+    "start": 4367.76,
+    "duration": 7.76,
+    "text": "going to really make every deal count. There's a forced function of focus and not wasting your"
+  },
+  {
+    "start": 4375.52,
+    "duration": 5.04,
+    "text": "time chasing bad opportunities and really honing in on the deals that'll close and stuff. It's"
+  },
+  {
+    "start": 4380.56,
+    "duration": 4.96,
+    "text": "actually quite interesting and remarkable. But yeah, we've seen very strongly that, especially"
+  },
+  {
+    "start": 4385.52,
+    "duration": 6.32,
+    "text": "in the first three or four years, rep performance increases right after. It's like when someone buys"
+  },
+  {
+    "start": 4391.84,
+    "duration": 3.92,
+    "text": "a house, gets married, or has a kid, it's like their performance didn't set up takeover time."
+  },
+  {
+    "start": 4395.76,
+    "duration": 3.52,
+    "text": "It's super interesting trend. There's a science behind it."
+  },
+  {
+    "start": 4400.88,
+    "duration": 5.76,
+    "text": "I would have thought it was the opposite. As a dad of two kids under five, there's so much going on"
+  },
+  {
+    "start": 4407.44,
+    "duration": 5.84,
+    "text": "in your home life that I would think it would get in the way. But hearing that explanation does make"
+  },
+  {
+    "start": 4413.28,
+    "duration": 5.2,
+    "text": "a lot of sense. Because you just cut everything. When I had kids, I just cut everything that wasn't"
+  },
+  {
+    "start": 4419.12,
+    "duration": 6.0,
+    "text": "my kids or working and all of the shenanigans. I don't really drink anymore. I barely go out."
+  },
+  {
+    "start": 4426.72,
+    "duration": 2.08,
+    "text": "I don't get to golf, unfortunately."
+  },
+  {
+    "start": 4430.08,
+    "duration": 3.12,
+    "text": "Your vacations have stopped. Your boys trips have stopped or whatever."
+  },
+  {
+    "start": 4433.52,
+    "duration": 6.4,
+    "text": "You really carve down to work and family. That is really interesting. I'm glad you shared that."
+  },
+  {
+    "start": 4442.4,
+    "duration": 4.0,
+    "text": "Okay. Anything else on the rep side? Things that a sales leader needs to know about the state of"
+  },
+  {
+    "start": 4446.4,
+    "duration": 6.72,
+    "text": "the rep? I think there's one thing that we didn't touch on. It's not a big point. I'll just leave it"
+  },
+  {
+    "start": 4453.12,
+    "duration": 7.84,
+    "text": "here, which is I think we have under-invested as a community over the last couple of years"
+  },
+  {
+    "start": 4461.04,
+    "duration": 4.96,
+    "text": "of giving people a vision of where their careers are going and instead really focused on the"
+  },
+  {
+    "start": 4466.0,
+    "duration": 8.0,
+    "text": "day-to-day productivity. This idea that you can just be like, hey, you can make a little bit more"
+  },
+  {
+    "start": 4474.0,
+    "duration": 6.24,
+    "text": "money or you can do whatever and that's good enough. I don't think so. I think something that"
+  },
+  {
+    "start": 4480.24,
+    "duration": 5.28,
+    "text": "I would love to see more leaders do is be like, hey, I know there's all these tools that are being"
+  },
+  {
+    "start": 4485.52,
+    "duration": 5.2,
+    "text": "created to help with productivity of sales teams and stuff like that. What if I gave you a budget"
+  },
+  {
+    "start": 4490.72,
+    "duration": 3.68,
+    "text": "and you can buy a couple of them and check them out and then report back to the team as to which"
+  },
+  {
+    "start": 4494.4,
+    "duration": 5.36,
+    "text": "ones are good or bad and you can help us improve the productivity of the team through your own"
+  },
+  {
+    "start": 4499.76,
+    "duration": 9.04,
+    "text": "efforts? Or, hey, we sell to restaurant owners. I'd love to send you for a month to go work in"
+  },
+  {
+    "start": 4508.8,
+    "duration": 4.8,
+    "text": "a restaurant and get a sense of what that is like so that you can really get some empathy and try"
+  },
+  {
+    "start": 4513.6,
+    "duration": 5.04,
+    "text": "something different for a bit. The creative fun stuff that used to happen. We used to do things"
+  },
+  {
+    "start": 4518.64,
+    "duration": 6.72,
+    "text": "like this. I think we've forgotten to have fun a little bit as a company. We've gotten really good"
+  },
+  {
+    "start": 4525.36,
+    "duration": 11.28,
+    "text": "at QSR-ing the experience. Yeah. And actually, it's robbed us a little bit of the joy. And I"
+  },
+  {
+    "start": 4536.64,
+    "duration": 7.92,
+    "text": "think part of what makes sales so fun is these experiential outliers moments. I like to think of"
+  },
+  {
+    "start": 4544.64,
+    "duration": 5.52,
+    "text": "them as just magic moments for the team. And continuing to create those, I think, in whichever"
+  },
+  {
+    "start": 4550.16,
+    "duration": 5.52,
+    "text": "way that as a leader you can, is extremely accretive to the performance of the team."
+  },
+  {
+    "start": 4555.68,
+    "duration": 6.88,
+    "text": "Yeah. I'm almost done reading The Power of Moments by the Heath Brothers, and it's fantastic on this"
+  },
+  {
+    "start": 4562.56,
+    "duration": 4.4,
+    "text": "topic about the importance of moments, how to create them. We're trying to do a lot of this"
+  },
+  {
+    "start": 4566.96,
+    "duration": 6.56,
+    "text": "on my team right now. We've got these plaques, and you can insert your awards into the plaque,"
+  },
+  {
+    "start": 4573.52,
+    "duration": 5.12,
+    "text": "just sort of like in a video game, you earn badges, quota attainment, you were the top rep,"
+  },
+  {
+    "start": 4578.64,
+    "duration": 8.0,
+    "text": "the values award, it fits into this glass piece of the plaque as a tangible reminder of your"
+  },
+  {
+    "start": 4587.2,
+    "duration": 3.84,
+    "text": "accomplishments. Coming back to the importance of these moments when we're remote,"
+  },
+  {
+    "start": 4591.04,
+    "duration": 4.96,
+    "text": "it's like, awesome, I had my best month ever. I'm still just sitting in my little office,"
+  },
+  {
+    "start": 4596.0,
+    "duration": 8.4,
+    "text": "typing on my little keyboard. Nothing changes, and so trying to attach a moment or a physical"
+  },
+  {
+    "start": 4604.4,
+    "duration": 4.72,
+    "text": "object to that is something I've been trying to do. I love it. I love that. I've heard of"
+  },
+  {
+    "start": 4609.12,
+    "duration": 5.92,
+    "text": "some companies that they have a Letterman jacket sort of thing, and then you get a patch that you"
+  },
+  {
+    "start": 4615.04,
+    "duration": 7.04,
+    "text": "can add on and stuff like that. I thought about doing a Cub Scouts sash, like a girl's girl guide"
+  },
+  {
+    "start": 4622.16,
+    "duration": 6.8,
+    "text": "sash, but I thought people might not love that. Martin Roth has a bunch of cool stuff that he's"
+  },
+  {
+    "start": 4628.96,
+    "duration": 6.72,
+    "text": "done on that. He gave everybody a baseball bat the first time they hit quotas, hit their full"
+  },
+  {
+    "start": 4635.68,
+    "duration": 6.24,
+    "text": "quota, and there was a bat ceremony and all this stuff. Yeah, these things are special,"
+  },
+  {
+    "start": 4641.92,
+    "duration": 13.76,
+    "text": "and it's hard to replicate. Ultimately, work is business. We started this conversation talking"
+  },
+  {
+    "start": 4655.68,
+    "duration": 5.68,
+    "text": "about the criticality of not ignoring our fiduciary responsibility in the game that we"
+  },
+  {
+    "start": 4661.36,
+    "duration": 9.04,
+    "text": "signed up for. It was never about the ping pong balls or the free sodas or the cool offices."
+  },
+  {
+    "start": 4670.4,
+    "duration": 6.96,
+    "text": "It was about the feeling of having a really cool space to work with cool people. In a remote world,"
+  },
+  {
+    "start": 4677.36,
+    "duration": 2.72,
+    "text": "you have to replicate that or you're just going to lose people. You're going to lose their"
+  },
+  {
+    "start": 4680.08,
+    "duration": 4.56,
+    "text": "motivation. You're going to lose their fun. I haven't read that book that you just mentioned,"
+  },
+  {
+    "start": 4684.64,
+    "duration": 3.04,
+    "text": "The Power of Moments, but it seems like a really good one, and I will check that out."
+  },
+  {
+    "start": 4687.68,
+    "duration": 6.8,
+    "text": "Yeah. Lemkin had a great post today. Work-life balance is critical. It really is,"
+  },
+  {
+    "start": 4694.48,
+    "duration": 4.32,
+    "text": "but when your work is also your hobby, I mean, you can really ship a lot of stuff."
+  },
+  {
+    "start": 4700.72,
+    "duration": 0.96,
+    "text": "That's a good one."
+  },
+  {
+    "start": 4701.68,
+    "duration": 6.0,
+    "text": "When you can make it feel like, I do like coming into work every day. I love sales."
+  },
+  {
+    "start": 4707.68,
+    "duration": 7.04,
+    "text": "I love being able to grow and invest people. People are always like, man, do you ever get"
+  },
+  {
+    "start": 4714.72,
+    "duration": 5.68,
+    "text": "burned out? Or how do you do all these things? I'm like, I don't know, man. I like it. I genuinely"
+  },
+  {
+    "start": 4720.4,
+    "duration": 5.2,
+    "text": "enjoy the puzzle and the people development. All right, let's go to a quick fire because"
+  },
+  {
+    "start": 4725.6,
+    "duration": 6.88,
+    "text": "we're running out of time. What do you wish you knew as a leader at the beginning of your"
+  },
+  {
+    "start": 4732.48,
+    "duration": 2.96,
+    "text": "people management career? Something you know today that you wish you knew back then."
+  },
+  {
+    "start": 4736.0,
+    "duration": 7.12,
+    "text": "Yeah. I think we just touched on what I think is the most unobvious part of being a leader,"
+  },
+  {
+    "start": 4743.12,
+    "duration": 4.16,
+    "text": "which is that you have to remember that the rep wants to do the best job and win too."
+  },
+  {
+    "start": 4748.0,
+    "duration": 4.56,
+    "text": "It can feel as if like, why didn't you just say this? Or why didn't you just do that? Or why are"
+  },
+  {
+    "start": 4752.56,
+    "duration": 7.2,
+    "text": "you? Why are you? Why are you? Why are you? And getting to the how and the motivation of the"
+  },
+  {
+    "start": 4759.76,
+    "duration": 5.28,
+    "text": "person and tying that to their work. Again, I think Katie does an incredible job on this part."
+  },
+  {
+    "start": 4766.48,
+    "duration": 5.2,
+    "text": "When people start in this company, he has them write down if you were to hit your annual number,"
+  },
+  {
+    "start": 4771.68,
+    "duration": 5.44,
+    "text": "what would you do with that money? And then knowing what matters to that person and then"
+  },
+  {
+    "start": 4777.12,
+    "duration": 6.48,
+    "text": "being able to speak to that. Knowing the names of their partners and their kids and being able"
+  },
+  {
+    "start": 4783.6,
+    "duration": 6.8,
+    "text": "to refer to that in moments that shit gets tough because it sells. Shit always gets tough. It's a"
+  },
+  {
+    "start": 4790.4,
+    "duration": 9.2,
+    "text": "hard job. And creating a... leading with a culture of empathy, I think is easier said than done."
+  },
+  {
+    "start": 4800.32,
+    "duration": 8.0,
+    "text": "But not eschewing tough conversations, I think is the other half of it. So it's a two-part thing."
+  },
+  {
+    "start": 4808.32,
+    "duration": 4.96,
+    "text": "So at once, you want to lead from a perspective of love and compassion. At the other end,"
+  },
+  {
+    "start": 4813.84,
+    "duration": 6.64,
+    "text": "a lot of sales leaders I know hold back the real feedback. And I think sometimes they're thinking"
+  },
+  {
+    "start": 4820.48,
+    "duration": 4.48,
+    "text": "it too. And you just got to... someone's got to say it. And it can be hard for someone to just"
+  },
+  {
+    "start": 4824.96,
+    "duration": 6.96,
+    "text": "say it. And so I really love a sales leader who is capable of saying the hard thing and saying it"
+  },
+  {
+    "start": 4831.92,
+    "duration": 5.68,
+    "text": "with love, but saying the hard thing and then having the right conversation. Yeah. What's"
+  },
+  {
+    "start": 4837.6,
+    "duration": 7.28,
+    "text": "the hardest lesson you've had to learn in your career? I mean, I think the hardest lesson I ever"
+  },
+  {
+    "start": 4844.88,
+    "duration": 7.68,
+    "text": "learned was my arms are too short to box with God. I think that was it. I think it was just the fact"
+  },
+  {
+    "start": 4852.56,
+    "duration": 7.36,
+    "text": "that it doesn't matter. A lot of what you do doesn't really matter compared to what the market"
+  },
+  {
+    "start": 4859.92,
+    "duration": 11.68,
+    "text": "will do. I worked so hard. I'd gotten... the first real early stage startup I joined was Glassdoor."
+  },
+  {
+    "start": 4872.24,
+    "duration": 8.8,
+    "text": "And I worked... I was always crazy, crazy hardworking because I had strict Indian parents"
+  },
+  {
+    "start": 4881.04,
+    "duration": 8.8,
+    "text": "that refused to let me be any other way. And so I worked 95% of my capacity or whatever when I was"
+  },
+  {
+    "start": 4889.84,
+    "duration": 4.0,
+    "text": "at Glassdoor. And obviously, we had tremendous success as a company and it changed my life"
+  },
+  {
+    "start": 4893.84,
+    "duration": 6.96,
+    "text": "forever and whatever. And then I went to go join this other startup. And that startup was just not"
+  },
+  {
+    "start": 4900.8,
+    "duration": 4.24,
+    "text": "good. The product was not good. The marketing was not good. This company was never going to be"
+  },
+  {
+    "start": 4905.04,
+    "duration": 4.88,
+    "text": "successful. It didn't matter what I did. But I worked like 195% of that company."
+  },
+  {
+    "start": 4911.6,
+    "duration": 6.32,
+    "text": "I would stay in the office all night. I did just an outsized amount of work,"
+  },
+  {
+    "start": 4918.88,
+    "duration": 6.08,
+    "text": "inhumanely amounts of work because I had such pride and ego issues and self-esteem issues that"
+  },
+  {
+    "start": 4924.96,
+    "duration": 7.2,
+    "text": "I could never fail as my first VP of sales job. I just could not live with that failure. I did fail."
+  },
+  {
+    "start": 4932.16,
+    "duration": 5.84,
+    "text": "And it scarred me for a while. And it was really hard. But now with the benefit of hindsight,"
+  },
+  {
+    "start": 4938.56,
+    "duration": 6.0,
+    "text": "I know that ultimately, I could have worked half as hard at Glassdoor and still would have been"
+  },
+  {
+    "start": 4944.56,
+    "duration": 4.56,
+    "text": "super successful as it turns out. And I could have worked even 5x harder at that other one."
+  },
+  {
+    "start": 4949.12,
+    "duration": 4.8,
+    "text": "And so ultimately, the market will do what the market will do. And so when the market"
+  },
+  {
+    "start": 4953.92,
+    "duration": 6.0,
+    "text": "turns and times are shitty, you just got to... You have to be dispassionate and unemotional"
+  },
+  {
+    "start": 4959.92,
+    "duration": 6.16,
+    "text": "about things like your career and your work. And you have to be cogent of reality,"
+  },
+  {
+    "start": 4966.08,
+    "duration": 4.08,
+    "text": "which I think is really hard to do because then you have to accept that it's not all in your"
+  },
+  {
+    "start": 4970.16,
+    "duration": 4.24,
+    "text": "control. And that's a hard thing as a salesperson to accept because you want to feel in control."
+  },
+  {
+    "start": 4974.4,
+    "duration": 3.76,
+    "text": "That's part of the reason we do this job is because we like having control over our pay"
+  },
+  {
+    "start": 4978.16,
+    "duration": 4.48,
+    "text": "and our destiny and our futures and stuff. And to accept that like, nope, it's just..."
+  },
+  {
+    "start": 4982.64,
+    "duration": 2.32,
+    "text": "Sometimes it just is what it is and you just got to accept it,"
+  },
+  {
+    "start": 4984.96,
+    "duration": 2.96,
+    "text": "I think is really hard for people. And it was certainly hard for me."
+  },
+  {
+    "start": 4987.92,
+    "duration": 4.16,
+    "text": "That's a good one. Last question. What's the best thing you read in the last 12 months?"
+  },
+  {
+    "start": 4996.24,
+    "duration": 10.0,
+    "text": "I do read a lot. I enjoy it. I used to watch TV before going to bed and then get really"
+  },
+  {
+    "start": 5006.24,
+    "duration": 6.08,
+    "text": "poor sleep and then woke up to blue light issues and stuff like that. And so now I read a lot."
+  },
+  {
+    "start": 5013.04,
+    "duration": 2.8,
+    "text": "There's a book called Stumbling Upon Happiness. Do you know it?"
+  },
+  {
+    "start": 5015.84,
+    "duration": 3.04,
+    "text": "Yeah, yeah. Dan Harris. Yeah, good plug."
+  },
+  {
+    "start": 5019.68,
+    "duration": 5.76,
+    "text": "So Stumbling Upon Happiness is predicated on this really interesting concept, which is that"
+  },
+  {
+    "start": 5025.52,
+    "duration": 6.64,
+    "text": "if you... People say like, what does it mean to be human? It's like, oh,"
+  },
+  {
+    "start": 5032.16,
+    "duration": 5.84,
+    "text": "we have opposable thumbs or whatever. But the thing that the author posits is that"
+  },
+  {
+    "start": 5038.72,
+    "duration": 6.72,
+    "text": "the reason why... To be human is to sacrifice your happiness today in exchange for a happier future,"
+  },
+  {
+    "start": 5045.44,
+    "duration": 4.08,
+    "text": "which is to say, if you're super hungry and there's a giant piece of chocolate cake in front"
+  },
+  {
+    "start": 5049.52,
+    "duration": 4.56,
+    "text": "of you, you will abstain from eating it because you're like, well, next week I'm going to the"
+  },
+  {
+    "start": 5054.08,
+    "duration": 4.88,
+    "text": "beach and I don't want to look like a fat ass on the beach. So I'm going to sacrifice my hunger"
+  },
+  {
+    "start": 5058.96,
+    "duration": 4.8,
+    "text": "and my happiness of eating this cake, even though I'm super hungry now, and instead eat some"
+  },
+  {
+    "start": 5063.76,
+    "duration": 5.52,
+    "text": "cucumbers or whatever so that I can look good in this picture next week. And so that's what he says"
+  },
+  {
+    "start": 5069.28,
+    "duration": 5.2,
+    "text": "is the thing to be human. But if you look back at your decisions, you're always filled with regret."
+  },
+  {
+    "start": 5074.48,
+    "duration": 4.64,
+    "text": "You're always like, why did I do that? That was so dumb. I should have made this other decision."
+  },
+  {
+    "start": 5079.2,
+    "duration": 7.68,
+    "text": "And how counter-intuitive it is that we always seem to make the wrong decision"
+  },
+  {
+    "start": 5087.76,
+    "duration": 4.8,
+    "text": "and why it is that we are not good at predicting what our future self wants. And he does it through"
+  },
+  {
+    "start": 5092.56,
+    "duration": 7.52,
+    "text": "a set of experiments. But I just find it really funny to explore the frailty of the human condition."
+  },
+  {
+    "start": 5100.64,
+    "duration": 4.48,
+    "text": "Yeah, that's great. I haven't read it. I have that on my list now."
+  },
+  {
+    "start": 5105.92,
+    "duration": 4.32,
+    "text": "It's so good. You'll love this, given your personality."
+  },
+  {
+    "start": 5110.24,
+    "duration": 1.68,
+    "text": "I've read some of his other books."
+  },
+  {
+    "start": 5111.92,
+    "duration": 3.04,
+    "text": "Yeah, this one's so good. Yeah, yeah. Anyway."
+  },
+  {
+    "start": 5114.96,
+    "duration": 6.0,
+    "text": "Well, this was great, Hill. I think people are going to take a lot away from this and hopefully"
+  },
+  {
+    "start": 5120.96,
+    "duration": 5.04,
+    "text": "hear some important and powerful messages about state of the market and how to think about it"
+  },
+  {
+    "start": 5126.0,
+    "duration": 4.8,
+    "text": "and grapple with it. I think that that's all really great stuff and some super cool research."
+  },
+  {
+    "start": 5130.8,
+    "duration": 6.4,
+    "text": "So hopefully everybody goes and signs up on Bravado. They get the revenue. What's it called?"
+  },
+  {
+    "start": 5137.2,
+    "duration": 5.12,
+    "text": "The Revenue Recap? Revenue Recap. Bravado.co. Anywhere else you want to plug?"
+  },
+  {
+    "start": 5143.36,
+    "duration": 5.52,
+    "text": "No, no plugs, man. Just happy to share advice into the world of sales and try to do the best"
+  },
+  {
+    "start": 5148.88,
+    "duration": 4.32,
+    "text": "that we can to up-level this profession that you and I share and love."
+  },
+  {
+    "start": 5153.2,
+    "duration": 4.96,
+    "text": "And go follow you on LinkedIn because you've always got something to say there, which is good."
+  },
+  {
+    "start": 5158.16,
+    "duration": 0.88,
+    "text": "Too much to say there."
+  },
+  {
+    "start": 5161.36,
+    "duration": 2.96,
+    "text": "Well, cool. All right. Appreciate it, man. This was great."
+  },
+  {
+    "start": 5169.76,
+    "duration": 2.8,
+    "text": "Thank you for listening to the Revenue Leadership Podcast."
+  },
+  {
+    "start": 5172.56,
+    "duration": 3.44,
+    "text": "If you enjoyed it, don't forget to subscribe and you can find a link"
+  },
+  {
+    "start": 5176.0,
+    "duration": 3.6,
+    "text": "in the show notes. And be sure to leave a five-star review,"
+  },
+  {
+    "start": 5179.6,
+    "duration": 6.96,
+    "text": "share it with your network, and please join me next Wednesday for another great conversation."
+  }
+]

@@ -1,0 +1,3472 @@
+[
+  {
+    "start": 0.0,
+    "duration": 5.68,
+    "text": "Hi, I'm Rob Jepsen, and my mission is to help sales leaders everywhere create record-setting"
+  },
+  {
+    "start": 5.68,
+    "duration": 2.28,
+    "text": "growth in the companies they lead."
+  },
+  {
+    "start": 7.96,
+    "duration": 3.44,
+    "text": "I'm here to share the secrets of the world's most successful sales leaders."
+  },
+  {
+    "start": 11.4,
+    "duration": 4.0,
+    "text": "I don't care how big the company or how big the team, we showcase sales leaders that are"
+  },
+  {
+    "start": 15.4,
+    "duration": 5.12,
+    "text": "beating their markets, winning at crazy rates, and doing it predictably and sustainably."
+  },
+  {
+    "start": 20.52,
+    "duration": 4.84,
+    "text": "The Sales Leadership Podcast is brought to you by Exvoyant, the platform that's transforming"
+  },
+  {
+    "start": 25.36,
+    "duration": 4.56,
+    "text": "how market-leading sales organizations use sales force around the world."
+  },
+  {
+    "start": 29.92,
+    "duration": 3.48,
+    "text": "If you're at Dreamforce this week, I want to meet you."
+  },
+  {
+    "start": 33.4,
+    "duration": 5.48,
+    "text": "Come to any of my four sessions on coaching on Tuesday and Thursday, or let's plan to"
+  },
+  {
+    "start": 38.88,
+    "duration": 2.2,
+    "text": "say hi at our VIP lounge."
+  },
+  {
+    "start": 41.08,
+    "duration": 4.72,
+    "text": "We're located right next to the Dreamforce Arch, and I would love to show you how Salesforce"
+  },
+  {
+    "start": 45.8,
+    "duration": 2.72,
+    "text": "can help you become legendary for the right reasons."
+  },
+  {
+    "start": 48.52,
+    "duration": 5.4,
+    "text": "You can find details at exvoyant.com forward slash df18."
+  },
+  {
+    "start": 53.92,
+    "duration": 4.2,
+    "text": "Now get ready for some serious insights from sales leaders that are making it happen."
+  },
+  {
+    "start": 58.12,
+    "duration": 5.6,
+    "text": "And remember, don't worry, we got you."
+  },
+  {
+    "start": 63.72,
+    "duration": 3.48,
+    "text": "Hello and welcome to the Sales Leadership Podcast, where high-growth sales leaders share"
+  },
+  {
+    "start": 67.2,
+    "duration": 2.48,
+    "text": "high-growth practices and tactics."
+  },
+  {
+    "start": 69.68,
+    "duration": 4.08,
+    "text": "Today we are joined by an architect of international sales success."
+  },
+  {
+    "start": 73.76,
+    "duration": 2.96,
+    "text": "Kyle Norton is the VP of Sales for League."
+  },
+  {
+    "start": 76.72,
+    "duration": 4.72,
+    "text": "League has led the digital transformation of employee benefits from the ground up."
+  },
+  {
+    "start": 81.44,
+    "duration": 4.4,
+    "text": "They've digitized the antiquated systems of the past and created a platform that allows"
+  },
+  {
+    "start": 85.84,
+    "duration": 5.28,
+    "text": "companies everywhere to offer truly individualized health plans tailored to the unique needs"
+  },
+  {
+    "start": 91.12,
+    "duration": 3.12,
+    "text": "of each member of the modern workforce."
+  },
+  {
+    "start": 94.24,
+    "duration": 4.52,
+    "text": "Kyle joined League with a sales team of zero, that's right, zero."
+  },
+  {
+    "start": 98.76,
+    "duration": 4.92,
+    "text": "He took a blank canvas and now has a team that's grounded in process and innovation,"
+  },
+  {
+    "start": 103.68,
+    "duration": 2.6,
+    "text": "and they're growing faster each quarter."
+  },
+  {
+    "start": 106.28,
+    "duration": 4.6,
+    "text": "We're in for a fun ride today as we discuss how innovation can fuel growth."
+  },
+  {
+    "start": 110.88,
+    "duration": 3.96,
+    "text": "Kyle, welcome to the show, and thanks for joining us."
+  },
+  {
+    "start": 114.84,
+    "duration": 1.0,
+    "text": "Thanks for having me."
+  },
+  {
+    "start": 115.84,
+    "duration": 2.96,
+    "text": "Hey, I'm excited to have you on board."
+  },
+  {
+    "start": 118.8,
+    "duration": 3.64,
+    "text": "For our listeners that we have here, why don't you take a second and let's introduce them"
+  },
+  {
+    "start": 122.44,
+    "duration": 2.88,
+    "text": "to who League is and what you guys are doing over there."
+  },
+  {
+    "start": 125.32,
+    "duration": 1.0,
+    "text": "Yep."
+  },
+  {
+    "start": 126.32,
+    "duration": 6.76,
+    "text": "So you mentioned being process-based, so I'll read you what we're teaching the BDRs on their"
+  },
+  {
+    "start": 133.08,
+    "duration": 1.0,
+    "text": "cold call script."
+  },
+  {
+    "start": 134.08,
+    "duration": 8.6,
+    "text": "So essentially League is an end-to-end platform for benefits, wellness, and rewards as well,"
+  },
+  {
+    "start": 142.68,
+    "duration": 5.0,
+    "text": "so both for employees to access and experience, and HR teams as well."
+  },
+  {
+    "start": 147.68,
+    "duration": 5.44,
+    "text": "So we help centralize a number of different offerings that people might have, so health"
+  },
+  {
+    "start": 153.12,
+    "duration": 3.52,
+    "text": "insurance, commuting reimbursement, wellness programs."
+  },
+  {
+    "start": 156.64,
+    "duration": 6.52,
+    "text": "We bring that all together, integrate it into an organization's HRIS tool, so to make it"
+  },
+  {
+    "start": 163.16,
+    "duration": 5.6,
+    "text": "way easier for an HR team to administer, reduce the number of hours they're putting into it."
+  },
+  {
+    "start": 168.76,
+    "duration": 3.36,
+    "text": "And then for employees, we give them digital access to all these programs."
+  },
+  {
+    "start": 172.56,
+    "duration": 1.0,
+    "text": "Cool."
+  },
+  {
+    "start": 173.56,
+    "duration": 4.32,
+    "text": "So you can imagine like an Apple wallet for rewards and benefits."
+  },
+  {
+    "start": 177.88,
+    "duration": 6.2,
+    "text": "So everything's in one place, really easy answers, and what it means for the employer"
+  },
+  {
+    "start": 184.08,
+    "duration": 4.6,
+    "text": "is they get more value because it's the second biggest line item for most companies."
+  },
+  {
+    "start": 188.68,
+    "duration": 6.72,
+    "text": "So now you get more value from that same spend, and the magnitude could be like an 8x increase."
+  },
+  {
+    "start": 195.4,
+    "duration": 7.72,
+    "text": "Our net promoter score is about 800% higher than the industry average, and your employees"
+  },
+  {
+    "start": 203.12,
+    "duration": 1.72,
+    "text": "get better health results."
+  },
+  {
+    "start": 204.84,
+    "duration": 4.08,
+    "text": "They're healthier, they're living better lives, and you become a more attractive employer."
+  },
+  {
+    "start": 208.92,
+    "duration": 2.04,
+    "text": "I love it."
+  },
+  {
+    "start": 210.96,
+    "duration": 4.48,
+    "text": "You're taking something that quite often is a real challenge that people try not to talk"
+  },
+  {
+    "start": 215.44,
+    "duration": 2.64,
+    "text": "about, and you're giving them something exciting to talk about."
+  },
+  {
+    "start": 218.08,
+    "duration": 3.4,
+    "text": "It's cool to see how you're transforming this thing and making it modern."
+  },
+  {
+    "start": 221.48,
+    "duration": 1.0,
+    "text": "I love it."
+  },
+  {
+    "start": 222.48,
+    "duration": 1.0,
+    "text": "Definitely."
+  },
+  {
+    "start": 223.6,
+    "duration": 4.88,
+    "text": "So you joined them a couple of years ago and basically took a great idea and said, we're"
+  },
+  {
+    "start": 228.48,
+    "duration": 1.64,
+    "text": "going to commercialize it."
+  },
+  {
+    "start": 230.12,
+    "duration": 3.76,
+    "text": "Talk to us a little bit about that journey when you've come in and took that blank canvas"
+  },
+  {
+    "start": 233.88,
+    "duration": 3.2,
+    "text": "and now have something that's pretty exciting to talk about."
+  },
+  {
+    "start": 237.08,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 238.08,
+    "duration": 2.04,
+    "text": "So I joined the company two years ago."
+  },
+  {
+    "start": 240.12,
+    "duration": 6.72,
+    "text": "We were about 20 and change at that point in terms of the company size."
+  },
+  {
+    "start": 246.84,
+    "duration": 4.52,
+    "text": "We're about 150, 160 employees now."
+  },
+  {
+    "start": 251.64,
+    "duration": 2.32,
+    "text": "There was a lot of really good concepts."
+  },
+  {
+    "start": 253.96,
+    "duration": 5.16,
+    "text": "There was the beginnings of a great product."
+  },
+  {
+    "start": 259.12,
+    "duration": 4.7,
+    "text": "My job was to help build the go-to-market system."
+  },
+  {
+    "start": 263.82,
+    "duration": 7.02,
+    "text": "So how did we attract and evangelize this idea that health rewards and benefits should"
+  },
+  {
+    "start": 270.84,
+    "duration": 1.0,
+    "text": "be done better?"
+  },
+  {
+    "start": 271.84,
+    "duration": 2.88,
+    "text": "We've sort of built things from the ground up."
+  },
+  {
+    "start": 274.72,
+    "duration": 6.88,
+    "text": "So the account executive organization, BDR, sales ops, enablement."
+  },
+  {
+    "start": 281.6,
+    "duration": 8.0,
+    "text": "I had a unique advantage and it's sort of rare where I had quite a blank slate and at"
+  },
+  {
+    "start": 289.6,
+    "duration": 2.82,
+    "text": "the same time, a bunch of money to work with."
+  },
+  {
+    "start": 292.42,
+    "duration": 3.5,
+    "text": "My founder, this is his third or fourth go-around."
+  },
+  {
+    "start": 295.92,
+    "duration": 6.52,
+    "text": "He's one of the top guys in North America, certainly a guy in Canada that everybody knows."
+  },
+  {
+    "start": 302.96,
+    "duration": 6.24,
+    "text": "We raised, I think it was $33 million Canadian, so about $25 million US as an A-round."
+  },
+  {
+    "start": 309.2,
+    "duration": 4.88,
+    "text": "So there was the right investment in the sales infrastructure and marketing upfront."
+  },
+  {
+    "start": 314.08,
+    "duration": 4.36,
+    "text": "So I definitely had unique advantages to start."
+  },
+  {
+    "start": 318.44,
+    "duration": 6.4,
+    "text": "We've built everything through a lot of testing, iteration, making a whole ton of mistakes"
+  },
+  {
+    "start": 324.84,
+    "duration": 4.6,
+    "text": "and getting better every quarter as we go."
+  },
+  {
+    "start": 329.44,
+    "duration": 1.0,
+    "text": "Awesome."
+  },
+  {
+    "start": 331.44,
+    "duration": 4.0,
+    "text": "I can't wait to talk about what you did with this blank canvas."
+  },
+  {
+    "start": 335.44,
+    "duration": 1.0,
+    "text": "You're right."
+  },
+  {
+    "start": 336.44,
+    "duration": 3.24,
+    "text": "It's cool to have all the resources that you might want, but at the end of the day, let's"
+  },
+  {
+    "start": 339.68,
+    "duration": 1.16,
+    "text": "call it what it is, Kyle."
+  },
+  {
+    "start": 340.84,
+    "duration": 3.12,
+    "text": "There's a lot of people that burn through a lot of resources and they don't create a"
+  },
+  {
+    "start": 343.96,
+    "duration": 1.0,
+    "text": "success story."
+  },
+  {
+    "start": 344.96,
+    "duration": 2.6,
+    "text": "They just create a graveyard."
+  },
+  {
+    "start": 347.56,
+    "duration": 4.32,
+    "text": "You guys have not done that and it's a head turner."
+  },
+  {
+    "start": 351.88,
+    "duration": 3.56,
+    "text": "It's been fun to see all the things that you guys have done."
+  },
+  {
+    "start": 355.44,
+    "duration": 1.64,
+    "text": "So let's dive into that."
+  },
+  {
+    "start": 357.08,
+    "duration": 1.96,
+    "text": "Let's not waste any time."
+  },
+  {
+    "start": 359.04,
+    "duration": 3.2,
+    "text": "I believe there's two kinds of sales teams, two kinds of sales people."
+  },
+  {
+    "start": 362.24,
+    "duration": 3.56,
+    "text": "There are those that take what they want and then there are those that take what they can"
+  },
+  {
+    "start": 365.8,
+    "duration": 1.0,
+    "text": "get."
+  },
+  {
+    "start": 366.8,
+    "duration": 1.36,
+    "text": "They kind of take what's left over."
+  },
+  {
+    "start": 368.16,
+    "duration": 4.8,
+    "text": "You guys, it seems to me, are absolutely not a take what you can get sales team."
+  },
+  {
+    "start": 372.96,
+    "duration": 2.64,
+    "text": "You are one of those that are saying, we're going to go take what we want, we're going"
+  },
+  {
+    "start": 375.6,
+    "duration": 4.52,
+    "text": "to go get the right customers, create killer experiences and turn them into long, long"
+  },
+  {
+    "start": 380.12,
+    "duration": 1.0,
+    "text": "relationships."
+  },
+  {
+    "start": 381.12,
+    "duration": 3.92,
+    "text": "How have you done that?"
+  },
+  {
+    "start": 385.04,
+    "duration": 2.8,
+    "text": "We did it because we needed to."
+  },
+  {
+    "start": 387.84,
+    "duration": 7.12,
+    "text": "We were trying to scale sales quickly and the inbound function just hadn't really scaled"
+  },
+  {
+    "start": 394.96,
+    "duration": 1.0,
+    "text": "yet."
+  },
+  {
+    "start": 395.96,
+    "duration": 5.28,
+    "text": "We're starting to see that tip in the business as we've really figured out the inbound puzzle"
+  },
+  {
+    "start": 401.24,
+    "duration": 3.42,
+    "text": "in a bigger way recently."
+  },
+  {
+    "start": 404.66,
+    "duration": 4.78,
+    "text": "This is a space where people don't really want to make change."
+  },
+  {
+    "start": 409.44,
+    "duration": 6.72,
+    "text": "HR as a function tends to be risk management, making sure things are documented and there's"
+  },
+  {
+    "start": 416.16,
+    "duration": 8.32,
+    "text": "procedures so it's not a sales profile that is prone to risk or prone to really new ideas."
+  },
+  {
+    "start": 424.48,
+    "duration": 5.68,
+    "text": "It was us needing to have a really tight understanding of what was important to HR leaders."
+  },
+  {
+    "start": 430.16,
+    "duration": 5.76,
+    "text": "How did we frame what we wanted to do to make sense for their objectives?"
+  },
+  {
+    "start": 435.92,
+    "duration": 6.32,
+    "text": "Our pitch has taken a whole bunch of different turns over the course of two years."
+  },
+  {
+    "start": 442.24,
+    "duration": 4.68,
+    "text": "We're evangelizing quite a new idea for people."
+  },
+  {
+    "start": 446.92,
+    "duration": 6.24,
+    "text": "You have to do all your sales fundamentals, really good discovery, shaping a great solution."
+  },
+  {
+    "start": 453.16,
+    "duration": 6.84,
+    "text": "But the difference between selling what we sell and your reference to taking what we"
+  },
+  {
+    "start": 460.0,
+    "duration": 4.32,
+    "text": "can, you have to get people excited about something that they probably don't want to"
+  },
+  {
+    "start": 464.32,
+    "duration": 1.0,
+    "text": "talk about."
+  },
+  {
+    "start": 465.32,
+    "duration": 5.72,
+    "text": "They would be just as happy to do what's happened for the last 10, 15, 20 years in the benefits"
+  },
+  {
+    "start": 471.04,
+    "duration": 1.6,
+    "text": "and HR space."
+  },
+  {
+    "start": 472.64,
+    "duration": 4.84,
+    "text": "We have to be great evangelizers and get people excited about a new vision."
+  },
+  {
+    "start": 477.48,
+    "duration": 1.92,
+    "text": "Part of that is that challenger mentality."
+  },
+  {
+    "start": 479.4,
+    "duration": 7.36,
+    "text": "Part of that is creating this aspirational vision of a better way."
+  },
+  {
+    "start": 486.76,
+    "duration": 2.36,
+    "text": "Go ahead."
+  },
+  {
+    "start": 489.12,
+    "duration": 1.0,
+    "text": "You keep going."
+  },
+  {
+    "start": 490.12,
+    "duration": 2.68,
+    "text": "I want you to finish because you've said three things that I've already jotted down that"
+  },
+  {
+    "start": 492.8,
+    "duration": 2.64,
+    "text": "I can't wait to get into."
+  },
+  {
+    "start": 495.44,
+    "duration": 4.0,
+    "text": "Finish where you are because you're cooking with gas right now, man."
+  },
+  {
+    "start": 499.44,
+    "duration": 6.16,
+    "text": "What I was going to say was, you can tell the iterations that we've gone through in"
+  },
+  {
+    "start": 505.6,
+    "duration": 1.0,
+    "text": "the decks."
+  },
+  {
+    "start": 506.6,
+    "duration": 3.48,
+    "text": "If you look at the deck we've used two years ago, it's embarrassing."
+  },
+  {
+    "start": 510.08,
+    "duration": 4.56,
+    "text": "I want to hide that forever."
+  },
+  {
+    "start": 514.64,
+    "duration": 5.24,
+    "text": "You try a certain go-to-market strategy and that lands sort of but not with the right"
+  },
+  {
+    "start": 519.88,
+    "duration": 4.04,
+    "text": "people and then we try something new and then we went and interviewed a whole bunch of people."
+  },
+  {
+    "start": 523.92,
+    "duration": 2.04,
+    "text": "It's just about staying close to your customers."
+  },
+  {
+    "start": 525.96,
+    "duration": 4.32,
+    "text": "I think that was one of the biggest components for us is staying close to our customers and"
+  },
+  {
+    "start": 530.28,
+    "duration": 2.28,
+    "text": "listening to the market."
+  },
+  {
+    "start": 532.56,
+    "duration": 4.8,
+    "text": "This idea you talked about that you got to become this evangelist and you have this thing"
+  },
+  {
+    "start": 537.36,
+    "duration": 1.72,
+    "text": "that nobody really wants to talk about it."
+  },
+  {
+    "start": 539.08,
+    "duration": 5.0,
+    "text": "They just want it to be in place and then move along is kind of what I heard you say."
+  },
+  {
+    "start": 544.08,
+    "duration": 4.8,
+    "text": "That has to create two challenges and I'd like to dive into them because for you, I"
+  },
+  {
+    "start": 548.88,
+    "duration": 5.72,
+    "text": "have to imagine A, it created a challenge in how do you get the attention of people"
+  },
+  {
+    "start": 554.64,
+    "duration": 4.92,
+    "text": "to actually talk to you but B, I imagine it created a challenge on how do I get people"
+  },
+  {
+    "start": 559.56,
+    "duration": 3.88,
+    "text": "to want to come join our sales team because if the customers don't want to talk about"
+  },
+  {
+    "start": 563.44,
+    "duration": 2.28,
+    "text": "it, how do I get the reps to want to talk about it?"
+  },
+  {
+    "start": 565.72,
+    "duration": 3.48,
+    "text": "I don't know which order you want to take those but it occurs to me that both of those"
+  },
+  {
+    "start": 569.2,
+    "duration": 2.2,
+    "text": "things would have been challenges for you."
+  },
+  {
+    "start": 571.4,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 572.4,
+    "duration": 6.32,
+    "text": "The recruiting side is a little bit easier so I'll handle that one first."
+  },
+  {
+    "start": 578.76,
+    "duration": 7.72,
+    "text": "Most of the people that were on my team in the early days were either direct references"
+  },
+  {
+    "start": 586.48,
+    "duration": 4.76,
+    "text": "that have worked with me before, people that I brought over from previous places or people"
+  },
+  {
+    "start": 591.24,
+    "duration": 5.8,
+    "text": "that knew me through somebody else or I had a longstanding relationship with or there"
+  },
+  {
+    "start": 597.04,
+    "duration": 4.8,
+    "text": "was enough people that were interested in just the team."
+  },
+  {
+    "start": 601.84,
+    "duration": 6.8,
+    "text": "If you don't have a whole ton of market traction to sell as the vision of why to join League,"
+  },
+  {
+    "start": 608.64,
+    "duration": 1.68,
+    "text": "you basically just have to sell what you do have."
+  },
+  {
+    "start": 610.32,
+    "duration": 6.36,
+    "text": "What we did have was an amazing team solving a really complex challenge in a market that"
+  },
+  {
+    "start": 616.68,
+    "duration": 3.92,
+    "text": "needed to be disrupted and so I was pretty honest with people."
+  },
+  {
+    "start": 620.6,
+    "duration": 5.84,
+    "text": "Yeah, we don't have a whole ton of revenue on the board right now but the people that"
+  },
+  {
+    "start": 626.44,
+    "duration": 5.96,
+    "text": "are in the organization come from amazing backgrounds and you get to work for a C-level"
+  },
+  {
+    "start": 632.4,
+    "duration": 4.44,
+    "text": "team that's done this a bunch of times that you're going to learn a massive amount from."
+  },
+  {
+    "start": 636.84,
+    "duration": 4.92,
+    "text": "You just have to sell the story that you do have and I think for everybody who's come"
+  },
+  {
+    "start": 641.76,
+    "duration": 7.52,
+    "text": "through these doors, whether or not they've done big revenue, they're still going to walk"
+  },
+  {
+    "start": 649.28,
+    "duration": 5.36,
+    "text": "away having worked for some people that they're going to look up to forever and learn the"
+  },
+  {
+    "start": 654.64,
+    "duration": 1.0,
+    "text": "whole time."
+  },
+  {
+    "start": 655.64,
+    "duration": 5.68,
+    "text": "So I think the recruiting piece was one, sell what you got to candidates or to prospects"
+  },
+  {
+    "start": 661.32,
+    "duration": 3.16,
+    "text": "and then two, I just had to lean on my network."
+  },
+  {
+    "start": 664.48,
+    "duration": 4.48,
+    "text": "I had people who trusted me personally and that was a big piece of it."
+  },
+  {
+    "start": 668.96,
+    "duration": 3.28,
+    "text": "How important is that network in starting to gather people's attention?"
+  },
+  {
+    "start": 672.24,
+    "duration": 5.68,
+    "text": "So you're building, you've got to like this evolution, I'm always careful like revolutions,"
+  },
+  {
+    "start": 677.92,
+    "duration": 2.28,
+    "text": "people die and evolutions people grow, right?"
+  },
+  {
+    "start": 680.2,
+    "duration": 5.6,
+    "text": "So you're helping evolve what's happening and you're building a market, not just necessarily"
+  },
+  {
+    "start": 685.8,
+    "duration": 4.08,
+    "text": "solving problems that matter but you're changing awareness."
+  },
+  {
+    "start": 689.88,
+    "duration": 3.58,
+    "text": "How hard was that to do and how important was like building this network?"
+  },
+  {
+    "start": 693.46,
+    "duration": 4.48,
+    "text": "Because I think that's got to be a key component in how you capture attention, right?"
+  },
+  {
+    "start": 697.94,
+    "duration": 2.64,
+    "text": "I mean, it's about getting people's attention, isn't it?"
+  },
+  {
+    "start": 700.58,
+    "duration": 5.76,
+    "text": "Yeah, for sure and what we thought was going to grab people's attention at the start was"
+  },
+  {
+    "start": 706.34,
+    "duration": 4.0,
+    "text": "not really what we found worked."
+  },
+  {
+    "start": 710.34,
+    "duration": 3.68,
+    "text": "We thought that, okay, selling to HR people, we're going to go talk about why this is so"
+  },
+  {
+    "start": 714.02,
+    "duration": 2.68,
+    "text": "much better for the employee."
+  },
+  {
+    "start": 716.7,
+    "duration": 3.84,
+    "text": "This is better for these reasons, we're going to make people healthier and it was all very"
+  },
+  {
+    "start": 720.54,
+    "duration": 8.6,
+    "text": "aspirational and what we had to do is add enough to the positioning and to the message"
+  },
+  {
+    "start": 729.14,
+    "duration": 4.12,
+    "text": "that this is great for employees and they're going to get better results but it's also"
+  },
+  {
+    "start": 733.26,
+    "duration": 1.92,
+    "text": "great for you for all of these reasons."
+  },
+  {
+    "start": 735.18,
+    "duration": 6.84,
+    "text": "We had to pitch much more directly to the HR champions that we worked with and that's"
+  },
+  {
+    "start": 742.02,
+    "duration": 4.84,
+    "text": "nothing new that you sell to your buyer and you have to get them personally invested in"
+  },
+  {
+    "start": 747.18,
+    "duration": 7.44,
+    "text": "it but that was something that we needed to pivot on pretty early and pivot in terms of"
+  },
+  {
+    "start": 754.62,
+    "duration": 2.0,
+    "text": "our messaging and as well the product."
+  },
+  {
+    "start": 756.62,
+    "duration": 8.08,
+    "text": "We needed to invest more heavily in features that made the lives of HR team easier."
+  },
+  {
+    "start": 764.7,
+    "duration": 6.04,
+    "text": "Through the first, I would say, 9 to 12 months, we were out there trying to get deals but"
+  },
+  {
+    "start": 770.74,
+    "duration": 4.24,
+    "text": "just as importantly, we were trying to bring feedback to the product team and to the rest"
+  },
+  {
+    "start": 775.06,
+    "duration": 1.0,
+    "text": "of the organization."
+  },
+  {
+    "start": 776.06,
+    "duration": 6.32,
+    "text": "We were chugging along, so I started July of 2016."
+  },
+  {
+    "start": 782.38,
+    "duration": 4.16,
+    "text": "We got some deals in 2016 but nothing major."
+  },
+  {
+    "start": 786.54,
+    "duration": 5.0,
+    "text": "We launched a new product and then we're a different positioning and 2017, we really"
+  },
+  {
+    "start": 791.54,
+    "duration": 3.92,
+    "text": "sputtered until we made strategy changes."
+  },
+  {
+    "start": 795.46,
+    "duration": 2.24,
+    "text": "We went from one insurance carrier to many."
+  },
+  {
+    "start": 797.7,
+    "duration": 8.12,
+    "text": "We went from a certain defined plan design to being more open architecture."
+  },
+  {
+    "start": 805.82,
+    "duration": 3.36,
+    "text": "It wasn't really that sales figured it out, we're so great."
+  },
+  {
+    "start": 809.18,
+    "duration": 5.16,
+    "text": "It was actually a huge team effort across product marketing, the executive, the strategy"
+  },
+  {
+    "start": 814.34,
+    "duration": 7.24,
+    "text": "team to take the feedback that we were garnering from the market and making changes in a bunch"
+  },
+  {
+    "start": 821.58,
+    "duration": 2.64,
+    "text": "of different areas of the company."
+  },
+  {
+    "start": 824.22,
+    "duration": 1.0,
+    "text": "Definitely collaborative."
+  },
+  {
+    "start": 825.22,
+    "duration": 1.0,
+    "text": "Cool."
+  },
+  {
+    "start": 826.58,
+    "duration": 5.72,
+    "text": "As I look at this then, it sounds like to me that a big part of the early success was"
+  },
+  {
+    "start": 832.3,
+    "duration": 3.52,
+    "text": "gathering that market feedback and trying to get the product dialed."
+  },
+  {
+    "start": 835.82,
+    "duration": 5.0,
+    "text": "Was that an important part of the sales people's job early on was to just get the market say"
+  },
+  {
+    "start": 840.82,
+    "duration": 2.44,
+    "text": "so on how you're doing?"
+  },
+  {
+    "start": 843.26,
+    "duration": 3.56,
+    "text": "Yeah, definitely."
+  },
+  {
+    "start": 846.82,
+    "duration": 3.8,
+    "text": "Part of it was us gathering that feedback and sharing it with the organization and then"
+  },
+  {
+    "start": 850.74,
+    "duration": 7.4,
+    "text": "Additionally, one of the most important things that we did in 2017 to make a fairly big step"
+  },
+  {
+    "start": 858.14,
+    "duration": 6.16,
+    "text": "function change is my head of sales enablement and somebody from our marketing team."
+  },
+  {
+    "start": 864.3,
+    "duration": 6.16,
+    "text": "They went out and interviewed almost 30 buyers that we had pitched, gotten to late stage"
+  },
+  {
+    "start": 870.46,
+    "duration": 3.12,
+    "text": "that we lost deals with."
+  },
+  {
+    "start": 873.58,
+    "duration": 5.96,
+    "text": "They talked about our positioning, the product, how clearly do they remember the messaging,"
+  },
+  {
+    "start": 879.54,
+    "duration": 5.56,
+    "text": "why didn't they buy, what was the sales approach like, and we learned a whole bunch."
+  },
+  {
+    "start": 885.1,
+    "duration": 1.88,
+    "text": "We validated some assumptions."
+  },
+  {
+    "start": 886.98,
+    "duration": 5.24,
+    "text": "There was also some surprises in that process and we're just doing, now this is about a"
+  },
+  {
+    "start": 892.22,
+    "duration": 3.56,
+    "text": "year and a bit later, we're just doing that process over again."
+  },
+  {
+    "start": 895.78,
+    "duration": 1.0,
+    "text": "We're trying to go way up."
+  },
+  {
+    "start": 896.78,
+    "duration": 1.0,
+    "text": "That was my question."
+  },
+  {
+    "start": 897.78,
+    "duration": 4.52,
+    "text": "I was going to say, wow, so win-loss reviews are what helped you get your product where"
+  },
+  {
+    "start": 902.3,
+    "duration": 1.0,
+    "text": "you want."
+  },
+  {
+    "start": 903.3,
+    "duration": 1.44,
+    "text": "Do you still do win-loss reviews?"
+  },
+  {
+    "start": 904.74,
+    "duration": 2.8,
+    "text": "Are you still doing win-loss assessments right now?"
+  },
+  {
+    "start": 907.54,
+    "duration": 1.64,
+    "text": "Yep."
+  },
+  {
+    "start": 909.82,
+    "duration": 6.04,
+    "text": "It happens semi-consistently out of the product organization, but now we're doing another"
+  },
+  {
+    "start": 915.86,
+    "duration": 5.32,
+    "text": "really big initiative to go collect more feedback again."
+  },
+  {
+    "start": 921.18,
+    "duration": 7.24,
+    "text": "We've gone about 20X upmarket, so our average deal size is about 20X this quarter than it"
+  },
+  {
+    "start": 928.42,
+    "duration": 1.0,
+    "text": "was a year ago."
+  },
+  {
+    "start": 929.42,
+    "duration": 1.0,
+    "text": "Congratulations."
+  },
+  {
+    "start": 930.42,
+    "duration": 4.16,
+    "text": "Yeah, I appreciate it."
+  },
+  {
+    "start": 934.58,
+    "duration": 4.26,
+    "text": "We're trying to now double check some of our assumptions."
+  },
+  {
+    "start": 939.5,
+    "duration": 1.22,
+    "text": "We think that this is what a bigger company wants."
+  },
+  {
+    "start": 940.72,
+    "duration": 4.84,
+    "text": "We assume that this is how we're going to win deals, but having a non-salesperson, somebody"
+  },
+  {
+    "start": 945.56,
+    "duration": 4.56,
+    "text": "coming and this is going to be our VP of product marketing who's doing it, somebody that is"
+  },
+  {
+    "start": 950.12,
+    "duration": 4.04,
+    "text": "not trying to sell you anything, just interested in learning, we're going to get different"
+  },
+  {
+    "start": 954.16,
+    "duration": 3.2,
+    "text": "feedback from that process."
+  },
+  {
+    "start": 957.36,
+    "duration": 2.64,
+    "text": "Sales has a reputation."
+  },
+  {
+    "start": 960.0,
+    "duration": 1.0,
+    "text": "We want a lot."
+  },
+  {
+    "start": 961.0,
+    "duration": 1.0,
+    "text": "We want this from product."
+  },
+  {
+    "start": 962.0,
+    "duration": 1.0,
+    "text": "We want that."
+  },
+  {
+    "start": 963.0,
+    "duration": 4.6,
+    "text": "We want the pricing to be different."
+  },
+  {
+    "start": 967.64,
+    "duration": 6.8,
+    "text": "A lot of the time, that feedback can be slanted, and this is a good way to get everybody to"
+  },
+  {
+    "start": 974.44,
+    "duration": 5.88,
+    "text": "speak directly from the voice of the customer, take us and our own bias as salespeople out"
+  },
+  {
+    "start": 980.32,
+    "duration": 5.92,
+    "text": "of the equation, and get some really concrete feedback."
+  },
+  {
+    "start": 986.24,
+    "duration": 4.56,
+    "text": "That's going to go to product marketing, sales, the executives, the strategy team."
+  },
+  {
+    "start": 990.8,
+    "duration": 2.0,
+    "text": "That feedback will go everywhere."
+  },
+  {
+    "start": 992.8,
+    "duration": 1.76,
+    "text": "I am so stoked you brought that up."
+  },
+  {
+    "start": 994.56,
+    "duration": 5.12,
+    "text": "There was a time that I used to hear people talking about win-loss a lot, but I don't"
+  },
+  {
+    "start": 999.68,
+    "duration": 1.32,
+    "text": "hear it near as much anymore."
+  },
+  {
+    "start": 1001.0,
+    "duration": 5.28,
+    "text": "I think the pressure to sell and the immediacy of the now, people are not looking at that"
+  },
+  {
+    "start": 1006.28,
+    "duration": 1.0,
+    "text": "as much."
+  },
+  {
+    "start": 1007.28,
+    "duration": 5.96,
+    "text": "I get the impression it's almost like that old martial arts approach, you slow down so"
+  },
+  {
+    "start": 1013.24,
+    "duration": 3.4,
+    "text": "you can speed up, if that makes sense."
+  },
+  {
+    "start": 1016.64,
+    "duration": 2.6,
+    "text": "That's one of my favorite things."
+  },
+  {
+    "start": 1019.24,
+    "duration": 3.8,
+    "text": "It's an old jiu-jitsu saying, and the Navy SEALs use it now as well."
+  },
+  {
+    "start": 1023.04,
+    "duration": 4.52,
+    "text": "It's slow is smooth, and smooth is fast."
+  },
+  {
+    "start": 1027.56,
+    "duration": 4.04,
+    "text": "So is that still part of your DNA as a sales leader?"
+  },
+  {
+    "start": 1031.6,
+    "duration": 3.76,
+    "text": "Let's make sure that we're slowing down so we can go smooth, and then that'll make smooth"
+  },
+  {
+    "start": 1035.36,
+    "duration": 1.0,
+    "text": "go fast?"
+  },
+  {
+    "start": 1036.36,
+    "duration": 7.4,
+    "text": "Yeah, and I would say that was a mistake we made in our early ramp."
+  },
+  {
+    "start": 1043.76,
+    "duration": 5.0,
+    "text": "We saw some early signs of success, and we tried to hire too many reps too quickly, and"
+  },
+  {
+    "start": 1048.76,
+    "duration": 2.92,
+    "text": "we weren't able to ramp other functions in the business."
+  },
+  {
+    "start": 1051.68,
+    "duration": 6.04,
+    "text": "We weren't able to ramp funnel generation quite as quickly, or the customer success"
+  },
+  {
+    "start": 1057.72,
+    "duration": 1.0,
+    "text": "organization."
+  },
+  {
+    "start": 1058.72,
+    "duration": 7.68,
+    "text": "So we were all really eager and wanted to put our foot to the floor, but that was something"
+  },
+  {
+    "start": 1066.4,
+    "duration": 2.8,
+    "text": "that we would do differently if I went back again."
+  },
+  {
+    "start": 1069.2,
+    "duration": 3.0,
+    "text": "So now, we're trying to maintain this approach."
+  },
+  {
+    "start": 1072.2,
+    "duration": 2.64,
+    "text": "We're still trying to grow."
+  },
+  {
+    "start": 1074.84,
+    "duration": 3.2,
+    "text": "We're trying to almost double every quarter."
+  },
+  {
+    "start": 1078.04,
+    "duration": 4.32,
+    "text": "We're trying to basically 4 to 5x the business from 17 to 18."
+  },
+  {
+    "start": 1082.36,
+    "duration": 4.64,
+    "text": "So I wouldn't say we're going slow, but we're trying to be methodical."
+  },
+  {
+    "start": 1087.0,
+    "duration": 1.56,
+    "text": "But that's why the story is so great."
+  },
+  {
+    "start": 1088.56,
+    "duration": 4.04,
+    "text": "You're not trying to go slow, but you're willing to take the right steps."
+  },
+  {
+    "start": 1092.6,
+    "duration": 3.04,
+    "text": "That's what's so cool about your story."
+  },
+  {
+    "start": 1095.64,
+    "duration": 5.88,
+    "text": "And the same thing is mirrored in the actual sales process."
+  },
+  {
+    "start": 1101.52,
+    "duration": 7.12,
+    "text": "We've added more steps, more process, more components to the sales process, which has"
+  },
+  {
+    "start": 1108.64,
+    "duration": 4.0,
+    "text": "elongated it in a lot of ways, but that's increasing our win rate and actually helping"
+  },
+  {
+    "start": 1112.64,
+    "duration": 1.0,
+    "text": "us go faster."
+  },
+  {
+    "start": 1113.64,
+    "duration": 5.0,
+    "text": "So the same thing that's reflected in our business approach and our sales strategy approach"
+  },
+  {
+    "start": 1118.64,
+    "duration": 4.16,
+    "text": "is actually reflected in the sales cycle as well with a lot of success."
+  },
+  {
+    "start": 1122.8,
+    "duration": 1.0,
+    "text": "So let's talk about that."
+  },
+  {
+    "start": 1123.8,
+    "duration": 1.0,
+    "text": "Let's shift it."
+  },
+  {
+    "start": 1124.8,
+    "duration": 5.12,
+    "text": "I could talk to you for a long time, but I know I've got to keep this to a 25 to 30-minute"
+  },
+  {
+    "start": 1129.92,
+    "duration": 1.0,
+    "text": "conversation."
+  },
+  {
+    "start": 1130.92,
+    "duration": 3.24,
+    "text": "I'm really intrigued by how you've built process."
+  },
+  {
+    "start": 1134.16,
+    "duration": 1.96,
+    "text": "You've dropped that word a few times."
+  },
+  {
+    "start": 1136.12,
+    "duration": 2.72,
+    "text": "I get the impression that it's not just a buzzword for you."
+  },
+  {
+    "start": 1138.84,
+    "duration": 5.36,
+    "text": "You actually have a process that you train to, lead to, coach to."
+  },
+  {
+    "start": 1144.2,
+    "duration": 3.28,
+    "text": "How do you help your reps get started?"
+  },
+  {
+    "start": 1147.48,
+    "duration": 1.0,
+    "text": "That's the hardest part."
+  },
+  {
+    "start": 1148.48,
+    "duration": 2.8,
+    "text": "When you have full pipelines, the rest gets really easy."
+  },
+  {
+    "start": 1151.28,
+    "duration": 5.12,
+    "text": "How do you help them fill that pipeline up and get opportunity starts?"
+  },
+  {
+    "start": 1156.8,
+    "duration": 7.0,
+    "text": "I would say the AE team is only generating about 20 to 25% of their own pipeline."
+  },
+  {
+    "start": 1163.8,
+    "duration": 7.16,
+    "text": "So they're really relying on their BDR partner and the inbound engine."
+  },
+  {
+    "start": 1170.96,
+    "duration": 3.28,
+    "text": "In my view, that's how it should be done."
+  },
+  {
+    "start": 1174.24,
+    "duration": 4.76,
+    "text": "You want to drive specialization and everybody knows that seasoned account executives don't"
+  },
+  {
+    "start": 1179.0,
+    "duration": 2.56,
+    "text": "want to pick up the phone because they're out of practice and they don't want to get"
+  },
+  {
+    "start": 1181.56,
+    "duration": 1.0,
+    "text": "embarrassed."
+  },
+  {
+    "start": 1183.2,
+    "duration": 5.52,
+    "text": "Why try to make somebody change when it's going to be that frustrating?"
+  },
+  {
+    "start": 1188.72,
+    "duration": 6.04,
+    "text": "So the BDR organization is generating most of our pipeline or a lot of our pipeline."
+  },
+  {
+    "start": 1194.76,
+    "duration": 2.92,
+    "text": "The reps are working referrals and references."
+  },
+  {
+    "start": 1197.68,
+    "duration": 6.2,
+    "text": "But really, I want the BDR team generating enough pipeline at our current win rates,"
+  },
+  {
+    "start": 1203.88,
+    "duration": 5.24,
+    "text": "at our current velocity to give us enough to win."
+  },
+  {
+    "start": 1209.2,
+    "duration": 5.6,
+    "text": "I have two awesome people that actually run the BDR group."
+  },
+  {
+    "start": 1214.8,
+    "duration": 2.0,
+    "text": "They're both very process-oriented."
+  },
+  {
+    "start": 1216.8,
+    "duration": 9.4,
+    "text": "They're good complements to one another in terms of what they do well and I rely on them"
+  },
+  {
+    "start": 1226.2,
+    "duration": 1.76,
+    "text": "in a lot of ways."
+  },
+  {
+    "start": 1227.96,
+    "duration": 5.64,
+    "text": "I love the BDR world, so I get my hands in the mix as much as I can."
+  },
+  {
+    "start": 1233.6,
+    "duration": 2.8,
+    "text": "They're also driving a lot of that."
+  },
+  {
+    "start": 1236.4,
+    "duration": 2.16,
+    "text": "The tight alignment is really important."
+  },
+  {
+    "start": 1239.0,
+    "duration": 1.8,
+    "text": "The good thing is they're not just trying to chuck up meetings."
+  },
+  {
+    "start": 1240.8,
+    "duration": 5.72,
+    "text": "We're all aligned to the revenue objectives and our win rates and what we need to go do."
+  },
+  {
+    "start": 1246.52,
+    "duration": 2.08,
+    "text": "We need to go get more senior first meetings."
+  },
+  {
+    "start": 1248.6,
+    "duration": 6.04,
+    "text": "We need to stop booking meetings with tier three and four accounts."
+  },
+  {
+    "start": 1254.64,
+    "duration": 4.0,
+    "text": "Being receptive to the needs of the business, I think, has been important to get that team"
+  },
+  {
+    "start": 1258.64,
+    "duration": 1.0,
+    "text": "working well."
+  },
+  {
+    "start": 1259.64,
+    "duration": 4.4,
+    "text": "So with this team, I don't care if you're talking about the 75% that comes from the"
+  },
+  {
+    "start": 1264.4,
+    "duration": 5.16,
+    "text": "BDRs or the 25% that are self-sourced from the AEs, which I think is great that the AEs"
+  },
+  {
+    "start": 1269.56,
+    "duration": 3.36,
+    "text": "are still self-sourcing some."
+  },
+  {
+    "start": 1272.92,
+    "duration": 3.96,
+    "text": "There's got to be some things that you found are helpful in helping you cut through the"
+  },
+  {
+    "start": 1276.88,
+    "duration": 1.0,
+    "text": "noise."
+  },
+  {
+    "start": 1277.88,
+    "duration": 1.0,
+    "text": "It's a cluttered space."
+  },
+  {
+    "start": 1278.88,
+    "duration": 2.64,
+    "text": "I don't care what you're selling, Kyle."
+  },
+  {
+    "start": 1281.52,
+    "duration": 5.16,
+    "text": "There are so many people calling and emailing and doing things like that."
+  },
+  {
+    "start": 1286.68,
+    "duration": 4.0,
+    "text": "Any things that you've found have really helped your people cut through that noise?"
+  },
+  {
+    "start": 1291.08,
+    "duration": 4.48,
+    "text": "Yeah, I would say there's a few things for sure."
+  },
+  {
+    "start": 1295.56,
+    "duration": 5.32,
+    "text": "One, we have a pretty well-defined process that we're constantly trying to improve upon."
+  },
+  {
+    "start": 1300.88,
+    "duration": 3.04,
+    "text": "That all gets powered through Sales Loft."
+  },
+  {
+    "start": 1303.92,
+    "duration": 6.52,
+    "text": "We really try to drive adoption, especially in the BDR team, of that tool, of that process."
+  },
+  {
+    "start": 1310.44,
+    "duration": 6.6,
+    "text": "What's built into there is research, personalization, and some novelty."
+  },
+  {
+    "start": 1317.04,
+    "duration": 2.56,
+    "text": "We're making sure we're using all the tools at our disposal."
+  },
+  {
+    "start": 1319.72,
+    "duration": 1.0,
+    "text": "Yes, we're calling."
+  },
+  {
+    "start": 1320.72,
+    "duration": 1.0,
+    "text": "Yes, we're emailing."
+  },
+  {
+    "start": 1321.72,
+    "duration": 3.92,
+    "text": "But we're also hitting them on LinkedIn and Twitter where possible."
+  },
+  {
+    "start": 1325.64,
+    "duration": 1.0,
+    "text": "We're using Vineyard."
+  },
+  {
+    "start": 1326.64,
+    "duration": 7.16,
+    "text": "We're sending personalized video outreach as a piece of the later sales cadence to our"
+  },
+  {
+    "start": 1333.8,
+    "duration": 2.8,
+    "text": "higher tier accounts."
+  },
+  {
+    "start": 1336.6,
+    "duration": 1.0,
+    "text": "That's a bit of a novelty thing."
+  },
+  {
+    "start": 1337.6,
+    "duration": 6.02,
+    "text": "But I think it all really starts with personalization and a proper hypothesis."
+  },
+  {
+    "start": 1343.62,
+    "duration": 5.18,
+    "text": "If you approach the right companies that are most likely to have a challenge that you can"
+  },
+  {
+    "start": 1348.8,
+    "duration": 5.64,
+    "text": "solve, prospecting will get a lot easier really fast."
+  },
+  {
+    "start": 1354.44,
+    "duration": 4.22,
+    "text": "It's about that relationship between AE and BDR that they've properly mapped the territory."
+  },
+  {
+    "start": 1358.66,
+    "duration": 3.34,
+    "text": "They're closely aligned on who we're doing outreach to."
+  },
+  {
+    "start": 1362.0,
+    "duration": 4.8,
+    "text": "And then we're going into those companies with good, well-thought-out outreach."
+  },
+  {
+    "start": 1366.8,
+    "duration": 4.0,
+    "text": "Hey, I noticed that you guys have tripled in size in the last 12 months."
+  },
+  {
+    "start": 1370.8,
+    "duration": 5.2,
+    "text": "Other companies like X, Y, and Z have also gone through a similar growth trajectory."
+  },
+  {
+    "start": 1376.0,
+    "duration": 3.72,
+    "text": "This is why they've really gotten value from our platform."
+  },
+  {
+    "start": 1379.72,
+    "duration": 3.12,
+    "text": "So you're talking about what I love to refer to and maybe others."
+  },
+  {
+    "start": 1382.84,
+    "duration": 2.88,
+    "text": "I love to refer to it as trigger-based prospecting."
+  },
+  {
+    "start": 1385.72,
+    "duration": 3.28,
+    "text": "You're finding those triggers that would give them a reason to be relevant."
+  },
+  {
+    "start": 1389.0,
+    "duration": 2.0,
+    "text": "Is that kind of what you're saying?"
+  },
+  {
+    "start": 1391.0,
+    "duration": 1.0,
+    "text": "Yep."
+  },
+  {
+    "start": 1392.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1393.0,
+    "duration": 3.32,
+    "text": "So both a trigger-based outreach and a hypothesis-based outreach."
+  },
+  {
+    "start": 1396.32,
+    "duration": 6.12,
+    "text": "So even if there's not some really compelling event right now, I mean, if we know that they're..."
+  },
+  {
+    "start": 1402.44,
+    "duration": 4.64,
+    "text": "And I always joke, if I could scrape LinkedIn for all of the HR people that had culture,"
+  },
+  {
+    "start": 1407.08,
+    "duration": 5.32,
+    "text": "talent, people in their title that didn't wear a formal shirt, like wore a hoodie in"
+  },
+  {
+    "start": 1412.4,
+    "duration": 5.12,
+    "text": "their LinkedIn profile, that's our buyer because that's probably somebody more innovative."
+  },
+  {
+    "start": 1417.52,
+    "duration": 3.72,
+    "text": "And it's a joke, but it's also very true."
+  },
+  {
+    "start": 1421.24,
+    "duration": 4.76,
+    "text": "And if we can approach those people having done our homework and with a relevant reason"
+  },
+  {
+    "start": 1426.0,
+    "duration": 4.56,
+    "text": "to talk, they'll probably spend some time with us because they'll respect the effort"
+  },
+  {
+    "start": 1430.56,
+    "duration": 1.0,
+    "text": "that you've put in."
+  },
+  {
+    "start": 1431.68,
+    "duration": 1.16,
+    "text": "And they'll stand out because everybody..."
+  },
+  {
+    "start": 1432.84,
+    "duration": 2.76,
+    "text": "I got spammed by so much crap."
+  },
+  {
+    "start": 1435.6,
+    "duration": 3.52,
+    "text": "And if it makes sense for their business, hey, you just acquired this company."
+  },
+  {
+    "start": 1439.12,
+    "duration": 3.04,
+    "text": "This is how we make that easier for you."
+  },
+  {
+    "start": 1442.16,
+    "duration": 2.4,
+    "text": "You say you have a really competitive benefits plan."
+  },
+  {
+    "start": 1444.56,
+    "duration": 2.44,
+    "text": "If you do, then you should definitely talk to us."
+  },
+  {
+    "start": 1447.0,
+    "duration": 4.76,
+    "text": "So as long as it's researched and if it's trigger-based, even better, if there's a compelling"
+  },
+  {
+    "start": 1451.76,
+    "duration": 1.0,
+    "text": "reason why now."
+  },
+  {
+    "start": 1452.76,
+    "duration": 1.0,
+    "text": "So I would..."
+  },
+  {
+    "start": 1453.76,
+    "duration": 1.0,
+    "text": "Love it."
+  },
+  {
+    "start": 1454.76,
+    "duration": 1.0,
+    "text": "No, you're good."
+  },
+  {
+    "start": 1455.76,
+    "duration": 3.68,
+    "text": "I want to go back on the one thing that you mentioned because I'm intrigued by it."
+  },
+  {
+    "start": 1459.44,
+    "duration": 1.32,
+    "text": "I'm seeing a lot more of it."
+  },
+  {
+    "start": 1460.96,
+    "duration": 2.12,
+    "text": "You're the first one on the show to talk about it, though."
+  },
+  {
+    "start": 1463.08,
+    "duration": 2.48,
+    "text": "So I want to look at it for a second."
+  },
+  {
+    "start": 1465.56,
+    "duration": 3.28,
+    "text": "You're talking about video, and I'm a fan of video."
+  },
+  {
+    "start": 1468.84,
+    "duration": 1.72,
+    "text": "We're seeing it work in our organization."
+  },
+  {
+    "start": 1470.56,
+    "duration": 4.08,
+    "text": "You're the first of our guests that have been on the show that brought that up as something"
+  },
+  {
+    "start": 1474.64,
+    "duration": 1.0,
+    "text": "that was helpful."
+  },
+  {
+    "start": 1475.64,
+    "duration": 2.88,
+    "text": "Could you just kind of share, where do you see video?"
+  },
+  {
+    "start": 1478.52,
+    "duration": 1.96,
+    "text": "Is it early in cycle, late in cycle?"
+  },
+  {
+    "start": 1480.48,
+    "duration": 3.0,
+    "text": "Does it matter what kind of customer it is?"
+  },
+  {
+    "start": 1483.48,
+    "duration": 2.96,
+    "text": "How have you found video as a best practice for prospecting?"
+  },
+  {
+    "start": 1486.44,
+    "duration": 3.48,
+    "text": "Yeah, there's a few different areas where it fits."
+  },
+  {
+    "start": 1490.08,
+    "duration": 4.44,
+    "text": "So certainly, in the prospecting outreach, it'll help you cut through that noise."
+  },
+  {
+    "start": 1494.52,
+    "duration": 7.12,
+    "text": "If you have a thumbnail image with my name on a whiteboard and some BDR's smiling face,"
+  },
+  {
+    "start": 1501.64,
+    "duration": 1.72,
+    "text": "I'll probably click on it."
+  },
+  {
+    "start": 1503.36,
+    "duration": 2.0,
+    "text": "And I've been on..."
+  },
+  {
+    "start": 1505.36,
+    "duration": 5.48,
+    "text": "I've done webinars about video, and I've always said, like, if you send me a video, I'll answer"
+  },
+  {
+    "start": 1510.84,
+    "duration": 1.0,
+    "text": "you."
+  },
+  {
+    "start": 1511.84,
+    "duration": 1.8,
+    "text": "And I still have gotten maybe two."
+  },
+  {
+    "start": 1513.64,
+    "duration": 5.16,
+    "text": "So I thought that this was going to be something that was prevalent everywhere really fast,"
+  },
+  {
+    "start": 1518.8,
+    "duration": 6.8,
+    "text": "but there's still a really big opportunity for novelty and novelty or ability to stick"
+  },
+  {
+    "start": 1525.6,
+    "duration": 2.64,
+    "text": "out and differentiate, but you'll get clicks."
+  },
+  {
+    "start": 1528.24,
+    "duration": 3.48,
+    "text": "And then if you can be properly researched and say something compelling in a short amount"
+  },
+  {
+    "start": 1531.72,
+    "duration": 3.24,
+    "text": "of time, you'll have great reply rates."
+  },
+  {
+    "start": 1534.96,
+    "duration": 7.88,
+    "text": "And the amount of emails that my team shares in their BDR Slack channel, they'll screenshot"
+  },
+  {
+    "start": 1542.84,
+    "duration": 5.0,
+    "text": "the little email replies like, oh, I never respond to these emails, but I just thought"
+  },
+  {
+    "start": 1547.88,
+    "duration": 3.08,
+    "text": "that was so interesting, I'm happy to take a call."
+  },
+  {
+    "start": 1550.96,
+    "duration": 1.52,
+    "text": "We get those every week."
+  },
+  {
+    "start": 1552.48,
+    "duration": 2.72,
+    "text": "And so from that perspective, it's an easy win."
+  },
+  {
+    "start": 1555.2,
+    "duration": 5.6,
+    "text": "But then later into a deal cycle, I have some account executives who will film little mini"
+  },
+  {
+    "start": 1560.8,
+    "duration": 4.88,
+    "text": "demos so that people can share them internally or proposal recaps."
+  },
+  {
+    "start": 1565.68,
+    "duration": 2.92,
+    "text": "One of my guys in Chicago does a really good job with this."
+  },
+  {
+    "start": 1568.6,
+    "duration": 6.56,
+    "text": "So you can get as creative as you can think."
+  },
+  {
+    "start": 1575.16,
+    "duration": 6.08,
+    "text": "But it is a channel that is still different."
+  },
+  {
+    "start": 1581.24,
+    "duration": 5.24,
+    "text": "When social selling was first big, I remember you just got like 80% reply rate on LinkedIn."
+  },
+  {
+    "start": 1586.48,
+    "duration": 1.0,
+    "text": "It was crazy."
+  },
+  {
+    "start": 1587.48,
+    "duration": 3.92,
+    "text": "And now you get a whole bunch of junk, but video is there."
+  },
+  {
+    "start": 1591.4,
+    "duration": 4.16,
+    "text": "So if you're going to think about video, do it now before everybody else gets there, because"
+  },
+  {
+    "start": 1595.56,
+    "duration": 2.88,
+    "text": "eventually it won't be as useful."
+  },
+  {
+    "start": 1598.44,
+    "duration": 1.88,
+    "text": "It's funny that you say that, Kyle, because it's true."
+  },
+  {
+    "start": 1600.32,
+    "duration": 6.12,
+    "text": "I get hit with calls and emails more times than I can count every single day here at"
+  },
+  {
+    "start": 1606.44,
+    "duration": 3.0,
+    "text": "Exfoliant, but I don't get hit with video."
+  },
+  {
+    "start": 1609.44,
+    "duration": 1.0,
+    "text": "I don't."
+  },
+  {
+    "start": 1610.44,
+    "duration": 1.96,
+    "text": "You're right."
+  },
+  {
+    "start": 1612.4,
+    "duration": 4.16,
+    "text": "So you seem to work both early in the process for specific reasons, but also later to try"
+  },
+  {
+    "start": 1616.56,
+    "duration": 1.0,
+    "text": "and do things."
+  },
+  {
+    "start": 1617.56,
+    "duration": 2.0,
+    "text": "It just depends on if you are purpose-driven."
+  },
+  {
+    "start": 1619.56,
+    "duration": 2.0,
+    "text": "You find it work both ways, huh?"
+  },
+  {
+    "start": 1621.56,
+    "duration": 1.0,
+    "text": "Mm-hmm."
+  },
+  {
+    "start": 1622.56,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1623.56,
+    "duration": 3.84,
+    "text": "And I mean, any time you want to communicate something that might be a little bit more"
+  },
+  {
+    "start": 1627.48,
+    "duration": 7.52,
+    "text": "complex and it's going to start getting really, really overly detailed in an email, then hop"
+  },
+  {
+    "start": 1635.0,
+    "duration": 2.08,
+    "text": "on, film a quick video."
+  },
+  {
+    "start": 1637.08,
+    "duration": 3.88,
+    "text": "You're screen-sharing your proposal walkthrough that your prospect can share with their colleague"
+  },
+  {
+    "start": 1640.96,
+    "duration": 5.4,
+    "text": "or their finance person if they refuse to get on a meeting with you."
+  },
+  {
+    "start": 1646.36,
+    "duration": 1.48,
+    "text": "So there's a bunch of different ways."
+  },
+  {
+    "start": 1647.84,
+    "duration": 3.52,
+    "text": "We use it for our ABM outreach."
+  },
+  {
+    "start": 1651.36,
+    "duration": 2.76,
+    "text": "That's another really key place."
+  },
+  {
+    "start": 1654.12,
+    "duration": 2.0,
+    "text": "Anywhere you want a differentiation."
+  },
+  {
+    "start": 1656.12,
+    "duration": 1.0,
+    "text": "Cool."
+  },
+  {
+    "start": 1657.84,
+    "duration": 1.0,
+    "text": "Thank you for sharing that for a second."
+  },
+  {
+    "start": 1658.84,
+    "duration": 1.0,
+    "text": "I appreciate that."
+  },
+  {
+    "start": 1659.84,
+    "duration": 2.4,
+    "text": "As you look, I know we're starting to run out of time."
+  },
+  {
+    "start": 1662.24,
+    "duration": 3.56,
+    "text": "I can't believe that we're already coming up on it."
+  },
+  {
+    "start": 1665.8,
+    "duration": 4.92,
+    "text": "I love, as I've learned about you and listen to you now, I've kind of written down three"
+  },
+  {
+    "start": 1670.72,
+    "duration": 1.0,
+    "text": "things."
+  },
+  {
+    "start": 1671.72,
+    "duration": 2.0,
+    "text": "You've talked about process."
+  },
+  {
+    "start": 1673.72,
+    "duration": 3.08,
+    "text": "You've talked a little bit about technology."
+  },
+  {
+    "start": 1676.8,
+    "duration": 4.16,
+    "text": "But one of the things that really has screamed at me as we've talked outside of this and"
+  },
+  {
+    "start": 1680.96,
+    "duration": 5.28,
+    "text": "as I've learned a little bit about you, you've got a team that likes that you expect them"
+  },
+  {
+    "start": 1686.36,
+    "duration": 1.0,
+    "text": "to work hard, too."
+  },
+  {
+    "start": 1687.36,
+    "duration": 3.48,
+    "text": "That whole work ethic thing is important for what you built."
+  },
+  {
+    "start": 1690.84,
+    "duration": 2.8,
+    "text": "How do you balance those three, process, technology, and work ethic?"
+  },
+  {
+    "start": 1693.64,
+    "duration": 1.72,
+    "text": "How does that work?"
+  },
+  {
+    "start": 1695.36,
+    "duration": 7.04,
+    "text": "Yeah, I would say all three of those things reinforce one another."
+  },
+  {
+    "start": 1702.4,
+    "duration": 5.44,
+    "text": "If you're going to demand a high work rate, and we're trying to do something that's really"
+  },
+  {
+    "start": 1707.84,
+    "duration": 7.56,
+    "text": "big, like we're trying to reinvent a really stagnant, old industry that's rooted in status"
+  },
+  {
+    "start": 1715.44,
+    "duration": 3.84,
+    "text": "quo, you're not going to be able to do that work in nine to five."
+  },
+  {
+    "start": 1719.28,
+    "duration": 1.0,
+    "text": "I love what I do."
+  },
+  {
+    "start": 1720.28,
+    "duration": 1.0,
+    "text": "I love selling."
+  },
+  {
+    "start": 1721.28,
+    "duration": 1.0,
+    "text": "I love our mission."
+  },
+  {
+    "start": 1722.28,
+    "duration": 1.88,
+    "text": "I love the people at the company."
+  },
+  {
+    "start": 1724.16,
+    "duration": 4.44,
+    "text": "It's easy to get up in the morning and go, but it's also a necessity."
+  },
+  {
+    "start": 1728.6,
+    "duration": 5.4,
+    "text": "If you want to ask for a high work rate, then you've got to make things easy for people."
+  },
+  {
+    "start": 1734.0,
+    "duration": 4.48,
+    "text": "You have to have process that helps accelerate their sales funnel and lets you be really"
+  },
+  {
+    "start": 1738.48,
+    "duration": 2.28,
+    "text": "effective as a manager to help your people."
+  },
+  {
+    "start": 1740.76,
+    "duration": 3.68,
+    "text": "If you're designing process for the sake of process, for the sake of oversight, you're"
+  },
+  {
+    "start": 1744.48,
+    "duration": 1.4,
+    "text": "doing it wrong."
+  },
+  {
+    "start": 1745.88,
+    "duration": 8.16,
+    "text": "Your process should be all about making things easier for people and reducing effort in the"
+  },
+  {
+    "start": 1754.04,
+    "duration": 2.68,
+    "text": "sales cycle."
+  },
+  {
+    "start": 1756.72,
+    "duration": 6.12,
+    "text": "Technology supports that so that you can have something to take notes easier and have a"
+  },
+  {
+    "start": 1762.84,
+    "duration": 4.56,
+    "text": "more interesting channel to communicate through video and using, let's say, Andy Vidyard or"
+  },
+  {
+    "start": 1767.4,
+    "duration": 1.0,
+    "text": "Sales Loft."
+  },
+  {
+    "start": 1768.4,
+    "duration": 1.0,
+    "text": "Okay, here's the cadence."
+  },
+  {
+    "start": 1769.4,
+    "duration": 1.0,
+    "text": "You want to go prospect?"
+  },
+  {
+    "start": 1770.4,
+    "duration": 4.64,
+    "text": "This is the master fire, hot fire cadence or whatever the guys are calling it right"
+  },
+  {
+    "start": 1775.04,
+    "duration": 1.0,
+    "text": "now."
+  },
+  {
+    "start": 1776.04,
+    "duration": 4.16,
+    "text": "You don't just pick the context you want, load them in and go."
+  },
+  {
+    "start": 1780.2,
+    "duration": 3.24,
+    "text": "They should all reinforce one another."
+  },
+  {
+    "start": 1783.44,
+    "duration": 4.48,
+    "text": "The other thing I'll say about work ethic is you have to create an environment where"
+  },
+  {
+    "start": 1787.92,
+    "duration": 1.0,
+    "text": "it's fun."
+  },
+  {
+    "start": 1788.92,
+    "duration": 3.4,
+    "text": "You have to create an environment where it's not the cliched work hard, play hard, like"
+  },
+  {
+    "start": 1792.32,
+    "duration": 2.84,
+    "text": "we're going to grind and then just go out and drink."
+  },
+  {
+    "start": 1795.16,
+    "duration": 3.72,
+    "text": "I don't think that's super conducive to building high performance teams."
+  },
+  {
+    "start": 1798.88,
+    "duration": 7.12,
+    "text": "You have to, as a sales leader, have that servant leadership mentality and really support"
+  },
+  {
+    "start": 1806.0,
+    "duration": 4.92,
+    "text": "your reps and fight for them and do what you can to give them the best chance to succeed"
+  },
+  {
+    "start": 1810.92,
+    "duration": 8.36,
+    "text": "and celebrate wins, ask for teamwork and collaboration and go out of your way as a sales leader to"
+  },
+  {
+    "start": 1819.28,
+    "duration": 6.6,
+    "text": "get on a plane and go to a meeting with somebody even if it's only one meeting across the country."
+  },
+  {
+    "start": 1825.88,
+    "duration": 1.0,
+    "text": "Just do it."
+  },
+  {
+    "start": 1827.16,
+    "duration": 3.84,
+    "text": "If you can create that environment and you're putting in more than you're asking for, then"
+  },
+  {
+    "start": 1831.0,
+    "duration": 6.6,
+    "text": "I think you can create an environment where people are willing to put in the time."
+  },
+  {
+    "start": 1837.6,
+    "duration": 1.28,
+    "text": "Your story is so cool."
+  },
+  {
+    "start": 1838.88,
+    "duration": 3.0,
+    "text": "It's just screams of innovation to me."
+  },
+  {
+    "start": 1841.88,
+    "duration": 2.76,
+    "text": "You've innovated in every part because you had a blank slate."
+  },
+  {
+    "start": 1844.64,
+    "duration": 2.16,
+    "text": "You didn't have to come change things."
+  },
+  {
+    "start": 1846.8,
+    "duration": 3.48,
+    "text": "You built it from scratch, but you've also kept it current."
+  },
+  {
+    "start": 1850.28,
+    "duration": 3.24,
+    "text": "As you look back over the two years or so that you've been there, Kyle, what would"
+  },
+  {
+    "start": 1853.52,
+    "duration": 3.0,
+    "text": "you say is the biggest challenge you've had to face?"
+  },
+  {
+    "start": 1857.52,
+    "duration": 4.76,
+    "text": "I mean, the strength of status quo in the marketplace is the one thing that we're constantly"
+  },
+  {
+    "start": 1862.28,
+    "duration": 2.84,
+    "text": "fighting against."
+  },
+  {
+    "start": 1865.12,
+    "duration": 9.08,
+    "text": "I would say one of the other big challenges is because it was a blank slate, we had to"
+  },
+  {
+    "start": 1874.2,
+    "duration": 1.16,
+    "text": "try a whole bunch of things."
+  },
+  {
+    "start": 1875.36,
+    "duration": 2.24,
+    "text": "Our original assumption was we were going to sell an SMB product."
+  },
+  {
+    "start": 1877.6,
+    "duration": 6.76,
+    "text": "It was going to be high-velocity, transactional, and that was going to be our go-to-market."
+  },
+  {
+    "start": 1884.44,
+    "duration": 3.52,
+    "text": "Then we started realizing, oh, actually, these smaller companies don't care about this challenge"
+  },
+  {
+    "start": 1887.96,
+    "duration": 2.68,
+    "text": "as much as we thought, so we have to go way upmarket."
+  },
+  {
+    "start": 1890.64,
+    "duration": 4.4,
+    "text": "Then we have to redo the process and rejig our messaging."
+  },
+  {
+    "start": 1895.04,
+    "duration": 6.4,
+    "text": "Just the fact that there were so many different things that we could possibly be testing and"
+  },
+  {
+    "start": 1901.44,
+    "duration": 6.6,
+    "text": "doing differently, sometimes that can feel daunting or that can feel like you don't"
+  },
+  {
+    "start": 1908.04,
+    "duration": 1.0,
+    "text": "know where to start."
+  },
+  {
+    "start": 1909.04,
+    "duration": 5.16,
+    "text": "That's where the customer interviews were really helpful."
+  },
+  {
+    "start": 1914.2,
+    "duration": 4.84,
+    "text": "One thing I will say as well is, I do believe a lot in process."
+  },
+  {
+    "start": 1919.04,
+    "duration": 6.56,
+    "text": "What I might do differently is actually have a little less process up front."
+  },
+  {
+    "start": 1925.6,
+    "duration": 1.56,
+    "text": "Build the process."
+  },
+  {
+    "start": 1927.16,
+    "duration": 5.92,
+    "text": "Give structure, but give potentially a little bit more room to fail."
+  },
+  {
+    "start": 1933.08,
+    "duration": 8.68,
+    "text": "Give more room for people to try a different approach or go to a different buyer or a different"
+  },
+  {
+    "start": 1941.8,
+    "duration": 7.56,
+    "text": "account type because if maybe we had more people doing different things, that would"
+  },
+  {
+    "start": 1949.36,
+    "duration": 7.16,
+    "text": "have accelerated how fast we found answers."
+  },
+  {
+    "start": 1956.52,
+    "duration": 1.24,
+    "text": "Love it."
+  },
+  {
+    "start": 1957.76,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 1958.76,
+    "duration": 3.12,
+    "text": "So, balance is key."
+  },
+  {
+    "start": 1961.88,
+    "duration": 5.52,
+    "text": "Process is important, but testing is important, so I might do that a little differently now."
+  },
+  {
+    "start": 1967.4,
+    "duration": 1.0,
+    "text": "This has been outstanding."
+  },
+  {
+    "start": 1969.32,
+    "duration": 3.04,
+    "text": "We're going to have a ton of listeners who are going to be really interested in to getting"
+  },
+  {
+    "start": 1972.36,
+    "duration": 1.0,
+    "text": "more of what you got."
+  },
+  {
+    "start": 1973.36,
+    "duration": 2.0,
+    "text": "I appreciate you taking a little bit of time."
+  },
+  {
+    "start": 1975.36,
+    "duration": 3.84,
+    "text": "I'm going to finish the way I finish every single episode, and I can't believe that we"
+  },
+  {
+    "start": 1979.2,
+    "duration": 1.96,
+    "text": "went over time."
+  },
+  {
+    "start": 1981.16,
+    "duration": 1.44,
+    "text": "To you, thank you."
+  },
+  {
+    "start": 1982.6,
+    "duration": 4.84,
+    "text": "To the listeners, you're thanking me because it's been so good."
+  },
+  {
+    "start": 1987.44,
+    "duration": 4.32,
+    "text": "One of the common themes, Kyle, that every one of our guests has had, because every one"
+  },
+  {
+    "start": 1991.76,
+    "duration": 1.48,
+    "text": "of you is a high growth leader."
+  },
+  {
+    "start": 1993.24,
+    "duration": 1.0,
+    "text": "You're beating the market."
+  },
+  {
+    "start": 1994.24,
+    "duration": 1.56,
+    "text": "You're taking what the market gives and then some."
+  },
+  {
+    "start": 1996.28,
+    "duration": 3.4,
+    "text": "One of the things that seems to define every single person that's been on the show is this"
+  },
+  {
+    "start": 1999.68,
+    "duration": 4.8,
+    "text": "thirst for wanting to learn, wanting to get better, wanting to find out what's next."
+  },
+  {
+    "start": 2004.48,
+    "duration": 1.76,
+    "text": "We fear the status quo."
+  },
+  {
+    "start": 2006.24,
+    "duration": 1.0,
+    "text": "We abhor it."
+  },
+  {
+    "start": 2007.24,
+    "duration": 4.4,
+    "text": "One of the ways that everybody does that is we find a lot of people are reading, and that"
+  },
+  {
+    "start": 2011.64,
+    "duration": 5.72,
+    "text": "library on our website of high growth sales books is becoming really big, really fast."
+  },
+  {
+    "start": 2017.36,
+    "duration": 3.64,
+    "text": "What would you add to it?"
+  },
+  {
+    "start": 2021.0,
+    "duration": 5.2,
+    "text": "In terms of book recommendations, there's a bunch of classics."
+  },
+  {
+    "start": 2026.2,
+    "duration": 5.52,
+    "text": "Challenger and Challenger Customer, I definitely think, are really good places to start."
+  },
+  {
+    "start": 2031.72,
+    "duration": 5.12,
+    "text": "Mark Roberge's book, Sales Acceleration Formula, changed the way that I look at a lot of things."
+  },
+  {
+    "start": 2036.84,
+    "duration": 3.0,
+    "text": "Those are great books."
+  },
+  {
+    "start": 2039.84,
+    "duration": 5.72,
+    "text": "Yeah, Good to Great, How to Win Friends."
+  },
+  {
+    "start": 2045.56,
+    "duration": 3.0,
+    "text": "There's a bunch of those classics that I think people sometimes forget about."
+  },
+  {
+    "start": 2049.12,
+    "duration": 5.8,
+    "text": "I'll give you one that maybe people don't have on the list so much."
+  },
+  {
+    "start": 2054.92,
+    "duration": 4.08,
+    "text": "It's Thinking Fast and Slow by Daniel Kahneman."
+  },
+  {
+    "start": 2059.0,
+    "duration": 8.6,
+    "text": "He's a Nobel Prize winning psychologist slash behavioral economist."
+  },
+  {
+    "start": 2067.6,
+    "duration": 5.6,
+    "text": "He's got a really different and interesting background, but his book talks about why we"
+  },
+  {
+    "start": 2073.2,
+    "duration": 6.16,
+    "text": "think the way that we do and why we make certain mistakes."
+  },
+  {
+    "start": 2079.36,
+    "duration": 1.0,
+    "text": "It's really, really fascinating."
+  },
+  {
+    "start": 2080.36,
+    "duration": 7.0,
+    "text": "Then there's a whole bunch of books that basically have copied what he wrote, but he's the real"
+  },
+  {
+    "start": 2087.36,
+    "duration": 1.0,
+    "text": "deal."
+  },
+  {
+    "start": 2088.36,
+    "duration": 5.96,
+    "text": "I think that was really formative for me, looking at how our buyers think, how I think,"
+  },
+  {
+    "start": 2094.32,
+    "duration": 3.96,
+    "text": "where I'm making mistakes, how to check myself, and the same thing with all of the rest of"
+  },
+  {
+    "start": 2098.28,
+    "duration": 1.0,
+    "text": "the team."
+  },
+  {
+    "start": 2099.28,
+    "duration": 1.48,
+    "text": "I'd say that's an awesome one."
+  },
+  {
+    "start": 2100.76,
+    "duration": 2.12,
+    "text": "It's thick, but it's good."
+  },
+  {
+    "start": 2102.88,
+    "duration": 1.0,
+    "text": "Great recommendations."
+  },
+  {
+    "start": 2103.88,
+    "duration": 3.36,
+    "text": "Some of them we've got, but we'll put your name on them as well, and we'll add a couple"
+  },
+  {
+    "start": 2107.24,
+    "duration": 1.0,
+    "text": "of these other ones."
+  },
+  {
+    "start": 2108.24,
+    "duration": 1.0,
+    "text": "This has been great."
+  },
+  {
+    "start": 2109.24,
+    "duration": 5.72,
+    "text": "Kyle, I really appreciate you coming and sharing some of your insights with our group today."
+  },
+  {
+    "start": 2114.96,
+    "duration": 1.0,
+    "text": "This has been fantastic."
+  },
+  {
+    "start": 2115.96,
+    "duration": 4.84,
+    "text": "If they want to get more from Kyle Norton, if they want to get more about League, how"
+  },
+  {
+    "start": 2120.8,
+    "duration": 2.62,
+    "text": "do they do it?"
+  },
+  {
+    "start": 2123.42,
+    "duration": 1.34,
+    "text": "You can find me on LinkedIn."
+  },
+  {
+    "start": 2124.76,
+    "duration": 3.0,
+    "text": "If you add me, I'll add you back."
+  },
+  {
+    "start": 2127.76,
+    "duration": 6.96,
+    "text": "Twitter, I'm not on there all the time, but my Twitter is at Kyle C Norton, N-O-R-T-R-O-N."
+  },
+  {
+    "start": 2134.72,
+    "duration": 1.0,
+    "text": "Awesome."
+  },
+  {
+    "start": 2135.72,
+    "duration": 2.36,
+    "text": "Hey, he taught us well."
+  },
+  {
+    "start": 2138.08,
+    "duration": 1.0,
+    "text": "He's experienced."
+  },
+  {
+    "start": 2139.08,
+    "duration": 2.24,
+    "text": "He doesn't just say it, he lives it."
+  },
+  {
+    "start": 2141.32,
+    "duration": 2.28,
+    "text": "Slow is smooth, and smooth is fast."
+  },
+  {
+    "start": 2143.6,
+    "duration": 4.88,
+    "text": "This guy's got some smooth processes and approach, and as a result, his company is doubling and"
+  },
+  {
+    "start": 2148.48,
+    "duration": 3.44,
+    "text": "tripling quarter over quarter, and he's not doing it by accident."
+  },
+  {
+    "start": 2151.92,
+    "duration": 1.2,
+    "text": "It's happening on purpose."
+  },
+  {
+    "start": 2153.12,
+    "duration": 3.64,
+    "text": "Kyle, thank you so much for spending some time with us, and happy selling."
+  },
+  {
+    "start": 2156.76,
+    "duration": 1.0,
+    "text": "Thanks a lot, Rob."
+  },
+  {
+    "start": 2157.76,
+    "duration": 1.0,
+    "text": "Appreciate it."
+  },
+  {
+    "start": 2158.76,
+    "duration": 5.68,
+    "text": "Hey, everyone, and welcome to another so what portion of the Sales Leadership Podcast, where"
+  },
+  {
+    "start": 2164.44,
+    "duration": 4.2,
+    "text": "we break down that interview, and we ask ourselves, why did that conversation matter?"
+  },
+  {
+    "start": 2168.64,
+    "duration": 1.0,
+    "text": "I hope you loved Kyle."
+  },
+  {
+    "start": 2169.64,
+    "duration": 2.48,
+    "text": "I hope you found his story super interesting."
+  },
+  {
+    "start": 2172.12,
+    "duration": 5.04,
+    "text": "It is not often we can find someone that got the blank slate."
+  },
+  {
+    "start": 2177.16,
+    "duration": 4.52,
+    "text": "First one in, built this organization from scratch, and has gone the distance, and done"
+  },
+  {
+    "start": 2181.68,
+    "duration": 1.0,
+    "text": "it in style."
+  },
+  {
+    "start": 2182.84,
+    "duration": 4.48,
+    "text": "I hope you caught that he said, we are trying to double the company every quarter, which"
+  },
+  {
+    "start": 2187.32,
+    "duration": 7.48,
+    "text": "is great given the saying that he went to where he said, slow is smooth, smooth is fast."
+  },
+  {
+    "start": 2194.8,
+    "duration": 4.24,
+    "text": "He chuckled and said, it's not like we're trying to go slow, we're doubling, but we"
+  },
+  {
+    "start": 2199.04,
+    "duration": 5.76,
+    "text": "are doing things to make sure that as we do it right, it ultimately throws gas on the"
+  },
+  {
+    "start": 2204.8,
+    "duration": 1.0,
+    "text": "fire."
+  },
+  {
+    "start": 2205.8,
+    "duration": 3.0,
+    "text": "Now, there's four things that jumped out at me, and I want to start before I get into"
+  },
+  {
+    "start": 2208.8,
+    "duration": 2.28,
+    "text": "the four with that concept that I brought up."
+  },
+  {
+    "start": 2211.08,
+    "duration": 3.28,
+    "text": "I believe there's two kinds of organizations, those that take what they want, and those"
+  },
+  {
+    "start": 2214.36,
+    "duration": 1.88,
+    "text": "that take what they can get."
+  },
+  {
+    "start": 2216.24,
+    "duration": 5.12,
+    "text": "The reason I'm going here is he mentioned that this is a predominantly outbound sales"
+  },
+  {
+    "start": 2221.36,
+    "duration": 1.0,
+    "text": "play."
+  },
+  {
+    "start": 2222.36,
+    "duration": 4.48,
+    "text": "It's starting to see a little inbound, but I love it because I believe that if you don't"
+  },
+  {
+    "start": 2226.84,
+    "duration": 4.96,
+    "text": "know which one you are, take what you want, or take what you can get, you're most likely"
+  },
+  {
+    "start": 2231.8,
+    "duration": 2.16,
+    "text": "take what you can get."
+  },
+  {
+    "start": 2233.96,
+    "duration": 3.56,
+    "text": "Inbound by definition is take what you can get."
+  },
+  {
+    "start": 2237.52,
+    "duration": 4.64,
+    "text": "Most people prefer to have those inbound leads, but I'm telling you, the most successful"
+  },
+  {
+    "start": 2242.16,
+    "duration": 4.48,
+    "text": "sales people, they know exactly the kind of customers they want, and they freaking go"
+  },
+  {
+    "start": 2246.64,
+    "duration": 1.0,
+    "text": "get them."
+  },
+  {
+    "start": 2247.64,
+    "duration": 4.72,
+    "text": "So, I hope that today you take another step closer to becoming a take what you want sales"
+  },
+  {
+    "start": 2252.36,
+    "duration": 4.56,
+    "text": "organization, and we follow Kyle's four steps that jumped out at me."
+  },
+  {
+    "start": 2256.92,
+    "duration": 3.02,
+    "text": "Number one is become a world class evangelist."
+  },
+  {
+    "start": 2259.94,
+    "duration": 5.3,
+    "text": "He talked about being an evangelist several times, and really it was because he was in"
+  },
+  {
+    "start": 2265.24,
+    "duration": 3.76,
+    "text": "an industry that needed disrupting, but it was something they weren't thinking about."
+  },
+  {
+    "start": 2269.0,
+    "duration": 2.68,
+    "text": "Status quo had been fine for years."
+  },
+  {
+    "start": 2271.68,
+    "duration": 3.64,
+    "text": "People think they have bigger fish to fry, but because they knew they had something worth"
+  },
+  {
+    "start": 2275.32,
+    "duration": 5.36,
+    "text": "talking about, it changed how they discover, and made it so that they were really, really"
+  },
+  {
+    "start": 2280.68,
+    "duration": 5.36,
+    "text": "on high alert for finding the key points that would make it so this was a conversation worth"
+  },
+  {
+    "start": 2286.04,
+    "duration": 4.28,
+    "text": "having, because at the end of the day, if the discovery process doesn't put you in alignment"
+  },
+  {
+    "start": 2290.32,
+    "duration": 3.64,
+    "text": "on the problems they want solved or the results that they need achieved, you're going to be"
+  },
+  {
+    "start": 2293.96,
+    "duration": 1.0,
+    "text": "in trouble."
+  },
+  {
+    "start": 2294.96,
+    "duration": 5.76,
+    "text": "But, I also like how I mentioned this evangelist approach really made it so they were hyper"
+  },
+  {
+    "start": 2300.72,
+    "duration": 7.24,
+    "text": "focused on this, what I call dollarization, where what's the payday on changing the status"
+  },
+  {
+    "start": 2307.96,
+    "duration": 2.96,
+    "text": "quo and creating excitement around it."
+  },
+  {
+    "start": 2310.92,
+    "duration": 4.6,
+    "text": "So, as an evangelist, they're evangelizing and trying to create excitement with these"
+  },
+  {
+    "start": 2315.52,
+    "duration": 4.6,
+    "text": "other people as they think about something they've never thought about, and say, man,"
+  },
+  {
+    "start": 2320.12,
+    "duration": 4.92,
+    "text": "imagine if we did this, because it's going to create benefits for us in ways we never"
+  },
+  {
+    "start": 2325.04,
+    "duration": 1.0,
+    "text": "thought."
+  },
+  {
+    "start": 2326.04,
+    "duration": 1.2,
+    "text": "Now, that takes us to number two."
+  },
+  {
+    "start": 2327.24,
+    "duration": 2.68,
+    "text": "He talked about staying close to customers."
+  },
+  {
+    "start": 2329.92,
+    "duration": 3.36,
+    "text": "I love one of the things he said, he said, what captured the attention of our customers"
+  },
+  {
+    "start": 2333.28,
+    "duration": 2.36,
+    "text": "is different than we expected."
+  },
+  {
+    "start": 2335.64,
+    "duration": 4.48,
+    "text": "That doesn't surprise me, and I think that most of the time, we don't realize how many"
+  },
+  {
+    "start": 2340.12,
+    "duration": 3.64,
+    "text": "times we're going to have to iterate before we start to get connected, and then when we"
+  },
+  {
+    "start": 2343.76,
+    "duration": 3.34,
+    "text": "do get connected, we've got to keep iterating, because markets change."
+  },
+  {
+    "start": 2347.1,
+    "duration": 3.52,
+    "text": "The two words I wrote down was innovate and iterate."
+  },
+  {
+    "start": 2350.62,
+    "duration": 1.0,
+    "text": "Innovate and iterate."
+  },
+  {
+    "start": 2351.62,
+    "duration": 3.96,
+    "text": "There are at least seven things he talked about innovating and iterating, and I think"
+  },
+  {
+    "start": 2355.58,
+    "duration": 4.4,
+    "text": "the iteration process is just as important as the innovation process."
+  },
+  {
+    "start": 2359.98,
+    "duration": 4.12,
+    "text": "The minute we say we're done, we are, we're finished, put a fork in us."
+  },
+  {
+    "start": 2364.1,
+    "duration": 3.68,
+    "text": "These seven things are things he talked about with some level of detail that you can go"
+  },
+  {
+    "start": 2367.78,
+    "duration": 1.0,
+    "text": "back and check out."
+  },
+  {
+    "start": 2368.78,
+    "duration": 5.72,
+    "text": "They had to innovate and innovate their product, their messaging, their process and or go to"
+  },
+  {
+    "start": 2374.5,
+    "duration": 5.04,
+    "text": "market strategy, how they target, how they prospect, how they personalize, and the last"
+  },
+  {
+    "start": 2379.54,
+    "duration": 2.2,
+    "text": "one that he talked about was even how they follow up."
+  },
+  {
+    "start": 2381.74,
+    "duration": 5.0,
+    "text": "They have to find better, better, better, better, and newer, newer, newer ways to do"
+  },
+  {
+    "start": 2386.74,
+    "duration": 4.64,
+    "text": "this, and if we don't do that, we're going to get out of sync with our customers, and"
+  },
+  {
+    "start": 2391.38,
+    "duration": 3.48,
+    "text": "in fact, we may never get there in the first place, which is why I like number three so"
+  },
+  {
+    "start": 2394.86,
+    "duration": 1.0,
+    "text": "much."
+  },
+  {
+    "start": 2395.86,
+    "duration": 3.12,
+    "text": "He talked about learning from losses, and this is something that I haven't heard anybody"
+  },
+  {
+    "start": 2398.98,
+    "duration": 2.4,
+    "text": "talk about on the show yet."
+  },
+  {
+    "start": 2401.38,
+    "duration": 4.24,
+    "text": "There was a time several years ago that win-loss reviews were really, really popular, and everybody"
+  },
+  {
+    "start": 2405.62,
+    "duration": 1.0,
+    "text": "was doing them."
+  },
+  {
+    "start": 2406.62,
+    "duration": 3.04,
+    "text": "I don't hear them talked about as much anymore, and I've kind of scratched my head wondering"
+  },
+  {
+    "start": 2409.66,
+    "duration": 1.6,
+    "text": "why."
+  },
+  {
+    "start": 2411.26,
+    "duration": 4.68,
+    "text": "He talked about how doing loss reviews not only helped him get off the ground, but loss"
+  },
+  {
+    "start": 2415.94,
+    "duration": 4.16,
+    "text": "reviews are what keep them aligned with the market moving forward."
+  },
+  {
+    "start": 2420.1,
+    "duration": 2.68,
+    "text": "Now, I don't know why we don't do as much."
+  },
+  {
+    "start": 2422.78,
+    "duration": 2.08,
+    "text": "There's a company that I recently became acquainted with."
+  },
+  {
+    "start": 2424.86,
+    "duration": 2.2,
+    "text": "They don't even know I'm giving them a plug today."
+  },
+  {
+    "start": 2427.06,
+    "duration": 6.76,
+    "text": "It's called Closed, C-L-O-Z-D.com, and I think they're doing some really interesting things"
+  },
+  {
+    "start": 2433.82,
+    "duration": 5.52,
+    "text": "in helping companies learn from losses, wins versus losses, and what's the variance that"
+  },
+  {
+    "start": 2439.34,
+    "duration": 1.88,
+    "text": "helps you understand what needs to change."
+  },
+  {
+    "start": 2441.22,
+    "duration": 5.84,
+    "text": "I would advise to not forget about the power of loss reviews, which takes to the last one."
+  },
+  {
+    "start": 2447.06,
+    "duration": 5.48,
+    "text": "He talked about creating a culture of hard work ethic, and he made another killer statement."
+  },
+  {
+    "start": 2452.54,
+    "duration": 1.92,
+    "text": "I mean, Kyle was filled with great statements."
+  },
+  {
+    "start": 2454.46,
+    "duration": 3.76,
+    "text": "He said, hey, if you're going to try and disrupt the market and have people do things"
+  },
+  {
+    "start": 2458.22,
+    "duration": 2.2,
+    "text": "in a way they've never done it, that takes effort."
+  },
+  {
+    "start": 2460.42,
+    "duration": 3.96,
+    "text": "They don't just choose to do that, and if we're going to have an environment where it's"
+  },
+  {
+    "start": 2464.38,
+    "duration": 2.78,
+    "text": "a high work ethic, there's at least three things we have to do."
+  },
+  {
+    "start": 2467.16,
+    "duration": 5.06,
+    "text": "We have to really equip them and enable them so we can do more with what we have, but I"
+  },
+  {
+    "start": 2472.22,
+    "duration": 2.2,
+    "text": "thought the last two were maybe more important."
+  },
+  {
+    "start": 2474.42,
+    "duration": 1.0,
+    "text": "It's got to be fun."
+  },
+  {
+    "start": 2475.42,
+    "duration": 3.92,
+    "text": "It's got to be something that we have this mission mentality that we're all in it together,"
+  },
+  {
+    "start": 2479.34,
+    "duration": 3.6,
+    "text": "but since this is the Sales Leadership Podcast, we're going to finish with this one."
+  },
+  {
+    "start": 2482.94,
+    "duration": 2.6,
+    "text": "They got to know you're there for them."
+  },
+  {
+    "start": 2485.54,
+    "duration": 3.88,
+    "text": "You got to do something, even if it's just to help them win just the one deal."
+  },
+  {
+    "start": 2489.42,
+    "duration": 4.16,
+    "text": "He talked about having their back and being there for them, even if it was like getting"
+  },
+  {
+    "start": 2493.58,
+    "duration": 2.0,
+    "text": "on a flight just for one deal."
+  },
+  {
+    "start": 2495.58,
+    "duration": 1.62,
+    "text": "I thought it was awesome."
+  },
+  {
+    "start": 2497.2,
+    "duration": 2.26,
+    "text": "I hope that you found Kyle's story killer."
+  },
+  {
+    "start": 2499.46,
+    "duration": 4.72,
+    "text": "I hope you leave today saying, I can go slow as smooth as fast."
+  },
+  {
+    "start": 2504.18,
+    "duration": 4.32,
+    "text": "His version of that, for instance, I added experiences to the sales process, and it makes"
+  },
+  {
+    "start": 2508.5,
+    "duration": 4.12,
+    "text": "it look like we're slowing it down, but ultimately it improved our win rate and shortened our"
+  },
+  {
+    "start": 2512.62,
+    "duration": 1.44,
+    "text": "cycle time."
+  },
+  {
+    "start": 2514.06,
+    "duration": 4.4,
+    "text": "That's what you'll find as you innovate and iterate throughout the process."
+  },
+  {
+    "start": 2518.46,
+    "duration": 2.84,
+    "text": "I appreciate the great feedback on the show."
+  },
+  {
+    "start": 2521.3,
+    "duration": 4.32,
+    "text": "I'm appreciative of the thousands of people that are now downloading and listening, and"
+  },
+  {
+    "start": 2525.62,
+    "duration": 1.48,
+    "text": "keep those great reviews coming."
+  },
+  {
+    "start": 2527.1,
+    "duration": 5.58,
+    "text": "If you like what you're hearing, please, please, please give us a positive comment on the reviews"
+  },
+  {
+    "start": 2532.68,
+    "duration": 2.18,
+    "text": "and share it with your friends."
+  },
+  {
+    "start": 2534.86,
+    "duration": 3.94,
+    "text": "If you got other guests you'd like to hear from, let us know who they are."
+  },
+  {
+    "start": 2538.8,
+    "duration": 2.54,
+    "text": "If you want to be on the show, we'd love to meet you."
+  },
+  {
+    "start": 2541.94,
+    "duration": 5.08,
+    "text": "As always, I hope you leave today saying, I got ideas how I can execute differently"
+  },
+  {
+    "start": 2547.02,
+    "duration": 7.0,
+    "text": "and better, and I'll finish the same way as always, don't worry, just execute, because"
+  },
+  {
+    "start": 2554.02,
+    "duration": 1.0,
+    "text": "we got you."
+  },
+  {
+    "start": 2555.02,
+    "duration": 4.6,
+    "text": "Thanks for joining us for the Sales Leadership Podcast, your weekly pipeline to the most"
+  },
+  {
+    "start": 2559.62,
+    "duration": 3.52,
+    "text": "successful thought leaders and rainmakers in sales."
+  },
+  {
+    "start": 2563.14,
+    "duration": 6.88,
+    "text": "Make sure to check out additional episodes at SalesLeadershipPodcast.com."
+  },
+  {
+    "start": 2570.02,
+    "duration": 5.08,
+    "text": "The Sales Leadership Podcast is produced by Brian Jepson and is sponsored by Exvoyant,"
+  },
+  {
+    "start": 2575.1,
+    "duration": 4.0,
+    "text": "the modern sales leadership platform for Salesforce.com users."
+  },
+  {
+    "start": 2579.1,
+    "duration": 4.0,
+    "text": "You can visit Exvoyant at Exvoyant.com."
+  }
+]

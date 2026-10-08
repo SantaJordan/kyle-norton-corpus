@@ -1,0 +1,2642 @@
+[
+  {
+    "start": 0.0,
+    "duration": 7.04,
+    "text": "Today's guest is Ron Gabrisco, who is the CRO at Databricks. Ron has had an absolutely"
+  },
+  {
+    "start": 7.04,
+    "duration": 6.32,
+    "text": "legendary run at Databricks, leading the company from less than a million dollars ARR, and"
+  },
+  {
+    "start": 13.36,
+    "duration": 5.56,
+    "text": "they are expecting to cross the $3 billion revenue run rate mark in the fourth quarter"
+  },
+  {
+    "start": 18.92,
+    "duration": 7.96,
+    "text": "ending January 31st, 2025. In December, Databricks announced they're raising a $20 billion round"
+  },
+  {
+    "start": 26.88,
+    "duration": 7.76,
+    "text": "to fuel additional growth. And prior to Databricks, Ron was the SVP of sales at Axway Software,"
+  },
+  {
+    "start": 34.64,
+    "duration": 6.04,
+    "text": "where he built and led the sales team, again, from very early stages to an IPO. So I'm extremely"
+  },
+  {
+    "start": 40.68,
+    "duration": 7.16,
+    "text": "excited for this conversation."
+  },
+  {
+    "start": 47.84,
+    "duration": 5.76,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline. I'm your host, Kyle Norton,"
+  },
+  {
+    "start": 53.6,
+    "duration": 6.76,
+    "text": "CRO at Owner.com. And every Wednesday, we dive deep into the strategies and tactics"
+  },
+  {
+    "start": 60.36,
+    "duration": 5.94,
+    "text": "being used to drive success by the best revenue leaders in the world. So join me as I sit"
+  },
+  {
+    "start": 66.3,
+    "duration": 4.4,
+    "text": "down with revenue operators to discuss actionable frameworks that you can implement in your"
+  },
+  {
+    "start": 70.7,
+    "duration": 14.36,
+    "text": "business today with no fluff, no sales pitches, and no platitudes."
+  },
+  {
+    "start": 85.06,
+    "duration": 4.6,
+    "text": "This episode of the Revenue Leadership Podcast is brought to you by Superhuman. Superhuman"
+  },
+  {
+    "start": 89.66,
+    "duration": 5.6,
+    "text": "is an AI-powered email app that helps sellers respond, collaborate, and close faster. With"
+  },
+  {
+    "start": 95.26,
+    "duration": 5.32,
+    "text": "features like inbox triage, automatic reminders, and collaborative email drafts, reps can filter"
+  },
+  {
+    "start": 101.46,
+    "duration": 4.08,
+    "text": "out distractions to focus on what they do best, selling. Get the email experience that"
+  },
+  {
+    "start": 105.54,
+    "duration": 7.56,
+    "text": "keeps deals moving. Try Superhuman free for one month at superhuman.com slash pavilion."
+  },
+  {
+    "start": 113.1,
+    "duration": 2.32,
+    "text": "And so Ron, thanks for joining. I'm really excited for this one."
+  },
+  {
+    "start": 115.42,
+    "duration": 3.88,
+    "text": "Yeah, it's nice to be here. Thanks for having me."
+  },
+  {
+    "start": 119.3,
+    "duration": 5.2,
+    "text": "Yeah. So why don't you give people a little bit of your background that I missed? What"
+  },
+  {
+    "start": 124.5,
+    "duration": 1.36,
+    "text": "do they need to know about you?"
+  },
+  {
+    "start": 125.86,
+    "duration": 6.8,
+    "text": "Yeah, I mean, listen, I'm a Stanford MBA, Stanford Master's in Engineering, so we're"
+  },
+  {
+    "start": 132.66,
+    "duration": 4.72,
+    "text": "probably a little bit different than some revenue leaders. But I've been at Databricks"
+  },
+  {
+    "start": 137.38,
+    "duration": 7.44,
+    "text": "nine plus years, started less than a million sales, grew it, I think, publicly, we're two"
+  },
+  {
+    "start": 144.82,
+    "duration": 5.48,
+    "text": "and a half billion plus. And it's been amazing. It's been super fun. Built a whole company"
+  },
+  {
+    "start": 150.3,
+    "duration": 7.08,
+    "text": "with the founders and amazing team, amazing journey. It's kind of my third successful"
+  },
+  {
+    "start": 157.38,
+    "duration": 5.48,
+    "text": "VC back exit and yeah, excited to talk to everybody about it."
+  },
+  {
+    "start": 162.86,
+    "duration": 6.56,
+    "text": "Yeah, not many can say that. And Databricks is in sort of the tiniest fraction of companies"
+  },
+  {
+    "start": 169.42,
+    "duration": 10.12,
+    "text": "that are growing multi-billion dollar ARR at 60% plus, I read. And so the first sort"
+  },
+  {
+    "start": 179.54,
+    "duration": 5.72,
+    "text": "of warm up question is, how has the company just overall continued to grow at such a"
+  },
+  {
+    "start": 185.26,
+    "duration": 5.04,
+    "text": "rate when sort of the denominator tends to pull down growth rate pretty aggressively"
+  },
+  {
+    "start": 190.3,
+    "duration": 2.84,
+    "text": "at that point? What's been the secret?"
+  },
+  {
+    "start": 193.14,
+    "duration": 5.92,
+    "text": "I mean, a big part is you have to re-invite yourself as a company and as a leader at every"
+  },
+  {
+    "start": 199.06,
+    "duration": 6.6,
+    "text": "single stage, right? So what you did from zero to 10 million, it's way different than"
+  },
+  {
+    "start": 205.66,
+    "duration": 7.28,
+    "text": "10 to 100, 100 to a billion, to multi-billion plus. And so how you go after each one of"
+  },
+  {
+    "start": 212.94,
+    "duration": 6.32,
+    "text": "those stages and how you transform as a company and as a team, it's really important to maintain"
+  },
+  {
+    "start": 219.26,
+    "duration": 1.72,
+    "text": "that growth rate."
+  },
+  {
+    "start": 220.98,
+    "duration": 7.28,
+    "text": "Yeah. And on the product side, I think you have six plus different pretty major products"
+  },
+  {
+    "start": 228.26,
+    "duration": 7.14,
+    "text": "and you've done some acquisitions and the product seems to have also evolved in a pretty"
+  },
+  {
+    "start": 235.4,
+    "duration": 1.8,
+    "text": "significant manner the last few years."
+  },
+  {
+    "start": 237.2,
+    "duration": 5.48,
+    "text": "Yeah, for sure. I mean, if you look at, like I said, each of those stages, you can kind"
+  },
+  {
+    "start": 242.68,
+    "duration": 7.52,
+    "text": "of break into how do you need to re-invite yourself based on product strategy and aim."
+  },
+  {
+    "start": 250.2,
+    "duration": 7.68,
+    "text": "So we started with one product. We literally did Managed Spark in the cloud and now we're"
+  },
+  {
+    "start": 257.88,
+    "duration": 7.44,
+    "text": "a full end-to-end data and AI platform, right? We've developed many open source projects,"
+  },
+  {
+    "start": 265.32,
+    "duration": 8.88,
+    "text": "many acquisitions and it also helps for an amazing fast growth market. But you have to"
+  },
+  {
+    "start": 274.2,
+    "duration": 7.2,
+    "text": "evolve the product. So multi-product strategies, you have to develop your go-to-market strategy,"
+  },
+  {
+    "start": 281.4,
+    "duration": 5.36,
+    "text": "you have to develop your team differently at each stage."
+  },
+  {
+    "start": 286.84,
+    "duration": 6.64,
+    "text": "That is our topic of the day. In particular, talking about how the go-to-market team has"
+  },
+  {
+    "start": 293.48,
+    "duration": 5.76,
+    "text": "needed to evolve through each of these chapters and really unpacking how you've evolved through"
+  },
+  {
+    "start": 299.24,
+    "duration": 6.2,
+    "text": "those chapters as well because you're almost a decade there now. That is the time span"
+  },
+  {
+    "start": 305.44,
+    "duration": 6.08,
+    "text": "that most companies have four, six, eight CROs. And so really getting an understanding"
+  },
+  {
+    "start": 311.6,
+    "duration": 6.56,
+    "text": "of how you have kept up with the pace of the business to continue to be able to run a team"
+  },
+  {
+    "start": 318.16,
+    "duration": 6.48,
+    "text": "of this scale. So we're going to split it into two topics. One is how you reinvented"
+  },
+  {
+    "start": 324.64,
+    "duration": 5.52,
+    "text": "the go-to-market organization from sub a million to over two billion, two and a half billion."
+  },
+  {
+    "start": 331.12,
+    "duration": 4.0,
+    "text": "And then we'll really unpack the leadership personal stuff as well."
+  },
+  {
+    "start": 335.44,
+    "duration": 7.52,
+    "text": "So in your opinion, what are the big chapters? How do you think about from then until now,"
+  },
+  {
+    "start": 342.96,
+    "duration": 5.76,
+    "text": "what were the major milestones and chapters? And then we can unpack how to evolve at each"
+  },
+  {
+    "start": 348.72,
+    "duration": 7.12,
+    "text": "one of those. Yeah. I mean, I think the first chapter is how do you find product market fit?"
+  },
+  {
+    "start": 355.84,
+    "duration": 7.28,
+    "text": "You have a product, you're excited about it. I think in some ways, the hardest chapter"
+  },
+  {
+    "start": 363.12,
+    "duration": 6.08,
+    "text": "actually, how do you go from like zero to 10 million, 20 million, kind of that range"
+  },
+  {
+    "start": 369.2,
+    "duration": 6.4,
+    "text": "to find what's really up to your customers. So that's definitely the first phase. And then"
+  },
+  {
+    "start": 375.6,
+    "duration": 5.84,
+    "text": "after you find product market fit, how do you expand, get to kind of the $100 million mark,"
+  },
+  {
+    "start": 382.32,
+    "duration": 7.2,
+    "text": "which is another, I would say milestone that kind of separates a lot of the companies that'll be"
+  },
+  {
+    "start": 390.24,
+    "duration": 5.92,
+    "text": "companies that'll be a lot more successful. And then I'd say third chapter is billion dollars,"
+  },
+  {
+    "start": 397.04,
+    "duration": 6.0,
+    "text": "fourth chapter is kind of multi-billion dollars. So I'm breaking into those four different chapters."
+  },
+  {
+    "start": 404.24,
+    "duration": 8.48,
+    "text": "And so in particular, going from product market and go-to-market fit, so you've gotten to 10 or"
+  },
+  {
+    "start": 412.72,
+    "duration": 5.52,
+    "text": "20, clearly there's a revenue engine working there. What are the biggest differences between"
+  },
+  {
+    "start": 418.24,
+    "duration": 4.56,
+    "text": "that stage and cracking to a hundred million, for example? What are the things that companies"
+  },
+  {
+    "start": 422.8,
+    "duration": 4.64,
+    "text": "need to nail there? Yeah. I mean, if you think about it, your oldest customers are really"
+  },
+  {
+    "start": 427.44,
+    "duration": 3.6,
+    "text": "out there. So a lot of them might be super tech-forward because they're literally just"
+  },
+  {
+    "start": 431.04,
+    "duration": 6.8,
+    "text": "targeting tech companies, but a lot of them are super tech-forward. Now you have brands"
+  },
+  {
+    "start": 440.08,
+    "duration": 5.52,
+    "text": "perhaps enterprise segments. Some companies target enterprise. I think that's an advantage."
+  },
+  {
+    "start": 445.6,
+    "duration": 4.32,
+    "text": "A lot of companies will start at early adopters. Now they're trying to get more mainstream."
+  },
+  {
+    "start": 450.64,
+    "duration": 7.04,
+    "text": "And when you go out and sell to enterprises, they have different budget cycles. They buy"
+  },
+  {
+    "start": 457.68,
+    "duration": 7.2,
+    "text": "in different ways. Why teams have enterprise-filled teams versus auto-merging or startup-filled teams."
+  },
+  {
+    "start": 466.64,
+    "duration": 4.56,
+    "text": "They're going to need more help, but they also have more money, right? So sales are longer."
+  },
+  {
+    "start": 471.84,
+    "duration": 3.6,
+    "text": "They also have different arms, right? They're going to have security requirements. So again,"
+  },
+  {
+    "start": 475.44,
+    "duration": 5.2,
+    "text": "if you look at kind of how they buy, how the product needs to evolve, and then how your"
+  },
+  {
+    "start": 480.64,
+    "duration": 9.76,
+    "text": "go-to-market team needs to evolve, that's how your brands snap 10, you say a hundred."
+  },
+  {
+    "start": 490.4,
+    "duration": 5.84,
+    "text": "We have a similar journey here. Maybe if we just talk about it a little bit more."
+  },
+  {
+    "start": 496.96,
+    "duration": 8.72,
+    "text": "We started selling to all the Silicon Valley, super tech-forward companies. They love to"
+  },
+  {
+    "start": 505.68,
+    "duration": 7.28,
+    "text": "try new stuff. They love to build stuff, but we were doing 25, 30K deals and it wasn't really"
+  },
+  {
+    "start": 512.96,
+    "duration": 7.6,
+    "text": "hard to do it. One of the first things I did as we expanded that team to learn more about"
+  },
+  {
+    "start": 520.56,
+    "duration": 3.84,
+    "text": "the product, product fit, I hired the entire enterprise team."
+  },
+  {
+    "start": 525.36,
+    "duration": 5.84,
+    "text": "Really to go meet every single enterprise that was using our open-source product and start to"
+  },
+  {
+    "start": 531.2,
+    "duration": 6.72,
+    "text": "develop that pricing strategy, really, right? So a lot of companies are open-source, premium,"
+  },
+  {
+    "start": 538.8,
+    "duration": 4.8,
+    "text": "a big part of how you make that journey. How do you develop your pricing strategy"
+  },
+  {
+    "start": 543.6,
+    "duration": 4.96,
+    "text": "based on what you learned from your early adopter customers in kind of that mainstream"
+  },
+  {
+    "start": 548.56,
+    "duration": 6.64,
+    "text": "enterprise market? So as an early revenue, you're a big part in how you develop that"
+  },
+  {
+    "start": 558.32,
+    "duration": 6.32,
+    "text": "auditization strategy. And what did that look like for Databricks? So you had your initial"
+  },
+  {
+    "start": 565.28,
+    "duration": 6.4,
+    "text": "enterprise reps. How did you figure out pricing to capture enough market share while also not"
+  },
+  {
+    "start": 571.68,
+    "duration": 5.52,
+    "text": "pricing yourself out? It's always such a tricky balance. Yeah, totally. Even more difficult,"
+  },
+  {
+    "start": 577.2,
+    "duration": 4.08,
+    "text": "I think, as a cloud company where you publish all your prices on the back."
+  },
+  {
+    "start": 582.4,
+    "duration": 5.68,
+    "text": "This is a full-scale enterprise where you kind of, it's based on their budget."
+  },
+  {
+    "start": 589.84,
+    "duration": 4.8,
+    "text": "First thing is like, listen, go talk to as many customers. I mean, that's what we did, right? We"
+  },
+  {
+    "start": 594.64,
+    "duration": 8.88,
+    "text": "had one product. We kind of entered the market around really data science and machine learning."
+  },
+  {
+    "start": 603.52,
+    "duration": 7.36,
+    "text": "And we had a great user base there. So go talk to them. What are the other things we can do to"
+  },
+  {
+    "start": 611.44,
+    "duration": 6.16,
+    "text": "expand our product portfolio with the things you pay for and things that come up like security and"
+  },
+  {
+    "start": 618.32,
+    "duration": 7.68,
+    "text": "redundancy and expand data engineering as a second product pretty quickly. But a lot of"
+  },
+  {
+    "start": 626.0,
+    "duration": 6.56,
+    "text": "that information just came from talking to customers and seeing what are they willing to pay"
+  },
+  {
+    "start": 632.56,
+    "duration": 7.68,
+    "text": "for? And then trying to test those call it triggers, what are your alternatives to the"
+  },
+  {
+    "start": 640.24,
+    "duration": 5.68,
+    "text": "market and your competition and how else they could buy, as well as what are they willing to"
+  },
+  {
+    "start": 645.92,
+    "duration": 8.64,
+    "text": "pay? And again, you're trying to maximize and match that value to price ratio early in the market."
+  },
+  {
+    "start": 654.56,
+    "duration": 4.48,
+    "text": "So you're right. You want to price yourself out of the market, but you also want a model"
+  },
+  {
+    "start": 659.68,
+    "duration": 5.12,
+    "text": "that's going to continue to expand exponentially and grow."
+  },
+  {
+    "start": 667.04,
+    "duration": 5.12,
+    "text": "And how much does the competitive benchmark play into that? Because obviously you guys are"
+  },
+  {
+    "start": 672.72,
+    "duration": 3.52,
+    "text": "in a knife fight with some big players."
+  },
+  {
+    "start": 677.68,
+    "duration": 5.76,
+    "text": "Yeah, sure. I mean, look at the competition. I mean, we're an engineering run company. So"
+  },
+  {
+    "start": 684.0,
+    "duration": 7.28,
+    "text": "our original thinking, I would just say in general of technical founders, if we have the"
+  },
+  {
+    "start": 691.28,
+    "duration": 5.04,
+    "text": "best product, it's the lowest price, we get the whole market. But a lot of times,"
+  },
+  {
+    "start": 697.28,
+    "duration": 6.8,
+    "text": "companies look at low price and they question quality. So we actually price a slight premium"
+  },
+  {
+    "start": 705.04,
+    "duration": 6.4,
+    "text": "to the competition, which allowed us to then justify our value. And then that also"
+  },
+  {
+    "start": 711.44,
+    "duration": 6.88,
+    "text": "allows your sales team to discount if they need to, to get to the right price."
+  },
+  {
+    "start": 718.32,
+    "duration": 6.4,
+    "text": "Again, that positioning, I think, is slightly higher in competition. It's smart because it"
+  },
+  {
+    "start": 724.72,
+    "duration": 4.48,
+    "text": "shows that you're different and allows your sales team to justify why you're different."
+  },
+  {
+    "start": 729.76,
+    "duration": 6.48,
+    "text": "Once you can convince the customer you have the best stock, then it's a lot easier to"
+  },
+  {
+    "start": 736.88,
+    "duration": 1.52,
+    "text": "get to the right price point."
+  },
+  {
+    "start": 738.72,
+    "duration": 6.88,
+    "text": "That makes sense. And so as you became a more mature company, was pricing strategy primarily"
+  },
+  {
+    "start": 745.6,
+    "duration": 5.52,
+    "text": "done internally or do you turn to external pricing consultants or do you have a value"
+  },
+  {
+    "start": 751.12,
+    "duration": 5.28,
+    "text": "engineering team? Did the sophistication of pricing strategy change a lot as you graduated"
+  },
+  {
+    "start": 756.4,
+    "duration": 4.16,
+    "text": "from a hundred million to like a billion in revenue, for example?"
+  },
+  {
+    "start": 760.56,
+    "duration": 6.24,
+    "text": "Totally. It's an entire kind of really strategic, you know, at the company, right? So early days,"
+  },
+  {
+    "start": 766.8,
+    "duration": 6.56,
+    "text": "there's a lot of Ali and myself and Arsalan and so many other founders deciding how should"
+  },
+  {
+    "start": 773.36,
+    "duration": 5.76,
+    "text": "we price, package these things. We mostly did it internally. We used a couple of consultants,"
+  },
+  {
+    "start": 780.32,
+    "duration": 7.28,
+    "text": "mostly around packaging if we wanted to survey our customers to see, you know, as your product"
+  },
+  {
+    "start": 787.6,
+    "duration": 3.68,
+    "text": "goes more and more complex, more and more features, you want to make it easier to buy."
+  },
+  {
+    "start": 791.36,
+    "duration": 4.56,
+    "text": "So you want to package based on kind of step buyers, price points,"
+  },
+  {
+    "start": 797.52,
+    "duration": 5.12,
+    "text": "but most of it was done internally about a really pretty sophisticated team,"
+  },
+  {
+    "start": 804.32,
+    "duration": 5.68,
+    "text": "you know, that works on, you know, all pricing strategies. How do we introduce new products?"
+  },
+  {
+    "start": 810.0,
+    "duration": 6.56,
+    "text": "How do we price them to try to maximize, you know, both revenue and adoption? So it gets"
+  },
+  {
+    "start": 816.56,
+    "duration": 4.0,
+    "text": "really sophisticated as you get bigger, for sure."
+  },
+  {
+    "start": 820.56,
+    "duration": 6.4,
+    "text": "And you guys have all the data and analytics to do probably that work in a much more general"
+  },
+  {
+    "start": 826.96,
+    "duration": 4.48,
+    "text": "manner. We're doing all kinds of data science and AI to say, if we price it this way,"
+  },
+  {
+    "start": 831.44,
+    "duration": 5.52,
+    "text": "what's the adoption look like? We do a preview pricing, what does the adoption look like?"
+  },
+  {
+    "start": 836.96,
+    "duration": 9.28,
+    "text": "And we have literally like PhDs doing pricing and packaging strategy because it's super important."
+  },
+  {
+    "start": 846.32,
+    "duration": 2.0,
+    "text": "Yeah, that's awesome."
+  },
+  {
+    "start": 848.32,
+    "duration": 2.0,
+    "text": "We have a lot of PhDs here, for sure."
+  },
+  {
+    "start": 850.32,
+    "duration": 3.28,
+    "text": "So I bet. Well, aren't the founders seven PhDs?"
+  },
+  {
+    "start": 854.16,
+    "duration": 7.92,
+    "text": "Yeah, exactly. So Crazy Squared, I mean, that was a big part of my team. I mean, Spark was"
+  },
+  {
+    "start": 862.08,
+    "duration": 6.24,
+    "text": "everywhere and the company had open-sourced it and had like literally tens of thousands,"
+  },
+  {
+    "start": 868.32,
+    "duration": 5.44,
+    "text": "hundreds of thousands, millions of users. We just needed to be able to monetize and provide"
+  },
+  {
+    "start": 873.84,
+    "duration": 8.0,
+    "text": "product to those customers. But honestly, our founders, we sell the smartest people on the"
+  },
+  {
+    "start": 881.84,
+    "duration": 4.48,
+    "text": "planet. And, you know, a big part of me and confidence was like, they understand where"
+  },
+  {
+    "start": 886.32,
+    "duration": 4.72,
+    "text": "the market was going, they had a vision. Again, when you look at those three pillars, product,"
+  },
+  {
+    "start": 891.84,
+    "duration": 6.16,
+    "text": "strategy, and team, like they're amazing individuals, had an amazing product vision."
+  },
+  {
+    "start": 898.0,
+    "duration": 5.6,
+    "text": "And so if I could fill in some of the strategy and team things, I thought we could have some"
+  },
+  {
+    "start": 903.76,
+    "duration": 2.88,
+    "text": "big. Yeah, good bet. Smart bet."
+  },
+  {
+    "start": 908.56,
+    "duration": 7.84,
+    "text": "And so let's talk about how the team evolved. And so as you go from, let's call it like startup to"
+  },
+  {
+    "start": 916.4,
+    "duration": 6.88,
+    "text": "scale up. So you're exiting that 10 or 20 million dollar range and getting into like, this thing"
+  },
+  {
+    "start": 923.28,
+    "duration": 6.48,
+    "text": "works, we can hit the gas. How does the team, how does the organizational design change? What were"
+  },
+  {
+    "start": 929.76,
+    "duration": 4.96,
+    "text": "some of the chapters of leadership that you had to go through? I'd love to hear more about"
+  },
+  {
+    "start": 934.72,
+    "duration": 6.24,
+    "text": "team building. Yeah, a great question. I mean, first off, you go on to say like,"
+  },
+  {
+    "start": 940.96,
+    "duration": 8.24,
+    "text": "10 or 20 to a million, like, you want still gritty startup leaders, right? You need guys"
+  },
+  {
+    "start": 949.2,
+    "duration": 6.8,
+    "text": "and gals that are going to be front of customers, you know, get in his dirty,"
+  },
+  {
+    "start": 956.0,
+    "duration": 6.72,
+    "text": "selling, right? Not a scale motion yet. But you want people that have done that before. So it's"
+  },
+  {
+    "start": 962.72,
+    "duration": 5.76,
+    "text": "great to be like folks that have some startup experience, but also, you know, some expand"
+  },
+  {
+    "start": 969.84,
+    "duration": 5.52,
+    "text": "experience. You're also going to have to think through, you know, where are you on emerging"
+  },
+  {
+    "start": 975.36,
+    "duration": 4.56,
+    "text": "versus enterprise. So as you build out your go to market strategy, those tend to be two"
+  },
+  {
+    "start": 980.64,
+    "duration": 6.48,
+    "text": "kind of separate types of buying patterns. And then you're also going to want to just decide,"
+  },
+  {
+    "start": 987.12,
+    "duration": 6.4,
+    "text": "you know, what's your international expansion strategy, right? So here, you know, we built"
+  },
+  {
+    "start": 993.52,
+    "duration": 6.16,
+    "text": "out American as I brought in pretty, you know, experienced, hunk leaders."
+  },
+  {
+    "start": 1002.8,
+    "duration": 6.24,
+    "text": "And then also built out of NIA and APJ with leadership. So that's kind of how we expanded"
+  },
+  {
+    "start": 1009.92,
+    "duration": 6.4,
+    "text": "enterprise like DNP and emerging. And then eventually as we started to scale with verticals"
+  },
+  {
+    "start": 1016.32,
+    "duration": 6.0,
+    "text": "and, you know, it's even more kind of focused and segmented, but that's scaling 10 to 100."
+  },
+  {
+    "start": 1022.32,
+    "duration": 8.16,
+    "text": "You definitely want leaders that have seen that movie before, but also our startup, you know,"
+  },
+  {
+    "start": 1030.48,
+    "duration": 4.8,
+    "text": "have startup experience because they're not big company. We're going to still be building"
+  },
+  {
+    "start": 1035.28,
+    "duration": 7.76,
+    "text": "everything, right? It's not, here's the playbook, go run and scale it, right? Which is a different"
+  },
+  {
+    "start": 1043.04,
+    "duration": 7.04,
+    "text": "segment and as you get kind of bigger, so. Okay. And then from like 100 to, is the next"
+  },
+  {
+    "start": 1050.08,
+    "duration": 6.08,
+    "text": "chapter 100 to a billion or 100 to half a billion? When do you start changing the mix of individual"
+  },
+  {
+    "start": 1056.16,
+    "duration": 6.88,
+    "text": "from, you know, it's not as startup person fit. It's more like you're trying to grab Microsoft,"
+  },
+  {
+    "start": 1063.04,
+    "duration": 3.92,
+    "text": "AWS, Salesforce people. Like when, when does that chapter happen?"
+  },
+  {
+    "start": 1066.96,
+    "duration": 4.4,
+    "text": "Yeah. I mean, it's probably 100 to a billion somewhere in there, right? It's where"
+  },
+  {
+    "start": 1073.12,
+    "duration": 5.6,
+    "text": "basically you're going to see your either, it's either a bigger job than they've ever had before"
+  },
+  {
+    "start": 1079.36,
+    "duration": 7.2,
+    "text": "and they're going to be upgrading leadership to be able to keep up with that directly."
+  },
+  {
+    "start": 1087.28,
+    "duration": 5.12,
+    "text": "And if they can't, if they can't get the right kind of caliber of talent and they've"
+  },
+  {
+    "start": 1092.4,
+    "duration": 4.8,
+    "text": "got a hidden feeling, right? You have to think through, do you, you know, you replace them,"
+  },
+  {
+    "start": 1097.2,
+    "duration": 6.96,
+    "text": "do you layer them to, you know, help the business continue to grow? And so I would say that 100 to,"
+  },
+  {
+    "start": 1104.8,
+    "duration": 4.48,
+    "text": "you know, kind of 500 billion or 500 billion to a billion. And you got to break that out."
+  },
+  {
+    "start": 1109.28,
+    "duration": 4.72,
+    "text": "Like Americans is going to get there faster than me. I mean, it's going to get there faster than"
+  },
+  {
+    "start": 1114.4,
+    "duration": 5.28,
+    "text": "kind of have to think through that and how they're expanding their own leadership team as you kind of"
+  },
+  {
+    "start": 1120.32,
+    "duration": 1.68,
+    "text": "go through that scale. So."
+  },
+  {
+    "start": 1122.0,
+    "duration": 7.28,
+    "text": "Okay. So the, the next two layers under you, so your direct SLT and then their level of leaders,"
+  },
+  {
+    "start": 1129.28,
+    "duration": 5.6,
+    "text": "what's the mix of that between internal promotes people that you've brought up"
+  },
+  {
+    "start": 1134.88,
+    "duration": 2.32,
+    "text": "over the years versus external hires today?"
+  },
+  {
+    "start": 1138.16,
+    "duration": 8.0,
+    "text": "I mean, obviously we hired everybody's scratch, but as you continue to expand and a big part of"
+  },
+  {
+    "start": 1146.16,
+    "duration": 7.36,
+    "text": "the early days, all about how to wear the best of the best inspiring scale, you're growing a hundred"
+  },
+  {
+    "start": 1153.52,
+    "duration": 6.08,
+    "text": "percent, you know, year over year, you double your team every year. So you got to, if you have the"
+  },
+  {
+    "start": 1159.6,
+    "duration": 6.64,
+    "text": "best leader and bring in their own networks, that's a huge part of our release. In general,"
+  },
+  {
+    "start": 1166.64,
+    "duration": 6.64,
+    "text": "joy, you know, motion to about 50, 50, because you want, like, we want to be a destination"
+  },
+  {
+    "start": 1174.16,
+    "duration": 4.96,
+    "text": "place. We want people to come here, build their career and share. I mean, you look at a place"
+  },
+  {
+    "start": 1179.12,
+    "duration": 6.8,
+    "text": "like Microsoft, you know, people work there 20 plus years, right? So that's when you want data"
+  },
+  {
+    "start": 1185.92,
+    "duration": 5.52,
+    "text": "routes to be. So the only way that it's have motion paths for those people, but also like"
+  },
+  {
+    "start": 1191.44,
+    "duration": 6.16,
+    "text": "most people as they grow, you know, that's kind of the call it the form system. You also have"
+  },
+  {
+    "start": 1197.6,
+    "duration": 4.64,
+    "text": "spots where you're like, this job's bigger than anybody have organization. I need to bring in"
+  },
+  {
+    "start": 1202.24,
+    "duration": 7.52,
+    "text": "somebody from the outside. Um, and again, double team. And when you're growing, we're saying over"
+  },
+  {
+    "start": 1209.76,
+    "duration": 6.64,
+    "text": "a year, you're always going to need extra. Right. Exactly. Exactly. Okay. So roughly like a 50,"
+  },
+  {
+    "start": 1216.4,
+    "duration": 5.92,
+    "text": "50 split is where you'd want to land. Yeah, for sure. For sure. And that brings a good,"
+  },
+  {
+    "start": 1222.32,
+    "duration": 6.32,
+    "text": "healthy mix of, you know, people that got in there, know how you work, you know, the market"
+  },
+  {
+    "start": 1228.64,
+    "duration": 7.84,
+    "text": "in new blood too, that has more energy and different ideas that mix culturally and team,"
+  },
+  {
+    "start": 1236.48,
+    "duration": 5.52,
+    "text": "I think written outright is the thing that keeps you grow super, super fast. So that makes sense."
+  },
+  {
+    "start": 1242.0,
+    "duration": 5.84,
+    "text": "And I was creeping around on the Databricks executive site, and there's just a ton of people"
+  },
+  {
+    "start": 1247.84,
+    "duration": 6.4,
+    "text": "that have been there seven, eight, nine, 10 years. Uh, CMO was seven years, COO eight years. You're"
+  },
+  {
+    "start": 1254.24,
+    "duration": 8.64,
+    "text": "almost 10, uh, still led by a co-founder. And so clearly there is an institutional knowledge"
+  },
+  {
+    "start": 1262.88,
+    "duration": 6.72,
+    "text": "that's important. And you guys have been able to grow talent at a pretty rare rate. Like any,"
+  },
+  {
+    "start": 1269.6,
+    "duration": 7.84,
+    "text": "any secrets to, because just the, the individual in the business three years ago, that was a much"
+  },
+  {
+    "start": 1277.44,
+    "duration": 5.12,
+    "text": "different size of business and scope. So how do you get somebody ready to run a business that"
+  },
+  {
+    "start": 1282.56,
+    "duration": 3.76,
+    "text": "might be like three times bigger than the biggest thing they've ever managed before? What, what,"
+  },
+  {
+    "start": 1286.32,
+    "duration": 6.24,
+    "text": "from a leadership enabled? Yeah, totally. And listen, we've still, uh, we brought in a lot of,"
+  },
+  {
+    "start": 1292.56,
+    "duration": 5.44,
+    "text": "I mean, again, the same thing. So a lot of the, you know, kind of OGs, most have a lot of folks"
+  },
+  {
+    "start": 1298.0,
+    "duration": 6.8,
+    "text": "that add to that, right? Like you have an amazing CFO, you know, amazing product folks and, um,"
+  },
+  {
+    "start": 1304.8,
+    "duration": 5.52,
+    "text": "you know, amazing, uh, HR people. And we brought a lot of leaders to, you know,"
+  },
+  {
+    "start": 1310.32,
+    "duration": 5.84,
+    "text": "that are kind of newer too. Again, that whole mix. Um, uh, I think it's really important. So,"
+  },
+  {
+    "start": 1317.04,
+    "duration": 5.84,
+    "text": "um, but you know, as you're kind of growing, in fact, for some of these growing up in the"
+  },
+  {
+    "start": 1322.88,
+    "duration": 6.32,
+    "text": "organization, it's, it's not bad bringing in new people that would have more experience,"
+  },
+  {
+    "start": 1329.2,
+    "duration": 5.44,
+    "text": "different experience to help them continue to grow. Again, if you're growing at this kind of rate,"
+  },
+  {
+    "start": 1334.64,
+    "duration": 5.44,
+    "text": "still going to grow more and more opportunities. Um, and so a lot of your bigger scale leaders,"
+  },
+  {
+    "start": 1340.08,
+    "duration": 6.0,
+    "text": "I did bring in from the outside, uh, to help us scale. Cause they've seen that motion, right?"
+  },
+  {
+    "start": 1346.08,
+    "duration": 3.84,
+    "text": "Especially when you start getting it in the multi-billions, you know, now we're recruiting"
+  },
+  {
+    "start": 1349.92,
+    "duration": 6.32,
+    "text": "from bigger companies that have seen that before, right? And so having that mix of people that got"
+  },
+  {
+    "start": 1356.24,
+    "duration": 4.96,
+    "text": "you there and the people that have seen kind of a bigger movie, those together, I think is the"
+  },
+  {
+    "start": 1361.2,
+    "duration": 5.92,
+    "text": "secret sauce. So, yeah. And then those external hires help get, get everybody to the next level"
+  },
+  {
+    "start": 1367.12,
+    "duration": 4.96,
+    "text": "because they can teach stuff that folks don't know. And so, and so what have you done to enable"
+  },
+  {
+    "start": 1372.8,
+    "duration": 3.92,
+    "text": "your internal leaders to keep pace with that growth? Like what, what does the"
+  },
+  {
+    "start": 1376.72,
+    "duration": 3.84,
+    "text": "leadership training program look like? Are you guys sending people to external"
+  },
+  {
+    "start": 1381.12,
+    "duration": 6.16,
+    "text": "courses like that? How do you do it? I mean, we do, I mean, just the number one thing you can"
+  },
+  {
+    "start": 1387.28,
+    "duration": 5.2,
+    "text": "invest in, right? Is your people, right? And so we have what we call leadership training."
+  },
+  {
+    "start": 1393.36,
+    "duration": 7.68,
+    "text": "Uh, you know, it's kind of immersive by function where, you know, we'll do, we'll have the founders"
+  },
+  {
+    "start": 1401.04,
+    "duration": 5.52,
+    "text": "talk to them about the principles of the company, but also kind of how we, what we expect your"
+  },
+  {
+    "start": 1406.56,
+    "duration": 7.04,
+    "text": "leader in terms of culture, strategy, and setting vision for the team, a lot of hiring, execution,"
+  },
+  {
+    "start": 1414.96,
+    "duration": 6.0,
+    "text": "and again, the company values. So we invest a lot in leader training as well as like high"
+  },
+  {
+    "start": 1420.96,
+    "duration": 6.08,
+    "text": "potential programs, right? We'll also take people, even our first plan managers, second line managers"
+  },
+  {
+    "start": 1427.6,
+    "duration": 4.56,
+    "text": "and, you know, put them, you know, give them special thoughts in this leader training"
+  },
+  {
+    "start": 1432.16,
+    "duration": 3.68,
+    "text": "because we want to invest in those people to get them to accelerate their career."
+  },
+  {
+    "start": 1436.48,
+    "duration": 5.6,
+    "text": "And as we, as we do that, they also help accelerate data breaks. So, you know, it makes a lot of sense,"
+  },
+  {
+    "start": 1442.08,
+    "duration": 6.8,
+    "text": "but, uh, I mean, you have to invest in your people, like we're a software company, it's all people,"
+  },
+  {
+    "start": 1448.88,
+    "duration": 6.8,
+    "text": "you know? So, and so for you, when you're evaluating, say you've got like a great up and"
+  },
+  {
+    "start": 1455.68,
+    "duration": 6.08,
+    "text": "coming director and you're thinking about them for a bigger like EVP or VP scope, what are the"
+  },
+  {
+    "start": 1461.76,
+    "duration": 4.96,
+    "text": "things that you're most dialed into making sure that they can do for you to assess their readiness"
+  },
+  {
+    "start": 1466.72,
+    "duration": 5.92,
+    "text": "for the next thing? Yeah, we each have a breakthrough leadership index, you know,"
+  },
+  {
+    "start": 1472.64,
+    "duration": 6.32,
+    "text": "we're a lot on data and analytics. We actually pull up data from, you know, survey results or"
+  },
+  {
+    "start": 1478.96,
+    "duration": 6.56,
+    "text": "do 360 anonymous reviews every single year, uh, as part of the culture surveys and things of that"
+  },
+  {
+    "start": 1485.52,
+    "duration": 6.48,
+    "text": "nature. Because again, I think people in culture are number one phase of a successful company,"
+  },
+  {
+    "start": 1492.0,
+    "duration": 6.24,
+    "text": "but, you know, we'll also look at like, you know, I call it cyberware's vision, how do they set"
+  },
+  {
+    "start": 1498.24,
+    "duration": 5.28,
+    "text": "their vision for their team? What's their strategy and how they're accomplished and align the goals"
+  },
+  {
+    "start": 1503.52,
+    "duration": 5.76,
+    "text": "in the company. I looked at their culture and culture results and, you know, attrition,"
+  },
+  {
+    "start": 1509.28,
+    "duration": 6.32,
+    "text": "not regretting, not regretting. Um, we'll look at, uh, you know, again, like how they're doing"
+  },
+  {
+    "start": 1515.6,
+    "duration": 6.88,
+    "text": "hiring, right? So are they raising bar, bringing in great people, um, who are also, you know,"
+  },
+  {
+    "start": 1522.48,
+    "duration": 5.44,
+    "text": "well-respected and then execution, right? I mean, we're in sales, so it's the easiest thing to"
+  },
+  {
+    "start": 1527.92,
+    "duration": 5.04,
+    "text": "measure, but, uh, but we kind of use that framework for leaders across the company and"
+  },
+  {
+    "start": 1532.96,
+    "duration": 6.0,
+    "text": "that's how we assess kind of early talent and how we're doing in terms of helping them grow as"
+  },
+  {
+    "start": 1538.96,
+    "duration": 7.12,
+    "text": "leaders. So, okay. Vision, strategy, culture, hiring, execution, makes sense. There you go."
+  },
+  {
+    "start": 1547.04,
+    "duration": 9.6,
+    "text": "Five pillars. I like it. Um, and then on strategy, like how do you unpack who is"
+  },
+  {
+    "start": 1556.64,
+    "duration": 4.4,
+    "text": "good at strategy? This is always such a tricky thing because like judgment is a little bit like"
+  },
+  {
+    "start": 1561.04,
+    "duration": 4.64,
+    "text": "taste in some ways, like measuring it as difficult. How do you get to the heart of that?"
+  },
+  {
+    "start": 1566.8,
+    "duration": 6.8,
+    "text": "I mean, to me, again, it's not just similar to how you go to market strategy companies through"
+  },
+  {
+    "start": 1573.6,
+    "duration": 5.52,
+    "text": "these different skills. Like one, you know, which we're all talking about strategy. So"
+  },
+  {
+    "start": 1579.2,
+    "duration": 6.4,
+    "text": "how are they throwing multiple products into their cluster base for whatever segment they have?"
+  },
+  {
+    "start": 1586.32,
+    "duration": 5.76,
+    "text": "Uh, what should partner distribution strategy, right? Like we, we spent a lot of time investing"
+  },
+  {
+    "start": 1592.08,
+    "duration": 5.28,
+    "text": "in our, you know, we have an amazing relationship with Microsoft, great relationship with AWI,"
+  },
+  {
+    "start": 1597.36,
+    "duration": 5.76,
+    "text": "Google, a lot of that. So how are they doing their kind of partner distribution strategy?"
+  },
+  {
+    "start": 1603.92,
+    "duration": 4.56,
+    "text": "Um, you know, those are two really good pillars. How are they when they're"
+  },
+  {
+    "start": 1608.48,
+    "duration": 6.4,
+    "text": "very worried how strategy, like, you know, how focused are we at strategic accounts versus name,"
+  },
+  {
+    "start": 1615.76,
+    "duration": 6.32,
+    "text": "you know, all those kinds of, uh, uh, assessments, how do we do funding investments? Like there's,"
+  },
+  {
+    "start": 1622.08,
+    "duration": 3.92,
+    "text": "you know, a number of things we can look at to see, you know, how have they developed"
+  },
+  {
+    "start": 1626.0,
+    "duration": 4.48,
+    "text": "that to try to maximize not just the short term to the long-term, you know,"
+  },
+  {
+    "start": 1630.56,
+    "duration": 8.72,
+    "text": "value and success in the business. Right. Cool. Nice. Um, I want to flip and talk to"
+  },
+  {
+    "start": 1640.0,
+    "duration": 5.68,
+    "text": "reinventing yourself individually as a leader. Like I mentioned, you've been through a journey,"
+  },
+  {
+    "start": 1645.68,
+    "duration": 5.68,
+    "text": "which is normally like six CROs just getting swapped out every couple of years, uh, at that,"
+  },
+  {
+    "start": 1652.16,
+    "duration": 6.16,
+    "text": "at that, uh, rate of growth. How have you individually done it? Like what, what's been"
+  },
+  {
+    "start": 1658.32,
+    "duration": 4.48,
+    "text": "the secret to keep up with the pace of the business and all of these different stages?"
+  },
+  {
+    "start": 1663.6,
+    "duration": 6.56,
+    "text": "Um, where, where have you gone to grow yourself? Yeah, no, great question. Um, first of all,"
+  },
+  {
+    "start": 1670.8,
+    "duration": 6.48,
+    "text": "um, you know, we used to be super, I think, super humble. Uh, you know, everything that"
+  },
+  {
+    "start": 1677.84,
+    "duration": 4.64,
+    "text": "I've exhibits, everything that data breaks, it goes, but based on the team, right. Like one of"
+  },
+  {
+    "start": 1682.48,
+    "duration": 7.04,
+    "text": "my, my own cultural principles is teamwork, extreme work, right. So it's really a team sport."
+  },
+  {
+    "start": 1689.52,
+    "duration": 8.88,
+    "text": "So, um, that's what I spent an incredible amount of time, not just with wine sales leaders and the"
+  },
+  {
+    "start": 1698.4,
+    "duration": 5.28,
+    "text": "sales team, but with the founders really days. And then with the exec team and, you know,"
+  },
+  {
+    "start": 1703.68,
+    "duration": 7.04,
+    "text": "we're constantly thinking about how do we better, you know, we're not always celebrating. I mean,"
+  },
+  {
+    "start": 1711.28,
+    "duration": 6.08,
+    "text": "I love data breaks. Like I'm a breakthrough for life, but like you also want to be able to get,"
+  },
+  {
+    "start": 1717.36,
+    "duration": 4.88,
+    "text": "okay, improve. What are the new marketing opportunities, all those kinds of things."
+  },
+  {
+    "start": 1722.24,
+    "duration": 5.84,
+    "text": "Right. And so at each stage you're having to figure out, okay, what's holding us back from"
+  },
+  {
+    "start": 1728.08,
+    "duration": 4.96,
+    "text": "the next stage. Right. So from zero to 10, it's a lot of, let's get those really customers going"
+  },
+  {
+    "start": 1733.6,
+    "duration": 5.92,
+    "text": "product market fit. Um, you know, how you price strategy, but as you pulled out the team,"
+  },
+  {
+    "start": 1739.6,
+    "duration": 6.0,
+    "text": "now we're gonna, you know, start to shift into other, you know, how do we build the playbook?"
+  },
+  {
+    "start": 1745.6,
+    "duration": 4.88,
+    "text": "What kind of investments do we make? What's holding us back? Um, and as an individual,"
+  },
+  {
+    "start": 1751.28,
+    "duration": 8.08,
+    "text": "um, you know, part of like, how do I recruit? How do I fire? How do I fire? How do I operate"
+  },
+  {
+    "start": 1759.36,
+    "duration": 6.16,
+    "text": "business? Like each one of the required, you know, differences there. And I think great leaders,"
+  },
+  {
+    "start": 1766.4,
+    "duration": 5.52,
+    "text": "the numb thing against everything else is you got to hire other great leaders."
+  },
+  {
+    "start": 1772.64,
+    "duration": 5.2,
+    "text": "And so you're going to feel it if you can't get the best of the best to kind of follow you and"
+  },
+  {
+    "start": 1778.56,
+    "duration": 5.44,
+    "text": "help you build your business. And so each step you don't have to know at all, you'll see leaders,"
+  },
+  {
+    "start": 1784.0,
+    "duration": 6.96,
+    "text": "you know, they'll hit like a ceiling and you'll need to reinvent again, your strategy,"
+  },
+  {
+    "start": 1790.96,
+    "duration": 6.0,
+    "text": "your vision, but while you're hired, like, that's why I think, you know, hiring best of the best"
+  },
+  {
+    "start": 1796.96,
+    "duration": 5.52,
+    "text": "and continue to grow and bring into people is really important as you, uh, as you scale the"
+  },
+  {
+    "start": 1802.48,
+    "duration": 6.08,
+    "text": "business. So, so let's use pricing as an example. You're, you're trying to figure out how to"
+  },
+  {
+    "start": 1809.52,
+    "duration": 8.08,
+    "text": "evolve the maturity of pricing, you know, to, uh, in a scope that you haven't done before."
+  },
+  {
+    "start": 1817.6,
+    "duration": 4.72,
+    "text": "Are you leaning on people in your network? Is it books? Do you have an exec coach? Like,"
+  },
+  {
+    "start": 1822.32,
+    "duration": 3.92,
+    "text": "where have you gone personally to learn all these new things that, you know,"
+  },
+  {
+    "start": 1826.24,
+    "duration": 5.28,
+    "text": "there's no instruction manual for? I mean, first of all, you go find the best,"
+  },
+  {
+    "start": 1831.52,
+    "duration": 5.52,
+    "text": "best people that do price, right? We went and hired people from like Google and stuff like that,"
+  },
+  {
+    "start": 1837.04,
+    "duration": 4.8,
+    "text": "right? So like, at some point I go, it's beyond the founders, exec staff, you know,"
+  },
+  {
+    "start": 1841.84,
+    "duration": 5.52,
+    "text": "our CEO's incredibly still involved in the product pricing and strategy. But again,"
+  },
+  {
+    "start": 1847.36,
+    "duration": 5.92,
+    "text": "you have a whole team that kind of has developed that, right. But, you know, in that call it"
+  },
+  {
+    "start": 1853.28,
+    "duration": 6.96,
+    "text": "tweeners bank, uh, you know, as we were scaling, a lot of that is like get in a room with the"
+  },
+  {
+    "start": 1860.24,
+    "duration": 7.12,
+    "text": "smartest people in the company that have access to customer data, have access to our usage data"
+  },
+  {
+    "start": 1868.08,
+    "duration": 7.28,
+    "text": "and start to talk about, okay, how do we go to the next level of trottle strategy and that pricing"
+  },
+  {
+    "start": 1875.36,
+    "duration": 5.92,
+    "text": "strategy? And again, I've just one input in that, um, here's what I see a customer and here's what"
+  },
+  {
+    "start": 1881.28,
+    "duration": 4.8,
+    "text": "I think they would buy is actually how they would buy it. It's how the competition's going to"
+  },
+  {
+    "start": 1886.08,
+    "duration": 7.28,
+    "text": "respond. And so a lot of those things around strategy, I think come in play as being the kind"
+  },
+  {
+    "start": 1893.36,
+    "duration": 5.92,
+    "text": "of voice to the market, voice to the customer as you kind of go into this conversation. So, um,"
+  },
+  {
+    "start": 1900.88,
+    "duration": 7.68,
+    "text": "I don't really have books, uh, on pricing strategy, but, um, like I said, I think there's"
+  },
+  {
+    "start": 1908.56,
+    "duration": 7.76,
+    "text": "a lot of good papers out there. I think, um, you know, we tend to look at, uh, uh, you know,"
+  },
+  {
+    "start": 1916.32,
+    "duration": 5.52,
+    "text": "what's the propensity to spend, you know, segment your customers, understand what's the propensity"
+  },
+  {
+    "start": 1921.84,
+    "duration": 5.76,
+    "text": "to spend, focus on the customer to have a biased density of spending, build a pricing model that"
+  },
+  {
+    "start": 1927.6,
+    "duration": 7.44,
+    "text": "matches price to value to find the underlying barriers that to repel you, build a pricing model."
+  },
+  {
+    "start": 1939.04,
+    "duration": 4.64,
+    "text": "Yeah. And so if like a theme I'm sort of hearing is"
+  },
+  {
+    "start": 1945.2,
+    "duration": 3.84,
+    "text": "it feels like you've figured a lot of stuff out and grown as an individual"
+  },
+  {
+    "start": 1949.92,
+    "duration": 4.64,
+    "text": "based on the caliber of people at Databricks. Like it doesn't feel like you're looking"
+  },
+  {
+    "start": 1954.56,
+    "duration": 6.24,
+    "text": "externally that much. It feels like you're really, you just have so many smart people in a room that"
+  },
+  {
+    "start": 1960.8,
+    "duration": 5.52,
+    "text": "you're doing like an iron sharpening iron type of thing and figuring out a ton of stuff from"
+  },
+  {
+    "start": 1966.32,
+    "duration": 6.0,
+    "text": "first principles. Is that sort of like a first principles is like one of our biggest company"
+  },
+  {
+    "start": 1973.28,
+    "duration": 5.6,
+    "text": "principles. Right. But when we do understand, like get to score, like, Hey,"
+  },
+  {
+    "start": 1979.92,
+    "duration": 7.12,
+    "text": "we could use some help you list. Like, like this getting bigger, you have a billion dollars business"
+  },
+  {
+    "start": 1987.04,
+    "duration": 4.64,
+    "text": "and we're cheap little things that mean tens of millions, hundreds of millions of dollars."
+  },
+  {
+    "start": 1991.68,
+    "duration": 4.64,
+    "text": "It's got to be a better way to do this. We're like, let's go. There has to be people that"
+  },
+  {
+    "start": 1996.32,
+    "duration": 4.96,
+    "text": "this is all new. They've developed it for the hyperscalers or big companies."
+  },
+  {
+    "start": 2001.36,
+    "duration": 6.0,
+    "text": "Go find the best and best bring luck. Like the expansion of that team with that level of"
+  },
+  {
+    "start": 2007.36,
+    "duration": 7.04,
+    "text": "expertise where really Dave's always found your, you know, the other effects. And now, you know,"
+  },
+  {
+    "start": 2014.4,
+    "duration": 5.68,
+    "text": "you're like, maybe we need somebody to, you know, fix this particular thing. So as again, it's"
+  },
+  {
+    "start": 2020.64,
+    "duration": 5.04,
+    "text": "one of the kind of blockers for our next stage of growth, go harder than the best of the best"
+  },
+  {
+    "start": 2025.76,
+    "duration": 8.16,
+    "text": "market that knows exactly how to do that thing. And it's done that before. So, so we keep expanding"
+  },
+  {
+    "start": 2033.92,
+    "duration": 9.28,
+    "text": "that kind of, you know, that team to be able to, you're just making, you're making that room"
+  },
+  {
+    "start": 2044.0,
+    "duration": 6.96,
+    "text": "better and better. And it's all about sort of the internal collective intellect of Databricks"
+  },
+  {
+    "start": 2050.96,
+    "duration": 4.64,
+    "text": "versus, you know, I think a lot of people need, you know, cause I interview folks and they talk"
+  },
+  {
+    "start": 2055.6,
+    "duration": 4.8,
+    "text": "about their exec coaches help them help them level up and this and that. But I think Databricks"
+  },
+  {
+    "start": 2060.4,
+    "duration": 6.24,
+    "text": "sounds unique in the fact that you just have a different level of, a different caliber of"
+  },
+  {
+    "start": 2066.64,
+    "duration": 4.24,
+    "text": "talent internally that you don't even need to look externally nearly as much as, as some places."
+  },
+  {
+    "start": 2072.0,
+    "duration": 5.92,
+    "text": "Yeah. I think the other part, Joe is like, I mean, we're also like doing stuff you do is"
+  },
+  {
+    "start": 2078.08,
+    "duration": 7.28,
+    "text": "that we have a, we have email all like, Hey, check out what this, you know, product or this"
+  },
+  {
+    "start": 2085.36,
+    "duration": 7.2,
+    "text": "competitive. Has anybody thought of this? Right. It's like collective like thought leadership"
+  },
+  {
+    "start": 2093.36,
+    "duration": 4.96,
+    "text": "or innovation is from the whole organization. It's not just the central like brain trust and"
+  },
+  {
+    "start": 2098.32,
+    "duration": 6.0,
+    "text": "whatever. We're trying to get as much information as possible from systems, from all our people to"
+  },
+  {
+    "start": 2104.88,
+    "duration": 5.52,
+    "text": "you know, the best decisions they move towards. We personally have, I have an exec coach."
+  },
+  {
+    "start": 2111.6,
+    "duration": 6.16,
+    "text": "I love you guys. Yeah, I do. And the biggest thing I like about exec coaches,"
+  },
+  {
+    "start": 2118.56,
+    "duration": 4.72,
+    "text": "you know, nobody that works for you is going to tell you exactly how they see it. So they get"
+  },
+  {
+    "start": 2124.08,
+    "duration": 5.76,
+    "text": "really good wrong. He's sick and feedbacking on how people view you and how you can get better."
+  },
+  {
+    "start": 2130.8,
+    "duration": 6.56,
+    "text": "I always say back some gifts, you know, whether it's good or bad gifts and you can use that to,"
+  },
+  {
+    "start": 2137.92,
+    "duration": 4.32,
+    "text": "to help yourself grow. So how long have you been working with an exec coach?"
+  },
+  {
+    "start": 2143.44,
+    "duration": 4.08,
+    "text": "I mean, I've done it for an awesome though, for a few years, just to like,"
+  },
+  {
+    "start": 2148.8,
+    "duration": 6.24,
+    "text": "you know, again, early on we invested a lot because I wanted to be able to grow and be"
+  },
+  {
+    "start": 2155.12,
+    "duration": 4.96,
+    "text": "a bigger leader. And as I've gotten bigger, bigger, you know, I kind of use some of those"
+  },
+  {
+    "start": 2160.08,
+    "duration": 9.04,
+    "text": "same lessons, you know, and yeah. And, you know, but we also do like read a decent literature"
+  },
+  {
+    "start": 2169.12,
+    "duration": 4.96,
+    "text": "things or have inspiration speakers at different events, things of that nature."
+  },
+  {
+    "start": 2175.92,
+    "duration": 5.28,
+    "text": "Like I said, it put me in a place where, you know, you learn about yourself. It's a lot of"
+  },
+  {
+    "start": 2181.28,
+    "duration": 6.56,
+    "text": "self-reflection and one of my strengths were the things I need to work on and then consciously"
+  },
+  {
+    "start": 2187.84,
+    "duration": 6.48,
+    "text": "wanting to work on those things as you grow. So, yeah. What's been the biggest personal unlock"
+  },
+  {
+    "start": 2194.32,
+    "duration": 4.32,
+    "text": "from working with an exec coach? What was your, your big epiphany from the last couple of years?"
+  },
+  {
+    "start": 2200.08,
+    "duration": 7.44,
+    "text": "Oh, wow. I don't know, probably like patience and listening. Like, you know,"
+  },
+  {
+    "start": 2208.32,
+    "duration": 8.24,
+    "text": "yeah. Highly passionate, high energy, you know, smart guy. And I just be patient,"
+  },
+  {
+    "start": 2216.56,
+    "duration": 4.8,
+    "text": "you know, everybody kind of communicates and does things in a different way. And so,"
+  },
+  {
+    "start": 2221.36,
+    "duration": 6.96,
+    "text": "you know, I really, you know, just tried to learn, you know, listen and be patient."
+  },
+  {
+    "start": 2229.12,
+    "duration": 4.96,
+    "text": "I think that it helps you in all walks of life, but I've seen a lot of revenue growth, but"
+  },
+  {
+    "start": 2234.64,
+    "duration": 8.64,
+    "text": "no, no. I laugh because I had a great exec coach a couple of years ago and I always tell people,"
+  },
+  {
+    "start": 2243.28,
+    "duration": 6.0,
+    "text": "like, the big thing for me was, was learning to be a little less of a bull in a china shop."
+  },
+  {
+    "start": 2249.28,
+    "duration": 5.6,
+    "text": "And patience was like the big thing and, and understanding where other folks might be coming"
+  },
+  {
+    "start": 2254.88,
+    "duration": 5.6,
+    "text": "from. It's, it's funny, the, the wiring it's in us. Like if you want to be successful in this job,"
+  },
+  {
+    "start": 2261.44,
+    "duration": 5.44,
+    "text": "like impatience is sort of a prerequisite, but then at some point, at some point that strength,"
+  },
+  {
+    "start": 2266.88,
+    "duration": 6.16,
+    "text": "which is definitely being a strength in my career becomes a weakness. And, and I probably"
+  },
+  {
+    "start": 2273.04,
+    "duration": 3.68,
+    "text": "adjusted on that. You have to have good balance, right? You have to know where to use these,"
+  },
+  {
+    "start": 2277.76,
+    "duration": 6.64,
+    "text": "you know, I think every great leader has different superpowers. And, you know, I have folks that are"
+  },
+  {
+    "start": 2284.4,
+    "duration": 4.96,
+    "text": "amazingly inspiring. I rather folks that are just off the charts are the people who,"
+  },
+  {
+    "start": 2290.08,
+    "duration": 4.88,
+    "text": "you know, get along with everyone. It's the different superpowers try to again,"
+  },
+  {
+    "start": 2295.84,
+    "duration": 6.64,
+    "text": "hire the best and inspire them, mentor them, coach them, motivate them to, you know,"
+  },
+  {
+    "start": 2302.48,
+    "duration": 5.76,
+    "text": "be their best selves. So, yeah. And, and one of the, one of the things that I heard from a leader"
+  },
+  {
+    "start": 2308.24,
+    "duration": 6.4,
+    "text": "in, in your org was one of your superpowers is inspiring a growth mindset. Yeah. He's,"
+  },
+  {
+    "start": 2314.64,
+    "duration": 3.68,
+    "text": "this guy's like a couple of years into Databricks. And, and I was like, what were the big,"
+  },
+  {
+    "start": 2318.32,
+    "duration": 7.04,
+    "text": "like ahas and unlocks? And his comment was around growth mindset. Like everybody has this"
+  },
+  {
+    "start": 2325.36,
+    "duration": 4.72,
+    "text": "expectation to get better. And how have you intentionally made that a part of your culture?"
+  },
+  {
+    "start": 2330.08,
+    "duration": 4.0,
+    "text": "Cause I can, I can hear it in you and it sounds like it's like such a thing in the company,"
+  },
+  {
+    "start": 2334.08,
+    "duration": 5.04,
+    "text": "but what have you done to, to get people to live this, this growth mindset?"
+  },
+  {
+    "start": 2340.48,
+    "duration": 5.76,
+    "text": "I mean, I think part of it's like Databricks is a really special place. So like, as you"
+  },
+  {
+    "start": 2347.04,
+    "duration": 7.12,
+    "text": "become successful, it becomes easier to attract people who, you know, have great ideas,"
+  },
+  {
+    "start": 2354.16,
+    "duration": 5.28,
+    "text": "share those ideas, share success, which has been a great part of our, you know,"
+  },
+  {
+    "start": 2359.44,
+    "duration": 6.88,
+    "text": "our company at Flywheel, but we also start with first principles, right? So like even me, but,"
+  },
+  {
+    "start": 2366.32,
+    "duration": 4.8,
+    "text": "you know, and I came in every exec was like, Hey, we're going to do it this way. Cause it's"
+  },
+  {
+    "start": 2371.2,
+    "duration": 4.88,
+    "text": "how I've always done it. And if they were like, no, we wait, let's understand"
+  },
+  {
+    "start": 2377.6,
+    "duration": 3.68,
+    "text": "what we need to do and why would you do it? And maybe there was a better way to do it."
+  },
+  {
+    "start": 2381.28,
+    "duration": 6.16,
+    "text": "So a lot of innovation, even like our revenue model, all those things came from"
+  },
+  {
+    "start": 2388.4,
+    "duration": 6.32,
+    "text": "first principles, right? And so, you know, when you come in, it's not, don't just bring your"
+  },
+  {
+    "start": 2394.72,
+    "duration": 4.16,
+    "text": "playbook you did before. You want people that have seen a movie, a great experience,"
+  },
+  {
+    "start": 2398.88,
+    "duration": 6.0,
+    "text": "a great network, but we're also going to try to innovate on each part of that business because,"
+  },
+  {
+    "start": 2405.76,
+    "duration": 3.76,
+    "text": "I mean, that's fun. I mean, that's why you do this kind of stuff. You know, nobody's growing"
+  },
+  {
+    "start": 2409.52,
+    "duration": 6.08,
+    "text": "at this rate at a multi-billion dollar company. So we get to innovate every part of the business,"
+  },
+  {
+    "start": 2415.6,
+    "duration": 6.56,
+    "text": "not just product, but go to market strategy, our pricing strategy, our helpline strategy,"
+  },
+  {
+    "start": 2422.96,
+    "duration": 5.36,
+    "text": "you know, it's everything. So, uh, that's amazing. And if, if you love, I love it,"
+  },
+  {
+    "start": 2429.76,
+    "duration": 6.48,
+    "text": "he won't run it super, super hard. And like, you know, this kind of culture and data is a great"
+  },
+  {
+    "start": 2436.24,
+    "duration": 5.44,
+    "text": "place for those kinds of entrepreneurs, people. So, so it's really the high it's hiring. It's"
+  },
+  {
+    "start": 2441.68,
+    "duration": 6.24,
+    "text": "just like making sure you get this archetype of person and in, in your culture, then that is"
+  },
+  {
+    "start": 2447.92,
+    "duration": 4.8,
+    "text": "reinforced and, and sounds like it's empowered and unlocked. Yeah. The culture is like, let's"
+  },
+  {
+    "start": 2452.72,
+    "duration": 6.96,
+    "text": "debate, you know, we used to call it a culture, but we would debate these decisions. You know,"
+  },
+  {
+    "start": 2459.68,
+    "duration": 7.52,
+    "text": "if it's a two-way door, like let's get the data and make a decision. It's a one-way door. We want"
+  },
+  {
+    "start": 2467.2,
+    "duration": 6.0,
+    "text": "to try to make the best decision possible, not analysis paralysis, but you know, it doesn't,"
+  },
+  {
+    "start": 2473.28,
+    "duration": 4.72,
+    "text": "it's really, you know, the reason, well, that's how it's always done. It's not a"
+  },
+  {
+    "start": 2478.88,
+    "duration": 5.76,
+    "text": "reason we do things at Databricks. So like being able to stand up and defend like your ideas"
+  },
+  {
+    "start": 2485.52,
+    "duration": 5.2,
+    "text": "and, or, you know, why we should do it differently. Again, we're always looking at what can we"
+  },
+  {
+    "start": 2490.72,
+    "duration": 6.64,
+    "text": "improve? What can we do better? What's our market growth? And so those ideas are from everywhere,"
+  },
+  {
+    "start": 2497.36,
+    "duration": 12.08,
+    "text": "right? From Alrick to Databricks. How do you reinforce it? Like, how do you make sure that"
+  },
+  {
+    "start": 2509.44,
+    "duration": 6.64,
+    "text": "in the culture people are thinking from first principles that debate and Socratic method is"
+  },
+  {
+    "start": 2516.08,
+    "duration": 5.44,
+    "text": "there? Like, are there things specifically you have put in place to, to ensure that it,"
+  },
+  {
+    "start": 2521.52,
+    "duration": 7.2,
+    "text": "it thrives and stays? I mean, a lot of that's been Ali and the founders, like they sit down,"
+  },
+  {
+    "start": 2529.84,
+    "duration": 6.48,
+    "text": "we're very purposeful and thoughtful about the culture principles. And then we've evolved"
+  },
+  {
+    "start": 2536.32,
+    "duration": 9.04,
+    "text": "over time and we talk a lot about it too. So in our leader training, in our one building"
+  },
+  {
+    "start": 2546.0,
+    "duration": 5.84,
+    "text": "culture principles, where they come by the report to Databricks and in our culture."
+  },
+  {
+    "start": 2552.4,
+    "duration": 4.72,
+    "text": "And so the match of the people we hire with those culture principles is one of the most"
+  },
+  {
+    "start": 2557.12,
+    "duration": 4.24,
+    "text": "important things we look at. If you're going to be great at Databricks, you know, are you going"
+  },
+  {
+    "start": 2561.36,
+    "duration": 6.0,
+    "text": "to get promoted and all those things? So Ali and Arsalan and the rest of the founders talk a lot"
+  },
+  {
+    "start": 2567.36,
+    "duration": 8.4,
+    "text": "about first principles, what sales law is, lots of decisions. And again, that, that reinforcement,"
+  },
+  {
+    "start": 2576.48,
+    "duration": 3.52,
+    "text": "you know, never go into a meeting thinking, Hey, this is going to be a short meeting,"
+  },
+  {
+    "start": 2580.0,
+    "duration": 5.04,
+    "text": "have the answers and here's the data. Like it's going to be a discussion, you know what I mean?"
+  },
+  {
+    "start": 2585.04,
+    "duration": 6.16,
+    "text": "So I think that's top round and it's been, you know, adopted by the whole company. And,"
+  },
+  {
+    "start": 2591.2,
+    "duration": 5.2,
+    "text": "you know, if you love that stuff and you love Databricks and if it's not a great fit,"
+  },
+  {
+    "start": 2596.4,
+    "duration": 4.08,
+    "text": "you might be also met someplace else. It just might not be a great fit for you at Databricks."
+  },
+  {
+    "start": 2602.24,
+    "duration": 4.16,
+    "text": "And so do you have a culture and values interview stage or like, how do you,"
+  },
+  {
+    "start": 2607.2,
+    "duration": 2.4,
+    "text": "how do you operationalize that in the hiring process?"
+  },
+  {
+    "start": 2610.4,
+    "duration": 5.12,
+    "text": "Yeah. How about how do we interview? Like when you fill out a scorecard, like how do they do it?"
+  },
+  {
+    "start": 2615.52,
+    "duration": 5.52,
+    "text": "It's not just a walk me through your experience, whatever, like give me an example of,"
+  },
+  {
+    "start": 2622.0,
+    "duration": 7.2,
+    "text": "you know, how you use the first principles. You know, we talk about bias for action and we talk"
+  },
+  {
+    "start": 2629.2,
+    "duration": 5.52,
+    "text": "about, you know, keep the bar up and hire me. So, you know, how do you hire? How do you make sure"
+  },
+  {
+    "start": 2635.52,
+    "duration": 5.44,
+    "text": "you continually get the best of the best and, you know, continue to upgrade your team? Like those"
+  },
+  {
+    "start": 2640.96,
+    "duration": 7.44,
+    "text": "are, those are where we interview and screen candidates and how we rank candidates as a good"
+  },
+  {
+    "start": 2648.48,
+    "duration": 8.56,
+    "text": "fit for Databricks, for sure. So, and again, our promotions, we're constantly talking about"
+  },
+  {
+    "start": 2657.04,
+    "duration": 2.56,
+    "text": "how do they share with the culture principles of the company."
+  },
+  {
+    "start": 2660.88,
+    "duration": 7.2,
+    "text": "Nice. We've just recently weaved this in, in a more systematic way where every hiring scorecard"
+  },
+  {
+    "start": 2668.08,
+    "duration": 7.68,
+    "text": "has our values assessment. We've weaved questions in that specifically try to tackle those areas. So"
+  },
+  {
+    "start": 2676.4,
+    "duration": 6.64,
+    "text": "I'm glad to hear that. I think you have to, if you want a cohesive, not cohesive, but if you want"
+  },
+  {
+    "start": 2684.16,
+    "duration": 6.64,
+    "text": "culture to be a competitive differentiator, you need to interview for that. But step one,"
+  },
+  {
+    "start": 2690.8,
+    "duration": 6.64,
+    "text": "it's sit down as a management team or as a founding team and be super thoughtful about"
+  },
+  {
+    "start": 2698.0,
+    "duration": 4.88,
+    "text": "what kind of culture you want to develop. If you get that right, then you can get the right people,"
+  },
+  {
+    "start": 2702.88,
+    "duration": 3.28,
+    "text": "then that's going to build up on itself. You have to be really often that, you know,"
+  },
+  {
+    "start": 2706.88,
+    "duration": 6.4,
+    "text": "hats off to, you know, a lot of founders and Ali and the exec team on, you know, I think,"
+  },
+  {
+    "start": 2713.28,
+    "duration": 5.68,
+    "text": "I think they did a great job with that. Makes sense. And cohesive is a fair word. I mean,"
+  },
+  {
+    "start": 2718.96,
+    "duration": 6.16,
+    "text": "I think you obviously want to avoid an echo chamber and just sort of a monoculture, but"
+  },
+  {
+    "start": 2725.12,
+    "duration": 6.08,
+    "text": "you need a level of cohesion to make sure that your collective energy is roughly pointing in"
+  },
+  {
+    "start": 2731.2,
+    "duration": 7.36,
+    "text": "the same direction. It's, it's, it is, I know, you know, we want to have a variety of opinions,"
+  },
+  {
+    "start": 2738.56,
+    "duration": 4.56,
+    "text": "but at some point there's common things that we just all have to agree to, or this thing's not"
+  },
+  {
+    "start": 2743.12,
+    "duration": 7.52,
+    "text": "going to work because they're too foundational to how we operate. What was the hardest transition"
+  },
+  {
+    "start": 2750.64,
+    "duration": 5.84,
+    "text": "for you to personally make? Like, as you went from 10, 100, 500, was there a particular stage"
+  },
+  {
+    "start": 2756.48,
+    "duration": 4.64,
+    "text": "where you had to change the most or, or adapt yourself that that's really memorable?"
+  },
+  {
+    "start": 2763.36,
+    "duration": 6.16,
+    "text": "Oh, so I think the scaling motion, like I would say, billion dollar plus,"
+  },
+  {
+    "start": 2771.36,
+    "duration": 7.52,
+    "text": "for me, I love Databricks, you know, I feel like I helped build it and I was involved in pretty"
+  },
+  {
+    "start": 2778.88,
+    "duration": 6.4,
+    "text": "much every big strategic decision of the company, pretty easily involved. As we get bigger and"
+  },
+  {
+    "start": 2785.28,
+    "duration": 5.6,
+    "text": "bigger, a couple shifts happen, right? Like you're actually be able to be involved in all the"
+  },
+  {
+    "start": 2790.88,
+    "duration": 7.28,
+    "text": "decisions, right? The really, you know, one way or what do we do with partnership, these kind of"
+  },
+  {
+    "start": 2798.16,
+    "duration": 5.92,
+    "text": "things, certainly, but there's lots of decisions going on that are really important that, you know,"
+  },
+  {
+    "start": 2804.08,
+    "duration": 8.32,
+    "text": "you just got to trust your teammates on. The second is scale. Like you have to be super thoughtful"
+  },
+  {
+    "start": 2812.4,
+    "duration": 9.04,
+    "text": "on about repeatability, efficiency, whereas earlier stage, again, you're just driving"
+  },
+  {
+    "start": 2821.44,
+    "duration": 5.76,
+    "text": "off the right roads. And so as you start to get scale bigger and bigger, you have to be pretty"
+  },
+  {
+    "start": 2827.2,
+    "duration": 6.8,
+    "text": "thoughtful about, you know, repeatable processes, you know, making sure everybody's doing, you know,"
+  },
+  {
+    "start": 2834.0,
+    "duration": 6.32,
+    "text": "how we do skills, how we do positioning, how we position our product certifications, you know,"
+  },
+  {
+    "start": 2840.32,
+    "duration": 5.76,
+    "text": "everything's really about scale and repeatability. And so, you know, that's been fun."
+  },
+  {
+    "start": 2847.36,
+    "duration": 6.88,
+    "text": "I think in some ways it's easier than the earlier stages, but it's different. It's a different set"
+  },
+  {
+    "start": 2854.24,
+    "duration": 8.24,
+    "text": "of things that you have to do. Again, those four stages, there's, you know, differences in product"
+  },
+  {
+    "start": 2862.48,
+    "duration": 6.96,
+    "text": "strategy and team that you need for each one of those four. Yeah. And as you get Databricks type"
+  },
+  {
+    "start": 2869.52,
+    "duration": 7.12,
+    "text": "of velocity and critical mass, getting to just go hire literally the best people in the world for"
+  },
+  {
+    "start": 2877.28,
+    "duration": 3.92,
+    "text": "a craft, you know, very few, everybody says, oh, we want to hire the best people, but"
+  },
+  {
+    "start": 2882.4,
+    "duration": 4.48,
+    "text": "there's not enough best people to go around for all these companies and being in your position,"
+  },
+  {
+    "start": 2886.88,
+    "duration": 5.52,
+    "text": "you can actually do that, which I think is a very unique advantage. Yeah, for sure. The longer we"
+  },
+  {
+    "start": 2892.48,
+    "duration": 7.44,
+    "text": "eat that, the faster we'll grow, right? So yeah. The next Databricks doesn't come alone."
+  },
+  {
+    "start": 2899.92,
+    "duration": 4.16,
+    "text": "So yeah, for sure. Well, it seems like you guys have"
+  },
+  {
+    "start": 2906.8,
+    "duration": 7.44,
+    "text": "predicted where the market is going in a few interesting ways that the advantage will sustain"
+  },
+  {
+    "start": 2914.24,
+    "duration": 5.6,
+    "text": "itself for at least a couple more years. Oh, I think this will be a trillion dollar company."
+  },
+  {
+    "start": 2919.84,
+    "duration": 6.96,
+    "text": "I mean, I hope it's the biggest tech, you know what I mean? But you're definitely in the strategy"
+  },
+  {
+    "start": 2926.8,
+    "duration": 5.52,
+    "text": "of this market. I mean, it helps you that data, I think will be one of, you know, the biggest"
+  },
+  {
+    "start": 2932.32,
+    "duration": 6.88,
+    "text": "generational shift in technology in our lifetimes, but I think Databricks is the innovation leader"
+  },
+  {
+    "start": 2939.2,
+    "duration": 6.0,
+    "text": "there. But I mean, we have the right foundation, you know, and again, it's how do you continue to"
+  },
+  {
+    "start": 2945.2,
+    "duration": 6.32,
+    "text": "mold and make sure you remove the blockage for that next stage of growth. So yeah, you have the"
+  },
+  {
+    "start": 2951.52,
+    "duration": 9.12,
+    "text": "right to win. That's for sure. Yeah. Well, we expect to learn. So yeah. Would you off topic"
+  },
+  {
+    "start": 2960.64,
+    "duration": 9.92,
+    "text": "question, but would you say that execution is the only real moat? Like some people talk about,"
+  },
+  {
+    "start": 2970.56,
+    "duration": 5.04,
+    "text": "you know, network effects and, you know, product, product is a moat. But over time,"
+  },
+  {
+    "start": 2975.6,
+    "duration": 5.84,
+    "text": "especially the way that these markets are changing so quickly is ultimately like the way that"
+  },
+  {
+    "start": 2981.44,
+    "duration": 5.28,
+    "text": "Databricks becomes a trillion dollar company as opposed to a couple hundred million dollar"
+  },
+  {
+    "start": 2986.72,
+    "duration": 9.28,
+    "text": "company. Is it just execution as the durable long term advantage? Well, yes, I would say yes,"
+  },
+  {
+    "start": 2996.08,
+    "duration": 7.04,
+    "text": "but I mean, it's product execution. It's, you know, GPM execution, right? I think any of these"
+  },
+  {
+    "start": 3003.12,
+    "duration": 5.12,
+    "text": "advantages, how you mentioned like a product advantage or network effect, you know, unless"
+  },
+  {
+    "start": 3008.24,
+    "duration": 9.52,
+    "text": "you have like monopoly particular market, people are going to just like, I mean, any, I mean, look"
+  },
+  {
+    "start": 3017.76,
+    "duration": 8.64,
+    "text": "in history, right? It's like, you know, every single, even operating system, new people come in"
+  },
+  {
+    "start": 3026.4,
+    "duration": 7.44,
+    "text": "like, you know, cloud, street players, cloud, like that used to be before massive hardware"
+  },
+  {
+    "start": 3033.84,
+    "duration": 8.96,
+    "text": "folks, IBM, HP, right? Like every single wave of technology has replaced the previous one"
+  },
+  {
+    "start": 3042.8,
+    "duration": 6.4,
+    "text": "pretty much. I mean, even companies like Microsoft have to reinvent themselves to get to that next"
+  },
+  {
+    "start": 3049.2,
+    "duration": 5.68,
+    "text": "stage of growth, right? And so I think companies in our stage are even more vulnerable. So,"
+  },
+  {
+    "start": 3054.88,
+    "duration": 6.88,
+    "text": "you know, our ability to execute, continue to evolve and reinvent ourselves will make it so"
+  },
+  {
+    "start": 3062.72,
+    "duration": 4.4,
+    "text": "we continue to grow. Otherwise people hit us, companies hit a ceiling"
+  },
+  {
+    "start": 3067.92,
+    "duration": 3.52,
+    "text": "because they stayed with the same thing for too long, right?"
+  },
+  {
+    "start": 3071.44,
+    "duration": 5.6,
+    "text": "Yeah. Yeah. Yeah. All right. We'll do a quick lightning round and then we've got to wrap."
+  },
+  {
+    "start": 3078.4,
+    "duration": 3.84,
+    "text": "What do you think separates a good CRO versus a great, like a truly exceptional one?"
+  },
+  {
+    "start": 3084.08,
+    "duration": 6.72,
+    "text": "Hiring culture, hiring culture, how do you hire the best motivated and inspiring and that people"
+  },
+  {
+    "start": 3090.88,
+    "duration": 6.16,
+    "text": "you can hire today might be the best people you can hire today, but continually get that"
+  },
+  {
+    "start": 3097.04,
+    "duration": 5.28,
+    "text": "and try to build some of those too. I should have expected that answer,"
+  },
+  {
+    "start": 3103.52,
+    "duration": 5.04,
+    "text": "getting that theme, which I, which I love. What do you, what did you learn much later"
+  },
+  {
+    "start": 3108.56,
+    "duration": 4.88,
+    "text": "in your leadership career that you wish you had known in the early stages of, of your"
+  },
+  {
+    "start": 3114.24,
+    "duration": 9.92,
+    "text": "executive career? Oh, that's excellent. Actually. I think a lot of it's, you know,"
+  },
+  {
+    "start": 3124.16,
+    "duration": 6.24,
+    "text": "and it's just, as I've gotten bigger and bigger, or you can't personally"
+  },
+  {
+    "start": 3132.24,
+    "duration": 6.24,
+    "text": "make sure every, you can't know everybody can't make sure everyone's successful."
+  },
+  {
+    "start": 3138.48,
+    "duration": 5.36,
+    "text": "Whereas when you're smaller, you can kind of reach down and help them win a deal or pick them"
+  },
+  {
+    "start": 3143.84,
+    "duration": 6.72,
+    "text": "up. And so those things, then how you hire your leaders and how you train them to do those things"
+  },
+  {
+    "start": 3151.6,
+    "duration": 8.08,
+    "text": "to develop the same type of culture, positive coaching, that becomes incredibly important."
+  },
+  {
+    "start": 3159.68,
+    "duration": 6.0,
+    "text": "And I've really tried to lean in a lot on the leader. So the leader,"
+  },
+  {
+    "start": 3166.48,
+    "duration": 4.16,
+    "text": "the, your screen and all those kinds of things to make sure as you continue to scale,"
+  },
+  {
+    "start": 3171.76,
+    "duration": 6.64,
+    "text": "that trends all the way to a, they feel connected to me and into the organization."
+  },
+  {
+    "start": 3178.4,
+    "duration": 4.16,
+    "text": "So, cool. Last question. What's the best thing you've read in the last 12 months?"
+  },
+  {
+    "start": 3184.48,
+    "duration": 7.12,
+    "text": "Oh, business box or whatever. Oh, all right. I mean, I've read"
+  },
+  {
+    "start": 3192.4,
+    "duration": 9.04,
+    "text": "Kobe Bryant, Pittsburgh. I loved it. Marketing. I thought I read Nick Bigger."
+  },
+  {
+    "start": 3202.08,
+    "duration": 5.12,
+    "text": "Nick Bigger's great marketing book. I think it's my number one marketing book."
+  },
+  {
+    "start": 3207.2,
+    "duration": 2.32,
+    "text": "It's been on my list forever. I gotta, I gotta read it."
+  },
+  {
+    "start": 3210.24,
+    "duration": 6.48,
+    "text": "Yeah. It's really good. I read a lot on like sports biographies. Like I love Walter Payne's"
+  },
+  {
+    "start": 3217.68,
+    "duration": 4.88,
+    "text": "biography. It's probably one of my favorites. If you haven't read it, definitely pick it up."
+  },
+  {
+    "start": 3222.56,
+    "duration": 6.72,
+    "text": "He's an amazing human, not just a football player, but I love, I love sports geologies"
+  },
+  {
+    "start": 3230.08,
+    "duration": 7.68,
+    "text": "for life, certainly fails for life around teamwork and humility and, you know, failure,"
+  },
+  {
+    "start": 3238.8,
+    "duration": 5.68,
+    "text": "all those kinds of things. So, you know, I take a lot of that to how we eat and culture here."
+  },
+  {
+    "start": 3245.28,
+    "duration": 5.44,
+    "text": "So, I love those books around people that have done just absolutely exceptional things."
+  },
+  {
+    "start": 3251.28,
+    "duration": 7.28,
+    "text": "Very cool. Well, we're over time, so we'll wrap here, but Ron, this was awesome. I knew it was"
+  },
+  {
+    "start": 3258.56,
+    "duration": 6.08,
+    "text": "going to be good and there was like six different topics that I could have spent an hour with you"
+  },
+  {
+    "start": 3264.64,
+    "duration": 3.12,
+    "text": "on that came up today. So, I really appreciate you taking the time and doing this."
+  },
+  {
+    "start": 3268.32,
+    "duration": 5.68,
+    "text": "Yeah, it was fun. Thanks. Thanks, Kyle. I really appreciate it and yeah, awesome job. So,"
+  },
+  {
+    "start": 3274.0,
+    "duration": 4.4,
+    "text": "I really enjoyed it and it was fun. I think I could talk to you for another hour or so."
+  },
+  {
+    "start": 3278.4,
+    "duration": 2.72,
+    "text": "Yeah. Well, next time we'll do a part two."
+  },
+  {
+    "start": 3286.8,
+    "duration": 3.68,
+    "text": "Thank you for listening to the Revenue Leadership Podcast. If you enjoyed it,"
+  },
+  {
+    "start": 3290.48,
+    "duration": 5.04,
+    "text": "don't forget to subscribe and you can find a link in the show notes and be sure to leave"
+  },
+  {
+    "start": 3295.52,
+    "duration": 5.04,
+    "text": "a five-star review, share it with your network, and please join me next Wednesday for another"
+  },
+  {
+    "start": 3300.56,
+    "duration": 3.04,
+    "text": "great conversation."
+  }
+]

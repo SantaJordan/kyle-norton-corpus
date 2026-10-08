@@ -1,0 +1,130 @@
+---
+slug: talent-density
+type: concept
+lifecycle: validated
+valid_from: 2018-09-25
+invalid_at: null
+superseded_by: null
+sources: ["[[src-saastr-gtm-efficiency-smb]]", "[[src-outbound-kitchen-scale-outbound-sales]]", "[[src-frontlines-how-i-hire]]", "[[src-gtmnow-163-2m-to-50m-arr]]", "[[src-kyle-nortons-bets-for-gtm-domination]]", "[[src-verticals-revenue-machine]]", "[[src-crew-podcast-how-best-cros-hire]]", "[[src-substack-2026-03-31-ai-can-do-everything-a-salesperson]]", "[[src-topline-world-class-ai-in-gtm]]", "[[src-substack-2026-04-09-sales-hiring-has-a-charisma-problem]]", "[[src-captivate-talent-stop-vibe-hiring]]", "[[src-union-square-cro-stories-60m-arr]]", "[[src-E68-are-you-uninvestable-the-new-gtm-reality]]", "[[src-E69-stop-paying-for-saas-the-ai-playbook-driving-a-1b-trajectory]]", "[[src-substack-2026-05-17-stop-paying-for-saas-the-ai-playbook]]", "[[src-E70-manufacture-motivation-sell-more]]", "[[src-firmable-best-practice-killing-sales]]", "[[src-testbox-lessons-in-scaling]]", "[[src-sales-leadership-podcast-15-league]]", "[[src-gtmnow-5-slow-is-smooth]]", "[[src-top-founders-latka-5m-arr-cro]]", "[[src-E01-saastr-founder-jason-lemkin-on-why-revenue-leaders-must-run]]", "[[src-E05-mark-niemiec-on-steering-business-transformation]]", "[[src-E06-untold-strategies-of-high-impact-sales-recruitment-with-asad]]", "[[src-E08-sam-blonds-blueprint-for-building-exceptional-leaders-tea]]", "[[src-E10-mark-bergen-on-aligning-sales-product-partners-and-mission]]", "[[src-E11-mastering-strategic-planning-with-eric-gilpin-cro-of-g2]]", "[[src-E12-bravados-ceo-sahil-mansuri-on-the-future-of-sales-reps-and]]", "[[src-E14-a-systematic-approach-to-gtm-infrastructure-and-talent-with]]", "[[src-E17-from-1m-to-1b-arr-ron-gabriskos-databricks-story]]", "[[src-bravado-scaling-smb-30m]]", "[[src-E30-building-ai-powered-sales-teams-with-finallys-cro-kevin-kd]]", "[[src-E31-the-rise-of-the-10x-sdr-with-florin-tatulea-of-common-room]]", "[[src-E32-layering-slg-without-breaking-the-product-with-john-eitel]]", "[[src-saastr-ai-sales-gtm-2026-lemkin]]", "[[src-20vc-20sales-2m-to-40m-arr]]", "[[src-E42-cutting-the-fat-and-building-sales-machines-that-scale-with]]", "[[src-all-about-ai-and-gtm-at-clay-round-two-with-everett-berry]]", "[[src-40m-arr-with-50person-team-in-less-than-a-year-bryan-adams-vp-s]]", "[[src-the-new-rules-of-executive-recruiting-in-the-ai-era-asad-zaman-ceo]]", "[[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]]", "[[src-linkedin-2025-h2]]", "[[src-gtm-strategy-5-insights-from-500-b2b-saas-orgs-jeremey-donovan-evp]]", "[[src-cro-life-from-a-20b-exit-to-a-hyper-growth-ai-org-michelle-donnell]]", "[[src-linkedin-2026]]", "[[src-my-team-drives-4x-revenue-per-ae-vs-competitors-aviv-canaani-cro]]", "[[src-web-2026-06-15-morning-brew-revenue-brew-ownercoms-hiring-and-coaching-strategies-for]]"]
+links: [sales-hiring, hiring-scorecards, culture-and-high-standards, comp-plans, capacity-planning, ai-in-gtm, gtm-engineering, org-design, sales-coaching-and-enablement, recognition-and-motivation, kyle-norton, owner-com]
+tags: [talent, hiring, performance-management, jevons-paradox, ai-leverage, flight-to-quality, home-grown-talent, owner-com]
+---
+
+# Talent Density
+
+> Kyle's current position (2026-09-08; unchanged by the backfill, which mainly re-dates its pieces to 2025): talent density is still Owner's "single biggest lever", but he now builds it from potential plus heavy enablement, not from paying for pedigree. With AI raising output per head, high-agency, AI-capable people are worth far more, and he says the extra efficiency should go into more hiring, not cuts ([[src-firmable-best-practice-killing-sales]] @22:50; [[src-verticals-revenue-machine]] @55:36; [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @12:04).
+
+## Current position (as of 2026-09-08)
+- The team is the company. "the team you build is the company you build"; exceptional hires (CFO, CMO) "visibly bend the curve" [[src-verticals-revenue-machine]] @55:36–57:45. He credits "crazy talent density" and "Go hire the best of the best of the best and let those people cook" for Owner's growth [[src-union-square-cro-stories-60m-arr]] @50:46.
+- The bar gets set on day one. When he joined he "moved on from almost half the team", and the people who stayed are still there almost four years later [[src-crew-podcast-how-best-cros-hire]] @08:14. "Talent Assessment Is a Day-One Decision" (section header, preview only) [[src-substack-2026-04-09-sales-hiring-has-a-charisma-problem]].
+- He now gets density from potential plus enablement. About 80% of new sales hires come straight from college and are trained from scratch, and he prefers "potential over previous performance" [[src-captivate-talent-stop-vibe-hiring]] @20:20, @23:23; [[src-firmable-best-practice-killing-sales]] @22:50.
+- AI multiplies talent; it doesn't replace it. "AI is a multiplier, and multiplying zero still gives you zero" [[src-substack-2026-03-31-ai-can-do-everything-a-salesperson]]. AI-capable, high-agency employees are "worth like 4x" [[src-crew-podcast-how-best-cros-hire]] @51:17–52:18.
+- Jevons paradox, not headcount cuts. Owner ships 4x the PRs per engineer and is still hiring. He is "pulling forward headcount now" because CAC payback pencils out [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @12:04–14:12. The goal is "capacity creation", not headcount reduction [[src-substack-2026-05-17-stop-paying-for-saas-the-ai-playbook]]. He expects to hire "like a hundred people in sales this year" (2026) [[src-E69-stop-paying-for-saas-the-ai-playbook-driving-a-1b-trajectory]] @41:20.
+- Bottom performers fund the leverage roles. "no excuses": stack-rank, move out bottom performers, and fund a world-class applied AI hire [[src-topline-world-class-ai-in-gtm]] @27:23–29:27. In his view, companies that drop commissions will "see talent density drop" [[src-topline-world-class-ai-in-gtm]] @27:23.
+- Talent is consolidating. He has described a "flight to quality" since 2025: great people concentrate around fewer winning companies, and AI widens the gap between the best reps and the rest. "If anything, the best people are worth even more today than they were in the past." [[src-cro-life-from-a-20b-exit-to-a-hyper-growth-ai-org-michelle-donnell]] @48:54; [[src-all-about-ai-and-gtm-at-clay-round-two-with-everett-berry]] @35:40–36:42, @45:48.
+- People, not systems, are the moat. "What makes Owner.com different is people." "You can replicate the systems. You can replicate the infrastructure." [[src-linkedin-2026]] (post 2026-03-03).
+- Administrators lose and orchestrators win. AI is "the death of the administrator, and the rise of the orchestrator": forecast-manicuring managers "should go away", while systematic orchestrators "see their value go up 10x" [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @06:21–07:45.
+
+## How his view evolved
+- **2018-09-25 (League). Earliest lesson: don't over-hire.** "We saw some early signs of success, and we tried to hire too many reps too quickly", and funnel generation and CS couldn't keep up ("slow is smooth, and smooth is fast") [[src-sales-leadership-podcast-15-league]] @16:39–17:46.
+- **2022-11-01 (earliest Owner-era interview):** As a second-time early-stage sales head, he won't scale reps before PMF, positioning and ICP are figured out. He says leaders aren't "being honest with yourself" about having one or two good reps out of ten [[src-gtmnow-5-slow-is-smooth]] @16:26–21:37.
+- **2024-04-18:** Fewer, better, higher-paid reps beat more average ones. He paid about $30K above the SMB market and hired top-5% President's Club performers [[src-saastr-gtm-efficiency-smb]] @23:29–24:30.
+- **2024-08-01:** Same deck at a different event: "Less reps is better than more reps." At his first startup they scaled off one "unicorn rep" and fired 25–30% of hires [[src-top-founders-latka-5m-arr-cro]] @12:16–14:18.
+- **2024-09-25 to 2024-12-18 (own show, first season):** He likes stacking known people ("a known commodity", a RevOps head of eight years) [[src-E05-mark-niemiec-on-steering-business-transformation]] @25:22; [[src-E10-mark-bergen-on-aligning-sales-product-partners-and-mission]] @12:23. He already leans toward growing talent at home: it's "much easier to sway an early career first, second, third year rep into your system versus somebody paying a premium at year five and six" [[src-E06-untold-strategies-of-high-impact-sales-recruitment-with-asad]] @13:22. He cites about 50 promotions in 18 months [[src-E12-bravados-ceo-sahil-mansuri-on-the-future-of-sales-reps-and]] @63:29–64:32, and an ATS bar of "Heck yeah or no" for hires and promotions [[src-E08-sam-blonds-blueprint-for-building-exceptional-leaders-tea]] @22:46.
+- **2024-11-19:** "the talent is like 80% of the battle"; BDRs are hired on DNA over craft [[src-outbound-kitchen-scale-outbound-sales]] @44:47, @46:51–47:53.
+- **2024-12-03:** He says growth isn't reps × quota but "pipeline generated times a conversion rate", so foundations come before bodies [[src-testbox-lessons-in-scaling]] @14:36.
+- **2025-01-01:** Restaurant-tech consolidation lets Owner "go pick off like the best people" [[src-E14-a-systematic-approach-to-gtm-infrastructure-and-talent-with]] @14:33.
+- **2025-02-05. The sourcing shift starts earlier than 2026:** At Owner he first paid top of market for proven performers, and now hires earlier-career people and promotes from within [[src-bravado-scaling-smb-30m]] @49:50–51:57.
+- **2025-04-23:** "talent density, talent gravitational force is still the thing that will make or break companies." Competitors can copy Owner, but the talent keeps it "three steps ahead" [[src-E30-building-ai-powered-sales-teams-with-finallys-cro-kevin-kd]] @43:59–44:59.
+- **2025-05-08. "Flight to quality":** great revenue leaders "are swimming in opportunity", but for a middle-of-the-pack one "it's actually a very unkind market" [[src-E32-layering-slg-without-breaking-the-product-with-john-eitel]] @69:08–71:10.
+- **2025-05-28 to 2025-05-30. AI widens the gap, and Jevons first appears:** the best get better and elite sellers may command higher pay [[src-saastr-ai-sales-gtm-2026-lemkin]] @25:47, @27:48–28:51. He says Jevons paradox means AI likely increases demand for reps [[src-20vc-20sales-2m-to-40m-arr]] @71:20–73:26. So the Jevons framing dates to May 2025, not 2026.
+- **2025-08-07:** His hypothesis is that efficient teams are built "from the bottoms up" with entry-level talent; Owner made "a big shift to hiring uh mostly new grads into SDR" that year, and "the results have been bonkers" [[src-E42-cutting-the-fat-and-building-sales-machines-that-scale-with]] @57:15–61:19.
+- **2025-08-20:** AI hasn't shrunk the team: "I don't think we're a smaller team because of AI yet. I think we get more done" [[src-frontlines-how-i-hire]] @11:25.
+- **2025-09-16:** The day-45 cut of half the inherited team is told as a foundational bet, because the first 10 hires become the org's "fingerprint". Early hires were all President's Club and one degree from Kyle [[src-gtmnow-163-2m-to-50m-arr]] @01:06–04:19. The same interview was rebroadcast on his own show as [[src-kyle-nortons-bets-for-gtm-domination]]; treat it as one piece of evidence.
+- **2025-10-15. Bifurcation:** "I think there's going to be a bifurcation". The best reps get much more valuable, and "fundraising is a flight to quality. talent is consolidating" [[src-all-about-ai-and-gtm-at-clay-round-two-with-everett-berry]] @35:40–36:42, @45:48.
+- **2025-12-03:** He calls talent density "the single biggest lever" [[src-verticals-revenue-machine]] @55:36.
+- **2025-12-10:** "I'm a real snob about CRO": quality dispersion at the top is very wide [[src-the-new-rules-of-executive-recruiting-in-the-ai-era-asad-zaman-ceo]] @38:48.
+- **2025-12-17. Jevons in practice:** with bookings per dollar per AE "3x any team I've ever managed before", "I'm hiring like 25 people in sales over like a 75day period" [[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]] @25:22–26:25.
+- **2026-02-04:** "If anything, the best people are worth even more today than they were in the past." [[src-cro-life-from-a-20b-exit-to-a-hyper-growth-ai-org-michelle-donnell]] @48:54. His promo post lists "Talent density beats headcount" [[src-linkedin-2026]] (post 2026-02-05).
+- **2026-03-03:** "What makes Owner.com different is people." [[src-linkedin-2026]] (post 2026-03-03).
+- **2026-03-04:** Per-rep productivity 3–4x competitors lets Owner "pay top of market" and fund enablement, RevOps and BDRs [[src-my-team-drives-4x-revenue-per-ae-vs-competitors-aviv-canaani-cro]] @22:27–23:28.
+- **2026-03-24 (new):** He adds the "worth like 4x" AI-capable employee, and the no $250,000 BDR: a BDR who could generate that much becomes a GTM engineer or growth marketer [[src-crew-podcast-how-best-cros-hire]] @51:17, @54:25–56:38.
+- **2026-04-05 (new):** He would cut bottom performers to fund applied AI [[src-topline-world-class-ai-in-gtm]] @27:23–29:27.
+- **2026-04-14 (new). Change in sourcing, stated outright:** density used to mean President's Club reps hired remote at top of market. Now it means about 80% new grads, in person, trained from scratch. (The shift itself began in 2025; see 2025-02-05 and 2025-08-07 above.) Ten-year veterans "haven't worked out as frequently" because they're "cruising" [[src-captivate-talent-stop-vibe-hiring]] @18:18–25:25.
+- **2026-05-07 (new):** He again frames headcount with Jevons paradox (first used May 2025) and administrator-vs-orchestrator: more people, re-shaped work [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @06:21–14:12.
+- **2026-06-15 (new):** "Since the beginning of 2025, I would say 70% of our new hires have been brand new grads from university." On joining, he "parted ways with half of them" (two of four reps) [[src-web-2026-06-15-morning-brew-revenue-brew-ownercoms-hiring-and-coaching-strategies-for]].
+- **2026-09-08 (new):** He restates the 80% new-grad figure and says interview sales craft barely predicts performance [[src-firmable-best-practice-killing-sales]] @21:48–23:50.
+
+## Evidence & key quotes
+- "If your first 10 sales hires aren't at that upper tier and bringing a level of intensity and drive, then it's really hard to to build an organization that has that into the future." [[src-gtmnow-163-2m-to-50m-arr]] @02:08 (2025-09-16)
+- "And so we moved on from almost half the team." [[src-crew-podcast-how-best-cros-hire]] @08:14 (2026-03-24)
+- "the team you build is the company you build" [[src-verticals-revenue-machine]] @55:36 (2025-12-03)
+- "Go hire the best of the best of the best and let those people cook." [[src-union-square-cro-stories-60m-arr]] @50:46 (2026-04-20)
+- "AI is really gonna be the death of the administrator, and the rise of the orchestrator" [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @06:21 (2026-05-07)
+- "AI is a multiplier, and multiplying zero still gives you zero." [[src-substack-2026-03-31-ai-can-do-everything-a-salesperson]] (2026-03-31)
+- "I have always erred on the side of potential over previous performance." [[src-captivate-talent-stop-vibe-hiring]] @23:23 (2026-04-14)
+- "And, and like the, the talent is like 80% of the battle." [[src-outbound-kitchen-scale-outbound-sales]] @44:47 (2024-11-19)
+- "We saw some early signs of success, and we tried to hire too many reps too quickly" [[src-sales-leadership-podcast-15-league]] @16:39 (2018-09-25)
+- "Less reps is better than more reps." [[src-top-founders-latka-5m-arr-cro]] @14:18 (2024-08-01)
+- "talent density, talent gravitational force is still the thing that will make or break companies." [[src-E30-building-ai-powered-sales-teams-with-finallys-cro-kevin-kd]] @43:59 (2025-04-23)
+- "I'm hiring like 25 people in sales over like a 75day period" [[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]] @25:22 (2025-12-17)
+- "If anything, the best people are worth even more today than they were in the past." [[src-cro-life-from-a-20b-exit-to-a-hyper-growth-ai-org-michelle-donnell]] @48:54 (2026-02-04)
+- "You can replicate the systems. You can replicate the infrastructure." [[src-linkedin-2026]] (post 2026-03-03)
+
+## Numbers he's cited
+- Inherited 1 manager + 4 reps and exited 2 of 4 AEs within ~45 days (2024-04-18) [[src-saastr-gtm-efficiency-smb]] @08:06. Later called "almost half" (2026-03-24) [[src-crew-podcast-how-best-cros-hire]] @08:14.
+- Paid about $30K above SMB market; top-5% President's Club hires (2024-04-18) [[src-saastr-gtm-efficiency-smb]] @24:30.
+- AE hiring miss rate "Less than 10%" over about three years (2025-09-16) [[src-gtmnow-163-2m-to-50m-arr]] @04:19.
+- AI-capable high-agency employees "worth like 4x" (2026-03-24) [[src-crew-podcast-how-best-cros-hire]] @51:17–52:18.
+- 4x PRs per engineer vs. 12 months earlier; headcount pulled forward about four months (2026-05-07) [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @12:04–14:12.
+- Applied AI: "three or four people", hired with "no budget conversation" (2026-04-05) [[src-topline-world-class-ai-in-gtm]] @28:24.
+- About 80% of new sales hires are new grads (2026-04-14 and 2026-09-08) [[src-captivate-talent-stop-vibe-hiring]] @20:20; [[src-firmable-best-practice-killing-sales]] @22:50.
+- About 100 sales hires planned in 2026 [[src-E69-stop-paying-for-saas-the-ai-playbook-driving-a-1b-trajectory]] @41:20.
+- At his first startup (League era), 25–30% of hires were fired (2024-08-01) [[src-top-founders-latka-5m-arr-cro]] @12:16.
+- About 50 promotions in 18 months (2024-12-18) [[src-E12-bravados-ceo-sahil-mansuri-on-the-future-of-sales-reps-and]] @63:29–64:32.
+- One Owner job post draws about 1,200 applicants (2025-05-30) [[src-20vc-20sales-2m-to-40m-arr]] @06:16–07:17.
+- About 25 sales hires over about 75 days; bookings per dollar per AE about 3x his prior teams (2025-12-17) [[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]] @25:22–26:25. The LinkedIn version: "20+ reps in the next 75 days" [[src-linkedin-2026]].
+- Owner engineers now effectively "50x" (2026-01-28) [[src-gtm-strategy-5-insights-from-500-b2b-saas-orgs-jeremey-donovan-evp]] @67:23–68:23.
+- Per-rep productivity 3–4x competitors; OTE attainment about 138%; about 80% of reps hit target (2026-03-04) [[src-my-team-drives-4x-revenue-per-ae-vs-competitors-aviv-canaani-cro]] @22:27–23:28.
+- About 70% of new hires since the start of 2025 are new grads (2026-06-15) [[src-web-2026-06-15-morning-brew-revenue-brew-ownercoms-hiring-and-coaching-strategies-for]].
+
+## Tensions, contradictions & open questions
+- **When the sourcing shift happened (partly resolved).** The 2026 telling makes new-grad hiring sound recent, but he was already hiring earlier-career people and promoting from within by Feb 2025 [[src-bravado-scaling-smb-30m]] @49:50–51:57, and described a "big shift to hiring uh mostly new grads into SDR" in Aug 2025 [[src-E42-cutting-the-fat-and-building-sales-machines-that-scale-with]] @61:19. The home-grown preference appears as early as Oct 2024 [[src-E06-untold-strategies-of-high-impact-sales-recruitment-with-asad]] @13:22.
+- **70% or 80% new grads?** "70% of our new hires" since the start of 2025 (June 2026) [[src-web-2026-06-15-morning-brew-revenue-brew-ownercoms-hiring-and-coaching-strategies-for]] vs about 80% of new sales hires (April and Sept 2026) [[src-captivate-talent-stop-vibe-hiring]] @20:20; [[src-firmable-best-practice-killing-sales]] @22:50. The bases may differ (all hires vs sales hires).
+- **Jevons vs "3x" (open).** He says 3x bookings per AE dollar yet keeps hiring; Lemkin pushed back that a true 3x could run a team 30–40% smaller, and Kyle conceded "it's not like for like" because of month-to-month SMB contracts [[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]] @25:22–26:25.
+- **Pedigree vs potential.** In 2024–25 density meant "fewer, better, higher-paid" President's Club reps [[src-saastr-gtm-efficiency-smb]] @23:29–24:30; [[src-gtmnow-163-2m-to-50m-arr]] @03:15. By 2026 it means mostly new grads [[src-captivate-talent-stop-vibe-hiring]] @20:20. He doesn't call this a reversal of the density thesis, only of the sourcing profile. The open question is whether density now sits in the enablement system rather than in the hires.
+- **"Fewer, better" vs Jevons.** "Fewer, better" goes back to League (2018) [[src-sales-leadership-podcast-15-league]] @16:39 and the 2024 line was fewer, better reps [[src-saastr-gtm-efficiency-smb]] @23:29. The 2026 line is that AI efficiency means *more* hiring [[src-E68-are-you-uninvestable-the-new-gtm-reality]] @12:04–14:12. These can coexist (better reps, and more of them), but the emphasis has flipped.
+- **How "half" was counted.** "Half the team" means 2 of 4 AEs out of a 5-person team [[src-saastr-gtm-efficiency-smb]] @08:06. The day-45 framing at [[src-gtmnow-163-2m-to-50m-arr]] @01:06 comes from the host, and Kyle confirms the decision. The Substack's "Nearly half the team turned over" (preview only) is the same event.
+- **Cutting bottom performers vs. "get on track plans".** He calls for stack-ranking out the bottom [[src-topline-world-class-ai-in-gtm]] @27:23. He also says "tons of our best, very best performers" have been on PIPs [[src-E70-manufacture-motivation-sell-more]] @46:22. That second point argues for patience with low performers.
+
+## On his own show
+- E01 (2024-09-25, Lemkin): likely Kyle, a leadership search restarted for "a full extra 90 days" rather than settle [[src-E01-saastr-founder-jason-lemkin-on-why-revenue-leaders-must-run]] @64:11.
+- E05 (2024-10-23, Niemiec): the power of trusted repeat hires, "a known commodity" [[src-E05-mark-niemiec-on-steering-business-transformation]] @25:22–26:25.
+- E06 (2024-10-30, Zaman): early-career reps are easier to bring into your system than year-five premium hires [[src-E06-untold-strategies-of-high-impact-sales-recruitment-with-asad]] @13:22.
+- E08 (2024-11-13, Blond): "Heck yeah or no" ATS bar; "stack talent and the best people you can let them compete" [[src-E08-sam-blonds-blueprint-for-building-exceptional-leaders-tea]] @22:46, @56:24–57:27.
+- E10 (2024-11-27, Bergen): his head of RevOps has worked with him for eight years [[src-E10-mark-bergen-on-aligning-sales-product-partners-and-mission]] @12:23.
+- E11 (2024-12-04, Gilpin): build like a basketball team, not by replicating yourself [[src-E11-mastering-strategic-planning-with-eric-gilpin-cro-of-g2]] @08:21.
+- E12 (2024-12-18, Mansuri): about 50 promotions in 18 months [[src-E12-bravados-ceo-sahil-mansuri-on-the-future-of-sales-reps-and]] @63:29–64:32.
+- E14 (2025-01-01, Roth): consolidation lets Owner pick off the best people [[src-E14-a-systematic-approach-to-gtm-infrastructure-and-talent-with]] @14:33.
+- E17 (2025-01-22, Gabrisko): "There's not enough best people to go around for all these companies" [[src-E17-from-1m-to-1b-arr-ron-gabriskos-databricks-story]] @47:27.
+- E30 (2025-04-23, KD): talent density and "talent gravitational force" make or break companies [[src-E30-building-ai-powered-sales-teams-with-finallys-cro-kevin-kd]] @43:59–44:59.
+- E31 (2025-04-30, Tatulea): better tooling makes skill gaps compound [[src-E31-the-rise-of-the-10x-sdr-with-florin-tatulea-of-common-room]] @16:37.
+- E32 (2025-05-08, Eitel): flight to quality, "a very unkind market" for mid-pack leaders [[src-E32-layering-slg-without-breaking-the-product-with-john-eitel]] @69:08–71:10.
+- E42 (2025-08-07, Hanrahan): build efficient teams bottoms-up from entry-level talent [[src-E42-cutting-the-fat-and-building-sales-machines-that-scale-with]] @57:15–61:19.
+- E49 (2025-10-15, Berry): rep bifurcation; "talent is consolidating" [[src-all-about-ai-and-gtm-at-clay-round-two-with-everett-berry]] @35:40–36:42, @45:48.
+- E54 (2025-11-19, Adams): with a "hire adults" model you have to fire fast; what if a $2M rep could be a $5M rep [[src-40m-arr-with-50person-team-in-less-than-a-year-bryan-adams-vp-s]] @40:40–43:44, @50:51.
+- E57 (2025-12-10, Zaman): flight to quality; "I'm a real snob about CRO" [[src-the-new-rules-of-executive-recruiting-in-the-ai-era-asad-zaman-ceo]] @10:16–11:19, @38:48.
+- E58 (2025-12-17, Lemkin): 3x per-AE productivity yet hiring about 25 in 75 days [[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]] @25:22–26:25.
+- E61 (2026-01-28, Donovan): expects more vertical orgs and rising "keyman risk"; Owner engineers effectively "50x" [[src-gtm-strategy-5-insights-from-500-b2b-saas-orgs-jeremey-donovan-evp]] @67:23–68:23.
+- E62 (2026-02-04, Donnelly): the best people are worth even more now [[src-cro-life-from-a-20b-exit-to-a-hyper-growth-ai-org-michelle-donnell]] @48:54.
+- E64 (2026-03-04, Canaani): 3–4x productivity funds top-of-market pay [[src-my-team-drives-4x-revenue-per-ae-vs-competitors-aviv-canaani-cro]] @22:27–23:28.
+- E68–E70 (2026): see evolution above.
+
+## Guests on his show who discussed this
+- Kevin Bailey (Dreamfuel) said A players adopt performance practices first and C players "punching the clock" push back [[src-E70-manufacture-motivation-sell-more]] @06:08–07:12.
+- Asad Zaman (E06) said tech companies grow "at 7% per quarter" while tech talent grows "at 2% per year" [[src-E06-untold-strategies-of-high-impact-sales-recruitment-with-asad]] @05:08, @12:21.
+- Jason Lemkin (E58) said elite operators managing many agents should earn 2–3x, and mid-pack reps are in "terminal decline" [[src-replacing-your-sales-team-with-ai-agents-jason-lemkin-founder-ceo]] @24:22–33:30.
+- Ghazi Masood (Replit) hires for mission and AI passion over pedigree; Kyle summarizes this as "traits based decisions and then teaching a lot of the craft" [[src-E69-stop-paying-for-saas-the-ai-playbook-driving-a-1b-trajectory]] @45:28.
+
+## Related
+[[sales-hiring]] · [[hiring-scorecards]] · [[culture-and-high-standards]] · [[recognition-and-motivation]] · [[comp-plans]] · [[capacity-planning]] · [[ai-in-gtm]] · [[gtm-engineering]] · [[org-design]] · [[sales-coaching-and-enablement]] · [[owner-com]] · [[kyle-norton]]

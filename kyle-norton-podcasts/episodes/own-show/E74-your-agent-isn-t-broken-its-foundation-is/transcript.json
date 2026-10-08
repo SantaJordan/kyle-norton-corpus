@@ -1,0 +1,4712 @@
+[
+  {
+    "start": 0.0,
+    "duration": 11.0,
+    "text": "AI is not something that you add into an existing process because then all you're typically doing is you're just adding one extra step or one extra layer, but you're not really solving the business outcome of the root problem."
+  },
+  {
+    "start": 11.0,
+    "duration": 6.0,
+    "text": "That's Jonathan Moss with 20 years experience building go to market systems at Verizon, T-Mobile and OYO."
+  },
+  {
+    "start": 17.0,
+    "duration": 8.0,
+    "text": "Now he runs growth at Xperity, which is HIPAA regulated health tech, and he's been a key figure in building the AI infrastructure that enables the entire company."
+  },
+  {
+    "start": 25.0,
+    "duration": 6.0,
+    "text": "The workflow now is powered not by an individual, it's powered by all the systems and infrastructure."
+  },
+  {
+    "start": 31.0,
+    "duration": 4.0,
+    "text": "In today's episode, we dig into what it took to build it, but we cover a lot more ground as well."
+  },
+  {
+    "start": 35.0,
+    "duration": 10.0,
+    "text": "The six layers under every agent he runs, the hard lessons he's learned about going AI first and the near miss that almost locked the company's AI brain inside a vendor's product."
+  },
+  {
+    "start": 45.0,
+    "duration": 5.0,
+    "text": "If you're not thinking about the system that you're building, you're not going to be able to scale it."
+  },
+  {
+    "start": 50.0,
+    "duration": 4.0,
+    "text": "Most AI efforts and go to market teams turn into a soup of disconnected tools."
+  },
+  {
+    "start": 54.0,
+    "duration": 2.0,
+    "text": "Jonathan shares what the alternative looks like."
+  },
+  {
+    "start": 56.0,
+    "duration": 4.0,
+    "text": "Welcome to the Revenue Leadership Podcast."
+  },
+  {
+    "start": 60.0,
+    "duration": 16.0,
+    "text": "Today's guest is Jonathan Moss, who is the EVP of growth and partnerships at Xperity, and he spent 20 years building GTM systems at Verizon, T-Mobile, OYO, Reef, Booster, and then joined Xperity in 2024 to run growth and rev ops."
+  },
+  {
+    "start": 77.0,
+    "duration": 10.0,
+    "text": "He's also the co-dean of the AI in GTM school at Pavilion and leads the revenue operation practice for the Growth Institute that's part of Winning by Design."
+  },
+  {
+    "start": 87.0,
+    "duration": 8.0,
+    "text": "He shares his learnings in the GTM AI podcast and on Substack, which are both great reads, highly recommend."
+  },
+  {
+    "start": 95.0,
+    "duration": 6.0,
+    "text": "We're going to talk about all things AI and how J Moss has built it."
+  },
+  {
+    "start": 102.0,
+    "duration": 26.0,
+    "text": "We're going to talk about some specific workflows, unpack the problem, the redesign, lessons learned, and also get into org charting architecture and really understand how to build an org from the bottoms up that is AI native, whether you are transforming a legacy org or building something from scratch."
+  },
+  {
+    "start": 128.0,
+    "duration": 4.0,
+    "text": "Really excited for this one and appreciate you joining."
+  },
+  {
+    "start": 132.0,
+    "duration": 2.0,
+    "text": "I want to dive right in."
+  },
+  {
+    "start": 134.0,
+    "duration": 11.0,
+    "text": "You've said that, which is a common observation, I think, that a lot of companies, their AI strategy or their GTM AI transformation is a bunch of disconnected pilots."
+  },
+  {
+    "start": 145.0,
+    "duration": 12.0,
+    "text": "It's random trials and tests and stuff just thrown into a soup that then when you zoom out has little to no ROI."
+  },
+  {
+    "start": 157.0,
+    "duration": 6.0,
+    "text": "Everybody was quoting that McKinsey survey or whatever it was, 90% of implementations have no ROI."
+  },
+  {
+    "start": 163.0,
+    "duration": 6.0,
+    "text": "I don't know if it's that extreme now, but it's directionally very accurate."
+  },
+  {
+    "start": 169.0,
+    "duration": 11.0,
+    "text": "I would love to understand how you've seen, maybe start with the problem and how companies are getting it wrong and then the approach that you guys have taken it."
+  },
+  {
+    "start": 180.0,
+    "duration": 5.0,
+    "text": "Because Xperity is not a little startup that's built AI from scratch."
+  },
+  {
+    "start": 185.0,
+    "duration": 3.0,
+    "text": "You've gone through this transformation and done it with a lot of success."
+  },
+  {
+    "start": 188.0,
+    "duration": 5.0,
+    "text": "Maybe talk problem and then approach and then we'll unpack a ton of stuff from there."
+  },
+  {
+    "start": 193.0,
+    "duration": 5.0,
+    "text": "I think I'll start at the system level and then get into how to implement."
+  },
+  {
+    "start": 198.0,
+    "duration": 12.0,
+    "text": "So I think a lot of times what happens is people start with the tool or they start with some AI use case instead of the business outcome."
+  },
+  {
+    "start": 210.0,
+    "duration": 9.0,
+    "text": "But even when they even when they start with the business outcome, a lot of times you can you can ultimately build around a workflow or something like that."
+  },
+  {
+    "start": 219.0,
+    "duration": 4.0,
+    "text": "And I'll talk about that's definitely the place to start. But you have to think about this as a system."
+  },
+  {
+    "start": 223.0,
+    "duration": 5.0,
+    "text": "And I don't think many people think about it as a system. They think about it as like I'm accomplishing this one thing."
+  },
+  {
+    "start": 228.0,
+    "duration": 7.0,
+    "text": "And so the way we've kind of thought about it, I've kind of thought about it and broke it down is there's multiple layers to the system."
+  },
+  {
+    "start": 235.0,
+    "duration": 6.0,
+    "text": "So the first one is you've got to have the data. So data in the data lake where quantitative and qualitative."
+  },
+  {
+    "start": 241.0,
+    "duration": 4.0,
+    "text": "So you've got to have that to be able to power this whole thing."
+  },
+  {
+    "start": 245.0,
+    "duration": 12.0,
+    "text": "And then we've built what we call the brain, which is basically this kind of semantic layer of policies, IP, our own IP, all of our decisions, things like that."
+  },
+  {
+    "start": 257.0,
+    "duration": 5.0,
+    "text": "So you got to have this this layer that understands who your company is and how it operates."
+  },
+  {
+    "start": 262.0,
+    "duration": 4.0,
+    "text": "Then you have your intelligence layer. And when I think about that, it's like the models."
+  },
+  {
+    "start": 266.0,
+    "duration": 9.0,
+    "text": "So it's simply the models, cloud, open, etc. You've got to be able to then orchestrate this across multiple teams, multiple workflows, multiple agents."
+  },
+  {
+    "start": 275.0,
+    "duration": 5.0,
+    "text": "So how do you do that? Then you have your agents that are actually your teams, that they are specialized."
+  },
+  {
+    "start": 280.0,
+    "duration": 8.0,
+    "text": "And then you have the interface, which is where you work. Is it teams? Is it Slack? Is it Salesforce? Is it, you know, you know, conversational UI that you created?"
+  },
+  {
+    "start": 288.0,
+    "duration": 8.0,
+    "text": "So I think the first thing is, if you're not thinking about the system that you're building, you're not going to be able to scale it."
+  },
+  {
+    "start": 296.0,
+    "duration": 6.0,
+    "text": "You may be able to accomplish a small business outcome on a workflow, which is definitely the place you start."
+  },
+  {
+    "start": 302.0,
+    "duration": 12.0,
+    "text": "And I'll talk a little bit about that. But ultimately, the broader piece of this is you have to have the system underneath or otherwise it won't scale beyond maybe a few workflows, a team, etc."
+  },
+  {
+    "start": 314.0,
+    "duration": 5.0,
+    "text": "So I think that's the important first thing that we and I actually made this mistake when I first started."
+  },
+  {
+    "start": 319.0,
+    "duration": 7.0,
+    "text": "I started at the agent and interface. And every time I started working to build the system, I kept running into things."
+  },
+  {
+    "start": 326.0,
+    "duration": 5.0,
+    "text": "Why does it not have context? Why can't it work across multiple, you know, multiple tools?"
+  },
+  {
+    "start": 331.0,
+    "duration": 6.0,
+    "text": "Why can't do this? It just led me to build all the way down to the bottom, which is a lesson learned for me."
+  },
+  {
+    "start": 337.0,
+    "duration": 4.0,
+    "text": "I should actually started at the bottom with the data and then the system started building up."
+  },
+  {
+    "start": 341.0,
+    "duration": 3.0,
+    "text": "And so I think that's thing one."
+  },
+  {
+    "start": 344.0,
+    "duration": 1.0,
+    "text": "Can I pause you there?"
+  },
+  {
+    "start": 345.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 346.0,
+    "duration": 8.0,
+    "text": "So fundamentally, I very much agree. And, you know, I've talked a lot about building this company meta harness."
+  },
+  {
+    "start": 354.0,
+    "duration": 10.0,
+    "text": "And so you and I see the world very similarly. But I was just talking to a guy who runs AI transformation for a big public company today."
+  },
+  {
+    "start": 364.0,
+    "duration": 5.0,
+    "text": "And so there's like 50 cooks in the kitchen, all this stuff happening."
+  },
+  {
+    "start": 369.0,
+    "duration": 10.0,
+    "text": "And so I think sometimes for those organizations, actually starting with the system and trying to fix fundamentals, like doesn't work."
+  },
+  {
+    "start": 379.0,
+    "duration": 11.0,
+    "text": "Because there's too many people that are squabbling over who owns it, what's allowed, what's the approach versus you and I, I think, like came into this the same way."
+  },
+  {
+    "start": 390.0,
+    "duration": 6.0,
+    "text": "It's like, hey, let's just get a couple interesting use cases up and running, build some value, demonstrate and build momentum."
+  },
+  {
+    "start": 397.0,
+    "duration": 9.0,
+    "text": "And then you have enough credibility to say, OK, I can't do the next thing without the infrastructure being there."
+  },
+  {
+    "start": 406.0,
+    "duration": 7.0,
+    "text": "So I actually think and, you know, because you and I were both early, that was the only way to do it."
+  },
+  {
+    "start": 413.0,
+    "duration": 5.0,
+    "text": "Nobody understood the systems engineering of AI enough back then to do it properly."
+  },
+  {
+    "start": 418.0,
+    "duration": 5.0,
+    "text": "But I actually don't mind people. You got to fix the data first."
+  },
+  {
+    "start": 423.0,
+    "duration": 15.0,
+    "text": "But maybe we don't need to fix all of the orchestration, all of the the agentic coordination before you like spin up a couple good use cases that maybe don't touch six different systems, but produce real value."
+  },
+  {
+    "start": 438.0,
+    "duration": 9.0,
+    "text": "How do you respond to that, especially for the people listening who are like in larger companies and maybe like need to build some momentum?"
+  },
+  {
+    "start": 448.0,
+    "duration": 6.0,
+    "text": "Yeah, for sure. And super valid point. And thanks for that, because ultimately the next phase I was going to go is the workflow, because I agree with you."
+  },
+  {
+    "start": 454.0,
+    "duration": 5.0,
+    "text": "But I think what I would say is you should work these in parallel."
+  },
+  {
+    "start": 459.0,
+    "duration": 7.0,
+    "text": "They're not sequential because to exactly to your point, the system is going to be a long pole in the tent."
+  },
+  {
+    "start": 466.0,
+    "duration": 7.0,
+    "text": "But you have to have that thinking and understanding of this is what my like long term goal is from a strategy perspective."
+  },
+  {
+    "start": 473.0,
+    "duration": 11.0,
+    "text": "And I need to start engaging in the conversations and trying to figure out where things are going to break now as I'm building out these like individual workflows, which is where you do also start."
+  },
+  {
+    "start": 484.0,
+    "duration": 7.0,
+    "text": "So I think it's a parallel path. It's not a sequential one. And I think the problem is, is a lot of people maybe even think that it's a sequential one."
+  },
+  {
+    "start": 491.0,
+    "duration": 5.0,
+    "text": "So they start with the workloads, but they don't think about the system or they don't think about the system at all."
+  },
+  {
+    "start": 496.0,
+    "duration": 5.0,
+    "text": "And then to your point, we're like back early. We didn't think about it because it was all this was new."
+  },
+  {
+    "start": 501.0,
+    "duration": 7.0,
+    "text": "But now I think you've got to think about this as you start building out your kind of getting momentum, getting your use cases and workflows down."
+  },
+  {
+    "start": 508.0,
+    "duration": 6.0,
+    "text": "I think that's the right framing. OK, so we're talking about system and use cases in parallel."
+  },
+  {
+    "start": 514.0,
+    "duration": 8.0,
+    "text": "And one of the things that I think is also useful about about trying to build some of those workflows is tells you where the system is broken."
+  },
+  {
+    "start": 522.0,
+    "duration": 17.0,
+    "text": "And I think what you're advocating is really smart, is like as you build workflow, think about system, because oftentimes the workflow or the agent doesn't work because it doesn't have the right context or can't reconcile identity across systems or doesn't have access."
+  },
+  {
+    "start": 539.0,
+    "duration": 14.0,
+    "text": "So that makes a lot of sense. So then so the layers you mentioned were data, brain, intelligence, orchestration, agents, interface and agents is workflow."
+  },
+  {
+    "start": 553.0,
+    "duration": 6.0,
+    "text": "Is that where you would put like like the. Yeah, I would have. Yeah, I have agents."
+  },
+  {
+    "start": 559.0,
+    "duration": 6.0,
+    "text": "And then the the orchestration, if you needed multi agents and in the in the work, the workflow piece. Absolutely."
+  },
+  {
+    "start": 565.0,
+    "duration": 11.0,
+    "text": "And then so as you think about systematically, you know, ultimately you want to run in parallel some things that you can get measurable ROI on that you can implement that are actually solving problems."
+  },
+  {
+    "start": 576.0,
+    "duration": 13.0,
+    "text": "And you mentioned it kind of when you took it away, which is start with like the I call it the business outcome or the business constraint, not specifically what is the A.I. use case, because A.I. is just an element of the solution and the workflow."
+  },
+  {
+    "start": 590.0,
+    "duration": 9.0,
+    "text": "You don't need to start and say, hey, what I need to A.I. A.I. things. Right. And so you got to what is the business outcome that you're trying to achieve and how impactful is that?"
+  },
+  {
+    "start": 599.0,
+    "duration": 14.0,
+    "text": "Then then what you have to really do is map the underlying workflow. So think about your handoffs, your exceptions, the data that's required, all the different things that go into the workflow baseline."
+  },
+  {
+    "start": 614.0,
+    "duration": 12.0,
+    "text": "Where does context drop where to meet? You know, you and I were chatting earlier before we were sort of heard about meetings. Where all do I have to have meetings? Because that's where information is locked or context is locked or whatever decisions have to be made."
+  },
+  {
+    "start": 626.0,
+    "duration": 9.0,
+    "text": "So think about all of the time, quality costs, outcomes, et cetera, that are part of this workflow. And then you have to think about redesigning the work."
+  },
+  {
+    "start": 635.0,
+    "duration": 10.0,
+    "text": "So I think this is important. A.I. is not something that you add into an existing process because then all you're typically doing is you're just adding one extra step or one extra layer."
+  },
+  {
+    "start": 645.0,
+    "duration": 5.0,
+    "text": "But you're not really solving the business outcome of the root problem. It may make it better and it may seem to make it better."
+  },
+  {
+    "start": 650.0,
+    "duration": 4.0,
+    "text": "But ultimately, A.I. is really designed for you to kind of redesign the entire work."
+  },
+  {
+    "start": 655.0,
+    "duration": 12.0,
+    "text": "So what do I remove? What do I automate? What do I augment? Things of that nature is kind of how you think. And then once you deploy it, make sure that you've got good change management around workflow adoption."
+  },
+  {
+    "start": 667.0,
+    "duration": 10.0,
+    "text": "Make sure you have you have good measurements around what is it that you're tracking and how is this workflow working and then have a learning loop where you can make those corrections."
+  },
+  {
+    "start": 677.0,
+    "duration": 7.0,
+    "text": "You know, it's almost like deploying a product in a way. Right. You're deploying this kind of these exactly the same workflow. Right."
+  },
+  {
+    "start": 684.0,
+    "duration": 6.0,
+    "text": "Yeah. And you need this dynamic feedback from the user and you need to make the tweaks and the enhancements to the workflow until you get it right."
+  },
+  {
+    "start": 690.0,
+    "duration": 10.0,
+    "text": "And then you can start scaling and deploying it. And so I think that's kind of how I how we think about how to how to deploy A.I. and think about these kind of measurable R.O.I. workflows."
+  },
+  {
+    "start": 701.0,
+    "duration": 7.0,
+    "text": "I think you've used the language like Rev Ops is transforming into revenue product, which which is essentially what we're doing."
+  },
+  {
+    "start": 708.0,
+    "duration": 16.0,
+    "text": "You're you're finding you're looking at user behavior, you're understanding jobs to be done and requirements, building a PRD, redesigning a thing and then testing and iterating like, you know, build your MVP, put it into the market, get user feedback, iterate and loop."
+  },
+  {
+    "start": 725.0,
+    "duration": 6.0,
+    "text": "And we're all there now. We're all product thinkers. Yeah. You have to be in that."
+  },
+  {
+    "start": 731.0,
+    "duration": 9.0,
+    "text": "And honestly, we should have been doing this a long time ago, because if you really think about Rev Ops and you really think about, you know, we've all had this, you know, go to market tech stack."
+  },
+  {
+    "start": 740.0,
+    "duration": 8.0,
+    "text": "Well, that's really a product, you know, because a lot of sometimes products, when you build a product, you're using third party integration because you don't build everything."
+  },
+  {
+    "start": 748.0,
+    "duration": 5.0,
+    "text": "So it's really you are managing a product and we have to think about it that way."
+  },
+  {
+    "start": 753.0,
+    "duration": 7.0,
+    "text": "And I also think that our organizational structure and, you know, we don't have to pivot there yet if you don't want to."
+  },
+  {
+    "start": 760.0,
+    "duration": 6.0,
+    "text": "But our organizational structure has to think about changing because we've created silos and go to market."
+  },
+  {
+    "start": 766.0,
+    "duration": 4.0,
+    "text": "You have marketing, you have sales, you have customer success, et cetera."
+  },
+  {
+    "start": 771.0,
+    "duration": 2.0,
+    "text": "And Rev Ops kind of did the same thing."
+  },
+  {
+    "start": 773.0,
+    "duration": 7.0,
+    "text": "They said, OK, well, if you've got these functional orgs and I'm going to have marketing ops, I'm going to have sales ops, I'm not customer success ops."
+  },
+  {
+    "start": 780.0,
+    "duration": 7.0,
+    "text": "And so and so if you don't think about, you know, when you think about a product, you're thinking about what is the workflow I'm building?"
+  },
+  {
+    "start": 787.0,
+    "duration": 3.0,
+    "text": "What is the capability and outcome I'm building towards?"
+  },
+  {
+    "start": 790.0,
+    "duration": 11.0,
+    "text": "And it's not specialty like you don't have someone that, you know, only builds this portion of the product and this portion of the product, this portion of the product and a full workflow as you're thinking about it."
+  },
+  {
+    "start": 801.0,
+    "duration": 3.0,
+    "text": "And so I think about I think about you're exactly right."
+  },
+  {
+    "start": 804.0,
+    "duration": 7.0,
+    "text": "We have to start thinking about go to market and the system becoming more product oriented, product led, et cetera."
+  },
+  {
+    "start": 813.0,
+    "duration": 2.0,
+    "text": "You're in back to back meetings all day."
+  },
+  {
+    "start": 815.0,
+    "duration": 5.0,
+    "text": "You're trying to stay present, but you're also worried you'll forget the decision, the action item, the important next step."
+  },
+  {
+    "start": 820.0,
+    "duration": 2.0,
+    "text": "And that's where Granola comes in."
+  },
+  {
+    "start": 822.0,
+    "duration": 3.0,
+    "text": "Granola is an AI powered notepad for meetings."
+  },
+  {
+    "start": 826.0,
+    "duration": 2.0,
+    "text": "You jot down rough notes like you always do."
+  },
+  {
+    "start": 828.0,
+    "duration": 5.0,
+    "text": "And in the background, Granola transcribes and turns them into clear, useful notes when the meeting ends."
+  },
+  {
+    "start": 833.0,
+    "duration": 5.0,
+    "text": "No bots joining your calls, no distractions, just a clean notepad that helps you focus."
+  },
+  {
+    "start": 838.0,
+    "duration": 4.0,
+    "text": "Use code TheRevenue for three months of Granola for free."
+  },
+  {
+    "start": 842.0,
+    "duration": 6.0,
+    "text": "So you can head on over to Granola.ai slash TheRevenue to learn more."
+  },
+  {
+    "start": 848.0,
+    "duration": 4.0,
+    "text": "Again, that is TheRevenue for three months of Granola for free."
+  },
+  {
+    "start": 852.0,
+    "duration": 3.0,
+    "text": "Check it out at Granola.ai slash TheRevenue."
+  },
+  {
+    "start": 855.0,
+    "duration": 4.0,
+    "text": "This episode of the Revenue Leadership Podcast is brought to you by Chris at Work."
+  },
+  {
+    "start": 859.0,
+    "duration": 4.0,
+    "text": "Your revenue team runs on 25 or more disconnected applications."
+  },
+  {
+    "start": 863.0,
+    "duration": 4.0,
+    "text": "Sourcing in one, scoring in another, sequencing in a third."
+  },
+  {
+    "start": 867.0,
+    "duration": 4.0,
+    "text": "Chris at Work makes that a single AI native platform."
+  },
+  {
+    "start": 871.0,
+    "duration": 5.0,
+    "text": "System of record, system of work, and system of intelligence as one."
+  },
+  {
+    "start": 876.0,
+    "duration": 4.0,
+    "text": "And at roughly one third of what your stack costs today."
+  },
+  {
+    "start": 880.0,
+    "duration": 7.0,
+    "text": "Book your demo now at chrisatwork.ai slash pavilion to get 15x qualified by blind."
+  },
+  {
+    "start": 887.0,
+    "duration": 5.0,
+    "text": "That's K-R-I-S at work.ai slash pavilion to learn more."
+  },
+  {
+    "start": 892.0,
+    "duration": 6.0,
+    "text": "K-R-I-S at work.ai slash pavilion to learn more."
+  },
+  {
+    "start": 899.0,
+    "duration": 5.0,
+    "text": "All right, I'm going to bookmark the org structure thing because that is a really great topic."
+  },
+  {
+    "start": 904.0,
+    "duration": 7.0,
+    "text": "So I want to zoom back to mapping the underlying workflow."
+  },
+  {
+    "start": 911.0,
+    "duration": 7.0,
+    "text": "And I think one of the interesting challenges here is how do you make it machine readable?"
+  },
+  {
+    "start": 918.0,
+    "duration": 4.0,
+    "text": "If you actually want AI to play a meaningful part,"
+  },
+  {
+    "start": 922.0,
+    "duration": 7.0,
+    "text": "then the things that happen by humans need to be machine readable and adaptable."
+  },
+  {
+    "start": 929.0,
+    "duration": 7.0,
+    "text": "And so maybe if you can give a practical example of something that you've had to rebuild"
+  },
+  {
+    "start": 936.0,
+    "duration": 2.0,
+    "text": "that's had a really good impact at Experity,"
+  },
+  {
+    "start": 938.0,
+    "duration": 5.0,
+    "text": "how have you had to do that workflow mapping"
+  },
+  {
+    "start": 943.0,
+    "duration": 4.0,
+    "text": "and what were the technical foundations you had to build to then be able to redesign things?"
+  },
+  {
+    "start": 947.0,
+    "duration": 5.0,
+    "text": "Yeah, so I would say I'll use this kind of GTM intelligence center"
+  },
+  {
+    "start": 952.0,
+    "duration": 6.0,
+    "text": "because I think it's one that most everyone, it's not specific to a function."
+  },
+  {
+    "start": 958.0,
+    "duration": 5.0,
+    "text": "So typically, how do you get your dashboards? How do you get your data?"
+  },
+  {
+    "start": 963.0,
+    "duration": 3.0,
+    "text": "How do you make decisions, get insights, et cetera?"
+  },
+  {
+    "start": 966.0,
+    "duration": 3.0,
+    "text": "In normal, you would ask maybe RevOps."
+  },
+  {
+    "start": 969.0,
+    "duration": 4.0,
+    "text": "If you don't have your own dashboard or information that gets it to you,"
+  },
+  {
+    "start": 973.0,
+    "duration": 2.0,
+    "text": "then they would have to prioritize it."
+  },
+  {
+    "start": 975.0,
+    "duration": 2.0,
+    "text": "They would then pull the data."
+  },
+  {
+    "start": 977.0,
+    "duration": 2.0,
+    "text": "They would visualize it for you, build you a dashboard."
+  },
+  {
+    "start": 979.0,
+    "duration": 3.0,
+    "text": "They may even analyze it and try to answer your question."
+  },
+  {
+    "start": 982.0,
+    "duration": 9.0,
+    "text": "So this is a very linear flow that's very people heavy and requires people, expertise, et cetera."
+  },
+  {
+    "start": 991.0,
+    "duration": 4.0,
+    "text": "But ultimately, they're also not the domain experts."
+  },
+  {
+    "start": 995.0,
+    "duration": 4.0,
+    "text": "So they're not sales, they're not marketing, they're not customer success."
+  },
+  {
+    "start": 999.0,
+    "duration": 8.0,
+    "text": "And so instead of that being the workflow intake, prioritization, build, deploy, et cetera."
+  },
+  {
+    "start": 1007.0,
+    "duration": 5.0,
+    "text": "Instead, what we did was we said, OK, what are the like, how should this workflow work?"
+  },
+  {
+    "start": 1012.0,
+    "duration": 1.0,
+    "text": "What's the outcome?"
+  },
+  {
+    "start": 1013.0,
+    "duration": 6.0,
+    "text": "The outcome that we're looking for is that anyone in the organization can understand where we're at,"
+  },
+  {
+    "start": 1019.0,
+    "duration": 7.0,
+    "text": "the trends, get insights, understand their component of their business and what's important to flag."
+  },
+  {
+    "start": 1026.0,
+    "duration": 4.0,
+    "text": "This shouldn't be a RevOps in the middle of this."
+  },
+  {
+    "start": 1030.0,
+    "duration": 9.0,
+    "text": "So instead, the outcome should be that the work is actually decentralized, federated down to the lowest common denominator, the user."
+  },
+  {
+    "start": 1039.0,
+    "duration": 1.0,
+    "text": "So what does that mean?"
+  },
+  {
+    "start": 1040.0,
+    "duration": 1.0,
+    "text": "What do we have to do?"
+  },
+  {
+    "start": 1041.0,
+    "duration": 3.0,
+    "text": "Number one is we had to get all of our data in the right place."
+  },
+  {
+    "start": 1044.0,
+    "duration": 5.0,
+    "text": "So we had to have it, you know, we had to pull it together and ensure that it was in our data warehouse."
+  },
+  {
+    "start": 1049.0,
+    "duration": 7.0,
+    "text": "We had to ensure that we had it had the right context because, as you know, not every field, you know,"
+  },
+  {
+    "start": 1056.0,
+    "duration": 6.0,
+    "text": "if you could enter a field in your CRM, but if there's no business context behind that, then, you know,"
+  },
+  {
+    "start": 1062.0,
+    "duration": 3.0,
+    "text": "AI or whoever will make that judgment call. Right."
+  },
+  {
+    "start": 1065.0,
+    "duration": 3.0,
+    "text": "And it's going to be wrong. So you've got to have that context."
+  },
+  {
+    "start": 1068.0,
+    "duration": 3.0,
+    "text": "And that's the semantic layer work that you were talking about."
+  },
+  {
+    "start": 1071.0,
+    "duration": 8.0,
+    "text": "Explain to the model how the data or field relates back to the business so that when the user asks the question,"
+  },
+  {
+    "start": 1079.0,
+    "duration": 3.0,
+    "text": "it can understand the connection between those things."
+  },
+  {
+    "start": 1082.0,
+    "duration": 4.0,
+    "text": "One hundred percent. Yep. And then we had to put the intelligence on it."
+  },
+  {
+    "start": 1086.0,
+    "duration": 5.0,
+    "text": "So the LLMs, et cetera, on top of the semantic layer. And then we had to give the user a way to interact with it."
+  },
+  {
+    "start": 1091.0,
+    "duration": 3.0,
+    "text": "Right. So they could ask a question and it could build their charts. It could do whatever."
+  },
+  {
+    "start": 1094.0,
+    "duration": 4.0,
+    "text": "And so what's interesting is really testing this."
+  },
+  {
+    "start": 1098.0,
+    "duration": 7.0,
+    "text": "You know, we're able to build like three year trends of visual get insights and recommendations in less than 30 minutes,"
+  },
+  {
+    "start": 1105.0,
+    "duration": 4.0,
+    "text": "you know, which is which is super impactful for anyone to be able to do."
+  },
+  {
+    "start": 1109.0,
+    "duration": 8.0,
+    "text": "And so when I think about the workflow that changed was, you know, the workflow now is powered not by an individual."
+  },
+  {
+    "start": 1117.0,
+    "duration": 4.0,
+    "text": "It's it's powered by all the systems and infrastructure."
+  },
+  {
+    "start": 1121.0,
+    "duration": 5.0,
+    "text": "And the one thing that, you know, from from a change perspective that we have to think about,"
+  },
+  {
+    "start": 1126.0,
+    "duration": 6.0,
+    "text": "I think it's important is when you talk about the data and you mentioned it earlier,"
+  },
+  {
+    "start": 1132.0,
+    "duration": 6.0,
+    "text": "you know, around ensuring having your data in order, you know, we use data all day, every day."
+  },
+  {
+    "start": 1138.0,
+    "duration": 5.0,
+    "text": "So I don't know a go to market person, an individual that doesn't use data and they know the nuances."
+  },
+  {
+    "start": 1143.0,
+    "duration": 5.0,
+    "text": "So I think in this process, the paradigm had to shift, which is I'm teaching the system."
+  },
+  {
+    "start": 1148.0,
+    "duration": 4.0,
+    "text": "If the system gives me a bad output and I know that it's a bad output,"
+  },
+  {
+    "start": 1152.0,
+    "duration": 5.0,
+    "text": "I'm actually teaching it that it is a bad output. And what is the actual you know,"
+  },
+  {
+    "start": 1157.0,
+    "duration": 3.0,
+    "text": "what is the output should look like or what is the context that's missing?"
+  },
+  {
+    "start": 1160.0,
+    "duration": 5.0,
+    "text": "And then that goes back into the brain. Therefore, it doesn't make that mistake again."
+  },
+  {
+    "start": 1165.0,
+    "duration": 5.0,
+    "text": "And and that was a paradigm shift we had to go through because most people were like, oh, this output's bad."
+  },
+  {
+    "start": 1170.0,
+    "duration": 4.0,
+    "text": "So I'm just going to take the information. I'm going to go somewhere else and I'm going to do the way I'm doing it."
+  },
+  {
+    "start": 1174.0,
+    "duration": 4.0,
+    "text": "You know what I'm saying? It's like, no, no, no. I need you to teach the system that it's bad."
+  },
+  {
+    "start": 1178.0,
+    "duration": 3.0,
+    "text": "Why it's bad. So it doesn't do it again. And you don't have to take the output."
+  },
+  {
+    "start": 1181.0,
+    "duration": 7.0,
+    "text": "But that was like a paradigm shift that had to happen in order from the operators or the users."
+  },
+  {
+    "start": 1188.0,
+    "duration": 4.0,
+    "text": "That was part of this process change to it's like, hey, you get the information."
+  },
+  {
+    "start": 1192.0,
+    "duration": 3.0,
+    "text": "You don't need us, but we need you to teach the system."
+  },
+  {
+    "start": 1195.0,
+    "duration": 6.0,
+    "text": "If you find these like red flags or things that are our issues and in the output that you're getting."
+  },
+  {
+    "start": 1201.0,
+    "duration": 7.0,
+    "text": "What did you build this on? So number one is we have Snowflake as our kind of data layer."
+  },
+  {
+    "start": 1208.0,
+    "duration": 7.0,
+    "text": "The brain is basically a bunch of our code, internal context, things like that."
+  },
+  {
+    "start": 1215.0,
+    "duration": 5.0,
+    "text": "It's all mainly stored in GitHub as a as a repo, but it runs in runtime."
+  },
+  {
+    "start": 1220.0,
+    "duration": 6.0,
+    "text": "So and our runtime is run on AWS. And so we have what's called Agent Core."
+  },
+  {
+    "start": 1226.0,
+    "duration": 4.0,
+    "text": "It has capabilities for orchestration and observability, et cetera."
+  },
+  {
+    "start": 1230.0,
+    "duration": 4.0,
+    "text": "And then the user interfaces, we have a we have a chat user interface that we built."
+  },
+  {
+    "start": 1234.0,
+    "duration": 3.0,
+    "text": "That's just kind of like a simple UX UI that's plugged in."
+  },
+  {
+    "start": 1237.0,
+    "duration": 3.0,
+    "text": "Or you can use it in teams or other places that you work today."
+  },
+  {
+    "start": 1240.0,
+    "duration": 4.0,
+    "text": "So that's kind of the structure in a very simple term."
+  },
+  {
+    "start": 1244.0,
+    "duration": 8.0,
+    "text": "You built the brain, the like the harness that all that pulls all the data, calls the right model and does the intelligence work."
+  },
+  {
+    "start": 1252.0,
+    "duration": 4.0,
+    "text": "Yeah. And I think that's an actually important point. You built it."
+  },
+  {
+    "start": 1256.0,
+    "duration": 5.0,
+    "text": "I think that's the one that, you know, this whole build by thing is kind of, you know, has transitioned a lot."
+  },
+  {
+    "start": 1261.0,
+    "duration": 5.0,
+    "text": "And I think the heart the harness that you're mentioning here, you have to build this."
+  },
+  {
+    "start": 1266.0,
+    "duration": 4.0,
+    "text": "You should not give that to anyone else because all of that is your your secret."
+  },
+  {
+    "start": 1270.0,
+    "duration": 7.0,
+    "text": "It's how your business logic works, how your processes work, it's your company context and information, it's IP, it's all those things."
+  },
+  {
+    "start": 1277.0,
+    "duration": 7.0,
+    "text": "And one of the decisions that was almost about to be made was we were about to put all of this into a third party."
+  },
+  {
+    "start": 1284.0,
+    "duration": 6.0,
+    "text": "And I was and I was like, well, before we do that, how are you going to port it over to something else?"
+  },
+  {
+    "start": 1290.0,
+    "duration": 2.0,
+    "text": "Now you're going to be locked into this third party forever."
+  },
+  {
+    "start": 1292.0,
+    "duration": 4.0,
+    "text": "Number one, that which is which is very big time risk, especially with things are moving."
+  },
+  {
+    "start": 1296.0,
+    "duration": 4.0,
+    "text": "But number two is now that third party has all of that information."
+  },
+  {
+    "start": 1300.0,
+    "duration": 2.0,
+    "text": "Why do you want why you want them to have that information?"
+  },
+  {
+    "start": 1302.0,
+    "duration": 4.0,
+    "text": "So I think that's important. There are certain things, a part of this that you definitely buy."
+  },
+  {
+    "start": 1306.0,
+    "duration": 4.0,
+    "text": "But I think the brain, as I call it, harness those some of those capabilities."
+  },
+  {
+    "start": 1310.0,
+    "duration": 4.0,
+    "text": "Those are all proprietary. I think those are the places that you spend time building."
+  },
+  {
+    "start": 1314.0,
+    "duration": 9.0,
+    "text": "Yeah. If you have the technical capabilities, you know, to do so, which is definitely not the norm in my experience."
+  },
+  {
+    "start": 1323.0,
+    "duration": 3.0,
+    "text": "And I think you can. I agree with you."
+  },
+  {
+    "start": 1326.0,
+    "duration": 4.0,
+    "text": "Like I've written extensively about like you should be building your own intelligence."
+  },
+  {
+    "start": 1330.0,
+    "duration": 6.0,
+    "text": "I think that I think you can build a you can buy a platform to build your intelligence within it."
+  },
+  {
+    "start": 1336.0,
+    "duration": 6.0,
+    "text": "Like Vasco came up on on my last podcast because we were talking about this exact topic."
+  },
+  {
+    "start": 1342.0,
+    "duration": 5.0,
+    "text": "Like, how do you how do you create the right harness to give you the right answers?"
+  },
+  {
+    "start": 1347.0,
+    "duration": 10.0,
+    "text": "Because so much of the time, if you just, you know, MCP your cloud code instance or your cloud desktop instance into a bunch of things and ask it questions, it's lies."
+  },
+  {
+    "start": 1357.0,
+    "duration": 3.0,
+    "text": "It lies to you. It just it fills in the gaps. It makes things up."
+  },
+  {
+    "start": 1360.0,
+    "duration": 3.0,
+    "text": "But, you know, it's trying to give you an answer that you'll say thank you for."
+  },
+  {
+    "start": 1363.0,
+    "duration": 13.0,
+    "text": "Like, that's the RL. It's not RL to be totally accurate because the user doesn't know enough to to have that right feedback loop."
+  },
+  {
+    "start": 1376.0,
+    "duration": 11.0,
+    "text": "And so, like, I think you can use a platform like a Vasco or some of these harnesses as long as you can see the intelligence within it and you can, like, still take it out."
+  },
+  {
+    "start": 1387.0,
+    "duration": 7.0,
+    "text": "And you're you're not like locking away your business logic and all of this stuff forever."
+  },
+  {
+    "start": 1394.0,
+    "duration": 5.0,
+    "text": "But but because it is that compounding asset that is the brain of your company."
+  },
+  {
+    "start": 1399.0,
+    "duration": 5.0,
+    "text": "Yeah, 100 percent. I think that, you know, the portability is the most important factor if you're going to do it."
+  },
+  {
+    "start": 1404.0,
+    "duration": 5.0,
+    "text": "Because is it portable and how easy is it to because you may to your point, you may outgrow it."
+  },
+  {
+    "start": 1409.0,
+    "duration": 5.0,
+    "text": "You may get too deep in or you may eventually have the expertise that can that can build it."
+  },
+  {
+    "start": 1414.0,
+    "duration": 3.0,
+    "text": "So I think that that portability is definitely the most important piece."
+  },
+  {
+    "start": 1417.0,
+    "duration": 5.0,
+    "text": "What was so that I think that's a good example of like, you know, a bunch of these layers."
+  },
+  {
+    "start": 1422.0,
+    "duration": 4.0,
+    "text": "You talked about how you where you had to put the data and how you had to do it."
+  },
+  {
+    "start": 1426.0,
+    "duration": 6.0,
+    "text": "And the the semantic layer, the brain and the workflows and interface."
+  },
+  {
+    "start": 1432.0,
+    "duration": 12.0,
+    "text": "How much data work was there to like data work plus plus translation layer, like semantic layer that you needed before you could get accurate answers out of this thing?"
+  },
+  {
+    "start": 1444.0,
+    "duration": 6.0,
+    "text": "Yeah. So I think the biggest thing here was we didn't bite off more than we could choose."
+  },
+  {
+    "start": 1451.0,
+    "duration": 8.0,
+    "text": "That is we started and said, OK, where do we, you know, at the end of the day, we work with the data every day and we know where there are a ton of gaps."
+  },
+  {
+    "start": 1459.0,
+    "duration": 3.0,
+    "text": "So and so are you. You know, so does everyone across the organization."
+  },
+  {
+    "start": 1462.0,
+    "duration": 4.0,
+    "text": "They have their own like, hey, here's I have gaps here. So I have to do this, et cetera."
+  },
+  {
+    "start": 1466.0,
+    "duration": 13.0,
+    "text": "So the key for us was start with high impactful workflows where we knew what data we had and that it was good enough or we knew what the gaps were."
+  },
+  {
+    "start": 1479.0,
+    "duration": 6.0,
+    "text": "So we could actually, again, fill in those gaps with that context and that information in the brain."
+  },
+  {
+    "start": 1485.0,
+    "duration": 3.0,
+    "text": "And so that's kind of where we started."
+  },
+  {
+    "start": 1489.0,
+    "duration": 7.0,
+    "text": "And going back to the point I was making about the user, then providing the inputs, that was the key to make the data better."
+  },
+  {
+    "start": 1496.0,
+    "duration": 8.0,
+    "text": "So it was like every time we use. So it's almost like today when you use a CRM, a lot of times, every time someone uses a CRM, the data gets worse."
+  },
+  {
+    "start": 1504.0,
+    "duration": 8.0,
+    "text": "But in this scenario, what we wanted and the way we thought about it was as they use it and correct it, I need the data to get better."
+  },
+  {
+    "start": 1512.0,
+    "duration": 6.0,
+    "text": "So as I'm using the system, the data is getting better. And that was kind of the way that we went about approaching it."
+  },
+  {
+    "start": 1519.0,
+    "duration": 9.0,
+    "text": "And so we approached it on high impact workflows that we knew we had data or and or we knew what the context was missing that we needed to fill in."
+  },
+  {
+    "start": 1529.0,
+    "duration": 4.0,
+    "text": "And then over time, our data got better and better because we had two components."
+  },
+  {
+    "start": 1533.0,
+    "duration": 6.0,
+    "text": "We had a user component that was making it better. And then we still were working on the data as an ongoing thing."
+  },
+  {
+    "start": 1539.0,
+    "duration": 4.0,
+    "text": "Like, let's, you know, let's make sure that we fix this. Let's make sure we map these relationships."
+  },
+  {
+    "start": 1543.0,
+    "duration": 3.0,
+    "text": "These tables are correct. And we're building that semantic layer, etc."
+  },
+  {
+    "start": 1546.0,
+    "duration": 9.0,
+    "text": "So it's kind of like a two pronged approach, if you will. And that's kind of how we continue to iterate over time for it to get better and better and better."
+  },
+  {
+    "start": 1556.0,
+    "duration": 7.0,
+    "text": "And so that like structural work was done with your data team. Did you bring in an outside vendor?"
+  },
+  {
+    "start": 1564.0,
+    "duration": 7.0,
+    "text": "It was done with our data team and with the help, honestly, of of our our vendor partner that we use for our data warehouse."
+  },
+  {
+    "start": 1571.0,
+    "duration": 9.0,
+    "text": "So they have a lot of resources that helped us out with understanding more about how to do it, why to do it, how to approach it, etc."
+  },
+  {
+    "start": 1580.0,
+    "duration": 4.0,
+    "text": "But we did have some expertise internally as well. But we obviously and I think that's important."
+  },
+  {
+    "start": 1584.0,
+    "duration": 6.0,
+    "text": "If you've got a data lake or you've got a third party vendor that you use, you know, leverage them for their expertise and help to."
+  },
+  {
+    "start": 1590.0,
+    "duration": 3.0,
+    "text": "And so that was the Snowflake team or that was like a Snowflake team?"
+  },
+  {
+    "start": 1593.0,
+    "duration": 2.0,
+    "text": "Yeah. Snowflake team. Yeah."
+  },
+  {
+    "start": 1595.0,
+    "duration": 6.0,
+    "text": "Shout out Snowflake. That's a high quality customers, customer support."
+  },
+  {
+    "start": 1601.0,
+    "duration": 4.0,
+    "text": "It was it was 100 percent high quality customer support."
+  },
+  {
+    "start": 1605.0,
+    "duration": 12.0,
+    "text": "Yeah. That's half the battle now with with some of these with some of these programs is like, can you get the right FD from this partner to actually like stitch it all together?"
+  },
+  {
+    "start": 1617.0,
+    "duration": 9.0,
+    "text": "Yeah. Yeah. So one of the one of the questions I get asked a lot is like, how do I get people to agree to do this work?"
+  },
+  {
+    "start": 1626.0,
+    "duration": 6.0,
+    "text": "You know, how do I how do I get the data team to spend the time on go to market data?"
+  },
+  {
+    "start": 1632.0,
+    "duration": 6.0,
+    "text": "Because oftentimes they're getting pulled into product stuff or there's a lot of mouths to feed."
+  },
+  {
+    "start": 1639.0,
+    "duration": 5.0,
+    "text": "If you're a data team like that, that that's there's the hottest of commodities today."
+  },
+  {
+    "start": 1644.0,
+    "duration": 6.0,
+    "text": "And so did you have to do much to convince folks that this was a high priority area?"
+  },
+  {
+    "start": 1650.0,
+    "duration": 5.0,
+    "text": "Because it seems like you got this done earlier than many."
+  },
+  {
+    "start": 1655.0,
+    "duration": 6.0,
+    "text": "Any any like advice to people trying to build organizational momentum around this topic?"
+  },
+  {
+    "start": 1661.0,
+    "duration": 5.0,
+    "text": "So I'll tell you what I tried and failed."
+  },
+  {
+    "start": 1666.0,
+    "duration": 5.0,
+    "text": "That may work other places. And then I'll tell you what we did. How about that?"
+  },
+  {
+    "start": 1671.0,
+    "duration": 8.0,
+    "text": "Yeah, that's great. So so what we tried and failed was exactly what you just said, which was we tried to make it help them make it a priority."
+  },
+  {
+    "start": 1679.0,
+    "duration": 5.0,
+    "text": "And the way we tried to do it was, look, at the end of the day."
+  },
+  {
+    "start": 1684.0,
+    "duration": 4.0,
+    "text": "The revenue organization is driving the growth, right?"
+  },
+  {
+    "start": 1688.0,
+    "duration": 8.0,
+    "text": "If you think about the revenue that feeds all of us and keeps this business alive, we've got expansion."
+  },
+  {
+    "start": 1696.0,
+    "duration": 8.0,
+    "text": "You've got retention and you've got acquisition. So without those three things, which all fall on the revenue team and go to market,"
+  },
+  {
+    "start": 1704.0,
+    "duration": 4.0,
+    "text": "you know, without those three things, we don't have a data team. We don't have a product."
+  },
+  {
+    "start": 1708.0,
+    "duration": 5.0,
+    "text": "We don't have anything. Right. So we should think about how to prioritize the needs,"
+  },
+  {
+    "start": 1713.0,
+    "duration": 6.0,
+    "text": "because ultimately what this does is it allows us to make the right coordinated turns."
+  },
+  {
+    "start": 1719.0,
+    "duration": 4.0,
+    "text": "It lets us make the right initiatives to get past the green."
+  },
+  {
+    "start": 1723.0,
+    "duration": 7.0,
+    "text": "If we're behind, it allows us to understand the green shoots for us to then double down there because we have a channel working or emotion"
+  },
+  {
+    "start": 1730.0,
+    "duration": 3.0,
+    "text": "working or something like that for us to continue to drive and grow the revenue."
+  },
+  {
+    "start": 1733.0,
+    "duration": 5.0,
+    "text": "So if we need an ROI, this is the easiest ROI to get."
+  },
+  {
+    "start": 1738.0,
+    "duration": 5.0,
+    "text": "So that was the pitch. I thought it was convincing. You can tell me that it's not, but I thought it was convincing."
+  },
+  {
+    "start": 1743.0,
+    "duration": 5.0,
+    "text": "And I was like, this makes complete sense in my brain. Why do you not see that?"
+  },
+  {
+    "start": 1748.0,
+    "duration": 8.0,
+    "text": "So we got a little bit of momentum by doing that, but it wasn't enough to, you know, slow and stutter."
+  },
+  {
+    "start": 1756.0,
+    "duration": 10.0,
+    "text": "So what did we do? We convinced and decided to actually allocate some of our budgeted headcount to the data team."
+  },
+  {
+    "start": 1766.0,
+    "duration": 6.0,
+    "text": "And that's actually what ended up solving it was saying, looking at the org, looking how important this is."
+  },
+  {
+    "start": 1772.0,
+    "duration": 5.0,
+    "text": "And said, OK, in our in our planning, in our budget, we're actually going to allocate, you know,"
+  },
+  {
+    "start": 1777.0,
+    "duration": 7.0,
+    "text": "two, three FTEs of the overall revenue organization to this because it's so important."
+  },
+  {
+    "start": 1784.0,
+    "duration": 7.0,
+    "text": "And we understand, you know, just like I pitched to you again, you know, you can give me feedback on the Shark Tank if you invest or not."
+  },
+  {
+    "start": 1791.0,
+    "duration": 7.0,
+    "text": "But ultimately, that was kind of what what actually happened in the solution was we gave budgeted headcounts."
+  },
+  {
+    "start": 1798.0,
+    "duration": 3.0,
+    "text": "So I hired new. Yes."
+  },
+  {
+    "start": 1801.0,
+    "duration": 8.0,
+    "text": "So then the higher net new people that were specifically focused on our domain and that we use specifically for that and nothing else."
+  },
+  {
+    "start": 1809.0,
+    "duration": 4.0,
+    "text": "And sure, they could have flex labor, but that was ultimately the solution."
+  },
+  {
+    "start": 1813.0,
+    "duration": 5.0,
+    "text": "It wasn't it wasn't the great pitch that I thought we had. So not uncommon."
+  },
+  {
+    "start": 1819.0,
+    "duration": 4.0,
+    "text": "And actually, this is something I've done. I've done myself."
+  },
+  {
+    "start": 1823.0,
+    "duration": 6.0,
+    "text": "I mean, like, hey, I will give up headcount if you if you allocate it to this team and it's dedicated."
+  },
+  {
+    "start": 1829.0,
+    "duration": 10.0,
+    "text": "Like the the when when we raised our series, see the first role that I put into the new headcount plan was an applied leader for sales."
+  },
+  {
+    "start": 1839.0,
+    "duration": 6.0,
+    "text": "And ultimately we put that headcount in the data and biz ops team."
+  },
+  {
+    "start": 1845.0,
+    "duration": 6.0,
+    "text": "But that was like I was like, this is what I'm carving out above anything else because it's so important."
+  },
+  {
+    "start": 1851.0,
+    "duration": 7.0,
+    "text": "And the right the right place to live in the org chart ended up being somewhere else, which is fine."
+  },
+  {
+    "start": 1858.0,
+    "duration": 5.0,
+    "text": "Like I just needed the work to get done. And I've seen this in other places."
+  },
+  {
+    "start": 1863.0,
+    "duration": 6.0,
+    "text": "So I think that's probably a pattern that that is replicable."
+  },
+  {
+    "start": 1870.0,
+    "duration": 5.0,
+    "text": "I wish I wish I had a better answer, but that's no, that's what I think."
+  },
+  {
+    "start": 1875.0,
+    "duration": 7.0,
+    "text": "It's a great answer because it's actually useful because I see I've had conversations recently on this topic."
+  },
+  {
+    "start": 1882.0,
+    "duration": 2.0,
+    "text": "It's like, oh, yeah, like we want to do this."
+  },
+  {
+    "start": 1884.0,
+    "duration": 5.0,
+    "text": "But the data team is telling me it's six weeks and it won't get picked up for another whatever."
+  },
+  {
+    "start": 1889.0,
+    "duration": 8.0,
+    "text": "And and it's like our brains don't compute that because our brains are like, but this is the money."
+  },
+  {
+    "start": 1897.0,
+    "duration": 6.0,
+    "text": "Like this is where the money comes from that powers everything else that we want to do as a business."
+  },
+  {
+    "start": 1903.0,
+    "duration": 11.0,
+    "text": "But if you're just not if you don't live as close to revenue and GTM, sometimes like all those other things feel just as important because you're just another stakeholder."
+  },
+  {
+    "start": 1914.0,
+    "duration": 2.0,
+    "text": "Like, yeah, you're the money stakeholder."
+  },
+  {
+    "start": 1916.0,
+    "duration": 7.0,
+    "text": "But to them, you know, like, why are you any more important than the VP of product or the the CFO or the whatever?"
+  },
+  {
+    "start": 1923.0,
+    "duration": 2.0,
+    "text": "They're all important people in the business."
+  },
+  {
+    "start": 1925.0,
+    "duration": 7.0,
+    "text": "And so I think your approach is reasonably is a reasonable takeaway."
+  },
+  {
+    "start": 1934.0,
+    "duration": 1.0,
+    "text": "Oh, yes."
+  },
+  {
+    "start": 1935.0,
+    "duration": 3.0,
+    "text": "If it was if it was much easier, man, we'd all be doing it, I guess."
+  },
+  {
+    "start": 1939.0,
+    "duration": 1.0,
+    "text": "Yeah, exactly."
+  },
+  {
+    "start": 1942.0,
+    "duration": 6.0,
+    "text": "So when I talk orchestration, because I think this is this is a topic that I've started to talk and write about a lot more."
+  },
+  {
+    "start": 1948.0,
+    "duration": 3.0,
+    "text": "This sort of like meta harness company brain."
+  },
+  {
+    "start": 1951.0,
+    "duration": 2.0,
+    "text": "I use the word company brain in a different way than you."
+  },
+  {
+    "start": 1953.0,
+    "duration": 11.0,
+    "text": "But this is a like, especially for companies that are more successful with their initiatives are now all feeling the sprawl."
+  },
+  {
+    "start": 1964.0,
+    "duration": 5.0,
+    "text": "It's like, oh, geez, like, actually, Rev Ops is building stuff and growth marketing."
+  },
+  {
+    "start": 1969.0,
+    "duration": 2.0,
+    "text": "And some of the sales leaders built their own things."
+  },
+  {
+    "start": 1971.0,
+    "duration": 1.0,
+    "text": "And then the data team."
+  },
+  {
+    "start": 1972.0,
+    "duration": 2.0,
+    "text": "And then there's a central applied organization."
+  },
+  {
+    "start": 1974.0,
+    "duration": 11.0,
+    "text": "And so now you have this sprawl of agents and some people might be like hosting it on their own, you know, for sell account, just like with their company credit card in it."
+  },
+  {
+    "start": 1985.0,
+    "duration": 5.0,
+    "text": "And some people are building something that is like more, you know, well structured."
+  },
+  {
+    "start": 1991.0,
+    "duration": 5.0,
+    "text": "You've got like ramp that that wrote that whole thing about glass and like cursor has a cool platform for it."
+  },
+  {
+    "start": 1997.0,
+    "duration": 6.0,
+    "text": "But I think the common experience is for the sprawl to happen and then for it to not really talk to one another."
+  },
+  {
+    "start": 2003.0,
+    "duration": 14.0,
+    "text": "But then they some of these agents are all actually trying to talk to the same places in an uncoordinated fashion and like tripping over one another and sometimes sending like a customer, like multiples of duplicative emails."
+  },
+  {
+    "start": 2018.0,
+    "duration": 3.0,
+    "text": "And so how have you solved this orchestration problem?"
+  },
+  {
+    "start": 2021.0,
+    "duration": 2.0,
+    "text": "And like what what was the strategy?"
+  },
+  {
+    "start": 2023.0,
+    "duration": 4.0,
+    "text": "What were the tools to get this all to work harmoniously?"
+  },
+  {
+    "start": 2027.0,
+    "duration": 9.0,
+    "text": "It's valuable when it's connected into what you're talking about, the harness and the brain, because you actually can get better outputs and better outcomes."
+  },
+  {
+    "start": 2036.0,
+    "duration": 7.0,
+    "text": "And that's actually what the user wants, whether you're in sales, marketing, whatever, all what you're trying to do is get to an outcome and a job to be done."
+  },
+  {
+    "start": 2043.0,
+    "duration": 3.0,
+    "text": "And so having that connection piece is is is super powerful."
+  },
+  {
+    "start": 2047.0,
+    "duration": 1.0,
+    "text": "The second thing is."
+  },
+  {
+    "start": 2049.0,
+    "duration": 5.0,
+    "text": "So you didn't have like different teams just building like randomly on their own."
+  },
+  {
+    "start": 2055.0,
+    "duration": 9.0,
+    "text": "If we did, it wasn't enough to like know that it was happening or in fact, because the other side of their own clod instance and like maybe a couple of skills."
+  },
+  {
+    "start": 2064.0,
+    "duration": 1.0,
+    "text": "Yeah, maybe."
+  },
+  {
+    "start": 2065.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2066.0,
+    "duration": 4.0,
+    "text": "Because the other side of this was that we we made a decision to give everyone."
+  },
+  {
+    "start": 2070.0,
+    "duration": 2.0,
+    "text": "I think this is also where constraints happen."
+  },
+  {
+    "start": 2072.0,
+    "duration": 5.0,
+    "text": "Give everyone access to AI capabilities and tools that were connected."
+  },
+  {
+    "start": 2077.0,
+    "duration": 5.0,
+    "text": "And so I think a lot of times some people, you know, at least the ones I talk to are such."
+  },
+  {
+    "start": 2082.0,
+    "duration": 1.0,
+    "text": "And we did this at the beginning."
+  },
+  {
+    "start": 2083.0,
+    "duration": 5.0,
+    "text": "We only had a set group or a set number of people that had it."
+  },
+  {
+    "start": 2088.0,
+    "duration": 4.0,
+    "text": "And what we learned was a it pissed a bunch of people off."
+  },
+  {
+    "start": 2092.0,
+    "duration": 7.0,
+    "text": "Be, you know, this kind of, oh, hey, I used I used you kept hearing other tools being used."
+  },
+  {
+    "start": 2099.0,
+    "duration": 1.0,
+    "text": "You're like, we're using that for."
+  },
+  {
+    "start": 2101.0,
+    "duration": 3.0,
+    "text": "And so we kind of went through this a little bit at the very beginning."
+  },
+  {
+    "start": 2105.0,
+    "duration": 4.0,
+    "text": "And so we knew that it had to be, you know, number one, we had to give access to people's thing."
+  },
+  {
+    "start": 2109.0,
+    "duration": 1.0,
+    "text": "Number one's access."
+  },
+  {
+    "start": 2111.0,
+    "duration": 1.0,
+    "text": "Number two, it has to be connected."
+  },
+  {
+    "start": 2112.0,
+    "duration": 4.0,
+    "text": "So we have all the tools that we give people that connected to the right places."
+  },
+  {
+    "start": 2117.0,
+    "duration": 10.0,
+    "text": "And what's cool about this agent core with AWS is that, you know, regardless of where you're at, you can build these agents pretty easily."
+  },
+  {
+    "start": 2127.0,
+    "duration": 1.0,
+    "text": "Because, I mean, as you know, you're in it."
+  },
+  {
+    "start": 2128.0,
+    "duration": 3.0,
+    "text": "The agent is the easiest thing to build of all this."
+  },
+  {
+    "start": 2132.0,
+    "duration": 1.0,
+    "text": "You know how to build one."
+  },
+  {
+    "start": 2133.0,
+    "duration": 1.0,
+    "text": "It's like the easiest piece of it."
+  },
+  {
+    "start": 2134.0,
+    "duration": 8.0,
+    "text": "So you can spin up a ton of agents and really good if you've got the right framework, if there can be connected to the tools and context, et cetera."
+  },
+  {
+    "start": 2142.0,
+    "duration": 4.0,
+    "text": "And so we started building these agents and then we started showcasing what was being built."
+  },
+  {
+    "start": 2147.0,
+    "duration": 9.0,
+    "text": "So we ran these like weekly and we still have these weekly like show us what you did with AI this week or these kind of open shows where people will come and they'll showcase what they did, how they did it, et cetera."
+  },
+  {
+    "start": 2157.0,
+    "duration": 4.0,
+    "text": "And so we had this kind of centralized building of agents."
+  },
+  {
+    "start": 2161.0,
+    "duration": 4.0,
+    "text": "And then we started to work these bottom up to your to your point."
+  },
+  {
+    "start": 2165.0,
+    "duration": 1.0,
+    "text": "Bottoms up."
+  },
+  {
+    "start": 2166.0,
+    "duration": 5.0,
+    "text": "Hey, instead of like going to some other tool, just build an agent here and here's how easy it can be."
+  },
+  {
+    "start": 2171.0,
+    "duration": 2.0,
+    "text": "But it's going to be connected, et cetera."
+  },
+  {
+    "start": 2173.0,
+    "duration": 6.0,
+    "text": "So I think that approach really kind of helped us not have a bunch of this sprawl."
+  },
+  {
+    "start": 2179.0,
+    "duration": 9.0,
+    "text": "And I'm sure we had some of this to your point at the very beginning when people didn't have access because we were forcing them to go do something because they wanted to use AI."
+  },
+  {
+    "start": 2188.0,
+    "duration": 3.0,
+    "text": "They wanted to do it, but they didn't have the ability to."
+  },
+  {
+    "start": 2191.0,
+    "duration": 6.0,
+    "text": "And so I think I think that all has to my knowledge, maybe they're still in these pockets."
+  },
+  {
+    "start": 2197.0,
+    "duration": 1.0,
+    "text": "Who knows?"
+  },
+  {
+    "start": 2198.0,
+    "duration": 3.0,
+    "text": "But but ultimately now it's well more connected."
+  },
+  {
+    "start": 2201.0,
+    "duration": 4.0,
+    "text": "It's decentralized building and centralized building and it's all connected internally, too."
+  },
+  {
+    "start": 2205.0,
+    "duration": 4.0,
+    "text": "So it makes it makes life for everyone a lot easier and they get the best output."
+  },
+  {
+    "start": 2209.0,
+    "duration": 13.0,
+    "text": "And so is agent core like a user experience that I can go into and like it walks me through how to build an agent or are they are they like accessing agent core through their own cloud code instance?"
+  },
+  {
+    "start": 2222.0,
+    "duration": 6.0,
+    "text": "Like you can access it through your own cloud, your own codecs, your own your own instance."
+  },
+  {
+    "start": 2228.0,
+    "duration": 4.0,
+    "text": "So then the interface is is multichannel, if you will."
+  },
+  {
+    "start": 2232.0,
+    "duration": 1.0,
+    "text": "So headless."
+  },
+  {
+    "start": 2233.0,
+    "duration": 1.0,
+    "text": "But the back. Yeah, it's headless."
+  },
+  {
+    "start": 2234.0,
+    "duration": 7.0,
+    "text": "But the back end is all connected to kind of AWS and agent core, which was really helpful for us, obviously, for obvious reasons."
+  },
+  {
+    "start": 2241.0,
+    "duration": 7.0,
+    "text": "You know, to have that kind of next level where the agents live, how they orchestrate all connected with multiple interfaces."
+  },
+  {
+    "start": 2249.0,
+    "duration": 1.0,
+    "text": "OK, that's cool."
+  },
+  {
+    "start": 2250.0,
+    "duration": 4.0,
+    "text": "And I would imagine because you guys are regulated industry like your experience."
+  },
+  {
+    "start": 2254.0,
+    "duration": 1.0,
+    "text": "Very regular."
+  },
+  {
+    "start": 2255.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2256.0,
+    "duration": 1.0,
+    "text": "We're in health tech."
+  },
+  {
+    "start": 2257.0,
+    "duration": 2.0,
+    "text": "So, yeah, HIPAA, you know, all this stuff."
+  },
+  {
+    "start": 2259.0,
+    "duration": 8.0,
+    "text": "So and so it's at the agent core level where you would put in all of the governance and permissions and tell people like what they can and can't access."
+  },
+  {
+    "start": 2267.0,
+    "duration": 8.0,
+    "text": "And like you're able to manage all that at the at the with this one surface."
+  },
+  {
+    "start": 2275.0,
+    "duration": 1.0,
+    "text": "That's right."
+  },
+  {
+    "start": 2276.0,
+    "duration": 1.0,
+    "text": "That's right."
+  },
+  {
+    "start": 2277.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2278.0,
+    "duration": 8.0,
+    "text": "With this one with one surface not to be interchanged with the interface that people use, but the surface layer under it, to your point, is where we can manage all of this stuff."
+  },
+  {
+    "start": 2286.0,
+    "duration": 11.0,
+    "text": "And I think what you just said actually is probably for the audience to probably one of the reasons why we didn't have a lot of sprawl is because people, you know, because we're regulated, because we're in health care."
+  },
+  {
+    "start": 2297.0,
+    "duration": 7.0,
+    "text": "People understand that, you know, doing this is like eliminating your job, basically."
+  },
+  {
+    "start": 2305.0,
+    "duration": 5.0,
+    "text": "So that probably had some some things to do with why it wasn't just going crazy, too."
+  },
+  {
+    "start": 2310.0,
+    "duration": 7.0,
+    "text": "So there's probably a little bit, you know, unique variables to our situation, too, especially because you guys are regulated."
+  },
+  {
+    "start": 2317.0,
+    "duration": 4.0,
+    "text": "The progress you've made with AI is is even more impressive."
+  },
+  {
+    "start": 2322.0,
+    "duration": 2.0,
+    "text": "I see so many companies."
+  },
+  {
+    "start": 2324.0,
+    "duration": 10.0,
+    "text": "I spoke in an event a couple of days ago, winning my design thing, and, you know, somebody piped up and was like, well, like, you know, what about regulated?"
+  },
+  {
+    "start": 2334.0,
+    "duration": 1.0,
+    "text": "And you can't do this."
+  },
+  {
+    "start": 2335.0,
+    "duration": 1.0,
+    "text": "You can't do that."
+  },
+  {
+    "start": 2336.0,
+    "duration": 3.0,
+    "text": "And like, I'm pretty honest with these things."
+  },
+  {
+    "start": 2339.0,
+    "duration": 1.0,
+    "text": "I'm like, I don't know."
+  },
+  {
+    "start": 2340.0,
+    "duration": 6.0,
+    "text": "Like, I sold the restaurants like we are very much not doing what you're doing."
+  },
+  {
+    "start": 2346.0,
+    "duration": 8.0,
+    "text": "And I've heard this feedback previously, like, you know, oh, you can't do that because it's you know, we're in finance."
+  },
+  {
+    "start": 2354.0,
+    "duration": 2.0,
+    "text": "We're in finance tech."
+  },
+  {
+    "start": 2356.0,
+    "duration": 2.0,
+    "text": "And but you can."
+  },
+  {
+    "start": 2358.0,
+    "duration": 7.0,
+    "text": "It just takes a different level of, I think, coordination that you guys have done."
+  },
+  {
+    "start": 2365.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 2366.0,
+    "duration": 1.0,
+    "text": "And I would say two things."
+  },
+  {
+    "start": 2368.0,
+    "duration": 10.0,
+    "text": "The great thing about go to market is that you're not really using any data in this sense, unless it's coming from like a customer success call where someone brings it up because it's regulated."
+  },
+  {
+    "start": 2378.0,
+    "duration": 1.0,
+    "text": "So like that."
+  },
+  {
+    "start": 2379.0,
+    "duration": 7.0,
+    "text": "So the in go to market, the likelihood of you using data that's non-HIPAA compliant or PHR stuff is super small."
+  },
+  {
+    "start": 2386.0,
+    "duration": 8.0,
+    "text": "But to your point, the problem is in this industry, people think about everything as regulated and they put it all in the same bucket."
+  },
+  {
+    "start": 2394.0,
+    "duration": 6.0,
+    "text": "So that was the that was the part it took us time to unravel a little bit was the thinking around it."
+  },
+  {
+    "start": 2400.0,
+    "duration": 11.0,
+    "text": "And then AWS, again, is, you know, allows us to like have these controls and these walled gardens to make sure that we stay with inside of the compliance."
+  },
+  {
+    "start": 2411.0,
+    "duration": 7.0,
+    "text": "So that has been really that infrastructure level has been super critical for us to be able to do it and feel confident to do it."
+  },
+  {
+    "start": 2419.0,
+    "duration": 10.0,
+    "text": "This is the harness concept, because your harness is basically whatever you've built an agent core that says, you know, these users can access this data."
+  },
+  {
+    "start": 2429.0,
+    "duration": 13.0,
+    "text": "It's like because, you know, it's all in Snowflake, but you're saying, OK, these users get access to these tables that are that are non-HIPAA PHI data and they can do these things."
+  },
+  {
+    "start": 2443.0,
+    "duration": 17.0,
+    "text": "And do in that in that experience, is there like agent management where you've given them the ability to like build or run evals or you can like monitor what agents are doing what so you can like help improve them over time?"
+  },
+  {
+    "start": 2460.0,
+    "duration": 5.0,
+    "text": "Like what else is in the harness of that agent core platform?"
+  },
+  {
+    "start": 2466.0,
+    "duration": 10.0,
+    "text": "Yes. So it has governance to your point on it has the ability to kind of see and measure outputs as the evals where it's natively built in."
+  },
+  {
+    "start": 2476.0,
+    "duration": 3.0,
+    "text": "It has that kind of own its own capability to do evals."
+  },
+  {
+    "start": 2479.0,
+    "duration": 6.0,
+    "text": "We've got the permissions. So exactly to your point, what permission should the individual have?"
+  },
+  {
+    "start": 2485.0,
+    "duration": 9.0,
+    "text": "That's the user. So it allows us to do all of these things, which, again, if we didn't have, we wouldn't be able to do everything that I'm mentioning."
+  },
+  {
+    "start": 2494.0,
+    "duration": 6.0,
+    "text": "And I will say we still have a lot of work to do. So while it sounds great, I mean, we still have access controls that we have to go through."
+  },
+  {
+    "start": 2500.0,
+    "duration": 6.0,
+    "text": "We said we still run into a lot of the things that enterprise scale companies would do that."
+  },
+  {
+    "start": 2506.0,
+    "duration": 4.0,
+    "text": "You know, so I wish we had everything that my personal system has. We do not."
+  },
+  {
+    "start": 2510.0,
+    "duration": 5.0,
+    "text": "So I'm not not here to also say it's like sunshine and rainbows because there are issues."
+  },
+  {
+    "start": 2516.0,
+    "duration": 4.0,
+    "text": "But ultimately, I do feel like we have made really good progress in where we're at."
+  },
+  {
+    "start": 2520.0,
+    "duration": 10.0,
+    "text": "And I think that AWS and agent core has been a really big internal seller for us to be able to do more because of all the options that they offer."
+  },
+  {
+    "start": 2530.0,
+    "duration": 7.0,
+    "text": "So, yeah. Yeah, that makes sense. And I think these are good takeaways for folks."
+  },
+  {
+    "start": 2537.0,
+    "duration": 17.0,
+    "text": "Like if I if I framed it up, you know, once you get to a maturity level where you've got some stuff happening here and there and you've got, you know, like a bunch of successful agents and workflows and you've you've built some things into your GTM stack and you're starting to."
+  },
+  {
+    "start": 2554.0,
+    "duration": 4.0,
+    "text": "This is like the next layer of sophistication, I would say."
+  },
+  {
+    "start": 2559.0,
+    "duration": 5.0,
+    "text": "And so if we go back, like I gave the Sasser talk, I think I sent you the deck beforehand for feedback, actually."
+  },
+  {
+    "start": 2564.0,
+    "duration": 9.0,
+    "text": "And so, you know, level one is like people just using chat as a as a replacement for Google searching."
+  },
+  {
+    "start": 2573.0,
+    "duration": 4.0,
+    "text": "And then you've got like level two is sort of, yeah, you've got some successful agents."
+  },
+  {
+    "start": 2577.0,
+    "duration": 5.0,
+    "text": "You're now running some good AI workflows and level three is AI as infrastructure."
+  },
+  {
+    "start": 2582.0,
+    "duration": 2.0,
+    "text": "And this is AI as infrastructure."
+  },
+  {
+    "start": 2584.0,
+    "duration": 14.0,
+    "text": "This is now you're building things that then people can build within so that it can be more productive than if they were just like vibe coding it themselves because you don't need to do all the MCPs and integration work yourself."
+  },
+  {
+    "start": 2598.0,
+    "duration": 7.0,
+    "text": "You don't have to, like, make your governance basically just like you building a monster skill file."
+  },
+  {
+    "start": 2605.0,
+    "duration": 20.0,
+    "text": "This, I think, is very much like the level three sophistication of like you've now built the infrastructure that people can build on and go faster and be more successful and ultimately gives you the platform to get to level four, which is that like recursive self-improving loop where everything is in one set of infrastructure."
+  },
+  {
+    "start": 2625.0,
+    "duration": 9.0,
+    "text": "Now you can have agents watching the agents and building agents and improving other agents and, you know, maybe not in regulated."
+  },
+  {
+    "start": 2634.0,
+    "duration": 3.0,
+    "text": "You have the agents just like doing their own thing recursively."
+  },
+  {
+    "start": 2637.0,
+    "duration": 17.0,
+    "text": "But, you know, like you have an inspection agent like you and I were texting about grok bot and it's like I have a set up grok bot that also monitors all of the other bots that I've built that can then look for opportunities for improvement."
+  },
+  {
+    "start": 2654.0,
+    "duration": 12.0,
+    "text": "And like you so you're starting like I only did that just because it's like cool and interesting and I'm like trying to learn some of these things on my own and we'll talk about like personal AI in a bit."
+  },
+  {
+    "start": 2666.0,
+    "duration": 8.0,
+    "text": "But I think like we're the best companies are getting here like sort of now where there's there's like glimmers of the recursive."
+  },
+  {
+    "start": 2674.0,
+    "duration": 2.0,
+    "text": "Have you guys experimented with any of that?"
+  },
+  {
+    "start": 2676.0,
+    "duration": 2.0,
+    "text": "Like agents watching things yet?"
+  },
+  {
+    "start": 2678.0,
+    "duration": 2.0,
+    "text": "No, not fully."
+  },
+  {
+    "start": 2680.0,
+    "duration": 6.0,
+    "text": "We have we have we've been trying to kind of think about how can it watch, you know, different code."
+  },
+  {
+    "start": 2686.0,
+    "duration": 3.0,
+    "text": "It's more prevalent in our engineering than anywhere."
+  },
+  {
+    "start": 2689.0,
+    "duration": 3.0,
+    "text": "I'll say, yeah, but not but not outside of that."
+  },
+  {
+    "start": 2692.0,
+    "duration": 14.0,
+    "text": "So there's there's some things going on there and like to your point on, you know, grok bot, you know, trying to get I have I have one to kind of go in and like poke at all the things I've built other apps and things and like poke around in there to see if it would give me any feedback or if things are messed up."
+  },
+  {
+    "start": 2706.0,
+    "duration": 7.0,
+    "text": "So I think that's kind of the next the next step of how do we take this to go to market?"
+  },
+  {
+    "start": 2713.0,
+    "duration": 3.0,
+    "text": "But we have not done that yet on the level four, as you're mentioning."
+  },
+  {
+    "start": 2716.0,
+    "duration": 11.0,
+    "text": "And one thing I'll just say for the audience is, you know, you're also and you probably know this, but I think disclaimer, you're talking to two folks that have been like on the bleeding edge and speed of this."
+  },
+  {
+    "start": 2727.0,
+    "duration": 4.0,
+    "text": "So I will say internally, we have people still at all of those levels."
+  },
+  {
+    "start": 2731.0,
+    "duration": 5.0,
+    "text": "We still have people that use a that think it's a better search mechanism than anything else."
+  },
+  {
+    "start": 2736.0,
+    "duration": 3.0,
+    "text": "And then we have people that are utilizing infrastructure and building agents in it."
+  },
+  {
+    "start": 2739.0,
+    "duration": 2.0,
+    "text": "We have a large spectrum across the thing."
+  },
+  {
+    "start": 2741.0,
+    "duration": 6.0,
+    "text": "So so don't think like, oh, shit, I'm behind or or oh, my gosh, just like, no, you know, this is a journey."
+  },
+  {
+    "start": 2747.0,
+    "duration": 3.0,
+    "text": "And I think just people are on different different phases of that journey."
+  },
+  {
+    "start": 2750.0,
+    "duration": 3.0,
+    "text": "So let's talk about org chart and org structure."
+  },
+  {
+    "start": 2753.0,
+    "duration": 4.0,
+    "text": "So there's sort of two flavors of this that I want to unpack."
+  },
+  {
+    "start": 2758.0,
+    "duration": 4.0,
+    "text": "One is, is how have you built it and who's doing the work?"
+  },
+  {
+    "start": 2762.0,
+    "duration": 10.0,
+    "text": "And like, how have you coordinated with these other functions to understand, like what projects to take on and where does this mandate live?"
+  },
+  {
+    "start": 2772.0,
+    "duration": 15.0,
+    "text": "And I think it's also worth tying into this into this topic, you know, your your opinion that the like revenue leader of the future like might not just come from sales."
+  },
+  {
+    "start": 2787.0,
+    "duration": 6.0,
+    "text": "And there's like a different type of person that has to think about system design."
+  },
+  {
+    "start": 2794.0,
+    "duration": 11.0,
+    "text": "So not only the design of the org, but and this might not have to be the CRO is this thing, but like these these new types of leaders that are the system designers."
+  },
+  {
+    "start": 2805.0,
+    "duration": 3.0,
+    "text": "But let's just start with like org design."
+  },
+  {
+    "start": 2808.0,
+    "duration": 4.0,
+    "text": "So you made the point, you know, rev ops was traditionally built into these silos."
+  },
+  {
+    "start": 2812.0,
+    "duration": 3.0,
+    "text": "You had marketing ops, you had sales ops, you had CS ops."
+  },
+  {
+    "start": 2815.0,
+    "duration": 3.0,
+    "text": "And now that's not as relevant."
+  },
+  {
+    "start": 2818.0,
+    "duration": 2.0,
+    "text": "Maybe just expand on that point."
+  },
+  {
+    "start": 2820.0,
+    "duration": 1.0,
+    "text": "Like, why?"
+  },
+  {
+    "start": 2821.0,
+    "duration": 3.0,
+    "text": "Why don't you think that this is necessarily the org chart?"
+  },
+  {
+    "start": 2824.0,
+    "duration": 4.0,
+    "text": "And then I'd like to zoom out and talk about, like, where does AI transformation live?"
+  },
+  {
+    "start": 2828.0,
+    "duration": 6.0,
+    "text": "But let's start with the like non-function separated rev ops themes first."
+  },
+  {
+    "start": 2835.0,
+    "duration": 1.0,
+    "text": "Yeah, for sure."
+  },
+  {
+    "start": 2836.0,
+    "duration": 3.0,
+    "text": "So I think of we talked a lot about."
+  },
+  {
+    "start": 2841.0,
+    "duration": 8.0,
+    "text": "This team being more of a system, right, and this will kind of lead into and then also we think about running revenue and even rev ops more like a product."
+  },
+  {
+    "start": 2850.0,
+    "duration": 8.0,
+    "text": "Well, if you think about what modern product development is today is it's done in very small pots."
+  },
+  {
+    "start": 2858.0,
+    "duration": 1.0,
+    "text": "Right."
+  },
+  {
+    "start": 2859.0,
+    "duration": 5.0,
+    "text": "So you've got like a team of like three or four people and there's there's a lot of, you know, I think McKinsey has something out there."
+  },
+  {
+    "start": 2864.0,
+    "duration": 7.0,
+    "text": "You can go find this, but you can kind of see this like modern software development is these pods where you have like a product manager."
+  },
+  {
+    "start": 2871.0,
+    "duration": 2.0,
+    "text": "You may have a business me."
+  },
+  {
+    "start": 2873.0,
+    "duration": 2.0,
+    "text": "You have a developer."
+  },
+  {
+    "start": 2875.0,
+    "duration": 6.0,
+    "text": "And really, if you need something else like data and stuff like that, you have them as a component of they work in these pods."
+  },
+  {
+    "start": 2881.0,
+    "duration": 4.0,
+    "text": "And so I think of it as the same way."
+  },
+  {
+    "start": 2885.0,
+    "duration": 9.0,
+    "text": "And that's how we're transitioning, which is it's less about the function and it's more about the outcome, the workflow, the job to be done."
+  },
+  {
+    "start": 2894.0,
+    "duration": 1.0,
+    "text": "And that could be."
+  },
+  {
+    "start": 2895.0,
+    "duration": 5.0,
+    "text": "And if you think about go to market, go to market in almost every single workflow."
+  },
+  {
+    "start": 2900.0,
+    "duration": 5.0,
+    "text": "There's very few workflows that just that do not require more than one function."
+  },
+  {
+    "start": 2906.0,
+    "duration": 11.0,
+    "text": "And so when you think about that, you don't need you do need some expertise to saying, hey, like where would how to sell it into this workflow and what do they need from it or journey?"
+  },
+  {
+    "start": 2917.0,
+    "duration": 2.0,
+    "text": "You know, same thing with customer success."
+  },
+  {
+    "start": 2919.0,
+    "duration": 3.0,
+    "text": "But you have that expertise in the organization."
+  },
+  {
+    "start": 2922.0,
+    "duration": 6.0,
+    "text": "And so what way we've thought about it is we've you know, we thought about how do we build these pods?"
+  },
+  {
+    "start": 2928.0,
+    "duration": 14.0,
+    "text": "So we have, you know, someone that's like a product manager, someone that's an engineer that can build someone that's a process oriented SME, if you will, across, you know, across go to market, which is your traditional ops person, if you will."
+  },
+  {
+    "start": 2942.0,
+    "duration": 2.0,
+    "text": "And how do we have data as part of this?"
+  },
+  {
+    "start": 2944.0,
+    "duration": 4.0,
+    "text": "And their goal is to tackle different things."
+  },
+  {
+    "start": 2948.0,
+    "duration": 2.0,
+    "text": "So you've got like an acquisition pod."
+  },
+  {
+    "start": 2950.0,
+    "duration": 2.0,
+    "text": "You've got a expansion pod."
+  },
+  {
+    "start": 2952.0,
+    "duration": 2.0,
+    "text": "You've got a retention pod."
+  },
+  {
+    "start": 2954.0,
+    "duration": 10.0,
+    "text": "You've got a value realization pod, which is really like what happens between someone committing and someone getting implemented, you know, implemented and adopting and utilizing the software."
+  },
+  {
+    "start": 2964.0,
+    "duration": 6.0,
+    "text": "And so they're focused on irregardless of the function, like it could it may need some product."
+  },
+  {
+    "start": 2970.0,
+    "duration": 1.0,
+    "text": "It may need finance."
+  },
+  {
+    "start": 2971.0,
+    "duration": 1.0,
+    "text": "It may need legal."
+  },
+  {
+    "start": 2972.0,
+    "duration": 7.0,
+    "text": "But this is what Revops did already, except we just did it manually and in these like small little function functional teams."
+  },
+  {
+    "start": 2980.0,
+    "duration": 4.0,
+    "text": "And so now you've got this pod that's working in cycles."
+  },
+  {
+    "start": 2984.0,
+    "duration": 3.0,
+    "text": "So they're constantly working and trying to ship and trying to build."
+  },
+  {
+    "start": 2987.0,
+    "duration": 13.0,
+    "text": "And they're staying close to the stakeholders because your point what's important is what outcome is the stakeholder trying to drive for the business that they have friction or they're not getting the full realization of etc."
+  },
+  {
+    "start": 3000.0,
+    "duration": 6.0,
+    "text": "And these pods are meant to build out the capabilities for them to be able to accomplish that."
+  },
+  {
+    "start": 3006.0,
+    "duration": 2.0,
+    "text": "And that those stakeholders prioritize."
+  },
+  {
+    "start": 3008.0,
+    "duration": 1.0,
+    "text": "And it's almost just like a road map."
+  },
+  {
+    "start": 3009.0,
+    "duration": 2.0,
+    "text": "So you have prioritization."
+  },
+  {
+    "start": 3011.0,
+    "duration": 1.0,
+    "text": "You have a road map."
+  },
+  {
+    "start": 3012.0,
+    "duration": 1.0,
+    "text": "You're shipping weather."
+  },
+  {
+    "start": 3013.0,
+    "duration": 4.0,
+    "text": "And that shipping can be, you know, something you built or it could be just shipping a new process."
+  },
+  {
+    "start": 3017.0,
+    "duration": 2.0,
+    "text": "It could be shipping whatever."
+  },
+  {
+    "start": 3019.0,
+    "duration": 9.0,
+    "text": "But ultimately, it's shipping that capability cross functionally versus relying on these kind of siloed teams and handoffs because even even Revops is siloed."
+  },
+  {
+    "start": 3028.0,
+    "duration": 7.0,
+    "text": "When you're when you think about it, if you're if you're set up like marketing sales and customer success, you're just focused on your own little domain and function."
+  },
+  {
+    "start": 3035.0,
+    "duration": 4.0,
+    "text": "And, yeah, you may you may say, hey, you know, sales ops, I need your help here or there."
+  },
+  {
+    "start": 3039.0,
+    "duration": 2.0,
+    "text": "And then you kind of like pass the buck."
+  },
+  {
+    "start": 3041.0,
+    "duration": 5.0,
+    "text": "No, I want you to own the journey on the thing you're doing or building from end to end."
+  },
+  {
+    "start": 3046.0,
+    "duration": 3.0,
+    "text": "Solve it, ship it, make sure that it's working."
+  },
+  {
+    "start": 3049.0,
+    "duration": 1.0,
+    "text": "And then what's next on the list?"
+  },
+  {
+    "start": 3050.0,
+    "duration": 1.0,
+    "text": "And let's continue to go."
+  },
+  {
+    "start": 3051.0,
+    "duration": 7.0,
+    "text": "So I think that's how, in my mind, the org starts to shift and change and is changing."
+  },
+  {
+    "start": 3058.0,
+    "duration": 2.0,
+    "text": "And we've kind of seen some good success."
+  },
+  {
+    "start": 3061.0,
+    "duration": 1.0,
+    "text": "Hmm."
+  },
+  {
+    "start": 3062.0,
+    "duration": 8.0,
+    "text": "And so in your new roles, you still have the whole Revops function under your like under your scope."
+  },
+  {
+    "start": 3070.0,
+    "duration": 3.0,
+    "text": "Today, no, that role changed a few months ago."
+  },
+  {
+    "start": 3073.0,
+    "duration": 4.0,
+    "text": "But building it out over the last two and a half years is kind of what led us to this point."
+  },
+  {
+    "start": 3077.0,
+    "duration": 2.0,
+    "text": "So is that how the team is structured?"
+  },
+  {
+    "start": 3079.0,
+    "duration": 4.0,
+    "text": "It's like acquisition pod, value realization pod retention."
+  },
+  {
+    "start": 3083.0,
+    "duration": 1.0,
+    "text": "Yeah, it started."
+  },
+  {
+    "start": 3084.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3085.0,
+    "duration": 2.0,
+    "text": "So it started to transform into that."
+  },
+  {
+    "start": 3087.0,
+    "duration": 3.0,
+    "text": "So obviously there was some talent things or some things we had to do."
+  },
+  {
+    "start": 3090.0,
+    "duration": 6.0,
+    "text": "So this has been this has been kind of like a over a year evolution into how do we get to this point."
+  },
+  {
+    "start": 3096.0,
+    "duration": 5.0,
+    "text": "So it's less about functional silos and more about the as I mentioned, the job to be done, etc."
+  },
+  {
+    "start": 3101.0,
+    "duration": 2.0,
+    "text": "So so it's a transition."
+  },
+  {
+    "start": 3103.0,
+    "duration": 3.0,
+    "text": "We're not fully there yet, but that's the that's the goal."
+  },
+  {
+    "start": 3106.0,
+    "duration": 3.0,
+    "text": "And we've got some pods working now today."
+  },
+  {
+    "start": 3109.0,
+    "duration": 1.0,
+    "text": "OK, cool."
+  },
+  {
+    "start": 3110.0,
+    "duration": 2.0,
+    "text": "What was the talent transformation like?"
+  },
+  {
+    "start": 3113.0,
+    "duration": 6.0,
+    "text": "What skills were no longer in in demand versus what did you have to go bring in that new?"
+  },
+  {
+    "start": 3119.0,
+    "duration": 4.0,
+    "text": "And what do you think are the skills that we should be building these teams around today?"
+  },
+  {
+    "start": 3123.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 3124.0,
+    "duration": 6.0,
+    "text": "So I think number one is a foundational knowledge of like revenue architecture, just how that goes."
+  },
+  {
+    "start": 3130.0,
+    "duration": 5.0,
+    "text": "So one of the things that we've we've taught is how do you think about revenue, recurring businesses, etc."
+  },
+  {
+    "start": 3135.0,
+    "duration": 6.0,
+    "text": "So just having kind of that framework and understanding, I think, number one is is super important."
+  },
+  {
+    "start": 3141.0,
+    "duration": 4.0,
+    "text": "The second thing is we look for more generalists than specialists."
+  },
+  {
+    "start": 3145.0,
+    "duration": 4.0,
+    "text": "So previously we were hiring specialists because you had to know marketing ops."
+  },
+  {
+    "start": 3149.0,
+    "duration": 3.0,
+    "text": "Right. Not everyone knows marketers, you know, sales ops."
+  },
+  {
+    "start": 3152.0,
+    "duration": 3.0,
+    "text": "And so in this it's more I understand the foundation of go to market."
+  },
+  {
+    "start": 3155.0,
+    "duration": 4.0,
+    "text": "I understand operations and how things should work."
+  },
+  {
+    "start": 3159.0,
+    "duration": 10.0,
+    "text": "I may not have 100 percent domain expertise, but also we have like marketing ops agents that can help or other things that can help with some of these these elements."
+  },
+  {
+    "start": 3169.0,
+    "duration": 12.0,
+    "text": "And then we hire people that are really focused on that are curious and they can basically showcase that they can actually build and do things in AI and not just like I go agency."
+  },
+  {
+    "start": 3181.0,
+    "duration": 7.0,
+    "text": "There you go. That's the agency, because ultimately this is not you know, if you're at level one, you just talked about the levels."
+  },
+  {
+    "start": 3188.0,
+    "duration": 4.0,
+    "text": "You're at level one. You're just using search. Probably not the best fit because that's not what we're looking for."
+  },
+  {
+    "start": 3192.0,
+    "duration": 5.0,
+    "text": "So you've got to have kind of the agency and think about systems thinking, etc."
+  },
+  {
+    "start": 3197.0,
+    "duration": 4.0,
+    "text": "So those are like more of the qualities that we're looking for today."
+  },
+  {
+    "start": 3201.0,
+    "duration": 5.0,
+    "text": "And you find that some of these qualities people have in rev ops today and some that they don't."
+  },
+  {
+    "start": 3206.0,
+    "duration": 10.0,
+    "text": "And so that's kind of how we and sometimes we find them that they're, you know, in some other organization product or, you know, engineering or something, but they may not have the go to market expertise."
+  },
+  {
+    "start": 3216.0,
+    "duration": 5.0,
+    "text": "But you can kind of lean into that if you're teaching revenue architecture and other things, you can do that as well."
+  },
+  {
+    "start": 3221.0,
+    "duration": 5.0,
+    "text": "So that's kind of how we that's kind of how we think about the talent versus the specialty more general."
+  },
+  {
+    "start": 3226.0,
+    "duration": 2.0,
+    "text": "And then to your point, the agency and things of that nature."
+  },
+  {
+    "start": 3228.0,
+    "duration": 4.0,
+    "text": "And then how much specialization do you still need to keep in the team?"
+  },
+  {
+    "start": 3232.0,
+    "duration": 11.0,
+    "text": "Like I think about marketing ops being the function that that like needs more specialization because you have to figure out like just like pixel stuff like you."
+  },
+  {
+    "start": 3244.0,
+    "duration": 4.0,
+    "text": "That's like nitty gritty. How does it show up? How does it flow into the data?"
+  },
+  {
+    "start": 3248.0,
+    "duration": 4.0,
+    "text": "How do you instrument this like workflow?"
+  },
+  {
+    "start": 3252.0,
+    "duration": 14.0,
+    "text": "Like where do you want like a handful of people who still do have that like the technical expertise or what's the what's the what's the balance?"
+  },
+  {
+    "start": 3266.0,
+    "duration": 2.0,
+    "text": "This is a great point."
+  },
+  {
+    "start": 3268.0,
+    "duration": 3.0,
+    "text": "There are still elements of it that you want to have someone that has."
+  },
+  {
+    "start": 3271.0,
+    "duration": 5.0,
+    "text": "So, for example, we use for better or worse."
+  },
+  {
+    "start": 3276.0,
+    "duration": 6.0,
+    "text": "And sorry, I'm going to say this. We use hard art and part is not the easiest thing to use."
+  },
+  {
+    "start": 3282.0,
+    "duration": 3.0,
+    "text": "So there is some there's some specialty that you still need to have."
+  },
+  {
+    "start": 3285.0,
+    "duration": 6.0,
+    "text": "But what I what I will say is we actually started contracting that agency."
+  },
+  {
+    "start": 3292.0,
+    "duration": 5.0,
+    "text": "So and so and so if we needed something that was more specialized like that,"
+  },
+  {
+    "start": 3297.0,
+    "duration": 5.0,
+    "text": "we would find it either through an agency that we use that we have, you know,"
+  },
+  {
+    "start": 3302.0,
+    "duration": 5.0,
+    "text": "Revops flex labor when or we found it on things like Upwork or other places."
+  },
+  {
+    "start": 3307.0,
+    "duration": 6.0,
+    "text": "So because what we wanted to hire for was the other capabilities that I mentioned."
+  },
+  {
+    "start": 3313.0,
+    "duration": 6.0,
+    "text": "And if we need specialties, we can contract that for the amount of time that we need it, because we also don't need it all the time."
+  },
+  {
+    "start": 3319.0,
+    "duration": 5.0,
+    "text": "We need it in some element, you know, maybe 10 hours a week, maybe some weeks we need to 40 hours a week."
+  },
+  {
+    "start": 3324.0,
+    "duration": 4.0,
+    "text": "So so that's kind of how we thought about it as part of as part of this transition."
+  },
+  {
+    "start": 3328.0,
+    "duration": 3.0,
+    "text": "Let's talk leadership skills."
+  },
+  {
+    "start": 3331.0,
+    "duration": 2.0,
+    "text": "What is this new Revops leader need to look like?"
+  },
+  {
+    "start": 3333.0,
+    "duration": 4.0,
+    "text": "What is the new like revenue need to look revenue leader need to look like?"
+  },
+  {
+    "start": 3337.0,
+    "duration": 5.0,
+    "text": "Oftentimes I think about, you know, building these building these org charts,"
+  },
+  {
+    "start": 3342.0,
+    "duration": 4.0,
+    "text": "like building a basketball team where like you don't want five centers."
+  },
+  {
+    "start": 3346.0,
+    "duration": 2.0,
+    "text": "You don't want five point guards."
+  },
+  {
+    "start": 3348.0,
+    "duration": 2.0,
+    "text": "Like you need sort of the diversity."
+  },
+  {
+    "start": 3350.0,
+    "duration": 4.0,
+    "text": "So like, do you think everybody now needs to be like super A.I."
+  },
+  {
+    "start": 3354.0,
+    "duration": 4.0,
+    "text": "Pilled like you need a CRO and a BP of sales and a head of Revops?"
+  },
+  {
+    "start": 3358.0,
+    "duration": 3.0,
+    "text": "Like everybody needs to be super A.I."
+  },
+  {
+    "start": 3361.0,
+    "duration": 1.0,
+    "text": "Centric systems thinking."
+  },
+  {
+    "start": 3362.0,
+    "duration": 6.0,
+    "text": "Can you get away with like it being more of a partnership and there being more sort of like traditional skill sets?"
+  },
+  {
+    "start": 3368.0,
+    "duration": 4.0,
+    "text": "Like how do you think about the leadership skill set today?"
+  },
+  {
+    "start": 3372.0,
+    "duration": 6.0,
+    "text": "So the concept, I feel like the talent that needs to be leading revenue in in today's world,"
+  },
+  {
+    "start": 3378.0,
+    "duration": 3.0,
+    "text": "either if it's if it's one person."
+  },
+  {
+    "start": 3381.0,
+    "duration": 7.0,
+    "text": "Needs to be understand P&L need to know how to operate the business top and bottom line."
+  },
+  {
+    "start": 3388.0,
+    "duration": 7.0,
+    "text": "The second thing is I do think they need agency because you can't not do it yourself and learn how to do it."
+  },
+  {
+    "start": 3395.0,
+    "duration": 1.0,
+    "text": "Build your own stuff, et cetera."
+  },
+  {
+    "start": 3396.0,
+    "duration": 7.0,
+    "text": "So I think there has to be you don't have to be, you know, a full blown systems engineer,"
+  },
+  {
+    "start": 3403.0,
+    "duration": 4.0,
+    "text": "but you have to know how the system, you know, how how I works,"
+  },
+  {
+    "start": 3407.0,
+    "duration": 4.0,
+    "text": "what you can use it for and be able to at least build some things yourself."
+  },
+  {
+    "start": 3411.0,
+    "duration": 6.0,
+    "text": "I think number three is you have to understand revenue from end to end,"
+  },
+  {
+    "start": 3417.0,
+    "duration": 4.0,
+    "text": "because I do I do still run across zeros a lot of times."
+  },
+  {
+    "start": 3421.0,
+    "duration": 3.0,
+    "text": "And you may you may as well. But they're like like, oh, cool."
+  },
+  {
+    "start": 3424.0,
+    "duration": 3.0,
+    "text": "So you own the whole revenue. They're like, no, I have sales and marketing."
+  },
+  {
+    "start": 3427.0,
+    "duration": 3.0,
+    "text": "I'm like that. That's not like that's not in my mind."
+  },
+  {
+    "start": 3430.0,
+    "duration": 8.0,
+    "text": "A zero zero should own the whole end to end revenue and the system underneath it if they have that that type of capability."
+  },
+  {
+    "start": 3438.0,
+    "duration": 7.0,
+    "text": "So not only knowing how revenue works on both sides, but also how does the system underneath work from end to end?"
+  },
+  {
+    "start": 3445.0,
+    "duration": 4.0,
+    "text": "And so I think like that is the talent profile."
+  },
+  {
+    "start": 3450.0,
+    "duration": 4.0,
+    "text": "Now, if you have a CRO, if that's what the CRO looks like in the future, great."
+  },
+  {
+    "start": 3454.0,
+    "duration": 4.0,
+    "text": "That's great. If that's not how we see the CRO evolving,"
+  },
+  {
+    "start": 3458.0,
+    "duration": 7.0,
+    "text": "then I honestly think you need someone with more of a growth mind and rev ups mind that sits in the C suite"
+  },
+  {
+    "start": 3465.0,
+    "duration": 4.0,
+    "text": "or that at least has a seat at a table if it's not a C level."
+  },
+  {
+    "start": 3469.0,
+    "duration": 3.0,
+    "text": "You think about you usually have a CPO and a CTO, right?"
+  },
+  {
+    "start": 3472.0,
+    "duration": 3.0,
+    "text": "They have different parts of the product."
+  },
+  {
+    "start": 3475.0,
+    "duration": 2.0,
+    "text": "And so I think about almost this in the same way."
+  },
+  {
+    "start": 3477.0,
+    "duration": 7.0,
+    "text": "If you have a CRO that may be responsible for the outcome and the people, et cetera,"
+  },
+  {
+    "start": 3484.0,
+    "duration": 5.0,
+    "text": "you may need someone that's responsible for the system that but that person cannot be layered down."
+  },
+  {
+    "start": 3489.0,
+    "duration": 4.0,
+    "text": "They need to be at the table when strategy is being decided, when all the things."
+  },
+  {
+    "start": 3493.0,
+    "duration": 5.0,
+    "text": "So I think like in my mind, regardless of title, regardless of where it sits,"
+  },
+  {
+    "start": 3498.0,
+    "duration": 7.0,
+    "text": "I think those are the capabilities that someone has to have to be very successful in running kind of revenue at an organization."
+  },
+  {
+    "start": 3505.0,
+    "duration": 3.0,
+    "text": "So that's my view of it."
+  },
+  {
+    "start": 3508.0,
+    "duration": 7.0,
+    "text": "And I think as we get more and more AI agents running a lot of this and doing it,"
+  },
+  {
+    "start": 3515.0,
+    "duration": 2.0,
+    "text": "I think it becomes even more critical."
+  },
+  {
+    "start": 3517.0,
+    "duration": 4.0,
+    "text": "So I think we're kind of becoming at that inflection point, if you will, in my mind,"
+  },
+  {
+    "start": 3521.0,
+    "duration": 3.0,
+    "text": "that this is a transition that will have to happen."
+  },
+  {
+    "start": 3524.0,
+    "duration": 6.0,
+    "text": "All right. Let's talk personal AI stack, because I wanted to make sure we could fit this in because you've built some cool stuff."
+  },
+  {
+    "start": 3530.0,
+    "duration": 8.0,
+    "text": "Maybe just share a little bit of like what have you built yourself and what does it help you do?"
+  },
+  {
+    "start": 3538.0,
+    "duration": 2.0,
+    "text": "And then I'd love to unpack like how you built it."
+  },
+  {
+    "start": 3540.0,
+    "duration": 5.0,
+    "text": "And we talk a lot. This could be a whole 90 minutes, but we'll try to do it in 15."
+  },
+  {
+    "start": 3545.0,
+    "duration": 2.0,
+    "text": "Yeah, yeah, for sure."
+  },
+  {
+    "start": 3547.0,
+    "duration": 7.0,
+    "text": "So so kind of my journey with this was I started building agents."
+  },
+  {
+    "start": 3554.0,
+    "duration": 3.0,
+    "text": "So I started at the wrong layer, as we kind of mentioned earlier."
+  },
+  {
+    "start": 3557.0,
+    "duration": 3.0,
+    "text": "And so I started building agents and it was it was cool."
+  },
+  {
+    "start": 3560.0,
+    "duration": 3.0,
+    "text": "But I was like, oh, this is this is not as great as I thought it would be."
+  },
+  {
+    "start": 3563.0,
+    "duration": 7.0,
+    "text": "I can I can prompt really well, maybe chat or something like that and get similar outputs with connectors and things."
+  },
+  {
+    "start": 3570.0,
+    "duration": 3.0,
+    "text": "So I started with thinking that I needed to build all these agents."
+  },
+  {
+    "start": 3573.0,
+    "duration": 3.0,
+    "text": "So I have one hundred and twenty one agents."
+  },
+  {
+    "start": 3576.0,
+    "duration": 6.0,
+    "text": "They don't all get used every day, but I have one hundred twenty one agents and they're built in different hierarchy teams."
+  },
+  {
+    "start": 3582.0,
+    "duration": 6.0,
+    "text": "So I have engineering, I have product, I have sales, I have marketing, I have customer success, rev ops enablement."
+  },
+  {
+    "start": 3588.0,
+    "duration": 10.0,
+    "text": "I have a GTM panel, which, by the way, you know, not just because I'm on here, but, you know, Kyle Norton is on my GTM panel."
+  },
+  {
+    "start": 3598.0,
+    "duration": 5.0,
+    "text": "So, you know, we should we we should probably see how accurate it is or not."
+  },
+  {
+    "start": 3603.0,
+    "duration": 6.0,
+    "text": "But I've got a GTM panel. I have a personal board of directors panel that helps me with things."
+  },
+  {
+    "start": 3609.0,
+    "duration": 6.0,
+    "text": "And so I've kind of built these teams thinking about, like, what are some of the things that I need?"
+  },
+  {
+    "start": 3615.0,
+    "duration": 6.0,
+    "text": "You know, what do I do and where are some things that I need feedback and stuff on people to help build?"
+  },
+  {
+    "start": 3621.0,
+    "duration": 4.0,
+    "text": "So I have these I have these agents, my interface."
+  },
+  {
+    "start": 3625.0,
+    "duration": 2.0,
+    "text": "So I'll go through my stack, my interface."
+  },
+  {
+    "start": 3627.0,
+    "duration": 5.0,
+    "text": "You say I have an agent just like is it fair to say like that skill file?"
+  },
+  {
+    "start": 3632.0,
+    "duration": 4.0,
+    "text": "So I look at agents. So that's actually a good question."
+  },
+  {
+    "start": 3636.0,
+    "duration": 3.0,
+    "text": "So I actually have fifty seven skill files."
+  },
+  {
+    "start": 3639.0,
+    "duration": 4.0,
+    "text": "I'm looking at my I'm looking at my architecture here so I can give you the exact numbers."
+  },
+  {
+    "start": 3643.0,
+    "duration": 8.0,
+    "text": "So to me, the difference is a skill file is kind of a repeatable process."
+  },
+  {
+    "start": 3651.0,
+    "duration": 7.0,
+    "text": "Something that I you know, something that I do on an ongoing basis that I have a desired outcome, et cetera."
+  },
+  {
+    "start": 3658.0,
+    "duration": 5.0,
+    "text": "And it just kind of you know, it kind of it can be used by any of the agents."
+  },
+  {
+    "start": 3663.0,
+    "duration": 5.0,
+    "text": "The agent is more of a expert at a domain, if you will."
+  },
+  {
+    "start": 3668.0,
+    "duration": 4.0,
+    "text": "So a skill can be a repeatable type of workflow type thing."
+  },
+  {
+    "start": 3672.0,
+    "duration": 6.0,
+    "text": "If you want, the agent is more like I've got a marketing ops agent or I've got a revenue data analyst agent."
+  },
+  {
+    "start": 3678.0,
+    "duration": 6.0,
+    "text": "So and they could use a skill like the skill may be, hey, here's what I want."
+  },
+  {
+    "start": 3684.0,
+    "duration": 5.0,
+    "text": "You know, when you look at Google Analytics and pull the information, here are all the things that you do."
+  },
+  {
+    "start": 3689.0,
+    "duration": 3.0,
+    "text": "Here's how you do it. Here's the workflow, et cetera."
+  },
+  {
+    "start": 3692.0,
+    "duration": 6.0,
+    "text": "I don't want that stored in the in each individual agent because I may I may have multiple agents that are working on that."
+  },
+  {
+    "start": 3698.0,
+    "duration": 6.0,
+    "text": "That's that can use that same skill. So ultimately, I see them as different different things."
+  },
+  {
+    "start": 3704.0,
+    "duration": 2.0,
+    "text": "And that's kind of how I view the world."
+  },
+  {
+    "start": 3706.0,
+    "duration": 7.0,
+    "text": "But the instantiation of the agent is like basically like one chat, like you said, use telegram."
+  },
+  {
+    "start": 3713.0,
+    "duration": 12.0,
+    "text": "So it'd be like one telegram channel is that agent and that agent knows that it can access multiple skill files and has a job and connections."
+  },
+  {
+    "start": 3725.0,
+    "duration": 5.0,
+    "text": "Would that be how you would define what like that agent is?"
+  },
+  {
+    "start": 3730.0,
+    "duration": 5.0,
+    "text": "Yes. With one difference. Telegram."
+  },
+  {
+    "start": 3735.0,
+    "duration": 11.0,
+    "text": "So I think about the interface of telegram. It actually it uses a one agent, to your point, that is a smart routing agent."
+  },
+  {
+    "start": 3746.0,
+    "duration": 8.0,
+    "text": "So the smart routing agent is the one that selects which agents to use based upon what I am asking."
+  },
+  {
+    "start": 3754.0,
+    "duration": 10.0,
+    "text": "And this is open claw behind it. No, it's actually just it's actually all all code that I have either written or opens or got from open source."
+  },
+  {
+    "start": 3764.0,
+    "duration": 5.0,
+    "text": "So this is so. Yes. So this was kind of pre open claw. I did not ever."
+  },
+  {
+    "start": 3769.0,
+    "duration": 8.0,
+    "text": "As you know, we're chatting. This was not you know, I never kind of moved to open call because I actually asked my you know, it's going to sound, you know, I don't know."
+  },
+  {
+    "start": 3777.0,
+    "duration": 11.0,
+    "text": "We're getting a little sci fi here. I asked my CTO agent and my systems architect agent to review all of open call and tell me, should I port everything over and just use it?"
+  },
+  {
+    "start": 3788.0,
+    "duration": 6.0,
+    "text": "Or are there certain things that I should actually build into our system? And it actually recommended this all the time."
+  },
+  {
+    "start": 3794.0,
+    "duration": 4.0,
+    "text": "Thanks. Do you really? OK. All right. Cool. All right. So you just made me feel better."
+  },
+  {
+    "start": 3799.0,
+    "duration": 19.0,
+    "text": "So I'm set up on open call, but I'm transitioning a lot of stuff to Grok bot and in open call, like I'll see something cool, like people like Hermes agent or or some of these like other ones or like Gary Tan will post a thing about G brain and I'll be like, hey, read this GitHub repo."
+  },
+  {
+    "start": 3818.0,
+    "duration": 9.0,
+    "text": "Like, should we add this? And then it'll come back like, no, you like it overlaps with whatever, because like, you know, I was trying to figure out memory."
+  },
+  {
+    "start": 3827.0,
+    "duration": 7.0,
+    "text": "Like, how do you figure out memory in open call? So is it do you use G brain to use like Toby's QMD stuff? Is there other things?"
+  },
+  {
+    "start": 3834.0,
+    "duration": 9.0,
+    "text": "Now I'm sure mine is like a bit of a soup because I'll be like putting I'll be like shooting in ideas and then open cause like deciding what to build."
+  },
+  {
+    "start": 3843.0,
+    "duration": 6.0,
+    "text": "But so I feel like I'm right there with you. Yeah. So that's exactly what mine is."
+  },
+  {
+    "start": 3849.0,
+    "duration": 13.0,
+    "text": "So, you know, because I had the same issues, I have a memory, I have a bunch of different components of memory and they're all either a, you know, I took some from open claw."
+  },
+  {
+    "start": 3862.0,
+    "duration": 8.0,
+    "text": "I've had some from other open source things that I've found on like X or other places or just searched up like what's the best memory, et cetera."
+  },
+  {
+    "start": 3870.0,
+    "duration": 8.0,
+    "text": "And then the system just builds it and uses some of this code. So it's kind of like to your point, the soup of things, you know, and that comes with its own challenges."
+  },
+  {
+    "start": 3878.0,
+    "duration": 5.0,
+    "text": "Like I then had to, you know, I realized that the system wasn't working all the time."
+  },
+  {
+    "start": 3883.0,
+    "duration": 5.0,
+    "text": "So I had to set up like a watchdog that can tell me what's broken through the night or et cetera."
+  },
+  {
+    "start": 3889.0,
+    "duration": 5.0,
+    "text": "But yeah, so so so same kind of thing. So it's basically homegrown, if you will, to some degree."
+  },
+  {
+    "start": 3894.0,
+    "duration": 9.0,
+    "text": "But it's a mix of things that I have or things that are open source and just the conversations and things like, hey, I need to solve this problem."
+  },
+  {
+    "start": 3903.0,
+    "duration": 3.0,
+    "text": "You know, I ran into these things. How would you best solve it?"
+  },
+  {
+    "start": 3906.0,
+    "duration": 6.0,
+    "text": "Giving the system that we have built and, you know, and then it makes some recommendations and then I test those and go from there."
+  },
+  {
+    "start": 3912.0,
+    "duration": 8.0,
+    "text": "And so you just run off one master channel interface and then the agent selections happening behind the scenes."
+  },
+  {
+    "start": 3920.0,
+    "duration": 3.0,
+    "text": "That's right. You don't. That's right. OK, interesting."
+  },
+  {
+    "start": 3923.0,
+    "duration": 7.0,
+    "text": "I've always kept all like different channels just to keep my like just to keep me organized, organized."
+  },
+  {
+    "start": 3930.0,
+    "duration": 10.0,
+    "text": "And so like I have a even like I separated podcast production from podcast outreach because having them having it go back and forth in the same channel,"
+  },
+  {
+    "start": 3940.0,
+    "duration": 9.0,
+    "text": "I found personally confusing because, you know, like I have a bunch of cron set up that looks at like, all right, 48 hours before."
+  },
+  {
+    "start": 3949.0,
+    "duration": 4.0,
+    "text": "Have I created the docket? Have I shared the docket? If I haven't."
+  },
+  {
+    "start": 3953.0,
+    "duration": 10.0,
+    "text": "And now one of the reasons I'm moving everything over to Grok bot is it just like it just does the job so much like so much more cleanly without me."
+  },
+  {
+    "start": 3963.0,
+    "duration": 11.0,
+    "text": "Like I find like the my crons just stop firing for some reason and open claw and I have to go in and be like, hey, like I'm recording with Jonathan Moss and 18 hours."
+  },
+  {
+    "start": 3974.0,
+    "duration": 9.0,
+    "text": "Like what's going on? Where's this docket? And the like I'm just all day going to bet on cursor."
+  },
+  {
+    "start": 3984.0,
+    "duration": 11.0,
+    "text": "And so I have a cursor, I have a Grok bot set up agent and the set up agent is walking me through how to grab everything from my open claw instance,"
+  },
+  {
+    "start": 3995.0,
+    "duration": 9.0,
+    "text": "because a bunch of it is in the skill files like everything I build is always instructed right back to the GitHub repo with these skill files."
+  },
+  {
+    "start": 4004.0,
+    "duration": 5.0,
+    "text": "So I can I can use multiple experiences with the same tools and skills."
+  },
+  {
+    "start": 4009.0,
+    "duration": 7.0,
+    "text": "But then there's some stuff like the crons have to be built in the open claw like tooling."
+  },
+  {
+    "start": 4016.0,
+    "duration": 12.0,
+    "text": "And so in that virtual machine, but then, you know, the the virtual computer getting like logging into stuff like Grok bot is just really solve that in a pretty cool way."
+  },
+  {
+    "start": 4028.0,
+    "duration": 11.0,
+    "text": "So I have the Grok set up bot just like telling me how to port into open claw to just like scoop it all over, turn it all off."
+  },
+  {
+    "start": 4039.0,
+    "duration": 4.0,
+    "text": "So two things you mentioned, I completely agree. And this is kind of why I started using Grok bot."
+  },
+  {
+    "start": 4043.0,
+    "duration": 5.0,
+    "text": "So one is I probably should have set up multiple threads because you're exactly right."
+  },
+  {
+    "start": 4048.0,
+    "duration": 5.0,
+    "text": "If it's a simple type of thing in Telegram, it's cool."
+  },
+  {
+    "start": 4053.0,
+    "duration": 6.0,
+    "text": "But once I can't do deep stuff there with all these agents, because to your point, it just gets confusing because it's in the same thread."
+  },
+  {
+    "start": 4059.0,
+    "duration": 12.0,
+    "text": "And so that was always a challenge. And so typically for those, I would I would, you know, use, you know, either the app on my wherever I was at my phone, iPad or whatever, my computer for those types of things."
+  },
+  {
+    "start": 4071.0,
+    "duration": 4.0,
+    "text": "And it was a restriction that I had. So I just kind of lived with it."
+  },
+  {
+    "start": 4075.0,
+    "duration": 6.0,
+    "text": "But then when Grok had these separate channels, I was like, oh, this is so this is the first thing that hooked me."
+  },
+  {
+    "start": 4081.0,
+    "duration": 4.0,
+    "text": "And the second thing that hooked me was its ability to do all of these things, because you're right."
+  },
+  {
+    "start": 4085.0,
+    "duration": 6.0,
+    "text": "I mean, I'm like I'm like I have 52 cron jobs and at least four of them break every day almost."
+  },
+  {
+    "start": 4091.0,
+    "duration": 3.0,
+    "text": "And I'm like, what the hell is going on?"
+  },
+  {
+    "start": 4094.0,
+    "duration": 6.0,
+    "text": "And so I've spent I've spent like my first 15 minutes at, you know, sending it over and saying, fix these."
+  },
+  {
+    "start": 4100.0,
+    "duration": 4.0,
+    "text": "I thought we just fixed these last week. Why are they still not working?"
+  },
+  {
+    "start": 4104.0,
+    "duration": 2.0,
+    "text": "Yeah. You know, why do they break again?"
+  },
+  {
+    "start": 4106.0,
+    "duration": 11.0,
+    "text": "You know, so it's kind of like if Grokbot can solve that where I don't have to worry about these, you know, cron jobs firing and stuff, then like, dude, I'm all in to move it to, you know, to the some of the stuff there, too."
+  },
+  {
+    "start": 4117.0,
+    "duration": 5.0,
+    "text": "So my Grokbot crons have fired correctly every time."
+  },
+  {
+    "start": 4122.0,
+    "duration": 12.0,
+    "text": "So like not everything has been moved over, but my experience so far has been has been really good that it's become like more and more of my my main place to go."
+  },
+  {
+    "start": 4134.0,
+    "duration": 8.0,
+    "text": "And so now I'm spinning up like all the rest of the the channels and and it's going to be interesting."
+  },
+  {
+    "start": 4142.0,
+    "duration": 8.0,
+    "text": "Like the the I think the thing that Grokbot has done so well is also the the like cloud computer interface."
+  },
+  {
+    "start": 4150.0,
+    "duration": 9.0,
+    "text": "So like you can click in and like write just like enter in the password and like hand it back because my OpenClaw is built in this virtual machine."
+  },
+  {
+    "start": 4159.0,
+    "duration": 3.0,
+    "text": "You have to like VNC."
+  },
+  {
+    "start": 4162.0,
+    "duration": 5.0,
+    "text": "You have to like do you have to do this thing where it creates a link and then I log into the thing and then I go do a whatever."
+  },
+  {
+    "start": 4168.0,
+    "duration": 2.0,
+    "text": "It's like a it's a nightmare."
+  },
+  {
+    "start": 4170.0,
+    "duration": 5.0,
+    "text": "And and I haven't wanted to just like give it all my passwords for good reason."
+  },
+  {
+    "start": 4176.0,
+    "duration": 6.0,
+    "text": "Yeah, but with what I'm doing with like one password is there's a there's a Grokbot vault."
+  },
+  {
+    "start": 4182.0,
+    "duration": 7.0,
+    "text": "And then it'll and so because like I have a an email address for I call it Kai, K-A-I."
+  },
+  {
+    "start": 4189.0,
+    "duration": 2.0,
+    "text": "It's like my digital chief of staff."
+  },
+  {
+    "start": 4191.0,
+    "duration": 6.0,
+    "text": "Kai has its own email so it can create its own logins and it can have passwords for those logins."
+  },
+  {
+    "start": 4197.0,
+    "duration": 7.0,
+    "text": "And one password is like done a pretty good job like thinking through this like agent password management piece."
+  },
+  {
+    "start": 4204.0,
+    "duration": 3.0,
+    "text": "So I feel like it's going to be pretty interesting."
+  },
+  {
+    "start": 4207.0,
+    "duration": 6.0,
+    "text": "And now everybody's talking about instinct on on X like that's like the new normie like OpenClaw."
+  },
+  {
+    "start": 4213.0,
+    "duration": 2.0,
+    "text": "I was like, oh, damn, I'm just moving things over."
+  },
+  {
+    "start": 4215.0,
+    "duration": 6.0,
+    "text": "I can't have more like AI FOMO that there's some cooler thing out there."
+  },
+  {
+    "start": 4221.0,
+    "duration": 5.0,
+    "text": "Right. I mean, we went from what was it context to loops to graph."
+  },
+  {
+    "start": 4226.0,
+    "duration": 1.0,
+    "text": "We got all these things there."
+  },
+  {
+    "start": 4227.0,
+    "duration": 2.0,
+    "text": "It's moving so fast, man."
+  },
+  {
+    "start": 4229.0,
+    "duration": 2.0,
+    "text": "To your point, it's really hard to keep up with."
+  },
+  {
+    "start": 4232.0,
+    "duration": 1.0,
+    "text": "Even those that are in it all the time."
+  },
+  {
+    "start": 4233.0,
+    "duration": 1.0,
+    "text": "It's hard to keep up with."
+  },
+  {
+    "start": 4234.0,
+    "duration": 1.0,
+    "text": "Yeah."
+  },
+  {
+    "start": 4235.0,
+    "duration": 1.0,
+    "text": "Yeah, I agree with you."
+  },
+  {
+    "start": 4236.0,
+    "duration": 7.0,
+    "text": "I think I think I'm really loving Grokbot so far and kind of going from there."
+  },
+  {
+    "start": 4243.0,
+    "duration": 1.0,
+    "text": "So we'll see. We'll see how it goes."
+  },
+  {
+    "start": 4244.0,
+    "duration": 3.0,
+    "text": "And so then where are your agents doing the work?"
+  },
+  {
+    "start": 4247.0,
+    "duration": 5.0,
+    "text": "Have you given them like how have you given them access to the right places?"
+  },
+  {
+    "start": 4252.0,
+    "duration": 2.0,
+    "text": "Like you're again, you're in this like regulated market."
+  },
+  {
+    "start": 4254.0,
+    "duration": 5.0,
+    "text": "So I'm assuming it's not it doesn't have control over your like work account."
+  },
+  {
+    "start": 4259.0,
+    "duration": 6.0,
+    "text": "And it's like writing or it's like it's not into Snowflake or whatever."
+  },
+  {
+    "start": 4265.0,
+    "duration": 2.0,
+    "text": "Like what? How is it doing the work?"
+  },
+  {
+    "start": 4267.0,
+    "duration": 4.0,
+    "text": "Does it have its own Google suite ID or like what's what's the plan?"
+  },
+  {
+    "start": 4271.0,
+    "duration": 2.0,
+    "text": "What's the approach?"
+  },
+  {
+    "start": 4273.0,
+    "duration": 4.0,
+    "text": "Yeah. So for on the on the business side of things,"
+  },
+  {
+    "start": 4277.0,
+    "duration": 7.0,
+    "text": "it does have its own permissions and its own ability to log in."
+  },
+  {
+    "start": 4284.0,
+    "duration": 4.0,
+    "text": "Or so like its own identity into certain things,"
+  },
+  {
+    "start": 4288.0,
+    "duration": 5.0,
+    "text": "depending upon your user permissions and the agent permissions."
+  },
+  {
+    "start": 4293.0,
+    "duration": 4.0,
+    "text": "And so that's that's why, you know,"
+  },
+  {
+    "start": 4297.0,
+    "duration": 3.0,
+    "text": "having that kind of capability and agent core so critical,"
+  },
+  {
+    "start": 4300.0,
+    "duration": 4.0,
+    "text": "because otherwise you wouldn't be able to do a lot of the things because"
+  },
+  {
+    "start": 4305.0,
+    "duration": 2.0,
+    "text": "it's all built in agent core as well."
+  },
+  {
+    "start": 4307.0,
+    "duration": 2.0,
+    "text": "No, no, not my personal stuff. So not OK. Yeah."
+  },
+  {
+    "start": 4309.0,
+    "duration": 4.0,
+    "text": "So we went back to that. So the expertise is all built in agent core."
+  },
+  {
+    "start": 4313.0,
+    "duration": 4.0,
+    "text": "My stuff is all actually just built. I've got it in my GitHub."
+  },
+  {
+    "start": 4317.0,
+    "duration": 2.0,
+    "text": "I have my system is called Let's Cook."
+  },
+  {
+    "start": 4319.0,
+    "duration": 3.0,
+    "text": "And so basically it's this it's this system I've got."
+  },
+  {
+    "start": 4322.0,
+    "duration": 3.0,
+    "text": "You know, I've got things like we built a brain."
+  },
+  {
+    "start": 4325.0,
+    "duration": 2.0,
+    "text": "And so that's where I store all of the docs."
+  },
+  {
+    "start": 4327.0,
+    "duration": 2.0,
+    "text": "So I've got like over thousands of docs in the brain."
+  },
+  {
+    "start": 4329.0,
+    "duration": 4.0,
+    "text": "They're just markdown files that are structured, that it can be referenced."
+  },
+  {
+    "start": 4334.0,
+    "duration": 3.0,
+    "text": "And and also the memory you're talking about memory earlier."
+  },
+  {
+    "start": 4337.0,
+    "duration": 5.0,
+    "text": "So the cool thing that I really and I think I use a couple different open"
+  },
+  {
+    "start": 4342.0,
+    "duration": 6.0,
+    "text": "sources I found, but ultimately I wanted it to constantly improve."
+  },
+  {
+    "start": 4348.0,
+    "duration": 4.0,
+    "text": "Again, as I mentioned, like the system that improves over in the business side,"
+  },
+  {
+    "start": 4352.0,
+    "duration": 2.0,
+    "text": "I actually build it first on my personal."
+  },
+  {
+    "start": 4355.0,
+    "duration": 5.0,
+    "text": "Like, how can you continuously improve through my work that I'm doing?"
+  },
+  {
+    "start": 4360.0,
+    "duration": 3.0,
+    "text": "What's the infrastructure that has to happen? How do you do it?"
+  },
+  {
+    "start": 4363.0,
+    "duration": 5.0,
+    "text": "And then we added in like Langtrace so I could I could track decisions."
+  },
+  {
+    "start": 4368.0,
+    "duration": 3.0,
+    "text": "So what decisions were made where and when?"
+  },
+  {
+    "start": 4371.0,
+    "duration": 3.0,
+    "text": "And so there's like these little components that I never would have thought"
+  },
+  {
+    "start": 4374.0,
+    "duration": 2.0,
+    "text": "about until I started using it."
+  },
+  {
+    "start": 4376.0,
+    "duration": 4.0,
+    "text": "And we're like, why can't I know what decisions were made three weeks ago?"
+  },
+  {
+    "start": 4380.0,
+    "duration": 3.0,
+    "text": "Or why did I have to repeat myself multiple times?"
+  },
+  {
+    "start": 4384.0,
+    "duration": 2.0,
+    "text": "And I think that's something we mentioned earlier in the episode,"
+  },
+  {
+    "start": 4386.0,
+    "duration": 2.0,
+    "text": "which was you and I using it."
+  },
+  {
+    "start": 4388.0,
+    "duration": 5.0,
+    "text": "We actually got into, well, this is breaking or I want this or why doesn't it"
+  },
+  {
+    "start": 4393.0,
+    "duration": 1.0,
+    "text": "work like this?"
+  },
+  {
+    "start": 4394.0,
+    "duration": 4.0,
+    "text": "And those questions kind of led to here's a solution that, you know,"
+  },
+  {
+    "start": 4398.0,
+    "duration": 1.0,
+    "text": "someone else's builder."
+  },
+  {
+    "start": 4399.0,
+    "duration": 4.0,
+    "text": "Here's a solution that I can go back and forth with the system to build and"
+  },
+  {
+    "start": 4403.0,
+    "duration": 4.0,
+    "text": "see if it works, you know, and still still things happen, you know,"
+  },
+  {
+    "start": 4407.0,
+    "duration": 2.0,
+    "text": "like cron jobs breaking, but, uh, but ultimately it gets,"
+  },
+  {
+    "start": 4409.0,
+    "duration": 3.0,
+    "text": "it gets better every day. Yeah. All of this is just on my own system,"
+  },
+  {
+    "start": 4412.0,
+    "duration": 1.0,
+    "text": "on my Mac mini."
+  },
+  {
+    "start": 4413.0,
+    "duration": 3.0,
+    "text": "So I've got my Mac mini and I've got GitHub and those are usually the,"
+  },
+  {
+    "start": 4416.0,
+    "duration": 4.0,
+    "text": "the places that ultimately a lot of this stuff is, is stored."
+  },
+  {
+    "start": 4421.0,
+    "duration": 1.0,
+    "text": "And the runtime is on the Mac mini."
+  },
+  {
+    "start": 4423.0,
+    "duration": 3.0,
+    "text": "Yeah. Everything, everything runs through, uh, runs through the Mac mini,"
+  },
+  {
+    "start": 4426.0,
+    "duration": 3.0,
+    "text": "even if I'm using, you know, my laptop or my iPad or my phone."
+  },
+  {
+    "start": 4430.0,
+    "duration": 1.0,
+    "text": "Okay, cool. What's the best thing,"
+  },
+  {
+    "start": 4431.0,
+    "duration": 3.0,
+    "text": "like the most valuable agent that you go back to the most?"
+  },
+  {
+    "start": 4434.0,
+    "duration": 3.0,
+    "text": "Probably my chief of staff. They help me personally."
+  },
+  {
+    "start": 4437.0,
+    "duration": 1.0,
+    "text": "So I have a personal OS."
+  },
+  {
+    "start": 4438.0,
+    "duration": 4.0,
+    "text": "So all the things that are important to me personally, my kids, logins,"
+  },
+  {
+    "start": 4442.0,
+    "duration": 5.0,
+    "text": "my kids, not logins, my kids stuff and schedules, like what's going on. Um,"
+  },
+  {
+    "start": 4448.0,
+    "duration": 4.0,
+    "text": "my, uh, you know, things I want to do or accomplish or whatever travel."
+  },
+  {
+    "start": 4452.0,
+    "duration": 1.0,
+    "text": "So it's got my stuff."
+  },
+  {
+    "start": 4453.0,
+    "duration": 3.0,
+    "text": "They can book me travel or it can like, uh, you know,"
+  },
+  {
+    "start": 4456.0,
+    "duration": 2.0,
+    "text": "match up my kids, uh,"
+  },
+  {
+    "start": 4458.0,
+    "duration": 3.0,
+    "text": "sports schedules with my work schedule and travel schedule and all these"
+  },
+  {
+    "start": 4461.0,
+    "duration": 2.0,
+    "text": "things. Um, and then I've got,"
+  },
+  {
+    "start": 4463.0,
+    "duration": 4.0,
+    "text": "then it's also have the business side of things where it knows me,"
+  },
+  {
+    "start": 4467.0,
+    "duration": 4.0,
+    "text": "knows my, you know, my memories, my domain expertise, et cetera."
+  },
+  {
+    "start": 4471.0,
+    "duration": 1.0,
+    "text": "I had to set all this up,"
+  },
+  {
+    "start": 4472.0,
+    "duration": 5.0,
+    "text": "but I go back to it because it can help me either on business or personal."
+  },
+  {
+    "start": 4478.0,
+    "duration": 3.0,
+    "text": "So even when I'm thinking, even when, even though it lives somewhere else,"
+  },
+  {
+    "start": 4481.0,
+    "duration": 2.0,
+    "text": "when I'm doing stuff, experimenting, I'm like, okay,"
+  },
+  {
+    "start": 4483.0,
+    "duration": 2.0,
+    "text": "I really need to think through how to do this."
+  },
+  {
+    "start": 4485.0,
+    "duration": 2.0,
+    "text": "So I'll ask it and it'll go through all of like my,"
+  },
+  {
+    "start": 4487.0,
+    "duration": 3.0,
+    "text": "almost like my second brain. It'll then use the GTM panel."
+  },
+  {
+    "start": 4490.0,
+    "duration": 3.0,
+    "text": "So I get advice from Kyle and others a lot, uh,"
+  },
+  {
+    "start": 4493.0,
+    "duration": 3.0,
+    "text": "on things in GTM related. So, um, so I,"
+  },
+  {
+    "start": 4496.0,
+    "duration": 3.0,
+    "text": "so I kind of have that going, but I always go back to,"
+  },
+  {
+    "start": 4499.0,
+    "duration": 2.0,
+    "text": "to it because the most,"
+  },
+  {
+    "start": 4501.0,
+    "duration": 4.0,
+    "text": "because I can use it for so many horizontal things versus very specific"
+  },
+  {
+    "start": 4505.0,
+    "duration": 3.0,
+    "text": "things. Um, hot tip, you can,"
+  },
+  {
+    "start": 4508.0,
+    "duration": 4.0,
+    "text": "if you use Robin hood for banking, uh,"
+  },
+  {
+    "start": 4512.0,
+    "duration": 4.0,
+    "text": "you can spin up virtual cards that are like purpose built for agents."
+  },
+  {
+    "start": 4516.0,
+    "duration": 1.0,
+    "text": "So you can, cause like,"
+  },
+  {
+    "start": 4517.0,
+    "duration": 4.0,
+    "text": "I don't really want my agent to have my credit card. I don't know."
+  },
+  {
+    "start": 4521.0,
+    "duration": 2.0,
+    "text": "I'm just not there yet. Um,"
+  },
+  {
+    "start": 4523.0,
+    "duration": 4.0,
+    "text": "you got to draw the line somewhere, right? Yeah."
+  },
+  {
+    "start": 4527.0,
+    "duration": 2.0,
+    "text": "We're getting close. Uh,"
+  },
+  {
+    "start": 4529.0,
+    "duration": 3.0,
+    "text": "but you can create a virtual card for yourself,"
+  },
+  {
+    "start": 4532.0,
+    "duration": 4.0,
+    "text": "like in your Robin hood account and give it like a $500 limit or whatever."
+  },
+  {
+    "start": 4536.0,
+    "duration": 2.0,
+    "text": "And there's some other like things built into it."
+  },
+  {
+    "start": 4538.0,
+    "duration": 3.0,
+    "text": "But then just give that, give the card details to your, to your agent."
+  },
+  {
+    "start": 4541.0,
+    "duration": 3.0,
+    "text": "So if you want it to actually go like purchase things, it can."
+  },
+  {
+    "start": 4544.0,
+    "duration": 3.0,
+    "text": "No shit. Okay. I'm going to have to check this out. I saw, you know,"
+  },
+  {
+    "start": 4547.0,
+    "duration": 4.0,
+    "text": "last time I was in my Robin hood, I kept popping up this, like, excuse me,"
+  },
+  {
+    "start": 4551.0,
+    "duration": 3.0,
+    "text": "this agentic thing. Like, Hey, have your aid, give your agents access."
+  },
+  {
+    "start": 4554.0,
+    "duration": 2.0,
+    "text": "I thought it was just for trading."
+  },
+  {
+    "start": 4556.0,
+    "duration": 3.0,
+    "text": "I didn't realize you could actually get spending money for purchases here."
+  },
+  {
+    "start": 4559.0,
+    "duration": 3.0,
+    "text": "This is in the Robin hood banking app."
+  },
+  {
+    "start": 4562.0,
+    "duration": 3.0,
+    "text": "So if you want to actually go like purchase things,"
+  },
+  {
+    "start": 4565.0,
+    "duration": 3.0,
+    "text": "this is in the Robin hood banking app. Like I,"
+  },
+  {
+    "start": 4568.0,
+    "duration": 3.0,
+    "text": "I have a got it. Got it. Got it. I,"
+  },
+  {
+    "start": 4571.0,
+    "duration": 6.0,
+    "text": "I created a Robin hood bank account because like you could buy like gold at"
+  },
+  {
+    "start": 4577.0,
+    "duration": 3.0,
+    "text": "this crazy like return."
+  },
+  {
+    "start": 4580.0,
+    "duration": 3.0,
+    "text": "And there's a bunch of stuff that's like pretty compelling in there."
+  },
+  {
+    "start": 4583.0,
+    "duration": 4.0,
+    "text": "And also like as a tech person, I just like wanted to experience the Robin hood,"
+  },
+  {
+    "start": 4587.0,
+    "duration": 6.0,
+    "text": "um, the Robin hood product. Um, and yeah,"
+  },
+  {
+    "start": 4593.0,
+    "duration": 3.0,
+    "text": "so I was like, I was in there. I was like, Oh dang. Like, you know, I can,"
+  },
+  {
+    "start": 4596.0,
+    "duration": 5.0,
+    "text": "I can like give my agent a card now and you can either set it up to like,"
+  },
+  {
+    "start": 4601.0,
+    "duration": 3.0,
+    "text": "you can, you have to approve every single one of them."
+  },
+  {
+    "start": 4604.0,
+    "duration": 6.0,
+    "text": "I turned off the approvals, but turned on the monthly limit."
+  },
+  {
+    "start": 4610.0,
+    "duration": 4.0,
+    "text": "So what do they, so I'm just curious then what have they bought for you?"
+  },
+  {
+    "start": 4614.0,
+    "duration": 2.0,
+    "text": "Do you like just ask it to buy things?"
+  },
+  {
+    "start": 4616.0,
+    "duration": 3.0,
+    "text": "Does it buy things that it thinks you need or want?"
+  },
+  {
+    "start": 4620.0,
+    "duration": 2.0,
+    "text": "Can you, can you tell me a little bit how you get it set up?"
+  },
+  {
+    "start": 4622.0,
+    "duration": 4.0,
+    "text": "Yeah, I'll just like say, Hey, go buy this for me. Or like, Hey,"
+  },
+  {
+    "start": 4626.0,
+    "duration": 2.0,
+    "text": "I'm looking for, cause like I wanted to buy,"
+  },
+  {
+    "start": 4628.0,
+    "duration": 3.0,
+    "text": "I've only done this successfully like with like one thing."
+  },
+  {
+    "start": 4631.0,
+    "duration": 4.0,
+    "text": "I only set this up recently, but, um, I was like,"
+  },
+  {
+    "start": 4635.0,
+    "duration": 5.0,
+    "text": "I need new of this like one particular sock that I've bought a bunch of times."
+  },
+  {
+    "start": 4640.0,
+    "duration": 3.0,
+    "text": "I was like, go rebuy my last thing."
+  },
+  {
+    "start": 4643.0,
+    "duration": 5.0,
+    "text": "And it successfully like went through the flow and it has all my like personal"
+  },
+  {
+    "start": 4648.0,
+    "duration": 4.0,
+    "text": "details. So, and then that was like a light bulb moment. I was like, Oh shit."
+  },
+  {
+    "start": 4652.0,
+    "duration": 2.0,
+    "text": "Like maybe, cause there's always,"
+  },
+  {
+    "start": 4654.0,
+    "duration": 3.0,
+    "text": "there's like stuff that I think about and I'm like, Oh,"
+  },
+  {
+    "start": 4657.0,
+    "duration": 3.0,
+    "text": "I got to like find it and add it to a card. And like,"
+  },
+  {
+    "start": 4660.0,
+    "duration": 4.0,
+    "text": "I'm just like the minor crap. Um,"
+  },
+  {
+    "start": 4664.0,
+    "duration": 6.0,
+    "text": "I would love to be able to give it like Amazon should create like a,"
+  },
+  {
+    "start": 4670.0,
+    "duration": 7.0,
+    "text": "you should be able to create like agentic access to your Amazon account where"
+  },
+  {
+    "start": 4678.0,
+    "duration": 2.0,
+    "text": "yeah, it can, you know,"
+  },
+  {
+    "start": 4680.0,
+    "duration": 5.0,
+    "text": "not shop through the visual interface, like the graphic,"
+  },
+  {
+    "start": 4685.0,
+    "duration": 3.0,
+    "text": "graphical interface, but like it should be able to purchase like, um,"
+  },
+  {
+    "start": 4688.0,
+    "duration": 3.0,
+    "text": "through like agentic needs. So"
+  },
+  {
+    "start": 4691.0,
+    "duration": 2.0,
+    "text": "I agree. And, and, you know,"
+  },
+  {
+    "start": 4693.0,
+    "duration": 5.0,
+    "text": "they try to do this subscribe and save thing and it's just all manual and it's"
+  },
+  {
+    "start": 4698.0,
+    "duration": 3.0,
+    "text": "frustrating because sometimes I don't need it. You know,"
+  },
+  {
+    "start": 4701.0,
+    "duration": 2.0,
+    "text": "I don't run out just on the subscription."
+  },
+  {
+    "start": 4703.0,
+    "duration": 3.0,
+    "text": "So I either, either get more than I need sometimes or I get,"
+  },
+  {
+    "start": 4706.0,
+    "duration": 3.0,
+    "text": "or I need it quicker. And I, you know,"
+  },
+  {
+    "start": 4709.0,
+    "duration": 3.0,
+    "text": "there's this like interesting thing to your point where things are going."
+  },
+  {
+    "start": 4712.0,
+    "duration": 4.0,
+    "text": "I do feel it would be amazing if it did,"
+  },
+  {
+    "start": 4716.0,
+    "duration": 1.0,
+    "text": "was able to shop because then,"
+  },
+  {
+    "start": 4717.0,
+    "duration": 5.0,
+    "text": "and it had access to my calendar and it had where I could just like tell it"
+  },
+  {
+    "start": 4722.0,
+    "duration": 1.0,
+    "text": "the voice. Cause I,"
+  },
+  {
+    "start": 4723.0,
+    "duration": 4.0,
+    "text": "I use voice more than I use typing now and just tell it what I,"
+  },
+  {
+    "start": 4727.0,
+    "duration": 2.0,
+    "text": "what I think I'm low on or whatever."
+  },
+  {
+    "start": 4729.0,
+    "duration": 4.0,
+    "text": "And then it just goes and like carts things or buys things. Um, you know,"
+  },
+  {
+    "start": 4733.0,
+    "duration": 3.0,
+    "text": "if I'm coming up on a trip and may recommend some things, Hey,"
+  },
+  {
+    "start": 4736.0,
+    "duration": 3.0,
+    "text": "you kids need swimsuits for this trip. Cause you're going to the beach."
+  },
+  {
+    "start": 4739.0,
+    "duration": 2.0,
+    "text": "I would love to have something like that."
+  },
+  {
+    "start": 4741.0,
+    "duration": 3.0,
+    "text": "I don't have to think about much other than just, you know,"
+  },
+  {
+    "start": 4744.0,
+    "duration": 4.0,
+    "text": "just telling it, um, to, to, to think about it for me. So,"
+  },
+  {
+    "start": 4748.0,
+    "duration": 3.0,
+    "text": "or to check in with me, Hey, is your toilet paper running low?"
+  },
+  {
+    "start": 4751.0,
+    "duration": 3.0,
+    "text": "Or do you need some more? Actually, you know what? Yeah, I do. Thank you."
+  },
+  {
+    "start": 4754.0,
+    "duration": 1.0,
+    "text": "Can you order that for me?"
+  },
+  {
+    "start": 4756.0,
+    "duration": 3.0,
+    "text": "Yeah. So virtual cards in Robin hood."
+  },
+  {
+    "start": 4759.0,
+    "duration": 2.0,
+    "text": "This is probably the like, uh,"
+  },
+  {
+    "start": 4762.0,
+    "duration": 3.0,
+    "text": "most secure way of like thought to do it so far."
+  },
+  {
+    "start": 4766.0,
+    "duration": 2.0,
+    "text": "Makes sense. And it makes sense that a bank,"
+  },
+  {
+    "start": 4769.0,
+    "duration": 5.0,
+    "text": "a financial institution would make you feel more comfortable about that than"
+  },
+  {
+    "start": 4774.0,
+    "duration": 3.0,
+    "text": "some tech, you know, some, some agent tech thing. Right."
+  },
+  {
+    "start": 4777.0,
+    "duration": 2.0,
+    "text": "I think that makes a ton of sense. And actually that's,"
+  },
+  {
+    "start": 4779.0,
+    "duration": 2.0,
+    "text": "kudos Robin hood for leaning in there."
+  },
+  {
+    "start": 4781.0,
+    "duration": 4.0,
+    "text": "Cause that may actually be what gets people more safe and secure."
+  },
+  {
+    "start": 4785.0,
+    "duration": 3.0,
+    "text": "It's like, Oh, I already had, they already trust them with my money."
+  },
+  {
+    "start": 4788.0,
+    "duration": 3.0,
+    "text": "If I'm trusting an agent that's using them for my money,"
+  },
+  {
+    "start": 4791.0,
+    "duration": 3.0,
+    "text": "then I have some protections and the same protections I have because my money"
+  },
+  {
+    "start": 4794.0,
+    "duration": 3.0,
+    "text": "sits there anyway. So it makes complete sense. Yeah."
+  },
+  {
+    "start": 4797.0,
+    "duration": 4.0,
+    "text": "And mine's on a $500 limit. So like if it goes haywire one month,"
+  },
+  {
+    "start": 4801.0,
+    "duration": 5.0,
+    "text": "I'm not dying to waste 300 bucks or something, but you know,"
+  },
+  {
+    "start": 4806.0,
+    "duration": 4.0,
+    "text": "it's a spending limits for everybody. Well, this was awesome."
+  },
+  {
+    "start": 4810.0,
+    "duration": 4.0,
+    "text": "Jmos like, uh, I, we got through a bunch of cool stuff. I learned a ton."
+  },
+  {
+    "start": 4815.0,
+    "duration": 1.0,
+    "text": "Um, I think,"
+  },
+  {
+    "start": 4816.0,
+    "duration": 4.0,
+    "text": "I think it's really going to help people like structuring their thinking about"
+  },
+  {
+    "start": 4820.0,
+    "duration": 5.0,
+    "text": "like how to go tackle this, this whole problem set. And man,"
+  },
+  {
+    "start": 4825.0,
+    "duration": 4.0,
+    "text": "you guys are doing some cool stuff. Uh, so big kudos. Uh,"
+  },
+  {
+    "start": 4829.0,
+    "duration": 3.0,
+    "text": "so appreciate you joining and uh, we'll get you back on soon."
+  },
+  {
+    "start": 4833.0,
+    "duration": 2.0,
+    "text": "It was fun, man. Thank you for having me. Appreciate it."
+  },
+  {
+    "start": 4835.0,
+    "duration": 3.0,
+    "text": "Thank you for listening to the revenue leadership podcast."
+  },
+  {
+    "start": 4838.0,
+    "duration": 1.0,
+    "text": "If you enjoyed it,"
+  },
+  {
+    "start": 4839.0,
+    "duration": 5.0,
+    "text": "don't forget to subscribe and you can find a link in the show notes and be sure"
+  },
+  {
+    "start": 4844.0,
+    "duration": 3.0,
+    "text": "to leave a five star review, share it with your network."
+  },
+  {
+    "start": 4847.0,
+    "duration": 3.0,
+    "text": "And please join me next Wednesday for another great conversation."
+  }
+]

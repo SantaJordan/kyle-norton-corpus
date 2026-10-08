@@ -1,0 +1,4172 @@
+[
+  {
+    "start": 0.0,
+    "duration": 5.92,
+    "text": "I'm excited to be joined today by Jason Gellman, who is an operating partner at Primary Ventures"
+  },
+  {
+    "start": 5.92,
+    "duration": 6.02,
+    "text": "and co-founder of Jump, which is a revenue calendar for revenue leaders, which we'll"
+  },
+  {
+    "start": 11.94,
+    "duration": 6.98,
+    "text": "learn a little bit about. Primary is an early-stage venture capital fund, primarily seed and pre-seed,"
+  },
+  {
+    "start": 18.92,
+    "duration": 7.62,
+    "text": "that takes a strategy of low volumes of investments, very high conviction strategy, and then backs"
+  },
+  {
+    "start": 26.54,
+    "duration": 7.12,
+    "text": "that portfolio with a ton of resources, like Jason, and they've backed companies like Alloy,"
+  },
+  {
+    "start": 33.66,
+    "duration": 6.04,
+    "text": "Alma, Chief, Electric, K Health, Vestwell, and many, many more."
+  },
+  {
+    "start": 39.7,
+    "duration": 4.52,
+    "text": "Prior to Primary, Jason spent four and a half years at Compass, where he was the head of"
+  },
+  {
+    "start": 44.22,
+    "duration": 6.2,
+    "text": "revenue strategy and operations from somewhere around 100 million, memories are hazy, all"
+  },
+  {
+    "start": 50.42,
+    "duration": 7.32,
+    "text": "the way through to a $6 billion revenue run rate and a successful IPO, which raised $450"
+  },
+  {
+    "start": 57.74,
+    "duration": 5.96,
+    "text": "million in capital at the time. So, lots to get into, and appreciate you joining me, Jason."
+  },
+  {
+    "start": 63.7,
+    "duration": 4.0,
+    "text": "Thanks for having me, and this is my very first podcast, so I'm really excited about it."
+  },
+  {
+    "start": 67.7,
+    "duration": 1.0,
+    "text": "Good stuff."
+  },
+  {
+    "start": 73.7,
+    "duration": 6.0,
+    "text": "Hello and welcome to the Revenue Leadership Podcast by Topline. I'm your host, Kyle Norton,"
+  },
+  {
+    "start": 79.98,
+    "duration": 7.0,
+    "text": "CEO at Owner.com, and every Wednesday, we dive deep into the strategies and tactics being used"
+  },
+  {
+    "start": 86.98,
+    "duration": 5.76,
+    "text": "to drive success by the best revenue leaders in the world. So, join me as I sit down with"
+  },
+  {
+    "start": 92.74,
+    "duration": 4.04,
+    "text": "revenue operators to discuss actionable frameworks that you can implement in your"
+  },
+  {
+    "start": 96.78,
+    "duration": 4.68,
+    "text": "business today with no fluff, no sales pitches, and no platitudes."
+  },
+  {
+    "start": 110.46,
+    "duration": 5.24,
+    "text": "This episode of the Revenue Leadership Podcast is brought to you by SuperHuman. SuperHuman"
+  },
+  {
+    "start": 115.7,
+    "duration": 5.56,
+    "text": "is an AI-powered email app that helps sellers respond, collaborate, and close faster. With"
+  },
+  {
+    "start": 121.26,
+    "duration": 5.32,
+    "text": "features like inbox triage, automatic reminders, and collaborative email drafts, reps can filter"
+  },
+  {
+    "start": 126.58,
+    "duration": 5.0,
+    "text": "out distractions to focus on what they do best, selling. Get the email experience that"
+  },
+  {
+    "start": 131.58,
+    "duration": 6.12,
+    "text": "keeps deals moving. Try SuperHuman free for one month at superhuman.com slash pavilion."
+  },
+  {
+    "start": 138.7,
+    "duration": 5.0,
+    "text": "So, what did I miss in the intro? Give people, like, your 60-second background, anything"
+  },
+  {
+    "start": 143.7,
+    "duration": 2.56,
+    "text": "that I failed to cover there."
+  },
+  {
+    "start": 146.26,
+    "duration": 6.52,
+    "text": "Yeah, sure. So, I actually started my career as a lawyer. Very quickly realized that that"
+  },
+  {
+    "start": 152.78,
+    "duration": 6.0,
+    "text": "wasn't the thing for me and got an opportunity to join, to jump into the tech industry and"
+  },
+  {
+    "start": 158.78,
+    "duration": 4.44,
+    "text": "have been there ever since in the New York tech scene. I had this idea that I was going"
+  },
+  {
+    "start": 163.22,
+    "duration": 3.84,
+    "text": "to be a business builder. I didn't quite know what that meant, but I love the energy and"
+  },
+  {
+    "start": 167.42,
+    "duration": 5.4,
+    "text": "innovation in the tech world. And that ended up manifesting itself in biz ops and then"
+  },
+  {
+    "start": 172.82,
+    "duration": 6.64,
+    "text": "kind of rev ops. And that's where I really got my experience over about 13 years at four"
+  },
+  {
+    "start": 179.46,
+    "duration": 5.52,
+    "text": "different companies, two MarTech SaaS companies prior to Compass. And then Compass was really"
+  },
+  {
+    "start": 184.98,
+    "duration": 4.72,
+    "text": "tech enabled. And the idea was, let's bring the best of the go-to-market SaaS playbook"
+  },
+  {
+    "start": 189.7,
+    "duration": 2.96,
+    "text": "to building a modern real estate brokerage."
+  },
+  {
+    "start": 192.66,
+    "duration": 4.68,
+    "text": "And then for the last two and a half years, I've been at primary. This is the first time"
+  },
+  {
+    "start": 197.34,
+    "duration": 4.28,
+    "text": "working at a VC firm versus building an actual startup."
+  },
+  {
+    "start": 201.62,
+    "duration": 5.96,
+    "text": "Very cool. So, first question that people might be wondering, what the heck is an operating"
+  },
+  {
+    "start": 207.58,
+    "duration": 1.0,
+    "text": "partner?"
+  },
+  {
+    "start": 208.58,
+    "duration": 6.76,
+    "text": "Yeah, good place to start. So, an operating partner is somebody that works at a VC firm"
+  },
+  {
+    "start": 215.34,
+    "duration": 5.16,
+    "text": "that does not write checks into startups or serve on boards usually. But what they do"
+  },
+  {
+    "start": 220.54,
+    "duration": 6.4,
+    "text": "is once the check is written, they bring some kind of functional expertise and domain expertise"
+  },
+  {
+    "start": 226.94,
+    "duration": 7.12,
+    "text": "to working with the startup as a consultant advisor support system for those startups."
+  },
+  {
+    "start": 234.06,
+    "duration": 6.6,
+    "text": "And the role really varies based on the stage that the VC firm invests in. So, I work at"
+  },
+  {
+    "start": 240.66,
+    "duration": 5.32,
+    "text": "primary. We are seed investors. Every time we invest in an amazing founder, amazing company,"
+  },
+  {
+    "start": 245.98,
+    "duration": 6.96,
+    "text": "amazing vision, what are we also investing in? Pre-product market fit, sales, early scrappy"
+  },
+  {
+    "start": 252.94,
+    "duration": 1.0,
+    "text": "hustle."
+  },
+  {
+    "start": 253.94,
+    "duration": 4.52,
+    "text": "And so, that's my version of being an operating partner. You can imagine if you're a series"
+  },
+  {
+    "start": 258.46,
+    "duration": 6.32,
+    "text": "C or D VC firm, your operating partner there is probably not rolling up their sleeves and"
+  },
+  {
+    "start": 264.78,
+    "duration": 4.96,
+    "text": "doing creative things around how do we get our first customers. It's much more the scaling"
+  },
+  {
+    "start": 269.74,
+    "duration": 4.68,
+    "text": "the machine and board level and strategy level topics."
+  },
+  {
+    "start": 274.42,
+    "duration": 8.12,
+    "text": "It makes a ton of sense. We could do an entire episode on founder-led sales. I think that's"
+  },
+  {
+    "start": 282.54,
+    "duration": 6.76,
+    "text": "the most common LinkedIn message I get coming inbound is, I got three or four customers."
+  },
+  {
+    "start": 289.3,
+    "duration": 7.0,
+    "text": "What do I do? How do I scale this thing? It is a really difficult chasm to cross. And"
+  },
+  {
+    "start": 296.3,
+    "duration": 7.32,
+    "text": "so, it's great to see that you guys are supporting founders there. It's badly needed."
+  },
+  {
+    "start": 303.74,
+    "duration": 6.12,
+    "text": "And so, is operating partner and your previous title VP go to market? Is that largely the"
+  },
+  {
+    "start": 309.86,
+    "duration": 2.28,
+    "text": "same, just sort of a different seniority now?"
+  },
+  {
+    "start": 312.14,
+    "duration": 1.0,
+    "text": "Yeah, that's right."
+  },
+  {
+    "start": 313.14,
+    "duration": 1.0,
+    "text": "Okay, cool."
+  },
+  {
+    "start": 314.14,
+    "duration": 3.36,
+    "text": "You know, VC firms typically... And one of the things you have to learn if you ever do"
+  },
+  {
+    "start": 317.5,
+    "duration": 4.64,
+    "text": "join a VC firm is, it's an investment firm. It's not a startup. And so, some of the cultural"
+  },
+  {
+    "start": 322.14,
+    "duration": 5.6,
+    "text": "things and the things about operating rhythms, titles, org design, it's just different than"
+  },
+  {
+    "start": 327.74,
+    "duration": 7.44,
+    "text": "a startup. And partner, at most firms, has some maybe equivalency to an accounting firm"
+  },
+  {
+    "start": 335.18,
+    "duration": 5.04,
+    "text": "or a law firm where there's a partner team. And so, that's really the only material difference"
+  },
+  {
+    "start": 340.22,
+    "duration": 1.76,
+    "text": "is I've joined the partner team."
+  },
+  {
+    "start": 341.98,
+    "duration": 5.96,
+    "text": "Cool. And so, you'll work across every portfolio company with primary?"
+  },
+  {
+    "start": 347.94,
+    "duration": 7.04,
+    "text": "In some way, yes. But we have at least 100 companies in our portfolio. I don't work with"
+  },
+  {
+    "start": 355.1,
+    "duration": 4.56,
+    "text": "all of those. Certainly, some of them are scaling or growth stage companies where I"
+  },
+  {
+    "start": 359.66,
+    "duration": 6.64,
+    "text": "might be able to help and create less leverage. But let's say there's a pool of 50 companies"
+  },
+  {
+    "start": 366.3,
+    "duration": 5.8,
+    "text": "that I might be actively in touch with at a given time. I could not possibly do deep"
+  },
+  {
+    "start": 372.1,
+    "duration": 2.16,
+    "text": "work for 50 companies at once."
+  },
+  {
+    "start": 374.26,
+    "duration": 7.04,
+    "text": "And so, the way that we try to do it is, first, there are certain companies that clearly need"
+  },
+  {
+    "start": 381.3,
+    "duration": 4.72,
+    "text": "the most help or are asking for the most help. That's one way we can sort of prioritize."
+  },
+  {
+    "start": 386.02,
+    "duration": 6.28,
+    "text": "Another one is companies that we just invested in. And so, we're A, building a relationship,"
+  },
+  {
+    "start": 392.3,
+    "duration": 5.72,
+    "text": "building up our relationship and working together. And B, that's a really important time for"
+  },
+  {
+    "start": 398.02,
+    "duration": 5.04,
+    "text": "us to learn the business, learn the customer. So, that's an example of how we could prioritize."
+  },
+  {
+    "start": 403.06,
+    "duration": 1.7,
+    "text": "And there's a few other ways as well."
+  },
+  {
+    "start": 404.76,
+    "duration": 5.42,
+    "text": "And so, in reality, what I'm doing is probably working very, very closely with 6 to 10 companies"
+  },
+  {
+    "start": 410.18,
+    "duration": 5.64,
+    "text": "at once. And then, I'm in touch and in rhythm with another 10 to 15 companies, whether it's"
+  },
+  {
+    "start": 415.82,
+    "duration": 6.4,
+    "text": "a one-to-one or check-ins or trading notes or doing some work there. And then, I also"
+  },
+  {
+    "start": 422.22,
+    "duration": 5.56,
+    "text": "do bring in outside consultants at some points where there are direct matter gaps, domain"
+  },
+  {
+    "start": 427.78,
+    "duration": 4.72,
+    "text": "expertise gaps that I can't fill. So, we do have other people that come in to help where"
+  },
+  {
+    "start": 432.5,
+    "duration": 2.16,
+    "text": "I just don't have the right relevant experience."
+  },
+  {
+    "start": 434.78,
+    "duration": 6.68,
+    "text": "Nice. Okay, cool. And so, what's Jump? I read revenue calendar. I didn't know what that"
+  },
+  {
+    "start": 441.46,
+    "duration": 1.0,
+    "text": "was, but it sounds interesting."
+  },
+  {
+    "start": 442.46,
+    "duration": 5.24,
+    "text": "Yeah. So, Jump is a new startup that I'm a co-founder of with two other friends and partners"
+  },
+  {
+    "start": 447.7,
+    "duration": 6.72,
+    "text": "of mine. What we're doing is building a tool that's built for revenue leaders. So, they"
+  },
+  {
+    "start": 454.42,
+    "duration": 4.6,
+    "text": "are the user that we have in mind. And it's really to solve a problem that myself and"
+  },
+  {
+    "start": 459.02,
+    "duration": 6.0,
+    "text": "my co-founder, Jordan Kennedy, have experienced ourselves over many years of running revenue"
+  },
+  {
+    "start": 465.02,
+    "duration": 8.64,
+    "text": "organizations. And the short explanation is that we think that the calendar for a sales-led"
+  },
+  {
+    "start": 473.66,
+    "duration": 6.72,
+    "text": "organization has a lot of important data and insights, but it's stuck in the calendar."
+  },
+  {
+    "start": 480.38,
+    "duration": 5.32,
+    "text": "And we have always had issues getting data out of the calendar to drive insights and"
+  },
+  {
+    "start": 486.7,
+    "duration": 4.92,
+    "text": "that is the thesis for the company we're building. And we're actually doing it in a different"
+  },
+  {
+    "start": 491.62,
+    "duration": 4.2,
+    "text": "way than the traditional VC-backed startup. And I'm happy to explain more about that if"
+  },
+  {
+    "start": 495.82,
+    "duration": 1.0,
+    "text": "helpful."
+  },
+  {
+    "start": 496.82,
+    "duration": 2.0,
+    "text": "Yeah, let's hear it."
+  },
+  {
+    "start": 498.82,
+    "duration": 9.12,
+    "text": "Yeah. So, one of the reasons I joined Primary was that I felt like there was a lot of innovation"
+  },
+  {
+    "start": 507.94,
+    "duration": 4.1,
+    "text": "happening in the world. And when you're operating heads down at one startup, it's very easy"
+  },
+  {
+    "start": 512.12,
+    "duration": 4.72,
+    "text": "to see all the innovations happening and you're just focused and grinding. And we're going"
+  },
+  {
+    "start": 516.84,
+    "duration": 3.72,
+    "text": "to build the best tech-enabled real estate brokerage in the world. And it's like, well,"
+  },
+  {
+    "start": 520.56,
+    "duration": 1.6,
+    "text": "hold on, what's happening in the rest of the world?"
+  },
+  {
+    "start": 522.16,
+    "duration": 7.72,
+    "text": "And so, part of joining Primary was to really see a broader sense of innovation. It was"
+  },
+  {
+    "start": 529.88,
+    "duration": 4.2,
+    "text": "also though for me, I had always had the ambition to start my own company. And I felt like I"
+  },
+  {
+    "start": 534.08,
+    "duration": 4.44,
+    "text": "needed a little bit of a creative spark again. And so, Primary, it's like I get to work with"
+  },
+  {
+    "start": 538.52,
+    "duration": 7.84,
+    "text": "all these amazing founders, doing these really ambitious things. And when I got there and"
+  },
+  {
+    "start": 546.36,
+    "duration": 5.92,
+    "text": "started to work with all these different founders, I got inspired. Like I said, if I'm coaching"
+  },
+  {
+    "start": 552.28,
+    "duration": 3.8,
+    "text": "and teaching founders how to do this and bring a product into the market, I got to be able"
+  },
+  {
+    "start": 556.08,
+    "duration": 1.36,
+    "text": "to do this myself."
+  },
+  {
+    "start": 557.44,
+    "duration": 5.38,
+    "text": "And so, that was point one. Point two, though, is that when you work at a VC firm, it really"
+  },
+  {
+    "start": 562.82,
+    "duration": 4.34,
+    "text": "gives you sharp insight into which business that should raise venture capital and which"
+  },
+  {
+    "start": 567.28,
+    "duration": 6.6,
+    "text": "one shouldn't. And a lot of interesting software products that come in that solve problems"
+  },
+  {
+    "start": 573.88,
+    "duration": 4.08,
+    "text": "for customers, but that probably should not raise venture capital."
+  },
+  {
+    "start": 577.96,
+    "duration": 6.76,
+    "text": "And venture capital, you get on the VC treadmill, you are really shooting for very, very large"
+  },
+  {
+    "start": 584.72,
+    "duration": 5.4,
+    "text": "outcomes. And so, VC is a great tool for certain kinds of businesses that have the market,"
+  },
+  {
+    "start": 590.12,
+    "duration": 3.0,
+    "text": "the potential, the..."
+  },
+  {
+    "start": 593.12,
+    "duration": 1.0,
+    "text": "Ambition."
+  },
+  {
+    "start": 594.12,
+    "duration": 6.12,
+    "text": "Ambition, innovation to become an enduring iconic company. But then you see a lot of"
+  },
+  {
+    "start": 600.24,
+    "duration": 5.56,
+    "text": "businesses and it's hard to figure out how they're going to... Is that the best expression"
+  },
+  {
+    "start": 605.8,
+    "duration": 5.76,
+    "text": "of the business? And so, when we came up with our idea for Jump, partly informed by my experience"
+  },
+  {
+    "start": 611.56,
+    "duration": 4.84,
+    "text": "of Primary, I said, I think this idea can help customers, but I don't think it is a"
+  },
+  {
+    "start": 616.4,
+    "duration": 7.4,
+    "text": "worthy business for venture capital."
+  },
+  {
+    "start": 623.8,
+    "duration": 4.84,
+    "text": "Let's go one layer deeper there. So, you get a bunch of these companies coming across"
+  },
+  {
+    "start": 628.64,
+    "duration": 6.56,
+    "text": "your desk. How do you like to explain who should raise venture versus who should bootstrap"
+  },
+  {
+    "start": 635.2,
+    "duration": 2.68,
+    "text": "or go a different funding route?"
+  },
+  {
+    "start": 637.88,
+    "duration": 7.36,
+    "text": "Yeah. I don't know that there's a perfect one size fits all answer here, but we're living"
+  },
+  {
+    "start": 645.24,
+    "duration": 6.76,
+    "text": "in the age of AI innovation and transformation. And what used to require lots and lots of"
+  },
+  {
+    "start": 652.0,
+    "duration": 5.6,
+    "text": "capital to get a company or an idea off the ground doesn't require as much right now."
+  },
+  {
+    "start": 657.6,
+    "duration": 6.48,
+    "text": "And so, there's a lot of examples of companies that maybe three or four years ago would raise"
+  },
+  {
+    "start": 664.08,
+    "duration": 5.96,
+    "text": "venture that could really be started as a test and you can build a product, get it to"
+  },
+  {
+    "start": 670.04,
+    "duration": 5.52,
+    "text": "market and validate the idea and keep optionality open."
+  },
+  {
+    "start": 675.56,
+    "duration": 7.64,
+    "text": "The one answer to this is a company that comes in, has almost no product built or a"
+  },
+  {
+    "start": 683.2,
+    "duration": 4.68,
+    "text": "little bit of product and has no real customer proof points may not be a great candidate"
+  },
+  {
+    "start": 687.88,
+    "duration": 4.16,
+    "text": "for venture capital in today's day and age, especially in a crowded market like something"
+  },
+  {
+    "start": 692.04,
+    "duration": 4.48,
+    "text": "like go-to-market SaaS, where there's a lot of incumbents, there's a lot of new entrants"
+  },
+  {
+    "start": 696.52,
+    "duration": 3.6,
+    "text": "and the lines are getting blurred across all these different categories."
+  },
+  {
+    "start": 700.12,
+    "duration": 4.16,
+    "text": "And so, each new company that comes in to raise the seed round, the bar is just really,"
+  },
+  {
+    "start": 704.44,
+    "duration": 5.84,
+    "text": "really high for a seed investor to say, how does this one company become the next gong or the next"
+  },
+  {
+    "start": 711.0,
+    "duration": 7.2,
+    "text": "category-defining business? So, that's one, which is go show that you have amazing revenue"
+  },
+  {
+    "start": 718.2,
+    "duration": 4.48,
+    "text": "traction and usage traction early and then raise venture capital because you've clearly broken"
+  },
+  {
+    "start": 722.68,
+    "duration": 12.16,
+    "text": "through. The other one is, I think that people misunderstand. I probably understood this a"
+  },
+  {
+    "start": 734.84,
+    "duration": 5.44,
+    "text": "little bit before I joined primary, but now I really deeply understand it, which is, I think"
+  },
+  {
+    "start": 740.28,
+    "duration": 7.36,
+    "text": "you raise from institutional investors, even early stage, you are in the VC game."
+  },
+  {
+    "start": 748.2,
+    "duration": 9.6,
+    "text": "Like me, we can raise a seed round, but oh, it's early. We only do as a firm 12 to 15 deals a year"
+  },
+  {
+    "start": 757.8,
+    "duration": 6.96,
+    "text": "and we see a thousand or more. And so, those 12 to 15, part of our underwriting and our process"
+  },
+  {
+    "start": 764.76,
+    "duration": 5.2,
+    "text": "for research and diligence is we're betting on a founder, a product and a market that has"
+  },
+  {
+    "start": 769.96,
+    "duration": 7.44,
+    "text": "ambitions to go big. And some founders may come in and not realize that you raise a seed round,"
+  },
+  {
+    "start": 777.64,
+    "duration": 4.08,
+    "text": "but I'll figure out what my growth ambitions are later. And you have to be really aligned"
+  },
+  {
+    "start": 781.72,
+    "duration": 3.68,
+    "text": "with your investor on exactly what you're going for. Yeah, makes a ton of sense."
+  },
+  {
+    "start": 786.92,
+    "duration": 5.2,
+    "text": "And so, Jump is trying to pull out information. So, you'll provide the calendar for a sales team"
+  },
+  {
+    "start": 792.12,
+    "duration": 5.68,
+    "text": "to use that's better integrated into a CRM or a data layer or something like that?"
+  },
+  {
+    "start": 797.8,
+    "duration": 5.52,
+    "text": "Yeah. So, what Jump is doing, our thesis is unlock the calendar. There's a lot of"
+  },
+  {
+    "start": 803.32,
+    "duration": 3.92,
+    "text": "important things in the calendar. And we're going to build three different products around"
+  },
+  {
+    "start": 807.24,
+    "duration": 3.6,
+    "text": "that. But the one that's live today that we're working with our very first customers on is"
+  },
+  {
+    "start": 810.84,
+    "duration": 4.64,
+    "text": "called the revenue calendar. And what it's doing is going into calendars of all the different"
+  },
+  {
+    "start": 816.12,
+    "duration": 5.52,
+    "text": "people that speak with customers in your organization, SDR, sales, CS, AM and leadership."
+  },
+  {
+    "start": 821.64,
+    "duration": 5.12,
+    "text": "It is finding all the external meetings. It's unifying them onto one calendar so that if you're"
+  },
+  {
+    "start": 826.76,
+    "duration": 5.6,
+    "text": "a revenue leader, you're a CEO that's commercial leaning or you're any other VP or C-level that"
+  },
+  {
+    "start": 832.44,
+    "duration": 3.12,
+    "text": "has to be in the flow of which customers are we meeting with."
+  },
+  {
+    "start": 835.56,
+    "duration": 6.48,
+    "text": "It gives you one place to see all this information. And the idea for us and the reason we built this"
+  },
+  {
+    "start": 842.04,
+    "duration": 6.72,
+    "text": "was almost to solve a problem that we had was by the time you get to the call recording,"
+  },
+  {
+    "start": 848.76,
+    "duration": 4.32,
+    "text": "it's too late. The goal of revenue leaders is that they provide the most leverage."
+  },
+  {
+    "start": 853.08,
+    "duration": 4.0,
+    "text": "And by the time the call recording, the meeting happens, the call recording happens, great. You"
+  },
+  {
+    "start": 857.08,
+    "duration": 4.24,
+    "text": "can coach and teach on what to do next. But there's a lot of stuff that you can do if you"
+  },
+  {
+    "start": 861.32,
+    "duration": 5.44,
+    "text": "know where to proactively intervene. And your revenue leader, like yourself, your CEO,"
+  },
+  {
+    "start": 867.64,
+    "duration": 5.6,
+    "text": "every Monday morning you show up, your calendar is booked solid. You're already in tons of meetings"
+  },
+  {
+    "start": 873.24,
+    "duration": 5.68,
+    "text": "every week. You have to chase people around if you want to know what the flow of the week."
+  },
+  {
+    "start": 878.92,
+    "duration": 4.32,
+    "text": "And so for us, it's like, this gives you a chance to optimize your time as a leader,"
+  },
+  {
+    "start": 883.24,
+    "duration": 5.52,
+    "text": "your leverage and be where you want to be. Whether that is helping internally prep for"
+  },
+  {
+    "start": 888.76,
+    "duration": 4.72,
+    "text": "things or check on things and mitigate risks or it's external, like I want to join three"
+  },
+  {
+    "start": 894.6,
+    "duration": 2.88,
+    "text": "customer calls a week and which are the right ones for me to join."
+  },
+  {
+    "start": 898.28,
+    "duration": 6.32,
+    "text": "Very cool. Okay, let's get into our two main topics. So topic one is"
+  },
+  {
+    "start": 905.56,
+    "duration": 5.36,
+    "text": "you making this operator to VC transition. More and more folks are doing that. So I'd love to"
+  },
+  {
+    "start": 910.92,
+    "duration": 6.0,
+    "text": "understand why and how and lessons there. And then we want to dive into what you've learned"
+  },
+  {
+    "start": 917.48,
+    "duration": 4.96,
+    "text": "now on the investment side that you wish you would have known as an operator, because I think"
+  },
+  {
+    "start": 923.0,
+    "duration": 4.08,
+    "text": "viewing the same problems from new angles is such an interesting way to"
+  },
+  {
+    "start": 929.4,
+    "duration": 5.28,
+    "text": "acquire new mental models and really learn. So we'll unpack that for all the operators."
+  },
+  {
+    "start": 935.72,
+    "duration": 7.12,
+    "text": "So let's start with the transition to VC. So a recent post of yours, you mentioned why"
+  },
+  {
+    "start": 942.84,
+    "duration": 4.96,
+    "text": "people advise you against going into it. And obviously, you did it anyways."
+  },
+  {
+    "start": 949.48,
+    "duration": 2.08,
+    "text": "What made you want to go into venture in the first place?"
+  },
+  {
+    "start": 952.44,
+    "duration": 6.96,
+    "text": "Yeah. So I can't tell you that this was intentional. I had a specific plan to do this."
+  },
+  {
+    "start": 959.4,
+    "duration": 5.36,
+    "text": "The opportunity did fall into my lap through a friend of mine that had been consulting for primary"
+  },
+  {
+    "start": 964.76,
+    "duration": 4.16,
+    "text": "and they were going to open this role. They sort of talked to her about the role."
+  },
+  {
+    "start": 968.92,
+    "duration": 5.12,
+    "text": "She couldn't do it. They said, who do you know that has an identical skill set to you? And she"
+  },
+  {
+    "start": 974.04,
+    "duration": 6.16,
+    "text": "introduced them to me. So that's how we are. When I was leaving Compass, I did have some idea"
+  },
+  {
+    "start": 980.2,
+    "duration": 5.36,
+    "text": "and I was doing some soul searching that I had done similar roles and I sort of climbed the ladder"
+  },
+  {
+    "start": 985.56,
+    "duration": 5.12,
+    "text": "in revenue strategy and operations for 12 or 13 years. And I was ready for something new."
+  },
+  {
+    "start": 990.68,
+    "duration": 6.16,
+    "text": "We had just gone through COVID, a very intense IPO process. I just started a family. My priorities"
+  },
+  {
+    "start": 996.84,
+    "duration": 4.08,
+    "text": "were changing a little bit. And so I didn't know what new or different meant. And then this"
+  },
+  {
+    "start": 1000.92,
+    "duration": 6.72,
+    "text": "opportunity sort of materialized. And so I started to research it and develop my own thesis about it."
+  },
+  {
+    "start": 1007.64,
+    "duration": 6.88,
+    "text": "And I talked to primary, got excited, talked to some mentors and they said, don't do it. And then"
+  },
+  {
+    "start": 1014.52,
+    "duration": 3.04,
+    "text": "I talked to primary, getting excited. And then I talked to some more mentors and they said,"
+  },
+  {
+    "start": 1017.56,
+    "duration": 8.88,
+    "text": "don't do it. And the don't do it was like, you're an advisor, not an operator anymore."
+  },
+  {
+    "start": 1026.44,
+    "duration": 3.52,
+    "text": "You're hanging up your guns kind of thing. And so that was one."
+  },
+  {
+    "start": 1029.96,
+    "duration": 4.16,
+    "text": "Two is you don't really have any impact. You're kind of like a little bit of a talking head and"
+  },
+  {
+    "start": 1034.12,
+    "duration": 7.68,
+    "text": "you're like a frameworks guy. Three was you're getting more senior in your career and you're"
+  },
+  {
+    "start": 1041.8,
+    "duration": 6.48,
+    "text": "just at this point where you're well-networked and you could be on the next big rocket ship."
+  },
+  {
+    "start": 1048.28,
+    "duration": 3.92,
+    "text": "And so if you miss that opportunity, there's a huge opportunity cost to that."
+  },
+  {
+    "start": 1052.84,
+    "duration": 4.88,
+    "text": "And there was a bunch of other things. And so that's what I was hearing. And then I started"
+  },
+  {
+    "start": 1057.72,
+    "duration": 3.84,
+    "text": "to say like, okay, well, let's make the most optimistic case for trying this. What would"
+  },
+  {
+    "start": 1061.56,
+    "duration": 5.44,
+    "text": "be the reasons to do it? And I started to just cycle through these ideas over and over again."
+  },
+  {
+    "start": 1067.0,
+    "duration": 7.28,
+    "text": "So it was like, one was information asymmetry. I felt like in my career, as a job candidate,"
+  },
+  {
+    "start": 1074.28,
+    "duration": 6.88,
+    "text": "as someone who isn't particularly well-networked or has a huge brand or audience in the world,"
+  },
+  {
+    "start": 1081.16,
+    "duration": 5.76,
+    "text": "I go apply for jobs and I have zero information, access to inside information."
+  },
+  {
+    "start": 1086.92,
+    "duration": 5.44,
+    "text": "And every time you do one of these runs, you do three, four, five years. And it's like,"
+  },
+  {
+    "start": 1092.36,
+    "duration": 4.8,
+    "text": "how do you know you're picking the right company? And so I said, number one is if I go to a VC"
+  },
+  {
+    "start": 1097.16,
+    "duration": 5.12,
+    "text": "firm, I'm going to have a lot of information asymmetry. The second thing is I don't have a"
+  },
+  {
+    "start": 1102.28,
+    "duration": 5.52,
+    "text": "big investor network. And my North Star at the time was, I think I want to be a COO,"
+  },
+  {
+    "start": 1108.36,
+    "duration": 3.52,
+    "text": "president of a company. That's the next big thing for me."
+  },
+  {
+    "start": 1112.44,
+    "duration": 5.6,
+    "text": "And I said, if a great growth stage company was to open a COO type of role,"
+  },
+  {
+    "start": 1118.04,
+    "duration": 5.76,
+    "text": "to run the business with a CEO who's technical, and I was in the room, why would I not get that"
+  },
+  {
+    "start": 1123.8,
+    "duration": 5.44,
+    "text": "job? Well, I have a lot of operational expertise. I've done different business models. I've scaled"
+  },
+  {
+    "start": 1129.24,
+    "duration": 4.48,
+    "text": "up different programs. I've done more than just the RevOps tooling. I've done a whole bunch of"
+  },
+  {
+    "start": 1133.72,
+    "duration": 6.16,
+    "text": "things. And that's great. But I've never fundraised. I've never been in the boardroom,"
+  },
+  {
+    "start": 1139.88,
+    "duration": 5.12,
+    "text": "prepped the exec team for the board meeting. And then I wait for all the dump of new projects I"
+  },
+  {
+    "start": 1145.0,
+    "duration": 4.56,
+    "text": "have to do after the board meeting, but I've never been in there. And so I felt like the"
+  },
+  {
+    "start": 1149.56,
+    "duration": 4.72,
+    "text": "investor side and the board meeting side was a big gap for me that I wanted to fill."
+  },
+  {
+    "start": 1155.56,
+    "duration": 3.52,
+    "text": "I also felt on the picking side, like watching an investment firm"
+  },
+  {
+    "start": 1160.04,
+    "duration": 6.48,
+    "text": "analyze markets, trends, across industries, across business models, across customer personas,"
+  },
+  {
+    "start": 1166.52,
+    "duration": 6.0,
+    "text": "was a level of access that I just had never had before. And then the other one was, I get to be"
+  },
+  {
+    "start": 1172.52,
+    "duration": 7.92,
+    "text": "a trusted advisor to 50 of the best early stage CEOs. And I get to try before I buy, and they get"
+  },
+  {
+    "start": 1180.44,
+    "duration": 4.88,
+    "text": "to try before they buy. If I find a mutual fit where I love the business and they love me,"
+  },
+  {
+    "start": 1186.12,
+    "duration": 3.28,
+    "text": "that's a... They can pull me into their business that way."
+  },
+  {
+    "start": 1190.6,
+    "duration": 6.96,
+    "text": "And then the last factor was, I said, hey, I'm in a seed stage VC firm. My instinct there was,"
+  },
+  {
+    "start": 1197.56,
+    "duration": 4.24,
+    "text": "I was either going to come into primary and eventually join one of our portfolio companies"
+  },
+  {
+    "start": 1201.8,
+    "duration": 5.68,
+    "text": "as a COO, or maybe I would get backed by primary and spin out a company. And I'd be the founder and"
+  },
+  {
+    "start": 1207.48,
+    "duration": 5.92,
+    "text": "CEO and they would fund me. And I said, okay, so that's the positive side. That's what this"
+  },
+  {
+    "start": 1213.4,
+    "duration": 4.16,
+    "text": "could unlock for me. And the distinction that I really felt strongly about was,"
+  },
+  {
+    "start": 1218.84,
+    "duration": 3.6,
+    "text": "everyone that told me not to do it, it was like an impact thing. It's like, you're not going to"
+  },
+  {
+    "start": 1222.44,
+    "duration": 4.32,
+    "text": "have impact in this role. And everything that I was excited about was a learning thing. Like, wow,"
+  },
+  {
+    "start": 1228.04,
+    "duration": 5.84,
+    "text": "wow, I'm going to meet new people. I'm going to be in board meetings. And so I basically chose"
+  },
+  {
+    "start": 1233.88,
+    "duration": 5.52,
+    "text": "learning over those concerns about direct impact and owning a specific outcome."
+  },
+  {
+    "start": 1239.4,
+    "duration": 3.52,
+    "text": "And I can talk about the experience, but I'm very, very happy."
+  },
+  {
+    "start": 1244.44,
+    "duration": 3.92,
+    "text": "I can tell you as someone who deals with a lot of early stage startups,"
+  },
+  {
+    "start": 1248.36,
+    "duration": 5.92,
+    "text": "and therefore interacts with a lot of advisors and operating partners,"
+  },
+  {
+    "start": 1255.0,
+    "duration": 6.64,
+    "text": "there is a big opportunity for impact. Because I don't know how many times I hear a founder tell"
+  },
+  {
+    "start": 1261.64,
+    "duration": 3.28,
+    "text": "me something that somebody else told them. It's like, oh, you should think about doing this. You"
+  },
+  {
+    "start": 1264.92,
+    "duration": 5.76,
+    "text": "should spin up this. And my instinct is like, that's a horrible idea. What's going on?"
+  },
+  {
+    "start": 1271.96,
+    "duration": 7.76,
+    "text": "And conversely, the right piece of information and insight, the right framework for an early"
+  },
+  {
+    "start": 1279.72,
+    "duration": 6.8,
+    "text": "stage company can be really inflection changing. I mean, lucky enough to sometimes get to share"
+  },
+  {
+    "start": 1286.52,
+    "duration": 6.16,
+    "text": "that nugget. I get to see a founder who hears something from somebody else. And that transforms"
+  },
+  {
+    "start": 1292.68,
+    "duration": 7.52,
+    "text": "the way that a company operates. I would definitely disagree with the assumption that"
+  },
+  {
+    "start": 1300.2,
+    "duration": 4.32,
+    "text": "you can't have a lot of direct impact. I get where it comes from. It's easy to think that"
+  },
+  {
+    "start": 1304.52,
+    "duration": 6.88,
+    "text": "from the outside. Yeah. And a couple of things to know about this, for anyone that would consider"
+  },
+  {
+    "start": 1311.4,
+    "duration": 6.0,
+    "text": "this role in the future, your experience driving impact, it matters a lot which VC firm you choose."
+  },
+  {
+    "start": 1317.88,
+    "duration": 6.8,
+    "text": "Yeah. Young VC firms, I know other operating partners and the priorities for them,"
+  },
+  {
+    "start": 1324.68,
+    "duration": 6.56,
+    "text": "if they had to stack rank them, are diligence on new deals, LP reporting and presentations,"
+  },
+  {
+    "start": 1331.24,
+    "duration": 3.2,
+    "text": "and then the third or fourth or fifth place thing is working with portfolio."
+  },
+  {
+    "start": 1334.44,
+    "duration": 4.72,
+    "text": "Yeah. And so if that's the firm you sign up with, you will not feel like you're actually"
+  },
+  {
+    "start": 1339.16,
+    "duration": 6.88,
+    "text": "moving the needle for any of your portfolio companies. When I was working through the"
+  },
+  {
+    "start": 1346.04,
+    "duration": 5.6,
+    "text": "decision process, I made myself a promise and I said, I will never ever be the frameworks and"
+  },
+  {
+    "start": 1352.2,
+    "duration": 4.96,
+    "text": "storytelling and big idea guy. If I do this and I don't feel like I'm solving problems,"
+  },
+  {
+    "start": 1357.16,
+    "duration": 7.04,
+    "text": "and I'm just saying generic frameworks and inapplicable stories and things that aren't"
+  },
+  {
+    "start": 1364.2,
+    "duration": 4.24,
+    "text": "actionable, I was like, I just can't be that person. I'll never do this job if that's the case."
+  },
+  {
+    "start": 1368.44,
+    "duration": 5.76,
+    "text": "And so when I got here, a big part of what I had to explore in my first year was like,"
+  },
+  {
+    "start": 1374.2,
+    "duration": 6.24,
+    "text": "where can I actually make an impact? And what is the firm doing today where it's either not"
+  },
+  {
+    "start": 1380.44,
+    "duration": 4.16,
+    "text": "making an impact or the opportunity cost isn't right and there's another area I should really"
+  },
+  {
+    "start": 1384.6,
+    "duration": 4.0,
+    "text": "try to drive leverage in? And that is an ongoing process two and a half years into the job,"
+  },
+  {
+    "start": 1389.16,
+    "duration": 3.68,
+    "text": "continuing to find the points where there's outsized impact we can make for different"
+  },
+  {
+    "start": 1392.84,
+    "duration": 2.0,
+    "text": "types of companies. Yeah, that makes sense."
+  },
+  {
+    "start": 1395.4,
+    "duration": 4.08,
+    "text": "I actually think frameworks is one of the useful things. If it's an actionable framework,"
+  },
+  {
+    "start": 1399.56,
+    "duration": 4.96,
+    "text": "and I'll share with a founder. Founders are always trying to hire. One of the things I get"
+  },
+  {
+    "start": 1404.52,
+    "duration": 4.8,
+    "text": "roped into is how do I get my first VP of sales? How do I figure it out? And I'll give them my"
+  },
+  {
+    "start": 1409.32,
+    "duration": 4.64,
+    "text": "framework of how I think about hiring that VP of sales and the questions and the case."
+  },
+  {
+    "start": 1414.76,
+    "duration": 6.88,
+    "text": "I'll give them my case study that I've written. And that's more valuable than any generic advice"
+  },
+  {
+    "start": 1421.64,
+    "duration": 8.56,
+    "text": "because they actually have a guide to follow. So cool. I'm going to come back to this question"
+  },
+  {
+    "start": 1430.2,
+    "duration": 4.96,
+    "text": "of what makes a good operating partner versus not. But I want to stay on some of this journey."
+  },
+  {
+    "start": 1436.92,
+    "duration": 4.48,
+    "text": "So what made you realize that this was the right choice? How did you realize that"
+  },
+  {
+    "start": 1441.4,
+    "duration": 3.76,
+    "text": "primary was the right fit and this is where you wanted to take your career?"
+  },
+  {
+    "start": 1445.16,
+    "duration": 6.0,
+    "text": "I mean, we've covered why take this leap. It's all about learning, which I think is awesome."
+  },
+  {
+    "start": 1451.24,
+    "duration": 3.6,
+    "text": "But what made you think the timing was right today?"
+  },
+  {
+    "start": 1455.72,
+    "duration": 8.32,
+    "text": "Yeah. So in terms of the timing, I moved to my house. So I left New York City in COVID,"
+  },
+  {
+    "start": 1464.04,
+    "duration": 5.84,
+    "text": "like a lot of other people, scrambled suburbs. I moved to my house on March 22nd. Compass IVOed"
+  },
+  {
+    "start": 1469.88,
+    "duration": 4.0,
+    "text": "on April 1st. I had my second kid on April 22nd. So in one month-"
+  },
+  {
+    "start": 1473.88,
+    "duration": 1.2,
+    "text": "Of 2020?"
+  },
+  {
+    "start": 1475.08,
+    "duration": 1.28,
+    "text": "Of 2021."
+  },
+  {
+    "start": 1476.92,
+    "duration": 0.48,
+    "text": "Okay."
+  },
+  {
+    "start": 1477.4,
+    "duration": 8.16,
+    "text": "All in that 30 days. And so I had hit a point of general craziness and burnout that I needed"
+  },
+  {
+    "start": 1485.56,
+    "duration": 7.44,
+    "text": "something to change. And the version of me that would have met startup founders and been like,"
+  },
+  {
+    "start": 1493.0,
+    "duration": 4.72,
+    "text": "I'm all in on your vision and let's go build this thing and do that again-"
+  },
+  {
+    "start": 1497.72,
+    "duration": 2.0,
+    "text": "80 hours a week, sign me up."
+  },
+  {
+    "start": 1499.72,
+    "duration": 4.64,
+    "text": "Yeah. And I went out and met all these founders who I'm very inspired by, but I walked away from"
+  },
+  {
+    "start": 1504.36,
+    "duration": 4.32,
+    "text": "those meetings just saying, this isn't for me. I just don't have the energy for doing that right"
+  },
+  {
+    "start": 1508.68,
+    "duration": 6.56,
+    "text": "now. And at the same time, I felt like I had hit a glass ceiling in my career as the RevOps leader"
+  },
+  {
+    "start": 1515.24,
+    "duration": 5.76,
+    "text": "guy. And for me, it's like, no, I want to be the CEO or the COO of a company. That's my goal."
+  },
+  {
+    "start": 1521.0,
+    "duration": 5.68,
+    "text": "And so part of the right time and the right place to do this was I felt like Primary could elevate"
+  },
+  {
+    "start": 1526.68,
+    "duration": 4.96,
+    "text": "my career and unlock a lot more than just joining the next Series A startup and doing that over"
+  },
+  {
+    "start": 1531.64,
+    "duration": 0.72,
+    "text": "again."
+  },
+  {
+    "start": 1532.44,
+    "duration": 6.4,
+    "text": "Makes sense. And how did you know you were ready to do that? It's tough to know if you have enough"
+  },
+  {
+    "start": 1538.84,
+    "duration": 5.76,
+    "text": "operating experience to be able to have the pattern recognition and really be super helpful."
+  },
+  {
+    "start": 1544.6,
+    "duration": 2.48,
+    "text": "What gave you the confidence that you're ready to take it on?"
+  },
+  {
+    "start": 1548.2,
+    "duration": 4.48,
+    "text": "I think, so first of all, I didn't have a network in the VC world, really. I didn't have a lot of"
+  },
+  {
+    "start": 1552.68,
+    "duration": 6.16,
+    "text": "people to bounce this off of that had done this job before. So I was a little bit guessing, but"
+  },
+  {
+    "start": 1559.32,
+    "duration": 5.6,
+    "text": "um, I did a lot of back channeling on Primary and they did a lot of back channeling on me."
+  },
+  {
+    "start": 1564.92,
+    "duration": 3.2,
+    "text": "And it turns out the New York tech scene ends up being really small. And we back channeled"
+  },
+  {
+    "start": 1568.12,
+    "duration": 3.68,
+    "text": "the exact same people at the same time. And they're like, kind of texting both of you about"
+  },
+  {
+    "start": 1571.8,
+    "duration": 7.36,
+    "text": "each other right now. And what I heard about Primary was it is in their DNA that they take"
+  },
+  {
+    "start": 1579.16,
+    "duration": 6.32,
+    "text": "the management fees that a lot of other VC firms put in their pockets and they invest it in this"
+  },
+  {
+    "start": 1585.48,
+    "duration": 4.0,
+    "text": "really robust operating team. And this will never go away. This doesn't, you know,"
+  },
+  {
+    "start": 1591.16,
+    "duration": 5.44,
+    "text": "this isn't like a strategy today, gone tomorrow thing. We're DNA. And so that was one."
+  },
+  {
+    "start": 1596.6,
+    "duration": 7.04,
+    "text": "Two was I had looked in their portfolio and a bunch of the companies that I knew that they"
+  },
+  {
+    "start": 1603.64,
+    "duration": 5.12,
+    "text": "had just invested in, which I would be working with, I felt like, oh, that kind of rhymes with"
+  },
+  {
+    "start": 1608.76,
+    "duration": 4.16,
+    "text": "something I did before, or this kind of, this other thing. And like, oh man, I hope they don't"
+  },
+  {
+    "start": 1612.92,
+    "duration": 3.84,
+    "text": "make the same mistakes that I made five years ago. And I had a little bit of that."
+  },
+  {
+    "start": 1616.76,
+    "duration": 6.08,
+    "text": "And then they brought me as part of the pre-offer process to meet a few of the CEOs in the portfolio"
+  },
+  {
+    "start": 1622.84,
+    "duration": 4.48,
+    "text": "to mutually kind of feel it out. And I love those jam sessions. I thought they were amazing."
+  },
+  {
+    "start": 1627.32,
+    "duration": 4.0,
+    "text": "And they had good enough feedback about me that Primary swooped in and was like, let's do this."
+  },
+  {
+    "start": 1631.32,
+    "duration": 6.24,
+    "text": "So there was a bunch of other signals like that. And, you know, I just got very,"
+  },
+  {
+    "start": 1637.56,
+    "duration": 4.64,
+    "text": "very excited about all the learning and growth that I would get inside of a VC firm like this."
+  },
+  {
+    "start": 1643.24,
+    "duration": 6.0,
+    "text": "Awesome. Do you think you want to be an investing partner at some point?"
+  },
+  {
+    "start": 1650.92,
+    "duration": 6.16,
+    "text": "Good question. I think when I started, I felt like I was opening new doors. So door number"
+  },
+  {
+    "start": 1657.08,
+    "duration": 5.76,
+    "text": "one could be join a portfolio company as COO one day. Door number two is like found my own startup"
+  },
+  {
+    "start": 1662.84,
+    "duration": 4.64,
+    "text": "through Primary and get backed by them. They have an incubation program, which I can talk about."
+  },
+  {
+    "start": 1667.48,
+    "duration": 4.08,
+    "text": "Door number three was, well, what if I want to be an investor? And so in the beginning,"
+  },
+  {
+    "start": 1671.56,
+    "duration": 5.76,
+    "text": "it was very much an open question. I think for me personally, the answer is no."
+  },
+  {
+    "start": 1678.36,
+    "duration": 6.4,
+    "text": "I think our investors are unbelievably talented, unbelievably bright, and I have so much respect"
+  },
+  {
+    "start": 1684.76,
+    "duration": 7.76,
+    "text": "for them. But I have so much identity as a builder and a problem solver. And I just like the idea of"
+  },
+  {
+    "start": 1694.2,
+    "duration": 5.92,
+    "text": "bringing products to customers. And it's just really deeply woven in my DNA. And what's nice"
+  },
+  {
+    "start": 1700.2,
+    "duration": 5.12,
+    "text": "is I get to work with founders to do that and I have my own startup to do that."
+  },
+  {
+    "start": 1705.32,
+    "duration": 6.16,
+    "text": "And so all the things that I teach and coach the startup founders on, I'm doing myself. It's like,"
+  },
+  {
+    "start": 1711.48,
+    "duration": 3.44,
+    "text": "hey, I'm trying to get first five customers and let me explain what I'm trying and then"
+  },
+  {
+    "start": 1715.64,
+    "duration": 3.92,
+    "text": "see if we can apply some learnings to your business. So that motivates me a lot more."
+  },
+  {
+    "start": 1719.56,
+    "duration": 7.28,
+    "text": "The investing thing, I do think I would angel invest and do that, but not as an investment"
+  },
+  {
+    "start": 1726.84,
+    "duration": 3.36,
+    "text": "partner at a VC firm, at least for the next 10 years or so."
+  },
+  {
+    "start": 1730.2,
+    "duration": 6.0,
+    "text": "Yeah, makes a ton of sense. So you said, I can't remember if it's LinkedIn or somewhere else,"
+  },
+  {
+    "start": 1736.2,
+    "duration": 6.16,
+    "text": "but you wouldn't have been good at VC three to five years ago. So there's obviously an amount"
+  },
+  {
+    "start": 1742.36,
+    "duration": 5.52,
+    "text": "of experience, a set of skills that are required to do this well. And I sort of break it into these"
+  },
+  {
+    "start": 1747.88,
+    "duration": 5.6,
+    "text": "two things. You need discernible skills to know how to build a growth model, help architect a"
+  },
+  {
+    "start": 1753.48,
+    "duration": 6.64,
+    "text": "comp plan, understand and do market analysis. And those are very tangible skills. But then there's"
+  },
+  {
+    "start": 1760.12,
+    "duration": 6.08,
+    "text": "some pattern recognition that you need to be able to develop by seeing a bunch of companies and just"
+  },
+  {
+    "start": 1766.2,
+    "duration": 5.92,
+    "text": "going through it yourself a bunch of times to actually be good at this job. This is my view,"
+  },
+  {
+    "start": 1772.12,
+    "duration": 5.28,
+    "text": "having never done it, obviously. And so is that the right framework? Is it those two buckets of"
+  },
+  {
+    "start": 1777.4,
+    "duration": 9.2,
+    "text": "things? And if so, how do you think about when you have enough reps to have the pattern"
+  },
+  {
+    "start": 1786.6,
+    "duration": 5.44,
+    "text": "recognition? How do you know when you've got the skills to go take the plunge?"
+  },
+  {
+    "start": 1792.04,
+    "duration": 7.44,
+    "text": "Yeah. It's a hard thing to explain, but it's like a feeling I had. When I got here and I"
+  },
+  {
+    "start": 1799.48,
+    "duration": 3.6,
+    "text": "was in my first year, I said, wow, I would not have been good at this job three or five years"
+  },
+  {
+    "start": 1803.08,
+    "duration": 7.52,
+    "text": "ago. I actually think the biggest reason for this is my, let's call it age group or class or"
+  },
+  {
+    "start": 1811.4,
+    "duration": 8.72,
+    "text": "contemporaries are now VPs, heads of C-levels, founders. And five years ago, maybe they were"
+  },
+  {
+    "start": 1820.12,
+    "duration": 5.04,
+    "text": "the directors and up-and-comers and future leaders, but now they're like leaders."
+  },
+  {
+    "start": 1825.16,
+    "duration": 7.12,
+    "text": "And so one really important thing that would not be immediately obvious until you start doing this"
+  },
+  {
+    "start": 1832.28,
+    "duration": 7.36,
+    "text": "role is every single day, one of the startups in our portfolio says to me, I need help solving X."
+  },
+  {
+    "start": 1839.64,
+    "duration": 5.44,
+    "text": "And whatever X is, one part of my job is almost like an account manager. I have to go out into"
+  },
+  {
+    "start": 1845.08,
+    "duration": 7.44,
+    "text": "the world and leverage my network of really trusted people or the people that they trust the most to"
+  },
+  {
+    "start": 1852.52,
+    "duration": 4.96,
+    "text": "bring them in to solve specific problems that are either in the go-to-market world or adjacent to it."
+  },
+  {
+    "start": 1857.48,
+    "duration": 6.64,
+    "text": "And to be able to back-channel candidates with my contemporary network,"
+  },
+  {
+    "start": 1865.24,
+    "duration": 7.12,
+    "text": "to be able to get functional expertise through my network, these last three to five years,"
+  },
+  {
+    "start": 1872.36,
+    "duration": 4.32,
+    "text": "there's a huge wave of people that I've grown up in the industry with that are leading companies"
+  },
+  {
+    "start": 1876.68,
+    "duration": 5.76,
+    "text": "right now. And I think that's actually the biggest reason is my network reach and my closest"
+  },
+  {
+    "start": 1883.4,
+    "duration": 4.24,
+    "text": "friends that I've grown up with are now in these leadership positions or whatever."
+  },
+  {
+    "start": 1887.64,
+    "duration": 5.68,
+    "text": "And so that to me is the biggest one. The second is also what you said around business acumen,"
+  },
+  {
+    "start": 1893.32,
+    "duration": 4.64,
+    "text": "having a strategy mind, really being able to break down strategy and map it to execution."
+  },
+  {
+    "start": 1898.52,
+    "duration": 8.16,
+    "text": "Every new cycle you get doing that really helps. And part of the job is how do you"
+  },
+  {
+    "start": 1907.4,
+    "duration": 6.96,
+    "text": "go into a parachute into a new company where the founder and team are thinking about this"
+  },
+  {
+    "start": 1914.36,
+    "duration": 5.2,
+    "text": "problem space five full days a week, and you are thinking about it very, very little,"
+  },
+  {
+    "start": 1919.56,
+    "duration": 5.36,
+    "text": "and quickly get to a point of decent credibility that you can help solve problems without"
+  },
+  {
+    "start": 1924.92,
+    "duration": 5.36,
+    "text": "asking for a lot of training and all that stuff. And so learning how to be a really good consultant"
+  },
+  {
+    "start": 1930.28,
+    "duration": 5.84,
+    "text": "is a hard part of this job. It's not anything I've had to do before. And so extra reps building"
+  },
+  {
+    "start": 1936.12,
+    "duration": 4.64,
+    "text": "different kinds of businesses or working on different kinds of problem-solving at Compass,"
+  },
+  {
+    "start": 1940.76,
+    "duration": 6.32,
+    "text": "for example, I did a lot of things at Compass under the umbrella of revenue strategy operations,"
+  },
+  {
+    "start": 1947.08,
+    "duration": 3.36,
+    "text": "and each one of those things has been somehow applicable to my work here."
+  },
+  {
+    "start": 1952.36,
+    "duration": 5.2,
+    "text": "This is literally one of the questions I had written down. One of my challenges doing advisory"
+  },
+  {
+    "start": 1957.56,
+    "duration": 6.48,
+    "text": "and working with the portfolio companies at GTM Fund and Stage 2 is you have such a lack of context."
+  },
+  {
+    "start": 1966.44,
+    "duration": 4.4,
+    "text": "At some point in my career, I realized, hey, there's no such thing as a best practice."
+  },
+  {
+    "start": 1971.64,
+    "duration": 4.32,
+    "text": "There's high probability practices. There's things that tend to work a lot,"
+  },
+  {
+    "start": 1975.96,
+    "duration": 4.96,
+    "text": "but it depends on the customer type, the market context, the stage of growth you're at."
+  },
+  {
+    "start": 1980.92,
+    "duration": 6.8,
+    "text": "And so I actually became this classic Dunning-Kruger, but I became much less certain of"
+  },
+  {
+    "start": 1987.72,
+    "duration": 6.56,
+    "text": "the advice that I wanted to give as I started to understand the nuance and complexity of it all."
+  },
+  {
+    "start": 1994.44,
+    "duration": 6.0,
+    "text": "And so how do you find the balance between having proven frameworks that you are confident in and"
+  },
+  {
+    "start": 2000.44,
+    "duration": 6.72,
+    "text": "you've applied in your real world versus finding the right nuance in the business,"
+  },
+  {
+    "start": 2007.16,
+    "duration": 4.8,
+    "text": "and how do you give great advice given these two things are at tension?"
+  },
+  {
+    "start": 2013.64,
+    "duration": 8.0,
+    "text": "Yeah, this is the hard part of the job. So the thing that I've tried to do is each new company"
+  },
+  {
+    "start": 2021.64,
+    "duration": 6.24,
+    "text": "I work with, it's like, what is the quickest possible win that doesn't require the deepest"
+  },
+  {
+    "start": 2027.88,
+    "duration": 4.8,
+    "text": "amount of fluency in their business that I could find and just solve one problem for them?"
+  },
+  {
+    "start": 2033.32,
+    "duration": 5.84,
+    "text": "And if I can do that, there's enough signal and early trust that they'll invest time in me"
+  },
+  {
+    "start": 2039.16,
+    "duration": 4.32,
+    "text": "teaching me more about the nuances of their business and their customers and all these things."
+  },
+  {
+    "start": 2043.48,
+    "duration": 3.12,
+    "text": "And so that's number one for me. It's like, what is the quickest, smallest"
+  },
+  {
+    "start": 2047.4,
+    "duration": 4.88,
+    "text": "win that I can compartmentalize and deliver? First. Second-"
+  },
+  {
+    "start": 2052.28,
+    "duration": 3.76,
+    "text": "How often is that go smaller with your ICP?"
+  },
+  {
+    "start": 2060.04,
+    "duration": 7.44,
+    "text": "That is sometimes... It's not usually go smaller with your ICP because a lot of times they want"
+  },
+  {
+    "start": 2067.48,
+    "duration": 4.4,
+    "text": "to set up ICP experimentation. They know they don't have an ICP and so they-"
+  },
+  {
+    "start": 2071.88,
+    "duration": 2.72,
+    "text": "Oh, okay. Yeah, you're even earlier stage. Okay."
+  },
+  {
+    "start": 2074.6,
+    "duration": 3.84,
+    "text": "Yeah, this is really early. It's like, I have no customers and no one wants to meet with me."
+  },
+  {
+    "start": 2078.44,
+    "duration": 7.44,
+    "text": "What do I do? And so we have to set up experiments. And so I think one framing I would give is I try"
+  },
+  {
+    "start": 2085.88,
+    "duration": 5.36,
+    "text": "to be a little less on the advice side and a little more on the how do we design the action"
+  },
+  {
+    "start": 2091.24,
+    "duration": 3.92,
+    "text": "plan that we want. And then let's go run a bunch of tests and go out in the world and experience"
+  },
+  {
+    "start": 2095.16,
+    "duration": 5.04,
+    "text": "it together and make decisions based off that. So that's one piece."
+  },
+  {
+    "start": 2100.2,
+    "duration": 10.56,
+    "text": "The second piece is there are a lot of, I would call basic foundations of go-to-market"
+  },
+  {
+    "start": 2110.76,
+    "duration": 6.72,
+    "text": "that a lot of these founders need help setting up. Whether it's how to run a sales meeting or"
+  },
+  {
+    "start": 2117.48,
+    "duration": 6.4,
+    "text": "how to structure their discovery questions to some basic tooling, basic pricing and packaging"
+  },
+  {
+    "start": 2123.88,
+    "duration": 3.92,
+    "text": "to take to the market for the first time, basic assets. And the more you work with different"
+  },
+  {
+    "start": 2127.8,
+    "duration": 3.92,
+    "text": "companies, the more you hear the same request across a lot of them. And then you're like,"
+  },
+  {
+    "start": 2131.72,
+    "duration": 5.28,
+    "text": "okay, hold on. Now I can invest in building some assets or templates for people because I'm getting"
+  },
+  {
+    "start": 2137.0,
+    "duration": 4.72,
+    "text": "the same question over and over. And so that's another thing we try to listen for is like,"
+  },
+  {
+    "start": 2141.72,
+    "duration": 4.24,
+    "text": "where's the repeat demand for the same things? Yeah, it makes a ton of sense."
+  },
+  {
+    "start": 2151.72,
+    "duration": 3.92,
+    "text": "Are you being paid what you're worth? Pavilion's compensation report has become"
+  },
+  {
+    "start": 2155.64,
+    "duration": 4.16,
+    "text": "an industry standard for go-to-market leaders to benchmark their compensation,"
+  },
+  {
+    "start": 2159.8,
+    "duration": 4.96,
+    "text": "equity and other employment terms. We're refreshing report for 2025 and we need your"
+  },
+  {
+    "start": 2164.76,
+    "duration": 5.68,
+    "text": "input today. To get early access to the results, take the anonymous survey at joinpavilion.com"
+  },
+  {
+    "start": 2170.44,
+    "duration": 4.8,
+    "text": "slash comp. That's C-O-M-P or click the link in the show notes."
+  },
+  {
+    "start": 2176.28,
+    "duration": 5.52,
+    "text": "You had a long run as an operator and a very, very successful one, especially with Compass."
+  },
+  {
+    "start": 2182.36,
+    "duration": 4.8,
+    "text": "And now you're seeing both sides and I'm sure discovering a bunch of stuff. You're like,"
+  },
+  {
+    "start": 2187.16,
+    "duration": 6.08,
+    "text": "man, I wish I had known that a couple of years ago. What are the top few things in this first"
+  },
+  {
+    "start": 2193.24,
+    "duration": 6.16,
+    "text": "few years as an operating partner that you really wish you had known in your strategy and ops world?"
+  },
+  {
+    "start": 2201.4,
+    "duration": 5.76,
+    "text": "I think from each startup I worked at, there was some lesson that has come back around"
+  },
+  {
+    "start": 2207.16,
+    "duration": 9.52,
+    "text": "working at a VC firm that clicks after all these years. So for example, one company I worked at had"
+  },
+  {
+    "start": 2216.68,
+    "duration": 5.52,
+    "text": "an unbelievable team, the best collection of talent that I've ever worked with in my life,"
+  },
+  {
+    "start": 2222.84,
+    "duration": 7.68,
+    "text": "but really had a product market fit problem. And we were able to, as a growth organization,"
+  },
+  {
+    "start": 2230.52,
+    "duration": 5.76,
+    "text": "and I take very little credit for this, we had some tremendously talented people and leaders there."
+  },
+  {
+    "start": 2236.28,
+    "duration": 10.0,
+    "text": "We were able to get this company to over 50 million ARR without a perfect product market fit."
+  },
+  {
+    "start": 2246.92,
+    "duration": 7.44,
+    "text": "And so anyone who's seen scale up before you're ready story is a really painful one."
+  },
+  {
+    "start": 2254.36,
+    "duration": 5.76,
+    "text": "And then you see it from the VC side, we have companies that seed A, B, C, D,"
+  },
+  {
+    "start": 2260.12,
+    "duration": 7.76,
+    "text": "and you see all these different companies and some of them are ready to have the great unit"
+  },
+  {
+    "start": 2267.88,
+    "duration": 4.56,
+    "text": "economics, great foundation, great everything, and they're ready to grow in a really thoughtful way."
+  },
+  {
+    "start": 2272.44,
+    "duration": 4.72,
+    "text": "And so you just see your past come back because you have exposure to all these different companies."
+  },
+  {
+    "start": 2278.52,
+    "duration": 6.8,
+    "text": "And so really hammering home product market fit and understanding what delivering value to"
+  },
+  {
+    "start": 2285.32,
+    "duration": 5.6,
+    "text": "customers really looks and feels like is a big one. I was laughing because I went through the"
+  },
+  {
+    "start": 2290.92,
+    "duration": 7.36,
+    "text": "exact same thing. Super talented team, but we were brute forcing growth. Every deal had to be"
+  },
+  {
+    "start": 2298.28,
+    "duration": 4.4,
+    "text": "perfectly executed, but we just never had product market fit. We never had customers that were"
+  },
+  {
+    "start": 2302.68,
+    "duration": 6.96,
+    "text": "willing to do customer reference calls for us, but we still jammed that business to 25 million ARR."
+  },
+  {
+    "start": 2310.2,
+    "duration": 4.8,
+    "text": "And yeah, I learned that same exact lesson very much."
+  },
+  {
+    "start": 2315.0,
+    "duration": 5.04,
+    "text": "So just because you have the capital, being really honest with yourselves and finding the"
+  },
+  {
+    "start": 2320.04,
+    "duration": 5.36,
+    "text": "investors around your table who are really honest about where the business is and what the next"
+  },
+  {
+    "start": 2325.4,
+    "duration": 4.64,
+    "text": "steps are, I think is helpful. Can I ask one more question about that?"
+  },
+  {
+    "start": 2331.0,
+    "duration": 6.16,
+    "text": "So how do you identify that with a founder? What should founders or revenue leaders be asking"
+  },
+  {
+    "start": 2337.16,
+    "duration": 6.48,
+    "text": "themselves to understand if they have enough product market fit to go into go to market fit"
+  },
+  {
+    "start": 2343.64,
+    "duration": 8.96,
+    "text": "mode? Yeah. I think the biggest thing is some form of sticky usage and then retention where it shows"
+  },
+  {
+    "start": 2352.6,
+    "duration": 9.68,
+    "text": "up in the dollars. I think most revenue leaders know the state of their customer base and the"
+  },
+  {
+    "start": 2362.28,
+    "duration": 5.04,
+    "text": "product quality and where they are as far as the market dynamics. I think the mismatches"
+  },
+  {
+    "start": 2367.32,
+    "duration": 4.8,
+    "text": "typically is like, VCs want us to grow this way and we're only ready to grow that way."
+  },
+  {
+    "start": 2372.12,
+    "duration": 5.6,
+    "text": "And so let's hire too many salespeople or let's raise too much money. And that mismatch is the"
+  },
+  {
+    "start": 2377.72,
+    "duration": 8.24,
+    "text": "really hard one. And inside of a VC firm, you just see every flavor possible of a different"
+  },
+  {
+    "start": 2386.2,
+    "duration": 6.96,
+    "text": "company. And I think the world of VC-backed startups has gotten very, very sober over the"
+  },
+  {
+    "start": 2393.16,
+    "duration": 6.16,
+    "text": "last two years as far as what happened over the previous few years. And so that's changed."
+  },
+  {
+    "start": 2400.44,
+    "duration": 7.44,
+    "text": "Other things that you learn inside of a VC firm, I think... I didn't know this at all. VC firms"
+  },
+  {
+    "start": 2407.88,
+    "duration": 6.72,
+    "text": "have this unbelievable incentive to place talent in their portfolio. And they put a lot of"
+  },
+  {
+    "start": 2414.6,
+    "duration": 7.84,
+    "text": "resourcing into having talent programs. And it is actually not that hard for an individual"
+  },
+  {
+    "start": 2422.44,
+    "duration": 7.36,
+    "text": "contributor, a manager, director, VP, CRO to get inside of the network of a premier VC firm."
+  },
+  {
+    "start": 2429.8,
+    "duration": 4.48,
+    "text": "Because every VC wants to get shouted out in the board meeting like,"
+  },
+  {
+    "start": 2434.28,
+    "duration": 7.76,
+    "text": "my CRO came from this firm. And so this was like an aha moment for me. I got into primary"
+  },
+  {
+    "start": 2442.04,
+    "duration": 4.8,
+    "text": "having not known anyone at primary. But now I see this vibrant community we've built all over New"
+  },
+  {
+    "start": 2446.84,
+    "duration": 5.36,
+    "text": "York. And there might be three equally good candidates for a role in our portfolio."
+  },
+  {
+    "start": 2452.2,
+    "duration": 8.08,
+    "text": "One is very engaged with primary, comes to an event, helps us with references or diligence"
+  },
+  {
+    "start": 2460.28,
+    "duration": 4.96,
+    "text": "on a deal or something. And the other one is a little bit engaged. And the other one, we don't"
+  },
+  {
+    "start": 2465.24,
+    "duration": 4.48,
+    "text": "even know who they are. And that first person gets the first look at all these jobs. So"
+  },
+  {
+    "start": 2470.68,
+    "duration": 4.56,
+    "text": "it's actually not that challenging to get in the talent network of a VC firm."
+  },
+  {
+    "start": 2475.8,
+    "duration": 4.48,
+    "text": "And I think even for revenue leaders, I think there's a lot of revenue leaders in my network"
+  },
+  {
+    "start": 2480.28,
+    "duration": 7.68,
+    "text": "who understand this better than I did. But we ask for help with due diligence all the time."
+  },
+  {
+    "start": 2487.96,
+    "duration": 5.52,
+    "text": "We ask for help with references on leadership hires and individuals. And so there's a lot of"
+  },
+  {
+    "start": 2493.48,
+    "duration": 6.48,
+    "text": "value you can bring to a VC firm for us and then also for yourself because we obviously have a lot"
+  },
+  {
+    "start": 2499.96,
+    "duration": 5.28,
+    "text": "of opportunities, roles, board seats, advisory, et cetera, et cetera."
+  },
+  {
+    "start": 2505.24,
+    "duration": 7.04,
+    "text": "Yeah. I'm constantly trying to do this for GTM Fund portcos because my money's in the fund. I"
+  },
+  {
+    "start": 2512.28,
+    "duration": 5.04,
+    "text": "want to make sure that the smartest people I know are the people running these businesses. And so"
+  },
+  {
+    "start": 2518.76,
+    "duration": 3.36,
+    "text": "when people reach out, hey, I'm looking for something new. I was like, let me introduce"
+  },
+  {
+    "start": 2522.44,
+    "duration": 9.6,
+    "text": "GTM Fund folks. It could be the same as primary. That is a great insight. Folks don't understand."
+  },
+  {
+    "start": 2532.04,
+    "duration": 5.76,
+    "text": "I think people are intimidated by venture capital funds. You see them as like, oh, they have the"
+  },
+  {
+    "start": 2537.8,
+    "duration": 6.24,
+    "text": "money. They're choosing the winners. And it can be intimidating to try to engage or build a"
+  },
+  {
+    "start": 2544.04,
+    "duration": 7.28,
+    "text": "relationship. But at the end of the day, the incentives are so aligned. If you want to help"
+  },
+  {
+    "start": 2551.32,
+    "duration": 6.32,
+    "text": "your friends, like I want to help my friends and former colleagues find great jobs if they're"
+  },
+  {
+    "start": 2557.64,
+    "duration": 4.64,
+    "text": "good at what they do. And these funds are dying to meet these people. And so you can actually be"
+  },
+  {
+    "start": 2562.28,
+    "duration": 8.08,
+    "text": "helpful. I think there's a friction there oftentimes. Yeah. And one thing that is you"
+  },
+  {
+    "start": 2570.36,
+    "duration": 5.68,
+    "text": "experience in a different way inside of a VC firm, you know that VCs have large networks."
+  },
+  {
+    "start": 2576.04,
+    "duration": 4.16,
+    "text": "They're well-connected. Part of their job is to know a lot of people and have networks built in"
+  },
+  {
+    "start": 2580.6,
+    "duration": 4.32,
+    "text": "different places. You get into a VC firm and you experience this and it's like,"
+  },
+  {
+    "start": 2584.92,
+    "duration": 5.6,
+    "text": "oh my God, it's a different level. And so we can diligence a founder or a company"
+  },
+  {
+    "start": 2591.16,
+    "duration": 5.92,
+    "text": "within 24 hours like that. The amount of access we have to getting back channels and answers and"
+  },
+  {
+    "start": 2597.08,
+    "duration": 6.32,
+    "text": "private information is astounding. And so one of the things that there are people that I try to"
+  },
+  {
+    "start": 2603.4,
+    "duration": 5.04,
+    "text": "help find their next career opportunity. And I always say, send me a company that you're"
+  },
+  {
+    "start": 2608.44,
+    "duration": 5.28,
+    "text": "interested in and I guarantee you, we can find some information good, bad, or otherwise"
+  },
+  {
+    "start": 2613.72,
+    "duration": 7.6,
+    "text": "that can help in your decision that would not be publicly available. So it is pretty amazing how"
+  },
+  {
+    "start": 2622.04,
+    "duration": 6.72,
+    "text": "the network of VC works and how much you can sort of get to people, questions, research,"
+  },
+  {
+    "start": 2629.4,
+    "duration": 3.6,
+    "text": "wherever you need it. And VC firms are very, very well positioned to do that."
+  },
+  {
+    "start": 2633.96,
+    "duration": 11.92,
+    "text": "Awesome. So we covered product market fit, talent portfolio access. Anything else that you wish you"
+  },
+  {
+    "start": 2645.88,
+    "duration": 5.44,
+    "text": "knew as an operator, like a lesson, a pattern now that you've picked up that you think would"
+  },
+  {
+    "start": 2651.32,
+    "duration": 4.48,
+    "text": "have been valuable or you're going to take into your next operator role?"
+  },
+  {
+    "start": 2656.76,
+    "duration": 6.32,
+    "text": "Yeah, I think I'm sort of back to the idea that we're starting jump as a not venture-backed"
+  },
+  {
+    "start": 2663.08,
+    "duration": 9.6,
+    "text": "company. Picking is very hard. And as an operator, once every three to five years, hopefully,"
+  },
+  {
+    "start": 2672.68,
+    "duration": 6.4,
+    "text": "you're now picking the next company. And when you see the process that venture investors take"
+  },
+  {
+    "start": 2679.24,
+    "duration": 7.2,
+    "text": "to analyze a market, understand where the sort of puck is going in the next few years,"
+  },
+  {
+    "start": 2686.44,
+    "duration": 6.08,
+    "text": "and where the value is going to accrue and in the innovation in each category,"
+  },
+  {
+    "start": 2693.24,
+    "duration": 4.4,
+    "text": "and the amount of research they put in, the amount of diligence calls they do,"
+  },
+  {
+    "start": 2697.64,
+    "duration": 7.44,
+    "text": "the amount of thesis building they do. And then I remember me saying two of the executives"
+  },
+  {
+    "start": 2705.08,
+    "duration": 2.56,
+    "text": "from my prior company joined Compass and they turned around and they're like,"
+  },
+  {
+    "start": 2707.64,
+    "duration": 3.04,
+    "text": "Hey, Jason, you should come to Compass. It's great. And I'm like, Yeah, sure. I'll come to"
+  },
+  {
+    "start": 2710.68,
+    "duration": 12.72,
+    "text": "Compass. I was like, Oh my God. And so one of the things you can do is knowing the VC firm or people"
+  },
+  {
+    "start": 2723.4,
+    "duration": 4.24,
+    "text": "at them is you know that that information research exists and you know that there's"
+  },
+  {
+    "start": 2728.36,
+    "duration": 4.8,
+    "text": "really rich insights coming from that. And so the benefit that I have with learning from"
+  },
+  {
+    "start": 2733.16,
+    "duration": 6.32,
+    "text": "our investment team picking will make me an unbelievably better picker in the future"
+  },
+  {
+    "start": 2740.12,
+    "duration": 6.96,
+    "text": "because of that. What advice would you give to somebody that is a CRO today? They've just had"
+  },
+  {
+    "start": 2747.08,
+    "duration": 5.92,
+    "text": "a successful run. They've got a good profile and they're looking for their next like series B"
+  },
+  {
+    "start": 2753.0,
+    "duration": 4.8,
+    "text": "revenue leadership opportunity. How would you tell them to go about the diligencing process"
+  },
+  {
+    "start": 2758.36,
+    "duration": 5.28,
+    "text": "to make that right decision? Because primary might make 12 bets a year and you make"
+  },
+  {
+    "start": 2763.64,
+    "duration": 7.6,
+    "text": "0.3 bets a year as an operator. You got to make sure it's a high quality call."
+  },
+  {
+    "start": 2771.24,
+    "duration": 8.0,
+    "text": "Yeah, that's for sure. So a couple of things. One is you learn out of VC firm as well. And I think"
+  },
+  {
+    "start": 2779.24,
+    "duration": 5.44,
+    "text": "a lot of experienced CROs know this, but maybe people that are ascending into their first"
+  },
+  {
+    "start": 2784.68,
+    "duration": 5.52,
+    "text": "leadership roles don't. Leadership hires run through executive search firms and there are a"
+  },
+  {
+    "start": 2790.2,
+    "duration": 6.64,
+    "text": "handful of executive search firms that partner with VC firms to do these executive searches."
+  },
+  {
+    "start": 2796.84,
+    "duration": 7.68,
+    "text": "And so realistically, your ability to get access to the best roles partly depends on your ability"
+  },
+  {
+    "start": 2804.52,
+    "duration": 9.04,
+    "text": "to know nodes at VC firms and people at executive search firms. That's kind of where the roles get"
+  },
+  {
+    "start": 2813.56,
+    "duration": 5.6,
+    "text": "originated and discussed and brought to market. So that's step one. Step two, as far as evaluating"
+  },
+  {
+    "start": 2819.16,
+    "duration": 5.36,
+    "text": "which companies, these are bets. Every single time you're doing this, you're making a bet."
+  },
+  {
+    "start": 2824.52,
+    "duration": 4.0,
+    "text": "And the more perfect the opportunity, the more competitive it is on paper."
+  },
+  {
+    "start": 2828.52,
+    "duration": 7.84,
+    "text": "And so these are all bets. And then the other really, really challenging thing right now,"
+  },
+  {
+    "start": 2836.36,
+    "duration": 4.4,
+    "text": "which I'm talking to more than a dozen people about looking for their next role,"
+  },
+  {
+    "start": 2840.76,
+    "duration": 5.12,
+    "text": "AI has complicated everything. And it's hard to pick right now because of that."
+  },
+  {
+    "start": 2845.88,
+    "duration": 12.24,
+    "text": "Then there's so much noise. I think the networking your way to a VC that has access to an investor"
+  },
+  {
+    "start": 2858.12,
+    "duration": 5.12,
+    "text": "deck or a fundraising memo or something, I would want to get access to that information."
+  },
+  {
+    "start": 2863.24,
+    "duration": 6.88,
+    "text": "I don't know how possible that is for everybody. You can ask the founders. If you're interviewing"
+  },
+  {
+    "start": 2870.12,
+    "duration": 7.04,
+    "text": "for a CRO role, ask for the last board deck. When I was talking to owner about this role,"
+  },
+  {
+    "start": 2877.96,
+    "duration": 6.48,
+    "text": "the founder flipped me through a board deck and then I asked for time with the COO who ran finance"
+  },
+  {
+    "start": 2884.44,
+    "duration": 7.2,
+    "text": "and we went through the growth model in segment by segment, walk me through the metrics of the"
+  },
+  {
+    "start": 2891.64,
+    "duration": 7.36,
+    "text": "business. That was growth and retention and unit economics and cash burn. We went through a"
+  },
+  {
+    "start": 2899.0,
+    "duration": 3.84,
+    "text": "screen share and spent an hour going through the details. I think if you are interviewing for"
+  },
+  {
+    "start": 2903.48,
+    "duration": 6.4,
+    "text": "especially a C-suite position or the executive sales leader, you should be"
+  },
+  {
+    "start": 2910.92,
+    "duration": 5.2,
+    "text": "empowered to ask that. And if it's a no, in my opinion, it's a pretty big red flag."
+  },
+  {
+    "start": 2918.36,
+    "duration": 4.72,
+    "text": "As long as you've gotten late enough in the process, you can't ask for the investor deck."
+  },
+  {
+    "start": 2923.88,
+    "duration": 6.4,
+    "text": "I think that has become more standard practice in the past few years where before it wasn't."
+  },
+  {
+    "start": 2931.48,
+    "duration": 3.68,
+    "text": "The company had leverage over the candidate and maybe wouldn't share. I think that's becoming"
+  },
+  {
+    "start": 2935.16,
+    "duration": 5.36,
+    "text": "more standard today. The other thing that might be interesting is the primary for investing,"
+  },
+  {
+    "start": 2940.52,
+    "duration": 5.36,
+    "text": "we use a framework called God of Beliefs in every single investment. We have an investment thesis."
+  },
+  {
+    "start": 2945.88,
+    "duration": 4.72,
+    "text": "This is what would excite us about a particular business. It's in this category with this"
+  },
+  {
+    "start": 2950.6,
+    "duration": 4.4,
+    "text": "pain point and this insight that these people have that we also agree with."
+  },
+  {
+    "start": 2955.0,
+    "duration": 7.36,
+    "text": "That's the investment thesis. Why do you like the opportunity? The debate, the research,"
+  },
+  {
+    "start": 2962.36,
+    "duration": 4.88,
+    "text": "the diligence, the underwriting is all about the God of Beliefs. The God of Beliefs are the"
+  },
+  {
+    "start": 2967.24,
+    "duration": 4.32,
+    "text": "unanswered questions, the risks, and to say, okay, this business is going to be successful,"
+  },
+  {
+    "start": 2971.56,
+    "duration": 4.8,
+    "text": "you got to believe that X will happen, Y will happen. These are the real decision"
+  },
+  {
+    "start": 2976.36,
+    "duration": 5.76,
+    "text": "points in each investment. I will use that framework wherever I go, whatever I do."
+  },
+  {
+    "start": 2982.76,
+    "duration": 7.28,
+    "text": "I actually think it's very, very clarifying. At least you have a really explicit list of where"
+  },
+  {
+    "start": 2990.04,
+    "duration": 5.84,
+    "text": "you're making the bets. Where is the risk and what are you betting on? Hopefully, some of those bets"
+  },
+  {
+    "start": 2995.88,
+    "duration": 5.2,
+    "text": "are somewhat in your control. It's distribution and go-to-market stuff is one of the God of"
+  },
+  {
+    "start": 3001.08,
+    "duration": 5.92,
+    "text": "Beliefs. It's scaling up the revenue organization to have certain kind of coverage or unlocking"
+  },
+  {
+    "start": 3007.0,
+    "duration": 5.2,
+    "text": "certain channels is a God of Belief. Then as a revenue leader, okay, I have some control over"
+  },
+  {
+    "start": 3012.2,
+    "duration": 6.08,
+    "text": "that. That framework has been very, very clarifying for me and it's been fun to watch our investment"
+  },
+  {
+    "start": 3018.28,
+    "duration": 7.6,
+    "text": "team cycle through that hundreds of times in my time here. Very cool. Have you guys shared that"
+  },
+  {
+    "start": 3025.88,
+    "duration": 7.52,
+    "text": "framework externally? I really like this God of Belief concept. I believe we've talked about it"
+  },
+  {
+    "start": 3033.4,
+    "duration": 5.36,
+    "text": "publicly, but I don't know if we've done a full write-up on the process. That'd be cool."
+  },
+  {
+    "start": 3038.76,
+    "duration": 3.52,
+    "text": "If we have, I will find it and send it to you. Yeah, we'll put it in the show notes."
+  },
+  {
+    "start": 3043.32,
+    "duration": 5.76,
+    "text": "It's a really interesting way to look at a deal because you have your fundamentals. Is it a big"
+  },
+  {
+    "start": 3049.08,
+    "duration": 6.72,
+    "text": "market? Is there product traction? That's a great way to highlight what needs to be true and do we"
+  },
+  {
+    "start": 3055.8,
+    "duration": 5.2,
+    "text": "think these things can be true with some level of confidence. A good example of this that comes up"
+  },
+  {
+    "start": 3061.0,
+    "duration": 7.52,
+    "text": "all the time is multi-product. We know what we're investing in caps out at a certain size for"
+  },
+  {
+    "start": 3068.52,
+    "duration": 4.32,
+    "text": "whatever reason. One of the God of Beliefs is that if you acquire customers in this segment"
+  },
+  {
+    "start": 3073.4,
+    "duration": 5.44,
+    "text": "and you deliver the first experience, you've got to believe that there's a cross-sell motion to"
+  },
+  {
+    "start": 3078.84,
+    "duration": 5.6,
+    "text": "a second, third and fourth product. Those are some of the tangible things that"
+  },
+  {
+    "start": 3086.12,
+    "duration": 6.88,
+    "text": "come up. Then part of your bet is, do I think this is a category and a founder where that"
+  },
+  {
+    "start": 3093.0,
+    "duration": 5.2,
+    "text": "multiple product strategy is going to win or not or something? There's a lot of that."
+  },
+  {
+    "start": 3098.2,
+    "duration": 9.6,
+    "text": "Then with AI, it's really hard to figure out how to play the God of Beliefs. We have a company that"
+  },
+  {
+    "start": 3108.36,
+    "duration": 5.84,
+    "text": "a lot of the viewers here probably know the founder. Amanda Calo was the founder of Sixth"
+  },
+  {
+    "start": 3114.2,
+    "duration": 7.04,
+    "text": "Sense. I'm talking to her about One Mind actively. Great. This is a bet on the future."
+  },
+  {
+    "start": 3121.24,
+    "duration": 6.0,
+    "text": "It's a bet that some portion of customer interactions will be done with some kind of"
+  },
+  {
+    "start": 3127.24,
+    "duration": 8.4,
+    "text": "AI avatar. Her bet is really to the most extreme that lots of sales teams and individuals or"
+  },
+  {
+    "start": 3135.64,
+    "duration": 5.92,
+    "text": "customer success teams and individuals will get replaced by an AI avatar. A God of Belief is you"
+  },
+  {
+    "start": 3141.56,
+    "duration": 5.44,
+    "text": "really have to believe that that future is coming for some meaningful portion of"
+  },
+  {
+    "start": 3148.68,
+    "duration": 3.52,
+    "text": "the customer-facing roles or experiences that people have."
+  },
+  {
+    "start": 3153.56,
+    "duration": 3.68,
+    "text": "These are the examples of God of Beliefs that we wrestle with internally, which is really fun."
+  },
+  {
+    "start": 3158.04,
+    "duration": 6.88,
+    "text": "Very cool. What advice would you give to revenue operators, so C-level,"
+  },
+  {
+    "start": 3165.48,
+    "duration": 6.16,
+    "text": "call CROs and founders about managing VC relationships? What do you know now that"
+  },
+  {
+    "start": 3172.6,
+    "duration": 4.56,
+    "text": "you didn't know from the compass days about how to master that dynamic?"
+  },
+  {
+    "start": 3177.8,
+    "duration": 9.04,
+    "text": "I think it's nothing particularly wild or shocking. It's really strong expectation"
+  },
+  {
+    "start": 3186.84,
+    "duration": 6.0,
+    "text": "setting, really strong communication. I'd frame everything I do with our founders as"
+  },
+  {
+    "start": 3192.84,
+    "duration": 5.68,
+    "text": "if I were the CEO of your business, here's what I would do. I try not to give advice as a coach."
+  },
+  {
+    "start": 3199.48,
+    "duration": 3.6,
+    "text": "We talk through the problem and then we say, if I were the CEO of your business,"
+  },
+  {
+    "start": 3203.08,
+    "duration": 5.44,
+    "text": "here's exactly what I would do. I think what I would say to that question is if I was the CEO"
+  },
+  {
+    "start": 3208.52,
+    "duration": 6.8,
+    "text": "of a business reporting to a board, I would be very transparent. I would be very communicative,"
+  },
+  {
+    "start": 3215.32,
+    "duration": 7.44,
+    "text": "no surprises, consistent updates, all of that. Then of course, you have to develop individual"
+  },
+  {
+    "start": 3222.76,
+    "duration": 6.88,
+    "text": "relationships with these people. Then there's a group collective relationship. The people that"
+  },
+  {
+    "start": 3229.64,
+    "duration": 6.64,
+    "text": "manage boards well, I think just do the basics really well. They have a sense of maturity,"
+  },
+  {
+    "start": 3236.28,
+    "duration": 5.52,
+    "text": "a sense of taking it seriously. Then they build individual relationships with everybody in the"
+  },
+  {
+    "start": 3241.8,
+    "duration": 5.44,
+    "text": "boardroom or adjacent to the boardroom that's also helping them grow the business."
+  },
+  {
+    "start": 3248.84,
+    "duration": 2.72,
+    "text": "Nothing particularly special that I would call out."
+  },
+  {
+    "start": 3253.4,
+    "duration": 7.2,
+    "text": "Why don't founders execute on that? No surprises, be transparent, communicate a lot."
+  },
+  {
+    "start": 3262.12,
+    "duration": 4.32,
+    "text": "It seems very straightforward. Why do you think people go wrong?"
+  },
+  {
+    "start": 3266.44,
+    "duration": 9.76,
+    "text": "I think it's just extreme pressure creates moments of very, I don't know, maybe not the best"
+  },
+  {
+    "start": 3276.2,
+    "duration": 4.48,
+    "text": "decision-making or something in the moment. I think one of these things, everybody would agree,"
+  },
+  {
+    "start": 3280.76,
+    "duration": 3.92,
+    "text": "of course, why wouldn't you do this? Then things happen and moments come up."
+  },
+  {
+    "start": 3285.88,
+    "duration": 7.76,
+    "text": "It's also possible that, I don't know, a VC or a board member is not being that value-added back"
+  },
+  {
+    "start": 3293.64,
+    "duration": 5.76,
+    "text": "to the CEO. The attention can emerge from that. Maybe they want to manage that person a certain"
+  },
+  {
+    "start": 3299.4,
+    "duration": 7.2,
+    "text": "way. It's not just a one-way street. I think it's just probably extreme, extreme pressure,"
+  },
+  {
+    "start": 3307.24,
+    "duration": 6.0,
+    "text": "extreme emotional rollercoaster creates imperfection in execution."
+  },
+  {
+    "start": 3314.36,
+    "duration": 4.24,
+    "text": "There's a joke and a meme that goes around like LinkedIn and Twitter with the VCs. It's like"
+  },
+  {
+    "start": 3318.6,
+    "duration": 3.68,
+    "text": "the best founders are the ones who send the update on the first of the month every month,"
+  },
+  {
+    "start": 3322.28,
+    "duration": 5.04,
+    "text": "always with consistency, with the same metrics and full transparency. It makes sense."
+  },
+  {
+    "start": 3328.6,
+    "duration": 7.6,
+    "text": "Our founder talks about this a lot. He used to do it before midnight, the day the month"
+  },
+  {
+    "start": 3336.2,
+    "duration": 5.92,
+    "text": "closed. Then we moved it to the first of the month. Even that was like, okay, I'm going to"
+  },
+  {
+    "start": 3342.12,
+    "duration": 3.92,
+    "text": "make sure with the board, it's cool. The board was obviously like, yeah, man, you can have a day"
+  },
+  {
+    "start": 3347.32,
+    "duration": 7.52,
+    "text": "to get this together. He had never missed New Year's Eve. His birthday is on the 30th or 31st"
+  },
+  {
+    "start": 3354.84,
+    "duration": 7.2,
+    "text": "of the month. Never, ever missed that deadline. It's like something in that investor update"
+  },
+  {
+    "start": 3362.04,
+    "duration": 3.44,
+    "text": "channel. He's like, we don't miss this. He's like, this is a thing that is unequivocally like"
+  },
+  {
+    "start": 3365.48,
+    "duration": 6.24,
+    "text": "needs to happen. It just shows a level of professionalism and seriousness that if you're"
+  },
+  {
+    "start": 3371.72,
+    "duration": 6.8,
+    "text": "going to bet on a founder, you absolutely need it to be there. Let's get into GTM tech."
+  },
+  {
+    "start": 3380.76,
+    "duration": 10.16,
+    "text": "I've never seen so much change happen in such a rapid succession of time. I was really reflecting"
+  },
+  {
+    "start": 3390.92,
+    "duration": 7.36,
+    "text": "on this. I was like, is this just recency bias and we're always under change? No, I'm certain"
+  },
+  {
+    "start": 3398.28,
+    "duration": 8.56,
+    "text": "that this is just a bonkers time of life. Even if you look at the two-year time horizon post"
+  },
+  {
+    "start": 3407.72,
+    "duration": 8.72,
+    "text": "GPT-3, but even the last three to four months is arguably even more chaotic between"
+  },
+  {
+    "start": 3417.4,
+    "duration": 7.84,
+    "text": "deep-seek operator, reasoning models, agents, deep research. Every couple days, it feels like"
+  },
+  {
+    "start": 3425.24,
+    "duration": 5.52,
+    "text": "there's some massive breakthrough. There was some leak that OpenAI was going to release a sales"
+  },
+  {
+    "start": 3430.76,
+    "duration": 6.72,
+    "text": "agent yesterday. I haven't even been able to read up on the deep-seek"
+  },
+  {
+    "start": 3437.88,
+    "duration": 7.76,
+    "text": "visual video thing yet because I was at an offsite. Now, there's some new thing."
+  },
+  {
+    "start": 3448.52,
+    "duration": 8.72,
+    "text": "Where the heck is GTM going in this world post AI reasoning agents? What's your current theory?"
+  },
+  {
+    "start": 3457.24,
+    "duration": 3.36,
+    "text": "Yeah. I have no idea. The answer is I do not know."
+  },
+  {
+    "start": 3461.32,
+    "duration": 0.56,
+    "text": "Same here."
+  },
+  {
+    "start": 3462.2,
+    "duration": 6.4,
+    "text": "Yeah. What's fun about this is I work at a VC firm. Being on the ground floor of the new"
+  },
+  {
+    "start": 3468.6,
+    "duration": 4.16,
+    "text": "generation of AI-needed go-to-market tech companies is not one of the reasons I originally"
+  },
+  {
+    "start": 3472.76,
+    "duration": 6.64,
+    "text": "joined primary. Thank God, I am at a VC firm for this AI explosion because this is the front row"
+  },
+  {
+    "start": 3479.4,
+    "duration": 4.8,
+    "text": "seat to just learning and seeing every day the next founder come into our office and explain"
+  },
+  {
+    "start": 3484.2,
+    "duration": 4.48,
+    "text": "where they think the world is going. It's a really, really fun time. It's impossible to know."
+  },
+  {
+    "start": 3489.24,
+    "duration": 6.56,
+    "text": "Our investors are so, so smart and diligent. They spend all their time thesis building around what"
+  },
+  {
+    "start": 3495.8,
+    "duration": 3.04,
+    "text": "the future is going to look like. If you ask them, they would say they don't know. Certainly,"
+  },
+  {
+    "start": 3498.84,
+    "duration": 5.2,
+    "text": "I don't know either. What I could say, though, is a couple of observations that may be"
+  },
+  {
+    "start": 3504.68,
+    "duration": 7.52,
+    "text": "helpful or interesting to the audience here. First is if you zoom all the way out,"
+  },
+  {
+    "start": 3512.28,
+    "duration": 7.76,
+    "text": "we have two decades of SaaS tools being built and deployed in every organization. That's true"
+  },
+  {
+    "start": 3520.04,
+    "duration": 3.92,
+    "text": "in every department of every organization, but let's just talk about go-to-market tech stack."
+  },
+  {
+    "start": 3523.96,
+    "duration": 3.52,
+    "text": "So you got the Salesforce era where you have HubSpot as your DRM."
+  },
+  {
+    "start": 3527.48,
+    "duration": 5.52,
+    "text": "And then the vertical categories of everything got built up. There's the DocuSign category,"
+  },
+  {
+    "start": 3533.0,
+    "duration": 4.88,
+    "text": "there's the Gong category, there's the Sales Bluffs Outreach category. There's this huge"
+  },
+  {
+    "start": 3538.68,
+    "duration": 6.8,
+    "text": "deployment of SaaS. And then what's happening now is this huge retrofitting"
+  },
+  {
+    "start": 3546.04,
+    "duration": 5.52,
+    "text": "kind of thing where AI is either being built inside of these old SaaS products,"
+  },
+  {
+    "start": 3551.56,
+    "duration": 4.16,
+    "text": "or you're buying a new SaaS product, but connecting it to the old SaaS products."
+  },
+  {
+    "start": 3556.28,
+    "duration": 5.68,
+    "text": "And there's going to be a few years of figuring out how does all of this mesh together?"
+  },
+  {
+    "start": 3561.96,
+    "duration": 5.12,
+    "text": "Or do we need Salesforce anymore? If we wanted to move to new tools,"
+  },
+  {
+    "start": 3567.08,
+    "duration": 6.8,
+    "text": "and it's going to be this messy transition period. And the question is, five years from now,"
+  },
+  {
+    "start": 3575.16,
+    "duration": 5.6,
+    "text": "is all of that SaaS going to go away? It's kind of possible that it does."
+  },
+  {
+    "start": 3581.4,
+    "duration": 5.28,
+    "text": "And one of the questions we're evaluating is, are these categories of tools even going to matter"
+  },
+  {
+    "start": 3586.68,
+    "duration": 4.88,
+    "text": "anymore? There's a pre-sales tool, and a post-sales tool, and a call recorder tool,"
+  },
+  {
+    "start": 3591.56,
+    "duration": 5.52,
+    "text": "and a thing. And of course, you've got this compound startup theory of what's happening,"
+  },
+  {
+    "start": 3597.08,
+    "duration": 7.04,
+    "text": "like Rippling is the all-in-one bundle. AI is going to do something another level"
+  },
+  {
+    "start": 3604.12,
+    "duration": 6.16,
+    "text": "deeper than that. If Rippling is a bundle of all the different point solutions inside of a platform,"
+  },
+  {
+    "start": 3611.24,
+    "duration": 8.48,
+    "text": "AI is going to start to extract away all the platform stuff, and do work and create experiences"
+  },
+  {
+    "start": 3619.72,
+    "duration": 3.76,
+    "text": "without all this underlying architecture and APIs and connectivity."
+  },
+  {
+    "start": 3623.48,
+    "duration": 4.32,
+    "text": "And so we're trying to figure out, what does this mean? How do you invest in stuff today?"
+  },
+  {
+    "start": 3633.08,
+    "duration": 3.6,
+    "text": "What should these tools be doing with our existing tech stack? Or should they be trying"
+  },
+  {
+    "start": 3636.68,
+    "duration": 8.72,
+    "text": "to replace them outright? We just pulled this stat. I think we've seen 170 different go-to-market"
+  },
+  {
+    "start": 3645.4,
+    "duration": 7.44,
+    "text": "tech founders pitch us in the last 15 months or so. Lately, every single pitch is AI-native"
+  },
+  {
+    "start": 3652.84,
+    "duration": 7.52,
+    "text": "something or other. And some of them are trying to start by replacing the SaaS analog tool from"
+  },
+  {
+    "start": 3660.36,
+    "duration": 5.92,
+    "text": "before and saying, we need the DocuSign for AI, and then we'll go do other stuff."
+  },
+  {
+    "start": 3666.28,
+    "duration": 5.52,
+    "text": "Others of them are saying, we're going to combine a bunch of tools into our AI-native thing."
+  },
+  {
+    "start": 3672.36,
+    "duration": 4.16,
+    "text": "Some of them are AI-native CRMs, which is a whole head-scratching world of,"
+  },
+  {
+    "start": 3678.36,
+    "duration": 5.28,
+    "text": "everyone already has a CRM, so how do you unseat those CRMs into your new AI?"
+  },
+  {
+    "start": 3684.44,
+    "duration": 7.76,
+    "text": "Can a CRM be probabilistic in nature? I don't know. This seems hard, but maybe."
+  },
+  {
+    "start": 3693.32,
+    "duration": 12.16,
+    "text": "And then what's also really hard is that where you have pricing leverage in a tool historically,"
+  },
+  {
+    "start": 3705.48,
+    "duration": 5.6,
+    "text": "so a call recorder, that was their anchor product, and that was an expensive product"
+  },
+  {
+    "start": 3711.08,
+    "duration": 6.16,
+    "text": "because it was a unique product. And now there's a flood of great, amazing call reporters on the"
+  },
+  {
+    "start": 3717.24,
+    "duration": 5.92,
+    "text": "market that are very, very cheap. And obviously, Gong is now trying to build the platform and eat"
+  },
+  {
+    "start": 3723.16,
+    "duration": 7.36,
+    "text": "into everyone else's categories. But these call reporters now are so, so good and so, so cheap."
+  },
+  {
+    "start": 3730.52,
+    "duration": 8.4,
+    "text": "And so you can imagine each of these tools that come out may start with some pricing leverage"
+  },
+  {
+    "start": 3738.92,
+    "duration": 4.48,
+    "text": "because these AI workflows are new. But as an early-stage investor, you're like,"
+  },
+  {
+    "start": 3743.4,
+    "duration": 4.64,
+    "text": "what is defensible such that you can maintain pricing leverage or build a moat?"
+  },
+  {
+    "start": 3749.4,
+    "duration": 3.04,
+    "text": "Why won't this all just be a race to the bottom over and over again?"
+  },
+  {
+    "start": 3755.24,
+    "duration": 2.8,
+    "text": "Any sort of defensibility is a very, very hard question to figure out."
+  },
+  {
+    "start": 3759.4,
+    "duration": 3.52,
+    "text": "And so these are just some of the things we're thinking about. One of the questions is,"
+  },
+  {
+    "start": 3763.16,
+    "duration": 9.76,
+    "text": "is there going to be a tool that truly does blur the lines between all the categories?"
+  },
+  {
+    "start": 3773.48,
+    "duration": 4.4,
+    "text": "Is there just going to be one mega AI tool that eats all the other software categories?"
+  },
+  {
+    "start": 3778.52,
+    "duration": 7.6,
+    "text": "I think there's a chance that there is because all the background orchestration could disappear."
+  },
+  {
+    "start": 3786.12,
+    "duration": 4.72,
+    "text": "You don't need this big RevOps and IT team and all this other stuff. So that's the world that"
+  },
+  {
+    "start": 3790.84,
+    "duration": 7.36,
+    "text": "we're trying to sift through and it's very, very hard. But I would not be surprised if one mega"
+  },
+  {
+    "start": 3799.48,
+    "duration": 7.28,
+    "text": "GTM tool emerges at some point that basically eats tons and tons of the other workflows and apps."
+  },
+  {
+    "start": 3807.48,
+    "duration": 11.44,
+    "text": "Yeah. I have the same questions and a similar hypothesis. At what point..."
+  },
+  {
+    "start": 3821.08,
+    "duration": 5.44,
+    "text": "People have always had their gripes about Salesforce. It's always been a tool that"
+  },
+  {
+    "start": 3826.52,
+    "duration": 5.36,
+    "text": "is extremely valuable, but people have frustrations with. But I never thought in a"
+  },
+  {
+    "start": 3831.88,
+    "duration": 5.92,
+    "text": "million years there's a possibility that they are unseated. This is the first time I'm like,"
+  },
+  {
+    "start": 3837.8,
+    "duration": 7.76,
+    "text": "oh man, somebody could definitely get Salesforce now. Because that's basically just a series of"
+  },
+  {
+    "start": 3845.56,
+    "duration": 7.68,
+    "text": "workflows on top of a big database. And what if none of those fields matter? What if none of the"
+  },
+  {
+    "start": 3854.12,
+    "duration": 7.36,
+    "text": "way that information is structured and captured matters? Because you just throw it all into a"
+  },
+  {
+    "start": 3861.48,
+    "duration": 7.28,
+    "text": "massive database and query into it any way you want. It seems like chaos to me. It gives me"
+  },
+  {
+    "start": 3868.76,
+    "duration": 4.88,
+    "text": "anxiety to think about. There's two fun thought experiments with this. The first is like,"
+  },
+  {
+    "start": 3874.36,
+    "duration": 5.2,
+    "text": "okay, so if you ever wanted to unseat Salesforce, I agree with you that this is the only time I've"
+  },
+  {
+    "start": 3879.56,
+    "duration": 5.52,
+    "text": "ever seen where there's this window where it could possibly happen. But what's the hard part is that"
+  },
+  {
+    "start": 3885.08,
+    "duration": 6.08,
+    "text": "if you are on Salesforce, you have integrations and everything. The other tool is bolted into it."
+  },
+  {
+    "start": 3891.16,
+    "duration": 4.64,
+    "text": "And this is why Salesforce was so smart. They built the app storage. It's infinitely customizable."
+  },
+  {
+    "start": 3895.8,
+    "duration": 5.68,
+    "text": "You have tons of it. To unwind all that is very, very hard, especially for your medium to large"
+  },
+  {
+    "start": 3901.48,
+    "duration": 5.44,
+    "text": "to extra large size organization. So some AI tool will come along. There's a bunch of these"
+  },
+  {
+    "start": 3906.92,
+    "duration": 5.2,
+    "text": "new startups that are like the AI native CRM. And I think something will emerge as a massive company"
+  },
+  {
+    "start": 3912.12,
+    "duration": 5.28,
+    "text": "in that category. But the question I would always ask the founders would be like, what happens when"
+  },
+  {
+    "start": 3917.4,
+    "duration": 5.36,
+    "text": "you run into the company? They're very large. Salesforce is the incumbent. They agree with you"
+  },
+  {
+    "start": 3922.76,
+    "duration": 5.2,
+    "text": "that they're paying $4 million a year for this massive behemoth. And they would get out of it,"
+  },
+  {
+    "start": 3927.96,
+    "duration": 7.36,
+    "text": "but they just can't unwind the system. So some magic AI off-boarding tool is going to have to"
+  },
+  {
+    "start": 3935.32,
+    "duration": 5.92,
+    "text": "come along that can somehow move systems, make sure everything works the same, and then kill"
+  },
+  {
+    "start": 3941.24,
+    "duration": 5.68,
+    "text": "Salesforce. Fit into every little API that's possibly there. And then the second fun thought"
+  },
+  {
+    "start": 3946.92,
+    "duration": 7.76,
+    "text": "experiment, and this is why investing is really tricky in this. So let's say you have a thesis"
+  },
+  {
+    "start": 3954.68,
+    "duration": 7.52,
+    "text": "that data entry into a CRM is gone. There are companies, Momentum, Attention. There's a few of"
+  },
+  {
+    "start": 3962.2,
+    "duration": 5.6,
+    "text": "these companies. They watch your calls. They put the notes in the CRM for you. And we've killed that"
+  },
+  {
+    "start": 3967.8,
+    "duration": 4.48,
+    "text": "workflow and save salespeople a bunch of time. Okay, great. So that's the future. And we think"
+  },
+  {
+    "start": 3972.28,
+    "duration": 6.32,
+    "text": "that that workflow and technology is going to get democratized. And the idea of manually doing data"
+  },
+  {
+    "start": 3978.6,
+    "duration": 5.2,
+    "text": "entry in your CRM is gone. Well, then it's like, okay, great. So if you could invest in that,"
+  },
+  {
+    "start": 3983.8,
+    "duration": 5.92,
+    "text": "a company that's anchored on those kinds of workflows, but then what if you believe that,"
+  },
+  {
+    "start": 3989.72,
+    "duration": 4.4,
+    "text": "I don't know, there's an agentic future where lots of salespeople won't even be on calls."
+  },
+  {
+    "start": 3995.32,
+    "duration": 7.6,
+    "text": "Then whoever builds the agent company won't need those companies to do that for them. They'll just"
+  },
+  {
+    "start": 4003.48,
+    "duration": 9.12,
+    "text": "transcribe their own robot conversations themselves. And so whatever this new stack"
+  },
+  {
+    "start": 4012.6,
+    "duration": 3.92,
+    "text": "of AI is going to look like, it's just so hard to figure out where does it go? And what does"
+  },
+  {
+    "start": 4016.52,
+    "duration": 4.24,
+    "text": "the future look like? And what does it mean for each new AI capability? Where does the value accrue?"
+  },
+  {
+    "start": 4020.76,
+    "duration": 5.28,
+    "text": "And who wins in that world is a very, very hard question to figure out. Yeah. And something that"
+  },
+  {
+    "start": 4026.04,
+    "duration": 9.2,
+    "text": "I grapple with as an operator is I'm trying to be on the front edge of it all. And we have."
+  },
+  {
+    "start": 4035.24,
+    "duration": 7.68,
+    "text": "You mentioned Momentum. We were their first, second, or third customer. And we've got this"
+  },
+  {
+    "start": 4042.92,
+    "duration": 6.16,
+    "text": "AI sim. And we were their first Cullivara, first Ping customer, their first design partner."
+  },
+  {
+    "start": 4051.24,
+    "duration": 5.28,
+    "text": "The advantage is so crazy. And I was one of the very earliest Sales Loft customers,"
+  },
+  {
+    "start": 4056.52,
+    "duration": 5.84,
+    "text": "earliest Chili Piper customers, earliest Chorus customers. I've always carved an advantage."
+  },
+  {
+    "start": 4063.16,
+    "duration": 8.24,
+    "text": "Being early on Sales Loft was wild. The leverage I got above most other SaaS companies and our"
+  },
+  {
+    "start": 4071.4,
+    "duration": 5.04,
+    "text": "competitors. And so we're trying to be early. But I grapple with this all the time. I'm like,"
+  },
+  {
+    "start": 4076.44,
+    "duration": 4.32,
+    "text": "is this or is some of this investment completely irrelevant in 12 months?"
+  },
+  {
+    "start": 4081.72,
+    "duration": 8.08,
+    "text": "And the question is, do you wait a little bit longer to see how it all plays out?"
+  },
+  {
+    "start": 4089.88,
+    "duration": 6.48,
+    "text": "And I've just come to the realization, I'm not a waiting person. And I prefer to make some mistakes"
+  },
+  {
+    "start": 4096.36,
+    "duration": 6.88,
+    "text": "along the way, but be early and carve an advantage there. But I'm certainly doing it with the"
+  },
+  {
+    "start": 4103.24,
+    "duration": 4.4,
+    "text": "understanding that some of these tools might be obsolete in some period of time. Because"
+  },
+  {
+    "start": 4109.24,
+    "duration": 8.08,
+    "text": "I don't think it'll be Salesforce offering it, but something else could be that layer."
+  },
+  {
+    "start": 4117.88,
+    "duration": 4.0,
+    "text": "Yeah. If I were leading a company right now,"
+  },
+  {
+    "start": 4123.64,
+    "duration": 4.88,
+    "text": "leading a revenue organization, I would do what you're doing, which is make it a part of our DNA"
+  },
+  {
+    "start": 4128.52,
+    "duration": 4.72,
+    "text": "that we are constantly experimenting with AI tooling, knowing that we're going to create"
+  },
+  {
+    "start": 4133.24,
+    "duration": 7.12,
+    "text": "some churn, some isn't going to work. But it's much better to be at the cutting edge and building"
+  },
+  {
+    "start": 4140.68,
+    "duration": 6.08,
+    "text": "internal IP around what works for our motion and doesn't than to wait and figure out where"
+  },
+  {
+    "start": 4146.76,
+    "duration": 6.48,
+    "text": "it all goes. And the investor distinction is important. We get to make one bet a year on"
+  },
+  {
+    "start": 4153.24,
+    "duration": 6.96,
+    "text": "a go-to-market SaaS company, maybe two. So that's our one bet. And then that's wild."
+  },
+  {
+    "start": 4160.2,
+    "duration": 3.68,
+    "text": "And so we have to think about, what does the world look like in five years? If you're running"
+  },
+  {
+    "start": 4163.88,
+    "duration": 6.88,
+    "text": "a company, that is sort of irrelevant. The hard part, though, is filtering all the noise and"
+  },
+  {
+    "start": 4170.76,
+    "duration": 5.6,
+    "text": "figuring out what's the one or two pilots I want to do right now. But I would absolutely be"
+  },
+  {
+    "start": 4176.36,
+    "duration": 8.16,
+    "text": "aggressive with that. And we did this thing a while ago at Compass for a similar purpose."
+  },
+  {
+    "start": 4184.52,
+    "duration": 6.32,
+    "text": "We called it the sales lab. And for a few months, we had a few top sellers of maybe the top BDR,"
+  },
+  {
+    "start": 4190.84,
+    "duration": 6.72,
+    "text": "a RevOps person, in the lab, partly because they wanted to be the experimenters on behalf"
+  },
+  {
+    "start": 4197.56,
+    "duration": 4.0,
+    "text": "of the whole group and tell everybody what worked and what didn't. And that's probably"
+  },
+  {
+    "start": 4201.56,
+    "duration": 4.32,
+    "text": "what I would be doing right now if I was running a scaling up organization."
+  },
+  {
+    "start": 4207.8,
+    "duration": 7.6,
+    "text": "I do think that there will be some of these AI agencies that get to a very, very large scale,"
+  },
+  {
+    "start": 4215.4,
+    "duration": 5.76,
+    "text": "helping companies figure out the exact right combination of AI tech to implement. I think"
+  },
+  {
+    "start": 4221.16,
+    "duration": 6.16,
+    "text": "those businesses are going to explode in the next few years. Yeah. Yeah. It's going to be"
+  },
+  {
+    "start": 4227.32,
+    "duration": 5.28,
+    "text": "interesting because some of them have no idea what they're talking about. I see some of the"
+  },
+  {
+    "start": 4232.6,
+    "duration": 5.04,
+    "text": "thought leader people putting out, they're like, oh, I wrote a prompt for this. And I'm no prompt"
+  },
+  {
+    "start": 4237.64,
+    "duration": 5.12,
+    "text": "writing expert, but I can read some of this stuff. I was like, yeah, this is sort of crap."
+  },
+  {
+    "start": 4243.4,
+    "duration": 4.32,
+    "text": "It's either too generic enough to be helpful for anybody's business, or it'll give you an output"
+  },
+  {
+    "start": 4247.72,
+    "duration": 6.8,
+    "text": "that's like a cool party trick, but actually not materially helpful for a rep or a leader."
+  },
+  {
+    "start": 4257.24,
+    "duration": 5.84,
+    "text": "It's going to be such a challenging period of time for leaders because you and I, I think,"
+  },
+  {
+    "start": 4263.08,
+    "duration": 6.08,
+    "text": "have a predisposition to be interested in this stuff. I've been advising and investing for,"
+  },
+  {
+    "start": 4269.16,
+    "duration": 6.16,
+    "text": "I don't know, five years or more and have built enough pattern recognition to understand."
+  },
+  {
+    "start": 4275.32,
+    "duration": 4.96,
+    "text": "When I pick a really early stage company, it's really like a founder bet. And I'll do a pilot,"
+  },
+  {
+    "start": 4280.28,
+    "duration": 4.72,
+    "text": "and I'll give the founders a bunch of feedback, and I'll see how fast they implement it."
+  },
+  {
+    "start": 4285.8,
+    "duration": 5.6,
+    "text": "And I'm trying to align on a vision. Do we have a shared vision of the future in this category?"
+  },
+  {
+    "start": 4293.56,
+    "duration": 3.76,
+    "text": "But I think most people just look at tools and they're like, this is cool,"
+  },
+  {
+    "start": 4297.32,
+    "duration": 6.48,
+    "text": "this will be helpful, and then they send it. And you can end up with three or four tools,"
+  },
+  {
+    "start": 4303.8,
+    "duration": 5.84,
+    "text": "and it's just mass confusion across your team and very little value, and you've wasted time,"
+  },
+  {
+    "start": 4309.64,
+    "duration": 8.64,
+    "text": "energy, and money to sort of get nowhere. Somebody was asking me for advice on this"
+  },
+  {
+    "start": 4318.28,
+    "duration": 6.88,
+    "text": "topic. And my advice was like, dude, you got to go learn to be a venture capital investor,"
+  },
+  {
+    "start": 4325.16,
+    "duration": 5.28,
+    "text": "basically to know how to choose early stage tech, or maybe just wait."
+  },
+  {
+    "start": 4332.6,
+    "duration": 3.2,
+    "text": "One way you could approach this, and we're doing this as a primary right now"
+  },
+  {
+    "start": 4335.8,
+    "duration": 6.56,
+    "text": "for our business development team. One way you could take this is say, okay, let's map out"
+  },
+  {
+    "start": 4342.36,
+    "duration": 7.44,
+    "text": "our supply chain of how our go-to-market works. So from marketing to SDR, to sales, to conversion,"
+  },
+  {
+    "start": 4349.8,
+    "duration": 7.52,
+    "text": "to post-sales. And where are we either spending an outsized amount of time, or where's the place"
+  },
+  {
+    "start": 4357.32,
+    "duration": 4.96,
+    "text": "in that entire workflow that we would love to create leverage? And the example from primary's"
+  },
+  {
+    "start": 4362.28,
+    "duration": 6.48,
+    "text": "business development team is they're spending 15 hours or 20 hours a week just in sales navigator."
+  },
+  {
+    "start": 4368.76,
+    "duration": 6.08,
+    "text": "So the business development team functions like a VDR team, basically. And 15 hours a week,"
+  },
+  {
+    "start": 4374.84,
+    "duration": 4.48,
+    "text": "they're in sales navigator, and then they have five or six other hours spent on the"
+  },
+  {
+    "start": 4379.32,
+    "duration": 4.0,
+    "text": "prospecting motion. Play.com to the rescue, baby."
+  },
+  {
+    "start": 4383.32,
+    "duration": 7.92,
+    "text": "Yeah. So for them, it's go find a tool or a workflow that gets you from 15 to 20 hours down"
+  },
+  {
+    "start": 4391.24,
+    "duration": 5.2,
+    "text": "to five per week per person. It's got to be sub-five. And so they have a specific problem"
+  },
+  {
+    "start": 4396.44,
+    "duration": 4.72,
+    "text": "they're trying to solve, and now we can go out to the world and say, hey, all the new AI apps,"
+  },
+  {
+    "start": 4401.16,
+    "duration": 3.6,
+    "text": "here's the exact thing we need to solve. Who can do this for me? And they're taking"
+  },
+  {
+    "start": 4404.76,
+    "duration": 5.76,
+    "text": "demos with those companies. So that's one way to think about it, is go out to that world with a"
+  },
+  {
+    "start": 4410.52,
+    "duration": 5.04,
+    "text": "very specific problem to solve, and then see what you find in that arena. Because otherwise,"
+  },
+  {
+    "start": 4415.56,
+    "duration": 3.76,
+    "text": "everyone needs a filter right now. It's too overwhelming. There's too many tools."
+  },
+  {
+    "start": 4419.32,
+    "duration": 4.96,
+    "text": "They all have some sort of overlap with each other in some ways. So you have to pick apart"
+  },
+  {
+    "start": 4424.28,
+    "duration": 5.2,
+    "text": "what each one does better than the other. It's very, very hard. And that's why I think"
+  },
+  {
+    "start": 4429.48,
+    "duration": 4.8,
+    "text": "AI agencies, well, there will be some that emerge that will be unbelievably huge because"
+  },
+  {
+    "start": 4434.28,
+    "duration": 4.96,
+    "text": "people need a trusted filter to say, don't worry about the noise. You're paying me because I'm"
+  },
+  {
+    "start": 4439.24,
+    "duration": 5.04,
+    "text": "going to review everything and tell you what you need. I think that is going to be a, there are"
+  },
+  {
+    "start": 4444.28,
+    "duration": 5.12,
+    "text": "going to be some $100 million revenue AI consulting firms, I think, in the next few years."
+  },
+  {
+    "start": 4450.04,
+    "duration": 6.96,
+    "text": "Yeah. Yeah. If I wasn't so locked in and excited about Honor, that might be something I'd go start"
+  },
+  {
+    "start": 4457.0,
+    "duration": 8.8,
+    "text": "because I love the space and I feel bad for leaders. It's just so confusing. And the other"
+  },
+  {
+    "start": 4465.8,
+    "duration": 5.52,
+    "text": "advice I give to leaders is you just have to make this a priority. It's not really a choice."
+  },
+  {
+    "start": 4471.32,
+    "duration": 7.92,
+    "text": "I sent Andrej Karpathy released a three and a half hour video on the foundations of LLMs,"
+  },
+  {
+    "start": 4479.24,
+    "duration": 6.0,
+    "text": "how it works, what's the difference between pre-training, inference, and what's a token,"
+  },
+  {
+    "start": 4485.24,
+    "duration": 3.76,
+    "text": "and how does this whole thing work? And I said to my leadership channel, I'm like,"
+  },
+  {
+    "start": 4489.0,
+    "duration": 5.92,
+    "text": "you got to watch this because everybody has to have enough foundational knowledge about this"
+  },
+  {
+    "start": 4494.92,
+    "duration": 6.88,
+    "text": "tool set because it's going to be the foundation of how we all operate in the course of a couple"
+  },
+  {
+    "start": 4501.8,
+    "duration": 4.08,
+    "text": "years. It's like being like, I don't really need to know how a CRM works. It's like, no, no, no,"
+  },
+  {
+    "start": 4505.88,
+    "duration": 4.08,
+    "text": "that's part of the job requirement. And so you got to find the time."
+  },
+  {
+    "start": 4509.96,
+    "duration": 6.96,
+    "text": "Yeah. The other thing that I think we're starting to do a primary, and I've talked to a few people"
+  },
+  {
+    "start": 4516.92,
+    "duration": 7.84,
+    "text": "who are doing this in their companies, making AI a theme at the company. And whether you're in SDR,"
+  },
+  {
+    "start": 4526.12,
+    "duration": 6.8,
+    "text": "in HR, in finance, in legal, in sales, in leadership, making it whether it's department"
+  },
+  {
+    "start": 4532.92,
+    "duration": 8.08,
+    "text": "or company level, hey, this is the time of AI right now. It's the year of AI. And anyone that"
+  },
+  {
+    "start": 4541.0,
+    "duration": 8.8,
+    "text": "has AI breakthroughs, hey, here's what I was doing before. I found this AI workflow, I'm trying it,"
+  },
+  {
+    "start": 4549.8,
+    "duration": 6.08,
+    "text": "and now it did this new thing for me. Here's what after looks like. Being visible, celebrated,"
+  },
+  {
+    "start": 4555.88,
+    "duration": 4.64,
+    "text": "loud inside of a company, that's what I would be doing because then it motivates other people to"
+  },
+  {
+    "start": 4560.52,
+    "duration": 4.48,
+    "text": "be like, ooh, I would love to find that for my job. And I think that would be a really fun way"
+  },
+  {
+    "start": 4565.0,
+    "duration": 5.84,
+    "text": "to do it inside of a company. Yeah, for sure. Okay. I could also do another hour on this topic,"
+  },
+  {
+    "start": 4570.84,
+    "duration": 4.32,
+    "text": "but we got to go to the quick fire. So you've gotten to work with a bunch of CROs"
+  },
+  {
+    "start": 4576.84,
+    "duration": 2.64,
+    "text": "through primary and through your operating career."
+  },
+  {
+    "start": 4580.04,
+    "duration": 3.44,
+    "text": "In your mind, what separates a good CRO from a truly great one?"
+  },
+  {
+    "start": 4584.2,
+    "duration": 8.88,
+    "text": "Interesting. It is situation dependent. I would say that the hardest skillset to find in a CRO"
+  },
+  {
+    "start": 4593.08,
+    "duration": 6.4,
+    "text": "is the classic is the best salesperson type at the company, best sales leader, and then the CRO,"
+  },
+  {
+    "start": 4599.48,
+    "duration": 8.16,
+    "text": "like that path. Finding that person who is deeply analytically fluent and P&L fluent is very, very"
+  },
+  {
+    "start": 4608.04,
+    "duration": 11.44,
+    "text": "hard. And so a really good CRO certainly can be excellent at building, managing, and inspiring"
+  },
+  {
+    "start": 4619.48,
+    "duration": 4.8,
+    "text": "the sales organization and doing all the mechanics of talent development and all that other stuff."
+  },
+  {
+    "start": 4625.32,
+    "duration": 7.44,
+    "text": "I think the best CROs have pretty rich analytical fluency about the numbers and mechanics of the"
+  },
+  {
+    "start": 4632.76,
+    "duration": 7.52,
+    "text": "business. I have that in a Substack article on the topic. I couldn't agree more. What's the most"
+  },
+  {
+    "start": 4640.28,
+    "duration": 7.84,
+    "text": "common advice you're giving to... Let's talk about founders that have just found product market fit"
+  },
+  {
+    "start": 4648.12,
+    "duration": 6.32,
+    "text": "and are starting to get into figuring out go-to-market. The common theme."
+  },
+  {
+    "start": 4655.4,
+    "duration": 10.08,
+    "text": "The most common theme. I think there is a standard playbook that everyone is used to. It's like"
+  },
+  {
+    "start": 4665.48,
+    "duration": 6.64,
+    "text": "founder-led sales, hire your first AE, run an SDR, hire two more AEs, maybe then hire a player coach"
+  },
+  {
+    "start": 4672.12,
+    "duration": 5.84,
+    "text": "AE, then hire a VP sales, and it corresponds to the funding rounds. The thing I am trying to do"
+  },
+  {
+    "start": 4677.96,
+    "duration": 5.44,
+    "text": "is for each business, figure out if that's actually the right plan for that business. I think there"
+  },
+  {
+    "start": 4683.8,
+    "duration": 6.0,
+    "text": "are some businesses where the founder should be the sole salesperson until 5 or 10 million ARR,"
+  },
+  {
+    "start": 4689.8,
+    "duration": 4.32,
+    "text": "and they should actually sell themselves with other people. There are other variants of this."
+  },
+  {
+    "start": 4696.68,
+    "duration": 6.64,
+    "text": "It would probably be to question the traditional playbook and let's really have a sharp and precise"
+  },
+  {
+    "start": 4703.32,
+    "duration": 5.92,
+    "text": "point of view on, is that right for this business? If it's not, let's find what is. I don't think it"
+  },
+  {
+    "start": 4709.24,
+    "duration": 6.48,
+    "text": "works in every scenario. That's really interesting. What's the hardest lesson you've"
+  },
+  {
+    "start": 4715.72,
+    "duration": 10.8,
+    "text": "had to learn? In my career? Yeah, in your career. Going to law school, realizing it wasn't for me,"
+  },
+  {
+    "start": 4726.52,
+    "duration": 6.08,
+    "text": "and jumping into the tech world when my family, friends, and entire network said,"
+  },
+  {
+    "start": 4732.6,
+    "duration": 6.08,
+    "text": "you're a lawyer and this is who you are. I took my medicine early. I struggled for a few years."
+  },
+  {
+    "start": 4739.32,
+    "duration": 6.96,
+    "text": "Paying back loans and financially. I still have an extreme amount of paranoia about,"
+  },
+  {
+    "start": 4746.28,
+    "duration": 8.64,
+    "text": "if you're not proactive about your career and you don't have a vision for yourself,"
+  },
+  {
+    "start": 4754.92,
+    "duration": 5.44,
+    "text": "the world will push you around and you'll be following other people's visions. Taking my"
+  },
+  {
+    "start": 4760.36,
+    "duration": 4.96,
+    "text": "medicine early on that front has saved me a lot of pain downstream, I think."
+  },
+  {
+    "start": 4765.96,
+    "duration": 3.36,
+    "text": "Yeah, for sure. What's the best thing you've read in the last 12 months?"
+  },
+  {
+    "start": 4772.6,
+    "duration": 4.08,
+    "text": "Two of our investors at primary, Brian Schechter and Tobias Citron,"
+  },
+  {
+    "start": 4776.68,
+    "duration": 5.92,
+    "text": "they're our AI and infra investors. They invest in the deep tech and the infra on AI."
+  },
+  {
+    "start": 4782.6,
+    "duration": 4.4,
+    "text": "They write this newsletter every month called the BNP Newsletter, Brian and Tobias,"
+  },
+  {
+    "start": 4787.0,
+    "duration": 6.48,
+    "text": "and it's just like they were not experts in AI when this started and it's them documenting their"
+  },
+  {
+    "start": 4793.48,
+    "duration": 3.28,
+    "text": "learnings, their questions, their areas of exploration for the last two years."
+  },
+  {
+    "start": 4797.88,
+    "duration": 7.52,
+    "text": "This is exactly why I joined a VC firm, to learn from people like this and to see that they were"
+  },
+  {
+    "start": 4805.4,
+    "duration": 4.64,
+    "text": "not experts, they're not technical, they're not engineers by trade and they're learning this world."
+  },
+  {
+    "start": 4810.04,
+    "duration": 5.44,
+    "text": "It's like, okay, it's not that scary and they do such a good job with clarity of thought and"
+  },
+  {
+    "start": 4815.48,
+    "duration": 5.84,
+    "text": "taking you on the learning journey that they're on. It's public, anyone can read it. I'll share"
+  },
+  {
+    "start": 4821.32,
+    "duration": 7.2,
+    "text": "the link with you. What's it called? BNT? The BNT Infra Newsletter. Okay."
+  },
+  {
+    "start": 4832.36,
+    "duration": 7.52,
+    "text": "I didn't need another AI related newsletter in my life, but I can't resist. So that's good."
+  },
+  {
+    "start": 4841.24,
+    "duration": 3.92,
+    "text": "Jason, this was awesome. Where can people find you? What do you want them to go"
+  },
+  {
+    "start": 4845.96,
+    "duration": 6.4,
+    "text": "to read? Plug whatever you got. Yeah, sure. You can obviously find me on LinkedIn."
+  },
+  {
+    "start": 4853.24,
+    "duration": 5.76,
+    "text": "I've started to do a little bit of writing on there with mixed emotions, but I think I have"
+  },
+  {
+    "start": 4859.0,
+    "duration": 3.84,
+    "text": "some things that I could share that could benefit other people and so I'm starting to do that."
+  },
+  {
+    "start": 4863.64,
+    "duration": 6.56,
+    "text": "And then my company Jump is jumprevenue.com. We just launched recently, so it's just a placeholder"
+  },
+  {
+    "start": 4870.2,
+    "duration": 8.16,
+    "text": "website for now. And at Primary, we'll meet early stage founders, even as they're ideating,"
+  },
+  {
+    "start": 4878.36,
+    "duration": 5.36,
+    "text": "we want to be very early and with you on your whole journey. And so people that are serving"
+  },
+  {
+    "start": 4883.72,
+    "duration": 2.8,
+    "text": "the company, I'm always happy to chat with and see if we can help in any way."
+  },
+  {
+    "start": 4887.32,
+    "duration": 8.32,
+    "text": "Tons of awesome content on the Primary site too. You guys push out some actually high value stuff,"
+  },
+  {
+    "start": 4895.64,
+    "duration": 9.84,
+    "text": "not just SEO content to try to rank. I've read a bunch of Primary content over the years,"
+  },
+  {
+    "start": 4905.48,
+    "duration": 2.64,
+    "text": "and it's legit. Thank you."
+  },
+  {
+    "start": 4909.0,
+    "duration": 4.24,
+    "text": "All right. Well, this was awesome. I really appreciate you joining and we got through a"
+  },
+  {
+    "start": 4913.24,
+    "duration": 3.36,
+    "text": "lot and there were still like four hours of podcasting we could have done on some of this"
+  },
+  {
+    "start": 4916.6,
+    "duration": 2.48,
+    "text": "stuff. So appreciate it. Yeah. Thanks so much, Kyle."
+  },
+  {
+    "start": 4919.96,
+    "duration": 8.32,
+    "text": "Thank you for listening to the Revenue Leadership Podcast. If you enjoyed it,"
+  },
+  {
+    "start": 4928.28,
+    "duration": 5.04,
+    "text": "don't forget to subscribe and you can find a link in the show notes and be sure to leave"
+  },
+  {
+    "start": 4933.32,
+    "duration": 5.04,
+    "text": "a five-star review, share it with your network and please join me next Wednesday for another"
+  },
+  {
+    "start": 4938.36,
+    "duration": 3.04,
+    "text": "great conversation."
+  }
+]
